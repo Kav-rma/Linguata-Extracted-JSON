@@ -1,0 +1,258 @@
+{
+  "title": "unit2_notes_on_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which case is used for the actor (subject) of a German sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Accusative",
+          "is_correct": false
+        },
+        {
+          "answer": "Dative",
+          "is_correct": false
+        },
+        {
+          "answer": "Nominative",
+          "is_correct": true
+        },
+        {
+          "answer": "Genitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the correct German accusative form of 'ich'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "mich",
+          "is_correct": true
+        },
+        {
+          "answer": "mir",
+          "is_correct": false
+        },
+        {
+          "answer": "ich",
+          "is_correct": false
+        },
+        {
+          "answer": "miches",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The dative form of 'sie' (singular feminine) is: ",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "sie",
+          "is_correct": false
+        },
+        {
+          "answer": "ihr",
+          "is_correct": true
+        },
+        {
+          "answer": "ihnen",
+          "is_correct": false
+        },
+        {
+          "answer": "ihrn",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In the sentence 'Ich kenne ihn', the pronoun 'ihn' is in which case?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nominative",
+          "is_correct": false
+        },
+        {
+          "answer": "Accusative",
+          "is_correct": true
+        },
+        {
+          "answer": "Dative",
+          "is_correct": false
+        },
+        {
+          "answer": "Genitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which pronoun would correctly replace 'mit ihm' (with him) in a sentence requiring the dative case?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ihn",
+          "is_correct": false
+        },
+        {
+          "answer": "er",
+          "is_correct": false
+        },
+        {
+          "answer": "ihm",
+          "is_correct": true
+        },
+        {
+          "answer": "sie",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The correct present tense form of 'kommen' for 'wir' is: ",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kommt",
+          "is_correct": false
+        },
+        {
+          "answer": "kommen",
+          "is_correct": true
+        },
+        {
+          "answer": "komme",
+          "is_correct": false
+        },
+        {
+          "answer": "kommst",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which modal verb pair is correctly matched with its first person singular form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "können – kannt",
+          "is_correct": false
+        },
+        {
+          "answer": "dürfen – darf",
+          "is_correct": true
+        },
+        {
+          "answer": "müssen – müss",
+          "is_correct": false
+        },
+        {
+          "answer": "wollen – wilt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the principle of substitution in German grammar explain?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Changing verbs to match subjects",
+          "is_correct": false
+        },
+        {
+          "answer": "Replacing pronouns only with pronouns of the same case",
+          "is_correct": true
+        },
+        {
+          "answer": "Replacing nouns with adjectives",
+          "is_correct": false
+        },
+        {
+          "answer": "Changing noun gender",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following verbs has an irregular stem in the third-person singular (er-form)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kommen – kommt",
+          "is_correct": false
+        },
+        {
+          "answer": "geben – gibt",
+          "is_correct": true
+        },
+        {
+          "answer": "arbeiten – arbeitet",
+          "is_correct": false
+        },
+        {
+          "answer": "wohnen – wohnt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The verb 'haben' in the first person singular is: ",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hat",
+          "is_correct": false
+        },
+        {
+          "answer": "haben",
+          "is_correct": false
+        },
+        {
+          "answer": "habe",
+          "is_correct": true
+        },
+        {
+          "answer": "habt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "German pronouns have different forms depending on their grammatical case. The nominative forms are used for subjects: ich (I), wir (we), er (he), es (it), sie (she/they), Sie (you). Accusative forms are used for direct objects: mich (me), uns (us), ihn (him), sie (her/them), es (it), Sie (you), wen (whom), was (what). Dative forms are used for indirect objects or after certain prepositions: mir, uns, ihm, ihr, ihnen, Ihnen, wem.\nA pronoun's form must match its function: the subject of a sentence takes the nominative, the direct object takes the accusative, and the indirect object takes the dative. For example: 'Ich kenne ihn' (I know him) uses the accusative ihn; 'Können Sie mir seine Adresse geben?' (Can you give me his address?) uses the dative mir; 'Wie geht es Ihnen?' uses the dative Ihnen.\nThe principle of substitution states that when you replace a pronoun in a sentence, the new pronoun must have the same case as the original. In 'Er kennt mich' (He knows me), you can substitute mich only with other accusative forms like uns (us), ihn (him), sie (her/them), Sie (you), wen (whom), or was (what).\nGerman verb forms in the present tense vary with the subject. Regular verbs have the endings -e for ich, -t for er/es/sie, and -en for wir/sie/Sie. For example, 'ich komme' (I come), 'er kommt' (he comes), 'wir kommen' (we come). Some verbs have irregular stems in the third-person singular, such as 'geben' (er gibt). The modal verbs 'können' (can), 'dürfen' (may), 'müssen' (must), and 'wollen' (want to) follow a pattern where the first person singular lacks an ending (ich kann, ich darf, ich muss, ich will), the third-person singular also lacks the -en ending (er kann), and the plural forms use -en.\nIrregular verbs like 'haben' (to have) and 'sein' (to be) have unique forms: ich habe, du hast, er hat, wir haben, ihr habt, sie haben; ich bin, du bist, er ist, wir sind, ihr seid, sie sind. The auxiliary verb 'möchte' is a special form meaning 'would like to'."
+    }
+  ],
+  "metadata": {
+    "page_start": 32,
+    "page_end": 35,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

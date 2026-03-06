@@ -1,0 +1,258 @@
+{
+  "title": "unit4_notes_on_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What do ein, kein and possessives like mein and ihr have in common?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "They are ein-type specifiers that change form with gender and case.",
+          "is_correct": true
+        },
+        {
+          "answer": "They are types of verbs.",
+          "is_correct": false
+        },
+        {
+          "answer": "They never change form.",
+          "is_correct": false
+        },
+        {
+          "answer": "They are always plural.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which is the correct accusative form of ein before a masculine noun?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "einen",
+          "is_correct": true
+        },
+        {
+          "answer": "ein",
+          "is_correct": false
+        },
+        {
+          "answer": "einem",
+          "is_correct": false
+        },
+        {
+          "answer": "eine",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the negative specifier kein mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "not a, not any or no",
+          "is_correct": true
+        },
+        {
+          "answer": "some",
+          "is_correct": false
+        },
+        {
+          "answer": "every",
+          "is_correct": false
+        },
+        {
+          "answer": "very",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "When can ein-type specifiers occur without a following noun?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "When the noun is understood from context, they take a special ending.",
+          "is_correct": true
+        },
+        {
+          "answer": "Never; they must always be followed by a noun.",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in the plural form.",
+          "is_correct": false
+        },
+        {
+          "answer": "Only after prepositions.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the verb phrase füllen ... aus, where does the element aus appear in a German sentence?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "At the end of the sentence.",
+          "is_correct": true
+        },
+        {
+          "answer": "Immediately before the verb.",
+          "is_correct": false
+        },
+        {
+          "answer": "At the beginning of the sentence.",
+          "is_correct": false
+        },
+        {
+          "answer": "It is omitted in writing.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the role of the word gern in German?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "It expresses enjoyment or willingness in doing something.",
+          "is_correct": true
+        },
+        {
+          "answer": "It indicates negation.",
+          "is_correct": false
+        },
+        {
+          "answer": "It is a modal verb.",
+          "is_correct": false
+        },
+        {
+          "answer": "It marks plural nouns.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does lieber modify the meaning of a sentence?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "It expresses preference for one option over another.",
+          "is_correct": true
+        },
+        {
+          "answer": "It negates the verb.",
+          "is_correct": false
+        },
+        {
+          "answer": "It acts as a conjunction.",
+          "is_correct": false
+        },
+        {
+          "answer": "It indicates future tense.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does am liebsten convey when used with a verb?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "A superlative preference or what one likes best.",
+          "is_correct": true
+        },
+        {
+          "answer": "A negative command.",
+          "is_correct": false
+        },
+        {
+          "answer": "An obligatory action.",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tense.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following shows the correct nominative, accusative and dative forms of ein before a neuter noun?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ein, ein, einem",
+          "is_correct": true
+        },
+        {
+          "answer": "ein, einen, einem",
+          "is_correct": false
+        },
+        {
+          "answer": "eine, eine, einer",
+          "is_correct": false
+        },
+        {
+          "answer": "ein, eine, einen",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the pattern chart for ein-type specifiers illustrate?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The endings of specifiers based on gender and case.",
+          "is_correct": true
+        },
+        {
+          "answer": "How to conjugate irregular verbs.",
+          "is_correct": false
+        },
+        {
+          "answer": "The order of German pronouns.",
+          "is_correct": false
+        },
+        {
+          "answer": "Modal verb usage.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The grammar notes discuss ein-type specifiers, which include the indefinite article ein and its negative form kein, as well as possessives such as mein, sein, ihr, Ihr and unser. These words change form according to the gender of the noun (masculine, neuter, feminine, plural) and the grammatical case (nominative, accusative, dative). For example, the masculine nominative form is ein, accusative is einen and dative is einem. The feminine forms are eine, eine and einer, while the neuter forms are ein, ein and einem. The negative kein follows the same pattern, and possessives such as mein and ihr adopt similar endings. The notes explain that ein occurs only in the singular and that these specifiers may appear without a noun, in which case they take special endings (e.g., eins for ein Zigarrengeschäft when the noun is understood). A pattern chart summarises the endings of ein-type specifiers and shows the correspondence of final sounds with der-type specifiers and personal pronouns. The section then addresses verb phrases and word order: in German a finite verb may be combined with an infinitive or with an accented adverb such as vor-, aus- or ab-, and the second part of the verb phrase typically comes at the end of the sentence (e.g., will ... beantragen, stellt ... vor, muss ... abheben). Finally, the notes discuss the adverbs gern, lieber and am liebsten. The word gern expresses willingness or enjoyment, while lieber expresses preference and am liebsten indicates a superlative preference. These adverbs can occur alone with an inflected verb or within the polite verb phrase with möchte(n) to express requests or choices."
+    }
+  ],
+  "metadata": {
+    "page_start": 90,
+    "page_end": 96,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

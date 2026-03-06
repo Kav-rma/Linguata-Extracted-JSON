@@ -1,0 +1,370 @@
+{
+  "title": "unit1_situations",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In the 'Finding the Way' situation, where does the American need directions to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A bank",
+          "is_correct": false
+        },
+        {
+          "answer": "A hotel",
+          "is_correct": true
+        },
+        {
+          "answer": "A restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "A train station",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the German do when the American doesn't understand?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He speaks faster",
+          "is_correct": false
+        },
+        {
+          "answer": "He repeats more slowly and asks if the American understands",
+          "is_correct": true
+        },
+        {
+          "answer": "He walks away",
+          "is_correct": false
+        },
+        {
+          "answer": "He changes the subject",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "During Question Practice, what do students ask one another?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Questions about directions",
+          "is_correct": false
+        },
+        {
+          "answer": "Questions using numbers one to twelve",
+          "is_correct": true
+        },
+        {
+          "answer": "Questions about food",
+          "is_correct": false
+        },
+        {
+          "answer": "Questions in English",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does Mr. Schneider want to buy in the cigar store besides cigarettes?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Some cigars",
+          "is_correct": false
+        },
+        {
+          "answer": "Some matches",
+          "is_correct": true
+        },
+        {
+          "answer": "A newspaper",
+          "is_correct": false
+        },
+        {
+          "answer": "A cup of coffee",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How much does Mr. Becker say the items cost at first?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One mark ten",
+          "is_correct": false
+        },
+        {
+          "answer": "Two marks",
+          "is_correct": false
+        },
+        {
+          "answer": "Mr. Schneider thinks it's one mark ten",
+          "is_correct": true
+        },
+        {
+          "answer": "Three marks",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Who is the waitress at the restaurant?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Becker",
+          "is_correct": false
+        },
+        {
+          "answer": "Miss Schneider",
+          "is_correct": true
+        },
+        {
+          "answer": "Mr. Kunze",
+          "is_correct": false
+        },
+        {
+          "answer": "Mr. Schneider",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What dish does Mr. Kunze want to order?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sausage and sauerkraut",
+          "is_correct": true
+        },
+        {
+          "answer": "Bread and milk",
+          "is_correct": false
+        },
+        {
+          "answer": "Coffee and tea",
+          "is_correct": false
+        },
+        {
+          "answer": "Beer and wine",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the German ask the American in the 'Finding the Way' situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If he needs money",
+          "is_correct": false
+        },
+        {
+          "answer": "If he understands",
+          "is_correct": true
+        },
+        {
+          "answer": "If he is hungry",
+          "is_correct": false
+        },
+        {
+          "answer": "If he wants to drink",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In the cigar store, what does Mr. Becker suggest Mr. Schneider might also like?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Some bread",
+          "is_correct": false
+        },
+        {
+          "answer": "Some cigars",
+          "is_correct": true
+        },
+        {
+          "answer": "A glass of wine",
+          "is_correct": false
+        },
+        {
+          "answer": "A hotel room",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "At the restaurant, how much does Mr. Kunze pay for his meal?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two marks",
+          "is_correct": false
+        },
+        {
+          "answer": "Three marks",
+          "is_correct": true
+        },
+        {
+          "answer": "One mark ten",
+          "is_correct": false
+        },
+        {
+          "answer": "Five marks",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "You are now ready for free conversation."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Act out the following situations, which are slight variations on the basic sentences, as freely and fluently as you can, making use of all the patterns you have learned."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Finding the Way"
+    },
+    {
+      "sequence_id": 4,
+      "text": "An American has just arrived in Germany and doesn't understand too well yet."
+    },
+    {
+      "sequence_id": 5,
+      "text": "He asks a German on the street where the hotel is."
+    },
+    {
+      "sequence_id": 6,
+      "text": "The German tells him it's over there to the left."
+    },
+    {
+      "sequence_id": 7,
+      "text": "The American doesn't understand him and asks him to say it again please."
+    },
+    {
+      "sequence_id": 8,
+      "text": "He still does not understand and asks the German to speak slowly."
+    },
+    {
+      "sequence_id": 9,
+      "text": "The latter repeats much slower and asks the American if he understands."
+    },
+    {
+      "sequence_id": 10,
+      "text": "The American says he does, thanks him and says good‑bye."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Go through this conversation again with the American asking for the embassy, cafe, airport, etc., and the German giving different directions: straight ahead, over there, to the right, etc."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Question Practice"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Each student asks the next student a question in addition (numbers one to twelve)."
+    },
+    {
+      "sequence_id": 14,
+      "text": "He answers it and asks the next student, etc."
+    },
+    {
+      "sequence_id": 15,
+      "text": "At the Cigar Store"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Mr. Becker is the proprietor of a cigar store."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Mr. Schneider stops in for some cigarettes."
+    },
+    {
+      "sequence_id": 18,
+      "text": "They exchange greetings, and Mr. Becker asks what Mr. Schneider would like."
+    },
+    {
+      "sequence_id": 19,
+      "text": "After getting him the cigarettes he asks if Mr. Schneider would like some cigars, too."
+    },
+    {
+      "sequence_id": 20,
+      "text": "He says no thanks, but he would like some matches."
+    },
+    {
+      "sequence_id": 21,
+      "text": "Figuring up his own bill he says that costs one mark ten, doesn't it, but Mr. Becker says no, it costs two marks."
+    },
+    {
+      "sequence_id": 22,
+      "text": "Mr. Schneider gives him the money, and they say good‑bye to each other."
+    },
+    {
+      "sequence_id": 23,
+      "text": "At the Restaurant"
+    },
+    {
+      "sequence_id": 24,
+      "text": "Miss Schneider is the waitress in a restaurant."
+    },
+    {
+      "sequence_id": 25,
+      "text": "Mr. Kunze greets her as he comes in and asks how she is."
+    },
+    {
+      "sequence_id": 26,
+      "text": "She returns his greeting and asks if he is well, too."
+    },
+    {
+      "sequence_id": 27,
+      "text": "He says yes, thanks, and asks if they have sausage and sauerkraut, and how the beer and the wine are, etc."
+    },
+    {
+      "sequence_id": 28,
+      "text": "Finally he says he'd like to have sausage and sauerkraut, beer and some bread."
+    },
+    {
+      "sequence_id": 29,
+      "text": "After the meal he pays her – it costs three marks – and says good‑bye."
+    }
+  ],
+  "metadata": {
+    "page_start": 18,
+    "page_end": 19,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
