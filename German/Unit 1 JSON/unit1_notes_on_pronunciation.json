@@ -4,23 +4,23 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "According to the notes, what is the best way to learn German sounds?",
+      "question": "What does the German text advise regarding German written symbols?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "By reading the spelling carefully",
+          "answer": "Expect them to represent the same sound values as English",
           "is_correct": false
         },
         {
-          "answer": "By listening to and imitating the instructor",
+          "answer": "Expect them to represent different sound values than English",
           "is_correct": true
         },
         {
-          "answer": "By guessing based on English sounds",
+          "answer": "Ignore them entirely",
           "is_correct": false
         },
         {
-          "answer": "By using a dictionary",
+          "answer": "Memorize only the consonants",
           "is_correct": false
         }
       ],
@@ -28,39 +28,11 @@
     },
     {
       "sequence_id": 2,
-      "question": "What should you NOT expect German written symbols to represent?",
+      "question": "Which German vowels are noted as not occurring in English?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Sound values familiar in English",
-          "is_correct": true
-        },
-        {
-          "answer": "Standard German writing style",
-          "is_correct": false
-        },
-        {
-          "answer": "Vowels and consonants",
-          "is_correct": false
-        },
-        {
-          "answer": "Pronunciation guides",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 3,
-      "question": "Which German vowels do not occur in English and require rounding the lips?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "o and u",
-          "is_correct": false
-        },
-        {
-          "answer": "a and e",
+          "answer": "ä and ö",
           "is_correct": false
         },
         {
@@ -68,7 +40,35 @@
           "is_correct": true
         },
         {
-          "answer": "i and e",
+          "answer": "e and i",
+          "is_correct": false
+        },
+        {
+          "answer": "a and u",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In producing the German sound 'ö', what tongue position is recommended?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Position for German e with unrounded lips",
+          "is_correct": false
+        },
+        {
+          "answer": "Position for German e with rounded lips",
+          "is_correct": true
+        },
+        {
+          "answer": "Position for German i with unrounded lips",
+          "is_correct": false
+        },
+        {
+          "answer": "Position for German i with rounded lips",
           "is_correct": false
         }
       ],
@@ -76,23 +76,23 @@
     },
     {
       "sequence_id": 4,
-      "question": "How do German long vowel sounds differ from English long vowel sounds?",
+      "question": "What distinguishes German long vowels from English vowel sounds?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "German vowels change during pronunciation",
+          "answer": "They change during pronunciation",
           "is_correct": false
         },
         {
-          "answer": "German vowels are tense and stable",
+          "answer": "They are tense and stable throughout",
           "is_correct": true
         },
         {
-          "answer": "English vowels are stable and tense",
+          "answer": "They are always shorter",
           "is_correct": false
         },
         {
-          "answer": "English vowels are shorter",
+          "answer": "They do not exist",
           "is_correct": false
         }
       ],
@@ -100,20 +100,116 @@
     },
     {
       "sequence_id": 5,
-      "question": "What characteristic often indicates a short vowel in German spelling?",
+      "question": "According to the notes, what is the best guide to the pronunciation of a German word?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "It is followed by two or more consonants",
+          "answer": "The spelling of the word",
+          "is_correct": false
+        },
+        {
+          "answer": "A dictionary entry",
+          "is_correct": false
+        },
+        {
+          "answer": "The native instructor's pronunciation",
           "is_correct": true
         },
         {
-          "answer": "It is written with two vowel letters",
+          "answer": "Guesswork based on English",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which combination always designates a long vowel in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ie",
+          "is_correct": true
+        },
+        {
+          "answer": "ch",
           "is_correct": false
         },
         {
-          "answer": "It is at the end of a word",
+          "answer": "ng",
           "is_correct": false
+        },
+        {
+          "answer": "tz",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What are German diphthongs compared to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English consonant clusters",
+          "is_correct": false
+        },
+        {
+          "answer": "Certain vowel combinations in English",
+          "is_correct": true
+        },
+        {
+          "answer": "French nasal vowels",
+          "is_correct": false
+        },
+        {
+          "answer": "Spanish rolling r",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the text say about the long ü sound?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is formed like a long e",
+          "is_correct": false
+        },
+        {
+          "answer": "It is formed by rounding the lips while pronouncing German long i",
+          "is_correct": true
+        },
+        {
+          "answer": "It is identical to English 'u'",
+          "is_correct": false
+        },
+        {
+          "answer": "It doesn't occur in German",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How can one generally identify a short vowel in written German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is followed by one consonant",
+          "is_correct": false
+        },
+        {
+          "answer": "It is written with double letters",
+          "is_correct": false
+        },
+        {
+          "answer": "It is followed by two or more consonants and written with a single letter",
+          "is_correct": true
         },
         {
           "answer": "It is always accented",
@@ -123,120 +219,24 @@
       "has_answer": true
     },
     {
-      "sequence_id": 6,
-      "question": "Which of the following letter combinations always designates a long vowel in German?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "ie",
-          "is_correct": true
-        },
-        {
-          "answer": "nt",
-          "is_correct": false
-        },
-        {
-          "answer": "st",
-          "is_correct": false
-        },
-        {
-          "answer": "kh",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 7,
-      "question": "What is recommended to focus on during pronunciation practice?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "The meaning of the words",
-          "is_correct": false
-        },
-        {
-          "answer": "Imitating your instructor's sounds",
-          "is_correct": true
-        },
-        {
-          "answer": "English equivalents",
-          "is_correct": false
-        },
-        {
-          "answer": "Writing the words correctly",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 8,
-      "question": "Which of the following is a key reason English speakers struggle with German vowels?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "German vowels are identical to English vowels",
-          "is_correct": false
-        },
-        {
-          "answer": "German vowels require precise tongue and lip positions",
-          "is_correct": true
-        },
-        {
-          "answer": "English vowels are always long",
-          "is_correct": false
-        },
-        {
-          "answer": "German vowels use extra letters",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 9,
-      "question": "Why might written German not clearly indicate vowel length?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Because the spelling system does not consistently mark it",
-          "is_correct": true
-        },
-        {
-          "answer": "Because all vowels are long",
-          "is_correct": false
-        },
-        {
-          "answer": "Because vowel length isn't important",
-          "is_correct": false
-        },
-        {
-          "answer": "Because long vowels are followed by two consonants",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
       "sequence_id": 10,
-      "question": "What are diphthongs described as in the notes?",
+      "question": "Why should students concentrate on sounds rather than meaning during pronunciation practices?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Combinations of two vowel sounds similar to some English combinations",
+          "answer": "Because meaning is unimportant",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the words are irrelevant",
+          "is_correct": false
+        },
+        {
+          "answer": "To focus on reproducing the correct sounds",
           "is_correct": true
         },
         {
-          "answer": "Pairs of consonants before vowels",
-          "is_correct": false
-        },
-        {
-          "answer": "Single vowel sounds pronounced twice",
-          "is_correct": false
-        },
-        {
-          "answer": "Unpronounceable letter pairs",
+          "answer": "To memorize vocabulary faster",
           "is_correct": false
         }
       ],
@@ -246,12 +246,12 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "The spelling of a language only symbolizes to the native speaker the sounds which he already knows. You will learn these sounds directly from your instructor; the spelling will serve as an aid to listening. No spelling system adequately represents the sounds of the spoken language, and no attempt will be made at this point to outline exactly what sounds are represented by what symbols of the German spelling system. We will however present for particular drill and attention in each unit certain sounds which have shown themselves to be difficult for speakers of American English. In the meantime we ask you to remember two cardinal points: 1. The German of your text is printed in the standard German written style. 2. The letter‑symbols used, although in most cases the same symbols we use in written English, in most cases do not represent exactly the same sounds we use in English. Therefore, do not expect German written symbols to represent sound values you know in English.\n\nThe German short vowels i, e, a and u are not dissimilar from English sounds. The o, however, is probably different from any sound that you have in English. Do not try to replace it by a sound from English, but rather reproduce the pronunciation of your instructor. The German front rounded vowels ö and ü do not occur in English. To produce the ö, put your tongue in the position for the German e and round your lips; for ü, put your tongue in the position for the German i and round your lips. You will then produce a sound similar to the German sound. Experiment until your instructor is satisfied with your pronunciation. Do not worry about the meaning of the words in these practices. Concentrate instead on the sounds.\n\nThere are no sounds in English exactly like the German long vowels. If you pronounce English gate and then ask your instructor to pronounce German geht, you will notice that the English vowel sound seems to change during its pronunciation, but the German sound seems tense and stable throughout its duration. Your tongue actually moves during the production of the English vowel sound, but during the production of the German sound the tongue remains in the same position. The long ö and ü are formed approximately like short ö and ü. Pronounce German long e and round your lips to form ö, and pronounce German long i and round your lips to form ü.\n\nIt is not always possible to distinguish long and short vowels in written German, as the German spelling system does not consistently mark them as such. Your best guide to the pronunciation of any given word is the way your native instructor pronounces it. However, a few hints can be given which will help you to recognize them most of the time. Short vowels in most cases are followed by two or more consonants and are always written with a single letter symbol. Long vowels are not always written with a single letter symbol and usually are followed by only one consonant. The following combinations of letters always designate long vowels: ie, ih, eh, ee, ah, aa, oh, oo, uh, öh, üh.\n\nThese combinations of two vowel sounds in German are very similar, though not identical to certain vowel combinations in English.\""
+      "text": "The spelling of a language only symbolizes to the native speaker the sounds which he already knows. You will learn these sounds directly from your instructor; the spelling will serve as an aid to listening. No spelling system adequately represents the sounds of the spoken language, and no attempt will be made at this point to outline exactly what sounds are represented by what symbols of the German spelling system. We will however present for particular drill and attention in each unit certain sounds which have shown themselves to be difficult for speakers of American English. In the meantime we ask you to remember two cardinal points: 1. The German of your text is printed in the standard German written style. 2. The letter-symbols used, although in most cases the same symbols we use in written English, in most cases do not represent exactly the same sounds we use in English. Therefore, DO NOT EXPECT GERMAN WRITTEN SYMBOLS TO REPRESENT SOUND VALUES YOU KNOW IN ENGLISH.\nA. Short Vowels\nThe German short vowels i,e,a and u are not dissimilar from English sounds. The o, however, is probably different from any sound that you have in English. Do not try to replace it by a sound from English, but rather reproduce the pronunciation of your instructor. The German front rounded vowels ö and ü do not occur in English. To produce the ö, put your tongue in the position for the German e and round your lips; for ü, put your tongue in the position for the German i and round your lips. You will then produce a sound similar to the German sound. Experiment until your instructor is satisfied with your pronunciation. Do not worry about the meaning of the words in these practices. Concentrate instead on the sounds.\nPractice 1(a): Short i, Short e, Short a, Short o, Short u: bitte, denn, das, kostet, muss, ist, essen, Mann, Sonne, Mutter, in, etwas, an, Doktor, und. Short ö, Short ü, -e (unstressed): können, Mütter, bitte, genug, möchte, fünf, danke, gesehen, öfter, Hütte, Sonne, bekommen. Practice 1(b): mit - Mütter; kennen - können; missen - müssen; stecke - Stöcke.\nB. Long Vowels\nThere are no sounds in English exactly like the German long vowels. If you will pronounce English gate and then ask your instructor to pronounce German geht, you will notice that the English vowel sound seems to change during its pronunciation, but the German sound seems tense and stable throughout its duration. Your tongue actually moves during the production of the English vowel sound, but during the production of the German sound the tongue remains in the same position. The long ö and ü are formed approximately like short ö and ü. Pronounce German long e and round your lips to form ö, and pronounce German long i and round your lips to form ü.\nPractice 2(a): Long i, e, a, o, u, ö, ü: wie, geht, Tag, Sohn, gut, König, für, ihnen, Tee, Abend, oder, du, schön, Tür, viel, den, Bahn, wo, Flug, öde, über. Practice 2(b): vier - für; lesen - lösen; Tier - Tür; Sehne - Söhne.\nC. Distinguishing Long and Short Vowels\nIt is not always possible to distinguish long and short vowels in written German, as the German spelling system does not consistently mark them as such. Your best guide to the pronunciation of any given word is the way your native instructor pronounces it. However, a few hints can be given which will help you to recognize them most of the time. If you look back at the practice lists above you will see that the short vowels in most cases are followed by two or more consonants and they are always written with a single letter symbol. Then note that the long vowels are not always written with a single letter symbol and usually are followed by only one consonant. The following combinations of letters always designate long vowels: ie, ih - eh, ee - ah, aa - oh, oo - uh - öh - üh.\nD. Diphthongs\nThese combinations of two vowel sounds in German are very similar, though not identical to certain vowel combinations in English. Practice 3: ei, au, eu (äu): nein, auch, deutsch, eins, Tau, neun, Wein, Laut, läute."
     }
   ],
   "metadata": {
-    "page_start": 6,
-    "page_end": 7,
+    "page_start": 11,
+    "page_end": 12,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

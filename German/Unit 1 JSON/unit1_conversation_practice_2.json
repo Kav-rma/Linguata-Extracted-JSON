@@ -1,0 +1,230 @@
+{
+  "title": "unit1_conversation_practice_2",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What greeting does Speaker S use with Herr Becker?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Guten Abend",
+          "is_correct": false
+        },
+        {
+          "answer": "Guten Tag",
+          "is_correct": true
+        },
+        {
+          "answer": "Guten Morgen",
+          "is_correct": false
+        },
+        {
+          "answer": "Hallo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does Herr Kunze respond when asked how he is?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He says he is not well.",
+          "is_correct": false
+        },
+        {
+          "answer": "He says he is fine and thanks the speaker.",
+          "is_correct": true
+        },
+        {
+          "answer": "He doesn't answer.",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks another question instead of answering.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does Speaker S inquire about regarding the beverages?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "How the wine tastes.",
+          "is_correct": false
+        },
+        {
+          "answer": "How the beer is.",
+          "is_correct": true
+        },
+        {
+          "answer": "Whether there is coffee.",
+          "is_correct": false
+        },
+        {
+          "answer": "What juice is available.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does Herr Kunze say about the beer and wine?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The beer is good but the wine is not.",
+          "is_correct": false
+        },
+        {
+          "answer": "Both the beer and the wine are very good.",
+          "is_correct": true
+        },
+        {
+          "answer": "He doesn't know.",
+          "is_correct": false
+        },
+        {
+          "answer": "The wine is good but the beer is not.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "How much does the beer cost according to Herr Kunze?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "One Mark",
+          "is_correct": false
+        },
+        {
+          "answer": "One Mark ten",
+          "is_correct": true
+        },
+        {
+          "answer": "Two Marks",
+          "is_correct": false
+        },
+        {
+          "answer": "Fifty Pfennig",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Speaker S offer after asking about the price of beer?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He offers to buy cigarettes.",
+          "is_correct": false
+        },
+        {
+          "answer": "He offers some food.",
+          "is_correct": true
+        },
+        {
+          "answer": "He offers to buy wine.",
+          "is_correct": false
+        },
+        {
+          "answer": "He offers to leave.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does Herr Kunze respond to the offer of food?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He gladly accepts.",
+          "is_correct": false
+        },
+        {
+          "answer": "He declines politely.",
+          "is_correct": true
+        },
+        {
+          "answer": "He ignores the offer.",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks for dessert instead.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "S: Guten Tag, Herr Becker."
+    },
+    {
+      "sequence_id": 2,
+      "text": "K: Guten Tag, Herr Kunze."
+    },
+    {
+      "sequence_id": 3,
+      "text": "K: Wie geht es Ihnen?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "S: Danke, gut."
+    },
+    {
+      "sequence_id": 5,
+      "text": "S: Und Ihnen?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "K: Auch gut, danke."
+    },
+    {
+      "sequence_id": 7,
+      "text": "S: Wie ist das Bier hier?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "K: Es ist sehr gut und der Wein ist auch gut."
+    },
+    {
+      "sequence_id": 9,
+      "text": "S: Wieviel kostet das Bier?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "K: Es kostet eine Mark zehn."
+    },
+    {
+      "sequence_id": 11,
+      "text": "S: Möchten Sie auch etwas essen?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "K: Nein, danke."
+    }
+  ],
+  "metadata": {
+    "page_start": 43,
+    "page_end": 44,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

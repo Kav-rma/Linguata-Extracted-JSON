@@ -4,7 +4,7 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "How many distinct words for 'the' does German use?",
+      "question": "How many words for 'the' does German have?",
       "type": "multiple_choice",
       "answers": [
         {
@@ -28,23 +28,23 @@
     },
     {
       "sequence_id": 2,
-      "question": "Which endings always make a noun a das‑noun?",
+      "question": "What are the three classes of German nouns referred to as?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "‑ung",
+          "answer": "er-nouns, es-nouns, sie-nouns",
           "is_correct": false
         },
         {
-          "answer": "‑lein and ‑chen",
+          "answer": "masculine, feminine, neuter",
+          "is_correct": false
+        },
+        {
+          "answer": "der-nouns, das-nouns, die-nouns",
           "is_correct": true
         },
         {
-          "answer": "‑er",
-          "is_correct": false
-        },
-        {
-          "answer": "‑heit",
+          "answer": "noun types A, B, C",
           "is_correct": false
         }
       ],
@@ -52,23 +52,23 @@
     },
     {
       "sequence_id": 3,
-      "question": "Why is the term 'gender' misleading when talking about German nouns?",
+      "question": "Why does the text avoid using the terms masculine, feminine, and neuter?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Because German has only neuter nouns",
+          "answer": "They are outdated terms",
           "is_correct": false
         },
         {
-          "answer": "Because noun class is not based on biological sex",
+          "answer": "They suggest sex differentiation",
           "is_correct": true
         },
         {
-          "answer": "Because German pronouns don't exist",
+          "answer": "They are too technical",
           "is_correct": false
         },
         {
-          "answer": "Because all nouns have the same article",
+          "answer": "They are only used in English",
           "is_correct": false
         }
       ],
@@ -76,23 +76,23 @@
     },
     {
       "sequence_id": 4,
-      "question": "What is the best way to learn a noun's grammatical class?",
+      "question": "What should students memorize along with the noun?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "By guessing based on meaning",
+          "answer": "The plural form",
           "is_correct": false
         },
         {
-          "answer": "By memorizing the noun with its article",
+          "answer": "The article 'the' that goes with the noun",
           "is_correct": true
         },
         {
-          "answer": "By using the English pronoun",
+          "answer": "The translation",
           "is_correct": false
         },
         {
-          "answer": "By always choosing die",
+          "answer": "The declension pattern",
           "is_correct": false
         }
       ],
@@ -100,23 +100,23 @@
     },
     {
       "sequence_id": 5,
-      "question": "Which pronoun corresponds to the article das?",
+      "question": "Which suffix endings indicate a noun is always a die-noun?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "er",
-          "is_correct": false
-        },
-        {
-          "answer": "es",
+          "answer": "-ung",
           "is_correct": true
         },
         {
-          "answer": "sie",
+          "answer": "-lein",
           "is_correct": false
         },
         {
-          "answer": "der",
+          "answer": "-chen",
+          "is_correct": false
+        },
+        {
+          "answer": "-heit",
           "is_correct": false
         }
       ],
@@ -124,23 +124,23 @@
     },
     {
       "sequence_id": 6,
-      "question": "How does pronoun choice in German differ from English?",
+      "question": "In the plural, how many words for 'the' are there in German?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "It is based on the grammatical class of the noun",
+          "answer": "One",
           "is_correct": true
         },
         {
-          "answer": "It is based on the sex of the referent",
+          "answer": "Two",
           "is_correct": false
         },
         {
-          "answer": "It does not exist in German",
+          "answer": "Three",
           "is_correct": false
         },
         {
-          "answer": "It follows English patterns",
+          "answer": "None",
           "is_correct": false
         }
       ],
@@ -148,23 +148,23 @@
     },
     {
       "sequence_id": 7,
-      "question": "Which article do all plural nouns take in German?",
+      "question": "Which German pronouns correspond to the three noun classes?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "der",
-          "is_correct": false
-        },
-        {
-          "answer": "das",
-          "is_correct": false
-        },
-        {
-          "answer": "die",
+          "answer": "er, sie, es",
           "is_correct": true
         },
         {
-          "answer": "den",
+          "answer": "er, ihr, es",
+          "is_correct": false
+        },
+        {
+          "answer": "du, Sie, ihr",
+          "is_correct": false
+        },
+        {
+          "answer": "der, das, die",
           "is_correct": false
         }
       ],
@@ -172,23 +172,23 @@
     },
     {
       "sequence_id": 8,
-      "question": "What English words correspond to the pointing word das?",
+      "question": "What does the pointing-word 'das' correspond to in English?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "This, that, these and those",
+          "answer": "this, that, these, those",
           "is_correct": true
         },
         {
-          "answer": "He and she",
+          "answer": "he, she, it",
           "is_correct": false
         },
         {
-          "answer": "A and an",
+          "answer": "a, an, the",
           "is_correct": false
         },
         {
-          "answer": "My and your",
+          "answer": "who, which, that",
           "is_correct": false
         }
       ],
@@ -196,31 +196,7 @@
     },
     {
       "sequence_id": 9,
-      "question": "Which example illustrates the use of the pointing word das?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Das ist der Bahnhof, nicht wahr?",
-          "is_correct": true
-        },
-        {
-          "answer": "Der Wein ist gut",
-          "is_correct": false
-        },
-        {
-          "answer": "Die Milch ist frisch",
-          "is_correct": false
-        },
-        {
-          "answer": "Es ist dort",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 10,
-      "question": "In the plural, which pronoun is used for all nouns?",
+      "question": "When referring to human beings, which pronoun would be used for 'das Fräulein'?",
       "type": "multiple_choice",
       "answers": [
         {
@@ -236,7 +212,31 @@
           "is_correct": false
         },
         {
-          "answer": "wir",
+          "answer": "das",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the only solution to mastering German noun classification according to the text?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Memorize rules for guessing",
+          "is_correct": false
+        },
+        {
+          "answer": "Use the nouns until you know them as well as familiar names",
+          "is_correct": true
+        },
+        {
+          "answer": "Ignore gender",
+          "is_correct": false
+        },
+        {
+          "answer": "Always guess the gender",
           "is_correct": false
         }
       ],
@@ -246,12 +246,12 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "The German noun‑classification system divides nouns into three classes, each associated with a different word for 'the': der, das and die. For example, der Wein (the wine), das Bier (the beer) and die Milch (the milk). These classes are sometimes referred to as der‑nouns, das‑nouns and die‑nouns. This system is often called 'gender', but this terminology can mislead English speakers into thinking it has something to do with biological sex. In reality, there is no logical way to predict a noun's class based on meaning; learners must memorize the article along with the noun.\n\nDerivative nouns are more predictable. Nouns ending in ‑ung are always die‑nouns, like die Verzeihung ('the forgiveness') and die Verzeihung ('the pardon'). Nouns ending in the diminutive suffixes ‑lein and ‑chen are always das‑nouns, such as das Fräulein ('the miss, waitress') and das Mädchen ('the little girl'). However, for the basic stock of German nouns there is no reliable system for guessing the class: one simply learns the noun with its article.\n\nEach noun class has a corresponding pronoun: der corresponds to er, das corresponds to es, and die corresponds to sie. These pronouns do not align with the English he‑she‑it system. In English, pronoun choice depends on the sex of the referent (he for male, she for female, it for inanimate), whereas in German, pronoun choice depends on the grammatical class of the noun being replaced. For human beings, however, er and sie align with 'he' and 'she' since most nouns referring to men are der‑nouns and nouns referring to women are die‑nouns.\n\nThere is no class distinction in the plural. In the plural, all nouns take the article die and the pronoun sie. For example: Wo sind die Bahnhöfe? (Where are the stations?) – Sie sind hier (They are here); Wo sind die Hotels? – Sie sind hier; Wo sind die Frauen? – Sie sind hier.\n\nThe pointing word das is used to call attention to any object or group of objects without regard to noun class or number. It corresponds to 'this', 'that', 'these' or 'those' in English and is entirely distinct from the article das found in phrases like das Hotel. For example: Das ist der Bahnhof, nicht wahr? – Ja, das ist er (This is the station, isn't it? – Yes, that's it). Ist das die Milch? – Das ist Wasser (Is that the milk? – That is water). Sind das die Streichhölzer? – Das sind die Zigarren (Are these the matches? – These are the cigars)."
+      "text": "A. The German Noun-Classification ('Gender') System.\nI. The three classes of nouns.\nDer Wein ist nicht gut. The wine isn't good. Das Bier ist gut. The beer is good. Die Milch ist auch gut. The milk is good too.\n1. German has three words for 'the': der, das and die; and German nouns can be divided into three classes according to which of the three words for 'the' they go with. Wein goes only with der, never with das, never with die. Bier goes only with das, and so on.\n2. We will refer to these three classes of nouns, for obvious reasons, as der-nouns, das-nouns and die-nouns. Wein is a der-noun; Hotel is a das-noun.\n3. The traditional statement about this phenomenon is: 'German nouns have three genders—masculine, feminine, and neuter.' We will not use this terminology because it tends to mislead English-speaking students by suggesting that the German noun classification has something to do with sex differentiation. It doesn't.\n4. Insofar as the basic stock of German nouns is concerned (nouns like house, grass, sky, wine, beer, milk), there is absolutely no sense or rationale to the classification system; there is no way at all of anticipating which class any given noun belongs to. You must simply learn the word for 'the' as a part of the noun: the German word for 'wine' is der Wein. And you must practice saying der Wein often enough so that das Wein or die Wein sounds as wrong to you as 'The father of his country — Henry Washington.'\n5. Now, Henry Washington is a perfectly good name; but it's wrong, and every American knows it's wrong. By the same token, das Wein is a perfectly good form; but it's wrong, and every German knows it's wrong.\n6. With derivative nouns (that is, nouns made from other words, like our happiness, brotherhood) your problem is easier. The classification of German derivative nouns is fairly orderly and consistent. Nouns ending in -ung, for example, are always die-nouns: die Verzeihung 'the forgiveness, the pardon.' And nouns ending with the diminutive suffixes -lein and -chen are always das-nouns: das Fräulein 'the miss, waitress,' das Mädchen 'the little girl.' We will deal with the formation of the various kinds of derivative nouns as we go along through the units.\n7. But if the classification of derivative nouns is orderly and consistent, the classification of the basic stock of German nouns remains virtually chaotic. There really is no system at all for guessing which class a noun belongs to; it's not something you can reason out or get the knack of. It is not the same as our he-she-it system, as we'll see in a minute. There is absolutely nothing in English like it. Your only solution is to use the nouns until you know them as well as you know 'George Washington.'\nII. Pronouns Corresponding to the Three Classes of Nouns.\nWo ist der Bahnhof? Er ist dort. Where is the station? It's there. Wo ist das Hotel? Es ist dort. Where is the hotel? It's there. Wo ist die Botschaft? Sie ist dort. Where is the embassy? It's there. As these examples show, there is a special pronoun for each of the three classes of nouns. Notice the correspondence in the final sounds of the pairs der-er, das-es, and die-sie. This is no coincidence.\nIII. Contrast between German and English Pronoun Usage.\nWo ist der Bahnhof? Er ist dort. Where is the station? It's there. Wo ist der Mann? Er ist dort. Where's the man? He's here. Wo ist das Hotel? Es ist dort. Where is the hotel? It's there. Wo ist das Kind? Es ist dort. Where is the child? He's here. She's here. Wo ist die Botschaft? Sie ist dort. Where is the embassy? It's there. Wo ist die Frau? Sie ist dort. Where's the woman? She's here. These examples show that the German pronouns er, sie, and es do not match up with the English pronouns 'he', 'she', and 'it'. The English he-she-it system has an entirely different foundation from the German noun-classification ('gender') system. In the English system, the choice of pronoun depends upon the sex (male, female, or sexless) of some non-linguistic entity—a man ('he'), a woman ('she'), or a table ('it'). In the German system, on the other hand, the choice of pronoun depends upon the linguistic classification of the noun you are replacing, except in reference to human beings.\nIV. Pronouns Referring to People.\nWo ist das Fräulein? Where is the waitress? Sie ist dort. She's there. Since all German nouns referring to men are der-nouns and virtually all German nouns referring to women are die-nouns, er and sie correspond to 'he' and 'she' when they refer to human beings. Consequently, one says sie when referring to das Fräulein, who is, after all, die junge Dame 'the young lady', die Tochter 'the daughter', die Schwester 'the sister', and so on, as well as das Fräulein.\nV. No classification in the Plural.\nWo sind die Bahnhöfe? Sie sind hier. Where are the stations? They're here. Wo sind die Hotels? Sie sind hier. Where are the hotels? They're here. Wo sind die Frauen? Sie sind hier. Where are the women? They're here. As these examples show, the three-fold classification we've been discussing applies only to nouns in the singular. In the plural, there is only one word for 'the', and only one pronoun.\nB. The pointing-word das.\nDas ist der Bahnhof, nicht wahr? This is the station, isn't it? Ja, das ist er. Yes, that's it. Ist das die Milch? Is that the milk? Das ist Wasser. This is water. Sind das die Streichhölzer? Are these the matches? Das sind die Zigarren. Those are the cigars.\nI. The pointing-word das (often accompanied by a pointing gesture) is used to call any object or group of objects to the hearer's attention, without any reference to noun classification or to the number of objects.\nII. The pointing-word das is an entirely different entity from the das of das Hotel. The English equivalents of the pointing-word das are 'this', 'that', 'these', and 'those'."
     }
   ],
   "metadata": {
-    "page_start": 7,
-    "page_end": 9,
+    "page_start": 13,
+    "page_end": 15,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

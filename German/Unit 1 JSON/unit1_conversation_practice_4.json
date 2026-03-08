@@ -1,0 +1,218 @@
+{
+  "title": "unit1_conversation_practice_4",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does Speaker E initially ask about?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Where the cafe is.",
+          "is_correct": false
+        },
+        {
+          "answer": "Where the restaurant is.",
+          "is_correct": true
+        },
+        {
+          "answer": "Where the embassy is.",
+          "is_correct": false
+        },
+        {
+          "answer": "Where the bank is.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where does Speaker F say the restaurant is located?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Straight ahead.",
+          "is_correct": false
+        },
+        {
+          "answer": "On the right.",
+          "is_correct": true
+        },
+        {
+          "answer": "On the left.",
+          "is_correct": false
+        },
+        {
+          "answer": "Behind the embassy.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "What mistake does Speaker E make when pointing out a building?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He thinks the bank is the embassy.",
+          "is_correct": false
+        },
+        {
+          "answer": "He thinks the station is the restaurant.",
+          "is_correct": false
+        },
+        {
+          "answer": "He thinks the station is the airport.",
+          "is_correct": true
+        },
+        {
+          "answer": "He thinks the embassy is the bank.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "How does Speaker F correct the misunderstanding about the airport?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "By saying the airport is on the right.",
+          "is_correct": false
+        },
+        {
+          "answer": "By saying the building is not the airport but the station and the airport is to the left.",
+          "is_correct": true
+        },
+        {
+          "answer": "By saying he doesn't know.",
+          "is_correct": false
+        },
+        {
+          "answer": "By indicating the bank instead.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does Speaker E request when he doesn't understand?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He asks the speaker to repeat slowly.",
+          "is_correct": true
+        },
+        {
+          "answer": "He asks for directions to the bank.",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks to call the police.",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks to sit down.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Speaker F ask after repeating the directions slowly?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He asks if Speaker E wants coffee.",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks whether Speaker E understands him.",
+          "is_correct": true
+        },
+        {
+          "answer": "He asks where the bank is.",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks for payment.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does the conversation conclude?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Speaker E says he doesn't understand and walks away.",
+          "is_correct": false
+        },
+        {
+          "answer": "Speaker E says he understands, thanks and says goodbye.",
+          "is_correct": true
+        },
+        {
+          "answer": "They decide to have lunch together.",
+          "is_correct": false
+        },
+        {
+          "answer": "Speaker F leaves without responding.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "E: Verzeihung, wo ist das Restaurant?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "F: Das Restaurant ist dort, rechts."
+    },
+    {
+      "sequence_id": 3,
+      "text": "E: Ist das der Flughafen dort drüben?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "F: Nein, das ist nicht der Flughafen, das ist der Bahnhof."
+    },
+    {
+      "sequence_id": 5,
+      "text": "F: Der Flughafen ist dort, links."
+    },
+    {
+      "sequence_id": 6,
+      "text": "E: Wie bitte? Ich verstehe Sie nicht. Sprechen Sie bitte langsam."
+    },
+    {
+      "sequence_id": 7,
+      "text": "F: Das ist nicht der Flughafen, das ist der Bahnhof. Der Flughafen ist dort, links."
+    },
+    {
+      "sequence_id": 8,
+      "text": "F: Verstehen Sie mich?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "E: Ja, ich verstehe Sie. Auf Wiedersehen."
+    }
+  ],
+  "metadata": {
+    "page_start": 45,
+    "page_end": 46,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

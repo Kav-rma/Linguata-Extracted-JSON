@@ -1,0 +1,170 @@
+{
+  "title": "unit1_conversation_practice_3",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does Speaker C wish to buy initially?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Cigarettes",
+          "is_correct": false
+        },
+        {
+          "answer": "Ten cigars",
+          "is_correct": true
+        },
+        {
+          "answer": "Five cigars",
+          "is_correct": false
+        },
+        {
+          "answer": "Matches",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does Speaker D respond when asked for cigars?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He refuses.",
+          "is_correct": false
+        },
+        {
+          "answer": "He says 'Bitte' (Here you are).",
+          "is_correct": true
+        },
+        {
+          "answer": "He asks for payment first.",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks how many cigars are wanted.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "Does Speaker C want cigarettes as well?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Yes, he does.",
+          "is_correct": false
+        },
+        {
+          "answer": "No, he doesn't.",
+          "is_correct": true
+        },
+        {
+          "answer": "He changes his mind later.",
+          "is_correct": false
+        },
+        {
+          "answer": "He says maybe later.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "What additional item does Speaker C request after declining cigarettes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Cigars",
+          "is_correct": false
+        },
+        {
+          "answer": "Matches",
+          "is_correct": true
+        },
+        {
+          "answer": "Beer",
+          "is_correct": false
+        },
+        {
+          "answer": "Wine",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "How much do the cigars cost according to Speaker D?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Five Marks seven",
+          "is_correct": true
+        },
+        {
+          "answer": "Five Marks",
+          "is_correct": false
+        },
+        {
+          "answer": "Seven Marks",
+          "is_correct": false
+        },
+        {
+          "answer": "Ten Marks",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "C: Guten Morgen."
+    },
+    {
+      "sequence_id": 2,
+      "text": "C: Ich möchte gern zehn Zigarren haben."
+    },
+    {
+      "sequence_id": 3,
+      "text": "D: Bitte."
+    },
+    {
+      "sequence_id": 4,
+      "text": "D: Möchten Sie auch Zigaretten haben?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "C: Nein, danke."
+    },
+    {
+      "sequence_id": 6,
+      "text": "C: Aber ich möchte Streichhölzer haben."
+    },
+    {
+      "sequence_id": 7,
+      "text": "D: Hier bitte."
+    },
+    {
+      "sequence_id": 8,
+      "text": "C: Wieviel kosten die Zigarren?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "D: Sie kosten fünf Mark sieben."
+    }
+  ],
+  "metadata": {
+    "page_start": 44,
+    "page_end": 45,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

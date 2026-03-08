@@ -4,6 +4,18 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
+      "question_text": "Ich verstehe Sie.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I understand you.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
       "question_text": "Ich verstehe Sie gut.",
       "has_answer": true,
       "type": "short_answer",
@@ -15,7 +27,7 @@
       ]
     },
     {
-      "sequence_id": 2,
+      "sequence_id": 3,
       "question_text": "Ich verstehe Sie sehr gut.",
       "has_answer": true,
       "type": "short_answer",
@@ -27,7 +39,7 @@
       ]
     },
     {
-      "sequence_id": 3,
+      "sequence_id": 4,
       "question_text": "Ich verstehe Sie auch gut.",
       "has_answer": true,
       "type": "short_answer",
@@ -39,7 +51,7 @@
       ]
     },
     {
-      "sequence_id": 4,
+      "sequence_id": 5,
       "question_text": "Ich verstehe Sie nicht.",
       "has_answer": true,
       "type": "short_answer",
@@ -51,7 +63,7 @@
       ]
     },
     {
-      "sequence_id": 5,
+      "sequence_id": 6,
       "question_text": "Ich verstehe Sie auch nicht.",
       "has_answer": true,
       "type": "short_answer",
@@ -63,7 +75,19 @@
       ]
     },
     {
-      "sequence_id": 6,
+      "sequence_id": 7,
+      "question_text": "Verstehen Sie mich?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Do you understand me?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
       "question_text": "Verstehen Sie mich gut?",
       "has_answer": true,
       "type": "short_answer",
@@ -75,7 +99,7 @@
       ]
     },
     {
-      "sequence_id": 7,
+      "sequence_id": 9,
       "question_text": "Verstehen Sie mich auch gut?",
       "has_answer": true,
       "type": "short_answer",
@@ -87,7 +111,7 @@
       ]
     },
     {
-      "sequence_id": 8,
+      "sequence_id": 10,
       "question_text": "Verstehen Sie mich nicht?",
       "has_answer": true,
       "type": "short_answer",
@@ -99,7 +123,7 @@
       ]
     },
     {
-      "sequence_id": 9,
+      "sequence_id": 11,
       "question_text": "Verstehen Sie mich auch nicht?",
       "has_answer": true,
       "type": "short_answer",
@@ -111,7 +135,7 @@
       ]
     },
     {
-      "sequence_id": 10,
+      "sequence_id": 12,
       "question_text": "Verstehen Sie mich auch nicht gut?",
       "has_answer": true,
       "type": "short_answer",
@@ -123,787 +147,7 @@
       ]
     },
     {
-      "sequence_id": 11,
-      "question_text": "Da ist der Flughafen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "There is the airport.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 12,
-      "question_text": "Ist das der Flughafen?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Is that the airport?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
       "sequence_id": 13,
-      "question_text": "Ja, das ist der Flughafen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Yes, that's the airport.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 14,
-      "question_text": "Nein, das ist nicht der Flughafen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "No, that's not the airport.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 15,
-      "question_text": "Ist der Flughafen da drüben?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Is the airport over there?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 16,
-      "question_text": "Ja, er ist da drüben.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Yes, it's over there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 17,
-      "question_text": "Nein, er ist nicht da drüben.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "No, it's not over there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 18,
-      "question_text": "Wo sind die Streichhölzer?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where are the matches?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 19,
-      "question_text": "Wo sind sie?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where are they?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 20,
-      "question_text": "Da sind die Streichhölzer.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "There are the matches.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 21,
-      "question_text": "Da sind sie.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "There they are.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 22,
-      "question_text": "Sind die Streichhölzer da drüben?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Are the matches over there?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 23,
-      "question_text": "Ja, die Streichhölzer sind da drüben.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Yes, the matches are over there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 24,
-      "question_text": "Sie sind da drüben.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "They're over there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 25,
-      "question_text": "Wie ist die Milch?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "How is the milk?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 26,
-      "question_text": "Sie ist gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 27,
-      "question_text": "Sie ist sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 28,
-      "question_text": "Das Wasser ist auch gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The water is good too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 29,
-      "question_text": "Es ist auch sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's very good too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 30,
-      "question_text": "Wie ist das Bier?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "How is the beer?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 31,
-      "question_text": "Es ist gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 32,
-      "question_text": "Es ist sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 33,
-      "question_text": "Die Zigarren sind auch gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The cigars are good too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 34,
-      "question_text": "Sie sind auch sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "They're very good too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 35,
-      "question_text": "Wie ist der Tee?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "How is the tea?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 36,
-      "question_text": "Er ist nicht gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's not good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 37,
-      "question_text": "Er ist sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 38,
-      "question_text": "Die Milch ist auch nicht gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The milk isn't good either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 39,
-      "question_text": "Sie ist auch nicht sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's not very good either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 40,
-      "question_text": "Wie sind die Streichhölzer?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "How are the matches?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 41,
-      "question_text": "Sie sind nicht gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "They're not good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 42,
-      "question_text": "Sie sind nicht sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "They're not very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 43,
-      "question_text": "Der Wein ist auch nicht gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The wine is not good either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 44,
-      "question_text": "Er ist auch nicht sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It's not very good either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 45,
-      "question_text": "Das kostet viel.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "That costs a lot.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 46,
-      "question_text": "Wieviel kostet das?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "How much does that cost?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 47,
-      "question_text": "Kostet das viel?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Does that cost much?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 48,
-      "question_text": "Das kostet nicht viel.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "That doesn't cost much.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 49,
-      "question_text": "Das kostet auch nicht viel.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "That doesn't cost much either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 50,
-      "question_text": "Das kostet drei Mark.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "That costs three marks.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 51,
-      "question_text": "Das kostet auch drei Mark.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "That costs three marks, too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 52,
-      "question_text": "Das Bier ist gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The beer is good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 53,
-      "question_text": "Der Wein ist nicht gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The wine is not good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 54,
-      "question_text": "Der Kaffee ist auch gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The coffee is good, too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 55,
-      "question_text": "Das Restaurant ist sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The restaurant is very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 56,
-      "question_text": "Ist der Tee gut?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Is the tea good?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 57,
-      "question_text": "Nein, der Tee ist nicht sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "No, the tea isn't very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 58,
-      "question_text": "Ist das Café gut?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Is the cafe good?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 59,
-      "question_text": "Die Streichhölzer sind nicht sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The matches are not very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 60,
-      "question_text": "Das Bier und der Wein sind gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The beer and the wine are good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 61,
-      "question_text": "Die Zigarren sind auch gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The cigars are good, too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 62,
-      "question_text": "Sind der Kaffee und der Tee gut?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Are the coffee and the tea good?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 63,
-      "question_text": "Ja, sie sind sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Yes, they are very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 64,
-      "question_text": "Wo ist das Café?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where is the cafe?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 65,
-      "question_text": "Es ist dort links.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It is there to the left.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 66,
-      "question_text": "Wo ist das Restaurant?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where is the restaurant?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 67,
-      "question_text": "Es ist auch dort.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It is there, too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 68,
-      "question_text": "Wo ist die Bank?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where is the bank?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 69,
-      "question_text": "Sie ist dort geradeaus.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It is there straight ahead.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 70,
-      "question_text": "Wo ist Herr Schneider?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where is Mr. Schneider?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 71,
-      "question_text": "Er ist hier.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He is here.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 72,
-      "question_text": "Wo ist Frau Schneider?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where is Mrs. Schneider?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 73,
-      "question_text": "Sie ist auch hier.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "She is here, too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 74,
-      "question_text": "Wo ist der Bahnhof?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Where is the station?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 75,
-      "question_text": "Er ist da drüben, rechts.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It is over there, to the right.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 76,
       "question_text": "Wo ist der Flughafen?",
       "has_answer": true,
       "type": "short_answer",
@@ -915,43 +159,175 @@
       ]
     },
     {
-      "sequence_id": 77,
-      "question_text": "Er ist dort rechts.",
+      "sequence_id": 14,
+      "question_text": "Da ist der Flughafen.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "It is there to the right.",
+          "answer_text": "There is the airport.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 78,
-      "question_text": "Wie ist der Kaffee?",
+      "sequence_id": 15,
+      "question_text": "Ist das der Flughafen?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "How is the coffee?",
+          "answer_text": "Is that the airport?",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 79,
-      "question_text": "Er ist gut.",
+      "sequence_id": 16,
+      "question_text": "Ja, das ist der Flughafen.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "It is good.",
+          "answer_text": "Yes, that's the airport.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 80,
+      "sequence_id": 17,
+      "question_text": "Nein, das ist nicht der Flughafen.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, that's not the airport.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Ist der Flughafen da drüben?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Is the airport over there?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Ja, er ist da drüben.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes, it's over there.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Nein, er ist nicht da drüben.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, it's not over there.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Wo sind die Streichhölzer?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where are the matches?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Wo sind sie?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where are they?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Da sind die Streichhölzer.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "There are the matches.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Da sind sie.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "There they are.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Sind die Streichhölzer da drüben?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Are the matches over there?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Ja, die Streichhölzer sind da drüben.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes, the matches are over there.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Sie sind da drüben.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They're over there.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
       "question_text": "Wie ist die Milch?",
       "has_answer": true,
       "type": "short_answer",
@@ -963,67 +339,55 @@
       ]
     },
     {
-      "sequence_id": 81,
+      "sequence_id": 29,
+      "question_text": "Sie ist gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
       "question_text": "Sie ist sehr gut.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "It is very good.",
+          "answer_text": "It's very good.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 82,
-      "question_text": "Wie ist das Wasser?",
+      "sequence_id": 31,
+      "question_text": "Das Wasser ist auch gut.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "How is the water?",
+          "answer_text": "The water is also good.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 83,
-      "question_text": "Es ist auch gut.",
+      "sequence_id": 32,
+      "question_text": "Es ist auch sehr gut.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "It is also good.",
+          "answer_text": "It is also very good.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 84,
-      "question_text": "Wie ist das Hotel?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "How is the hotel?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 85,
-      "question_text": "Es ist nicht sehr gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "It is not very good.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 86,
+      "sequence_id": 33,
       "question_text": "Wie ist das Bier?",
       "has_answer": true,
       "type": "short_answer",
@@ -1035,19 +399,55 @@
       ]
     },
     {
-      "sequence_id": 87,
-      "question_text": "Es ist hier sehr gut.",
+      "sequence_id": 34,
+      "question_text": "Es ist gut.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "It is very good here.",
+          "answer_text": "It is good.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 88,
+      "sequence_id": 35,
+      "question_text": "Es ist sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It is very good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Die Zigarren sind auch gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The cigars are also good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Sie sind auch sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They are also very good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
       "question_text": "Wie ist der Tee?",
       "has_answer": true,
       "type": "short_answer",
@@ -1059,7 +459,7 @@
       ]
     },
     {
-      "sequence_id": 89,
+      "sequence_id": 39,
       "question_text": "Er ist nicht gut.",
       "has_answer": true,
       "type": "short_answer",
@@ -1071,43 +471,511 @@
       ]
     },
     {
-      "sequence_id": 90,
-      "question_text": "Wie ist der Wein?",
+      "sequence_id": 40,
+      "question_text": "Er ist sehr gut.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "How is the wine?",
+          "answer_text": "It is very good.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 91,
-      "question_text": "Er ist auch sehr gut.",
+      "sequence_id": 41,
+      "question_text": "Die Milch ist auch nicht gut.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "It is also very good.",
+          "answer_text": "The milk isn't good either.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 92,
+      "sequence_id": 42,
+      "question_text": "Sie ist auch nicht sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's not very good either.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Wie sind die Streichhölzer?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How are the matches?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "Sie sind nicht gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They're not good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "Sie sind nicht sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They're not very good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "Der Wein ist auch nicht gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The wine is not good either.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Er ist auch nicht sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It is not very good either.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "Das kostet viel.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That costs a lot.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "Wieviel kostet das?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How much does that cost?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "Kostet das viel?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Does that cost much?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "Das kostet nicht viel.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That doesn't cost much.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Das kostet auch nicht viel.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That doesn't cost much either.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "Das kostet drei Mark.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That costs three marks.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "Das kostet auch drei Mark.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That costs three marks, too.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "Das Bier ist gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The beer is good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "Der Wein ist nicht gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The wine is not good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "Der Kaffee ist auch gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The coffee is also good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "Das Restaurant ist sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The restaurant is very good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "Ist der Tee gut?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Is the tea good?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "Nein, der Tee ist nicht sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, the tea isn't very good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "Ist das Café gut?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Is the cafe good?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "Die Streichhölzer sind nicht sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The matches are not very good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 63,
+      "question_text": "Das Bier und der Wein sind gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The beer and the wine are good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 64,
+      "question_text": "Die Zigarren sind auch gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The cigars are also good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 65,
+      "question_text": "Sind der Kaffee und der Tee gut?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Are the coffee and the tea good?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 66,
+      "question_text": "Ja, sie sind sehr gut.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes, they are very good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 67,
+      "question_text": "Wo ist der Flughafen?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where is the airport?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 68,
+      "question_text": "Er ist dort rechts.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's there to the right.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 69,
+      "question_text": "Wo ist das Café?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where is the cafe?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 70,
+      "question_text": "Es ist dort links.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's there to the left.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 71,
+      "question_text": "Wo ist das Restaurant?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where is the restaurant?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 72,
+      "question_text": "Es ist auch dort.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's there, too.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 73,
+      "question_text": "Wo ist die Bank?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where is the bank?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 74,
+      "question_text": "Sie ist dort geradeaus.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's there straight ahead.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 75,
+      "question_text": "Wo ist Herr Schneider?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where is Mr. Schneider?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 76,
+      "question_text": "Er ist hier.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "He is here.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 77,
+      "question_text": "Wo ist Frau Schneider?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where is Mrs. Schneider?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 78,
+      "question_text": "Sie ist auch hier.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "She's here, too.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 79,
+      "question_text": "Wo ist der Bahnhof?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where is the station?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 80,
+      "question_text": "Er ist da drüben, rechts.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's over there, to the right.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 81,
       "question_text": "Ich möchte gern Zigaretten haben.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "I'd like to have some cigarettes.",
+          "answer_text": "I'd like to have some cigarettes, please.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 93,
+      "sequence_id": 82,
       "question_text": "Möchten Sie auch Zigarren haben?",
       "has_answer": true,
       "type": "short_answer",
@@ -1119,7 +987,7 @@
       ]
     },
     {
-      "sequence_id": 94,
+      "sequence_id": 83,
       "question_text": "Ich möchte gern Streichhölzer haben.",
       "has_answer": true,
       "type": "short_answer",
@@ -1131,7 +999,7 @@
       ]
     },
     {
-      "sequence_id": 95,
+      "sequence_id": 84,
       "question_text": "Möchten Sie etwas Brot haben?",
       "has_answer": true,
       "type": "short_answer",
@@ -1143,7 +1011,7 @@
       ]
     },
     {
-      "sequence_id": 96,
+      "sequence_id": 85,
       "question_text": "Ich möchte gern Milch haben.",
       "has_answer": true,
       "type": "short_answer",
@@ -1155,7 +1023,7 @@
       ]
     },
     {
-      "sequence_id": 97,
+      "sequence_id": 86,
       "question_text": "Ich möchte gern Bratwurst mit Sauerkraut haben.",
       "has_answer": true,
       "type": "short_answer",
@@ -1167,8 +1035,8 @@
       ]
     },
     {
-      "sequence_id": 98,
-      "question_text": "Ich möchte gerne essen.",
+      "sequence_id": 87,
+      "question_text": "Ich möchte gern essen.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -1179,7 +1047,7 @@
       ]
     },
     {
-      "sequence_id": 99,
+      "sequence_id": 88,
       "question_text": "Was möchten Sie essen?",
       "has_answer": true,
       "type": "short_answer",
@@ -1191,31 +1059,31 @@
       ]
     },
     {
-      "sequence_id": 100,
+      "sequence_id": 89,
       "question_text": "Ich möchte Bratwurst mit Sauerkraut essen.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "I'd like to eat some sausage and sauerkraut.",
+          "answer_text": "I'd like to eat sausage with sauerkraut.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 101,
+      "sequence_id": 90,
       "question_text": "Möchten Sie auch Brot essen?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Would you also like to eat some bread?",
+          "answer_text": "Would you also like to eat bread?",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 102,
+      "sequence_id": 91,
       "question_text": "Ja, ich möchte gern etwas Brot essen.",
       "has_answer": true,
       "type": "short_answer",
@@ -1227,19 +1095,19 @@
       ]
     },
     {
-      "sequence_id": 103,
+      "sequence_id": 92,
       "question_text": "Das ist der Bahnhof.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "That's the station.",
+          "answer_text": "That is the railroad station.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 104,
+      "sequence_id": 93,
       "question_text": "Ist das die Botschaft?",
       "has_answer": true,
       "type": "short_answer",
@@ -1251,19 +1119,19 @@
       ]
     },
     {
-      "sequence_id": 105,
+      "sequence_id": 94,
       "question_text": "Nein, das ist nicht die Botschaft.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "No, that's not the embassy.",
+          "answer_text": "No, that is not the embassy.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 106,
+      "sequence_id": 95,
       "question_text": "Das ist das Hotel.",
       "has_answer": true,
       "type": "short_answer",
@@ -1275,7 +1143,7 @@
       ]
     },
     {
-      "sequence_id": 107,
+      "sequence_id": 96,
       "question_text": "Ist das Herr Kunze?",
       "has_answer": true,
       "type": "short_answer",
@@ -1287,19 +1155,19 @@
       ]
     },
     {
-      "sequence_id": 108,
+      "sequence_id": 97,
       "question_text": "Nein, das ist nicht Herr Kunze.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "No, that's not Mr. Kunze.",
+          "answer_text": "No, that is not Mr. Kunze.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 109,
+      "sequence_id": 98,
       "question_text": "Das ist Herr Schneider.",
       "has_answer": true,
       "type": "short_answer",
@@ -1311,7 +1179,7 @@
       ]
     },
     {
-      "sequence_id": 110,
+      "sequence_id": 99,
       "question_text": "Hier ist das Hotel.",
       "has_answer": true,
       "type": "short_answer",
@@ -1323,7 +1191,7 @@
       ]
     },
     {
-      "sequence_id": 111,
+      "sequence_id": 100,
       "question_text": "Dort ist das Restaurant.",
       "has_answer": true,
       "type": "short_answer",
@@ -1335,7 +1203,7 @@
       ]
     },
     {
-      "sequence_id": 112,
+      "sequence_id": 101,
       "question_text": "Da drüben ist der Flughafen.",
       "has_answer": true,
       "type": "short_answer",
@@ -1347,7 +1215,7 @@
       ]
     },
     {
-      "sequence_id": 113,
+      "sequence_id": 102,
       "question_text": "Dort rechts ist die Botschaft.",
       "has_answer": true,
       "type": "short_answer",
@@ -1359,7 +1227,7 @@
       ]
     },
     {
-      "sequence_id": 114,
+      "sequence_id": 103,
       "question_text": "Hier links ist der Bahnhof.",
       "has_answer": true,
       "type": "short_answer",
@@ -1371,19 +1239,19 @@
       ]
     },
     {
-      "sequence_id": 115,
+      "sequence_id": 104,
       "question_text": "Da drüben, rechts, ist das Cafe.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Over there, to the right is the cafe.",
+          "answer_text": "Over there, to the right, is the cafe.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 116,
+      "sequence_id": 105,
       "question_text": "Die Zigarren kosten fünf Mark.",
       "has_answer": true,
       "type": "short_answer",
@@ -1395,7 +1263,7 @@
       ]
     },
     {
-      "sequence_id": 117,
+      "sequence_id": 106,
       "question_text": "Das Bier kostet eine Mark.",
       "has_answer": true,
       "type": "short_answer",
@@ -1407,7 +1275,7 @@
       ]
     },
     {
-      "sequence_id": 118,
+      "sequence_id": 107,
       "question_text": "Der Wein kostet zwei Mark zehn.",
       "has_answer": true,
       "type": "short_answer",
@@ -1419,7 +1287,7 @@
       ]
     },
     {
-      "sequence_id": 119,
+      "sequence_id": 108,
       "question_text": "Die Streichhölzer kosten zehn Pfennig.",
       "has_answer": true,
       "type": "short_answer",
@@ -1431,7 +1299,7 @@
       ]
     },
     {
-      "sequence_id": 120,
+      "sequence_id": 109,
       "question_text": "Der Kaffee kostet drei Mark acht.",
       "has_answer": true,
       "type": "short_answer",
@@ -1443,7 +1311,7 @@
       ]
     },
     {
-      "sequence_id": 121,
+      "sequence_id": 110,
       "question_text": "Der Tee kostet zwei Mark vier.",
       "has_answer": true,
       "type": "short_answer",
@@ -1455,7 +1323,7 @@
       ]
     },
     {
-      "sequence_id": 122,
+      "sequence_id": 111,
       "question_text": "Die Milch kostet zwölf Pfennig.",
       "has_answer": true,
       "type": "short_answer",
@@ -1467,7 +1335,7 @@
       ]
     },
     {
-      "sequence_id": 123,
+      "sequence_id": 112,
       "question_text": "Bratwurst mit Sauerkraut kostet zwei Mark fünf.",
       "has_answer": true,
       "type": "short_answer",
@@ -1479,7 +1347,7 @@
       ]
     },
     {
-      "sequence_id": 124,
+      "sequence_id": 113,
       "question_text": "Drei und vier ist sieben.",
       "has_answer": true,
       "type": "short_answer",
@@ -1491,7 +1359,7 @@
       ]
     },
     {
-      "sequence_id": 125,
+      "sequence_id": 114,
       "question_text": "Fünf und drei ist acht.",
       "has_answer": true,
       "type": "short_answer",
@@ -1503,7 +1371,7 @@
       ]
     },
     {
-      "sequence_id": 126,
+      "sequence_id": 115,
       "question_text": "Wieviel ist zwei und sechs?",
       "has_answer": true,
       "type": "short_answer",
@@ -1515,7 +1383,7 @@
       ]
     },
     {
-      "sequence_id": 127,
+      "sequence_id": 116,
       "question_text": "Sieben und fünf ist zwölf.",
       "has_answer": true,
       "type": "short_answer",
@@ -1527,7 +1395,7 @@
       ]
     },
     {
-      "sequence_id": 128,
+      "sequence_id": 117,
       "question_text": "Drei und drei ist sechs.",
       "has_answer": true,
       "type": "short_answer",
@@ -1539,7 +1407,7 @@
       ]
     },
     {
-      "sequence_id": 129,
+      "sequence_id": 118,
       "question_text": "Wieviel ist sieben und vier?",
       "has_answer": true,
       "type": "short_answer",
@@ -1551,7 +1419,7 @@
       ]
     },
     {
-      "sequence_id": 130,
+      "sequence_id": 119,
       "question_text": "Ist neun und eins elf?",
       "has_answer": true,
       "type": "short_answer",
@@ -1563,7 +1431,7 @@
       ]
     },
     {
-      "sequence_id": 131,
+      "sequence_id": 120,
       "question_text": "Nein, neun und eins ist zehn.",
       "has_answer": true,
       "type": "short_answer",
@@ -1578,7 +1446,7 @@
   "articles": [],
   "metadata": {
     "page_start": 13,
-    "page_end": 15,
+    "page_end": 16,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }

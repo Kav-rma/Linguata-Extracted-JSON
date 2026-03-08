@@ -1,0 +1,194 @@
+{
+  "title": "unit1_conversation_practice_1",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does the first speaker ask about the embassy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "In Munich",
+          "is_correct": false
+        },
+        {
+          "answer": "In Bonn",
+          "is_correct": true
+        },
+        {
+          "answer": "In Berlin",
+          "is_correct": false
+        },
+        {
+          "answer": "In Hamburg",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does the second speaker respond when the first asks where the embassy is?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "It's to the left.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's straight ahead.",
+          "is_correct": true
+        },
+        {
+          "answer": "It's behind you.",
+          "is_correct": false
+        },
+        {
+          "answer": "He doesn't know.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the first speaker say after not understanding?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Wie bitte?",
+          "is_correct": true
+        },
+        {
+          "answer": "Danke schön.",
+          "is_correct": false
+        },
+        {
+          "answer": "Guten Morgen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Auf Wiedersehen.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "When the second speaker asks 'Verstehen Sie mich?', what does the first speaker reply?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Nein, ich verstehe nicht.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ja, danke.",
+          "is_correct": true
+        },
+        {
+          "answer": "Bitte schön.",
+          "is_correct": false
+        },
+        {
+          "answer": "Danke schön.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Where does the second speaker say the airport is?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Straight ahead.",
+          "is_correct": false
+        },
+        {
+          "answer": "To the left.",
+          "is_correct": true
+        },
+        {
+          "answer": "To the right.",
+          "is_correct": false
+        },
+        {
+          "answer": "Behind the bank.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "How does the conversation end?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "With a request for help.",
+          "is_correct": false
+        },
+        {
+          "answer": "With the first speaker thanking the second.",
+          "is_correct": true
+        },
+        {
+          "answer": "With an argument.",
+          "is_correct": false
+        },
+        {
+          "answer": "With a goodbye.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "A: Wo ist die Botschaft hier in Bonn?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "B: Die Botschaft ist dort, geradeaus."
+    },
+    {
+      "sequence_id": 3,
+      "text": "A: Wie bitte?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "B: Sie ist dort, geradeaus."
+    },
+    {
+      "sequence_id": 5,
+      "text": "B: Verstehen Sie mich?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "A: Ja, danke."
+    },
+    {
+      "sequence_id": 7,
+      "text": "A: Und wo ist der Flughafen?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "B: Der Flughafen ist da links."
+    },
+    {
+      "sequence_id": 9,
+      "text": "A: Danke schön."
+    }
+  ],
+  "metadata": {
+    "page_start": 42,
+    "page_end": 43,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
