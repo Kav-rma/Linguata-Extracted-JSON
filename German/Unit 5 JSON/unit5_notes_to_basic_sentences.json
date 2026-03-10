@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit5_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does the German phrase 'im ersten Stock' literally mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "On the first floor",
+            "is_correct": true
+          },
+          {
+            "answer": "On the second floor",
+            "is_correct": false
+          },
+          {
+            "answer": "On the ground floor",
+            "is_correct": false
+          },
+          {
+            "answer": "In the basement",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "In Germany, which floor is equivalent to the American second floor?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ground floor",
+            "is_correct": false
+          },
+          {
+            "answer": "First floor",
+            "is_correct": true
+          },
+          {
+            "answer": "Third floor",
+            "is_correct": false
+          },
+          {
+            "answer": "Fourth floor",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "According to the notes, the second floor in Germany corresponds to what floor in the United States?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "First floor",
+            "is_correct": false
+          },
+          {
+            "answer": "Second floor",
+            "is_correct": false
+          },
+          {
+            "answer": "Third floor",
+            "is_correct": true
+          },
+          {
+            "answer": "Fourth floor",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What is the normal written form of the German verb meaning 'to come in'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "reinkommen",
+            "is_correct": false
+          },
+          {
+            "answer": "hereinkommen",
+            "is_correct": true
+          },
+          {
+            "answer": "kommen",
+            "is_correct": false
+          },
+          {
+            "answer": "herein",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What happens to the first syllable of 'hereinkommen' in rapid speech?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It is elongated",
+            "is_correct": false
+          },
+          {
+            "answer": "It is stressed",
+            "is_correct": false
+          },
+          {
+            "answer": "It is elided",
+            "is_correct": true
+          },
+          {
+            "answer": "It is repeated",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which of the following forms might you hear instead of 'hereinkommen' in fast speech?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "hinkommen",
+            "is_correct": false
+          },
+          {
+            "answer": "reinkommen",
+            "is_correct": true
+          },
+          {
+            "answer": "wegkommen",
+            "is_correct": false
+          },
+          {
+            "answer": "ankommen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does the apostrophe in 'er kommt 'rein' signify?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The verb is spelled out",
+            "is_correct": false
+          },
+          {
+            "answer": "A syllable has been omitted",
+            "is_correct": true
+          },
+          {
+            "answer": "The word is in past tense",
+            "is_correct": false
+          },
+          {
+            "answer": "The pronunciation is stressed",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "In many European countries including Germany, floors are numbered beginning after which level?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The basement",
+            "is_correct": false
+          },
+          {
+            "answer": "The roof",
+            "is_correct": false
+          },
+          {
+            "answer": "The ground floor",
+            "is_correct": true
+          },
+          {
+            "answer": "The penthouse",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "If you are asked to meet on the 'second floor' in Germany, which level is this in the United States?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ground level",
+            "is_correct": false
+          },
+          {
+            "answer": "First floor",
+            "is_correct": false
+          },
+          {
+            "answer": "Third floor",
+            "is_correct": true
+          },
+          {
+            "answer": "Fourth floor",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Why might you hear two different pronunciations of 'hereinkommen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Due to dialect differences",
+            "is_correct": false
+          },
+          {
+            "answer": "Because speakers sometimes drop the first syllable",
+            "is_correct": true
+          },
+          {
+            "answer": "Because it is slang",
+            "is_correct": false
+          },
+          {
+            "answer": "Because of gender differences",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "im ersten Stock means literally 'on the first floor'; in der zweiten Etage means literally 'on the second floor'. In Germany as in many European countries the floors are numbered after the ground floor. The first floor is thus the first floor above the ground and is equivalent to our second floor. The second floor in Germany is equivalent to our third floor, and so on.\n\nhereinkommen is the normal written form. Most speakers in rapid speech elide the first syllable and actually say 'reinkommen, or er kommt 'rein. You will hear the word pronounced both ways."
+      }
+    ],
+    "metadata": {
+      "page_start": 109,
+      "page_end": 114,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

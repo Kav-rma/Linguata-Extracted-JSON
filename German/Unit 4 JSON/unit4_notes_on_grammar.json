@@ -1,258 +1,284 @@
-{
-  "title": "unit4_notes_on_grammar",
-  "type": "grammar",
-  "questions_and_answers": [
-    {
-      "sequence_id": 1,
-      "question": "What do ein, kein and possessives like mein and ihr have in common?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "They are ein-type specifiers that change form with gender and case.",
-          "is_correct": true
-        },
-        {
-          "answer": "They are types of verbs.",
-          "is_correct": false
-        },
-        {
-          "answer": "They never change form.",
-          "is_correct": false
-        },
-        {
-          "answer": "They are always plural.",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 2,
-      "question": "Which is the correct accusative form of ein before a masculine noun?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "einen",
-          "is_correct": true
-        },
-        {
-          "answer": "ein",
-          "is_correct": false
-        },
-        {
-          "answer": "einem",
-          "is_correct": false
-        },
-        {
-          "answer": "eine",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 3,
-      "question": "What does the negative specifier kein mean?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "not a, not any or no",
-          "is_correct": true
-        },
-        {
-          "answer": "some",
-          "is_correct": false
-        },
-        {
-          "answer": "every",
-          "is_correct": false
-        },
-        {
-          "answer": "very",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 4,
-      "question": "When can ein-type specifiers occur without a following noun?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "When the noun is understood from context, they take a special ending.",
-          "is_correct": true
-        },
-        {
-          "answer": "Never; they must always be followed by a noun.",
-          "is_correct": false
-        },
-        {
-          "answer": "Only in the plural form.",
-          "is_correct": false
-        },
-        {
-          "answer": "Only after prepositions.",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 5,
-      "question": "In the verb phrase füllen ... aus, where does the element aus appear in a German sentence?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "At the end of the sentence.",
-          "is_correct": true
-        },
-        {
-          "answer": "Immediately before the verb.",
-          "is_correct": false
-        },
-        {
-          "answer": "At the beginning of the sentence.",
-          "is_correct": false
-        },
-        {
-          "answer": "It is omitted in writing.",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question": "What is the role of the word gern in German?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "It expresses enjoyment or willingness in doing something.",
-          "is_correct": true
-        },
-        {
-          "answer": "It indicates negation.",
-          "is_correct": false
-        },
-        {
-          "answer": "It is a modal verb.",
-          "is_correct": false
-        },
-        {
-          "answer": "It marks plural nouns.",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 7,
-      "question": "How does lieber modify the meaning of a sentence?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "It expresses preference for one option over another.",
-          "is_correct": true
-        },
-        {
-          "answer": "It negates the verb.",
-          "is_correct": false
-        },
-        {
-          "answer": "It acts as a conjunction.",
-          "is_correct": false
-        },
-        {
-          "answer": "It indicates future tense.",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 8,
-      "question": "What does am liebsten convey when used with a verb?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "A superlative preference or what one likes best.",
-          "is_correct": true
-        },
-        {
-          "answer": "A negative command.",
-          "is_correct": false
-        },
-        {
-          "answer": "An obligatory action.",
-          "is_correct": false
-        },
-        {
-          "answer": "Past tense.",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 9,
-      "question": "Which of the following shows the correct nominative, accusative and dative forms of ein before a neuter noun?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "ein, ein, einem",
-          "is_correct": true
-        },
-        {
-          "answer": "ein, einen, einem",
-          "is_correct": false
-        },
-        {
-          "answer": "eine, eine, einer",
-          "is_correct": false
-        },
-        {
-          "answer": "ein, eine, einen",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "sequence_id": 10,
-      "question": "What does the pattern chart for ein-type specifiers illustrate?",
-      "type": "multiple_choice",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer": "The endings of specifiers based on gender and case.",
-          "is_correct": true
-        },
-        {
-          "answer": "How to conjugate irregular verbs.",
-          "is_correct": false
-        },
-        {
-          "answer": "The order of German pronouns.",
-          "is_correct": false
-        },
-        {
-          "answer": "Modal verb usage.",
-          "is_correct": false
-        }
-      ]
+[
+  {
+    "title": "unit4_notes_on_grammar",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does the German word 'ein' typically mean when used without stress?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It means 'a' or 'an'.",
+            "is_correct": true
+          },
+          {
+            "answer": "It means 'one'.",
+            "is_correct": false
+          },
+          {
+            "answer": "It means 'not any'.",
+            "is_correct": false
+          },
+          {
+            "answer": "It means 'the'.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which form of 'mein' is used for masculine nouns in the accusative case?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "meinen",
+            "is_correct": true
+          },
+          {
+            "answer": "mein",
+            "is_correct": false
+          },
+          {
+            "answer": "meiner",
+            "is_correct": false
+          },
+          {
+            "answer": "meinem",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "In German, which specifier is used to express 'no' or 'not any'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "kein",
+            "is_correct": true
+          },
+          {
+            "answer": "ein",
+            "is_correct": false
+          },
+          {
+            "answer": "sein",
+            "is_correct": false
+          },
+          {
+            "answer": "unser",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Where does the accented adverb appear in German verb phrases like 'stellt ... vor'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At the end of the sentence.",
+            "is_correct": true
+          },
+          {
+            "answer": "Immediately before the finite verb.",
+            "is_correct": false
+          },
+          {
+            "answer": "At the beginning of the sentence.",
+            "is_correct": false
+          },
+          {
+            "answer": "After the infinitive form.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does the word 'gern' signify when used by itself?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Polite and willing acquiescence.",
+            "is_correct": true
+          },
+          {
+            "answer": "A strong refusal.",
+            "is_correct": false
+          },
+          {
+            "answer": "A negation of a verb.",
+            "is_correct": false
+          },
+          {
+            "answer": "A possessive form.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which of the following expresses a preference using 'lieber'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ich trinke lieber Würzburger als Pilsner.",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich habe keinen Ausweis.",
+            "is_correct": false
+          },
+          {
+            "answer": "Füllen Sie nur ein Formular aus.",
+            "is_correct": false
+          },
+          {
+            "answer": "Er trinkt gern Bier.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does the phrase 'Ich möchte ein Visum haben' mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "I want to get a visa.",
+            "is_correct": true
+          },
+          {
+            "answer": "I don't have a visa.",
+            "is_correct": false
+          },
+          {
+            "answer": "I am getting a visa.",
+            "is_correct": false
+          },
+          {
+            "answer": "I would like to go to the cinema.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which pronoun-like word can stand alone to mean 'mine' in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "meins",
+            "is_correct": true
+          },
+          {
+            "answer": "eins",
+            "is_correct": false
+          },
+          {
+            "answer": "keins",
+            "is_correct": false
+          },
+          {
+            "answer": "deins",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of the following is NOT a nominative form of 'unser'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "unser",
+            "is_correct": false
+          },
+          {
+            "answer": "unsere",
+            "is_correct": false
+          },
+          {
+            "answer": "unseres",
+            "is_correct": false
+          },
+          {
+            "answer": "unseren",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "How is 'kein' negated in German sentences like 'Ich habe keinen Ausweis'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It negates the noun directly.",
+            "is_correct": true
+          },
+          {
+            "answer": "It negates the verb.",
+            "is_correct": false
+          },
+          {
+            "answer": "It negates both noun and verb.",
+            "is_correct": false
+          },
+          {
+            "answer": "It adds 'nicht' before the noun.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 11,
+        "question": "In German verb phrases, which order represents a finite verb followed by an accented adverb and an infinitive?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "muss ... abheben",
+            "is_correct": true
+          },
+          {
+            "answer": "stellt ... vor",
+            "is_correct": false
+          },
+          {
+            "answer": "will ... beantragen",
+            "is_correct": false
+          },
+          {
+            "answer": "möchte ... haben",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Notes on Grammar\n(For Home Study)\nA.\n\n1. Forms\n\nWith der-nouns\nHier ist mein Pass.\nIch habe meinen Tabak hier.\nIch fahre mit meinem Wagen.\nWith das-nouns\nDas ist mein Hotel.\nHaben Sie mein Gepäck?\nEr wohnt in meinem Hotel.\nWith die-nouns\nMeine Heimatstadt ist Berlin.\nSie kennt meine Frau.\nSie kommen aus meiner Heimatstadt.\nWith plural nouns\nMeine Eltern kommen aus New York.\nIch habe meine Zigaretten hier.\nEr wohnt in der Nähe von meinen Eltern.\nHere's my passport.\nI have my tobacco here.\nI'm going in my car.\nThat's my hotel.\nDo you have my luggage?\nHe lives at my hotel.\nMy home town is Berlin.\nShe knows my wife.\nThey come from my home town.\nMy parents come from New York.\nI have my cigarettes here.\nHe lives near my parents.\n\n2. By abstracting the underscored forms of the word from the German sentences above we can set up the following table:\n\nbefore der-nouns     before das-nouns     before die-nouns     before plural nouns\nNOMINATIVE forms    mein                mein               meine             meine\nACCUSATIVE forms    meinen              mein               meine             meine\nDATIVE forms        meinem              meinem             meiner            meinen (-n)\n\n3. The ein-type specifiers include the words ein, kein, mein, sein, ihr, Ihr, unser. Remember that ein occurs only in the singular, but all other ein-type specifiers have a complete set of forms.\n\nWith der-nouns     With das-nouns     With die-nouns     With plural nouns\nNominative         ein               ein               eine             --\nAccusative         einen             ein               eine             --\nDative             einem             einem             einer            --\n\nNominative         kein              kein              keine            keine\nAccusative         keinen            kein              keine            keine\nDative             keinem            keinem            keiner           keinen\n\nNominative         sein              sein              seine            seine\nAccusative         seinen            sein              seine            seine\nDative             seinem            seinem            seiner           seinen (-n)\n\nNominative         ihr               ihr               ihre             ihre\nAccusative         ihren             ihr               ihre             ihre\nDative             ihrem             ihrem             ihrer            ihren (-n)\n\nNominative         unser             unser             unsere           unsere\nAccusative         unseren           unser             unsere           unsere\nDative             unserem           unserem           unserer          unseren (-n)\n\n4. Compare the underlined forms in the following pairs of sentences:\nIch kenne diesen Mann. – I know this man.\nIch kenne ihren Mann. – I know her husband.\nWohnt er in diesem Hotel? – Does he live in this hotel?\nWohnt er in meinem Hotel? – Does he live in my hotel?\nWelche Bank ist das? – Which bank is that?\nUnsere Bank ist neben dem Konsulat. – Our bank is next to the consulate.\n\nIn Units 1 and 3 we mentioned the correspondence of final sounds in der-type specifiers and the various forms of the pronouns er, es and sie. In the above sentences we see the pattern continued with the ein-type specifiers. In most cases the similarity can be traced through both types of specifiers and the pronouns: keinen-diesen-ihn-den, ihrem-welchem-ihm-dem, unsere-welche. The patterns observed in paragraph 5 do not show up in dieser-kein-das and mein-Ihr. There is then a form of the ein-type specifiers in which the final sound, or ending, found in the der-type specifiers and personal pronouns is lacking. This endingless form occurs as the Nominative form with der-nouns and as the Nominative and Accusative form with das-nouns. The pattern for ein-type specifiers can be summed up in the following chart:\n\nPattern Chart 2\nNominative    Accusative    Dative\nN      M      M\nE      E      R\nE      E      N (-n)\n\n11. Uses\nWe have already noted that the ein-type specifiers include ein and kein and the possessives.\n\n1. ein means 'a, an' when unstressed. With slightly increased stress it means 'one'.\nEr füllt ein Formular aus. – He’s filling out a form.\nFüllen Sie nur ein Formular aus. – Just fill out one form.\nMuss man ein oder zwei Formulare ausfüllen? – Does one have to fill out one or two forms?\n\n2. kein means 'not a, not an, not any, not one, no'. In English we have an option in many negative statements: I don't have an identification card. / I haven't any identification card. / I have no identification card. In German there is no equivalent option. In such statements the noun is always negated. Examples:\nIch habe keinen Ausweis. – I haven't any identification card.\nEr ist kein Deutscher. – He isn’t German.\nHaben Sie kein Visum? – Don't you have a visa?\nWir kennen hier keine Amerikaner. – We don't know any Americans here.\n\n3. Any of the ein-type specifiers can also occur without a following noun, and here they have the meanings 'one, not one, not any, mine, his, hers, theirs, yours, ours'.\nIch habe Zigarren. Darf ich Ihnen eine anbieten? – I have some cigars. May I offer you one?\nHaben Sie Ihren Wagen hier? – Do you have your car here?\nNein, haben Sie Ihren auch nicht hier? – No, don't you have yours here either?\n\nIII. Special ein-type specifier forms\nMost ein-type specifiers have the same form when their noun is understood as they do when it is present, as can be seen in the sentences above. However, the endingless ein-type specifier forms add an ending when they stand alone: Ihr Stadtplan – Ihrer; ein Zigarrengeschäft – eins. The endingless forms add endings similar to those of the corresponding der-type specifier forms, except that the ending -s is added directly to the stem of the monosyllabic ein-type specifiers, e.g., kein – keins.\n\nThese special ein-type specifier forms occur only with der- and das-nouns and can be listed as follows:\nWith der-nouns: einer, keiner, meiner, seiner, ihrer, Ihrer, unserer\nWith das-nouns: eins, keins, meins, seins, ihrs, Ihrs, unseres\n\nB. Verb Phrases and Word Order\nI. We have already spoken about verb phrases which are composed of a finite verb form and an infinitive form. They have also occurred in this unit:\nHerr Köhler will ein Besuchsvisum nach Amerika beantragen. – Mr. Köhler wants to apply for a visitor’s visa for America.\n\nNow look at the following examples:\nHerr Allen stellt die Herren vor. – Mr. Allen introduces the gentlemen to each other.\nFüllen Sie bitte dieses Formular aus. – Please fill out this form.\nIch muss Geld abheben. – I have to get some money.\nHerr Köhler hebt gerade Geld von der Bank ab. – Mr. Köhler is just getting some money from the bank.\n\nIn these sentences another kind of verb phrase occurs: a finite verb (stellt, füllen, muss, hebt) and an accented adverb (vor, aus, ab). In one of the above sentences we have a three-part verb phrase consisting of a finite verb (muss), accented adverb (ab-), and infinitive (-heben). Notice that in the writing system, the accented adverb and the infinitive are written as one unit (abheben).\n\nII. You will have seen that in the above sentences, as in earlier examples, the second part of the verb phrase comes at the end of the sentence. We can now summarize our observations about word order in verb phrases up to this point in the following patterns:\n1. finite verb + infinitive (will ... beantragen)\n2. finite verb + accented adverb (stellt ... vor)\n3. finite verb + accented adverb + infinitive (muss ... abheben)\n\nThe words gern, lieber, am liebsten\nI. We have encountered the word gern several times now. It occurs by itself, with an inflected verb form, and as part of the verb phrase with möchte(n). Let us examine these occurrences more closely.\n\n1. By itself gern signifies polite and willing acquiescence in a suggestion, command or question.\nWollen Sie nicht mitkommen? – Sehr gern. – Don't you want to come along? – I'd be very glad to.\nKönnen Sie mir seine Adresse geben? – Gerne. – Can you give me his address? – Gladly.\nWollen wir heute zusammen in die Stadt fahren? – Gerne. – Shall we go down town today? – Glad to.\nKönnen wir diesen Stadtplan behalten? – Aber gerne. – Can we keep this map of the city? – Yes, indeed.\nNote that in these examples the alternate form gerne frequently occurs, varying freely with gern.\n\n2. With an inflected verb form gern signifies pleasure in or enjoyment of the action or state expressed.\nIch bin sehr gern hier. – I'm very glad to be here.\nWein trinke ich nicht gern. – I don't like to drink wine.\nDa komme ich gern. – I'd be glad to come then.\nGehen Sie gern ins Kino? – Do you enjoy going to the movies?\nEr trinkt gern Bier. – He likes (to drink) beer.\nAs well as expressing acquiescence in a specific suggestion, command or question this is the usual way to say you like doing something in German, describing general attitudes or habits.\n\n3. The verb phrase with möchte(n) expresses a polite request or question. The word gern may or may not occur with it.\nIch möchte gern Zigarren haben. – I'd like to have some cigars.\nWas möchten Sie essen? – What would you like to eat?\nVorher möchte ich noch zur Bank gehen. – First I'd like to go to the bank.\nIch möchte ein Visum haben. – I want to get a visa.\nMöchten Sie gern ins Kino gehen? – Would you like to go to the movies?\nNote that this is everywhere equivalent to the English courtesy formula \"would like\", and the request expressed is limited and specific.\n\nII. The words lieber and am liebsten do not occur alone but only with an inflected verb form or as part of the verb phrase with möchte(n).\n\n1. With an inflected verb form lieber and am liebsten express preference or increasing degrees of pleasure or enjoyment.\nIch trinke lieber Würzburger als Pilsner. – I like Würzburger better than Pilsner.\nAm liebsten trinke ich ja Löwenbräu. – I like Löwenbräu best of course.\nEr raucht lieber Zigarren als Pfeife. – He likes cigars better than a pipe.\nIch gehe am liebsten ins Theater. – I enjoy going to the theater best of all.\n\n2. As part of the verb phrase with möchte(n) the words lieber and am liebsten express preference or intensification in a specific request or question.\nIch möchte lieber Zigarren haben. – I'd rather have some cigars.\nWas möchten Sie am liebsten essen? – What would you most like to eat?\nMöchten Sie lieber Wein oder Bier trinken? – Would you rather have wine or beer to drink?\nEr möchte am liebsten nach Deutschland fahren. – He'd like nothing better than to go to Germany."
+      }
+    ],
+    "metadata": {
+      "page_start": 10,
+      "page_end": 15,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
     }
-  ],
-  "articles": [
-    {
-      "sequence_id": 1,
-      "text": "The grammar notes discuss ein-type specifiers, which include the indefinite article ein and its negative form kein, as well as possessives such as mein, sein, ihr, Ihr and unser. These words change form according to the gender of the noun (masculine, neuter, feminine, plural) and the grammatical case (nominative, accusative, dative). For example, the masculine nominative form is ein, accusative is einen and dative is einem. The feminine forms are eine, eine and einer, while the neuter forms are ein, ein and einem. The negative kein follows the same pattern, and possessives such as mein and ihr adopt similar endings. The notes explain that ein occurs only in the singular and that these specifiers may appear without a noun, in which case they take special endings (e.g., eins for ein Zigarrengeschäft when the noun is understood). A pattern chart summarises the endings of ein-type specifiers and shows the correspondence of final sounds with der-type specifiers and personal pronouns. The section then addresses verb phrases and word order: in German a finite verb may be combined with an infinitive or with an accented adverb such as vor-, aus- or ab-, and the second part of the verb phrase typically comes at the end of the sentence (e.g., will ... beantragen, stellt ... vor, muss ... abheben). Finally, the notes discuss the adverbs gern, lieber and am liebsten. The word gern expresses willingness or enjoyment, while lieber expresses preference and am liebsten indicates a superlative preference. These adverbs can occur alone with an inflected verb or within the polite verb phrase with möchte(n) to express requests or choices."
-    }
-  ],
-  "metadata": {
-    "page_start": 90,
-    "page_end": 96,
-    "are_questions_english": true,
-    "are_questions_generated_by_llm": true
   }
-}
+]
