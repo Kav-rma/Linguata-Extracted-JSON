@@ -1,0 +1,200 @@
+[
+  {
+    "title": "unit2_conversation_practice_3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wen hat man lange nicht gesehen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herrn Becker",
+            "is_correct": true
+          },
+          {
+            "answer": "Herrn Allen",
+            "is_correct": false
+          },
+          {
+            "answer": "Frau Keller",
+            "is_correct": false
+          },
+          {
+            "answer": "Miss Adams",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Wie lange war Herr Becker in Amerika?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Vier Monate",
+            "is_correct": true
+          },
+          {
+            "answer": "Zwei Monate",
+            "is_correct": false
+          },
+          {
+            "answer": "Ein Jahr",
+            "is_correct": false
+          },
+          {
+            "answer": "Sechs Wochen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wie lange bleibt Herr Becker jetzt in Bonn?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nur ein Jahr",
+            "is_correct": true
+          },
+          {
+            "answer": "Zwei Jahre",
+            "is_correct": false
+          },
+          {
+            "answer": "Vier Monate",
+            "is_correct": false
+          },
+          {
+            "answer": "Eine Woche",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wo wohnt Herr Becker in Bonn?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Im Bayrischen Hof",
+            "is_correct": true
+          },
+          {
+            "answer": "In der Nähe vom Konsulat",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Hotel Adlon",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Gefällt es Herrn Becker dort?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ja, es ist sehr nett",
+            "is_correct": true
+          },
+          {
+            "answer": "Nein, es ist langweilig",
+            "is_correct": false
+          },
+          {
+            "answer": "Er weiß es nicht",
+            "is_correct": false
+          },
+          {
+            "answer": "Er hasst es",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Wie geht es Herrn Becker?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Gut",
+            "is_correct": true
+          },
+          {
+            "answer": "Schlecht",
+            "is_correct": false
+          },
+          {
+            "answer": "Er ist müde",
+            "is_correct": false
+          },
+          {
+            "answer": "Er ist krank",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wir haben Sie lange nicht gesehen, Herr Becker."
+      },
+      {
+        "sequence_id": 2,
+        "text": "A: Wie geht es Ihnen denn?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "B: Danke, gut."
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Ich war vier Monate in Amerika."
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Wie lange bleiben Sie jetzt hier in Bonn?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "B: Wahrscheinlich nur ein Jahr."
+      },
+      {
+        "sequence_id": 7,
+        "text": "A: Wo wohnen Sie hier?"
+      },
+      {
+        "sequence_id": 8,
+        "text": "B: Ich wohne im Bayrischen Hof."
+      },
+      {
+        "sequence_id": 9,
+        "text": "A: Gefällt es Ihnen dort gut?"
+      },
+      {
+        "sequence_id": 10,
+        "text": "B: Ja, es ist dort sehr nett."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

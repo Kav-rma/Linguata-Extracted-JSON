@@ -1,0 +1,276 @@
+[
+  {
+    "title": "unit3_situation_at_the_restaurant",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Mr. Schneider meets Mr. Keller, whom he hasn't seen for a long time."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Mr. Keller often has to go to Frankfurt, but he's staying in Munich for two months now."
+      },
+      {
+        "sequence_id": 3,
+        "text": "He asks Mr. Schneider if he'd like to go and eat."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Mr. Schneider knows a restaurant on Bahnhofstrasse where they go and order Bratwurst and Sauerkraut and beer to drink."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Mr. Keller buys some cigars too."
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who meets Mr. Keller at the restaurant?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Mr. Schneider",
+            "is_correct": true
+          },
+          {
+            "answer": "Mr. Allen",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Köhler",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Becker",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "How often does Mr. Keller have to go to Frankfurt?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Often",
+            "is_correct": true
+          },
+          {
+            "answer": "Never",
+            "is_correct": false
+          },
+          {
+            "answer": "Only once",
+            "is_correct": false
+          },
+          {
+            "answer": "Every day",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "How long will Mr. Keller stay in Munich now?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Two months",
+            "is_correct": true
+          },
+          {
+            "answer": "One week",
+            "is_correct": false
+          },
+          {
+            "answer": "Six months",
+            "is_correct": false
+          },
+          {
+            "answer": "A year",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does Mr. Keller ask Mr. Schneider?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "If he'd like to go and eat",
+            "is_correct": true
+          },
+          {
+            "answer": "If he wants to go to the museum",
+            "is_correct": false
+          },
+          {
+            "answer": "If he has a map",
+            "is_correct": false
+          },
+          {
+            "answer": "If he wants to go shopping",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "Where is the restaurant that Mr. Schneider knows located?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "On Bahnhofstrasse",
+            "is_correct": true
+          },
+          {
+            "answer": "In Frankfurt",
+            "is_correct": false
+          },
+          {
+            "answer": "Next to the customs office",
+            "is_correct": false
+          },
+          {
+            "answer": "At the airport",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "What do they order to eat and drink?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Bratwurst, Sauerkraut, and beer",
+            "is_correct": true
+          },
+          {
+            "answer": "Salad and water",
+            "is_correct": false
+          },
+          {
+            "answer": "Schnitzel and wine",
+            "is_correct": false
+          },
+          {
+            "answer": "Hamburgers and soda",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "Besides food and drink, what does Mr. Keller buy?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Some cigars",
+            "is_correct": true
+          },
+          {
+            "answer": "A new hat",
+            "is_correct": false
+          },
+          {
+            "answer": "A book",
+            "is_correct": false
+          },
+          {
+            "answer": "Tickets to a show",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "How long has it been since Mr. Schneider last saw Mr. Keller?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A long time",
+            "is_correct": true
+          },
+          {
+            "answer": "Last week",
+            "is_correct": false
+          },
+          {
+            "answer": "Yesterday",
+            "is_correct": false
+          },
+          {
+            "answer": "He has never met him before",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "Mr. Keller stays in Munich for two months.",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "True",
+            "is_correct": true
+          },
+          {
+            "answer": "False",
+            "is_correct": false
+          },
+          {
+            "answer": "The text does not mention",
+            "is_correct": false
+          },
+          {
+            "answer": "He is leaving tomorrow",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "Why do Mr. Keller and Mr. Schneider go to the restaurant?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "To eat",
+            "is_correct": true
+          },
+          {
+            "answer": "To attend a meeting",
+            "is_correct": false
+          },
+          {
+            "answer": "To buy souvenirs",
+            "is_correct": false
+          },
+          {
+            "answer": "To listen to music",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

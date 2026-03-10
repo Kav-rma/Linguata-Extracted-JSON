@@ -1,0 +1,156 @@
+[
+  {
+    "title": "unit2_conversation_practice_1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wer stellt die Frage nach Herrn Allen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "B",
+            "is_correct": true
+          },
+          {
+            "answer": "C",
+            "is_correct": false
+          },
+          {
+            "answer": "D",
+            "is_correct": false
+          },
+          {
+            "answer": "P",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was fragt C?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wo er arbeitet",
+            "is_correct": true
+          },
+          {
+            "answer": "Wie er heißt",
+            "is_correct": false
+          },
+          {
+            "answer": "Wo er wohnt",
+            "is_correct": false
+          },
+          {
+            "answer": "Wann er kommt",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wo arbeitet Herr Allen laut dem Gespräch?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Im Konsulat",
+            "is_correct": true
+          },
+          {
+            "answer": "In einer Schule",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "In der Bank",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Was ist Herr Allen von Beruf?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Diplomat",
+            "is_correct": true
+          },
+          {
+            "answer": "Arzt",
+            "is_correct": false
+          },
+          {
+            "answer": "Lehrer",
+            "is_correct": false
+          },
+          {
+            "answer": "Beamter",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was glaubt C über Herrn Allen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Er kennt Herrn Allen nicht",
+            "is_correct": true
+          },
+          {
+            "answer": "Er kennt Herrn Allen gut",
+            "is_correct": false
+          },
+          {
+            "answer": "Er sieht Herrn Allen oft",
+            "is_correct": false
+          },
+          {
+            "answer": "Er arbeitet mit Herrn Allen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "B: Kennen Sie Herrn Allen?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "C: Wo arbeitet er denn?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "B: Er arbeitet im Konsulat."
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Er ist Diplomat."
+      },
+      {
+        "sequence_id": 5,
+        "text": "C: Nein, ich glaube, ich kenne ihn nicht."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

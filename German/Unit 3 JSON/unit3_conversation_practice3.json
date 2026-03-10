@@ -1,0 +1,236 @@
+[
+  {
+    "title": "unit3_conversation_practice3",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "M: Kennen Sie München schon?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "S: Ja, aber nicht sehr gut."
+      },
+      {
+        "sequence_id": 3,
+        "text": "M: Ich möchte gern zum Museum fahren. Es soll sehr berühmt sein. Wollen Sie mitkommen?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "S: Gern, haben Sie den Wagen hier?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "M: Ja, er ist auf dem Parkplatz. Das Theater ist auch in der Nähe vom Museum."
+      },
+      {
+        "sequence_id": 6,
+        "text": "S: Gut, und können Sie mir auch das Hofbräuhaus zeigen?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "M: Aber natürlich!"
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which city is discussed in the conversation?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Munich",
+            "is_correct": true
+          },
+          {
+            "answer": "Frankfurt",
+            "is_correct": false
+          },
+          {
+            "answer": "Hamburg",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "How well does the second speaker know the city?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Very well",
+            "is_correct": false
+          },
+          {
+            "answer": "Not at all",
+            "is_correct": false
+          },
+          {
+            "answer": "Not very well",
+            "is_correct": true
+          },
+          {
+            "answer": "Only the museums",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "Where does the first speaker want to go?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The cathedral",
+            "is_correct": false
+          },
+          {
+            "answer": "The market",
+            "is_correct": false
+          },
+          {
+            "answer": "The museum",
+            "is_correct": true
+          },
+          {
+            "answer": "The university",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Why does the speaker want to go there?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "It's close to the hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "It's said to be very famous",
+            "is_correct": true
+          },
+          {
+            "answer": "They need to meet a friend",
+            "is_correct": false
+          },
+          {
+            "answer": "They want to eat",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "How does the second speaker respond to the invitation?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Declines politely",
+            "is_correct": false
+          },
+          {
+            "answer": "Agrees and asks if there is a car",
+            "is_correct": true
+          },
+          {
+            "answer": "Suggests taking a bus",
+            "is_correct": false
+          },
+          {
+            "answer": "Changes the plan",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "Where is the car parked?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "At the museum",
+            "is_correct": false
+          },
+          {
+            "answer": "On the street",
+            "is_correct": false
+          },
+          {
+            "answer": "In the parking lot",
+            "is_correct": true
+          },
+          {
+            "answer": "In front of the theater",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "What additional place does the second speaker want to see?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The theater",
+            "is_correct": false
+          },
+          {
+            "answer": "The cathedral",
+            "is_correct": false
+          },
+          {
+            "answer": "The Hofbräuhaus",
+            "is_correct": true
+          },
+          {
+            "answer": "The city hall",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "How does the first speaker respond to the request to see the Hofbräuhaus?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He is reluctant",
+            "is_correct": false
+          },
+          {
+            "answer": "He refuses",
+            "is_correct": false
+          },
+          {
+            "answer": "He enthusiastically agrees",
+            "is_correct": true
+          },
+          {
+            "answer": "He is confused",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

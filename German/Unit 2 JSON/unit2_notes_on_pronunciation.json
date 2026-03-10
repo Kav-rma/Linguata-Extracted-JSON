@@ -1,258 +1,260 @@
-{
-  "title": "unit2_notes_on_pronunciation",
-  "type": "grammar",
-  "questions_and_answers": [
-    {
-      "sequence_id": 1,
-      "question": "Which pair demonstrates the difference between long and short German vowels?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "ihn - in",
-          "is_correct": true
-        },
-        {
-          "answer": "Haus - Maus",
-          "is_correct": false
-        },
-        {
-          "answer": "Deutsch - Leute",
-          "is_correct": false
-        },
-        {
-          "answer": "ich - du",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 2,
-      "question": "How does the duration of German diphthongs compare to their English equivalents?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "They are longer",
-          "is_correct": false
-        },
-        {
-          "answer": "They are shorter",
-          "is_correct": true
-        },
-        {
-          "answer": "They are the same length",
-          "is_correct": false
-        },
-        {
-          "answer": "They vary unpredictably",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 3,
-      "question": "Which word pair illustrates post-vocalic 'r' in German?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "hier – sehr",
-          "is_correct": false
-        },
-        {
-          "answer": "diese – dieser",
-          "is_correct": true
-        },
-        {
-          "answer": "mein – Wein",
-          "is_correct": false
-        },
-        {
-          "answer": "Miete – Mitte",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 4,
-      "question": "According to the notes, how does post-vocalic 'r' sound in German?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Like an English 'r'",
-          "is_correct": false
-        },
-        {
-          "answer": "Like a vowel",
-          "is_correct": true
-        },
-        {
-          "answer": "Like a consonant cluster",
-          "is_correct": false
-        },
-        {
-          "answer": "It is silent",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 5,
-      "question": "In pre-vocalic 'ch', how is the sound produced?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "With friction at the front of the tongue and teeth",
-          "is_correct": false
-        },
-        {
-          "answer": "With friction between the back of the tongue and the soft palate",
-          "is_correct": true
-        },
-        {
-          "answer": "By rolling the tongue",
-          "is_correct": false
-        },
-        {
-          "answer": "By closing the lips",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 6,
-      "question": "Which of the following is a German diphthong example from Practice 2?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "beet",
-          "is_correct": false
-        },
-        {
-          "answer": "mein",
-          "is_correct": true
-        },
-        {
-          "answer": "ihn",
-          "is_correct": false
-        },
-        {
-          "answer": "Miete",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 7,
-      "question": "The notes state that syllables with post-vocalic 'r' are: ",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Shorter than the others",
-          "is_correct": false
-        },
-        {
-          "answer": "Longer than the others",
-          "is_correct": true
-        },
-        {
-          "answer": "The same length as the others",
-          "is_correct": false
-        },
-        {
-          "answer": "Not pronounced at all",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 8,
-      "question": "Which pair contains a long vowel followed by 'r' and a consonant?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "her – Herr",
-          "is_correct": true
-        },
-        {
-          "answer": "Haus – Maus",
-          "is_correct": false
-        },
-        {
-          "answer": "Wahn – wann",
-          "is_correct": false
-        },
-        {
-          "answer": "buchen – Bucht",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 9,
-      "question": "German 'r' after vowels is described as: ",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "rolled strongly",
-          "is_correct": false
-        },
-        {
-          "answer": "similar to English 'r'",
-          "is_correct": false
-        },
-        {
-          "answer": "vowel-like",
-          "is_correct": true
-        },
-        {
-          "answer": "silent",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 10,
-      "question": "In which practice group are long vowels and their shorter pairs with post-vocalic 'r' practised?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Practice 1",
-          "is_correct": false
-        },
-        {
-          "answer": "Practice 2",
-          "is_correct": false
-        },
-        {
-          "answer": "Practice 3 and 4",
-          "is_correct": true
-        },
-        {
-          "answer": "Practice 5",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
+[
+  {
+    "title": "unit2_notes_on_pronunciation",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which pair illustrates the difference between a long and a short vowel?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Beet - Bett",
+            "is_correct": true
+          },
+          {
+            "answer": "Haus - Maus",
+            "is_correct": false
+          },
+          {
+            "answer": "noch - nach",
+            "is_correct": false
+          },
+          {
+            "answer": "Liebe - lieber",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "According to the notes, what is true about the German diphthong as in 'Wein'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Its duration is shorter than the English vowel combination",
+            "is_correct": true
+          },
+          {
+            "answer": "It lasts longer than the English vowel combination",
+            "is_correct": false
+          },
+          {
+            "answer": "It is the same length as the English vowel combination",
+            "is_correct": false
+          },
+          {
+            "answer": "It always ends with an r sound",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What is said about post-vocalic r in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It has a vowel-like sound and does not sound like the English r",
+            "is_correct": true
+          },
+          {
+            "answer": "It is always silent",
+            "is_correct": false
+          },
+          {
+            "answer": "It is identical to the English r",
+            "is_correct": false
+          },
+          {
+            "answer": "It is always rolled",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What observation is made about syllables containing post-vocalic r?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are slightly longer than syllables without it",
+            "is_correct": true
+          },
+          {
+            "answer": "They are shorter than syllables without it",
+            "is_correct": false
+          },
+          {
+            "answer": "They are whispered",
+            "is_correct": false
+          },
+          {
+            "answer": "They are always stressed",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which pair belongs to Practice 3 for post-vocalic r?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Miete - Mieter",
+            "is_correct": true
+          },
+          {
+            "answer": "noch - nach",
+            "is_correct": false
+          },
+          {
+            "answer": "Frau - fragen",
+            "is_correct": false
+          },
+          {
+            "answer": "Mus - musa",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "How is the pre-vocalic ch pronounced according to the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "With slight friction between the back of the tongue and the soft palate, similar to the final sound in durch and nach",
+            "is_correct": true
+          },
+          {
+            "answer": "With the front of the tongue against the teeth",
+            "is_correct": false
+          },
+          {
+            "answer": "With a rolled r",
+            "is_correct": false
+          },
+          {
+            "answer": "By rounding the lips",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which list of words is used to practise the pre-vocalic ch sound (Practice 5)?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "noch, doch, nach",
+            "is_correct": true
+          },
+          {
+            "answer": "mein, Wein, nein",
+            "is_correct": false
+          },
+          {
+            "answer": "hier, sehr, Uhr",
+            "is_correct": false
+          },
+          {
+            "answer": "Beet, Bock, Bitten",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What method does the notes suggest for pronouncing words with pre-vocalic ch after consonants?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Whisper an extra syllable at the beginning if necessary",
+            "is_correct": true
+          },
+          {
+            "answer": "Omit the ch sound",
+            "is_correct": false
+          },
+          {
+            "answer": "Replace the ch with k",
+            "is_correct": false
+          },
+          {
+            "answer": "Emphasise the consonant before ch",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which pair is used to practise long versus short vowels with post-vocalic r?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "her - Herr",
+            "is_correct": true
+          },
+          {
+            "answer": "Frau - fragen",
+            "is_correct": false
+          },
+          {
+            "answer": "noch - nach",
+            "is_correct": false
+          },
+          {
+            "answer": "nach - Nach",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which example is given to illustrate the German diphthong practise?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "mein, Wein, nein",
+            "is_correct": true
+          },
+          {
+            "answer": "noch, doch, nach",
+            "is_correct": false
+          },
+          {
+            "answer": "hier, sehr, Uhr",
+            "is_correct": false
+          },
+          {
+            "answer": "Beet - Bett",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Notes on Pronunciation\nA. Long and short vowels.\nPractice 1:\nihn - in\nBeet - Bett\nStaat - Stadt\nbog - Bock\nbieten - bitten\nbeten - Betten\nwate - Watte\nwohne - Wonne\nLied - litt\nden - denn\nWahn - wann\nlohte - Lotte\nmieten - mitten\nSehne - Senne\nbahne - banne\nOfen - offen\nMus - musa\nKönig - können\nHüte - Hütte\nPute - Putte\nHöhle - Hölle\nfühle - fülle\nbucht - Bucht\nböge - Böcke\nmüder - Mutter\nMuhme - Mume\nGoethe - Götter\nLüge - Lücke\n\nB. Diphthongs.\nAsk your instructor to say German Wein, then say English \"wine\". Notice that the duration of the German vowel combination is considerably shorter than the English.\nPractice 2:\nmein\nWein\nnein\nleider\n\nC. Post-vocalic r.\nHaus\nMaus\nauch\nglaube\nneu\nneun\ndeutsch\nLeute\nPost-vocalic r in German has a vowel-like sound. It does not sound like the English r. Listen carefully to the following pairs of words and imitate them to the satisfaction of your instructor.\nPractice 3:\ndiese - dieser\nMiete - Mieter\nälter - Eltern\nGästen - gestern\neine - einer\nAlte - Alter\nVetter - Vettern\nlocken - lockern\nLiebe - lieber\nbitte - bitter\nKinder - Kindern\nfetten - Vettern\nOde - oder\nwelche - welcher\nNote that the syllable with post-vocalic r is in every case slightly longer than the syllable without it. If you watch your instructor's lips carefully you may also see that they are slightly farther apart, his mouth slightly more open on this syllable.\nNow practice the following groups, first the long vowels and then the pairs of long and short vowels with post-vocalic r, and finally the vowels followed by r and a consonant.\nPractice 4:\nhier\nsehr\nUhr\nOhr\nher - Herr\nBier\nmehr\nfuhr\nTor\nwir - wirr\nwir\nher\nnur\nMohr\nStar - starr\nMark\ndort\nHerrn\nFurt\nWirt\nPark\nDorf\ngern\nDurst\nFirst\ndarf\nWort\nherb\nWurm\nSchirm\nhart\nKork\nKerl\nKurve\nBirne\n\nD. Pre-vocalic ch (voiceless).\nThe pre-vocalic ch differs from the post-vocalic ch. Most speakers of German make the pre-vocalic ch with slight friction between the back of the tongue and the soft palate, the region back of the mouth near the uvula. This sound is very similar to the final sound in durch and nach.\nPractice the following groups:\nPractice 5:\nnoch\ndoch\nnach\nauch\nlachen\npochen\ntauchen\nDachau\nBochum\nBucholz\nNow try making the same sound right after the initial consonants in the following groups:\nPractice 6:\nFrau\nfragen\nfroh\nTrost\ntraute\ntreffen\nProst\nprall\nPreis\nKrone\nKragen\nkrumm\nDo you understand mich?\nYes, ich verstehe you well.\nHow goes it with regard to you? (How are you?)\nHe speaks English with r.\nYou may find it necessary at first to whisper an extra syllable at the beginning of these words and pronounce Fochau, Tochost, pochall, Kochone, etc. Don't hesitate to try this if necessary.\n"
+      }
+    ],
+    "metadata": {
+      "page_start": 9,
+      "page_end": 11,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
     }
-  ],
-  "articles": [
-    {
-      "sequence_id": 1,
-      "text": "German pronunciation distinguishes long and short vowels. Practice with word pairs like 'ihn - in', 'Beet - Bett', and 'Haus - Maus' helps you hear the difference. Long vowels are held longer than short vowels.\nGerman diphthongs, such as in 'mein', 'Wein', 'nein' and 'leider', are shorter than their English equivalents.\nPost-vocalic 'r' in German sounds vowel-like. Words like 'Haus', 'Maus', 'neu', 'neun', 'deutsch' and 'Leute' illustrate this. When 'r' follows a vowel, the syllable with 'r' is slightly longer and the speaker's mouth opens more. Practice pairs like 'diese - dieser', 'Miete - Mieter', 'Alte - Alter', and 'Vetter - Vettern' to hear the contrast.\nPre-vocalic 'ch' is produced with slight friction between the back of the tongue and the soft palate, similar to the final sound in 'loch' or 'nach'. Practice words such as 'hier', 'sehr', 'Uhr', 'Ohr', 'her - Herr', and 'Bier - wirr' to master this sound.\nThese pronunciation notes emphasize listening carefully to your instructor and practicing regularly with word pairs to develop a native-like sense of vowel length and consonant quality."
-    }
-  ],
-  "metadata": {
-    "page_start": 30,
-    "page_end": 31,
-    "are_questions_english": true,
-    "are_questions_generated_by_llm": true
   }
-}
+]

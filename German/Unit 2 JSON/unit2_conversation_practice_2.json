@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unit2_conversation_practice_2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Was will P heute tun?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nach München fahren und Kellers besuchen",
+            "is_correct": true
+          },
+          {
+            "answer": "Im Restaurant essen",
+            "is_correct": false
+          },
+          {
+            "answer": "Ins Kino gehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Nach Bonn fahren",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was fragt D über Frau Keller?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ob sie Amerikanerin ist",
+            "is_correct": true
+          },
+          {
+            "answer": "Wie alt sie ist",
+            "is_correct": false
+          },
+          {
+            "answer": "Wo sie wohnt",
+            "is_correct": false
+          },
+          {
+            "answer": "Was sie beruflich macht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Woher kommt Frau Keller?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Aus Washington",
+            "is_correct": true
+          },
+          {
+            "answer": "Aus München",
+            "is_correct": false
+          },
+          {
+            "answer": "Aus Bonn",
+            "is_correct": false
+          },
+          {
+            "answer": "Aus Berlin",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wen wollen sie besuchen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Die Kellers",
+            "is_correct": true
+          },
+          {
+            "answer": "Die Allens",
+            "is_correct": false
+          },
+          {
+            "answer": "Die Beckers",
+            "is_correct": false
+          },
+          {
+            "answer": "Die Adams",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Wer fragt: 'Was haben Sie heute vor?'",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "D",
+            "is_correct": true
+          },
+          {
+            "answer": "P",
+            "is_correct": false
+          },
+          {
+            "answer": "A",
+            "is_correct": false
+          },
+          {
+            "answer": "B",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "D: Was haben Sie heute vor?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "P: Wir wollen nach München fahren und Kellers besuchen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "D: Ist Frau Keller nicht Amerikanerin?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "P: Ja, sie kommt aus Washington."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "unit3_situation_looking_around_town",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Mr. Köhler meets Mr. Becker at the hotel to show him the town."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Mr. Becker is not acquainted with the city, but he would like to see the museum, cathedral, palace, city hall, Hofbräuhaus, Ratskeller, park, Königsplatz, etc."
+      },
+      {
+        "sequence_id": 3,
+        "text": "They take a bus through town."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Mr. Köhler points out the sights."
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who meets Mr. Becker at the hotel to show him the town?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Mr. Köhler",
+            "is_correct": true
+          },
+          {
+            "answer": "Mr. Allen",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Schneider",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Keller",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is Mr. Becker's familiarity with the city?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He is not acquainted with it",
+            "is_correct": true
+          },
+          {
+            "answer": "He knows it very well",
+            "is_correct": false
+          },
+          {
+            "answer": "He lives there",
+            "is_correct": false
+          },
+          {
+            "answer": "He has studied a map extensively",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which of the following places does Mr. Becker want to see?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The museum",
+            "is_correct": true
+          },
+          {
+            "answer": "The airport",
+            "is_correct": false
+          },
+          {
+            "answer": "A supermarket",
+            "is_correct": false
+          },
+          {
+            "answer": "A bank",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which of these is NOT mentioned as a place Mr. Becker wants to visit?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A sports arena",
+            "is_correct": true
+          },
+          {
+            "answer": "The cathedral",
+            "is_correct": false
+          },
+          {
+            "answer": "The palace",
+            "is_correct": false
+          },
+          {
+            "answer": "City hall",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "How do Mr. Köhler and Mr. Becker travel through town?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "By bus",
+            "is_correct": true
+          },
+          {
+            "answer": "By taxi",
+            "is_correct": false
+          },
+          {
+            "answer": "By train",
+            "is_correct": false
+          },
+          {
+            "answer": "On foot",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "What does Mr. Köhler do during their trip?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He points out the sights",
+            "is_correct": true
+          },
+          {
+            "answer": "He sleeps",
+            "is_correct": false
+          },
+          {
+            "answer": "He goes shopping",
+            "is_correct": false
+          },
+          {
+            "answer": "He reads a book",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "What building is mentioned that serves beer and is famous in Munich?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Hofbräuhaus",
+            "is_correct": true
+          },
+          {
+            "answer": "Brandenburg Gate",
+            "is_correct": false
+          },
+          {
+            "answer": "Eiffel Tower",
+            "is_correct": false
+          },
+          {
+            "answer": "Colosseum",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "The Ratskeller is mentioned in the text. What is it?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A restaurant or tavern",
+            "is_correct": true
+          },
+          {
+            "answer": "A museum",
+            "is_correct": false
+          },
+          {
+            "answer": "A palace",
+            "is_correct": false
+          },
+          {
+            "answer": "A park",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "Where would they like to go besides the museum and cathedral?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "City hall, Hofbräuhaus, Ratskeller, park, Königsplatz",
+            "is_correct": true
+          },
+          {
+            "answer": "Shopping mall, theatre, stadium, university",
+            "is_correct": false
+          },
+          {
+            "answer": "Airport, railway station, hospital, library",
+            "is_correct": false
+          },
+          {
+            "answer": "Hotel, customs office, embassy, library",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "What is the primary purpose of Mr. Köhler’s meeting with Mr. Becker?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "To show him the town",
+            "is_correct": true
+          },
+          {
+            "answer": "To go shopping",
+            "is_correct": false
+          },
+          {
+            "answer": "To attend a conference",
+            "is_correct": false
+          },
+          {
+            "answer": "To go to customs",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

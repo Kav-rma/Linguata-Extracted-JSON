@@ -1,0 +1,164 @@
+[
+  {
+    "title": "unit2_conversation_practice_7",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wer stellt die Frage, ob man die Dame kennt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "G",
+            "is_correct": true
+          },
+          {
+            "answer": "F",
+            "is_correct": false
+          },
+          {
+            "answer": "K",
+            "is_correct": false
+          },
+          {
+            "answer": "L",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was fragt F?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wo die Dame ist",
+            "is_correct": true
+          },
+          {
+            "answer": "Wie die Dame heißt",
+            "is_correct": false
+          },
+          {
+            "answer": "Was die Dame isst",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob die Dame Deutsch spricht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wo befindet sich die Dame?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Da drüben",
+            "is_correct": true
+          },
+          {
+            "answer": "Hier",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "Zu Hause",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wer ist die Dame?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Fräulein Adams",
+            "is_correct": true
+          },
+          {
+            "answer": "Frau Keller",
+            "is_correct": false
+          },
+          {
+            "answer": "Mrs. Allen",
+            "is_correct": false
+          },
+          {
+            "answer": "Miss Jones",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Welche Nationalität hat die Dame?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Amerikanerin",
+            "is_correct": true
+          },
+          {
+            "answer": "Deutsche",
+            "is_correct": false
+          },
+          {
+            "answer": "Engländerin",
+            "is_correct": false
+          },
+          {
+            "answer": "Französin",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "G: Kennen Sie die Dame dort?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "F: Wo ist sie denn?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "G: Da drüben. Sie spricht gerade mit dem Ober."
+      },
+      {
+        "sequence_id": 4,
+        "text": "F: Ja, das ist Fräulein Adams."
+      },
+      {
+        "sequence_id": 5,
+        "text": "F: Sie ist Amerikanerin."
+      },
+      {
+        "sequence_id": 6,
+        "text": "G: Kann sie deutsch sprechen?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "F: Sie spricht sogar sehr gut deutsch."
+      }
+    ],
+    "metadata": {
+      "page_start": 44,
+      "page_end": 45,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

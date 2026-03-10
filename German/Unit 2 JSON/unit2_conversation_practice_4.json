@@ -1,0 +1,196 @@
+[
+  {
+    "title": "unit2_conversation_practice_4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Was möchte E jetzt tun?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Essen gehen",
+            "is_correct": true
+          },
+          {
+            "answer": "Ins Kino gehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Schlafen",
+            "is_correct": false
+          },
+          {
+            "answer": "Nach Bonn fahren",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was fragt H?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wo essen Sie denn?",
+            "is_correct": true
+          },
+          {
+            "answer": "Wie alt sind Sie?",
+            "is_correct": false
+          },
+          {
+            "answer": "Was machen Sie?",
+            "is_correct": false
+          },
+          {
+            "answer": "Wer kommt mit?",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wo wollen sie essen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In der Ludwigstrasse",
+            "is_correct": true
+          },
+          {
+            "answer": "Im Bayrischen Hof",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Restaurant am Marktplatz",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Kino",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Kennt H das Restaurant?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nein",
+            "is_correct": true
+          },
+          {
+            "answer": "Ja",
+            "is_correct": false
+          },
+          {
+            "answer": "Er hat davon gehört",
+            "is_correct": false
+          },
+          {
+            "answer": "Er war dort",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Wie ist das Essen laut E?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Sehr gut",
+            "is_correct": true
+          },
+          {
+            "answer": "Schlecht",
+            "is_correct": false
+          },
+          {
+            "answer": "Billig",
+            "is_correct": false
+          },
+          {
+            "answer": "Teuer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Was wollen sie danach machen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ins Kino gehen",
+            "is_correct": true
+          },
+          {
+            "answer": "Nach Hause gehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Arbeiten",
+            "is_correct": false
+          },
+          {
+            "answer": "Spazieren gehen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "E: Ich möchte jetzt gern essen gehen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "E: Wollen Sie mitkommen?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "H: Wo essen Sie denn?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "E: In der Ludwigstrasse."
+      },
+      {
+        "sequence_id": 5,
+        "text": "E: Kennen Sie das Restaurant dort?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "H: Nein, das kenne ich nicht."
+      },
+      {
+        "sequence_id": 7,
+        "text": "H: Wie ist dort das Essen?"
+      },
+      {
+        "sequence_id": 8,
+        "text": "E: Es ist sehr gut."
+      },
+      {
+        "sequence_id": 9,
+        "text": "H: Gut, ich komme gern mit und dann können wir ins Kino gehen."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

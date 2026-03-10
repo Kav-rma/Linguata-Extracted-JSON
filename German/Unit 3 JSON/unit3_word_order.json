@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit3_word_order",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "According to the lesson, where does the infinitive form of the verb occur in a German sentence?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At the end of the sentence",
+            "is_correct": true
+          },
+          {
+            "answer": "At the beginning of the sentence",
+            "is_correct": false
+          },
+          {
+            "answer": "Immediately after the subject",
+            "is_correct": false
+          },
+          {
+            "answer": "It does not appear in sentences",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Where does the finite verb form typically occur in German declarative sentences?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "As the second element of the sentence",
+            "is_correct": true
+          },
+          {
+            "answer": "At the end of the sentence",
+            "is_correct": false
+          },
+          {
+            "answer": "As the first element after the verb phrase",
+            "is_correct": false
+          },
+          {
+            "answer": "It can occur anywhere",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which of the following may precede the finite verb form in a German sentence, according to the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A pronoun, a noun with its specifier, a specifier, an adverb, a prepositional phrase or a question word",
+            "is_correct": true
+          },
+          {
+            "answer": "Only a pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "Only a noun and its specifier",
+            "is_correct": false
+          },
+          {
+            "answer": "Nothing may precede the finite verb",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How does the position of the finite verb form change in yes–no questions and commands?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It moves to the first element of the sentence",
+            "is_correct": true
+          },
+          {
+            "answer": "It stays in the second position",
+            "is_correct": false
+          },
+          {
+            "answer": "It moves to the end of the sentence",
+            "is_correct": false
+          },
+          {
+            "answer": "It is omitted entirely",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which example sentence from the lesson demonstrates the finite verb as the second element?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Das Museum ist am Markt",
+            "is_correct": true
+          },
+          {
+            "answer": "Fährt denn kein Omnibus dahin?",
+            "is_correct": false
+          },
+          {
+            "answer": "Gehen Sie hier durch den Park",
+            "is_correct": false
+          },
+          {
+            "answer": "Wo ist die Strassenbahn-haltestelle?",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence illustrates a question without a question word where the finite verb is first?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Fährt denn kein Omnibus dahin?",
+            "is_correct": true
+          },
+          {
+            "answer": "Sie kommt heute nicht.",
+            "is_correct": false
+          },
+          {
+            "answer": "In zehn Minuten sind Sie da.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich kann es Ihnen hier zeigen.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which sentence from the lesson is an example of a command with the finite verb first?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Gehen Sie hier durch den Park.",
+            "is_correct": true
+          },
+          {
+            "answer": "Dort ist der Portier.",
+            "is_correct": false
+          },
+          {
+            "answer": "Das weiss ich leider nicht.",
+            "is_correct": false
+          },
+          {
+            "answer": "Sie kommt heute nicht.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "According to the lesson, what is another term for the verb form with a personal ending?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Finite verb form",
+            "is_correct": true
+          },
+          {
+            "answer": "Infinitive",
+            "is_correct": false
+          },
+          {
+            "answer": "Past participle",
+            "is_correct": false
+          },
+          {
+            "answer": "Gerund",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "In the sentence 'Sie kommt heute nicht', which element occupies the second position?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "kommt",
+            "is_correct": true
+          },
+          {
+            "answer": "Sie",
+            "is_correct": false
+          },
+          {
+            "answer": "heute",
+            "is_correct": false
+          },
+          {
+            "answer": "nicht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which statement best summarizes the word-order rules discussed in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The finite verb is generally the second element in declarative sentences but moves to the first position in yes–no questions and commands",
+            "is_correct": true
+          },
+          {
+            "answer": "The infinitive always precedes the subject",
+            "is_correct": false
+          },
+          {
+            "answer": "Finite verbs are always at the end of the sentence in all contexts",
+            "is_correct": false
+          },
+          {
+            "answer": "Word order in German is completely flexible",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "F. WORD ORDER\n\nIn Unit 2 we observed that the second part of verb phrases—the infinitive form of the verb—occurs at the end of the sentence: Ich kann es Ihnen hier auf dem Stadtplan zeigen (I can show it to you here on the map of the city). The other part of verb phrases, the verb form that has the personal ending, is seen to occur at or near the beginning of the sentence. This form is called the finite verb form.\n\nThe lesson provides several examples to illustrate the position of the finite verb form: Sie kommt heute nicht (She's not coming today); Das Museum ist am Markt (The museum is on the market place); Das weiss ich leider nicht (I am sorry I don't know that); Dort ist der Portier (There's the doorman); In zehn Minuten sind Sie da (You'll be there in ten minutes); Wo ist die Strassenbahn-haltestelle? (Where is the streetcar stop?). In these examples the finite verb form is always the second element of the sentence. It can be preceded by a pronoun, a noun and its specifier, a specifier or pointing word, an adverb indicating time, location or manner, a prepositional phrase and its object, or a question word.\n\nIn questions without question words and in commands, the finite verb form is the first element: Fährt denn kein Omnibus dahin? (Isn't there a bus that goes there?) and Gehen Sie hier durch den Park (Go through the park here).\n\nThe lesson emphasizes that students should observe this positioning of the finite verb and remember that in yes–no questions and imperative sentences, the finite verb moves to the first position."
+      }
+    ],
+    "metadata": {
+      "page_start": 17,
+      "page_end": 17,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

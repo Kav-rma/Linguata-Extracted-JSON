@@ -1,0 +1,272 @@
+[
+  {
+    "title": "unit3_situation_customs",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Mr. Allen goes through customs."
+      },
+      {
+        "sequence_id": 2,
+        "text": "The official asks him where he comes from, where he is going and what he has to declare."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Mr. Allen does not always understand and has to ask the official to repeat and speak slowly."
+      },
+      {
+        "sequence_id": 4,
+        "text": "He tells the official then how many cigars, cigarettes, etc. he has."
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where does Mr. Allen go?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Through customs",
+            "is_correct": true
+          },
+          {
+            "answer": "To the museum",
+            "is_correct": false
+          },
+          {
+            "answer": "To a restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "To the park",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does the customs official ask Mr. Allen?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Where he comes from, where he is going and what he has to declare",
+            "is_correct": true
+          },
+          {
+            "answer": "His favourite color",
+            "is_correct": false
+          },
+          {
+            "answer": "His travel itinerary and hotel price",
+            "is_correct": false
+          },
+          {
+            "answer": "His bank account details",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "How does Mr. Allen react to the official's questions?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He sometimes does not understand and asks the official to repeat and speak slowly",
+            "is_correct": true
+          },
+          {
+            "answer": "He ignores the questions",
+            "is_correct": false
+          },
+          {
+            "answer": "He answers them immediately without difficulty",
+            "is_correct": false
+          },
+          {
+            "answer": "He leaves without responding",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Why does Mr. Allen ask the official to speak slowly?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Because he does not always understand",
+            "is_correct": true
+          },
+          {
+            "answer": "Because the official is whispering",
+            "is_correct": false
+          },
+          {
+            "answer": "Because he has hearing problems",
+            "is_correct": false
+          },
+          {
+            "answer": "Because there is too much noise",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does Mr. Allen tell the official after clarifying?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "How many cigars, cigarettes, etc. he has",
+            "is_correct": true
+          },
+          {
+            "answer": "His flight number",
+            "is_correct": false
+          },
+          {
+            "answer": "The cost of his trip",
+            "is_correct": false
+          },
+          {
+            "answer": "His hotel address",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which of the following is NOT something the official asks about?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Mr. Allen's favorite food",
+            "is_correct": true
+          },
+          {
+            "answer": "Where he comes from",
+            "is_correct": false
+          },
+          {
+            "answer": "Where he is going",
+            "is_correct": false
+          },
+          {
+            "answer": "What he has to declare",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "In what situation does this conversation take place?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "At a customs checkpoint",
+            "is_correct": true
+          },
+          {
+            "answer": "In a restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "At a hotel desk",
+            "is_correct": false
+          },
+          {
+            "answer": "In a museum",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "Mr. Allen always understands the official's questions.",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "False",
+            "is_correct": true
+          },
+          {
+            "answer": "True",
+            "is_correct": false
+          },
+          {
+            "answer": "Sometimes",
+            "is_correct": false
+          },
+          {
+            "answer": "The text does not say",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "What does Mr. Allen have to declare?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Cigars and cigarettes",
+            "is_correct": true
+          },
+          {
+            "answer": "Jewelry and gold bars",
+            "is_correct": false
+          },
+          {
+            "answer": "Nothing at all",
+            "is_correct": false
+          },
+          {
+            "answer": "Suitcases",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "What does Mr. Allen ask the official to do when he doesn't understand?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Repeat and speak slowly",
+            "is_correct": true
+          },
+          {
+            "answer": "Write down the questions",
+            "is_correct": false
+          },
+          {
+            "answer": "Call an interpreter",
+            "is_correct": false
+          },
+          {
+            "answer": "Wave him through",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

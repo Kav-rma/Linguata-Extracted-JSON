@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit3_der_type_specifiers",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In German, what forms do the word for 'the' and other specifiers have, in addition to the pronoun forms?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nominative, Accusative, and Dative",
+            "is_correct": true
+          },
+          {
+            "answer": "Present, Past, and Future",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive, Imperative, and Subjunctive",
+            "is_correct": false
+          },
+          {
+            "answer": "Singular, Dual, and Plural",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which is the nominative singular form of the German definite article used with a masculine noun?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "der",
+            "is_correct": true
+          },
+          {
+            "answer": "den",
+            "is_correct": false
+          },
+          {
+            "answer": "das",
+            "is_correct": false
+          },
+          {
+            "answer": "dem",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which of the following forms is used for the accusative plural of the German definite article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "die",
+            "is_correct": true
+          },
+          {
+            "answer": "den",
+            "is_correct": false
+          },
+          {
+            "answer": "das",
+            "is_correct": false
+          },
+          {
+            "answer": "dem",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does the symbol '(-n)' signify in the tables of noun forms?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The noun adds an -n in the Dative plural if its plural form does not already end in -n",
+            "is_correct": true
+          },
+          {
+            "answer": "The noun loses an -n in the Dative plural",
+            "is_correct": false
+          },
+          {
+            "answer": "The article changes to the ein-type pattern",
+            "is_correct": false
+          },
+          {
+            "answer": "The pronoun is omitted",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "In the pattern chart discussed in the article, what ending corresponds to the Dative plural column?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "N (-n)",
+            "is_correct": true
+          },
+          {
+            "answer": "-e",
+            "is_correct": false
+          },
+          {
+            "answer": "-r",
+            "is_correct": false
+          },
+          {
+            "answer": "-s",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which German pronoun corresponds to the nominative singular neuter form 'dieses Hotel' in the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "es",
+            "is_correct": true
+          },
+          {
+            "answer": "er",
+            "is_correct": false
+          },
+          {
+            "answer": "sie",
+            "is_correct": false
+          },
+          {
+            "answer": "ihn",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "How does the article describe the primary use of 'dieser'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It is used for contrastive purposes",
+            "is_correct": true
+          },
+          {
+            "answer": "It functions exclusively as a question word",
+            "is_correct": false
+          },
+          {
+            "answer": "It always replaces 'der'",
+            "is_correct": false
+          },
+          {
+            "answer": "It means 'close to me' without any contrast",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "According to the article, what does 'welcher' mean when used without a noun?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Which one?",
+            "is_correct": true
+          },
+          {
+            "answer": "That one",
+            "is_correct": false
+          },
+          {
+            "answer": "This one",
+            "is_correct": false
+          },
+          {
+            "answer": "Every one",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which sentence illustrates the stressed use of 'der' to mean 'that one'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wir können den da fragen.",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich habe dieses Glas, er hat das da.",
+            "is_correct": false
+          },
+          {
+            "answer": "Das ist die Strasse.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich spreche mit dem.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What advice does the article give regarding the use of pattern charts?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Study them at home but do not attempt to use them in class",
+            "is_correct": true
+          },
+          {
+            "answer": "Memorize them in class for quick reference",
+            "is_correct": false
+          },
+          {
+            "answer": "Ignore them completely",
+            "is_correct": false
+          },
+          {
+            "answer": "Use them in class as a primary learning tool",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "B. der-Type Specifiers:\n\nForms: In German, not only the pronouns but also the word for 'the' and all other specifiers have Nominative, Accusative and Dative forms. This contrasts with English, where the word 'the' has no change of form.\n\nBy abstracting from the example sentences (such as Der Ober kennt den Portier — The waiter knows the doorman; Der Portier kennt den Ober — The doorman knows the waiter), the article sets up tables of the various forms of the German word for 'the' before masculine (der-nouns), neuter (das-nouns), feminine (die-nouns) and plural nouns. The nominative forms are der, das, die, die; the accusative forms are den, das, die, die; and the dative forms are dem, dem, der, den (-n). The symbol (-n) signifies that the noun itself, in the Dative plural form, adds an -n if the noun's general plural form does not already end in -n (for example, Nominative plural die Koffer, Dative plural den Koffern).\n\nSimilar tables are given for the forms of dieser ('this') and welcher ('which') with masculine, neuter, feminine and plural nouns, and the pronouns which replace them. These tables show the nominative, accusative and dative forms such as dieser Koffer, dieses Hotel, diese Bank, diese Zigarren; diesen Koffer, dieses Hotel, diese Bank, diese Zigarren; diesem Koffer, diesem Hotel, dieser Bank, diesen Zigarren; and corresponding forms of welcher.\n\nThe article notes that comparison of these forms reveals a relatively simple pattern underlying the apparent profusion of endings, which is summarized in a pattern chart. However, pattern charts are presented only to call attention to the existence of a pattern and to display it clearly; students are advised to study the chart at home if they find it helpful but not to try to use it in class, since the purpose is to learn to speak German rather than to look it up in a book.\n\nThe article also explains that substitution of nouns and pronouns operates horizontally on the chart. For example: Ich sehe den Bahnhof und das Rathaus und die Bank und die Koffer.\n\nUses: The word der means 'the' when unstressed but means 'that' when stressed; without a noun it means 'that one' and is often followed by da ('there'), as in Wir können den da fragen (We can ask that one there). The specifier dieser is used primarily for contrastive purposes; it does not merely mean 'close to me' as the English this does, but rather 'the one I'm indicating now as opposed to that other one', as in Ich habe dieses Glas, er hat das da (I have this glass; he has that one). When there is no contrast but only a pointing indication, the pointing word das is equivalent to both 'this' and 'that', as in Das ist die Strasse (This/That is the street). Welcher is used primarily in questions and, when used without a noun, means 'which one?', as in Welchen Polizisten können wir fragen? and Mit welchem spricht er?.\n\nWhenever one of the der-type specifiers is used without a noun, the form of the specifier is exactly the same as if the noun were present: Ich spreche mit dem (I am talking to that man), Ich spreche mit dieser (I'm talking to this woman), Mit welchem sprechen Sie? (Which one are you talking to?). The article observes that the stressed der-type specifier has a definite pointing implication; conventions of polite behaviour impose limitations on the pointing gesture, particularly as applied to persons. In general the same limitations are observed in the use of the der-type specifier without a noun. There are situations where both the pointing gesture and the stressed der-type specifier are appropriate, such as giving directions, but indiscriminate use is avoided."
+      }
+    ],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 14,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "title": "unit3_situation_at_the_hotel",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Mr. Allen has just arrived in Germany."
+      },
+      {
+        "sequence_id": 2,
+        "text": "At the hotel where he is staying he asks the clerk where the cathedral, palace, museum, etc., are and if there is a restaurant downtown near by."
+      },
+      {
+        "sequence_id": 3,
+        "text": "The clerk answers his questions, shows him the locations on the map of the city and tells him how to get to the various buildings."
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who has just arrived in Germany?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Mr. Allen",
+            "is_correct": true
+          },
+          {
+            "answer": "Mr. Keller",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Köhler",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Schneider",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does Mr. Allen ask the hotel clerk about?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The locations of the cathedral, palace, museum, and a nearby restaurant",
+            "is_correct": true
+          },
+          {
+            "answer": "The price of his room",
+            "is_correct": false
+          },
+          {
+            "answer": "Train schedules",
+            "is_correct": false
+          },
+          {
+            "answer": "Local weather forecast",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "Where is the restaurant Mr. Allen is interested in located?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Downtown near by",
+            "is_correct": true
+          },
+          {
+            "answer": "On the outskirts of town",
+            "is_correct": false
+          },
+          {
+            "answer": "Inside the palace",
+            "is_correct": false
+          },
+          {
+            "answer": "In another city",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "How does the clerk help Mr. Allen find the buildings?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "By showing him the locations on a map of the city and giving directions",
+            "is_correct": true
+          },
+          {
+            "answer": "By taking him there personally",
+            "is_correct": false
+          },
+          {
+            "answer": "By calling a taxi",
+            "is_correct": false
+          },
+          {
+            "answer": "By giving him a brochure",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which of these is NOT mentioned as a place Mr. Allen asks about?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Airport",
+            "is_correct": true
+          },
+          {
+            "answer": "Cathedral",
+            "is_correct": false
+          },
+          {
+            "answer": "Palace",
+            "is_correct": false
+          },
+          {
+            "answer": "Museum",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "What does the clerk tell Mr. Allen besides the locations of the buildings?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "How to get to the various buildings",
+            "is_correct": true
+          },
+          {
+            "answer": "The history of the buildings",
+            "is_correct": false
+          },
+          {
+            "answer": "Restaurant menu prices",
+            "is_correct": false
+          },
+          {
+            "answer": "Local laws and regulations",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "Where is Mr. Allen staying?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "At a hotel",
+            "is_correct": true
+          },
+          {
+            "answer": "At a friend's house",
+            "is_correct": false
+          },
+          {
+            "answer": "At the museum",
+            "is_correct": false
+          },
+          {
+            "answer": "At the city hall",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "The clerk answers Mr. Allen's questions.",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "True",
+            "is_correct": true
+          },
+          {
+            "answer": "False",
+            "is_correct": false
+          },
+          {
+            "answer": "He ignores them",
+            "is_correct": false
+          },
+          {
+            "answer": "He misunderstands",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of the following best describes the clerk's response to Mr. Allen?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Helpful and informative",
+            "is_correct": true
+          },
+          {
+            "answer": "Uninterested and dismissive",
+            "is_correct": false
+          },
+          {
+            "answer": "Confused and unhelpful",
+            "is_correct": false
+          },
+          {
+            "answer": "Angry and impatient",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "What type of map does the clerk use to show locations?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A map of the city",
+            "is_correct": true
+          },
+          {
+            "answer": "A country map",
+            "is_correct": false
+          },
+          {
+            "answer": "An international map",
+            "is_correct": false
+          },
+          {
+            "answer": "A subway map",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

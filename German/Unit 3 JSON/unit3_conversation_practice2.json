@@ -1,0 +1,156 @@
+[
+  {
+    "title": "unit3_conversation_practice2",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "S: Verzeihung, Herr Wachtmeister, können Sie mir sagen, wo die Universität ist?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "W: Die Universität ist in der Ludwigstrasse."
+      },
+      {
+        "sequence_id": 3,
+        "text": "S: Wie kommt man am besten dahin?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "W: Fahren Sie mit dem Autobus. Er hält hier an der Ecke. In zehn Minuten sind Sie dort."
+      },
+      {
+        "sequence_id": 5,
+        "text": "S: Vielen Dank."
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Whom does the speaker address for directions?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A shopkeeper",
+            "is_correct": false
+          },
+          {
+            "answer": "A policeman",
+            "is_correct": true
+          },
+          {
+            "answer": "A bus driver",
+            "is_correct": false
+          },
+          {
+            "answer": "A waiter",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "Where is the university located?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "On Bahnhofstrasse",
+            "is_correct": false
+          },
+          {
+            "answer": "In Ludwigstrasse",
+            "is_correct": true
+          },
+          {
+            "answer": "On Königsplatz",
+            "is_correct": false
+          },
+          {
+            "answer": "Near the palace",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "How does the policeman suggest getting there?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Walking",
+            "is_correct": false
+          },
+          {
+            "answer": "By taxi",
+            "is_correct": false
+          },
+          {
+            "answer": "By bus",
+            "is_correct": true
+          },
+          {
+            "answer": "By bicycle",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Where does the bus stop?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "At the university",
+            "is_correct": false
+          },
+          {
+            "answer": "At the corner",
+            "is_correct": true
+          },
+          {
+            "answer": "At the market place",
+            "is_correct": false
+          },
+          {
+            "answer": "At the museum",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "How long will it take to reach the university by bus?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Five minutes",
+            "is_correct": false
+          },
+          {
+            "answer": "Ten minutes",
+            "is_correct": true
+          },
+          {
+            "answer": "Fifteen minutes",
+            "is_correct": false
+          },
+          {
+            "answer": "Thirty minutes",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

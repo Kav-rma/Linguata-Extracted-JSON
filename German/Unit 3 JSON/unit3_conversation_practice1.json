@@ -1,0 +1,160 @@
+[
+  {
+    "title": "unit3_conversation_practice1",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "M: Guten Tag, Herr Köhler, wo gehen Sie denn hin?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "K: Ich muss zur Bank gehen und Geld abheben."
+      },
+      {
+        "sequence_id": 3,
+        "text": "M: Das Wetter ist heute so schön. Gehen Sie zu Fuss?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "K: Ja, die Bank ist hier ganz in der Nähe."
+      },
+      {
+        "sequence_id": 5,
+        "text": "M: Darf ich mitkommen?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "K: Aber gerne!"
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What is Herr Köhler planning to do?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Go to the museum",
+            "is_correct": false
+          },
+          {
+            "answer": "Go to the bank to withdraw money",
+            "is_correct": true
+          },
+          {
+            "answer": "Meet a friend at the restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "Take a bus to the university",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "How is the weather described?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Rainy",
+            "is_correct": false
+          },
+          {
+            "answer": "Snowy",
+            "is_correct": false
+          },
+          {
+            "answer": "Very nice",
+            "is_correct": true
+          },
+          {
+            "answer": "Windy",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "How does Herr Köhler plan to get to the bank?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "By bus",
+            "is_correct": false
+          },
+          {
+            "answer": "By foot",
+            "is_correct": true
+          },
+          {
+            "answer": "By car",
+            "is_correct": false
+          },
+          {
+            "answer": "By bicycle",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does the other speaker ask Herr Köhler?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "To drive them to the bank",
+            "is_correct": false
+          },
+          {
+            "answer": "To let them come along",
+            "is_correct": true
+          },
+          {
+            "answer": "To lend some money",
+            "is_correct": false
+          },
+          {
+            "answer": "To show them the city",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "How does Herr Köhler respond to the invitation?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He refuses politely",
+            "is_correct": false
+          },
+          {
+            "answer": "He ignores the request",
+            "is_correct": false
+          },
+          {
+            "answer": "He welcomes the company",
+            "is_correct": true
+          },
+          {
+            "answer": "He asks to wait",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

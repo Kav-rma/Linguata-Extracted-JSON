@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit3_noun_modifiers",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "How can the words 'good', 'these', 'suitcases', and 'two' be arranged into a single English phrase?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "these two good suitcases",
+            "is_correct": true
+          },
+          {
+            "answer": "good suitcases two these",
+            "is_correct": false
+          },
+          {
+            "answer": "two suitcases good these",
+            "is_correct": false
+          },
+          {
+            "answer": "these suitcases two good",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is the German equivalent of the phrase 'these two good suitcases'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "diese zwei guten Koffer",
+            "is_correct": true
+          },
+          {
+            "answer": "zwei diese guten Koffer",
+            "is_correct": false
+          },
+          {
+            "answer": "dieser zwei gute Koffer",
+            "is_correct": false
+          },
+          {
+            "answer": "guten diese zwei Koffer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which of the following is NOT identified as a type of German noun modifier in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Specifier",
+            "is_correct": false
+          },
+          {
+            "answer": "Numeral",
+            "is_correct": false
+          },
+          {
+            "answer": "Conjunction",
+            "is_correct": true
+          },
+          {
+            "answer": "Adjective",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "According to the lesson, what is a characteristic of numerals from 'zwei' onwards in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They never have any endings",
+            "is_correct": true
+          },
+          {
+            "answer": "They always add -n in the plural",
+            "is_correct": false
+          },
+          {
+            "answer": "They take the same endings as adjectives",
+            "is_correct": false
+          },
+          {
+            "answer": "They act as definite articles",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is true about adjectives in German, according to the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are descriptive words that have comparative and superlative forms",
+            "is_correct": true
+          },
+          {
+            "answer": "They never change their endings",
+            "is_correct": false
+          },
+          {
+            "answer": "They will be treated in Units 1–3",
+            "is_correct": false
+          },
+          {
+            "answer": "They function only as specifiers",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Into how many sub-classes are German specifiers divided?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Two",
+            "is_correct": true
+          },
+          {
+            "answer": "Three",
+            "is_correct": false
+          },
+          {
+            "answer": "Four",
+            "is_correct": false
+          },
+          {
+            "answer": "One",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which of the following options lists the two sub-classes of German specifiers mentioned in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "der-type specifiers and ein-type specifiers",
+            "is_correct": true
+          },
+          {
+            "answer": "adjective-type and numeral-type",
+            "is_correct": false
+          },
+          {
+            "answer": "verb-type and noun-type",
+            "is_correct": false
+          },
+          {
+            "answer": "plural-type and singular-type",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which group of noun modifiers includes the German word 'zwei'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Numerals",
+            "is_correct": true
+          },
+          {
+            "answer": "Specifiers",
+            "is_correct": false
+          },
+          {
+            "answer": "Adjectives",
+            "is_correct": false
+          },
+          {
+            "answer": "Pronouns",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which example is given in the article as a German specifier?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "diese",
+            "is_correct": true
+          },
+          {
+            "answer": "zwei",
+            "is_correct": false
+          },
+          {
+            "answer": "guten",
+            "is_correct": false
+          },
+          {
+            "answer": "Koffer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which statement best describes the relationship between der-type and ein-type specifiers?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They share similar patterns for the most part but have some differences",
+            "is_correct": true
+          },
+          {
+            "answer": "They are identical in form to numerals",
+            "is_correct": false
+          },
+          {
+            "answer": "They have completely different patterns with no similarities",
+            "is_correct": false
+          },
+          {
+            "answer": "They never function as modifiers",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "1. The four werds 'good', 'these', 'suitcases', and 'twe' can only be put together in one way so as to make of them a single phrase: 'these twe good suitcases'. This is also true of the German equivalents of these werds: they can only appear as diese zwei guten Koffer.\n\n2. The phrase diese zwei guten Koffer is composed of a NOUN (Koffer) and three different kinds of Noun Modifiers: a SPECIFIER (diese), a NUMERAL (zwei), and an ADJECTIVE (guten).\n\n3. Outline Classification of Noun Modifiers: SPECIFIERS, NUMERALS, ADJECTIVES.\n\n4. A three-fold treatment of German noun-modifiers is forced upon us by the facts of the German lanquage, since these three groups of werds exhibit different formal patterns—that is, different patterns of endings.\n\n   a. The formal pattern of the NUMERALS is very s~ple: the numbers from zwei 'twe' on up never have any endings. (Fractions and numbers like 'fourth' and 'seventh' will be dealt with later.)\n\n   b. The formal patterns of the ADJECTIVES will be treated in Units 6–9. Adjectives are descriptive werds (red, White, blue, tall, dark, handsome) which have superlative and comparative forms (reddest, whitest, taller, darker).\n\n   c. The formal patterns of the SPECIFIERS compel us to divide them into two sub-classes: the der-TYPE SPECIFIERS (specifiers which have the same pattern of endings as der 'the') and the ein-TYPE SPECIFIERS (specifiers which have the same pattern of endings as ein 'a'). The formal patterns of the two subgroups are alike for the most part, but there are a couple of differences, so we are forced to deal with them separately."
+      }
+    ],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 11,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

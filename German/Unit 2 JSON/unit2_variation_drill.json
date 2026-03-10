@@ -1,1465 +1,1071 @@
-{
-  "title": "unit2_variation_drill",
-  "type": "vocabulary",
-  "questions_and_answers": [
-    {
-      "sequence_id": 1,
-      "question_text": "Ich komme.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm coming.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 2,
-      "question_text": "Ich komme auch.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm coming too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 3,
-      "question_text": "Ich komme nicht.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm not coming.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 4,
-      "question_text": "Ich komme auch nicht.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm not coming either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 5,
-      "question_text": "Bleibt sie?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Is she staying?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question_text": "Bleibt sie auch?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Is she staying too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 7,
-      "question_text": "Bleibt sie nicht?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Isn't she staying?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 8,
-      "question_text": "Bleibt sie auch nicht?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Isn't she staying either?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 9,
-      "question_text": "Wir arbeiten dort.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We work there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 10,
-      "question_text": "Wir arbeiten auch dort.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We work there too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 11,
-      "question_text": "Wir arbeiten nicht dort.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We don't work there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 12,
-      "question_text": "Wir arbeiten auch nicht dort.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We don't work there either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 13,
-      "question_text": "Können sie kommen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can they come?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 14,
-      "question_text": "Können sie auch kommen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can they come too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 15,
-      "question_text": "Können sie nicht kommen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can't they come?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 16,
-      "question_text": "Können sie auch nicht kommen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can't they come either?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 17,
-      "question_text": "Können sie jetzt kommen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can they come now?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 18,
-      "question_text": "Können sie jetzt nicht kommen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can't they come now?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 19,
-      "question_text": "Können sie jetzt auch nicht kommen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can't they come now either?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 20,
-      "question_text": "Er will sie treffen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He intends to meet her.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 21,
-      "question_text": "Er will sie auch treffen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He intends to meet her too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 22,
-      "question_text": "Er will sie nicht treffen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He doesn't intend to meet her.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 23,
-      "question_text": "Er will sie auch nicht treffen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He doesn't intend to meet her either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 24,
-      "question_text": "Er will sie dort nicht treffen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He doesn't intend to meet her there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 25,
-      "question_text": "Er will sie dort auch nicht treffen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He doesn't intend to meet her there either.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 26,
-      "question_text": "Allens sind Amerikaner.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The Allens are Americans.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 27,
-      "question_text": "Wir sind auch Amerikaner.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We are Americans too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 28,
-      "question_text": "Ist Frau Kunze Deutsche?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Is Mrs. Kunze German?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 29,
-      "question_text": "Nein, sie ist Amerikanerin.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, she is an American.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 30,
-      "question_text": "Ich bin Amerikaner.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm an American (man).",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 31,
-      "question_text": "Wo fahren Sie heute hin?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where are you going today?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 32,
-      "question_text": "Ich fahre nach München.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm going to Munich.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 33,
-      "question_text": "Wo fährt er jetzt hin?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where is he going now?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 34,
-      "question_text": "Er fährt nach Bonn.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He's going to Bonn.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 35,
-      "question_text": "Wo gehen Sie hin?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where are you going?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 36,
-      "question_text": "Ich gehe ins Kino.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm going to the movies.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 37,
-      "question_text": "Wo geht sie hin?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where is she going?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 38,
-      "question_text": "Sie geht gerade essen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "She's just going to eat.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 39,
-      "question_text": "Wo fahren sie hin?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where are they going?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 40,
-      "question_text": "Sie fahren nach Schwabing.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "They're going to Schwabing.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 41,
-      "question_text": "Ich glaube, er kennt Sie.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I think he knows you.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 42,
-      "question_text": "Er sagt, er kommt aus Deutschland.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He says he comes from Germany.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 43,
-      "question_text": "Ich glaube, sie arbeiten im Konsulat.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I think they work at the consulate.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 44,
-      "question_text": "Sie sagt, sie spricht auch deutsch.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "She says she speaks German too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 45,
-      "question_text": "Er glaubt, ich kenne ihn.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He thinks I know him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 46,
-      "question_text": "Sie sagen, ich kenne ihn auch?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "You say I know him too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 47,
-      "question_text": "Er sagt, sie wohnt im Bayrischen Hof.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He says she lives in the Bayrischen Hof.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 48,
-      "question_text": "Wir möchten hier bleiben.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We'd like to stay here.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 49,
-      "question_text": "Sie wollen nach Tölz fahren.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "They want to drive to Tölz.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 50,
-      "question_text": "Dürfen wir deutsch sprechen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "May we speak German?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 51,
-      "question_text": "Ich kann Sie in Bonn besuchen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I can visit you in Bonn.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 52,
-      "question_text": "Er muss gerade arbeiten.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He has to work right now.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 53,
-      "question_text": "Wo kommen Sie her?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where do you come from?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 54,
-      "question_text": "Ich komme aus Amerika.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I come from America.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 55,
-      "question_text": "Wo kommt er her?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where does he come from?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 56,
-      "question_text": "Er kommt aus Deutschland.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He comes from Germany.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 57,
-      "question_text": "Wo kommt sie her?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where does she come from?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 58,
-      "question_text": "Kommt sie auch aus Bonn?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Does she come from Bonn too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 59,
-      "question_text": "Kommt er aus Amerika, oder wo kommt er her?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Does he come from America, or where does he come from?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 60,
-      "question_text": "Wo kommen sie her?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where do they come from?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 61,
-      "question_text": "Sie kommen aus Frankfurt.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "They come from Frankfurt.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 62,
-      "question_text": "Er trifft Herrn Allen in Bonn.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He's meeting Mr. Allen in Bonn.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 63,
-      "question_text": "Ich treffe sie in München.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm meeting her in Munich.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 64,
-      "question_text": "Wir treffen Herrn und Frau Keller in Amerika.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We meet Mr. and Mrs. Keller in America.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 65,
-      "question_text": "Treffen Sie Fräulein Schneider heute?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Are you meeting Miss Schneider today?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 66,
-      "question_text": "Sie trifft Frau Bauer in Frankfurt.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "She meets Mrs. Bauer in Frankfurt.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 67,
-      "question_text": "Wie gefällt es Ihnen in München?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "How do you like it in Munich?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 68,
-      "question_text": "Gefällt es Ihnen in Deutschland?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Do you like it in Germany?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 69,
-      "question_text": "Es gefällt uns hier sehr gut.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We like it very much here.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 70,
-      "question_text": "Mir gefällt es sehr gut in Bonn.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I like it very much in Bonn.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 71,
-      "question_text": "Es gefällt ihr hier auch sehr gut.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "She likes it here very much too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 72,
-      "question_text": "Kennen Sie Herrn Becker?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Do you know Mr. Becker?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 73,
-      "question_text": "Wir kennen ihn gut.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We know him well.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 74,
-      "question_text": "Kennen Sie auch Frau Bauer?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Do you know Mrs. Bauer too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 75,
-      "question_text": "Nein, ich kenne sie nicht.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, I don't know her.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 76,
-      "question_text": "Sie kennen ihn auch, nicht wahr?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "You know him too, don't you?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 77,
-      "question_text": "Wohnen Sie in der Nähe vom Konsulat?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Do you live in the vicinity of the consulate?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 78,
-      "question_text": "Wohnt er auch in München?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Does he live in Munich too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 79,
-      "question_text": "Er wohnt hier in der Nähe.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He lives here in the vicinity.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 80,
-      "question_text": "Wo wohnen Sie?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where do you live?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 81,
-      "question_text": "Ich wohne im Bayrischen Hof.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I live in the Bayrischen Hof.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 82,
-      "question_text": "Ich gehe ins Kino.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I'm going to the movies.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 83,
-      "question_text": "Gehen Sie auch ins Kino?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Are you going to the movies too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 84,
-      "question_text": "Nein, ich gehe heute nicht ins Kino.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, I'm not going to the movies today.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 85,
-      "question_text": "Mit wem geht sie ins Kino?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who is she going to the movies with?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 86,
-      "question_text": "Sie geht heute mit uns ins Kino.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "She's going to the movies with us today.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 87,
-      "question_text": "Wer ist die Dame dort?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who is the lady there?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 88,
-      "question_text": "Wer wohnt im Bayrischen Hof?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who lives in the Bayrischen Hof?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 89,
-      "question_text": "Wer kennt Herrn und Frau Allen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who knows Mr. and Mrs. Allen?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 90,
-      "question_text": "Wer kann hier deutsch sprechen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who can speak German here?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 91,
-      "question_text": "Wer will heute ins Kino gehen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who wants to go to the movies today?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 92,
-      "question_text": "Ich spreche oft englisch mit ihr.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I often speak English with her.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 93,
-      "question_text": "Wir sprechen oft deutsch mit ihm.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We often speak German with him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 94,
-      "question_text": "Er spricht oft englisch mit uns.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He often speaks English with us.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 95,
-      "question_text": "Sprechen Sie bitte oft deutsch mit mir.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Please speak German with me often.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 96,
-      "question_text": "Spricht sie auch oft englisch mit Ihnen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Does she often speak English with you too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 97,
-      "question_text": "Wie heissen Sie?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "What is your name?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 98,
-      "question_text": "Er heisst Fritz Keller.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "His name is Fritz Keller.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 99,
-      "question_text": "Sie heisst Elisabeth, nicht wahr?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Her name is Elisabeth, isn't it?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 100,
-      "question_text": "Ich heisse Heinz Becker.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "My name is Heinz Becker.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 101,
-      "question_text": "Heissen Sie Bauer oder Brauer?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Is your name Bauer or Brauer?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 102,
-      "question_text": "Wen wollen Sie dort besuchen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who are you going to visit there?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 103,
-      "question_text": "Wen besuchen Sie in Bonn?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who are you visiting in Bonn?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 104,
-      "question_text": "Er will uns heute besuchen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He plans to visit us today.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 105,
-      "question_text": "Wir wollen Herrn und Frau Allen besuchen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We want to visit Mr. and Mrs. Allen.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 106,
-      "question_text": "Wen besucht sie in Deutschland?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who is she visiting in Germany?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 107,
-      "question_text": "Der Pass gehört mir.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The passport belongs to me.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 108,
-      "question_text": "Gehört Ihnen dieser Koffer hier?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Does this suitcase here belong to you?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 109,
-      "question_text": "Wem gehören die Streichhölzer?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who do the matches belong to?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 110,
-      "question_text": "Ich glaube, das Gepäck gehört ihr.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "I believe the luggage belongs to her.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 111,
-      "question_text": "Er sagt, die Zigarren gehören ihm nicht.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He says the cigars don't belong to him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 112,
-      "question_text": "Was haben Sie heute vor?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "What do you plan to do today?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 113,
-      "question_text": "Wir haben heute viel vor.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "We have a lot planned for today.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 114,
-      "question_text": "Haben Sie heute schon etwas vor?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Do you already have something planned for today?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 115,
-      "question_text": "Was hat Fräulein Kunze vor?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "What does Miss Kunze plan to do?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 116,
-      "question_text": "Was haben Herr und Frau Allen vor?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "What are Mr. and Mrs. Allen planning to do?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 117,
-      "question_text": "Sie wohnen in der Ludwigstrasse, nicht wahr?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "You live on Ludwigstrasse, don't you?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 118,
-      "question_text": "Sie fährt heute nach Tölz, nicht wahr?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "She's driving to Tölz today, isn't she?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 119,
-      "question_text": "Er ist Diplomat, nicht wahr?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He's a diplomat, isn't he?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 120,
-      "question_text": "Sie geben ihm die Adresse, nicht wahr?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "You'll give him the address, won't you?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 121,
-      "question_text": "Das Konsulat ist hier in der Nähe, nicht wahr?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The consulate is here in the vicinity, isn't it?",
-          "is_correct": true
-        }
-      ]
+[
+  {
+    "title": "unit2_variation_drill",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Stadt - Bank - Adresse - Dame - Amerikanerin - Deutsche - Milch - Botschaft",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "city - bank - address - lady - American woman - German woman - milk - embassy",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "die Stadt",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the city",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "die Bank",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the bank",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "die Adresse",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the address",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "die Dame",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the lady",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "die Amerikanerin",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the American woman",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "die Deutsche",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the German woman",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "die Milch",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the milk",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "die Botschaft",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the embassy",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Streichhölzer - Zigarren - Kartoffeln - Eltern",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "matches - cigars - potatoes - parents",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "die Streichhölzer",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the matches",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "die Zigarren",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the cigars",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "die Kartoffeln",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the potatoes",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "die Eltern",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the parents",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Beamte - Dame - Konsulat - Tee - Kino - Eltern - Milch - Pass - Restaurant - Bier - Amerikanerin - Cafe - Koffer - Streichhölzer - Bank - Diplomat - Ober - Gepäck - Adresse - Kartoffeln - Bahnhof",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "official - lady - consulate - tea - cinema - parents - milk - passport - restaurant - beer - American woman - cafe - suitcase - matches - bank - diplomat - waiter - luggage - address - potatoes - station",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "der Beamte",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the official",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "die Dame",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the lady",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "das Konsulat",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the consulate",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "der Tee",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the tea",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "das Kino",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the cinema",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "die Eltern",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the parents",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "die Milch",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the milk",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "der Pass",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the passport",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "das Restaurant",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the restaurant",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "das Bier",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the beer",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "die Amerikanerin",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the American woman",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "das Cafe",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the cafe",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "der Koffer",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the suitcase",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "die Streichhölzer",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the matches",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "die Bank",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the bank",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "der Diplomat",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the diplomat",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "der Ober",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the waiter",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "das Gepäck",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the luggage",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "die Adresse",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the address",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "die Kartoffeln",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the potatoes",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "der Bahnhof",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the station",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Ich komme.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I'm coming.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Ich komme auch.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I'm coming too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Ich komme nicht.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I'm not coming.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Ich komme auch nicht.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I'm not coming either.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Bleibt sie?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Is she staying?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Bleibt sie auch?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Is she staying too?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "Bleibt sie nicht?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Isn't she staying?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "Bleibt sie auch nicht?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Isn't she staying either?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "Wir arbeiten dort.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We work there.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "Wir arbeiten auch dort.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We work there too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "Wir arbeiten nicht dort.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We don't work there.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "Wir arbeiten auch nicht dort.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We don't work there either.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "Können sie kommen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can they come?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "Können sie auch kommen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can they come too?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "Können sie nicht kommen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can't they come?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "Können sie auch nicht kommen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can't they come either?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "Können sie jetzt kommen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can they come now?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "Können sie jetzt nicht kommen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can't they come now?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "Können sie jetzt auch nicht kommen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can't they come now either?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "Er will sie treffen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He intends to meet her.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "Er will sie auch treffen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He intends to meet her too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "Er will sie nicht treffen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He doesn't intend to meet her.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "Er will sie auch nicht treffen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He doesn't intend to meet her either.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "Er will sie dort nicht treffen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He doesn't intend to meet her there.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "Er will sie dort auch nicht treffen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He doesn't intend to meet her there either.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "Allens sind Amerikaner.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Allens are Americans.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "Wir sind auch Amerikaner.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We're Americans too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "Ist Frau Kunze Deutsche?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Is Mrs. Kunze German?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 65,
+        "question_text": "Nein, sie ist Amerikanerin.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "No, she is an American.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 66,
+        "question_text": "Ich bin Amerikaner.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I'm an American.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 67,
+        "question_text": "Wo fahren Sie heute hin? Ich fahre nach München.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where are you going today? I'm going to Munich.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 68,
+        "question_text": "Wo fährt er jetzt hin? Er fährt nach Bonn.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where is he going now? He's going to Bonn.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 69,
+        "question_text": "Wo gehen Sie hin? Ich gehe ins Kino.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where are you going? I'm going to the movies.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 70,
+        "question_text": "Wo geht sie hin? Sie geht gerade essen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where is she going? She's just going to eat.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 71,
+        "question_text": "Wo fahren sie hin? Sie fahren nach Schwabing.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where are they going? They're going to Schwabing.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 72,
+        "question_text": "Ich glaube, er kennt Sie.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I think he knows you.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 73,
+        "question_text": "Er sagt, er kommt aus Deutschland.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He says he comes from Germany.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 74,
+        "question_text": "Ich glaube, sie arbeiten im Konsulat.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I think they work at the consulate.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 75,
+        "question_text": "Sie sagt, sie spricht auch deutsch.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "She says she speaks German too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 76,
+        "question_text": "Er glaubt, ich kenne ihn.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He thinks I know him.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 77,
+        "question_text": "Sie sagen, ich kenne ihn auch?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "You say I know him too?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 78,
+        "question_text": "Er sagt, sie wohnt im Bayrischen Hof.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He says she lives in the Bayrischen Hof.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 79,
+        "question_text": "Wir möchten hier bleiben.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We'd like to stay here.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 80,
+        "question_text": "Sie wollen nach Tölz fahren.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They want to drive to Tölz.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 81,
+        "question_text": "Dürfen wir deutsch sprechen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "May we speak German?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 82,
+        "question_text": "Ich kann Sie in Bonn besuchen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I can visit you in Bonn.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 83,
+        "question_text": "Er muss gerade arbeiten.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He has to work right now.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 84,
+        "question_text": "Wo kommen Sie her? Ich komme aus Amerika.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where do you come from? I come from America.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 85,
+        "question_text": "Wo kommt er her? Er kommt aus Deutschland.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where does he come from? He comes from Germany.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 86,
+        "question_text": "Wo kommt sie her? Kommt sie auch aus Bonn?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where does she come from? Does she come from Bonn too?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 87,
+        "question_text": "Kommt er aus Amerika, oder wo kommt er her?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Does he come from America, or where does he come from?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 88,
+        "question_text": "Wo kommen sie her? Sie kommen aus Frankfurt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Where do they come from? They come from Frankfort.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 18,
+      "page_end": 19,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
     }
-  ],
-  "articles": [],
-  "metadata": {
-    "page_start": 39,
-    "page_end": 43,
-    "are_questions_english": false,
-    "are_questions_generated_by_llm": false
   }
-}
+]

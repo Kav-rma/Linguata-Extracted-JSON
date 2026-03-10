@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit3_nouns",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What distinctions in form does German make among nouns, as mentioned in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Der-nouns, das-nouns, and die-nouns with Nominative, Accusative, and Dative forms",
+            "is_correct": true
+          },
+          {
+            "answer": "Singular, dual, and plural nouns only",
+            "is_correct": false
+          },
+          {
+            "answer": "Common and proper nouns without case distinctions",
+            "is_correct": false
+          },
+          {
+            "answer": "Neuter nouns only",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which of the following German nouns has distinctive Nominative and non-Nominative forms according to the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "der Herr",
+            "is_correct": true
+          },
+          {
+            "answer": "das Buch",
+            "is_correct": false
+          },
+          {
+            "answer": "die Stadt",
+            "is_correct": false
+          },
+          {
+            "answer": "das Museum",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which is the accusative form of 'der Polizist' listed in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "den Polizisten",
+            "is_correct": true
+          },
+          {
+            "answer": "dem Polizisten",
+            "is_correct": false
+          },
+          {
+            "answer": "der Polizist",
+            "is_correct": false
+          },
+          {
+            "answer": "den Polizist",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which of these nouns is included in the list of nouns with distinctive forms in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "der Diplomat",
+            "is_correct": true
+          },
+          {
+            "answer": "die Universität",
+            "is_correct": false
+          },
+          {
+            "answer": "das Rathaus",
+            "is_correct": false
+          },
+          {
+            "answer": "die Bank",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What case form is used in the example sentence 'Ich will den Polizisten dort mal fragen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Accusative",
+            "is_correct": true
+          },
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Dative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "According to the lesson, where do the distinctions among German noun forms also occur?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In pronouns and in the specifiers",
+            "is_correct": true
+          },
+          {
+            "answer": "In adjectives only",
+            "is_correct": false
+          },
+          {
+            "answer": "In numerals",
+            "is_correct": false
+          },
+          {
+            "answer": "Only in informal speech",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which of the following is the dative form of 'der Herr' as listed in the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "dem Herrn",
+            "is_correct": true
+          },
+          {
+            "answer": "den Herrn",
+            "is_correct": false
+          },
+          {
+            "answer": "der Herr",
+            "is_correct": false
+          },
+          {
+            "answer": "dem Herr",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What is highlighted as the reason for listing specific nouns like Herr and Polizist in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They have distinctive Nominative and non-Nominative forms",
+            "is_correct": true
+          },
+          {
+            "answer": "They are the only nouns used in Unit 3",
+            "is_correct": false
+          },
+          {
+            "answer": "They are examples of neuter nouns",
+            "is_correct": false
+          },
+          {
+            "answer": "They change forms only in the plural",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "According to the article, which noun form corresponds to the dative of 'der Diplomat'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "dem Diplomaten",
+            "is_correct": true
+          },
+          {
+            "answer": "den Diplomaten",
+            "is_correct": false
+          },
+          {
+            "answer": "der Diplomat",
+            "is_correct": false
+          },
+          {
+            "answer": "dem Diplomat",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which statement best summarizes the lesson's discussion of nouns?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Certain masculine nouns like Herr, Diplomant, Beamte and Polizist have distinctive forms in the Nominative, Accusative and Dative cases",
+            "is_correct": true
+          },
+          {
+            "answer": "German nouns never change form across cases",
+            "is_correct": false
+          },
+          {
+            "answer": "All nouns follow the same case pattern as adjectives",
+            "is_correct": false
+          },
+          {
+            "answer": "Only feminine nouns change forms in the dative",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "C. NOUNS\n\nWe have noted that German distinguishes der-nouns, das-nouns and die-nouns, and furthermore Nominative forms, Accusative forms and Dative forms for nouns. These distinctions occur in the pronouns and in the specifiers.\n\nSome German NOUNS also show distinctions in form. The lesson gives example sentences such as Herr Becker trifft Herrn und Frau Allen in München (Mr. Becker meets Mr. and Mrs. Allen in Munich), Dort ist der Polizist (There's the policeman), Ich will den Polizisten dort mal fragen (I want to ask the policeman over there).\n\nFour nouns encountered up to this point have distinctive Nominative and non-Nominative forms. They are listed below for reference: Nominative form: der Herr, der Diplomat, der Beamte, der Polizist; Accusative form: den Herrn, den Diplomaten, den Beamten, den Polizisten; Dative form: dem Herrn, dem Diplomaten, dem Beamten, dem Polizisten."
+      }
+    ],
+    "metadata": {
+      "page_start": 14,
+      "page_end": 14,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

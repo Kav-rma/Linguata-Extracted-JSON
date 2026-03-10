@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit3_prepositional_phrases",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which case do the prepositions 'mit', 'bei' and 'von' require according to the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Dative",
+            "is_correct": true
+          },
+          {
+            "answer": "Accusative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          },
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is the contraction of 'bei dem' mentioned in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "beim",
+            "is_correct": true
+          },
+          {
+            "answer": "vom",
+            "is_correct": false
+          },
+          {
+            "answer": "zum",
+            "is_correct": false
+          },
+          {
+            "answer": "zur",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "In the lesson, which preposition is cited as always followed by the Accusative case?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "durch",
+            "is_correct": true
+          },
+          {
+            "answer": "mit",
+            "is_correct": false
+          },
+          {
+            "answer": "nach",
+            "is_correct": false
+          },
+          {
+            "answer": "von",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What is the difference between the Dative and Accusative following a two-way preposition according to the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The Dative indicates location while the Accusative indicates motion towards a destination",
+            "is_correct": true
+          },
+          {
+            "answer": "The Dative indicates motion and the Accusative indicates location",
+            "is_correct": false
+          },
+          {
+            "answer": "They are interchangeable",
+            "is_correct": false
+          },
+          {
+            "answer": "The Accusative always follows two-way prepositions",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which list contains only dative prepositions mentioned in the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "aus, bei, mit, nach, von, zu",
+            "is_correct": true
+          },
+          {
+            "answer": "durch, an, auf, in",
+            "is_correct": false
+          },
+          {
+            "answer": "an, auf, in, neben",
+            "is_correct": false
+          },
+          {
+            "answer": "gegenüber, durch, von",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which of the following is an example of a contraction with 'zu der'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "zur",
+            "is_correct": true
+          },
+          {
+            "answer": "vom",
+            "is_correct": false
+          },
+          {
+            "answer": "beim",
+            "is_correct": false
+          },
+          {
+            "answer": "zum",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What pronoun form does the lesson say is used with prepositions when referring to inanimate objects?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "da- or dar- attached to the preposition",
+            "is_correct": true
+          },
+          {
+            "answer": "The regular personal pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "No pronoun is used",
+            "is_correct": false
+          },
+          {
+            "answer": "A reflexive pronoun",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which sentence illustrates a dative preposition with a contraction from the lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wir fahren zum Ratskeller",
+            "is_correct": true
+          },
+          {
+            "answer": "Gehen Sie durch den Park",
+            "is_correct": false
+          },
+          {
+            "answer": "Er geht auf die Strasse",
+            "is_correct": false
+          },
+          {
+            "answer": "Es steht dem Dom gegenüber",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "According to the article, which preposition can appear either before or after its specifier and often occurs with 'von'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "gegenüber",
+            "is_correct": true
+          },
+          {
+            "answer": "nach",
+            "is_correct": false
+          },
+          {
+            "answer": "mit",
+            "is_correct": false
+          },
+          {
+            "answer": "durch",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which of the following statements best summarizes the lesson's rules for two-way prepositions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They take the Dative when indicating location and the Accusative when indicating motion toward a destination",
+            "is_correct": true
+          },
+          {
+            "answer": "They are always followed by the Dative case regardless of meaning",
+            "is_correct": false
+          },
+          {
+            "answer": "They require the Genitive when followed by a pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "They cannot contract with articles",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "D. PREPOSITIONAL PHRASES\n\nI. Dative Prepositions: The lesson presents example sentences to illustrate prepositional phrases that require the Dative case, such as Ich spreche mit ihm (I'm talking to him), Ich spreche mit dem Portier (I'm talking to the doorman), Ich spreche mit der Frau (I'm talking to the woman), Ich spreche mit den Eltern von Herrn Keller (I'm talking to the parents of Mr. Keller) and Sie können auch mit der Strassenbahn fahren (You can go on the streetcar too). The article notes that, like pronouns, specifiers which follow a preposition such as mit are in the Dative form. Prepositions that are always followed by Dative forms are referred to as Dative prepositions. Examples include bei der Passkontrolle und beim Zoll (at the passport inspection and at the customs office), rechts vom Dom ist das Museum (to the right of the cathedral is the museum), Ich gehe zu der Bank in der Bahnhofstrasse (I'm going to the bank on Bahnhofstrasse) and Wollen wir zum Ratskeller fahren? (Shall we drive to the Ratskeller?). The article points out contractions such as bei dem → beim, von dem → vom, zu dem → zum and zu der → zur.\n\nThe preposition gegenüber is sometimes followed and sometimes preceded by the specifier in the Dative form. It is generally preceded by the pronoun and by the specifier standing alone without a noun, and it often occurs together with the preposition von: Gegenüber vom Hotel (across from the hotel), Es steht dem Dom gegenüber (It's opposite the cathedral), Mir gegenüber (across from me), Dem gegenüber (across from that).\n\nII. Accusative Prepositions: A few prepositions are always and invariably followed by Accusative forms; the only one encountered so far in the course is durch. For example, Gehen Sie hier durch den Park (Go through the park here). The article notes that durch das can contract to durchs.\n\nIII. Two-way Prepositions: Certain prepositions—an, auf, in and neben—can be followed by either a Dative form or an Accusative form. After a two-way preposition, a Dative form tells where someone or something is to be found (Er ist auf der Strasse – He's on the street), whereas an Accusative form tells where someone or something in motion is going to end up (Er geht auf die Strasse – He's going into the street). The article emphasizes that these prepositions take the Dative when indicating location and the Accusative when indicating motion toward a destination.\n\nIV. The lesson provides a summary of prepositions by category: Accusative prepositions (durch – through); Dative prepositions (aus – out of, from; bei – at; mit – with; nach – toward, to; von – from, of; zu – to) which are always followed by Dative forms; gegenüber – opposite, across from (always preceded or followed by Dative forms); and two-way prepositions (an – at, on; auf – on, upon; in – in; neben – next to, beside) which take the Accusative for motion toward and the Dative for location.\n\nV. Special Pronoun Form with Prepositions: When a pronoun in a prepositional phrase refers to a human being, the regular pronoun forms are used; when it refers to an inanimate object, the form da- is used for all pronouns. It is placed in front of the preposition and is written as part of a single word with the preposition (daneben, davon). If the preposition begins with a vowel, the pronoun form is dar- (darauf, daran, daraus)."
+      }
+    ],
+    "metadata": {
+      "page_start": 15,
+      "page_end": 16,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

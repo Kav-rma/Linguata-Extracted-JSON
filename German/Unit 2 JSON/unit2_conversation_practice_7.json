@@ -1,0 +1,160 @@
+[
+  {
+    "title": "unit2_conversation_practice_7",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wer fragt nach der Adresse der Eltern von Herrn Keller?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "K",
+            "is_correct": true
+          },
+          {
+            "answer": "L",
+            "is_correct": false
+          },
+          {
+            "answer": "G",
+            "is_correct": false
+          },
+          {
+            "answer": "F",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Wo wohnen die Eltern von Herrn Keller?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "in München",
+            "is_correct": true
+          },
+          {
+            "answer": "in Bonn",
+            "is_correct": false
+          },
+          {
+            "answer": "in Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "in Schwabing",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Was möchte K machen, nachdem er nach Schwabing fährt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Die Eltern besuchen",
+            "is_correct": true
+          },
+          {
+            "answer": "Ins Kino gehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Essen gehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Einen Freund treffen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Was fragt L K?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ob er sie besuchen will",
+            "is_correct": true
+          },
+          {
+            "answer": "Ob er Deutsch sprechen kann",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob er nach Schwabing fahren will",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob er im Konsulat arbeitet",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Wie antwortet K auf die Frage, ob er sie besuchen will?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ja",
+            "is_correct": true
+          },
+          {
+            "answer": "Nein",
+            "is_correct": false
+          },
+          {
+            "answer": "Vielleicht",
+            "is_correct": false
+          },
+          {
+            "answer": "Später",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "K: Wo wohnen eigentlich die Eltern von Herrn Keller?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "L: Sie wohnen in München."
+      },
+      {
+        "sequence_id": 3,
+        "text": "K: Können Sie mir ihre Adresse geben?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "L: Gern; wollen Sie sie besuchen?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "K: Ja."
+      },
+      {
+        "sequence_id": 6,
+        "text": "K: Ich muss heute nach Schwabing fahren und da will ich sie auch besuchen."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

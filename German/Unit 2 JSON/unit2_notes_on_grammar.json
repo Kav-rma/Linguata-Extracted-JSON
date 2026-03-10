@@ -1,258 +1,260 @@
-{
-  "title": "unit2_notes_on_grammar",
-  "type": "grammar",
-  "questions_and_answers": [
-    {
-      "sequence_id": 1,
-      "question": "Which case is used for the actor (subject) of a German sentence?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Accusative",
-          "is_correct": false
-        },
-        {
-          "answer": "Dative",
-          "is_correct": false
-        },
-        {
-          "answer": "Nominative",
-          "is_correct": true
-        },
-        {
-          "answer": "Genitive",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 2,
-      "question": "What is the correct German accusative form of 'ich'?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "mich",
-          "is_correct": true
-        },
-        {
-          "answer": "mir",
-          "is_correct": false
-        },
-        {
-          "answer": "ich",
-          "is_correct": false
-        },
-        {
-          "answer": "miches",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 3,
-      "question": "The dative form of 'sie' (singular feminine) is: ",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "sie",
-          "is_correct": false
-        },
-        {
-          "answer": "ihr",
-          "is_correct": true
-        },
-        {
-          "answer": "ihnen",
-          "is_correct": false
-        },
-        {
-          "answer": "ihrn",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 4,
-      "question": "In the sentence 'Ich kenne ihn', the pronoun 'ihn' is in which case?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Nominative",
-          "is_correct": false
-        },
-        {
-          "answer": "Accusative",
-          "is_correct": true
-        },
-        {
-          "answer": "Dative",
-          "is_correct": false
-        },
-        {
-          "answer": "Genitive",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 5,
-      "question": "Which pronoun would correctly replace 'mit ihm' (with him) in a sentence requiring the dative case?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "ihn",
-          "is_correct": false
-        },
-        {
-          "answer": "er",
-          "is_correct": false
-        },
-        {
-          "answer": "ihm",
-          "is_correct": true
-        },
-        {
-          "answer": "sie",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 6,
-      "question": "The correct present tense form of 'kommen' for 'wir' is: ",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "kommt",
-          "is_correct": false
-        },
-        {
-          "answer": "kommen",
-          "is_correct": true
-        },
-        {
-          "answer": "komme",
-          "is_correct": false
-        },
-        {
-          "answer": "kommst",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 7,
-      "question": "Which modal verb pair is correctly matched with its first person singular form?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "können – kannt",
-          "is_correct": false
-        },
-        {
-          "answer": "dürfen – darf",
-          "is_correct": true
-        },
-        {
-          "answer": "müssen – müss",
-          "is_correct": false
-        },
-        {
-          "answer": "wollen – wilt",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 8,
-      "question": "What does the principle of substitution in German grammar explain?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "Changing verbs to match subjects",
-          "is_correct": false
-        },
-        {
-          "answer": "Replacing pronouns only with pronouns of the same case",
-          "is_correct": true
-        },
-        {
-          "answer": "Replacing nouns with adjectives",
-          "is_correct": false
-        },
-        {
-          "answer": "Changing noun gender",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 9,
-      "question": "Which of the following verbs has an irregular stem in the third-person singular (er-form)?",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "kommen – kommt",
-          "is_correct": false
-        },
-        {
-          "answer": "geben – gibt",
-          "is_correct": true
-        },
-        {
-          "answer": "arbeiten – arbeitet",
-          "is_correct": false
-        },
-        {
-          "answer": "wohnen – wohnt",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
-    },
-    {
-      "sequence_id": 10,
-      "question": "The verb 'haben' in the first person singular is: ",
-      "type": "multiple_choice",
-      "answers": [
-        {
-          "answer": "hat",
-          "is_correct": false
-        },
-        {
-          "answer": "haben",
-          "is_correct": false
-        },
-        {
-          "answer": "habe",
-          "is_correct": true
-        },
-        {
-          "answer": "habt",
-          "is_correct": false
-        }
-      ],
-      "has_answer": true
+[
+  {
+    "title": "unit2_notes_on_grammar",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which case does a German pronoun take when it acts as the subject (the actor in a sentence)?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nominative",
+            "is_correct": true
+          },
+          {
+            "answer": "Accusative",
+            "is_correct": false
+          },
+          {
+            "answer": "Dative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "In German, the pronouns mich, uns, ihn etc. belong to which case?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Accusative",
+            "is_correct": true
+          },
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Dative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which pronoun form is used to designate the interested bystander or indirect object in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Dative",
+            "is_correct": true
+          },
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Accusative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "If a pronoun follows the preposition 'mit', which case must it take?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Dative",
+            "is_correct": true
+          },
+          {
+            "answer": "Accusative",
+            "is_correct": false
+          },
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "In the substitution principle, when substituting a pronoun in a sentence like 'Er kennt mich', which forms can replace 'mich'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Only other accusative forms",
+            "is_correct": true
+          },
+          {
+            "answer": "Only nominative forms",
+            "is_correct": false
+          },
+          {
+            "answer": "Only dative forms",
+            "is_correct": false
+          },
+          {
+            "answer": "Any form",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which pronoun forms correspond to the first person singular in the nominative, accusative and dative cases?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "ich / mich / mir",
+            "is_correct": true
+          },
+          {
+            "answer": "ich / mir / mich",
+            "is_correct": false
+          },
+          {
+            "answer": "wir / uns / euch",
+            "is_correct": false
+          },
+          {
+            "answer": "er / ihn / ihm",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "How does German express the English progressive aspect (e.g., 'he's singing')?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It uses the simple verb form without an -ing equivalent",
+            "is_correct": true
+          },
+          {
+            "answer": "It uses a verb ending in -ing",
+            "is_correct": false
+          },
+          {
+            "answer": "It uses a modal verb",
+            "is_correct": false
+          },
+          {
+            "answer": "It omits the verb",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What is the special characteristic of the verbs arbeiten and kosten in the er-form?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They require a connecting vowel -e- before the ending -t",
+            "is_correct": true
+          },
+          {
+            "answer": "They drop the -t ending",
+            "is_correct": false
+          },
+          {
+            "answer": "They change their vowel in the stem",
+            "is_correct": false
+          },
+          {
+            "answer": "They take an -s ending like the English he-form",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which words are added to 'wo' to mean 'where from?' and 'where to?' respectively?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "her for 'where from?' and hin for 'where to?'",
+            "is_correct": true
+          },
+          {
+            "answer": "hin for 'where from?' and her for 'where to?'",
+            "is_correct": false
+          },
+          {
+            "answer": "hin for both meanings",
+            "is_correct": false
+          },
+          {
+            "answer": "her for both meanings",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Where does the infinitive appear in a German verb phrase like 'Ich kann gehen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At the end of the sentence and unaffected by subject",
+            "is_correct": true
+          },
+          {
+            "answer": "Immediately after the conjugated verb",
+            "is_correct": false
+          },
+          {
+            "answer": "Before the subject",
+            "is_correct": false
+          },
+          {
+            "answer": "It is omitted",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Notes on Grammar (For Home Study)\nA. Pronouns – Forms and functions.\nI. Forms.\nIn the following English sentences the pronouns are underlined. Note their forms. Most English pronouns have two different forms: I-me, he-him, she-her, etc. Some, like you and it, have only one form however.\n\nNote the forms of the German pronouns in the following sentences:\nVerstehen Sie mich?\nJa, ich verstehe Sie gut.\nWie geht es Ihnen?\nEr spricht englisch mit mir.\nSome German pronouns have two different forms, like Sie and Ihnen above. Many German pronouns however have three different forms like ich, mich and mir.\n\nThe following table gives the forms of the most common German pronouns:\nNominative forms:\nich, wir, er, es, sie, sie, Sie, wer, was\nAccusative forms:\nmich, uns, ihn, es, sie, sie, Sie, wen, was\nDative forms:\nmir (me), uns (us), ihm (him), ihm (it), ihr (her), ihnen (them), Ihnen (you), wem (whom?), was (what?)\nThe English forms at the top of the table correspond to the set of German forms above the line. Those at the bottom of the table correspond to the two sets of German forms below the line. The pronouns wer and was are used only in questions. The pronouns for familiar address, du and ihr, will be taken up later.\n\nII. Functions.\nThe NOMINATIVE form: In German, as in English, the basic sentence structure is an ACTOR-ACTION pattern: somebody doing something. The ACTOR is called the SUBJECT of the sentence, and in German a pronoun designating the ACTOR always has the NOMINATIVE form.\nIch verstehe sehr gut.\nEr wohnt ganz in meiner Nähe.\nWir wollen gerade essen gehen.\nI understand very well. He lives quite near me. We’re just planning to go and eat.\n\nThe ACCUSATIVE form: In many sentences in both English and German there is another element, the GOAL or OBJECT of the action, the person or thing toward which the action is aimed. In German a pronoun designating the OBJECT of an action is usually in the ACCUSATIVE form.\nIch kenne ihn sehr gut.\nVerstehen Sie mich?\nWir treffen sie dort.\nI know him very well. Do you understand me? We’re meeting them (or her) there.\n\nThe DATIVE form: The third form of the German pronoun is used to designate the INTERESTED BYSTANDER, the person to whom or for whom or with regard to whom the action of the sentence is being performed. In some cases this is referred to as the INDIRECT OBJECT.\nKönnen Sie mir seine Adresse geben?\nSie müssen ihm Ihren Pass zeigen.\nWie geht es Ihnen?\nGefällt es Ihnen in München?\nDer Koffer gehört mir nicht.\nCan you give me his address? You have to show him your passport. How are you? Do you like it in Munich? The suitcase doesn’t belong to me.\n\nAnother use of the DATIVE form is illustrated by the following sentences:\nSprechen Sie englisch mit ihr?\nIch fahre oft mit ihm nach Hause.\nDo you speak English with her? I often ride home with him.\nThe DATIVE forms ihr and ihm are used here because they follow the word mit, and that’s all there is to it. Any pronoun that follows mit has the DATIVE form, always and without fail. This has nothing to do with the INTERESTED BYSTANDER usage – it's something entirely different.\n\nB. The Principle of Substitution.\nLanguages, like automobiles, are made up of replaceable parts, but the part you substitute must fit the frame into which it is put. For example, in the frame Er kennt mich (He knows me), the Accusative form mich may be replaced only by other Accusative forms – that is, forms from the same horizontal line in the table of pronoun forms as mich, the line labeled ‘ACCUSATIVE forms’. Similarly, Dative forms must be replaced by other Dative forms, and Nominative forms by other Nominative forms.\nEr kennt mich / uns / ihn / es / sie / sie / Sie / wen? (He knows me / us / him / it / her / them / you / whom?)\nIch gehe oft ins Kino mit ihr / ihm / ihnen. (I often go to the movies with her / him / them.)\nKennen Sie Herrn Becker? wir / sie? (Do you know Mr. Becker? we / they?)\n\nC. Verb forms and functions – The Present\nForms.\nIn German, and in English, when you substitute one Nominative form for another, that is, change the SUBJECT in a sentence, you sometimes have to change the form of the verb as well. The subject and the verb have to fit together. Note the following English forms: I, you, we, they sing, do (no ending); he, it, she sings, does (ending -s).\n\nAll but a very few German verbs have the following forms:\nich komme, gebe (ending -e)\ner, es, sie kommt, gibt (ending -t)\nwir, sie ('they'), Sie kommen, geben (ending -en)\n\nNote that German verbs have a special form with the pronoun ich. Otherwise the pronouns and verbs are grouped as they are in English. Notice that the vowel in the stem of geben appears as i: in the er-form: er gibt. This is something like the English says or does versus say or do, except that in German the vowel-change is shown even more clearly in the writing system. There are several verbs in German that have this kind of irregular er-form, but there is no simple way of determining which verbs they are. They are not very numerous however, and we’ll point them out as we encounter them.\n\nTwo German verbs you have encountered show a very slight modification in the er-form. They are arbeiten and kosten. After a -t- (or a -d-) a connecting vowel -e- occurs before the ending -t so that the ending is heard distinctly: er arbeitet; er kostet.\n\nWe have four verbs so far that exhibit the following pattern:\nich kann, darf, muss, will (no ending)\ner kann, darf, muss, will\nwir können, dürfen, müssen, wollen (ending -en)\nThere are three more verbs with the same pattern, making a total of seven in all. Notice that the English equivalents of the verbs listed above have no -s ending in the he form: he can, he may, he must, and he will (in the sense of he insists).\n\nThe following forms of haben ‘to have’, sein ‘to be’ and möchte(n) ‘would like to’ complete the inventory:\nich habe, bin, möchte\nhe hat, ist, möchte\nwir haben, sind, möchten\nThe patterns of the first two of these verbs are unique and are found in no other German verbs. The forms möchte and möchten are special forms which we will deal with later.\n\nHere is a table of verb forms (pattern A and B special forms):\nich komme, treffe, habe, bin, kann\nhe kommt, trifft, hat, ist\nwir kommen, treffen, können, haben, sind, möchte, möchten\nAll verbs in German follow pattern A or pattern B except the nine indicated and one more that is still to come.\n\nFunctions.\nEnglish uses a verb form with the ending -ing very freely: he’s singing, we're waiting, it’s raining. German has no corresponding form and uses the simple form of the verb for such expressions: er gibt; gibt er? (he gives; is he giving? does he give?).\n\nFor commands, German uses the verb form with the ending -en followed by the pronoun Sie. The German form is like Biblical English: 'Go ye into all the world, and preach the gospel…'. Please speak slowly. Show me your luggage please. Bitte sprechen Sie langsam. zeigen Sie mir bitte Ihr Gepäck.\n\nTwo verb forms can be used together in German or in English as a phrase. Although German doesn't have verb phrases like ‘is going’ or ‘does believe’, it has others:\nIch möchte gern Wasser haben.\nKönnen Sie mich gut verstehen?\nDarf ich Ihren Pass sehen?\nSie müssen zum Zoll gehen.\nI'd like to have water. Can you understand me well? May I see your passport? You have to go to the customs office.\nThe second part of the German verb phrase comes at the end of the sentence and is called the infinitive. It is the form with the ending -en, but it never has a subject and is unaffected by any change of subject: Ich kann gehen. Wir können gehen. There is only one irregular infinitive in German: sein 'to be'; the infinitive of every other verb is the same as the wir-form.\n\nIII. List of verbs in units 1 and 2:\nPattern A: arbeite, besuche, bleibe, gehe, arbeitet, besucht, bleibt, geht, arbeiten, besuchen, bleiben, gehen, gehöre, glaube, heisse, kenne, gehört, glaubt, heisst, kennt, gehören, glauben, heissen, kennen, komme, (koste), kommt, kostet, kommen, kosten.\nPattern B: esse, gebe, sehe, isst, gibt, sieht, essen, geben, sehen, sage, verstehe, sagt, versteht, sagen, verstehen, spreche, treffe, spricht, trifft, sprechen, treffen, wohne, wohnt, wohnen, fahre, fährt, fahren, zeige, zeigt, zeigen, gefalle, gefällt, gefallen.\n\nD. hin and her.\nWo wohnen Sie? Wo kommen Sie her? Wo gehen Sie hin? (Where do you live? Where do you come from? Where are you going to?)\nWo by itself means ‘where?’ in the sense of ‘in what place?’. To give it the meaning ‘where from?’ the little word her is added; to give it the meaning ‘where to?’ the little word hin is added. The position of hin and her is usually at the end of the sentence or question. They may occur alternately however at the beginning after wo. The writing system joins hin and her to the preceding question word or adverb: Woher? ‘Where from?’; Wohin? ‘Where to?’; dahin, dorthin ‘to there’. Wo fahren Sie heute hin? Where are you going today? Wohin fahren Sie heute? Wir fahren dorthin. (We are going there.)"
+      }
+    ],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 16,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
     }
-  ],
-  "articles": [
-    {
-      "sequence_id": 1,
-      "text": "German pronouns have different forms depending on their grammatical case. The nominative forms are used for subjects: ich (I), wir (we), er (he), es (it), sie (she/they), Sie (you). Accusative forms are used for direct objects: mich (me), uns (us), ihn (him), sie (her/them), es (it), Sie (you), wen (whom), was (what). Dative forms are used for indirect objects or after certain prepositions: mir, uns, ihm, ihr, ihnen, Ihnen, wem.\nA pronoun's form must match its function: the subject of a sentence takes the nominative, the direct object takes the accusative, and the indirect object takes the dative. For example: 'Ich kenne ihn' (I know him) uses the accusative ihn; 'Können Sie mir seine Adresse geben?' (Can you give me his address?) uses the dative mir; 'Wie geht es Ihnen?' uses the dative Ihnen.\nThe principle of substitution states that when you replace a pronoun in a sentence, the new pronoun must have the same case as the original. In 'Er kennt mich' (He knows me), you can substitute mich only with other accusative forms like uns (us), ihn (him), sie (her/them), Sie (you), wen (whom), or was (what).\nGerman verb forms in the present tense vary with the subject. Regular verbs have the endings -e for ich, -t for er/es/sie, and -en for wir/sie/Sie. For example, 'ich komme' (I come), 'er kommt' (he comes), 'wir kommen' (we come). Some verbs have irregular stems in the third-person singular, such as 'geben' (er gibt). The modal verbs 'können' (can), 'dürfen' (may), 'müssen' (must), and 'wollen' (want to) follow a pattern where the first person singular lacks an ending (ich kann, ich darf, ich muss, ich will), the third-person singular also lacks the -en ending (er kann), and the plural forms use -en.\nIrregular verbs like 'haben' (to have) and 'sein' (to be) have unique forms: ich habe, du hast, er hat, wir haben, ihr habt, sie haben; ich bin, du bist, er ist, wir sind, ihr seid, sie sind. The auxiliary verb 'möchte' is a special form meaning 'would like to'."
-    }
-  ],
-  "metadata": {
-    "page_start": 32,
-    "page_end": 35,
-    "are_questions_english": true,
-    "are_questions_generated_by_llm": true
   }
-}
+]

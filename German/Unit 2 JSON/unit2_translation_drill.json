@@ -1,541 +1,543 @@
-{
-  "title": "unit2_translation_drill",
-  "type": "vocabulary",
-  "questions_and_answers": [
-    {
-      "sequence_id": 1,
-      "question_text": "Herr Becker war zwei Monate in Bonn.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Becker was in Bonn for two months.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 2,
-      "question_text": "Jetzt ist er in München.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Now he is in Munich.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 3,
-      "question_text": "Er bleibt dort wahrscheinlich ein Jahr.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He's probably going to stay there for a year.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 4,
-      "question_text": "Er trifft Herrn und Frau Allen in München.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He meets Mr. and Mrs. Allen in Munich.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 5,
-      "question_text": "Er kennt sie sehr gut.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He knows them very well.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question_text": "Sie sind Amerikaner.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "They are Americans.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 7,
-      "question_text": "Herr Allen arbeitet im Konsulat.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Allen works at the consulate.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 8,
-      "question_text": "Er ist Diplomat.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He is a Foreign Service Officer.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 9,
-      "question_text": "Allens wohnen im Bayrischen Hof.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The Allens live at the Bayrischen Hof.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 10,
-      "question_text": "Das Hotel ist sehr nett.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The hotel is very nice.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 11,
-      "question_text": "Es ist in der Nähe vom Konsulat.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "It is in the vicinity of the consulate.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 12,
-      "question_text": "Allens gefällt es sehr gut in München.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The Allens like it in Munich very much.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 13,
-      "question_text": "Im Bayrischen Hof ist es auch sehr nett.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "It's very nice at the Bayrischen Hof too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 14,
-      "question_text": "Herr Becker und Allens gehen essen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Becker and the Allens go and eat.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 15,
-      "question_text": "Das Restaurant ist in der Ludwigstrasse.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The restaurant is on Ludwigstrasse.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 16,
-      "question_text": "Dort ist Fräulein Adams, sagt Herr Becker.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "There is Miss Adams, says Mr. Becker.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 17,
-      "question_text": "Wer ist Fräulein Adams?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Who is Miss Adams?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 18,
-      "question_text": "Frau Allen kennt sie nicht.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mrs. Allen doesn't know her.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 19,
-      "question_text": "Aber Herr Becker kennt sie gut.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "However, Mr. Becker knows her well.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 20,
-      "question_text": "Sie ist Amerikanerin.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "She is an American.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 21,
-      "question_text": "Kann sie auch deutsch sprechen?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Can she speak German too?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 22,
-      "question_text": "Ja, sie spricht sogar sehr gut deutsch.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Yes, she speaks German very well in fact.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 23,
-      "question_text": "Allens wollen essen gehen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The Allens want to go and eat.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 24,
-      "question_text": "Herr Becker will mitkommen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Becker wants to come along.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 25,
-      "question_text": "Dann möchte er nach Schwabing fahren.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Then he would like to go to Schwabing.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 26,
-      "question_text": "Dort wohnen die Eltern von Herrn Keller.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Keller's parents live there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 27,
-      "question_text": "Er will sie besuchen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He wants to visit them.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 28,
-      "question_text": "Herr Keller arbeitet auch im Konsulat.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Keller works at the consulate too.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 29,
-      "question_text": "Herr Allen kennt ihn.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Allen knows him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 30,
-      "question_text": "Er fährt oft mit ihm nach Hause.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He often rides home with him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 31,
-      "question_text": "Herr Becker möchte die neue Adresse von Herrn Keller haben.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Becker would like to have Mr. Keller's new address.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 32,
-      "question_text": "Herr Allen gibt sie ihm.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Allen gives it to him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 33,
-      "question_text": "Er wohnt in der Nähe.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He lives in the vicinity.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 34,
-      "question_text": "Herr Brauer kommt aus Amerika.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Mr. Brauer comes from America.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 35,
-      "question_text": "Er kennt Deutschland noch nicht.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He is not familiar with Germany yet.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 36,
-      "question_text": "Wo will er hinfahren?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Where does he intend to go?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 37,
-      "question_text": "Er will nach Frankfurt fahren.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He intends to go to Frankfurt.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 38,
-      "question_text": "Er muss seinen Pass zeigen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He has to show his passport.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 39,
-      "question_text": "Der Beamte sagt: Alles in Ordnung.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The official says: 'Everything's in order.'",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 40,
-      "question_text": "Dann muss Herr Brauer zum Zoll gehen.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Then Mr. Brauer has to go to the customs office.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 41,
-      "question_text": "Er zeigt dort das Gepäck.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He shows the baggage there.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 42,
-      "question_text": "Wieviele Koffer gehören ihm?",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "How many suitcases belong to him?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 43,
-      "question_text": "Er hat nur zwei Koffer.",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "He only has two suitcases.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 44,
-      "question_text": "Der Beamte sagt: Gute Reise!",
-      "type": "short_answer",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "The official says: 'Have a good trip!'",
-          "is_correct": true
-        }
-      ]
+[
+  {
+    "title": "unit2_translation_drill",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Herr Becker war zwei Monate in Bonn.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Becker was in Bonn for two months.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Jetzt ist er in München.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Now he is in Munich.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Er bleibt dort wahrscheinlich ein Jahr.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He's probably going to stay there for a year.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Er trifft Herrn und Frau Allen in München.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He meets Mr. and Mrs. Allen in Munich.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Er kennt sie sehr gut.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He knows them very well.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Sie sind Amerikaner.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "They are Americans.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Herr Allen arbeitet im Konsulat.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen works at the consulate.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Er ist Diplomat.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He is a Foreign Service Officer.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Allens wohnen im Bayrischen Hof.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The Allens live at the Bayrischen Hof.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Das Hotel ist sehr nett.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The hotel is very nice.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Es ist in der Nähe vom Konsulat.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "It is in the vicinity of the consulate.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Allens gefällt es sehr gut in München.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The Allens like it in Munich very much.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Im Bayrischen Hof ist es auch sehr nett.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "It's very nice at the Bayrischen Hof too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Herr Becker und Allens gehen essen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Becker and the Allens go and eat.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Das Restaurant ist in der Ludwigstrasse.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The restaurant is on Ludwigstrasse.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Dort ist Fräulein Adams, sagt Herr Becker.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "There is Miss Adams, says Mr. Becker.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Wer ist Fräulein Adams?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Who is Miss Adams?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Frau Allen kennt sie nicht.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mrs. Allen doesn't know her.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Aber Herr Becker kennt sie gut.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "However, Mr. Becker knows her well.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Sie ist Amerikanerin.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "She is an American.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Kann sie auch deutsch sprechen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Can she also speak German?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Ja, sie spricht sogar sehr gut deutsch.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Yes, she speaks German very well in fact.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Allens wollen essen gehen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The Allens want to go and eat.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Herr Becker will mitkommen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Becker wants to come along.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Dann möchte er nach Schwabing fahren.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Then he likes to go to Schwabing.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Dort wohnen die Eltern von Herrn Keller.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Keller's parents live there.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Er will sie besuchen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He wants to visit them.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Herr Keller arbeitet auch im Konsulat.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Keller works at the consulate too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Herr Allen kennt ihn.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen knows him.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Er fährt oft mit ihm nach Hause.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He often rides home with him.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Herr Becker möchte die neue Adresse von Herrn Keller haben.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Becker would like to have Mr. Keller's new address.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Herr Allen gibt sie ihm.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen gives it to him.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Er wohnt in der Nähe.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He lives in the vicinity.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Herr Brauer kommt aus Amerika.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Brauer comes from America.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Er kennt Deutschland noch nicht.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He is not familiar with Germany yet.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Wo will er hinfahren?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Where does he intend to go?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Er will nach Frankfurt fahren.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He intends to go to Frankfort.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Er muss seinen Pass zeigen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He has to show his passport.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Der Beamte sagt: \"Alles in Ordnung.\"",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The official says: 'Everything's in order.'",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Dann muss Herr Brauer zum Zoll gehen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Then Mr. Brauer has to go to the customs office.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Er zeigt dort das Gepäck.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He shows the baggage there.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Wieviele Koffer gehören ihm?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "How many suitcases belong to him?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "Er hat nur zwei Koffer.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He only has two suitcases.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "Der Beamte sagt: \"Gute Reise.\"",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The official says: 'Have a good trip.'",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 21,
+      "page_end": 22,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
     }
-  ],
-  "articles": [],
-  "metadata": {
-    "page_start": 42,
-    "page_end": 44,
-    "are_questions_english": false,
-    "are_questions_generated_by_llm": false
   }
-}
+]

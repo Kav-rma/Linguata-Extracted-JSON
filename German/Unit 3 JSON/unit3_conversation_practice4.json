@@ -1,0 +1,180 @@
+[
+  {
+    "title": "unit3_conversation_practice4",
+    "type": "reading",
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "B: Was haben Sie jetzt vor, Herr Allen?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "A: Ich möchte essen gehen. Ist das Hofbräuhaus nicht hier in der Nähe?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "B: Nein, aber der Ratskeller ist nicht weit von hier."
+      },
+      {
+        "sequence_id": 4,
+        "text": "A: Hoffentlich ist das Essen dort gut. Ich habe Hunger."
+      },
+      {
+        "sequence_id": 5,
+        "text": "B: Ja, es ist sogar sehr gut. Ich esse oft dort."
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does Herr Allen plan to do now?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Visit the museum",
+            "is_correct": false
+          },
+          {
+            "answer": "Go for a walk",
+            "is_correct": false
+          },
+          {
+            "answer": "Go eat",
+            "is_correct": true
+          },
+          {
+            "answer": "Take a bus",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which restaurant does he ask about initially?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Ratskeller",
+            "is_correct": false
+          },
+          {
+            "answer": "Hofbräuhaus",
+            "is_correct": true
+          },
+          {
+            "answer": "A café",
+            "is_correct": false
+          },
+          {
+            "answer": "The theater restaurant",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "Why doesn't the other person suggest the Hofbräuhaus?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "It's closed",
+            "is_correct": false
+          },
+          {
+            "answer": "It's not nearby",
+            "is_correct": true
+          },
+          {
+            "answer": "It's too expensive",
+            "is_correct": false
+          },
+          {
+            "answer": "They don't like it",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which place is suggested instead?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The Hofbräuhaus",
+            "is_correct": false
+          },
+          {
+            "answer": "The museum café",
+            "is_correct": false
+          },
+          {
+            "answer": "The Ratskeller",
+            "is_correct": true
+          },
+          {
+            "answer": "The hotel restaurant",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "What concern does Herr Allen have about the suggested restaurant?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He doesn't like beer",
+            "is_correct": false
+          },
+          {
+            "answer": "He hopes the food is good",
+            "is_correct": true
+          },
+          {
+            "answer": "He prefers Italian food",
+            "is_correct": false
+          },
+          {
+            "answer": "He doesn't have money",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "What does the other person say about the food there?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "It's mediocre",
+            "is_correct": false
+          },
+          {
+            "answer": "It's not good",
+            "is_correct": false
+          },
+          {
+            "answer": "It's very good and he often eats there",
+            "is_correct": true
+          },
+          {
+            "answer": "He hasn't tried it",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

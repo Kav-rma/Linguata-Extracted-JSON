@@ -1,0 +1,168 @@
+[
+  {
+    "title": "unit2_conversation_practice_5",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Was fragt B zu Beginn des Gesprächs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ob S etwas zu verzollen hat",
+            "is_correct": true
+          },
+          {
+            "answer": "Wo das Restaurant ist",
+            "is_correct": false
+          },
+          {
+            "answer": "Wer Herr Allen ist",
+            "is_correct": false
+          },
+          {
+            "answer": "Wie alt er ist",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was antwortet S?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nein, ich glaube nicht",
+            "is_correct": true
+          },
+          {
+            "answer": "Ja, ich glaube",
+            "is_correct": false
+          },
+          {
+            "answer": "Vielleicht",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich weiß nicht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Was soll S zeigen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Sein Gepäck",
+            "is_correct": true
+          },
+          {
+            "answer": "Seine Adresse",
+            "is_correct": false
+          },
+          {
+            "answer": "Seinen Pass",
+            "is_correct": false
+          },
+          {
+            "answer": "Seine Arbeit",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wie viele Koffer hat S?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Drei",
+            "is_correct": true
+          },
+          {
+            "answer": "Zwei",
+            "is_correct": false
+          },
+          {
+            "answer": "Vier",
+            "is_correct": false
+          },
+          {
+            "answer": "Sieben",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was sagt B am Ende?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Alles in Ordnung. Auf Wiedersehen.",
+            "is_correct": true
+          },
+          {
+            "answer": "Guten Morgen",
+            "is_correct": false
+          },
+          {
+            "answer": "Gute Reise",
+            "is_correct": false
+          },
+          {
+            "answer": "Bis morgen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "B: Haben Sie etwas zu verzollen?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "S: Nein, ich glaube nicht."
+      },
+      {
+        "sequence_id": 3,
+        "text": "B: Zeigen Sie mir bitte Ihr Gepäck."
+      },
+      {
+        "sequence_id": 4,
+        "text": "S: Gerne."
+      },
+      {
+        "sequence_id": 5,
+        "text": "S: Diese Koffer hier gehören mir."
+      },
+      {
+        "sequence_id": 6,
+        "text": "B: Gehört das Gepäck dort drüben auch Ihnen?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "S: Nein, ich habe nur diese drei Koffer."
+      },
+      {
+        "sequence_id": 8,
+        "text": "B: Gut, alles in Ordnung. Auf Wiedersehen."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]
