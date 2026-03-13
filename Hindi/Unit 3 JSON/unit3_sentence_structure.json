@@ -1,0 +1,258 @@
+{
+  "title": "unit3_sentence_structure",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does the verb typically appear in a Hindi sentence?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "At the end",
+          "is_correct": true
+        },
+        {
+          "answer": "At the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "In the middle",
+          "is_correct": false
+        },
+        {
+          "answer": "Anywhere in the sentence",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "What usually comes first in a Hindi sentence?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The subject",
+          "is_correct": true
+        },
+        {
+          "answer": "The verb",
+          "is_correct": false
+        },
+        {
+          "answer": "The object",
+          "is_correct": false
+        },
+        {
+          "answer": "An adjective",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the example 'यह बम्बई है', what does 'यह' represent?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The subject",
+          "is_correct": true
+        },
+        {
+          "answer": "The verb",
+          "is_correct": false
+        },
+        {
+          "answer": "The object",
+          "is_correct": false
+        },
+        {
+          "answer": "A postposition",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "According to the explanation, is the subject always required in a Hindi sentence?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "No, it can be omitted",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, it is always required",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in negative sentences",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which of the following is a complete sentence with just subject and verb, as per the explanation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "कराची है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "कराची कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "यहाँ है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "पटना वहाँ है ।",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "What are the three basic parts of a typical Hindi sentence?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Subject, rest, and verb",
+          "is_correct": true
+        },
+        {
+          "answer": "Verb, subject, and object",
+          "is_correct": false
+        },
+        {
+          "answer": "Subject, object, and verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Verb, object, and subject",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which sentence lacks an explicit subject but is still complete according to the explanation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "यहाँ है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "कराची कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "यह बम्बई है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "इसका नाम क्या है ।",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is being asked in the sentence 'इसका नाम क्या है ।'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "What is its name?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is it?",
+          "is_correct": false
+        },
+        {
+          "answer": "Is it here?",
+          "is_correct": false
+        },
+        {
+          "answer": "Who is he?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "How many basic parts does a typical Hindi sentence have, according to the explanation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Three",
+          "is_correct": true
+        },
+        {
+          "answer": "Two",
+          "is_correct": false
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        },
+        {
+          "answer": "Five",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the explanation suggest about the verb in Hindi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "It can stand alone as a sentence",
+          "is_correct": true
+        },
+        {
+          "answer": "It must always accompany an object",
+          "is_correct": false
+        },
+        {
+          "answer": "It never appears at the end",
+          "is_correct": false
+        },
+        {
+          "answer": "It is optional",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "A typical Hindi sentence has three basic parts. The verb comes last, the subject first, and the rest in between.\nयह बम्बई है ।\nइसका नाम क्या है ।\nThe subject does not have to be stated; the first three sentences above illustrate this. Subject and verb only make a complete sentence, as in the last three. The verb by itself can be a sentence."
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit6_postpositions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What type of words like \"में\" does Hindi use that function similarly to English prepositions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "adjectives",
+          "is_correct": false
+        },
+        {
+          "answer": "postpositions",
+          "is_correct": true
+        },
+        {
+          "answer": "nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In Hindi, where do postpositions appear relative to the word or phrase they refer to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before",
+          "is_correct": false
+        },
+        {
+          "answer": "After",
+          "is_correct": true
+        },
+        {
+          "answer": "Between",
+          "is_correct": false
+        },
+        {
+          "answer": "At the beginning of the sentence",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When used with postpositions, what forms do \"यह\" and \"वह\" take?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "इस and उस",
+          "is_correct": true
+        },
+        {
+          "answer": "ये and वे",
+          "is_correct": false
+        },
+        {
+          "answer": "तू and तुम",
+          "is_correct": false
+        },
+        {
+          "answer": "यह and वह",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why might you avoid using other nouns beyond those listed as safe?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They may raise grammatical problems",
+          "is_correct": true
+        },
+        {
+          "answer": "They are less interesting",
+          "is_correct": false
+        },
+        {
+          "answer": "They are advanced vocabulary",
+          "is_correct": false
+        },
+        {
+          "answer": "They are synonyms",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which of the following is listed as a safe noun in the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "सड़क",
+          "is_correct": true
+        },
+        {
+          "answer": "टेबल",
+          "is_correct": false
+        },
+        {
+          "answer": "चिड़िया",
+          "is_correct": false
+        },
+        {
+          "answer": "पानी",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "According to the article, when should you write translations for safe nouns?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Always",
+          "is_correct": false
+        },
+        {
+          "answer": "Only if you feel you must",
+          "is_correct": true
+        },
+        {
+          "answer": "Never",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with adjectives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What should students keep reviewing according to the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Previous units and sentence patterns",
+          "is_correct": true
+        },
+        {
+          "answer": "Modern songs",
+          "is_correct": false
+        },
+        {
+          "answer": "Fiction novels",
+          "is_correct": false
+        },
+        {
+          "answer": "Other languages",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How should additional ‘please’ expressions be kept, according to the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Long and complex",
+          "is_correct": false
+        },
+        {
+          "answer": "Short and useful",
+          "is_correct": true
+        },
+        {
+          "answer": "Translation heavy",
+          "is_correct": false
+        },
+        {
+          "answer": "Avoided entirely",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Postpositions in Hindi have meanings similar to which part of English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "Conjunctions",
+          "is_correct": false
+        },
+        {
+          "answer": "Prepositions",
+          "is_correct": true
+        },
+        {
+          "answer": "Adjectives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "When pronouns \"यह\" and \"वह\" take the forms \"इस\" and \"उस\", they are used with what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Adjectives",
+          "is_correct": false
+        },
+        {
+          "answer": "Verb conjugations",
+          "is_correct": false
+        },
+        {
+          "answer": "Postpositions",
+          "is_correct": true
+        },
+        {
+          "answer": "Nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Hindi uses a set of little words like में. They are called postpositions. Postpositions have more or less the meanings of the English prepositions. They follow the word or phrase they refer to.\n\nWhen used with postpositions, यह and वह take the forms इस and उस.\n\nBy this point students will have learned many place names. Other nouns are likely to raise grammatical problems. Here are a few more nouns which are quite safe.\n\nचीज़, मकान, सड़क, नदी; किताब, कलम, मेज़, कुर्सी; फर्श, कागज़, रुमाल, पहाड़.\n\nWrite in translations only if you feel you must.\n\nThe class may also ask for additional please expressions like those on page 90. Keep them short and useful.\n\nIt is absolutely essential to keep reviewing previous units, and to keep using the sentence patterns previously learned, combining them with the new ones."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

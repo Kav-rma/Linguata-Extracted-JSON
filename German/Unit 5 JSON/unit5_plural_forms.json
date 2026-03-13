@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit5_plural_forms",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "How do most English nouns form their plural?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "By adding an \"s\"",
+            "is_correct": true
+          },
+          {
+            "answer": "By changing the stem vowel",
+            "is_correct": false
+          },
+          {
+            "answer": "By adding -en",
+            "is_correct": false
+          },
+          {
+            "answer": "By adding -er",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "How many different plural forms does German have?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "One",
+            "is_correct": false
+          },
+          {
+            "answer": "Two",
+            "is_correct": false
+          },
+          {
+            "answer": "Three",
+            "is_correct": false
+          },
+          {
+            "answer": "Six",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Which plural form in German is formed without changing or adding anything to the singular?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Add -e",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -s",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -en",
+            "is_correct": false
+          },
+          {
+            "answer": "No change",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Which suffix is added to form the plural of the noun 'Brief'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "-e",
+            "is_correct": true
+          },
+          {
+            "answer": "-en",
+            "is_correct": false
+          },
+          {
+            "answer": "-s",
+            "is_correct": false
+          },
+          {
+            "answer": "-er",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Which plural category often includes an umlaut and uses the ending -er?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Add -n",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -s",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -e",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -er",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "What is added to the dative plural form of nouns in groups (a), (b) and (c)?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "-e",
+            "is_correct": false
+          },
+          {
+            "answer": "Nothing",
+            "is_correct": false
+          },
+          {
+            "answer": "-s",
+            "is_correct": false
+          },
+          {
+            "answer": "-n",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Which plural ending is used for words like 'Auto'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "-e",
+            "is_correct": false
+          },
+          {
+            "answer": "-en",
+            "is_correct": false
+          },
+          {
+            "answer": "-er",
+            "is_correct": false
+          },
+          {
+            "answer": "-s",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "In which group do nouns like 'Frau' form their plural?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Add -e",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -s",
+            "is_correct": false
+          },
+          {
+            "answer": "No change",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -en",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "How is the plural of 'Zigarre' formed?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Add -s",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -er",
+            "is_correct": false
+          },
+          {
+            "answer": "No change",
+            "is_correct": false
+          },
+          {
+            "answer": "Add -n",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "What term do Germans use for the change in the stem vowel in some plural forms?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Prefix",
+            "is_correct": false
+          },
+          {
+            "answer": "Diphthong",
+            "is_correct": false
+          },
+          {
+            "answer": "Declension",
+            "is_correct": false
+          },
+          {
+            "answer": "Umlaut",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "\n1. It is very simple to form the plural of most English nouns; we simply \"add an s\". There are a few exceptional forms, like feet and mice and sheep, but generally we have the s-plural.\n\n2. German, unfortunately for the student, has half a dozen different noun plural forms. Here are some examples from the basic sentences you have memorized:\n\nDie Zigarren kosten zwei Mark.\nIch habe nur diese zwei Koffer.\nHerr Allen stellt die Herren vor.\nMeine Bücher sind leider noch unterwegs.\nIch muss einige Briefe schreiben.\n\nThe cigars cost two marks.\nI have only these two suitcases.\nMr. Allen introduces the gentlemen.\nMy books are still on the way, unfortunately.\nI have to write some letters.\n\nIf we now compare the singular forms of the above nouns, we can show what is changed or added to distinguish the plural:\n\nSingular – Plural\nZigarre – Zigarren (–n has been added to the singular.)\nKoffer – Koffer (Nothing has been added or changed.)\nHerr – Herren (–en has been added to the nominative singular.  We recall that there is also a non‑nominative singular form Herrn with the distinctive ending –n.)\nBuch – Bücher (–er has been added to the singular, and there is a change in the stem vowel.)\nBrief – Briefe (–e has been added to the singular.)\nAuto – Autos (–s has been added to the singular.)\n\n3. Note that in some cases a change in the stem vowel has taken place.  This is similar to the change in the stem vowel of some verbs noted in Unit 2: ich fahre, but er fährt.  Germans call this kind of sound change UMLAUT, and you will frequently hear it referred to by the German term.\n\n4. Note also that there is no differentiation in the plural between der‑nouns, das‑nouns and die‑nouns.  The plural specifier forms are the same regardless of whether they occur with a der‑noun, das‑noun or die‑noun (see Units 3 and 4).\n\n5. We can now re‑arrange and expand the list to include all the noun plural types of frequent occurrence.  We shall add the specifiers and also show how the plural is usually indicated in vocabulary listings.\n\n(a) No change from the singular:\n- der Koffer – die Koffer (der Koffer, —)\n- der Flughafen – die Flughäfen (der Flughafen, ‑e)\n\n(b) Add –e to the singular:\n- der Brief – die Briefe (der Brief, ‑e)\n- der Pass – die Pässe (der Pass, ‑e)\n\n(c) Add –er to the singular:\n- das Geld – die Gelder (das Geld, ‑er)\n- das Buch – die Bücher (das Buch, ‑er)\n\n(d) Add –en to the nominative singular:\n- die Frau – die Frauen (die Frau, ‑en)\n- der Herr – die Herren (der Herr, ‑n, ‑en)  (some nouns also add –n or –en to form the non‑nominative singular)\n\n(e) Add –n to the nominative singular:\n- die Zigarre – die Zigarren (die Zigarre, ‑n)\n\n(f) Add –s to the singular:\n- das Auto – die Autos (das Auto, ‑s)\n\n6. An –n is added to the dative plural form of all nouns in groups (a), (b) and (c).  Nouns in groups (d) and (e) already have a final –n and nouns in group (f) do not add an –n.\n\n7. Umlaut of the stem vowel occurs rather haphazardly, so that you are going to have to learn the plural for each noun as you encounter it.  However, in group (c) we can say that umlaut will occur with every noun whose stem vowel is a, o or u.\n\n8. Nouns with the final syllable –in double the –n before the plural ending –en in group (d).\n\n9. A very few foreign words have irregular plural endings.  Das Museum drops the final –um and replaces it by the –en ending of group (d): die Museen.  Das Visum has the plural die Visen or die Visa.  Der Neubau inserts a –t– before the –en ending of group (d).\n\n10. Here is a list of nouns which have occurred in the first five units, grouped according to the way their plurals are formed:\n\nPlural ‑e:\n- der Tag, der Pass, der Brief, der Bahnhof, der Monat, der Platz, der Bleistift, der Stadtplan, der Besuch, der Sohn, der Omnibus (Omnibusse), der Spaziergang, der Wein, der Zoll, der Augenblick, der Parkplatz, der Autobus (Autobusse), der Antrag, der Dom, der Papierkorb, der Abend, der Markt, der Sonntag, der Geschäftsbrief, der Roman, der Pfennig, der Umweg, der Ausweis, das Geschäft, die Stadt, das Jahr, die Hand, das Konsulat, das Brot, das Bier, das Formular, das Papiergeschäft, das Generalkonsulat.\n\nPlural ‑en:\n- der Diplomat, die Frau, der Herr, die Botschaft, der Polizist, die Wohnung, der Staat, die Strassenbahn, der Neubau (die Neubauten), die Bank, die Zeitung, das Museum (die Museen), die Abteilung, die Tür, das Visum (die Visen), die Bibliothek, die Amerikanerin, die Universität, die Verabredung, die Gemahlin, die Sekretärin.\n\nPlural ‑s:\n- der Park, der Portier, das Auto, das Café, das Kino, das Restaurant, das Hotel, Minute, Stunde, Pfeife, Deutsche, Zigarre, Zigarette, Kontrolle, Taxe, Seite, Haltestelle, Idee, Tante, Etage, Schwester, der Mann, das Buch, das Haus, das Glas, das Rathaus, das Schloss, das Streichholz, das Etagenhaus.\n\nPlural ‑er:\n- die Mutter, die Tochter, der Flughafen, der Bruder, der Vater.\n\nPlural ‑n (for certain noun types):\n- der Konsul, der Vizekonsul, der Beamte, der Bekannte, der Deutsche, der Kollege, der Angehörige, die Dame, die Strasse, die Adresse, die Ecke, die Briefmarke, die Schreibmaschine, die Reise, die Woche, das Essen, das Theater, der Amerikaner, der Koffer, der Füller, der Wagen, der Ober, der Morgen, der Wachtmeister, der Ratskeller, der Fragebogen, der Bremer, der Raucher, der Schriftsteller.\n"
+      }
+    ],
+    "metadata": {
+      "page_start": 116,
+      "page_end": 118,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

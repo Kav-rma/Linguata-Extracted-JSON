@@ -1,0 +1,258 @@
+{
+  "title": "unit11_question_marker_kya",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where is the question marker 'क्या' placed to form a yes/no question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the end of the statement",
+          "is_correct": false
+        },
+        {
+          "answer": "Before the statement",
+          "is_correct": true
+        },
+        {
+          "answer": "After the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "It is omitted",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following is an example of the statement pattern 'A is B'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "क्या आपका नाम पटेल है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "वह सच है।",
+          "is_correct": true
+        },
+        {
+          "answer": "आप कैसे हैं ?",
+          "is_correct": false
+        },
+        {
+          "answer": "नाम क्या है ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What kind of questions does the question marker 'क्या' create?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Information questions",
+          "is_correct": false
+        },
+        {
+          "answer": "Multiple answer questions",
+          "is_correct": false
+        },
+        {
+          "answer": "True-false or yes/no questions",
+          "is_correct": true
+        },
+        {
+          "answer": "Exclamatory sentences",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which question-word is usually translated as 'what'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "कहाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "कैसे",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या",
+          "is_correct": true
+        },
+        {
+          "answer": "कौन",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the difference between the two 'क्या' words described in the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One is used in statements and one in exclamations",
+          "is_correct": false
+        },
+        {
+          "answer": "One is a question-word meaning 'what' and the other is a question-marker indicating yes/no questions",
+          "is_correct": true
+        },
+        {
+          "answer": "One is always stressed and the other never",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no difference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which of the following is a yes/no question formed with the question marker 'क्या'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "वह देश कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "नाम क्या है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या आपका नाम पटेल है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "आप कैसे हैं ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "The question-word in an information question usually carries:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "no stress",
+          "is_correct": false
+        },
+        {
+          "answer": "extra loudness or emphasis",
+          "is_correct": true
+        },
+        {
+          "answer": "a question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "a pronoun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In the pattern 'क्या A B है ?', what does A represent?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The subject",
+          "is_correct": true
+        },
+        {
+          "answer": "The verb",
+          "is_correct": false
+        },
+        {
+          "answer": "A time marker",
+          "is_correct": false
+        },
+        {
+          "answer": "A yes/no marker",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence uses 'क्या' as a question-word rather than a question marker?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "नाम क्या है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "क्या वह सच है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या आपका नाम पटेल है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या A B है ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Is the question marker 'क्या' translated into any English word?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it is translated as 'what'",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it is translated as 'is'",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it is translated as 'do'",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it is not translated",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "You have learned to make statements on the pattern A is B. A B है ।\n\nवह सच है। That is true.\nउसकी राजधानी कलकत्ता है। It's capital is Calcutta.\n\nA true-false question is made by putting the question-marker क्या before the statement.\n\nक्या वह सच है ? Is that true?\nक्या आपका नाम पटेल है ? Is your name Patel?\n\nPattern: क्या A B है ? Is A B?\n\nThese questions ask for a yes-or-no answer. The other kind of question asks for information, using a question-word.\n\nवह देश कहाँ है ? Where is that country?\nआप कैसे हैं ? How are you?\n\nNotice that the question-word usually carries extra loudness or emphasis. Another such question-word is क्या 'what'.\n\nनाम क्या है ? What's the name?\n\nThere are two क्या's. One is the question-word, usually translated 'what'. The other is the question-marker क्या which is introduced in this unit. It comes at the beginning of the sentence and is not stressed. It is not translated by any English word. It merely indicates that the sentence is a question."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

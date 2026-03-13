@@ -1,0 +1,77 @@
+{
+  "title": "unit9_model_conversation",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "STUDENT: इस देश की राजधानी क्या है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "STUDENT: What is the capital of this country?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "TEACHER: इसकी राजधानी काबुल है।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "TEACHER: Its capital is Kabul."
+    },
+    {
+      "sequence_id": 5,
+      "text": "STUDENT: और उस देश की ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "STUDENT: And that country's?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "TEACHER: उसकी काठमांडू है।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "TEACHER: Its capital is Kathmandu."
+    },
+    {
+      "sequence_id": 9,
+      "text": "STUDENT: इस प्रदेश का नाम क्या है ?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "STUDENT: What is the name of this state?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "TEACHER: इसका नाम यू. पी. है।"
+    },
+    {
+      "sequence_id": 12,
+      "text": "TEACHER: Its name is U.P."
+    },
+    {
+      "sequence_id": 13,
+      "text": "STUDENT: और उसकी राजधानी ?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "STUDENT: And its capital?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "TEACHER: इसकी राजधानी लखनऊ है।"
+    },
+    {
+      "sequence_id": 16,
+      "text": "TEACHER: Its capital is Lucknow."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit2_sentence_pattern",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the Hindi sentence pattern for 'The name of this country is (X)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यह (X) है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "इस देश का नाम (X) है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "इस का नाम (X) है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "यह क्या है ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you ask 'What is the name of this country?' in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यह क्या है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "इस देश का नाम क्या है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "इस का नाम चीन है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "यह रूस है ।",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the pattern इस देश का नाम (X) है, what does 'नाम' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "country",
+          "is_correct": false
+        },
+        {
+          "answer": "name",
+          "is_correct": true
+        },
+        {
+          "answer": "state",
+          "is_correct": false
+        },
+        {
+          "answer": "city",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which word can be omitted from the question 'इस देश का नाम क्या है ?' to form 'इस का नाम क्या है ?'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "देश",
+          "is_correct": true
+        },
+        {
+          "answer": "नाम",
+          "is_correct": false
+        },
+        {
+          "answer": "का",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which Hindi sentence means 'The name of this country is Pakistan'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "इस देश का नाम पाकिस्तान है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "इस देश का नाम भारत है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "यह पाकिस्तान है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "इस का नाम बर्मा है ।",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'जी हाँ' mean in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't know",
+          "is_correct": false
+        },
+        {
+          "answer": "That's right",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'जी नहीं' translate to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "Hello",
+          "is_correct": false
+        },
+        {
+          "answer": "Thank you",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which word may be omitted after 'इस का नाम क्या है ?' if the meaning is clear without it?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "नाम",
+          "is_correct": true
+        },
+        {
+          "answer": "का",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या",
+          "is_correct": false
+        },
+        {
+          "answer": "इस",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How do you say 'The name of this country is India' in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "इस देश का नाम भारत है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "यह भारत है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "भारत देश है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "इस का नाम रूस है ।",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the model conversation, how do you say 'And this?' in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "और इस का ?",
+          "is_correct": true
+        },
+        {
+          "answer": "यह क्या है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "और यह भारत है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "नाम क्या है ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The pattern of these sentences is\n\nइस देश का नाम ( X ) है ।    The name of this country is ( X ).\n\n\nExamples:\n\nइस देश का नाम चीन है ।    The name of this country is China.\nइस देश का नाम रूस है ।    The name of this country is Russia.\nइस देश का नाम बर्मा है ।    The name of this country is Burma.\nइस देश का नाम पाकिस्तान है ।    The name of this country is Pakistan.\nइस देश का नाम भारत है ।    The name of this country is India.\n\n\nThe question fits this pattern:\n\nइस देश का नाम क्या है ?    What is the name of this country?\n\n\nदेश country may be omitted:\n\nइस का नाम क्या है ?    What is its name?\n\n\nनाम name may also be left out, if the meaning is clear without it.\n\n\nऔर इस का ?    And this?\n\n\nUseful expressions:\n\nजी हाँ ।    Yes.\nजी नहीं ।    No.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

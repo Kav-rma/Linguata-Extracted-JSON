@@ -1,517 +1,519 @@
-{
-  "title": "unit4_translation_drill",
-  "type": "vocabulary",
-  "questions_and_answers": [
-    {
-      "sequence_id": 1,
-      "question_text": "Herr Köhler ist Deutscher.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Köhler is a German.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 2,
-      "question_text": "Er will nach Amerika fahren.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He's planning to go to America.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 3,
-      "question_text": "Er muss eine Geschäftsreise machen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He's obliged to go on business.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 4,
-      "question_text": "Er geht zum Konsulat.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He goes to the consulate.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 5,
-      "question_text": "Dort beantragt er ein Visum.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "There he applies for a visa.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question_text": "Im Konsulat trifft er einen Bekannten.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "At the consulate he meets an acquaintance.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 7,
-      "question_text": "Dieser heißt John Allen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "This person is called John Allen.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 8,
-      "question_text": "Er fragt ihn, wo die Visa-Abteilung ist.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He asks him where the visa section is.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 9,
-      "question_text": "Herr Allen geht mit ihm zu seinem Kollegen, Herrn Jones.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen accompanies him to his colleague, Mr. Jones.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 10,
-      "question_text": "Herr Jones ist Vizekonsul in der Visa-Abteilung.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Jones is a vice consul in the visa section.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 11,
-      "question_text": "Herr Allen macht die Herren bekannt.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen introduces the gentlemen to each other.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 12,
-      "question_text": "Will Herr Köhler auswandern?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Does Mr. Köhler want to emigrate?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 13,
-      "question_text": "Wie lange will er bleiben?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "How long does he intend to stay?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 14,
-      "question_text": "Hat er einen Ausweis?",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Does he have an identification card?",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 15,
-      "question_text": "Das muss Herr Köhler ausfüllen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Köhler has to fill that out.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 16,
-      "question_text": "Herr Allen und Herr Köhler sprechen dann zusammen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen and Mr. Köhler then talk together.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 17,
-      "question_text": "Herrn Allen gefällt es gut in Bremen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen likes it a lot in Bremen.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 18,
-      "question_text": "Seiner Frau gefällt das Klima aber nicht.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "His wife doesn't like the climate, however.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 19,
-      "question_text": "Sie und ihr Sohn möchten lieber in Bayern wohnen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "She and their son would rather live in Bavaria.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 20,
-      "question_text": "Herr Köhler kann das gut verstehen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Köhler can well understand that.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 21,
-      "question_text": "Er ist kein Bremer.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He is not originally from Bremen.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 22,
-      "question_text": "Seine Heimatstadt ist Berlin.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "His home town is Berlin.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 23,
-      "question_text": "Herr Allen und Herr Köhler möchten noch etwas trinken.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen and Mr. Köhler would just like to get something to drink.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 24,
-      "question_text": "Herr Allen trinkt nicht gern Wein.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen doesn't like wine.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 25,
-      "question_text": "Er trinkt lieber Pilsner Bier.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He prefers Pilsner beer.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 26,
-      "question_text": "Herr Köhler trinkt aber lieber Würzburger.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Köhler however likes Würzburger better.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 27,
-      "question_text": "Leider gibt es in diesem Restaurant kein Löwenbräu.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Unfortunately there's no Löwenbräu at this restaurant.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 28,
-      "question_text": "Herr Allen trinkt Löwenbräu am liebsten.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen likes Löwenbräu best.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 29,
-      "question_text": "Herr Köhler raucht gern Pfeife.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Köhler likes to smoke a pipe.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 30,
-      "question_text": "Leider hat er keinen Tabak mehr.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Unfortunately he doesn't have any tobacco left.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 31,
-      "question_text": "Er sucht ein Zigarrengeschäft.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He's looking for a cigar store.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 32,
-      "question_text": "Neben dem Restaurant ist eins.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "There's one next to the restaurant.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 33,
-      "question_text": "Herr Allen bietet ihm eine Zigarre an.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Allen offers him a cigar.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 34,
-      "question_text": "Aber Herr Köhler raucht keine Zigarren.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "However Mr. Köhler doesn't smoke cigars.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 35,
-      "question_text": "Allens wohnen in einem Neubau am Rande der Stadt.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The Allens live in a new building on the outskirts of town.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 36,
-      "question_text": "Ihre Adresse ist Schillerstraße 4.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Their address is 4 Schiller Street.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 37,
-      "question_text": "Herr Köhler soll sie am Sonntag Nachmittag um vier besuchen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Mr. Köhler is supposed to visit them on Sunday afternoon at four.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 38,
-      "question_text": "Am Sonntag passt es ihm aber leider nicht gut.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Unfortunately Sunday is not convenient for him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 39,
-      "question_text": "Er hat schon eine Verabredung.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He already has an engagement.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 40,
-      "question_text": "Am Sonnabend passt es ihm besser.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Saturday is more convenient for him.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 41,
-      "question_text": "Er soll um vier Uhr kommen.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "He is supposed to come at four o'clock.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 42,
-      "question_text": "Allens wohnen in der Schillerstraße.",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "The Allens live on Schiller Street.",
-          "is_correct": true
-        }
-      ]
+[
+  {
+    "title": "unit4_translation_drill",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Herr Köhler ist Deutscher.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler is a German.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Er will nach Amerika fahren.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He's planning to go to America.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Er muss eine Geschäftsreise machen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He's obliged to go on business.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Er geht zum Konsulat.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He goes to the consulate.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Dort beantragt er ein Visum.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "There he applies for a visa.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Im Konsulat trifft er einen Bekannten.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "At the consulate he meets an acquaintance.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Dieser heisst John Allen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "This (person) is called John Allen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Er fragt ihn, wo die Visa-Abteilung ist.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He asks him where the visa section is.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Herr Allen geht mit ihm zu seinem Kollegen, Herrn Jones.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen accompanies him to his colleague, Mr. Jones.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Herr Jones ist Vizekonsul in der Visa-Abteilung.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Jones is a vice-consul in the visa section.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Herr Allen macht die Herren bekannt.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen introduces the gentlemen to each other.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Will Herr Köhler auswandern?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Does Mr. Köhler want to emigrate?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Wie lange will er bleiben?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "How long does he intend to stay?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Hat er einen Ausweis?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Does he have an identification card?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Herr Köhler zeigt ihm seinen Pass.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler shows him his passport.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Herr Jones gibt ihm ein Formular (einen Fragebogen).",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Jones gives him a form (a questionnaire).",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Das muss Herr Köhler ausfüllen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler has to fill that out.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Herr Allen und Herr Köhler sprechen dann zusammen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen and Mr. Köhler then talk together.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Herrn Allen gefällt es gut in Bremen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen likes it a lot in Bremen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Seiner Frau gefällt das Klima aber nicht.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "His wife doesn't like the climate however.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Sie und ihr Sohn möchten lieber in Bayern wohnen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "She and their son would rather live in Bavaria.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Herr Köhler kann das gut verstehen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler can well understand that.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Er ist kein Bremer.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He is not originally from Bremen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Seine Heimatstadt ist Berlin.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "His home town is Berlin.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Herr Allen und Herr Köhler möchten noch etwas trinken.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen and Mr. Köhler would just like to get something to drink.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Herr Allen trinkt nicht gern Wein.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen doesn't like wine.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Er trinkt lieber Pilsner Bier.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He prefers Pilsner beer.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Herr Köhler trinkt aber lieber Würzburger.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler however likes Würzburger better.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Leider gibt es in diesem Restaurant kein Löwenbräu.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Unfortunately there's no Löwenbräu to be had at this restaurant.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Herr Allen trinkt Löwenbräu am liebsten.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen likes Löwenbräu best.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Herr Köhler raucht gern Pfeife.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler likes to smoke a pipe.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Leider hat er keinen Tabak mehr.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Unfortunately he doesn't have any tobacco left.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Er sucht ein Zigarrengeschäft.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He's looking for a cigar store.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Neben dem Restaurant ist eins.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "There's one next to the restaurant.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Herr Allen bietet ihm eine Zigarre an.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Allen offers him a cigar.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Aber Herr Köhler raucht keine Zigarren.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "However Mr. Köhler doesn't smoke any cigars.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Allens wohnen in einem Neubau am Rande der Stadt.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The Allens live in a new building on the outskirts of town.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Ihre Adresse ist Schillerstrasse 4.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Their address is 4 Schiller Street.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Herr Köhler soll sie am Sonntag nachmittag um vier besuchen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler is supposed to visit them on Sunday afternoon at four.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Am Sonntag passt es ihm aber leider nicht gut.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Unfortunately Sunday is not convenient for him, however.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Er hat schon eine Verabredung.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He already has an engagement.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Am Sonnabend passt es ihm besser.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Saturday is more convenient for him.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 25,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
     }
-  ],
-  "articles": [],
-  "metadata": {
-    "page_start": 104,
-    "page_end": 104,
-    "are_questions_english": false,
-    "are_questions_generated_by_llm": false
   }
-}
+]

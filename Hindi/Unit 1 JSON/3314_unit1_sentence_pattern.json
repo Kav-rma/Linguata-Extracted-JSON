@@ -1,0 +1,258 @@
+{
+  "title": "unit1_sentence_pattern",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the Hindi sentence 'यह चीन है ।' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "This is China.",
+          "is_correct": true
+        },
+        {
+          "answer": "This is Russia.",
+          "is_correct": false
+        },
+        {
+          "answer": "This is Burma.",
+          "is_correct": false
+        },
+        {
+          "answer": "This is India.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In the sentence pattern 'यह (X) है ।', what does 'यह' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He",
+          "is_correct": false
+        },
+        {
+          "answer": "This",
+          "is_correct": true
+        },
+        {
+          "answer": "They",
+          "is_correct": false
+        },
+        {
+          "answer": "That",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which of these translates to 'This is Russia.'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यह रूस है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "यह बर्मा है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "यह भारत है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "यह नेपाल है ।",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How would you ask 'What is this?' in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यह चीन है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "यह क्या है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "यह भारत है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "और यह ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the correct translation of 'यह बर्मा है ।'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "This is India.",
+          "is_correct": false
+        },
+        {
+          "answer": "This is Burma.",
+          "is_correct": true
+        },
+        {
+          "answer": "This is China.",
+          "is_correct": false
+        },
+        {
+          "answer": "This is Nepal.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which useful expression means 'I don't know'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "याद नहीं ।",
+          "is_correct": false
+        },
+        {
+          "answer": "मालूम नहीं ।",
+          "is_correct": true
+        },
+        {
+          "answer": "ठीक है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "जी ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the Hindi phrase 'याद नहीं ।' translate to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I don't remember.",
+          "is_correct": true
+        },
+        {
+          "answer": "That's right.",
+          "is_correct": false
+        },
+        {
+          "answer": "Pardon?",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't know.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which response means 'That's right.'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ठीक है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "मालूम नहीं ।",
+          "is_correct": false
+        },
+        {
+          "answer": "जी ?",
+          "is_correct": false
+        },
+        {
+          "answer": "याद नहीं ।",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In the model conversation, what country is introduced after Nepal?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Burma",
+          "is_correct": false
+        },
+        {
+          "answer": "Bhutan",
+          "is_correct": true
+        },
+        {
+          "answer": "Russia",
+          "is_correct": false
+        },
+        {
+          "answer": "China",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the phrase 'जी ?' convey?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pardon? What did you say?",
+          "is_correct": true
+        },
+        {
+          "answer": "I don't know.",
+          "is_correct": false
+        },
+        {
+          "answer": "That's right.",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't remember.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Unit 1 introduces this sentence pattern:\nयह (X) है ।    This is (X).\nयह चीन है ।    This is China.\nयह रूस है ।    This is Russia.\nयह बर्मा है ।    This is Burma.\nयह भारत है ।    This is India.\n\nThe question also fits this pattern:\nयह क्या है ?    This is what?\nयह this can be omitted.\nबर्मा है ।    It's Burma."
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "unit10_model_conversation",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SPEAKER A: आप किस प्रदेश के हैं ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "SPEAKER A: Which state are you from?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "SPEAKER B: उत्तर प्रदेश का हूँ ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "SPEAKER B: I am from Uttar Pradesh."
+    },
+    {
+      "sequence_id": 5,
+      "text": "SPEAKER A: और किस शहर के हैं ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "SPEAKER A: And which city are you from?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "SPEAKER B: देहरादून का हूँ ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "SPEAKER B: I am from Dehradun."
+    },
+    {
+      "sequence_id": 9,
+      "text": "SPEAKER A: बहन जी, आप कहाँ की हैं ?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "SPEAKER A: Sister, where are you from?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "SPEAKER B: मैं भारत की हूँ ।"
+    },
+    {
+      "sequence_id": 12,
+      "text": "SPEAKER B: I am from India."
+    },
+    {
+      "sequence_id": 13,
+      "text": "SPEAKER A: और किस शहर की हैं ?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "SPEAKER A: And which city are you from?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "SPEAKER B: बम्बई की हूँ ।"
+    },
+    {
+      "sequence_id": 16,
+      "text": "SPEAKER B: I am from Bombay."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

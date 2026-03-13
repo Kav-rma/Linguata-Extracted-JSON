@@ -1,0 +1,274 @@
+{
+  "title": "unit7_day_and_date",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the dialogue, which day of the week is today?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sunday",
+          "is_correct": false
+        },
+        {
+          "answer": "Monday",
+          "is_correct": true
+        },
+        {
+          "answer": "Tuesday",
+          "is_correct": false
+        },
+        {
+          "answer": "Wednesday",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What date is mentioned first in the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "5 November",
+          "is_correct": false
+        },
+        {
+          "answer": "7 November",
+          "is_correct": true
+        },
+        {
+          "answer": "9 November",
+          "is_correct": false
+        },
+        {
+          "answer": "10 November",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What date is the conversation corrected to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "7 November",
+          "is_correct": false
+        },
+        {
+          "answer": "8 November",
+          "is_correct": true
+        },
+        {
+          "answer": "9 November",
+          "is_correct": false
+        },
+        {
+          "answer": "10 November",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which phrase expresses disagreement in the dialogue?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "जी नहीं",
+          "is_correct": true
+        },
+        {
+          "answer": "धन्यवाद",
+          "is_correct": false
+        },
+        {
+          "answer": "कृपया",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the second question, what is being asked?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What time is it?",
+          "is_correct": false
+        },
+        {
+          "answer": "What date is it?",
+          "is_correct": true
+        },
+        {
+          "answer": "What place is it?",
+          "is_correct": false
+        },
+        {
+          "answer": "What person is it?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Who states 'आज सोमवार है' in the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "First speaker",
+          "is_correct": false
+        },
+        {
+          "answer": "Second speaker",
+          "is_correct": true
+        },
+        {
+          "answer": "Third speaker",
+          "is_correct": false
+        },
+        {
+          "answer": "No one",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In which month does the dialogue take place?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "January",
+          "is_correct": false
+        },
+        {
+          "answer": "September",
+          "is_correct": false
+        },
+        {
+          "answer": "November",
+          "is_correct": true
+        },
+        {
+          "answer": "December",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which word means 'today' in the dialogue?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "कल",
+          "is_correct": false
+        },
+        {
+          "answer": "आज",
+          "is_correct": true
+        },
+        {
+          "answer": "परसों",
+          "is_correct": false
+        },
+        {
+          "answer": "देर",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence asks 'Which day is today?'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आज कौनसा दिन है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "आज कौनसी तारीख है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "आज कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "आज क्या है ?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The phrase 'आठ नवम्बर' refers to which number?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Six",
+          "is_correct": false
+        },
+        {
+          "answer": "Seven",
+          "is_correct": false
+        },
+        {
+          "answer": "Eight",
+          "is_correct": true
+        },
+        {
+          "answer": "Nine",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आज कौनसा दिन है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "आज सोमवार है ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "आज कौनसी तारीख है ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "आज सात नवम्बर है ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "जी नहीं, आज सात नहीं, आठ नवम्बर है ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit10_postposition_ka_ke_ki",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What English verb corresponds to the Hindi verb हूँ?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "am",
+          "is_correct": true
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "is",
+          "is_correct": false
+        },
+        {
+          "answer": "was",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Is the pronoun मैं always necessary when using हूँ?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it must always be used",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it is not necessary",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with feminine subjects",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When a man speaks of himself, which postposition form does he use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का",
+          "is_correct": true
+        },
+        {
+          "answer": "की",
+          "is_correct": false
+        },
+        {
+          "answer": "के",
+          "is_correct": false
+        },
+        {
+          "answer": "None",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What postposition form does a woman use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का",
+          "is_correct": false
+        },
+        {
+          "answer": "की",
+          "is_correct": true
+        },
+        {
+          "answer": "के",
+          "is_correct": false
+        },
+        {
+          "answer": "Both ka and ke",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which verb must be used with the pronoun आप (you)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "है",
+          "is_correct": false
+        },
+        {
+          "answer": "हैं",
+          "is_correct": true
+        },
+        {
+          "answer": "हो",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When speaking to a man, which postposition form is used in the plural?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का",
+          "is_correct": false
+        },
+        {
+          "answer": "की",
+          "is_correct": false
+        },
+        {
+          "answer": "के",
+          "is_correct": true
+        },
+        {
+          "answer": "None",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which example from the article illustrates the masculine plural postposition?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "कहाँ की हैं ?",
+          "is_correct": false
+        },
+        {
+          "answer": "आप कहाँ के हैं ?",
+          "is_correct": true
+        },
+        {
+          "answer": "भारत की हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "हूँ is the verb am",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which example illustrates the feminine form used both in singular and plural?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "कहाँ की हैं ?",
+          "is_correct": true
+        },
+        {
+          "answer": "आप कहाँ के हैं ?",
+          "is_correct": false
+        },
+        {
+          "answer": "कितने साल के हैं ?",
+          "is_correct": false
+        },
+        {
+          "answer": "तीस साल का हूँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does the postposition का-के-की basically mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "from",
+          "is_correct": false
+        },
+        {
+          "answer": "of",
+          "is_correct": true
+        },
+        {
+          "answer": "to",
+          "is_correct": false
+        },
+        {
+          "answer": "for",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following is described as the only postposition with more than one form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का-के-की",
+          "is_correct": true
+        },
+        {
+          "answer": "में",
+          "is_correct": false
+        },
+        {
+          "answer": "से",
+          "is_correct": false
+        },
+        {
+          "answer": "को",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "हूँ is the verb am. The pronoun मैं may be used with it, but it is not necessary. हूँ shows that the subject is मैं. Speaking of himself, a man uses the masculine form का.\n\nयहाँ का हूँ — I'm a local resident.\nतीस साल का हूँ — I'm thirty years old.\n\nA woman uses the feminine की.\nभारत की हूँ — I belong to India.\nमैं बीस साल की हूँ — I'm twenty.\n\nThe pronoun आप (you) requires the verb हैं (are). Speaking to a man, the masculine plural के is necessary.\nआप कहाँ के हैं ? — Where are you from?\nकितने साल के हैं ? — How old are you?\n\nThe feminine form is की in the plural as well as in the singular.\nकहाँ की हैं ? — Where are you from?\nकितने साल की हैं ? — How old are you?\n\nThe postposition का - के - की basically means of. This is the only postposition with more than one form."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit2_practice_instructions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When practicing, if you don't know the name of a country, what should you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "जी हाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "मालूम नहीं",
+          "is_correct": true
+        },
+        {
+          "answer": "नमस्ते",
+          "is_correct": false
+        },
+        {
+          "answer": "शुक्रिया",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which question are students instructed to ask while pointing at countries?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यह क्या है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "आप कैसे हैं ?",
+          "is_correct": false
+        },
+        {
+          "answer": "इस देश का नाम पाकिस्तान है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "ठीक हूँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'मालूम नहीं' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I don't know",
+          "is_correct": true
+        },
+        {
+          "answer": "I'm fine",
+          "is_correct": false
+        },
+        {
+          "answer": "Hello",
+          "is_correct": false
+        },
+        {
+          "answer": "Thank you",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which phrase from the ritual would you use to say 'Goodbye'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आइये",
+          "is_correct": false
+        },
+        {
+          "answer": "नमस्ते",
+          "is_correct": true
+        },
+        {
+          "answer": "बैठिये",
+          "is_correct": false
+        },
+        {
+          "answer": "कल मिलेंगे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "According to the text, which of the following best describes the uses of 'नमस्ते'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It can be used as Hello, Goodbye, Good Morning and Good Night",
+          "is_correct": true
+        },
+        {
+          "answer": "It is only used for greeting elders",
+          "is_correct": false
+        },
+        {
+          "answer": "It is exclusively for saying Good Morning",
+          "is_correct": false
+        },
+        {
+          "answer": "It means 'Thank you'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the English translation of 'शुक्रिया'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Thank you",
+          "is_correct": true
+        },
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "How are you?",
+          "is_correct": false
+        },
+        {
+          "answer": "Please sit",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which response follows the question 'आप कैसे हैं ?' in the ritual?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ठीक हूँ",
+          "is_correct": true
+        },
+        {
+          "answer": "मालूम नहीं",
+          "is_correct": false
+        },
+        {
+          "answer": "नमस्ते",
+          "is_correct": false
+        },
+        {
+          "answer": "आइये",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'कल मिलेंगे' express?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "We'll meet tomorrow",
+          "is_correct": true
+        },
+        {
+          "answer": "I'm fine",
+          "is_correct": false
+        },
+        {
+          "answer": "We met yesterday",
+          "is_correct": false
+        },
+        {
+          "answer": "Hello",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "According to the practice instructions, which phrase might you say when you cannot answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "याद नहीं",
+          "is_correct": true
+        },
+        {
+          "answer": "ठीक हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "जी हाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "नमस्ते",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which ritual phrase means 'Have a seat'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "बैठिये",
+          "is_correct": true
+        },
+        {
+          "answer": "आइये",
+          "is_correct": false
+        },
+        {
+          "answer": "नमस्ते",
+          "is_correct": false
+        },
+        {
+          "answer": "ठीक हूँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "To the Student:\n\nContinue pointing at countries while asking your instructor “यह क्या है ?” and say the names of all the countries. Each student should take turns asking each other this question until all have been named. If you don't have an answer, say “मालूम नहीं” or “याद नहीं” and ask someone else.\n\n\nनमस्ते is an all-purpose greeting. It may be used to mean Hello, Goodbye, Good Morning, or Good Night.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "unit1_model_conversation",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SPEAKER A: यह क्या है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "SPEAKER A: What's this?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "SPEAKER B: यह नेपाल है ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "SPEAKER B: This is Nepal."
+    },
+    {
+      "sequence_id": 5,
+      "text": "SPEAKER A: और यह ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "SPEAKER A: And this?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "SPEAKER B: भूटान है ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "SPEAKER B: It's Bhutan."
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

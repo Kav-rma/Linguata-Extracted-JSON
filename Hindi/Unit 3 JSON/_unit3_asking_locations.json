@@ -1,0 +1,322 @@
+{
+  "title": "unit3_asking_locations",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which Hindi sentence asks about the location of Bombay?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "बम्बई कहाँ है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "लाहौर कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "कराची कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "दिल्ली कहाँ है ?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which sentence states that Calcutta is there?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "कलकत्ता वहाँ है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "पटना वहाँ है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "रंगून वहाँ है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "यहाँ है ।",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which sentence is used to ask 'And Rangoon?' in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "और रंगून ?",
+          "is_correct": true
+        },
+        {
+          "answer": "और पटना ?",
+          "is_correct": false
+        },
+        {
+          "answer": "और कलकत्ता ?",
+          "is_correct": false
+        },
+        {
+          "answer": "यहाँ है ।",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence in the passage means 'Here it is'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "यहाँ है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "वहाँ है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "और पटना ?",
+          "is_correct": false
+        },
+        {
+          "answer": "लाहौर कहाँ है ?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which sentence indicates that Patna is there?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "पटना वहाँ है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "बम्बई कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "और रंगून ?",
+          "is_correct": false
+        },
+        {
+          "answer": "यहाँ है ।",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "After 'दिल्ली कहाँ है ?', which city is immediately asked about?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "लाहौर",
+          "is_correct": true
+        },
+        {
+          "answer": "कराची",
+          "is_correct": false
+        },
+        {
+          "answer": "बम्बई",
+          "is_correct": false
+        },
+        {
+          "answer": "पटना",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which sentence asks about the location of Calcutta?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "कलकत्ता कहाँ है ?",
+          "is_correct": true
+        },
+        {
+          "answer": "पटना वहाँ है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "रंगून वहाँ है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "यहाँ है ।",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "How many times does the sentence 'यहाँ है ।' appear in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "3",
+          "is_correct": true
+        },
+        {
+          "answer": "2",
+          "is_correct": false
+        },
+        {
+          "answer": "4",
+          "is_correct": false
+        },
+        {
+          "answer": "1",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence is used to ask 'And Patna?' in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "और पटना ?",
+          "is_correct": true
+        },
+        {
+          "answer": "पटना वहाँ है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "कहाँ है ?",
+          "is_correct": false
+        },
+        {
+          "answer": "और रंगून ?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "When the passage asks 'Where is Calcutta?', which other two questions follow?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "और पटना ? and और रंगून ?",
+          "is_correct": true
+        },
+        {
+          "answer": "और कराची ? and और बम्बई ?",
+          "is_correct": false
+        },
+        {
+          "answer": "और दिल्ली ? and और कराची ?",
+          "is_correct": false
+        },
+        {
+          "answer": "और लाहौर ? and और दिल्ली ?",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "यहाँ है ।"
+    },
+    {
+      "sequence_id": 2,
+      "text": "बम्बई कहाँ है ?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "कराची कहाँ है ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "दिल्ली कहाँ है ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "लाहौर कहाँ है ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "बम्बई कहाँ है ?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "यहाँ है ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "कलकत्ता वहाँ है ।"
+    },
+    {
+      "sequence_id": 9,
+      "text": "पटना वहाँ है ।"
+    },
+    {
+      "sequence_id": 10,
+      "text": "रंगून वहाँ है ।"
+    },
+    {
+      "sequence_id": 11,
+      "text": "कलकत्ता कहाँ है ?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "और पटना ?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "और रंगून ?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "कराची कहाँ है ?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "यहाँ है ।"
+    },
+    {
+      "sequence_id": 16,
+      "text": "और कलकत्ता ?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "वहाँ है ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

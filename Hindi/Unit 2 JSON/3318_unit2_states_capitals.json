@@ -1,0 +1,322 @@
+{
+  "title": "unit2_states_capitals",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which state's capital is Hyderabad?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Andhra Pradesh",
+          "is_correct": true
+        },
+        {
+          "answer": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "answer": "Punjab",
+          "is_correct": false
+        },
+        {
+          "answer": "Kerala",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which language is the official language of Gujarat?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Gujarati",
+          "is_correct": true
+        },
+        {
+          "answer": "Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "Bengali",
+          "is_correct": false
+        },
+        {
+          "answer": "Punjabi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the capital of Rajasthan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Jaipur",
+          "is_correct": true
+        },
+        {
+          "answer": "Bhopal",
+          "is_correct": false
+        },
+        {
+          "answer": "Lucknow",
+          "is_correct": false
+        },
+        {
+          "answer": "Patna",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which state has Srinagar as its capital?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Jammu and Kashmir",
+          "is_correct": true
+        },
+        {
+          "answer": "Bihar",
+          "is_correct": false
+        },
+        {
+          "answer": "Rajasthan",
+          "is_correct": false
+        },
+        {
+          "answer": "Kerala",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which official language is associated with Kerala?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Malayalam",
+          "is_correct": true
+        },
+        {
+          "answer": "Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "Tamil",
+          "is_correct": false
+        },
+        {
+          "answer": "Marathi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the capital of Madhya Pradesh?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Bhopal",
+          "is_correct": true
+        },
+        {
+          "answer": "Bangalore",
+          "is_correct": false
+        },
+        {
+          "answer": "Chandigarh",
+          "is_correct": false
+        },
+        {
+          "answer": "Trivandrum",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which state lists Bangalore as its capital in this list?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mysore",
+          "is_correct": true
+        },
+        {
+          "answer": "Nagaland",
+          "is_correct": false
+        },
+        {
+          "answer": "Maharashtra",
+          "is_correct": false
+        },
+        {
+          "answer": "Gujarat",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which language is listed as the official language of Nagaland?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English",
+          "is_correct": true
+        },
+        {
+          "answer": "Punjabi",
+          "is_correct": false
+        },
+        {
+          "answer": "Tamil",
+          "is_correct": false
+        },
+        {
+          "answer": "Gujarati",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Patna is the capital of which state?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Bihar",
+          "is_correct": true
+        },
+        {
+          "answer": "Assam",
+          "is_correct": false
+        },
+        {
+          "answer": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "answer": "Kerala",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which state’s capital is Chandigarh and its official language is Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Haryana",
+          "is_correct": true
+        },
+        {
+          "answer": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "answer": "Maharashtra",
+          "is_correct": false
+        },
+        {
+          "answer": "Nagaland",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आन्ध्र प्रदेश — हैदराबाद — तेलुगु"
+    },
+    {
+      "sequence_id": 2,
+      "text": "आसाम — शिलांग — आसामी"
+    },
+    {
+      "sequence_id": 3,
+      "text": "उड़ीसा — भुवनेश्वर — उड़िया"
+    },
+    {
+      "sequence_id": 4,
+      "text": "उत्तर प्रदेश — लखनऊ — हिन्दी"
+    },
+    {
+      "sequence_id": 5,
+      "text": "केरल — त्रिवेन्द्रम — मलयालम"
+    },
+    {
+      "sequence_id": 6,
+      "text": "गुजरात — अहमदाबाद — गुजराती"
+    },
+    {
+      "sequence_id": 7,
+      "text": "जम्मू और कश्मीर — श्रीनगर — कश्मीरी"
+    },
+    {
+      "sequence_id": 8,
+      "text": "नागालैंड — कोहिमा — अंग्रेज़ी"
+    },
+    {
+      "sequence_id": 9,
+      "text": "पंजाब — चण्डीगढ़ — पंजाबी"
+    },
+    {
+      "sequence_id": 10,
+      "text": "पश्चिमी बंगाल — कलकत्ता — बंगाली"
+    },
+    {
+      "sequence_id": 11,
+      "text": "बिहार — पटना — हिन्दी"
+    },
+    {
+      "sequence_id": 12,
+      "text": "मद्रास — मद्रास — तमिल"
+    },
+    {
+      "sequence_id": 13,
+      "text": "मध्य प्रदेश — भोपाल — हिन्दी"
+    },
+    {
+      "sequence_id": 14,
+      "text": "महाराष्ट्र — बम्बई — मराठी"
+    },
+    {
+      "sequence_id": 15,
+      "text": "मैसूर — बैंगलोर — कन्नड़"
+    },
+    {
+      "sequence_id": 16,
+      "text": "राजस्थान — जयपुर — हिन्दी"
+    },
+    {
+      "sequence_id": 17,
+      "text": "हरियाणा — चण्डीगढ़ — हिन्दी"
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

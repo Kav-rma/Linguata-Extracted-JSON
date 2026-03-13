@@ -1,0 +1,258 @@
+{
+  "title": "unit8_names_and_titles",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How are Hindu men usually addressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By their first name with जी",
+          "is_correct": false
+        },
+        {
+          "answer": "By their last name with जी",
+          "is_correct": true
+        },
+        {
+          "answer": "By their last name with साहब",
+          "is_correct": false
+        },
+        {
+          "answer": "By their first name without honorific",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How are most Hindu women typically addressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By their last name with जी",
+          "is_correct": false
+        },
+        {
+          "answer": "By their first name with जी",
+          "is_correct": true
+        },
+        {
+          "answer": "By their first name with साहब",
+          "is_correct": false
+        },
+        {
+          "answer": "By their husband's last name with बेगम",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which honorific do Moslem men use with their names?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "जी",
+          "is_correct": false
+        },
+        {
+          "answer": "साहब",
+          "is_correct": true
+        },
+        {
+          "answer": "साहिबा",
+          "is_correct": false
+        },
+        {
+          "answer": "भाई साहब",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How should a married Moslem woman be addressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By her own first name with साहब",
+          "is_correct": false
+        },
+        {
+          "answer": "By her husband's last name preceded by बेगम",
+          "is_correct": true
+        },
+        {
+          "answer": "By her last name with जी",
+          "is_correct": false
+        },
+        {
+          "answer": "By the title साहिबा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which honorific is used for unmarried Moslem women?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "जी",
+          "is_correct": false
+        },
+        {
+          "answer": "साहिबा",
+          "is_correct": true
+        },
+        {
+          "answer": "बेगम",
+          "is_correct": false
+        },
+        {
+          "answer": "साहब",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Foreigners are mostly addressed using which honorific?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "जी",
+          "is_correct": false
+        },
+        {
+          "answer": "साहब",
+          "is_correct": true
+        },
+        {
+          "answer": "साहिबा",
+          "is_correct": false
+        },
+        {
+          "answer": "भाई साहब",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "If you don't know a man's name, which term is fairly safe to use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "बहन जी",
+          "is_correct": false
+        },
+        {
+          "answer": "माता जी",
+          "is_correct": false
+        },
+        {
+          "answer": "भाई साहब",
+          "is_correct": true
+        },
+        {
+          "answer": "बेगम",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How would you address a woman of your own age respectfully?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "बहन जी",
+          "is_correct": true
+        },
+        {
+          "answer": "माता जी",
+          "is_correct": false
+        },
+        {
+          "answer": "भाई साहब",
+          "is_correct": false
+        },
+        {
+          "answer": "साहब",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which term is used as a respectful form for speaking to an older lady?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "बहन जी",
+          "is_correct": false
+        },
+        {
+          "answer": "माता जी",
+          "is_correct": true
+        },
+        {
+          "answer": "भाई साहब",
+          "is_correct": false
+        },
+        {
+          "answer": "बेगम",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is an appropriate way to address Mr. Khan according to the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "खान साहब",
+          "is_correct": true
+        },
+        {
+          "answer": "खान जी",
+          "is_correct": false
+        },
+        {
+          "answer": "बेगम ख़ान",
+          "is_correct": false
+        },
+        {
+          "answer": "फातिमा साहिबा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Names and titles can be a little complicated. Hindu men are usually addressed by their last name (which is probably the caste name) with the politeness word जी.\n\nMost Hindu women prefer to be known by their first name, with जी.\n\nMoslem men use the last name (which may or may not be a family name), or the first name, with साहब.\n\nA married Moslem woman is addressed by her husband's last name, preceded by the title बेगम.\n\nUnmarried Moslem women usually use the first name with साहिबा.\n\nForeigners are mostly साहब.\n\nIf you don't know the person's name, or are not sure how he wishes to be addressed, the following are fairly safe: A man can be addressed as भाई साहब (brother), but don't use this for an elderly or high-ranking person. A woman of your own age can be called बहन जी (sister). A respectful form for speaking to an older lady is माता जी (mother)."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

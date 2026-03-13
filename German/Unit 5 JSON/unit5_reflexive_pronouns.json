@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit5_reflexive_pronouns",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "What does a reflexive pronoun indicate in a sentence?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The subject is doing the action to others",
+            "is_correct": false
+          },
+          {
+            "answer": "The verb is passive",
+            "is_correct": false
+          },
+          {
+            "answer": "The noun is plural",
+            "is_correct": false
+          },
+          {
+            "answer": "The subject and object are the same person",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Which German reflexive pronoun is used for third‑person subjects?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "mich",
+            "is_correct": false
+          },
+          {
+            "answer": "uns",
+            "is_correct": false
+          },
+          {
+            "answer": "sich",
+            "is_correct": true
+          },
+          {
+            "answer": "mir",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "In the sentence 'Meine Frau kann sich nicht an das Klima gewöhnen', what is the function of 'sich'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "It is the indirect object referring to another person",
+            "is_correct": false
+          },
+          {
+            "answer": "It is a possessive pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "It is the subject",
+            "is_correct": false
+          },
+          {
+            "answer": "It is the object referring to the same person as the subject",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Which pronoun does German use when the subject is 'ich' and a reflexive pronoun is needed?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "sich",
+            "is_correct": false
+          },
+          {
+            "answer": "dich",
+            "is_correct": false
+          },
+          {
+            "answer": "euch",
+            "is_correct": false
+          },
+          {
+            "answer": "mich or mir",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "In which case can 'sich' serve when the subject is third person?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Only nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Only genitive",
+            "is_correct": false
+          },
+          {
+            "answer": "Only dative",
+            "is_correct": false
+          },
+          {
+            "answer": "Accusative or dative",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "What pronoun do you use after the preposition 'von' if the subject is 'ich'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "mich",
+            "is_correct": false
+          },
+          {
+            "answer": "sich",
+            "is_correct": false
+          },
+          {
+            "answer": "ihr",
+            "is_correct": false
+          },
+          {
+            "answer": "mir",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Which set of subjects would trigger the reflexive pronoun 'sich'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "ich, wir",
+            "is_correct": false
+          },
+          {
+            "answer": "du, ihr",
+            "is_correct": false
+          },
+          {
+            "answer": "Nouns replaced by ich",
+            "is_correct": false
+          },
+          {
+            "answer": "er, sie, Sie, es",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "What is the reflexive pronoun in the sentence 'Wir möchten uns gern einige Bücher leihen'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "uns",
+            "is_correct": true
+          },
+          {
+            "answer": "sich",
+            "is_correct": false
+          },
+          {
+            "answer": "mich",
+            "is_correct": false
+          },
+          {
+            "answer": "euch",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "What does the phrase 'Er spricht immer nur von sich' mean?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He always talks to others",
+            "is_correct": false
+          },
+          {
+            "answer": "He always speaks for them",
+            "is_correct": false
+          },
+          {
+            "answer": "He talks about you",
+            "is_correct": false
+          },
+          {
+            "answer": "He always talks only about himself",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "When the subject of a sentence is 'wir', which pronoun is used for reflexive constructions after prepositions?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "sich",
+            "is_correct": false
+          },
+          {
+            "answer": "mich",
+            "is_correct": false
+          },
+          {
+            "answer": "sie",
+            "is_correct": false
+          },
+          {
+            "answer": "uns",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "\nIn many sentences the object of the verb, the thing or person acted upon, is the same as the subject or doer.  We say, for example, in English: Mr. Wilson introduced himself.  Or: She thinks a good deal of herself, doesn't she?  The identity of subject and object in English is indicated by adding the suffix –self to the pronoun designating the object.  Pronouns of this kind are called Reflexive Pronouns.\n\nThe German Reflexive Pronoun\n\nIn German, as in English, the subject and object of a verb may be the same.  Note the following examples from your basic sentences:\n\nMeine Frau kann sich nicht an das Klima gewöhnen.\nDarf ich mir mal Ihre Zeitung leihen?\nMöchten Sie sich mal eins meiner Bücher leihen?\n\nMy wife can't get (herself) used to the climate.\nMay I borrow (lend myself) your newspaper?\nWould you like to borrow one of my books?\n\nIn sentence (a) the object of the verb refers to the same person as the subject and has the form sich.  In sentence (b) the interested bystander or indirect object of the verb is the same person as the subject and has the form mir.  In sentence (c) the indirect object of the verb is the same person as the subject and has the form sich.\n\nGerman has only one reflexive pronoun, the form sich, meaning 'himself, herself, itself, yourself, yourselves, themselves'.  It occurs wherever the subject of the verb is er, sie, Sie or es, or is a noun which can be replaced by these pronouns.\n\nHerr Allen kann sich nicht an das Klima gewöhnen.\nHerr Allen und seine Frau können sich nicht an das Klima gewöhnen.\nKönnen Sie sich nicht an das Klima gewöhnen?\n\nMr. Allen can't get (himself) used to the climate.\nMr. Allen and his wife can't get (themselves) used to the climate.\nCan't you get (yourself) used to the climate?\n\nThe reflexive pronoun sich may function either as the object or as the interested bystander in a sentence.  We might say it can have either an Accusative or Dative function.  Compare the sentences above with the following:\n\nMöchten Sie sich ein Buch leihen?\nEr möchte sich ein Buch leihen.\n\nWherever the subject of the sentence can be replaced by ich or wir German uses the regular pronoun forms mich, mir and uns.\n\nIch kann mich nicht an das Klima gewöhnen.\nMeine Frau und ich können uns nicht an das Klima gewöhnen.\nDarf ich mir Ihre Zeitung leihen?\nWir möchten uns gern einige Bücher leihen.\n\nI can't get (myself) used to the climate.\nMy wife and I can't get (ourselves) used to the climate.\nMay I borrow (lend myself) your newspaper?\nWe'd like to borrow (lend ourselves) some books.\n\nThe object of a preposition can also refer to the same person as the subject in a sentence:\n\nEr spricht immer nur von sich.\nIch spreche nicht gern von mir.\n\nHe always talks only about himself.\nI don't like to talk about myself.\n\nWhenever the subject of the sentence is er, sie, Sie or es, or is a noun which can be replaced by these pronouns, the reflexive pronoun form sich occurs as a prepositional object referring to the same person as the subject.  Wherever the subject of the sentence is ich or wir, or is a noun which can be replaced by ich or wir, German uses the regular pronoun forms mich, mir and uns after prepositions in order to refer to the same person as the subject.\n"
+      }
+    ],
+    "metadata": {
+      "page_start": 122,
+      "page_end": 122,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

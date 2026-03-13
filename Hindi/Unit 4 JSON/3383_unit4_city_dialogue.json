@@ -1,0 +1,284 @@
+[
+  {
+    "title": "unit4_city_dialogue",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which Hindi sentence asks for the name of the city?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "इस शहर का नाम क्या है ?",
+            "is_correct": true
+          },
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "और उसका ?",
+            "is_correct": false
+          },
+          {
+            "answer": "जी नहीं, आगरा वहाँ है ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which sentence states that the city's name is Bombay?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "इसका नाम बम्बई है ।",
+            "is_correct": true
+          },
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": false
+          },
+          {
+            "answer": "और उसका ?",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which sentence asks about 'that one'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "और उसका ?",
+            "is_correct": true
+          },
+          {
+            "answer": "यह क्या है ?",
+            "is_correct": false
+          },
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": false
+          },
+          {
+            "answer": "इसका नाम बम्बई है ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which sentence denies the suggestion that the city is Agra?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "जी नहीं, आगरा वहाँ है ।",
+            "is_correct": true
+          },
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "और उसका ?",
+            "is_correct": false
+          },
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which sentence expresses that someone does not remember?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": true
+          },
+          {
+            "answer": "और उसका ?",
+            "is_correct": false
+          },
+          {
+            "answer": "जी नहीं, आगरा वहाँ है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence asks 'What is this?'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "यह क्या है ?",
+            "is_correct": true
+          },
+          {
+            "answer": "और उसका ?",
+            "is_correct": false
+          },
+          {
+            "answer": "इसका नाम बम्बई है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "जी नहीं, आगरा वहाँ है ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which sentence names Agra as the city's name?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": true
+          },
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": false
+          },
+          {
+            "answer": "जी नहीं, आगरा वहाँ है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "इसका नाम बम्बई है ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which sentence is a response to 'और उसका ?' in the dialogue?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": true
+          },
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": false
+          },
+          {
+            "answer": "जी नहीं, आगरा वहाँ है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "यह क्या है ?",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of the following sentences is a question?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "और उसका ?",
+            "is_correct": true
+          },
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": false
+          },
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "जी नहीं, आगरा वहाँ है ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which line comes last in the dialogue?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "याद नहीं ।",
+            "is_correct": true
+          },
+          {
+            "answer": "इसका नाम बम्बई है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "उसका नाम आगरा है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "इस शहर का नाम क्या है ?",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "इस शहर का नाम क्या है ?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "इसका नाम बम्बई है ।"
+      },
+      {
+        "sequence_id": 3,
+        "text": "और उसका ?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "उसका नाम आगरा है ।"
+      },
+      {
+        "sequence_id": 5,
+        "text": "जी नहीं, आगरा वहाँ है ।"
+      },
+      {
+        "sequence_id": 6,
+        "text": "यह क्या है ?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "याद नहीं ।"
+      }
+    ],
+    "metadata": {
+      "page_start": 9,
+      "page_end": 9,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

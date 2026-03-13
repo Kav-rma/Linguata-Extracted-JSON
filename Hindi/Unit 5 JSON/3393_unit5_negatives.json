@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit5_negatives",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In Hindi, where is नहीं placed to make a negative statement?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Before the verb",
+            "is_correct": true
+          },
+          {
+            "answer": "After the verb",
+            "is_correct": false
+          },
+          {
+            "answer": "At the beginning of the sentence",
+            "is_correct": false
+          },
+          {
+            "answer": "It replaces the verb",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "According to the explanation, what often happens to है after नहीं?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "It is often omitted",
+            "is_correct": true
+          },
+          {
+            "answer": "It changes to नहीं",
+            "is_correct": false
+          },
+          {
+            "answer": "It moves to the beginning",
+            "is_correct": false
+          },
+          {
+            "answer": "It is doubled",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which Hindi particle is used with imperatives to mean 'please don't'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "न",
+            "is_correct": true
+          },
+          {
+            "answer": "मत",
+            "is_correct": false
+          },
+          {
+            "answer": "है",
+            "is_correct": false
+          },
+          {
+            "answer": "नहीं",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which particle expresses strong prohibition in Hindi according to the text?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "मत",
+            "is_correct": true
+          },
+          {
+            "answer": "न",
+            "is_correct": false
+          },
+          {
+            "answer": "है",
+            "is_correct": false
+          },
+          {
+            "answer": "नहीं",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is the English translation of 'इसका नाम रूस नहीं है ।'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Its name is not Russia.",
+            "is_correct": true
+          },
+          {
+            "answer": "That's not right.",
+            "is_correct": false
+          },
+          {
+            "answer": "Please don't forget.",
+            "is_correct": false
+          },
+          {
+            "answer": "Don't speak English!",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence means 'That's not right.'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "वह ठीक नहीं ।",
+            "is_correct": true
+          },
+          {
+            "answer": "इसका नाम रूस नहीं है ।",
+            "is_correct": false
+          },
+          {
+            "answer": "न भूलिए ।",
+            "is_correct": false
+          },
+          {
+            "answer": "अंग्रेज़ी मत बोलिए ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does 'न भूलिए ।' mean?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Please don't forget.",
+            "is_correct": true
+          },
+          {
+            "answer": "Please don't go to sleep.",
+            "is_correct": false
+          },
+          {
+            "answer": "Don't speak English!",
+            "is_correct": false
+          },
+          {
+            "answer": "Its name is not Russia.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which sentence means 'Don't speak English!'?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "अंग्रेज़ी मत बोलिए ।",
+            "is_correct": true
+          },
+          {
+            "answer": "न सोइए ।",
+            "is_correct": false
+          },
+          {
+            "answer": "वह ठीक नहीं ।",
+            "is_correct": false
+          },
+          {
+            "answer": "न भूलिए ।",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "What does the text suggest reviewing daily along with the map?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The information discussed here",
+            "is_correct": true
+          },
+          {
+            "answer": "The U.S. Constitution",
+            "is_correct": false
+          },
+          {
+            "answer": "A list of cities",
+            "is_correct": false
+          },
+          {
+            "answer": "Verb conjugations",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "What additional map does the text say can also be discussed?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The U.S. map",
+            "is_correct": true
+          },
+          {
+            "answer": "The Chinese map",
+            "is_correct": false
+          },
+          {
+            "answer": "The world map",
+            "is_correct": false
+          },
+          {
+            "answer": "The European map",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "The information discussed here is important to everyone who is interested in India. It will probably be necessary to review this daily with the map, until all students are well-informed on this topic. The U. S. map can also be discussed.\n\nNegatives: Negative statements are made by placing नहीं before the verb.\n\nइसका नाम रूस नहीं है ।\nIts name is not Russia.\n\nAfter नहीं, है is often omitted.\n\nवह ठीक नहीं ।\nThat's not right.\n\nWith imperatives (the इये form) न is used.\n\nन भूलिए ।\nPlease don't forget.\n\nन सोइए ।\nPlease don't go to sleep.\n\nStrong prohibition is expressed with मत.\n\nअंग्रेज़ी मत बोलिए ।\nDon't speak English!\n\nIn many classes it is necessary to use this sentence frequently."
+      }
+    ],
+    "metadata": {
+      "page_start": 12,
+      "page_end": 12,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

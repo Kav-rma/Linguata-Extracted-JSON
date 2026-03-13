@@ -1,0 +1,258 @@
+{
+  "title": "unit9_two_kinds_of_nouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How many basic types of nouns are described in the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One",
+          "is_correct": false
+        },
+        {
+          "answer": "Two",
+          "is_correct": true
+        },
+        {
+          "answer": "Three",
+          "is_correct": false
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which postposition is used with the first type of noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का",
+          "is_correct": true
+        },
+        {
+          "answer": "की",
+          "is_correct": false
+        },
+        {
+          "answer": "के",
+          "is_correct": false
+        },
+        {
+          "answer": "से",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What ending do adjectives have with the first type of noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आ",
+          "is_correct": true
+        },
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "उ",
+          "is_correct": false
+        },
+        {
+          "answer": "ए",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of the following is an example of the first type of noun from the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "प्रदेश की राजधानी",
+          "is_correct": false
+        },
+        {
+          "answer": "मेरी उम्र",
+          "is_correct": false
+        },
+        {
+          "answer": "कौन सा शहर",
+          "is_correct": true
+        },
+        {
+          "answer": "कौन सी तारीख",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which postposition is used with the second type of noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का",
+          "is_correct": false
+        },
+        {
+          "answer": "की",
+          "is_correct": true
+        },
+        {
+          "answer": "के",
+          "is_correct": false
+        },
+        {
+          "answer": "को",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What ending do adjectives have with the second type of noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आ",
+          "is_correct": false
+        },
+        {
+          "answer": "ई",
+          "is_correct": true
+        },
+        {
+          "answer": "उ",
+          "is_correct": false
+        },
+        {
+          "answer": "ओ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which example belongs to the second type of noun in the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "प्रदेश का नाम",
+          "is_correct": false
+        },
+        {
+          "answer": "मेरी उम्र",
+          "is_correct": true
+        },
+        {
+          "answer": "कौन सा दिन",
+          "is_correct": false
+        },
+        {
+          "answer": "मेरा नाम",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Nouns designating females usually belong to which class?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Masculine",
+          "is_correct": false
+        },
+        {
+          "answer": "Feminine",
+          "is_correct": true
+        },
+        {
+          "answer": "Both",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "According to the article, the word \"दिन\" is considered:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Masculine",
+          "is_correct": true
+        },
+        {
+          "answer": "Feminine",
+          "is_correct": false
+        },
+        {
+          "answer": "Neuter",
+          "is_correct": false
+        },
+        {
+          "answer": "Unknown",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "According to the article, the word \"तारीख\" is considered:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Masculine",
+          "is_correct": false
+        },
+        {
+          "answer": "Feminine",
+          "is_correct": true
+        },
+        {
+          "answer": "Neuter",
+          "is_correct": false
+        },
+        {
+          "answer": "Unknown",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The two kinds of nouns\n\nThere are two basic types of nouns in Hindi. With the first type का is used, and adjectives which end with आ.\nप्रदेश का नाम — the state's name\nमेरा नाम — my name\nकौन सा दिन — which day?\nकौन सा शहर — which city?\n\nWith the others की is used, and adjectives have an ई ending.\nप्रदेश की राजधानी — the capital of the state\nमेरी उम्र — my age\nकौन सी तारीख — which date?\n\nThe traditional names for these two noun classes are Masculine (the आ words) and Feminine (the ई words). These terms are not to be taken too seriously. The names of most male deities, persons, and animals belong to the Masculine class, and nouns which designate females are mostly in the Feminine class, but there are many exceptions. Every noun must belong to one class or the other, and there is no reasonable explanation for the fact that an utterly sexless word like दिन is considered Masculine while तारीख, which has almost the same meaning, is Feminine. The point is, आ endings are used with some, and ई endings with the others.\n\nHindi dictionaries list nouns as पुल्लिंग (Masculine) or स्त्रीलिंग (Feminine). The abbreviations are पु and स्त्री."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
