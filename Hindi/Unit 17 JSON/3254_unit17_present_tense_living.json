@@ -1,0 +1,258 @@
+{
+  "title": "unit17_present_tense_living",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which form of the verb 'live' does a man use when speaking about himself?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मैं रहता हूँ",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं रहती हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "आप रहते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "आप रहती हैं",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which form is used by a woman speaking about herself?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मैं रहती हूँ",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं रहता हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "आप रहते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "लोग रहते हैं",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "When addressing a man or a group, which form is used?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "आप रहते हैं",
+          "is_correct": true
+        },
+        {
+          "answer": "आप रहती हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं रहता हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "लोग रहते हैं",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which participle ending is used with masculine singular subjects?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ता",
+          "is_correct": true
+        },
+        {
+          "answer": "ते",
+          "is_correct": false
+        },
+        {
+          "answer": "ती",
+          "is_correct": false
+        },
+        {
+          "answer": "हूँ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "The participle ending 'ती' corresponds to which type of subjects?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Feminine subjects",
+          "is_correct": true
+        },
+        {
+          "answer": "Masculine singular subjects",
+          "is_correct": false
+        },
+        {
+          "answer": "Masculine plural subjects",
+          "is_correct": false
+        },
+        {
+          "answer": "First person plural",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which auxiliary form is used with the subject 'मैं'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "हूँ",
+          "is_correct": true
+        },
+        {
+          "answer": "है",
+          "is_correct": false
+        },
+        {
+          "answer": "हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "हो",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "According to the text, what does the auxiliary verb mean when it occurs alone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "It means am, is, are",
+          "is_correct": true
+        },
+        {
+          "answer": "It means have, has",
+          "is_correct": false
+        },
+        {
+          "answer": "It means can, could",
+          "is_correct": false
+        },
+        {
+          "answer": "It has no meaning",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "When the auxiliary and participle are used together, what is true about their meanings?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "They do not have separate meanings",
+          "is_correct": true
+        },
+        {
+          "answer": "They have different meanings",
+          "is_correct": false
+        },
+        {
+          "answer": "It depends on the subject",
+          "is_correct": false
+        },
+        {
+          "answer": "They are interchangeable",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "What tends to happen to the auxiliary in the negative?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "It is omitted",
+          "is_correct": true
+        },
+        {
+          "answer": "It becomes stronger",
+          "is_correct": false
+        },
+        {
+          "answer": "It changes endings",
+          "is_correct": false
+        },
+        {
+          "answer": "It is replaced by the participle",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which example illustrates the omission of the auxiliary in the negative?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "दिल्ली में नहीं रहता, यहाँ रहता हूँ ।",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं रहता हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "आप रहते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "लोग रहते हैं",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The verb live, remain has been introduced in these forms:\nमैं रहता हूँ (man speaking)\nमैं रहती हूँ (woman speaking)\nआप रहते हैं (to a man or men, or a group)\nआप रहती हैं (to a woman or women)\nलोग रहते हैं (about a group)\n\nThe present tense is formed with two words, which are called the participle and the auxiliary. The participle has the same endings as an adjective:\nता — with masculine singular subjects\nते — with masculine plural subjects\nती — with feminine subjects\n\nThe auxiliary verb is already familiar:\nहूँ — with the subject मैं\nहै — with other singular subjects\nहैं — with plural subjects\n\nWhen it occurs alone, the auxiliary verb means am, is, are.\nWhen the auxiliary and the participle are used together, the two do not have separate meanings.\nIn the negative, the auxiliary tends to be omitted.\n\nदिल्ली में नहीं रहता, यहाँ रहता हूँ ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit20_oblique_case_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In the pronoun table, what is the oblique form of 'मैं'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मुझ",
+          "is_correct": true
+        },
+        {
+          "answer": "इस",
+          "is_correct": false
+        },
+        {
+          "answer": "इन",
+          "is_correct": false
+        },
+        {
+          "answer": "उस",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which example phrase means 'than I'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मुझसे",
+          "is_correct": true
+        },
+        {
+          "answer": "मुझ पर",
+          "is_correct": false
+        },
+        {
+          "answer": "मेरा",
+          "is_correct": false
+        },
+        {
+          "answer": "इनसे",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "For the pronoun 'यह' (this, she, he, it), what is the oblique form?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "इस",
+          "is_correct": true
+        },
+        {
+          "answer": "इन",
+          "is_correct": false
+        },
+        {
+          "answer": "उस",
+          "is_correct": false
+        },
+        {
+          "answer": "उन",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which word corresponds to 'his, her, its, this one's'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "इसका",
+          "is_correct": true
+        },
+        {
+          "answer": "उससे",
+          "is_correct": false
+        },
+        {
+          "answer": "उन",
+          "is_correct": false
+        },
+        {
+          "answer": "मेरा",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "For the pronoun 'वे' (they, he, she, those), what is the oblique form?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "उन",
+          "is_correct": true
+        },
+        {
+          "answer": "वे",
+          "is_correct": false
+        },
+        {
+          "answer": "आप",
+          "is_correct": false
+        },
+        {
+          "answer": "हम",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "In the row for 'आप' (you), which phrase means 'from you'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "आपसे",
+          "is_correct": true
+        },
+        {
+          "answer": "आपमें",
+          "is_correct": false
+        },
+        {
+          "answer": "आपका",
+          "is_correct": false
+        },
+        {
+          "answer": "उससे",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which pronoun has the same form in both direct and oblique cases?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "हम",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं",
+          "is_correct": false
+        },
+        {
+          "answer": "वह",
+          "is_correct": false
+        },
+        {
+          "answer": "यह",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which example phrase corresponds to 'on me'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मुझ पर",
+          "is_correct": true
+        },
+        {
+          "answer": "मुझसे",
+          "is_correct": false
+        },
+        {
+          "answer": "इससे",
+          "is_correct": false
+        },
+        {
+          "answer": "इनमें",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "The oblique case is used with what, according to the article?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Postpositions and special situations",
+          "is_correct": true
+        },
+        {
+          "answer": "Past tense verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "Present continuous",
+          "is_correct": false
+        },
+        {
+          "answer": "Imperative mood",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Are the provided meanings in the table exhaustive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "No, these are only some of the possible meanings.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, they cover all possible meanings.",
+          "is_correct": false
+        },
+        {
+          "answer": "They only apply to plural nouns.",
+          "is_correct": false
+        },
+        {
+          "answer": "They are strictly for adjectives.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The oblique case is used with postpositions, and in other special situations.\n\nDirect    Oblique     Examples\n\nमैं       मुझ         मुझसे    (than I / from me)   मुझ पर   (on me)   मेरा (my)\nयह       इस          इससे     (than him/her)         इसमें    (in it / in this)  इसका (his/her/its)\nये       इन          इनसे     (than he/than they)    इनमें    (in him/in them)   इनका (his/her/their)\nवह       उस          उससे     (than she/from him)    उसपर    (on it)      उसका (his/her/its)\nवे       उन          उनसे     (than he/than they)    उनमें    (among them)   उनका (his/her/their)\nआप      आप         आपसे     (than you/from you)    आपमें    (among you)   आपका (your)\nहम       हम          हमसे     (from us/than we)      हममें    (among us)   हमारा (our)\n\nThese are only some of the possible meanings."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

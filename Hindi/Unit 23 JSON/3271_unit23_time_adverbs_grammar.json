@@ -1,0 +1,258 @@
+{
+  "title": "unit23_time_adverbs_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which Hindi phrase means 'in the morning'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "सवेरे",
+          "is_correct": true
+        },
+        {
+          "answer": "रोज",
+          "is_correct": false
+        },
+        {
+          "answer": "दोपहर को",
+          "is_correct": false
+        },
+        {
+          "answer": "इतवार को",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say 'on Sunday' using an oblique time phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "इतवार को",
+          "is_correct": true
+        },
+        {
+          "answer": "शाम को",
+          "is_correct": false
+        },
+        {
+          "answer": "रात को",
+          "is_correct": false
+        },
+        {
+          "answer": "सप्ताहांत को",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'दोपहर को' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "in the afternoon",
+          "is_correct": true
+        },
+        {
+          "answer": "in the evening",
+          "is_correct": false
+        },
+        {
+          "answer": "at night",
+          "is_correct": false
+        },
+        {
+          "answer": "daily",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How do you express 1:30 in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "डेढ़ बजे",
+          "is_correct": true
+        },
+        {
+          "answer": "ढाई बजे",
+          "is_correct": false
+        },
+        {
+          "answer": "साढ़े तीन बजे",
+          "is_correct": false
+        },
+        {
+          "answer": "साढ़े दस बजे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which phrase means 'at 2:30'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ढाई बजे",
+          "is_correct": true
+        },
+        {
+          "answer": "डेढ़ बजे",
+          "is_correct": false
+        },
+        {
+          "answer": "साढ़े तीन बजे",
+          "is_correct": false
+        },
+        {
+          "answer": "साढ़े दस बजे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "From which time onward is 'साढ़े' used for half-hours?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "From 1:30 onward",
+          "is_correct": false
+        },
+        {
+          "answer": "From 2:30 onward",
+          "is_correct": false
+        },
+        {
+          "answer": "From 3:30 onward",
+          "is_correct": true
+        },
+        {
+          "answer": "From 10:30 onward",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which phrase means 'daily'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "रोज",
+          "is_correct": true
+        },
+        {
+          "answer": "सप्ताहांत को",
+          "is_correct": false
+        },
+        {
+          "answer": "रात को",
+          "is_correct": false
+        },
+        {
+          "answer": "सवेरे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "'शाम को' translates to:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "in the evening",
+          "is_correct": true
+        },
+        {
+          "answer": "at night",
+          "is_correct": false
+        },
+        {
+          "answer": "on the weekend",
+          "is_correct": false
+        },
+        {
+          "answer": "at noon",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'सप्ताहांत को' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "on the weekend",
+          "is_correct": true
+        },
+        {
+          "answer": "in the morning",
+          "is_correct": false
+        },
+        {
+          "answer": "on Sunday",
+          "is_correct": false
+        },
+        {
+          "answer": "daily",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "According to the notes, which question should be avoided for the time being?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "\"What time is it?\"",
+          "is_correct": true
+        },
+        {
+          "answer": "\"How are you?\"",
+          "is_correct": false
+        },
+        {
+          "answer": "\"Where do you live?\"",
+          "is_correct": false
+        },
+        {
+          "answer": "\"What is your name?\"",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "These phrases are in the oblique singular form. Oblique expressions like these are often called adverbs or adverbial phrases. Other time adverbs are:\n\nसवेरे           in the morning\nरोज             daily\nइतवार को         on Sunday\nशाम को           in the evening\nरात को           at night\nदोपहर को         in the afternoon\nसप्ताहांत को      on the weekend\n\nThe half-hours are expressed this way:\n\nडेढ़ बजे         at 1:30\nढाई बजे          at 2:30\nसाढ़े तीन बजे     at 3:30\nसाढ़े दस बजे     at 10:30\n\nFrom 3:30 on, साढ़े is used.\nFor the time being, avoid the question, \"What time is it?\"\nBuild up a monolog on your daily routine."
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

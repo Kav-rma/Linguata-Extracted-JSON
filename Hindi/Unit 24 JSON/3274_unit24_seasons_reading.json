@@ -1,0 +1,290 @@
+{
+  "title": "unit24_seasons_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When does the winter season start in New Delhi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "November",
+          "is_correct": true
+        },
+        {
+          "answer": "December",
+          "is_correct": false
+        },
+        {
+          "answer": "February",
+          "is_correct": false
+        },
+        {
+          "answer": "March",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When does the winter season end in New Delhi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "January",
+          "is_correct": false
+        },
+        {
+          "answer": "February",
+          "is_correct": true
+        },
+        {
+          "answer": "March",
+          "is_correct": false
+        },
+        {
+          "answer": "April",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the conversation, the hot season lasts from which months?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "March to June",
+          "is_correct": true
+        },
+        {
+          "answer": "May to September",
+          "is_correct": false
+        },
+        {
+          "answer": "July to October",
+          "is_correct": false
+        },
+        {
+          "answer": "November to February",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Does India also have a rainy season?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in New Delhi",
+          "is_correct": false
+        },
+        {
+          "answer": "Not mentioned",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "According to the conversation, when is the rainy season?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "July to 15 September",
+          "is_correct": true
+        },
+        {
+          "answer": "June to August",
+          "is_correct": false
+        },
+        {
+          "answer": "September to December",
+          "is_correct": false
+        },
+        {
+          "answer": "January to March",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which month signals the start of winter in New Delhi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "November",
+          "is_correct": true
+        },
+        {
+          "answer": "December",
+          "is_correct": false
+        },
+        {
+          "answer": "February",
+          "is_correct": false
+        },
+        {
+          "answer": "June",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How long does the winter season last in New Delhi according to the reading?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "From November to February",
+          "is_correct": true
+        },
+        {
+          "answer": "From March to June",
+          "is_correct": false
+        },
+        {
+          "answer": "From July to September",
+          "is_correct": false
+        },
+        {
+          "answer": "From February to April",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which season begins in March in the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hot season",
+          "is_correct": true
+        },
+        {
+          "answer": "Cold season",
+          "is_correct": false
+        },
+        {
+          "answer": "Rainy season",
+          "is_correct": false
+        },
+        {
+          "answer": "Winter season",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which statement is true about the rainy season according to the passage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It lasts from July to 15 September",
+          "is_correct": true
+        },
+        {
+          "answer": "It begins in November",
+          "is_correct": false
+        },
+        {
+          "answer": "It ends in March",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no rainy season",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "On which date does the reading say the rainy season ends?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "15 September",
+          "is_correct": true
+        },
+        {
+          "answer": "31 October",
+          "is_correct": false
+        },
+        {
+          "answer": "1 December",
+          "is_correct": false
+        },
+        {
+          "answer": "15 June",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "नई दिल्ली में जाड़े का मौसम कब शुरू होता है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "नवम्बर में शुरू होता है ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "और कब खत्म होता है ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "फ़रवरी में ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "वहां गर्मी का मौसम कब से कब तक होता है ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "मार्च से जून तक ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "क्या भारत में बरसात का मौसम भी होता है ?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "जी हां, होता है ।"
+    },
+    {
+      "sequence_id": 9,
+      "text": "बरसात जुलाई से 15 सितम्बर तक होती है ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "title": "unit27_daily_events_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What day was yesterday according to the conversation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Monday",
+          "is_correct": false
+        },
+        {
+          "answer": "Tuesday",
+          "is_correct": false
+        },
+        {
+          "answer": "Wednesday",
+          "is_correct": true
+        },
+        {
+          "answer": "Thursday",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where was the speaker on Wednesday?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "At the office",
+          "is_correct": false
+        },
+        {
+          "answer": "At home",
+          "is_correct": true
+        },
+        {
+          "answer": "In New York",
+          "is_correct": false
+        },
+        {
+          "answer": "In Chicago",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where was the wife first before going to Chicago?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Boston",
+          "is_correct": false
+        },
+        {
+          "answer": "New York",
+          "is_correct": true
+        },
+        {
+          "answer": "Washington",
+          "is_correct": false
+        },
+        {
+          "answer": "London",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "What was the date the day before yesterday?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "15 February",
+          "is_correct": false
+        },
+        {
+          "answer": "16 February",
+          "is_correct": false
+        },
+        {
+          "answer": "17 February",
+          "is_correct": true
+        },
+        {
+          "answer": "18 February",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which day did they initially think yesterday was?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Monday",
+          "is_correct": false
+        },
+        {
+          "answer": "Tuesday",
+          "is_correct": true
+        },
+        {
+          "answer": "Wednesday",
+          "is_correct": false
+        },
+        {
+          "answer": "Friday",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which question asks about someone's memory in the dialogue?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "What was the date the day before yesterday?",
+          "is_correct": false
+        },
+        {
+          "answer": "Where were you on Wednesday?",
+          "is_correct": false
+        },
+        {
+          "answer": "Don't you remember what day it was?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where was your wife last week?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which pair of cities does the wife visit?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "New York and Chicago",
+          "is_correct": true
+        },
+        {
+          "answer": "Delhi and Mumbai",
+          "is_correct": false
+        },
+        {
+          "answer": "London and Paris",
+          "is_correct": false
+        },
+        {
+          "answer": "Rome and Berlin",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Where were you yesterday? is asked in Hindi as:",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "कल आप कहां थे ?",
+          "is_correct": true
+        },
+        {
+          "answer": "कल कौनसा दिन था ?",
+          "is_correct": false
+        },
+        {
+          "answer": "बुध को आप कहां थे ?",
+          "is_correct": false
+        },
+        {
+          "answer": "आप लोग यूरप में कब थे ?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "In the conversation, what was yesterday ultimately identified as?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Tuesday",
+          "is_correct": false
+        },
+        {
+          "answer": "Wednesday",
+          "is_correct": true
+        },
+        {
+          "answer": "Thursday",
+          "is_correct": false
+        },
+        {
+          "answer": "Friday",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "According to the dialogue, where was the speaker's wife last week?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Only in New York",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in Chicago",
+          "is_correct": false
+        },
+        {
+          "answer": "First in New York then in Chicago",
+          "is_correct": true
+        },
+        {
+          "answer": "First in Chicago then in New York",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "कल कौनसा दिन था ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "कल मंगल था ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "जी नहीं, मंगल नहीं था । कल बुध था ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "बुध को आप कहां थे ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "मैं घर पर था ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "पिछले हफ़्ते आपकी पत्नी कहां थीं ?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "पहले वे न्यूयार्क में थीं और फिर शिकागो में थीं ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "क्या आपको याद नहीं कौनसा दिन था ?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "परसों कौनसी तारीख़ थी ?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "सत्रह फ़रवरी थी ।"
+    },
+    {
+      "sequence_id": 11,
+      "text": "और कौनसा दिन था ?"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

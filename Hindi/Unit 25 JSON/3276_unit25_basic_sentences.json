@@ -1,0 +1,73 @@
+{
+  "title": "unit25_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "मुझे बीस मिनट लगते हैं ।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It takes me twenty minutes.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "मुझे आधा घंटा लगता है ।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It takes me half an hour.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "आपको स्कूल आने में कितना समय लगता है ?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How much time does it take you to come to school?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "आपको घर पहुँचने में कितनी देर लगती है ?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How long does it take you to reach home?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "आपको वाशिंगटन जाने में कितने मिनट लगते हैं ?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How many minutes does it take you to go to Washington?",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit18_gender_number_person",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which grammatical dimensions are the focus of this unit?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Gender, number, and person",
+          "is_correct": true
+        },
+        {
+          "answer": "Tense, mood, and aspect",
+          "is_correct": false
+        },
+        {
+          "answer": "Voice, mood, and tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Case, aspect, and gender",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "In Hindi, the pronoun 'आप' always requires which type of verb?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Plural verb",
+          "is_correct": true
+        },
+        {
+          "answer": "Singular verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Negative verb",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "According to the explanation, when is the plural form used for a single person?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "To show respect",
+          "is_correct": true
+        },
+        {
+          "answer": "For children",
+          "is_correct": false
+        },
+        {
+          "answer": "For animals",
+          "is_correct": false
+        },
+        {
+          "answer": "For objects",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "What are the first person pronouns introduced in this unit?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मैं and हम",
+          "is_correct": true
+        },
+        {
+          "answer": "आप and आप लोग",
+          "is_correct": false
+        },
+        {
+          "answer": "वह and वे",
+          "is_correct": false
+        },
+        {
+          "answer": "यह and वो",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which singular third person pronoun means 'this one' and can be translated as he, she, or it?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "यह",
+          "is_correct": true
+        },
+        {
+          "answer": "वह",
+          "is_correct": false
+        },
+        {
+          "answer": "ये",
+          "is_correct": false
+        },
+        {
+          "answer": "वे",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "What plural pronouns correspond to 'यह' and 'वह'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ये and वे",
+          "is_correct": true
+        },
+        {
+          "answer": "हम and आप",
+          "is_correct": false
+        },
+        {
+          "answer": "वह and वे",
+          "is_correct": false
+        },
+        {
+          "answer": "यह and आप",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you clearly indicate a group of people when using plural pronouns?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Add the noun 'लोग' after the pronoun",
+          "is_correct": true
+        },
+        {
+          "answer": "Use the singular pronoun",
+          "is_correct": false
+        },
+        {
+          "answer": "Use an adjective",
+          "is_correct": false
+        },
+        {
+          "answer": "Add the particle 'का'",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which participle ending corresponds to feminine subjects?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ती",
+          "is_correct": true
+        },
+        {
+          "answer": "ते",
+          "is_correct": false
+        },
+        {
+          "answer": "ता",
+          "is_correct": false
+        },
+        {
+          "answer": "ना",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the infinitive form of a verb in Hindi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Root + ना",
+          "is_correct": true
+        },
+        {
+          "answer": "Root + ती",
+          "is_correct": false
+        },
+        {
+          "answer": "Root + ता",
+          "is_correct": false
+        },
+        {
+          "answer": "Root + ते",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following is the Hindi infinitive meaning 'to learn'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "सीखना",
+          "is_correct": true
+        },
+        {
+          "answer": "बोलना",
+          "is_correct": false
+        },
+        {
+          "answer": "पहनना",
+          "is_correct": false
+        },
+        {
+          "answer": "पीना",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "These पाठ are mainly concerned with three grammatical dimensions which go under the traditional names of gender, number and person.\n\nGender:\n\nThe two genders, 'masculine' and 'feminine', were introduced in पाठ 6 as far as nouns are concerned. Marked adjectives adjust their endings according to the noun they refer to. (पाठ 12-14) Expressions which refer to people also have gender, according to the sex of the person. (पाठ 10) (का phrases are like adjectives.)\n\nNumber:\n\nNumber is a two-way distinction: singular vs. plural. Hindi is much like English in its use of number. The pronoun आप for instance, always requires the plural verb हैं , just as English you requires the plural are. It can mean one person or several--no matter. आप is grammatically plural, always.\n\nThe plural number is used in referring to a group of persons or things; in referring to one person, the plural shows respect. Only children or persons of low rank should be talked about in the singular.\n\nPerson; the personal pronouns\n\nIt is customary to refer to three grammatical persons. The first person pronouns are मैं and हम. They require the verbs हूँ and हैं , respectively. आप is the only second person pronoun taught in this Introduction.\n\nThe singular third person pronouns are यह and वह. यह means this one, and is often translated he, she, or it. वह means that person or that thing, as well as he, she, it. The plurals are ये and वे. They can be translated they, these, or those. When they refer to a single person, they are translated he or she. (In informal speech, many people say ये for both यह and ये, and वो for both वह and वे.)\n\nयह, ये, वह, and वे or any noun can be substituted in the third person examples.\n\nAll of the grammatically plural pronouns can refer to one person (Many people use हम to mean I.) To make it clear that a group of people is meant, the noun लोग is often added:\n\nआप लोग — you-all\nवे लोग — those people, they\nहम लोग — we (not only I)\n\nThe following examples show how person, number, and gender combine in a sentence consisting of a pronoun or noun as subject, a marked adjective, and a verb.\n\n1 s f    मैं थकी हूँ ।      I'm tired. (woman speaking)\n1 s m    मैं भूखा हूँ ।      I'm hungry. (man speaking)\n2 p f    आप अच्छी हैं ।      You're O.K. (to a woman)\n2 p m    आप गोरे हैं ।       You're fair. (to a man)\n1 p m    हम बूढ़े हैं ।       We are old. I am old.\n3 s f    नदी गहरी है ।       The river is deep.\n3 s m    पानी गंदा है ।       The water is dirty.\n3 p f    सड़कें चौड़ी हैं ।    The streets are wide.\n3 p m    वे काले हैं ।       They are black.\n\n(The other possibility, first person plural feminine, is rare.)\n\nThe present participle consists of the root of the verb plus one of the endings ता ते ती. Here is the full list for the verb go:\n\nPerson   Gender  Number\nमैं जाता हूँ    1   mas. sing.\nमैं जाती हूँ    1   fem. sing.\nहम जाते हैं    1   mas. pl.\nआप जाते हैं    2   mas. pl.\nआप जाती हैं    2   fem. pl.\nयह जाता है    3   mas. sing.\nये जाते हैं    3   mas. pl.\nयह जाती है    3   fem. sing.\nये जाती हैं    3   fem. pl.\n\nAnother form is the root plus the ending ना ; this is called the infinitive. This is the form listed in the dictionary. The verbs introduced on page 36 (in their infinitive form):\n\nबोलना    speak\nखाना     eat\nसीखना    learn\nपढ़ाना    teach\nजानना    know\nलिखना    write\nपढ़ना    study, read\nपकाना    prepare\nसमझना    understand\nपहनना    wear, put on\nखेलना    play\nपीना     drink\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

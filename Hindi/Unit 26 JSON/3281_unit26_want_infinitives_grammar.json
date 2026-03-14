@@ -1,0 +1,258 @@
+{
+  "title": "unit26_want_infinitives_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the Hindi verb 'चाहना' mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "to go",
+          "is_correct": false
+        },
+        {
+          "answer": "to want",
+          "is_correct": true
+        },
+        {
+          "answer": "to eat",
+          "is_correct": false
+        },
+        {
+          "answer": "to drive",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following Hindi sentences expresses a desire using an infinitive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "वह नौकरी चाहता है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "साड़ी पहनना चाहती है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "बाद में",
+          "is_correct": false
+        },
+        {
+          "answer": "क्यों",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "How would you say 'afterwards' using a phrase with 'बाद'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "उसके बाद",
+          "is_correct": false
+        },
+        {
+          "answer": "बाद में",
+          "is_correct": true
+        },
+        {
+          "answer": "उसके दो दिन बाद",
+          "is_correct": false
+        },
+        {
+          "answer": "भारत पहुँचने के बाद",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "In Hindi, what does 'क्यों' mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "where",
+          "is_correct": false
+        },
+        {
+          "answer": "when",
+          "is_correct": false
+        },
+        {
+          "answer": "why",
+          "is_correct": true
+        },
+        {
+          "answer": "because",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which repeated interrogative is used to ask for an itemized list of destinations?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "कहाँ कहाँ",
+          "is_correct": true
+        },
+        {
+          "answer": "क्या क्या",
+          "is_correct": false
+        },
+        {
+          "answer": "कौन कौन",
+          "is_correct": false
+        },
+        {
+          "answer": "क्यों क्यों",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'उसके दो दिन बाद' mean in English?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "two days after that",
+          "is_correct": true
+        },
+        {
+          "answer": "immediately after",
+          "is_correct": false
+        },
+        {
+          "answer": "after arriving",
+          "is_correct": false
+        },
+        {
+          "answer": "two days before",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which verb is used with infinitives to express ability or knowledge?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "पहनना",
+          "is_correct": false
+        },
+        {
+          "answer": "जानना",
+          "is_correct": true
+        },
+        {
+          "answer": "खरीदना",
+          "is_correct": false
+        },
+        {
+          "answer": "देखना",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the English translation of 'भारत पहुँचने के बाद'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "before arriving in India",
+          "is_correct": false
+        },
+        {
+          "answer": "after arriving in India",
+          "is_correct": true
+        },
+        {
+          "answer": "immediately after India",
+          "is_correct": false
+        },
+        {
+          "answer": "while arriving in India",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which word can answer a 'क्यों' question meaning 'because'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "क्यों",
+          "is_correct": false
+        },
+        {
+          "answer": "कहाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "क्योंकि",
+          "is_correct": true
+        },
+        {
+          "answer": "कौन",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which repeated interrogative asks 'Who-all want to come?' in Hindi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "क्या क्या",
+          "is_correct": false
+        },
+        {
+          "answer": "कहाँ कहाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "कौन कौन",
+          "is_correct": true
+        },
+        {
+          "answer": "कब कब",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "चाहना means want.\nवह नौकरी चाहता है । He wants a job.\nचाहना is often used with infinitives.\nसाड़ी पहनना चाहती है । She wants to wear a sari.\nउसके बारे में बताना चाहता हूँ । I want to tell about that.\nInfinitives are used before a few other verbs.\nक्या वे मोटर चलाना जानती हैं ? Does she know how to drive?\nक्या आप लिखना सीखते हैं ? Are you learning to write?\nA repeated interrogative asks for an itemized list.\nकौन कौन आना चाहते हैं ? Who-all want to come?\nक्या क्या देखना चाहता है ? What-all does he want to see?\nकहां कहां जाना चाहती है ? Where do you want to go?\nAfter is expressed by adverbial (oblique) phrases with बाद :\nबाद में — afterwards\nउसके बाद — after that\nउसके फ़ौरन बाद — immediately after that\nउसके दो दिन बाद — two days after that\nभारत पहुँचने के बाद — after arriving in India\nक्यों means why? The answer may use क्योंकि because."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

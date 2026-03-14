@@ -1,0 +1,278 @@
+{
+  "title": "unit17_city_residence",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What question is asked first in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Where do you live?",
+          "is_correct": true
+        },
+        {
+          "answer": "What is your name?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you speak Hindi?",
+          "is_correct": false
+        },
+        {
+          "answer": "How many people are there?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "According to the passage, where does the first person live?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Virginia",
+          "is_correct": true
+        },
+        {
+          "answer": "Washington",
+          "is_correct": false
+        },
+        {
+          "answer": "New York",
+          "is_correct": false
+        },
+        {
+          "answer": "Bombay",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "How does the second person respond when asked 'और आप ?'",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "I also live in Virginia",
+          "is_correct": true
+        },
+        {
+          "answer": "I live in Washington",
+          "is_correct": false
+        },
+        {
+          "answer": "I speak Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't know",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "Who lives in Washington according to the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The group of people addressed by 'आप लोग'",
+          "is_correct": true
+        },
+        {
+          "answer": "The first person",
+          "is_correct": false
+        },
+        {
+          "answer": "No one",
+          "is_correct": false
+        },
+        {
+          "answer": "The second person",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "The question 'और आप लोग ?' is addressed to which group?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "A group of people",
+          "is_correct": true
+        },
+        {
+          "answer": "A single person",
+          "is_correct": false
+        },
+        {
+          "answer": "The narrator's parents",
+          "is_correct": false
+        },
+        {
+          "answer": "The teacher",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which state is mentioned by both the first and second person as their residence?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Virginia",
+          "is_correct": true
+        },
+        {
+          "answer": "Washington",
+          "is_correct": false
+        },
+        {
+          "answer": "California",
+          "is_correct": false
+        },
+        {
+          "answer": "New York",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the sequence of responses?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Virginia, Virginia, Washington",
+          "is_correct": true
+        },
+        {
+          "answer": "Washington, Virginia, Virginia",
+          "is_correct": false
+        },
+        {
+          "answer": "Virginia, Washington, Virginia",
+          "is_correct": false
+        },
+        {
+          "answer": "Washington, Washington, Virginia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of these statements best summarizes the conversation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "They discuss where each person lives",
+          "is_correct": true
+        },
+        {
+          "answer": "They talk about languages",
+          "is_correct": false
+        },
+        {
+          "answer": "They plan to travel",
+          "is_correct": false
+        },
+        {
+          "answer": "They discuss sports",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "In the reading, which place is not mentioned?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "New York",
+          "is_correct": true
+        },
+        {
+          "answer": "Virginia",
+          "is_correct": false
+        },
+        {
+          "answer": "Washington",
+          "is_correct": false
+        },
+        {
+          "answer": "None",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the phrase 'हम लोग' signify in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "We",
+          "is_correct": true
+        },
+        {
+          "answer": "You (singular)",
+          "is_correct": false
+        },
+        {
+          "answer": "They",
+          "is_correct": false
+        },
+        {
+          "answer": "She",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आप कहाँ रहते हैं ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "वर्जीनिया में रहता हूँ ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "और आप ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "मैं भी वर्जीनिया में रहती हूँ ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "और आप लोग ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "हम लोग वाशिंगटन में रहते हैं ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

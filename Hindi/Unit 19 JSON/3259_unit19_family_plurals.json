@@ -1,0 +1,258 @@
+{
+  "title": "unit19_family_plurals",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the correct English translation of 'मेरे दो भाई हैं' according to the article?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "I have two brothers.",
+          "is_correct": true
+        },
+        {
+          "answer": "I have two sisters.",
+          "is_correct": false
+        },
+        {
+          "answer": "Two brothers of yours exist.",
+          "is_correct": false
+        },
+        {
+          "answer": "You have two brothers.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "According to the article, how do many masculine nouns behave in singular and plural?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "They have the same shape in both.",
+          "is_correct": true
+        },
+        {
+          "answer": "They change completely.",
+          "is_correct": false
+        },
+        {
+          "answer": "They do not have plurals.",
+          "is_correct": false
+        },
+        {
+          "answer": "They end with \"ई\" in plural.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "For marked adjectives with masculine nouns, which vowel is used in the singular?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "आ",
+          "is_correct": true
+        },
+        {
+          "answer": "ए",
+          "is_correct": false
+        },
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "ओ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "For marked adjectives with masculine nouns, which vowel is used in the plural?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ए",
+          "is_correct": true
+        },
+        {
+          "answer": "आ",
+          "is_correct": false
+        },
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "उ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "According to the article, what suffix is often added to feminine nouns to form the plural?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "एँ",
+          "is_correct": true
+        },
+        {
+          "answer": "ए",
+          "is_correct": false
+        },
+        {
+          "answer": "आ",
+          "is_correct": false
+        },
+        {
+          "answer": "ओ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the adjective ending for feminine nouns in both singular and plural?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ई",
+          "is_correct": true
+        },
+        {
+          "answer": "ए",
+          "is_correct": false
+        },
+        {
+          "answer": "उ",
+          "is_correct": false
+        },
+        {
+          "answer": "आ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "In talking about important or high-ranking people, which form must be used?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The plural",
+          "is_correct": true
+        },
+        {
+          "answer": "The singular",
+          "is_correct": false
+        },
+        {
+          "answer": "The dual",
+          "is_correct": false
+        },
+        {
+          "answer": "No specific form",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "According to the article, how is an older brother always referred to?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "बड़े भाई",
+          "is_correct": true
+        },
+        {
+          "answer": "छोटा भाई",
+          "is_correct": false
+        },
+        {
+          "answer": "बड़ी बहन",
+          "is_correct": false
+        },
+        {
+          "answer": "बड़ी भाई",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "In the feminine, when talking about plural subjects, what happens?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The verb goes into the plural",
+          "is_correct": true
+        },
+        {
+          "answer": "The noun changes form",
+          "is_correct": false
+        },
+        {
+          "answer": "The adjective becomes masculine",
+          "is_correct": false
+        },
+        {
+          "answer": "Nothing changes",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the article suggest should be abandoned when translating sentences word-for-word?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Word-for-word translation",
+          "is_correct": true
+        },
+        {
+          "answer": "Learning Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "Understanding plurals",
+          "is_correct": false
+        },
+        {
+          "answer": "Using adjectives",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "छियालिस परिवार The Family\nमेरे दो भाई हैं । I have two brothers.\nमेरी दो बहनें हैं । I have two sisters.\n\nObviously any attempt at word-for-word translation must be abandoned (unless you can be satisfied with something like 'Two brothers of mine exist.')\n\nPlurals Many masculine nouns have the same shape in the singular and the plural. Marked adjectives with पुल्लिङ्ग nouns have आ in the singular and ए in the plural.\n\nमेरा छोटा भाई my little brother\nमेरे छोटे भाई my little brothers\n\nMany feminine nouns add एँ for the plural. Adjective endings are ई for both singular and plural.\n\nमेरी छोटी बहन my little sister\nमेरी छोटी बहनें my little sisters\n\nIn talking about important or high-ranking people, the plural must be used. An older brother is always बड़े भाई, but a younger brother may be छोटा भाई. In the feminine, the noun doesn't change (and the adjective can't), but the verb goes into the plural.\n\nमेरी एक बड़ी बहन है । I have one older sister."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

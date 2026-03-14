@@ -1,0 +1,258 @@
+{
+  "title": "unit22_oblique_forms_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which nouns and adjectives remain unchanged in the oblique singular case?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "All masculine nouns",
+          "is_correct": false
+        },
+        {
+          "answer": "All feminine nouns and their adjectives",
+          "is_correct": true
+        },
+        {
+          "answer": "Only Type B masculine nouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Only Type A masculine nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Masculine nouns of Type A in the oblique singular form:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Change to a new form",
+          "is_correct": false
+        },
+        {
+          "answer": "Remain the same as the direct form",
+          "is_correct": true
+        },
+        {
+          "answer": "Use a feminine ending",
+          "is_correct": false
+        },
+        {
+          "answer": "Drop the noun ending",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the oblique singular form of 'लड़का'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "लड़कों",
+          "is_correct": false
+        },
+        {
+          "answer": "लड़के का",
+          "is_correct": true
+        },
+        {
+          "answer": "लड़के में",
+          "is_correct": false
+        },
+        {
+          "answer": "लड़कियाँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "For Type B masculine nouns, the oblique singular form is like:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the direct singular",
+          "is_correct": false
+        },
+        {
+          "answer": "the direct plural",
+          "is_correct": true
+        },
+        {
+          "answer": "the feminine plural",
+          "is_correct": false
+        },
+        {
+          "answer": "the present tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the oblique plural, nouns end with which suffix?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यों",
+          "is_correct": false
+        },
+        {
+          "answer": "ओं",
+          "is_correct": true
+        },
+        {
+          "answer": "एं",
+          "is_correct": false
+        },
+        {
+          "answer": "इयाँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "In the oblique plural, marked adjectives have endings:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The same as the direct plural",
+          "is_correct": false
+        },
+        {
+          "answer": "ई for feminine and े for masculine",
+          "is_correct": true
+        },
+        {
+          "answer": "No change from the direct",
+          "is_correct": false
+        },
+        {
+          "answer": "Only feminine forms change",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When a postposition is attached to a phrase, which words go into the oblique case?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only the noun",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the last word",
+          "is_correct": false
+        },
+        {
+          "answer": "All the words of the phrase",
+          "is_correct": true
+        },
+        {
+          "answer": "None of the words",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which phrase means 'Ask me' in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "उनसे पूछिये",
+          "is_correct": false
+        },
+        {
+          "answer": "मुझसे पूछिये",
+          "is_correct": true
+        },
+        {
+          "answer": "उनसे पूछो",
+          "is_correct": false
+        },
+        {
+          "answer": "उससे पूछिये",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which pronoun is not permitted in imperative sentences?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मेरा",
+          "is_correct": false
+        },
+        {
+          "answer": "आपका",
+          "is_correct": true
+        },
+        {
+          "answer": "अपना",
+          "is_correct": false
+        },
+        {
+          "answer": "उनका",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'आपके विचार में' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "in my opinion",
+          "is_correct": false
+        },
+        {
+          "answer": "in your opinion",
+          "is_correct": true
+        },
+        {
+          "answer": "in our opinion",
+          "is_correct": false
+        },
+        {
+          "answer": "in his opinion",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The oblique singular forms of nouns and adjectives\n\nNouns and adjectives also have two cases, but the direct and oblique forms are alike in many instances (which has allowed us to avoid the matter so far.) All feminine nouns, and the adjectives used with them, have the same form in the oblique as in the direct case.\n\nमेरी बेटी        मेरी बेटी से       (no change)\n\nMasculine nouns of Type A (see page ९३) do not change.\n\nयह शहर        इस शहर में        (no change)\n\nOnly Type B Masculine nouns have a special oblique form.\n\nलड़का      लड़के का      of the boy\nकमरा      कमरे में      in the room\nनक़्शा     नक़्शे पर     on the map\n\nFor this kind of noun, the oblique singular form is like the direct plural. The same is true of the adjectives.\n\nहमारा कमरा    हमारे कमरे में    in our room\nमेरा बड़ा बेटा   मेरे बड़े बेटे से   from my older son\n\nMarked (changeable) adjectives used with masculine nouns have this oblique case form with the े ending whether the noun itself is of Type A or Type B.\n\nयह छोटा शहर    इस छोटे शहर में    in this small city\nवह लम्बा दिन   उस लम्बे दिन में   during that long day\n\nThe oblique plural forms\n\nIn the oblique plural, all marked adjectives have the same form as in the oblique singular. This means ई endings for the feminine, े for the masculine. All nouns have an oblique plural ending with ओं:\n\nवे बड़े शहर       उन बड़े शहरों में\nआपके छोटे बच्चे     आपके छोटे बच्चों से\nआपके दो राजा       आपके दो राजाओं से\nमेरी नई मेज़       मेरी नई मेज़ों पर\nचौड़ी नदियां       चौड़ी नदियों के\nबूढ़ी माताएं       बूढ़ी माताओं से\n\nA postposition is attached to a phrase which may consist of one word or several. All the words of this phrase go into the oblique case.\n\nवे लोग उस कमरे में हैं ।   Those people are in that room.\nThe phrase वे लोग is not involved with the postposition, and remains in the direct case.\n\nClassroom expressions: (X) से पूछिये    Please ask (X)\n\nमुझसे पूछिये ।          Ask me\nउससे पूछिये ।          Ask him. Ask her. Ask them.\nउस से पूछिये ।         Ask him, Ask her. (a child or servant)\nउन लोगों से पूछिये ।     Ask them. Ask those people.\nदूसरे विद्यार्थियों से पूछिये । Ask the other students.\nअपने दोस्तों से पूछिये ।   Ask your friends.\n\nWith imperatives (इये forms) your is expressed by अपना.\n\nआपका is not permitted in imperative sentences.\n\nअपनी बीवी से न पूछिये ।    Don't ask your wife.\n\nWhen a postposition is added to a phrase, the entire phrase goes into the oblique case.\n\nहमारा दूसरा बच्चा           our second child\nहमारे दूसरे बच्चे का नाम     the name of...\n\nList your family on a chart:\nराम लाल        बेटा        दस साल\nउमा जी         सीतैली मां       ?\n\nExchange charts and quiz each other:\n\nआपके परिवार में कितने लोग हैं ?\nबहन जी का नाम क्या है ?  कहाँ रहती है ?\nक्या वे शादीशुदा है ?  उनके कितने बच्चे हैं ?\n\nSome of these questions may strike you as a little too personal, but this is an attitude you will have to get over. On the other hand, matters which are perfectly matter-of-fact to us may be sensitive to members of another culture. An orthodox Hindu woman for instance, will not use her husband's name. If a problem like this arises, don't make an issue of it; just drop the subject. You can get the information you need for the chart--the names of the various relatives--without using any English.\n\nClichés\nमेरे ख्याल में    in my opinion\nआपके विचार में    in your opinion"
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

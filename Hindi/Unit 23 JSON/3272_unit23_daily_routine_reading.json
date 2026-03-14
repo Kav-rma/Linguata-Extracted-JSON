@@ -1,0 +1,290 @@
+{
+  "title": "unit23_daily_routine_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "At what time does the speaker leave the house in the morning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At eight o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At eight-thirty",
+          "is_correct": true
+        },
+        {
+          "answer": "At nine o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At seven-thirty",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When does she arrive at her destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At eight-thirty",
+          "is_correct": false
+        },
+        {
+          "answer": "At nine o'clock",
+          "is_correct": true
+        },
+        {
+          "answer": "At ten o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At seven o'clock",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does she do at her destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She teaches math.",
+          "is_correct": false
+        },
+        {
+          "answer": "She studies Hindi.",
+          "is_correct": true
+        },
+        {
+          "answer": "She plays tennis.",
+          "is_correct": false
+        },
+        {
+          "answer": "She eats lunch.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Do her children go to school every morning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they go every morning.",
+          "is_correct": true
+        },
+        {
+          "answer": "No, they go only on weekends.",
+          "is_correct": false
+        },
+        {
+          "answer": "They go in the afternoon.",
+          "is_correct": false
+        },
+        {
+          "answer": "They never go to school.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When does the younger child come back home?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At twelve o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At one o'clock",
+          "is_correct": true
+        },
+        {
+          "answer": "At three o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At three-thirty",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When does the other child return home?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At one o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At two o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At three-thirty",
+          "is_correct": true
+        },
+        {
+          "answer": "At five o'clock",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does Vinod do in the afternoon?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He plays tennis.",
+          "is_correct": false
+        },
+        {
+          "answer": "He sleeps.",
+          "is_correct": true
+        },
+        {
+          "answer": "He studies Hindi.",
+          "is_correct": false
+        },
+        {
+          "answer": "He goes to the market.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the older boy do in the afternoon?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He sleeps.",
+          "is_correct": false
+        },
+        {
+          "answer": "He plays tennis.",
+          "is_correct": true
+        },
+        {
+          "answer": "He cooks food.",
+          "is_correct": false
+        },
+        {
+          "answer": "He goes back at one o'clock.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What time does she say she arrives after leaving?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At eight o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At nine o'clock",
+          "is_correct": true
+        },
+        {
+          "answer": "At ten o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "At seven-thirty",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which statement best describes the children's return times?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Both children return at the same time.",
+          "is_correct": false
+        },
+        {
+          "answer": "The younger child returns at one and the other at three-thirty.",
+          "is_correct": true
+        },
+        {
+          "answer": "Both children return at noon.",
+          "is_correct": false
+        },
+        {
+          "answer": "The children do not return home.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "सवेरे कितने बजे घर से चलती हैं ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "मैं साढ़े आठ बजे चलती हूं और नौ बजे पहुंचती हूं ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "वहां क्या करती हैं ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "हिंदी पढ़ती हूं । सिर्फ हिंदी ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "क्या आपके बच्चे स्कूल जाते हैं ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "जी हां, रोज सवेरे जाते हैं ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "छोटा बच्चा एक बजे वापस आता है और दूसरा साढ़े तीन बजे"
+    },
+    {
+      "sequence_id": 8,
+      "text": "दोपहर को क्या करते हैं ?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "विनोद सोता है, लेकिन बड़ा लड़का टेनिस खेलता है ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

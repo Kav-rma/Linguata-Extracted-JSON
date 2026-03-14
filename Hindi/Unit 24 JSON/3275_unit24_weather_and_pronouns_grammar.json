@@ -1,0 +1,258 @@
+{
+  "title": "unit24_weather_and_pronouns_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the grammar, 'शुरू' and 'ख़तम' are considered what in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "adjectives",
+          "is_correct": false
+        },
+        {
+          "answer": "nouns",
+          "is_correct": true
+        },
+        {
+          "answer": "verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "particles",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How is the English verb 'to begin' expressed in Hindi according to the text?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "शुरू होना",
+          "is_correct": true
+        },
+        {
+          "answer": "ख़तम होना",
+          "is_correct": false
+        },
+        {
+          "answer": "शुरू में",
+          "is_correct": false
+        },
+        {
+          "answer": "ख़तम तक",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which postposition expresses 'since' in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "से",
+          "is_correct": true
+        },
+        {
+          "answer": "में",
+          "is_correct": false
+        },
+        {
+          "answer": "को",
+          "is_correct": false
+        },
+        {
+          "answer": "पर",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence means 'It is forbidden to speak English'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "अंग्रेज़ी बोलना मना है ।",
+          "is_correct": true
+        },
+        {
+          "answer": "हिंदी बोलना आसान है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "हिंदी सीखना ज़रूरी है ।",
+          "is_correct": false
+        },
+        {
+          "answer": "इतना मुश्किल नहीं है ।",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the oblique case discussion, which is the oblique form of 'कोई' used with numbers meaning approximately?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "किसी",
+          "is_correct": true
+        },
+        {
+          "answer": "किस",
+          "is_correct": false
+        },
+        {
+          "answer": "किन",
+          "is_correct": false
+        },
+        {
+          "answer": "कोई",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which short form corresponds to 'किसको' in the oblique pronoun chart?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "किसे",
+          "is_correct": true
+        },
+        {
+          "answer": "यह",
+          "is_correct": false
+        },
+        {
+          "answer": "इसको",
+          "is_correct": false
+        },
+        {
+          "answer": "मुझको",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which phrase is used to tell someone about your family?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "अपने परिवार के बारे में बताइये",
+          "is_correct": true
+        },
+        {
+          "answer": "अपने परिवार को पूछिये",
+          "is_correct": false
+        },
+        {
+          "answer": "परिवार के लिए बोलिये",
+          "is_correct": false
+        },
+        {
+          "answer": "अपने परिवार से बताइये",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the expression 'के बारे में' signify in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "about",
+          "is_correct": true
+        },
+        {
+          "answer": "before",
+          "is_correct": false
+        },
+        {
+          "answer": "after",
+          "is_correct": false
+        },
+        {
+          "answer": "without",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How is 'It is known to X' expressed in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(X) को मालूम है",
+          "is_correct": true
+        },
+        {
+          "answer": "(X) को याद है",
+          "is_correct": false
+        },
+        {
+          "answer": "(X) को पसंद है",
+          "is_correct": false
+        },
+        {
+          "answer": "(X) को चाहिए",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the function of 'जैसे' as described in the grammar?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It means 'such as' or 'for example'",
+          "is_correct": true
+        },
+        {
+          "answer": "It means 'although'",
+          "is_correct": false
+        },
+        {
+          "answer": "It is a postposition meaning 'since'",
+          "is_correct": false
+        },
+        {
+          "answer": "It is a past tense marker",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "कब से कब तक होता है ?    From when to when is it?\n\nगर्मी        heat      गर्मी का मौसम     the hot weather\nजाड़ा        cold      जाड़े का मौसम      winter\nबारिश       rain      बरसात, बारिश का मौसम     rainy weather\n\nशुरू होता है ।   it begins\nख़तम होता है ।   it ends\n\nशुरू and ख़तम are nouns.\n\nशुरू में     it begins\nख़तम तक    it ends\n\nThere is no verb begin; this is expressed by the noun–verb combination शुरू होना. In the same way ख़तम होना is translated by the English verb end. Find out about the weather where you are going. Give the months their correct Hindi pronunciations.\n\nChoose a class motto. The following are suggested.\n\nअंग्रेज़ी बोलना मना है ।     It is forbidden to speak English.\nहिंदी बोलना आसान है ।      It's easy to speak Hindi.\nहिंदी सीखना ज़रूरी है ।     It is necessary to learn Hindi.\nइतना मुश्किल नहीं है ।     It's not all that difficult.\n\nSince is expressed by the postposition से.\n\nइतवार से       since Sunday\nकब से ?        since when?\n\nWith since, English often requires the complicated have been verb forms. Hindi is simpler.\n\nआप कब से यहाँ हैं ?    How long have you been here?\nदो महीने से यहाँ हूँ ।   I've been here two months.\n\n(X) को मालूम है ।    It is known to (X).\n(X) को याद है ।      It is remembered by (X).\n\nIn normal English: (X) knows; (X) remembers.\n\nइस (X) को क्या कहते हैं ?   इसको (Y) कहते हैं ।\nWhat do they call this (X)? They call it (Y).\n\nकौन who and क्या what have the same forms in the oblique: singular किस, plural किन. कोई has the oblique किसी. (There is another कोई (same spelling and pronunciation) which is used with numbers in the meaning approximately.) Some of the pronouns have short forms with को:\n\nमुझको   मुझे       किसको   किसे\nहमको    हमें       किनको   किन्हें\nइसको    इसे        उसको   उसे\nइनको    इन्हें      उनको   उन्हें\n\nAnother oblique case phrase pattern is about (X) – (X) के बारे में:\n\nउस के बारे में कुछ बताइये ।    Tell us a little about it.\nअपने परिवार के बारे में बताइये ।    Tell us about your family.\nअपने काम के बारे में सुनाइये ।    Tell us about your work.\nअपने बारे में बोलिये ।     Talk about yourself.\nउसके बारे में पूछिये ।     Ask about that. (him)\nकिसके बारे में ?          About what? About whom?\n\nजैसे can be used for such as or for example:\n\nमुझे कुछ संगीत बहुत पसंद है जैसे सितार, तबला, सारंगी आदि ।\nउन लोगों को कुछ भारतीय खाना अच्छा लगता है जैसे पूरी, पिलाव, चपाती आदि ।\nपीने की बहुत चीजें मिलती हैं जैसे दूध, चाय, कॉफ़ी आदि ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit20_comparatives_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In example (a), how is the sister described relative to the speaker?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "She is taller than the speaker.",
+          "is_correct": true
+        },
+        {
+          "answer": "She is shorter than the speaker.",
+          "is_correct": false
+        },
+        {
+          "answer": "She is older than the speaker.",
+          "is_correct": false
+        },
+        {
+          "answer": "She is the same height as the speaker.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Example (b) uses plural forms to show respect for one sister. Which phrase reflects this respect?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "My other sister is older than I.",
+          "is_correct": true
+        },
+        {
+          "answer": "My little sister is taller than me.",
+          "is_correct": false
+        },
+        {
+          "answer": "Both my sisters are younger than me.",
+          "is_correct": false
+        },
+        {
+          "answer": "My third brother is smaller than I am.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "According to the article, the forms in example (c) are which number?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Plural",
+          "is_correct": true
+        },
+        {
+          "answer": "Singular",
+          "is_correct": false
+        },
+        {
+          "answer": "Dual",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tense",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "In example (d), how is the third brother described relative to the speaker?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He is smaller/younger than the speaker.",
+          "is_correct": true
+        },
+        {
+          "answer": "He is older than the speaker.",
+          "is_correct": false
+        },
+        {
+          "answer": "He is taller than the speaker.",
+          "is_correct": false
+        },
+        {
+          "answer": "He is not mentioned.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the section 'Talking about men and boys', how many distinctions are there in the sentence structure?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "A two-way distinction (singular or plural)",
+          "is_correct": true
+        },
+        {
+          "answer": "A three-way distinction",
+          "is_correct": false
+        },
+        {
+          "answer": "A four-way distinction",
+          "is_correct": false
+        },
+        {
+          "answer": "No distinction",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which Hindi phrase means 'one brother of mine' according to the article?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मेरे एक भाई",
+          "is_correct": true
+        },
+        {
+          "answer": "मेरे चारों भाई",
+          "is_correct": false
+        },
+        {
+          "answer": "मेरा तीसरा भाई",
+          "is_correct": false
+        },
+        {
+          "answer": "मेरे दूसरे भाई",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "What special form does the pronoun 'मैं' have?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "मुझ",
+          "is_correct": true
+        },
+        {
+          "answer": "मुझे",
+          "is_correct": false
+        },
+        {
+          "answer": "तेरा",
+          "is_correct": false
+        },
+        {
+          "answer": "इन",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the traditional name for the case of 'मैं' according to the article?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Direct case",
+          "is_correct": true
+        },
+        {
+          "answer": "Oblique case",
+          "is_correct": false
+        },
+        {
+          "answer": "Dative case",
+          "is_correct": false
+        },
+        {
+          "answer": "Genitive case",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the case name for the form 'मुझ'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Oblique case",
+          "is_correct": true
+        },
+        {
+          "answer": "Direct case",
+          "is_correct": false
+        },
+        {
+          "answer": "Accusative case",
+          "is_correct": false
+        },
+        {
+          "answer": "Subject case",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the article suggest about the names 'direct case' and 'oblique case'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "They don't seem to mean anything.",
+          "is_correct": true
+        },
+        {
+          "answer": "They are very meaningful.",
+          "is_correct": false
+        },
+        {
+          "answer": "They are mandatory terms.",
+          "is_correct": false
+        },
+        {
+          "answer": "They refer to the past tense.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Talking about women and girls: Example (a) refers to one sister, presumably younger; the forms are all singular. (b) refers to one girl or woman, and shows respect; everything is plural except the noun sister. (c) refers to several sisters; all the forms are plural.\n\nTalking about men and boys: Here there is only a two-way distinction. The whole sentence is either singular or plural. If plural, it may refer to one person or several. If there is danger of confusion, more words can be added:\nमेरे एक भाई – one brother of mine\nमेरे चारों भाई – all four of my brothers\n\nThe pronoun मैं has a special form मुझ. The two forms मैं and मुझ are called the two cases of the pronoun. मैं is traditionally known as the direct case, and मुझ as the oblique case. (These names don't seem to mean anything; 'Form 1' and 'Form 2' would do as well, but would be harder to remember.) Some of the pronouns have different forms for the two cases, others use the same form."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "title": "unit18_language_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the first question asked in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Do you know Hindi?",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you cook food?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you play tennis?",
+          "is_correct": false
+        },
+        {
+          "answer": "Where do you live?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does the person respond to 'क्या आप हिंदी जानते हैं ?'",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Yes, I know",
+          "is_correct": true
+        },
+        {
+          "answer": "No, I don't know",
+          "is_correct": false
+        },
+        {
+          "answer": "Maybe",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm learning",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is asked after confirming knowledge of Hindi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "And Urdu?",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you like cooking?",
+          "is_correct": false
+        },
+        {
+          "answer": "Are you tired?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you speak English?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "According to the passage, how well does the person understand Urdu?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Not that much",
+          "is_correct": true
+        },
+        {
+          "answer": "Perfectly",
+          "is_correct": false
+        },
+        {
+          "answer": "Not at all",
+          "is_correct": false
+        },
+        {
+          "answer": "More than Hindi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the second main topic of the conversation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Cooking",
+          "is_correct": true
+        },
+        {
+          "answer": "Sports",
+          "is_correct": false
+        },
+        {
+          "answer": "Travel",
+          "is_correct": false
+        },
+        {
+          "answer": "Education",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "When asked 'कौन सा खाना बनाती हैं ?', what clarifying question does the speaker ask next?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "What do you mean?",
+          "is_correct": true
+        },
+        {
+          "answer": "How long do you cook?",
+          "is_correct": false
+        },
+        {
+          "answer": "Who taught you?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you eat meat?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the questioner mean by asking about Indian or English food?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Whether she cooks Indian or Western food",
+          "is_correct": true
+        },
+        {
+          "answer": "Whether she eats onion",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether she speaks languages",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether she plays games",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "How does the cook describe her cooking preference?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "I only cook Indian food",
+          "is_correct": true
+        },
+        {
+          "answer": "I cook only English food",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't cook at all",
+          "is_correct": false
+        },
+        {
+          "answer": "I cook everything",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of these topics is not part of the conversation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Tennis",
+          "is_correct": true
+        },
+        {
+          "answer": "Urdu",
+          "is_correct": false
+        },
+        {
+          "answer": "Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "Cooking",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "The response 'जी हाँ, बनाती हूँ' answers which question?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Do you cook food?",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you know Hindi?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you understand Urdu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you wear a sari?",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "क्या आप हिंदी जानते हैं ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "जी हाँ, जानتا हूँ ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "और उर्दू ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "उर्दू उतनी नहीं समझता !"
+    },
+    {
+      "sequence_id": 5,
+      "text": "क्या आप खाना बनाती हैं ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "जी हाँ, बनाती हूँ ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "कौन सा खाना बनाती हैं ?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "आपका क्या मतलब है ?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "मेरा मतलब है कि आप हिन्दुस्तानी खाना बनाती हैं या अंग्रेज़ी ?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "मैं सिर्फ़ हिन्दुस्तानी खाना बनाती हूँ ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit21_plurals_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the grammar explanation, what ending do certain masculine nouns take in the plural?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ए",
+          "is_correct": true
+        },
+        {
+          "answer": "आ",
+          "is_correct": false
+        },
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "याँ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the correct plural form of 'हमारा बच्चा'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "हमारे बच्चे",
+          "is_correct": true
+        },
+        {
+          "answer": "हमारा बच्चें",
+          "is_correct": false
+        },
+        {
+          "answer": "हमारी बच्ची",
+          "is_correct": false
+        },
+        {
+          "answer": "हमारा बच्चा",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "For feminine nouns ending with ई in the singular, what ending is used in the plural?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "याँ (or इयाँ)",
+          "is_correct": true
+        },
+        {
+          "answer": "ए",
+          "is_correct": false
+        },
+        {
+          "answer": "आ",
+          "is_correct": false
+        },
+        {
+          "answer": "ओ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "According to the grammar, which controls the noun endings for possessive constructions?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The gender of the noun",
+          "is_correct": true
+        },
+        {
+          "answer": "The sex of the owner",
+          "is_correct": false
+        },
+        {
+          "answer": "The person speaking",
+          "is_correct": false
+        },
+        {
+          "answer": "The number of nouns",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which pronouns are used to refer to a respected person?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "ये and इन; वे and उन",
+          "is_correct": true
+        },
+        {
+          "answer": "यह and वह",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं and तुम",
+          "is_correct": false
+        },
+        {
+          "answer": "यह and ये",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which sentence expresses equality in age?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "लड़के एक उम्र के हैं",
+          "is_correct": true
+        },
+        {
+          "answer": "अच्छा गाँव",
+          "is_correct": false
+        },
+        {
+          "answer": "छोटी बच्ची",
+          "is_correct": false
+        },
+        {
+          "answer": "बड़ी मेज़",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "In the masculine examples, what is the plural of 'छोटा प्रदेश'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "छोटे प्रदेश",
+          "is_correct": true
+        },
+        {
+          "answer": "छोटे प्रदेशी",
+          "is_correct": false
+        },
+        {
+          "answer": "छोटी प्रदेश",
+          "is_correct": false
+        },
+        {
+          "answer": "छोटा प्रदेश",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which is the plural form of 'बड़ी लड़की' as per the feminine examples?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "बड़ी लड़कियां",
+          "is_correct": true
+        },
+        {
+          "answer": "बड़ी लड़कियाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "बड़ी लड़का",
+          "is_correct": false
+        },
+        {
+          "answer": "बड़े लड़के",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the plural of 'कच्ची सड़क'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "कच्ची सड़कें",
+          "is_correct": true
+        },
+        {
+          "answer": "कच्ची सड़कियाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "कच्चे सड़क",
+          "is_correct": false
+        },
+        {
+          "answer": "कच्चे सड़कें",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the plural form of 'सुन्दर बेटा'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "सुन्दर बेटे",
+          "is_correct": true
+        },
+        {
+          "answer": "सुन्दर बेटियाँ",
+          "is_correct": false
+        },
+        {
+          "answer": "सुन्दर बेटा",
+          "is_correct": false
+        },
+        {
+          "answer": "सुन्दर बेटों",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Plurals:\nThe other kind of masculine noun ends with आ in the singular and ए in the plural (like the adjectives).\n\nहमारा बच्चा\nहमारे बच्चे\n\nMany feminine nouns end with ई in the singular and इयाँ in the plural.\n\nउन की बेटी\nउन की बेटियां\n\nThe his/her distinction appears in the translation, not in the Hindi. The gender of the noun controls the endings; the sex of the owner has nothing to do with it.\n\nA respected person is referred to by the plural pronouns ये and इन, वे and उन. You must be consistent in this.\n\nमेरे पिता जी -- उनका नाम\nमेरी सास -- इन का घर\n\nEquality:\nलड़के एक उम्र के हैं — The boys are of the same age.\nलड़कियां एक उम्र की हैं — The girls are of the same age.\n\nMasculine (पुल्लिंग) singular and plural forms:\nअच्छा नाम / अच्छे नाम\nबड़ा शहर / बड़े शहर\nपुराना देश / पुराने देश\nछोटा प्रदेश / छोटे प्रदेश\nलम्बा दिन / लम्बे दिन\nअच्छा गाँव / अच्छे गाँव\nबड़ा आदमी / बड़े आदमी\nछोटा भाई / छोटे भाई\nछोटा बच्चा / छोटे बच्चे\nबुरा लड़का / बुरे लड़के\nसुन्दर बेटा / सुन्दर बेटे\nसाफ़ कमरा / साफ़ कमरे\nबड़ा दरवाज़ा / बड़े दरवाज़े\nसीधा रास्ता / सीधे रास्ते\n\nFeminine (स्त्रीलिंग) singular and plural forms:\nछोटी बहन / छोटी बहनें\nलम्बी उमर / लम्बी उमरें\nकच्ची सड़क / कच्ची सड़कें\nपक्की इमारत / पक्की इमारतें\nअच्छी तारीख / अच्छी तारीखें\nबुरी बात / बुरी बातें\nबड़ी मेज़ / बड़ी मेज़ें\nअच्छी शिक्षा / अच्छी शिक्षाएँ\nबड़ी कक्षा / बड़ी कक्षाएँ\nछोटी बच्ची / छोटी बच्चियां\nबड़ी लड़की / बड़ी लड़कियां\nमेरी बेटी / मेरी बेटियां\nलम्बी नदी / लम्बी नदियां\nउसकी कुर्सी / उसकी कुर्सियाँ\nगन्दी खिड़की / गन्दी खिड़कियाँ\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

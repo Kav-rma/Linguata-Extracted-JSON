@@ -1,0 +1,258 @@
+{
+  "title": "unit12_marked_adjectives",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which of the following nouns are classified as masculine in the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "शहर",
+          "is_correct": false
+        },
+        {
+          "answer": "गाँव",
+          "is_correct": false
+        },
+        {
+          "answer": "मकान",
+          "is_correct": false
+        },
+        {
+          "answer": "All of the above",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "For masculine nouns, adjectives typically end with which vowel sound?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आ",
+          "is_correct": true
+        },
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "उ",
+          "is_correct": false
+        },
+        {
+          "answer": "ओ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Do masculine adjectives keep their 'आ' endings even when the noun is not repeated?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always",
+          "is_correct": true
+        },
+        {
+          "answer": "No, they change to 'ई'",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        },
+        {
+          "answer": "Never",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of these forms shows a feminine adjective ending with 'ई'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "पुराना",
+          "is_correct": false
+        },
+        {
+          "answer": "पुरानी",
+          "is_correct": true
+        },
+        {
+          "answer": "नया",
+          "is_correct": false
+        },
+        {
+          "answer": "छोटा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which adjectives are examples of unmarked adjectives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "सुंदर",
+          "is_correct": false
+        },
+        {
+          "answer": "हिन्दुस्तानी",
+          "is_correct": false
+        },
+        {
+          "answer": "Both",
+          "is_correct": true
+        },
+        {
+          "answer": "Neither",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What defines marked adjectives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They always end in 'ई'",
+          "is_correct": false
+        },
+        {
+          "answer": "They do not change",
+          "is_correct": false
+        },
+        {
+          "answer": "They can change according to gender",
+          "is_correct": true
+        },
+        {
+          "answer": "They are proper nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which sentence demonstrates that adjectives keep the 'आ' ending even when the noun isn't used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "पुराना शहर है",
+          "is_correct": false
+        },
+        {
+          "answer": "यह शहर पुराना है",
+          "is_correct": false
+        },
+        {
+          "answer": "काफी पुराना है",
+          "is_correct": true
+        },
+        {
+          "answer": "सुंदर शहर",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In the phrase 'छोटी गाड़ी', what does 'छोटी' illustrate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A masculine adjective",
+          "is_correct": false
+        },
+        {
+          "answer": "A feminine adjective",
+          "is_correct": true
+        },
+        {
+          "answer": "A proper noun",
+          "is_correct": false
+        },
+        {
+          "answer": "An unmarked adjective",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "According to the article, country, province, city, village and house names require adjectives with which endings?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आ",
+          "is_correct": true
+        },
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "ऊ",
+          "is_correct": false
+        },
+        {
+          "answer": "ऐ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How many kinds of adjectives are mentioned in the article?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One",
+          "is_correct": false
+        },
+        {
+          "answer": "Two",
+          "is_correct": true
+        },
+        {
+          "answer": "Three",
+          "is_correct": false
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "देश, प्रदेश, शहर, गाँव, मकान are all masculine nouns. They require आ endings on adjectives used with them.\nThis is true whether the adjectives are part of the same phrase or not.\n\nपुराना शहर है। — It's an old city.\nयह शहर पुराना है। — This city is old.\n\nAdjectives referring to masculine nouns have आ endings even if the noun isn't used in the same sentence.\nकाफी पुराना है। — It's pretty old.\nबिलकुल नया है। — It's completely new.\nइतना छोटा नहीं है। — It's not so small.\n\nThese adjectives all have feminine forms with ई endings.\nपुरानी राजधानी — old capital\nछोटी गाड़ी — small car\n\nThere is another kind of adjective which does not change.\nसुंदर शहर — beautiful city\nसुंदर साड़ी — beautiful sari\nहिन्दुस्तानी घर — Indian house\nहिन्दुस्तानी औरत — Indian woman\n\nThe changeable adjectives are called 'marked adjectives' and the unchanging kind 'unmarked.' There are only two kinds."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

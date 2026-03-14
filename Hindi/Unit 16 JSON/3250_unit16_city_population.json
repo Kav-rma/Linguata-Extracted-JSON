@@ -1,0 +1,282 @@
+{
+  "title": "unit16_city_population",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What question is asked about Bombay?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "How many people live there?",
+          "is_correct": true
+        },
+        {
+          "answer": "What is its GDP?",
+          "is_correct": false
+        },
+        {
+          "answer": "Who is the mayor?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is its area?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "According to the passage, what is the approximate population of Bombay?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "45 lakh",
+          "is_correct": true
+        },
+        {
+          "answer": "30 lakh",
+          "is_correct": false
+        },
+        {
+          "answer": "20 lakh",
+          "is_correct": false
+        },
+        {
+          "answer": "70 lakh",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the reading, how does the speaker confirm the population figure?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "He says 'Yes! At least 45 lakh people live there'",
+          "is_correct": true
+        },
+        {
+          "answer": "He says 'No, it's less than 10 lakh'",
+          "is_correct": false
+        },
+        {
+          "answer": "He provides no confirmation",
+          "is_correct": false
+        },
+        {
+          "answer": "He talks about area",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is asked about Pakistan in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Which is its largest city?",
+          "is_correct": true
+        },
+        {
+          "answer": "Who is the prime minister?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is the national language?",
+          "is_correct": false
+        },
+        {
+          "answer": "How many rivers are there?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "According to the passage, which city is the largest in Pakistan?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Karachi",
+          "is_correct": true
+        },
+        {
+          "answer": "Lahore",
+          "is_correct": false
+        },
+        {
+          "answer": "Islamabad",
+          "is_correct": false
+        },
+        {
+          "answer": "Peshawar",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "How is Karachi's population described?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "More than two crore people",
+          "is_correct": true
+        },
+        {
+          "answer": "Less than one crore",
+          "is_correct": false
+        },
+        {
+          "answer": "Exactly five lakh",
+          "is_correct": false
+        },
+        {
+          "answer": "Unknown",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "The question 'क्या यह सच है?' refers to which statement?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "The population of Bombay is approximately 45 lakh",
+          "is_correct": true
+        },
+        {
+          "answer": "The largest city in Pakistan is Karachi",
+          "is_correct": false
+        },
+        {
+          "answer": "More than two crore people live there",
+          "is_correct": false
+        },
+        {
+          "answer": "The city is the capital of India",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following is a true statement based on the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "At least 45 lakh people live in Bombay",
+          "is_correct": true
+        },
+        {
+          "answer": "Bombay's population is less than 20 lakh",
+          "is_correct": false
+        },
+        {
+          "answer": "Karachi is not the largest city in Pakistan",
+          "is_correct": false
+        },
+        {
+          "answer": "Pakistan's largest city is Lahore",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which number is mentioned in relation to Karachi's population?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Two crore",
+          "is_correct": true
+        },
+        {
+          "answer": "Forty-five lakh",
+          "is_correct": false
+        },
+        {
+          "answer": "Ten lakh",
+          "is_correct": false
+        },
+        {
+          "answer": "Seven crore",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the reading, which of these topics is NOT discussed?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Population numbers",
+          "is_correct": false
+        },
+        {
+          "answer": "City names",
+          "is_correct": false
+        },
+        {
+          "answer": "Types of food",
+          "is_correct": true
+        },
+        {
+          "answer": "Confirmation of facts",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "बम्बई में कितने लोग रहते हैं ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "शहर की आबादी लगभग पैंतालीस लाख है ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "क्या यह सच है ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "जी हाँ ! कम से कम पैंतालीस लाख लोग वहाँ रहते हैं ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "पाकिस्तान का सब से बड़ा शहर कौनसा है ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "कराची है ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "वहाँ दो करोड़ से ज़्यादा लोग रहते हैं ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

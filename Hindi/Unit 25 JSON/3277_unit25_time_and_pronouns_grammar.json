@@ -1,0 +1,258 @@
+{
+  "title": "unit25_time_and_pronouns_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In the phrase 'कितना समय लगता है ?', which word is the grammatical subject?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "समय",
+          "is_correct": true
+        },
+        {
+          "answer": "लगता",
+          "is_correct": false
+        },
+        {
+          "answer": "कितना",
+          "is_correct": false
+        },
+        {
+          "answer": "घंटा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'कितने घंटे लगते हैं ?' ask?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How many hours does it take?",
+          "is_correct": true
+        },
+        {
+          "answer": "How much does it cost?",
+          "is_correct": false
+        },
+        {
+          "answer": "When does it start?",
+          "is_correct": false
+        },
+        {
+          "answer": "Who is coming?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How is 'It takes me a day' expressed in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मुझे एक दिन लगता है",
+          "is_correct": true
+        },
+        {
+          "answer": "हमें दो हफ्ते लगते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "उसको बहुत वक्त लगता है",
+          "is_correct": false
+        },
+        {
+          "answer": "मुझे बीस मिनट लगते हैं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which postposition is used to mean 'by means of'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "से",
+          "is_correct": true
+        },
+        {
+          "answer": "को",
+          "is_correct": false
+        },
+        {
+          "answer": "में",
+          "is_correct": false
+        },
+        {
+          "answer": "पर",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the oblique form of 'तू' according to the pronoun chart?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "तुझ",
+          "is_correct": true
+        },
+        {
+          "answer": "तेरा",
+          "is_correct": false
+        },
+        {
+          "answer": "तुम",
+          "is_correct": false
+        },
+        {
+          "answer": "तुम्हारा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which imperative form is deferential?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आइयेगा",
+          "is_correct": true
+        },
+        {
+          "answer": "आइये",
+          "is_correct": false
+        },
+        {
+          "answer": "आओ",
+          "is_correct": false
+        },
+        {
+          "answer": "आ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which verb has a different root in the polite imperative (with इये)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "देना",
+          "is_correct": true
+        },
+        {
+          "answer": "खाना",
+          "is_correct": false
+        },
+        {
+          "answer": "होना",
+          "is_correct": false
+        },
+        {
+          "answer": "बोलना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When 'नहीं' is used in the present tense, what happens to the auxiliary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is usually omitted",
+          "is_correct": true
+        },
+        {
+          "answer": "It is doubled",
+          "is_correct": false
+        },
+        {
+          "answer": "It is replaced by 'मत'",
+          "is_correct": false
+        },
+        {
+          "answer": "It remains unchanged",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How is the plural form of feminine verbs marked, according to the grammar?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By nasalization in the plural forms",
+          "is_correct": true
+        },
+        {
+          "answer": "By adding 'एं'",
+          "is_correct": false
+        },
+        {
+          "answer": "By doubling the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "By adding 'ते'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the quantity term 'साढ़े' indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "1/2 more than",
+          "is_correct": true
+        },
+        {
+          "answer": "1/4 more than",
+          "is_correct": false
+        },
+        {
+          "answer": "1/4 less than",
+          "is_correct": false
+        },
+        {
+          "answer": "Double",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "कितना समय लगता है ?     How much time does it take?\nसमय is the grammatical subject; since it is a masculine singular noun, the verb has the आ ending.\n\nकितने घंटे लगते हैं ?    How many hours does it take?\nकितनी देर लगती है ?    How long does it take?\nघंटा is also masculine; देर (which means something like delay) is feminine. Obviously, no word-for-word translation is possible in sentences like these. Just learn them and use them as they stand.\n\nखाने में ढाई घंटे लगते हैं ।    2 1/2 hours are used up in eating.\nभारत जाने में कितने दिन लगते हैं ?    How many days does it take to go to India?\nकितना किराया लगता है ?    What's the fare?\nThe infinitive of the verb (जाना, खाना etc.) can be used as a noun (masculine singular). It has an oblique form (singular only) as in the examples above.\n\nमुझे एक दिन लगता है ।    It takes me a day.\nहमें दो हफ्ते लगते हैं ।    It takes us two weeks.\nउसको बहुत वक्त लगता है ।    It takes him a long time.\nThe person involved is mentioned with a को expression.\n\nThe postposition से is used for by means of.\nरेलगाड़ी से    by train\nबैलगाड़ी से    by oxcart\n\nPronouns: second person\n\nThere are two more pronouns, which we will mention here for the sake of completeness. Both are translated you.\n\nDirect   Oblique   Possessive adjective\nतुम        तुम       तुम्हारा\nतू        तुझ       तेरा\n\nतुम is used in speaking to inferiors or long-time friends; don't try it yet. तू is so intimate you will never use it, but you will hear it.\n\nतू is singular: तू कहाँ रहता है ?   तू कहाँ रहती है ?\nतुम is grammatically plural, and has the special auxiliary हो\nतुम कहाँ रहते हो ?   तुम कहाँ रहती हो ?\n\nVerb Forms\n\nThere are five imperatives; they express degrees of courtesy and deference.\n\nआ (तू)    intimate\nआओ (तुम)    familiar\nआना (तुम–आप)    ordinary\nआइये (आप)    polite\nआइयेगा (आप)    deferential\n\nThe Hindi verb consists of a root to which various endings are added: ना for the infinitive, ओ, ना, ए, इये, इयेगा for the imperatives. There are five verbs which use a different root with इये:\nदेना दीजिये\nलेना लीजिये\nपीना पीजिये\nसीना सीजिये\nकरना कीजिये\n\nThe present tense requires an auxiliary (हूँ है हैं) with a participle consisting of a verb root (such as जा) plus an ending (ता ते ती). See p. 43. If नहीं is used, the auxiliary is usually omitted.\nगाड़ी नहीं जाती ।   The train doesn't go.\nThere is one more possibility.\nगाड़ियां नहीं जातीं ।   The trains don't go.\n\nIn the feminine forms of verbs, the distinction between singular and plural is marked only by nasalization in the plural forms. This nasalization occurs only once, in the last word of the verb phrase. Therefore तीं occurs only when the auxiliary is omitted.\n\nQuantities: सवा 1/4 more than; साढ़े 1/2 more than; पौने 1/4 less than\n\nसवा आठ लाख रुपये    8,25,000 rupees\nपौने चार हजार मील    3,750 miles\nसाढ़े पन्द्रह किलो    15 1/2 kilograms\nढाई महीने    2 1/2 months\nडेढ़ सेर    1 1/2 ser"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
