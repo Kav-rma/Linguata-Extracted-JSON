@@ -1,0 +1,258 @@
+{
+  "title": "unit43_direct_object_and_auxiliary_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What happens to the verb when the direct object is marked by ‘को’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The verb agrees with the object’s gender and number",
+          "is_correct": false
+        },
+        {
+          "answer": "The verb remains in the neutral masculine singular",
+          "is_correct": true
+        },
+        {
+          "answer": "The verb changes to past continuous",
+          "is_correct": false
+        },
+        {
+          "answer": "The verb disappears",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Why does the verb take a feminine plural ending in the sentence ‘मैंने साड़ियाँ देखीं’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because the subject is female",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the direct object is feminine plural and unmarked by ‘को’",
+          "is_correct": true
+        },
+        {
+          "answer": "Because it is a polite form",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it expresses a future action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which of the following verbs has a contracted past form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "पढ़ना",
+          "is_correct": false
+        },
+        {
+          "answer": "करना",
+          "is_correct": true
+        },
+        {
+          "answer": "बोलना",
+          "is_correct": false
+        },
+        {
+          "answer": "सुनना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the masculine singular past form of ‘लेना’ in the contracted system?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "लिया",
+          "is_correct": true
+        },
+        {
+          "answer": "लिये",
+          "is_correct": false
+        },
+        {
+          "answer": "ली",
+          "is_correct": false
+        },
+        {
+          "answer": "लीं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In noun-plus-करना constructions, what does the verb ‘करना’ agree with?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It agrees with the subject",
+          "is_correct": false
+        },
+        {
+          "answer": "It agrees with the noun",
+          "is_correct": true
+        },
+        {
+          "answer": "It always remains masculine singular",
+          "is_correct": false
+        },
+        {
+          "answer": "It agrees with the tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When can the auxiliaries ‘है’ and ‘था’ be used with the same verb forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only with intransitive verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "With these past participial forms to indicate present or past perfect senses",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with future forms",
+          "is_correct": false
+        },
+        {
+          "answer": "They cannot be used together",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "If a direct object is marked by ‘को’, what case is it in?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Direct",
+          "is_correct": false
+        },
+        {
+          "answer": "Oblique",
+          "is_correct": true
+        },
+        {
+          "answer": "Vocative",
+          "is_correct": false
+        },
+        {
+          "answer": "Agentive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the feminine plural past form of ‘पीना’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "पी",
+          "is_correct": false
+        },
+        {
+          "answer": "पिये",
+          "is_correct": false
+        },
+        {
+          "answer": "पीं",
+          "is_correct": true
+        },
+        {
+          "answer": "पीये",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In the sentence ‘हमने बहुत सवाल पूछे’, why does the verb end in ‘-ए’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because ‘हम’ is plural",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the object ‘सवाल’ is masculine plural and unmarked",
+          "is_correct": true
+        },
+        {
+          "answer": "Because the sentence is in future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the object is marked by ‘को’",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which is the correct way to say ‘I helped him’ using a noun-plus-करना construction?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मैंने वह मदद की",
+          "is_correct": false
+        },
+        {
+          "answer": "मैंने उसकी मदद की",
+          "is_correct": true
+        },
+        {
+          "answer": "उसने मेरी मदद किया",
+          "is_correct": false
+        },
+        {
+          "answer": "मैंने उसे मदद किया",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Hindi verbs can combine with the auxiliaries 'है' and 'था' using the same past participial forms. When a direct object is marked by 'को', it is in the oblique case and does not influence the verb; the verb remains in a neutral masculine singular form. For example: 'मैंने उनको देखा' (I saw them) or 'उन्होंने साड़ियों को बेचा' (they sold the saris). Because the object is marked by 'को', the verb ends in the neutral masculine form. If the direct object appears without 'को' in the direct case, it controls the verb’s gender and number. Thus 'मैंने साड़ियाँ देखीं' shows a feminine plural agreement on 'देखीं', and sentences like 'किसी ने चिट्ठी भेजी' or 'हमने बहुत सवाल पूछे' show the verb agreeing with an unmarked feminine or masculine plural object. A small group of verbs—करना (to do), देना (to give), लेना (to take), and पीना (to drink)—have contracted past forms: masculine singular (किया, दिया, लिया, पिया), masculine plural (किये, दिये, लिये, पिये), feminine singular (की, दी, ली, पी), and feminine plural (कीं, दीं, लीं, पीं). The masculine plural forms may also be written with ए endings such as किये, दिये, etc. In noun-plus-करना constructions, the verb करना agrees with the noun, as in 'मैंने आपका इंतज़ार किया' (I waited for you), 'मैंने उनकी मदद की' (I helped him/her), and 'मैंने आपसे मिलने की कोशिश की' (I tried to see you)."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

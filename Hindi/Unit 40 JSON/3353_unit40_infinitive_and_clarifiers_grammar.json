@@ -1,0 +1,258 @@
+{
+  "title": "unit40_infinitive_and_clarifiers_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the infinitive plus ‘था’ construction describe?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An event that will take place",
+          "is_correct": false
+        },
+        {
+          "answer": "An event that should have happened",
+          "is_correct": true
+        },
+        {
+          "answer": "An accidental event",
+          "is_correct": false
+        },
+        {
+          "answer": "A hypothetical event",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of these sentences illustrates the 'infinitive plus था' construction?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मुझे आना था",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं आया हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं आऊंगा",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं आता हूँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What do the roots 'लेना' and 'देना' clarify when inserted between the main verb and the ending?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They indicate tense",
+          "is_correct": false
+        },
+        {
+          "answer": "They clarify whether the action is done for oneself or for someone else",
+          "is_correct": true
+        },
+        {
+          "answer": "They show politeness",
+          "is_correct": false
+        },
+        {
+          "answer": "They form the passive voice",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence uses 'लेना' to imply the action is done for oneself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "सुन लीजिये",
+          "is_correct": true
+        },
+        {
+          "answer": "कर दीजिये",
+          "is_correct": false
+        },
+        {
+          "answer": "पढ़ दीजिये",
+          "is_correct": false
+        },
+        {
+          "answer": "खोल दीजिये",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'कर दीजिये' imply according to the clarifier rule?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The actor does it for themselves",
+          "is_correct": false
+        },
+        {
+          "answer": "The actor does it for someone else",
+          "is_correct": true
+        },
+        {
+          "answer": "The actor is planning to do it",
+          "is_correct": false
+        },
+        {
+          "answer": "The actor dislikes doing it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the meaning of 'पढ़ लीजिये'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please read this for me",
+          "is_correct": false
+        },
+        {
+          "answer": "Read this (you need the information)",
+          "is_correct": true
+        },
+        {
+          "answer": "Please take this book",
+          "is_correct": false
+        },
+        {
+          "answer": "Put down the book",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Are the clarifiers 'लेना' and 'देना' normally used in negative constructions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they are",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they are not normally used in the negative",
+          "is_correct": true
+        },
+        {
+          "answer": "They are only used with negatives",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no rule",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following translations corresponds to 'हमें चिट्ठियाँ भेजनी थीं'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "We sent the letters",
+          "is_correct": false
+        },
+        {
+          "answer": "We will send the letters",
+          "is_correct": false
+        },
+        {
+          "answer": "We were supposed to send the letters",
+          "is_correct": true
+        },
+        {
+          "answer": "We are sending letters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'मुझे आपसे मिलना था' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I met you",
+          "is_correct": false
+        },
+        {
+          "answer": "I will meet you",
+          "is_correct": false
+        },
+        {
+          "answer": "I was supposed to meet you",
+          "is_correct": true
+        },
+        {
+          "answer": "I have met you",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Where are the clarifiers 'लेना' and 'देना' inserted in a verb form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before the auxiliary verb",
+          "is_correct": false
+        },
+        {
+          "answer": "After the auxiliary verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Between the root of the main verb and the ending",
+          "is_correct": true
+        },
+        {
+          "answer": "At the beginning of the sentence",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The infinitive plus था construction describes an event which ought to have taken place—something planned, intended or required.  For example: \n* मुझे आना था – I was supposed to come.\n* हमें चिट्ठियाँ भेजनी थीं – We were to have sent the letters.\n* मुझे आपसे मिलना था – I was supposed to meet you.\n* चुनाव होने थे – Elections were to have taken place.\n\nBetween the root of the main verb and the ending, another root may be added to clarify some aspect of the meaning.  The roots लेना (‘to take’) and देना (‘to give’) are very frequently used in this way.  \n* लेना suggests that the actor does it for his or her own benefit (अपने लिये).\n* देना indicates that the actor does it for someone else (किसी और के लिये).\n\nExamples of such clarifier constructions include:\n* सुन लीजिये – Listen. (You might learn something.)\n* पी लीजिये – Drink it. (It's good for you.)\n* कर दीजिये – Please do it (for me).\n* पढ़ लीजिये – Read this. (You need the information.)\n* पढ़ दीजिये – Please read this (and tell me what it means.)\n\nThese clarifiers are not normally used in the negative."
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

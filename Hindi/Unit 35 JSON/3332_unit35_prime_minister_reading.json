@@ -1,0 +1,306 @@
+{
+  "title": "unit35_prime_minister_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where will the British Prime Minister stay during his visit?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At a hotel",
+          "is_correct": false
+        },
+        {
+          "answer": "At the President's residence",
+          "is_correct": true
+        },
+        {
+          "answer": "At a private home",
+          "is_correct": false
+        },
+        {
+          "answer": "At an embassy",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How long will the Prime Minister stay here?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One day",
+          "is_correct": false
+        },
+        {
+          "answer": "Two days",
+          "is_correct": false
+        },
+        {
+          "answer": "Three days",
+          "is_correct": true
+        },
+        {
+          "answer": "Five days",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which countries will they visit after staying here?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Canada and South American countries",
+          "is_correct": true
+        },
+        {
+          "answer": "European countries",
+          "is_correct": false
+        },
+        {
+          "answer": "African countries",
+          "is_correct": false
+        },
+        {
+          "answer": "Asian countries",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the purpose of the tour according to the speaker?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is unimportant",
+          "is_correct": false
+        },
+        {
+          "answer": "It will be very important",
+          "is_correct": true
+        },
+        {
+          "answer": "It will be for vacation",
+          "is_correct": false
+        },
+        {
+          "answer": "It is unknown",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What will they discuss in some countries?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Art exhibits",
+          "is_correct": false
+        },
+        {
+          "answer": "New trade agreements",
+          "is_correct": true
+        },
+        {
+          "answer": "Sports events",
+          "is_correct": false
+        },
+        {
+          "answer": "Weather patterns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Will our President also travel abroad this year?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No",
+          "is_correct": false
+        },
+        {
+          "answer": "Maybe",
+          "is_correct": false
+        },
+        {
+          "answer": "It is not mentioned",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How many countries will the tour cover in about fifteen days?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Five",
+          "is_correct": false
+        },
+        {
+          "answer": "Eleven",
+          "is_correct": true
+        },
+        {
+          "answer": "Twenty",
+          "is_correct": false
+        },
+        {
+          "answer": "Thirty",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Who will accompany the Prime Minister on the tour?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His secretary",
+          "is_correct": false
+        },
+        {
+          "answer": "His wife and daughters",
+          "is_correct": true
+        },
+        {
+          "answer": "Only his wife",
+          "is_correct": false
+        },
+        {
+          "answer": "No one",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What question is asked about the Prime Minister's visit to our country?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When he will arrive",
+          "is_correct": true
+        },
+        {
+          "answer": "Why he is coming",
+          "is_correct": false
+        },
+        {
+          "answer": "What he will eat",
+          "is_correct": false
+        },
+        {
+          "answer": "Where he will stay",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is questioned at the end of the passage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whether he will return",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether they will go anywhere else",
+          "is_correct": true
+        },
+        {
+          "answer": "Whether he will meet the President",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether there will be a press conference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आपके विचार में ब्रिटेन के प्रधानमंत्री आज कहां ठहरेंगे ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "वे हमारे राष्ट्रपति के साथ राष्ट्रपति-भवन में ठहरेंगे ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "वे यहां तीन दिन तक रहेंगे ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "उसके बाद वे कहाँ जायेंगे ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "वे फिर कनाडा और दक्षिण-अमेरिकी देशों का दौरा करेंगे ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "मेरी समझ में उनका दौरा बहुत महत्त्वपूर्ण होगा ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "कुछ देशों में वे नई व्यापार-संधियों के बारे में बातचीत करेंगे ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "क्या हमारे राष्ट्रपति भी इस साल विदेश यात्रा पर जायेंगे ?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "जी हाँ, जायेंगे !"
+    },
+    {
+      "sequence_id": 10,
+      "text": "वे लगभग ग्यारह देशों का दौरा पन्द्रह दिनों में समाप्त करेंगे ।"
+    },
+    {
+      "sequence_id": 11,
+      "text": "उनके साथ उनकी पत्नी और दोनों बेटियाँ भी जायेंगी ।"
+    },
+    {
+      "sequence_id": 12,
+      "text": "आपका प्रधानमंत्री हमारे देश के दौरे पर कब जायेंगे ?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "क्या वे और कहीं भी जायेंगे ?"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

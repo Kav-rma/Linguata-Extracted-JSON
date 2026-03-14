@@ -1,0 +1,258 @@
+{
+  "title": "unit37_past_ability_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which ending is used with masculine singular subjects in the past tense form of 'सक'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "ए",
+          "is_correct": false
+        },
+        {
+          "answer": "आ",
+          "is_correct": true
+        },
+        {
+          "answer": "ईं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the sentence 'तुम सुनोगी' illustrate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An imperative command",
+          "is_correct": false
+        },
+        {
+          "answer": "A masculine singular form",
+          "is_correct": false
+        },
+        {
+          "answer": "A future tense form addressed to a woman",
+          "is_correct": true
+        },
+        {
+          "answer": "A past ability statement",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "According to the lesson, what does 'न - न' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Either-or",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither-nor",
+          "is_correct": true
+        },
+        {
+          "answer": "Both-and",
+          "is_correct": false
+        },
+        {
+          "answer": "Not at all",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which pronoun requires 'ओ' in the middle in future tense forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मैं",
+          "is_correct": false
+        },
+        {
+          "answer": "हम",
+          "is_correct": false
+        },
+        {
+          "answer": "तुम",
+          "is_correct": true
+        },
+        {
+          "answer": "आप",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which of these is a slightly unusual future form for 'तुम' according to the lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "तुम लिखोगी",
+          "is_correct": false
+        },
+        {
+          "answer": "तुम देओगी",
+          "is_correct": false
+        },
+        {
+          "answer": "दोगी [देना]",
+          "is_correct": true
+        },
+        {
+          "answer": "तुम आएगी",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'मैं जा सकी' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I was able to go (woman speaking)",
+          "is_correct": true
+        },
+        {
+          "answer": "I will be able to go (man speaking)",
+          "is_correct": false
+        },
+        {
+          "answer": "I should go",
+          "is_correct": false
+        },
+        {
+          "answer": "I could not go",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In the four gender-number endings listed, which ending corresponds to feminine plural?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आ",
+          "is_correct": false
+        },
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "ईं",
+          "is_correct": true
+        },
+        {
+          "answer": "ए",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following sentences correctly uses the past ability form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "आप जा सकूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं जा सका",
+          "is_correct": true
+        },
+        {
+          "answer": "हम जा सकेंगे",
+          "is_correct": false
+        },
+        {
+          "answer": "वे जा रहा है",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is indicated by the term 'सक' when combined with a verb root?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Necessity",
+          "is_correct": false
+        },
+        {
+          "answer": "Politeness",
+          "is_correct": false
+        },
+        {
+          "answer": "Ability",
+          "is_correct": true
+        },
+        {
+          "answer": "Possession",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which ending is used for masculine plural subjects in the past tense forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ई",
+          "is_correct": false
+        },
+        {
+          "answer": "ईं",
+          "is_correct": false
+        },
+        {
+          "answer": "ए",
+          "is_correct": true
+        },
+        {
+          "answer": "आ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "मैं जा सका। I was able to go (man speaking)   mas. sing.\nमैं जा सकी। I was able to go (woman speaking) fem. sing.\nआप जा सके। you were able to go (to a man)     mas. pl.\nआप जा सकीं। you were able to go (to a woman)  fem. pl.\n\nThis kind of past tense uses the root of the main verb, plus सक plus one of the four gender-number endings:\n\nआ   m.s.   ई   f.s.\nए   m.p.   ईं  f.p.\n\nIn the 'future' tense forms, the informal second person plural pronoun तुम requires ओ in the middle.\n\nतुम सुनोगी ! you will hear (to a woman)\nतुम देख सकोगे ! you will be able to see\n\nTwo verbs have slightly unusual forms for तुम:\nदोगी [देना]\nलोगी [लेना]\n\nन - न means neither - nor."
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

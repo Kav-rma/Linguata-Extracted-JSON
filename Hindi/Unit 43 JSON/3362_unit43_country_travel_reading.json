@@ -1,0 +1,302 @@
+{
+  "title": "unit43_country_travel_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the conversation, which Asian countries has the speaker visited?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "India, Nepal, and Pakistan",
+          "is_correct": true
+        },
+        {
+          "answer": "India and China",
+          "is_correct": false
+        },
+        {
+          "answer": "All Asian countries",
+          "is_correct": false
+        },
+        {
+          "answer": "None",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does the speaker describe the Taj Mahal?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A very beautiful building",
+          "is_correct": true
+        },
+        {
+          "answer": "An ordinary structure",
+          "is_correct": false
+        },
+        {
+          "answer": "A large park",
+          "is_correct": false
+        },
+        {
+          "answer": "A modern skyscraper",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Did the speaker travel alone on his journeys?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, he traveled alone",
+          "is_correct": false
+        },
+        {
+          "answer": "No, he traveled with a friend",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, with his wife",
+          "is_correct": false
+        },
+        {
+          "answer": "With a large group",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What has the speaker done about his friend who is busy building a second house?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Invited him to come tomorrow",
+          "is_correct": true
+        },
+        {
+          "answer": "Asked him to travel now",
+          "is_correct": false
+        },
+        {
+          "answer": "Decided to avoid him",
+          "is_correct": false
+        },
+        {
+          "answer": "Taken him to Europe",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why does the friend have little free time?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because he is traveling around Europe",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he has built a second house",
+          "is_correct": true
+        },
+        {
+          "answer": "Because he is learning Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he is studying",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does the speaker hope the listener will do tomorrow?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Come and visit",
+          "is_correct": true
+        },
+        {
+          "answer": "Send a letter",
+          "is_correct": false
+        },
+        {
+          "answer": "Stay home",
+          "is_correct": false
+        },
+        {
+          "answer": "Travel abroad",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does the conversation end?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The listener declines the invitation",
+          "is_correct": false
+        },
+        {
+          "answer": "The speaker thanks the listener and will see him tomorrow",
+          "is_correct": true
+        },
+        {
+          "answer": "They start a new argument",
+          "is_correct": false
+        },
+        {
+          "answer": "They decide to travel immediately",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which continent besides Asia has the speaker traveled extensively?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Africa",
+          "is_correct": false
+        },
+        {
+          "answer": "Europe",
+          "is_correct": true
+        },
+        {
+          "answer": "America",
+          "is_correct": false
+        },
+        {
+          "answer": "Australia",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How many countries in Asia has the speaker visited, according to the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Three",
+          "is_correct": true
+        },
+        {
+          "answer": "Five",
+          "is_correct": false
+        },
+        {
+          "answer": "None",
+          "is_correct": false
+        },
+        {
+          "answer": "Ten",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Who accompanied the speaker on his travels?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His wife",
+          "is_correct": false
+        },
+        {
+          "answer": "A friend",
+          "is_correct": true
+        },
+        {
+          "answer": "His child",
+          "is_correct": false
+        },
+        {
+          "answer": "No one",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "क्या आपने ताजमहल देखा है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "जी हाँ, मैंने देखा है । बड़ी सुन्दर इमारत है ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "आपने और कौन कौन से देश देखे हैं ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "एशिया में मैंने केवल भारत, नेपाल और पाकिस्तान देखे हैं ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "लेकिन यूरोप में बहुत यात्रा की है ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "क्या आप अकेले गये थे ?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "जी नहीं ! मेरे एक दोस्त भी मेरे साथ गये थे ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "मैंने उन्हें कल यहाँ बुलवाया है ।"
+    },
+    {
+      "sequence_id": 9,
+      "text": "शायद उन्होंने अपना दूसरा मकान बनवाया है इसलिए उन्हें बहुत कम फुर्सत मिलती है ।"
+    },
+    {
+      "sequence_id": 10,
+      "text": "अगर आप कल आ सकें तो बड़ी कृपा होगी ।"
+    },
+    {
+      "sequence_id": 11,
+      "text": "अच्छी बात । आपका बड़ा धन्यवाद ।"
+    },
+    {
+      "sequence_id": 12,
+      "text": "अब मैं कल आपके दर्शन करूंगा ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

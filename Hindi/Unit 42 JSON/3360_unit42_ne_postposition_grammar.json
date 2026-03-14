@@ -1,0 +1,258 @@
+{
+  "title": "unit42_ne_postposition_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which special postposition marks the subject in certain Hindi past tense verbs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का",
+          "is_correct": false
+        },
+        {
+          "answer": "को",
+          "is_correct": false
+        },
+        {
+          "answer": "से",
+          "is_correct": false
+        },
+        {
+          "answer": "ने",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does ‘मैंने कहा’ mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I say",
+          "is_correct": false
+        },
+        {
+          "answer": "I said",
+          "is_correct": true
+        },
+        {
+          "answer": "I will say",
+          "is_correct": false
+        },
+        {
+          "answer": "I was saying",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What effect does the postposition ‘ने’ have on the verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The verb agrees with the subject",
+          "is_correct": false
+        },
+        {
+          "answer": "It forces the verb to agree with the object",
+          "is_correct": false
+        },
+        {
+          "answer": "It disconnects the subject from the verb so the verb stays neutral",
+          "is_correct": true
+        },
+        {
+          "answer": "It adds an extra syllable",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of the following sentences correctly uses ‘ने’ to mark the subject?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "उसने पढ़ा",
+          "is_correct": true
+        },
+        {
+          "answer": "उसमें पढ़ा",
+          "is_correct": false
+        },
+        {
+          "answer": "उस पढ़ा",
+          "is_correct": false
+        },
+        {
+          "answer": "उसका पढ़ा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does ‘किसने कहा?’ translate to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Who said?",
+          "is_correct": true
+        },
+        {
+          "answer": "What was said?",
+          "is_correct": false
+        },
+        {
+          "answer": "When said?",
+          "is_correct": false
+        },
+        {
+          "answer": "How said?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "In the sentence ‘जिसने समझाया’, what does ‘जिसने’ refer to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He who explained",
+          "is_correct": true
+        },
+        {
+          "answer": "He who listened",
+          "is_correct": false
+        },
+        {
+          "answer": "The explanation",
+          "is_correct": false
+        },
+        {
+          "answer": "The person who read",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "According to the explanation, what do verbs with ‘ने’ NOT do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Agree with the subject",
+          "is_correct": true
+        },
+        {
+          "answer": "Remain in neutral form",
+          "is_correct": false
+        },
+        {
+          "answer": "Occur in past tenses",
+          "is_correct": false
+        },
+        {
+          "answer": "Take gender-number endings",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In which tense is the postposition ‘ने’ specifically used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Future",
+          "is_correct": false
+        },
+        {
+          "answer": "Present continuous",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tenses",
+          "is_correct": true
+        },
+        {
+          "answer": "Imperative",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which pronoun with ‘ने’ would be used to say ‘we said’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हमने",
+          "is_correct": true
+        },
+        {
+          "answer": "हम",
+          "is_correct": false
+        },
+        {
+          "answer": "हमसे",
+          "is_correct": false
+        },
+        {
+          "answer": "हमको",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the grammar note say about the meaning of ‘ने’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It has a strong translatable meaning",
+          "is_correct": false
+        },
+        {
+          "answer": "It has no translatable meaning",
+          "is_correct": true
+        },
+        {
+          "answer": "It means ‘for’",
+          "is_correct": false
+        },
+        {
+          "answer": "It means ‘with’",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Hindi, many verbs form their past tenses by using the root plus one of the four gender-number endings आ, ए, ई, ईं. For a certain class of verbs, however, the subject in the past tense is marked with the special postposition ‘ने’. This particle has no translatable meaning, but it disconnects the subject from the verb so that the verb remains in its neutral form. The verb therefore does not agree with the subject when ‘ने’ is used. Examples include: ‘मैंने कहा’ (I said), ‘आपने कहा’ (you said), ‘हमने कहा’ (we said) and ‘किसने कहा?’ (who said?). Other sentences illustrate that the verb form remains unchanged while the subject is marked by ‘ने’, such as ‘इन्होने पूछा’ (he asked), ‘उन्होंने बताया’ (he told), ‘जिसने लिखा’ (the person who wrote), ‘इसने सुना’ (he heard), ‘उसने पढ़ा’ (he read), and ‘सब लोगों ने खाया’ (everybody ate). In these examples the subject carries ‘ने’ and the verb keeps its neutral ending. This rule applies to many past-tense constructions where the subject is marked by ‘ने’ and does not agree with the verb."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

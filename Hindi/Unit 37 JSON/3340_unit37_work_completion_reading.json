@@ -1,0 +1,278 @@
+{
+  "title": "unit37_work_completion_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why didn't the speaker finish his work yesterday?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because he didn't want to",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he ran out of time",
+          "is_correct": false
+        },
+        {
+          "answer": "He says he couldn't finish it and is sorry",
+          "is_correct": true
+        },
+        {
+          "answer": "He forgot about it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the speaker hope to do in a day or two?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Start new work",
+          "is_correct": false
+        },
+        {
+          "answer": "Finish his work",
+          "is_correct": true
+        },
+        {
+          "answer": "Attend a party",
+          "is_correct": false
+        },
+        {
+          "answer": "Meet his friend",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why did the professor's wife not attend the party?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She was out of town",
+          "is_correct": false
+        },
+        {
+          "answer": "She was busy at work",
+          "is_correct": false
+        },
+        {
+          "answer": "Her cat was very ill",
+          "is_correct": true
+        },
+        {
+          "answer": "She lost the invitation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "According to the text, what happened to the poor cat?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It recovered",
+          "is_correct": false
+        },
+        {
+          "answer": "It ran away",
+          "is_correct": false
+        },
+        {
+          "answer": "It couldn't be saved",
+          "is_correct": true
+        },
+        {
+          "answer": "It was sold",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the conversation, what is being discussed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Plans for a trip",
+          "is_correct": false
+        },
+        {
+          "answer": "The progress of some work and an ill cat",
+          "is_correct": true
+        },
+        {
+          "answer": "Buying new books",
+          "is_correct": false
+        },
+        {
+          "answer": "Cooking a meal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'कल' refer to in this passage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The day before yesterday",
+          "is_correct": false
+        },
+        {
+          "answer": "Tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "Yesterday",
+          "is_correct": true
+        },
+        {
+          "answer": "Next week",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does the speaker feel about not finishing the work?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is indifferent",
+          "is_correct": false
+        },
+        {
+          "answer": "He is sorry",
+          "is_correct": true
+        },
+        {
+          "answer": "He is happy",
+          "is_correct": false
+        },
+        {
+          "answer": "He is angry",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following is true according to the passage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The professor's wife was very ill",
+          "is_correct": false
+        },
+        {
+          "answer": "The professor's wife didn't want to come",
+          "is_correct": false
+        },
+        {
+          "answer": "The professor's wife couldn't come because her cat was sick",
+          "is_correct": true
+        },
+        {
+          "answer": "The professor's wife was travelling",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does the speaker plan regarding his work?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He plans to abandon it",
+          "is_correct": false
+        },
+        {
+          "answer": "He hopes to finish it soon",
+          "is_correct": true
+        },
+        {
+          "answer": "He will assign it to someone else",
+          "is_correct": false
+        },
+        {
+          "answer": "He hasn't started it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which animal is mentioned in the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A dog",
+          "is_correct": false
+        },
+        {
+          "answer": "A cat",
+          "is_correct": true
+        },
+        {
+          "answer": "A horse",
+          "is_correct": false
+        },
+        {
+          "answer": "A cow",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "क्या आप कल अपना काम पूरा कर सके ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "जी नहीं । मुझे अफ़सोस है कि मैं पूरा नहीं कर सका ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "आशा है कि एक दो दिन में खत्म कर सकूँगा ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "आपके फ़क़सर की पत्नी पार्टी में क्यों नहीं आ सकीं ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "उनकी बिल्ली बहुत बीमार थी ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "बेचारी बिल्ली भी बच न सकी ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

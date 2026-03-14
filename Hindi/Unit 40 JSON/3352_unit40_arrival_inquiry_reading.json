@@ -1,0 +1,282 @@
+{
+  "title": "unit40_arrival_inquiry_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Did the girls arrive here last night?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they did",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they didn't",
+          "is_correct": true
+        },
+        {
+          "answer": "They arrived tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "It isn't mentioned",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Does the speaker know why the girls didn't arrive?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, he knows",
+          "is_correct": false
+        },
+        {
+          "answer": "No, he doesn't know",
+          "is_correct": true
+        },
+        {
+          "answer": "He refuses to tell",
+          "is_correct": false
+        },
+        {
+          "answer": "They arrived",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the speaker trying to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Trying to find out the reason",
+          "is_correct": true
+        },
+        {
+          "answer": "Trying to go to France",
+          "is_correct": false
+        },
+        {
+          "answer": "Trying to cook dinner",
+          "is_correct": false
+        },
+        {
+          "answer": "Trying to send letters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "By when does the speaker hope to know everything?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By morning",
+          "is_correct": false
+        },
+        {
+          "answer": "By afternoon",
+          "is_correct": false
+        },
+        {
+          "answer": "By evening",
+          "is_correct": true
+        },
+        {
+          "answer": "By midnight",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Was there supposed to be a holiday for the children today?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, there was supposed to be but it didn't happen",
+          "is_correct": true
+        },
+        {
+          "answer": "No, there was not",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, and it happened",
+          "is_correct": false
+        },
+        {
+          "answer": "It was cancelled intentionally",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What reason is given for the girls not arriving?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They were stuck in traffic",
+          "is_correct": false
+        },
+        {
+          "answer": "The reason is not known",
+          "is_correct": true
+        },
+        {
+          "answer": "They arrived early",
+          "is_correct": false
+        },
+        {
+          "answer": "They forgot",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Whose girls are being asked about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The speaker's",
+          "is_correct": false
+        },
+        {
+          "answer": "The listener's",
+          "is_correct": true
+        },
+        {
+          "answer": "The teacher's",
+          "is_correct": false
+        },
+        {
+          "answer": "The doctor's",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the conversation express about missed events?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Certainty and planning",
+          "is_correct": false
+        },
+        {
+          "answer": "Frustration and attempts to find out",
+          "is_correct": true
+        },
+        {
+          "answer": "Happiness",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuses",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which statement is true according to the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The children definitely have a holiday",
+          "is_correct": false
+        },
+        {
+          "answer": "The girls arrived last night",
+          "is_correct": false
+        },
+        {
+          "answer": "The person is trying to find out why the girls didn't arrive",
+          "is_correct": true
+        },
+        {
+          "answer": "The reason they didn't arrive is known",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How does the speaker respond about the children's holiday?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It was supposed to happen but they don't know why it didn't",
+          "is_correct": true
+        },
+        {
+          "answer": "They forgot",
+          "is_correct": false
+        },
+        {
+          "answer": "They went away",
+          "is_correct": false
+        },
+        {
+          "answer": "It was cancelled for a known reason",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "क्या आपकी लड़कियां कल रात यहाँ नहीं पहुंचीं ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "जी नहीं, वे नहीं पहुंचीं ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "किस वजह से नहीं पहुँच सकीं यह भी मुझे मालूम नहीं ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "मैं पता लगाने की कोशिश कर रहा हूँ ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "शायद शाम तक मैं सब कुछ मालूम कर सकूँगा ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "क्या आपके बच्चों की आज छुट्टी नहीं है ?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "होनी थी लेकिन न मालूम क्यों नहीं हुई ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

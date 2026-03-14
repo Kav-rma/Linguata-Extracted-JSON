@@ -1,0 +1,258 @@
+{
+  "title": "unit36_can_and_date_expressions_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the lesson, how is the Hindi ability marker 'सक' used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It can be used by itself as a main verb.",
+          "is_correct": false
+        },
+        {
+          "answer": "It should precede the verb root.",
+          "is_correct": false
+        },
+        {
+          "answer": "It is added after any verb root.",
+          "is_correct": true
+        },
+        {
+          "answer": "It means 'going to'.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following is NOT a correct usage described in the lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Adding 'सक' after a verb root.",
+          "is_correct": false
+        },
+        {
+          "answer": "Saying 'I can go' as 'जा सकता हूँ'.",
+          "is_correct": false
+        },
+        {
+          "answer": "Using 'सक' alone as a verb meaning 'I can't'.",
+          "is_correct": true
+        },
+        {
+          "answer": "Using 'आ सकूँगा' for 'I will be able to come tomorrow'.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the example sentence 'क्या आप गाड़ी चला सकती हैं?' illustrate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Asking permission to drive.",
+          "is_correct": false
+        },
+        {
+          "answer": "Inquiring ability to drive a car.",
+          "is_correct": true
+        },
+        {
+          "answer": "Telling someone to drive faster.",
+          "is_correct": false
+        },
+        {
+          "answer": "Asking about willingness to buy a car.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In the sentence 'शायद कल आ सकूँगा', what is being expressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Past ability.",
+          "is_correct": false
+        },
+        {
+          "answer": "Present inability.",
+          "is_correct": false
+        },
+        {
+          "answer": "Uncertainty about future ability.",
+          "is_correct": true
+        },
+        {
+          "answer": "Certainty about today's visit.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "According to the lesson, which word is used to introduce date expressions such as '२६ जनवरी को'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "में",
+          "is_correct": false
+        },
+        {
+          "answer": "से",
+          "is_correct": false
+        },
+        {
+          "answer": "को",
+          "is_correct": true
+        },
+        {
+          "answer": "तक",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which expression means 'from the second of April until the fifteenth of April'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "दूसरी अप्रैल से पन्द्रह अप्रैल तक",
+          "is_correct": true
+        },
+        {
+          "answer": "दूसरी अप्रैल को",
+          "is_correct": false
+        },
+        {
+          "answer": "मार्च की पहली तारीख को",
+          "is_correct": false
+        },
+        {
+          "answer": "अप्रैल की पहली तारीख से",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In the example 'आठवां महीना', what does the ordinal eighth modify?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The day",
+          "is_correct": false
+        },
+        {
+          "answer": "The month",
+          "is_correct": true
+        },
+        {
+          "answer": "The year",
+          "is_correct": false
+        },
+        {
+          "answer": "The hour",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How is the year 1966 expressed in the lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "सन् उन्नीस सौ उनहत्तर",
+          "is_correct": false
+        },
+        {
+          "answer": "सन् १९६६",
+          "is_correct": true
+        },
+        {
+          "answer": "मार्च की पहली तारीख",
+          "is_correct": false
+        },
+        {
+          "answer": "दूसरी अप्रैल",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following English translations matches the Hindi sentence 'जी नहीं, आज नहीं'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, today",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't know",
+          "is_correct": false
+        },
+        {
+          "answer": "No, not today",
+          "is_correct": true
+        },
+        {
+          "answer": "Maybe tomorrow",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The lesson indicates that the verb 'सक' cannot be used as which of the following?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A past tense marker",
+          "is_correct": false
+        },
+        {
+          "answer": "A main verb by itself",
+          "is_correct": true
+        },
+        {
+          "answer": "A future marker",
+          "is_correct": false
+        },
+        {
+          "answer": "An infinitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "सक can be added after any verb root, with the usual endings.\nIt cannot be used as a main verb, but must be preceded by a root.\nThus in Hindi you can't say simply I can't.\n\nक्या आप गाड़ी चला सकती हैं ?    Can you drive a car?\nजी हाँ, मैं चला सकती हूँ ।\n\nक्या आप आज आ सकेंगे ?         Will you be able to come today?\nजी नहीं, आज नहीं ।\nशायद कल आ सकूँगा ।\n\nDates: these expressions are used:\n\n२६ जनवरी को\nपहली फ़रवरी को\nमार्च की पहली तारीख को\nदूसरी अप्रैल से पन्द्रह अप्रैल तक\nआठवां महीना\nआठवें महीने में\nसन् १९६६ में       सन् उन्नीस सौ उनहत्तर में"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

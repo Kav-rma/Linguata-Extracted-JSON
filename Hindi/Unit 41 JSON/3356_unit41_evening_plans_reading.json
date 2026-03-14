@@ -1,0 +1,282 @@
+{
+  "title": "unit41_evening_plans_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In the conversation, what is the first question asked about the evening?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What are you doing this evening?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where will you go tomorrow?",
+          "is_correct": false
+        },
+        {
+          "answer": "What movie will you see?",
+          "is_correct": false
+        },
+        {
+          "answer": "Should we bring the children?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the second speaker ask after saying he is doing nothing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where shall I go with you?",
+          "is_correct": true
+        },
+        {
+          "answer": "What time should we meet?",
+          "is_correct": false
+        },
+        {
+          "answer": "Which bus should we take?",
+          "is_correct": false
+        },
+        {
+          "answer": "Should I buy tickets?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When they agree to go to the cinema, what do they discuss about the children?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Taking them along",
+          "is_correct": true
+        },
+        {
+          "answer": "Leaving them at home",
+          "is_correct": false
+        },
+        {
+          "answer": "Sending them to school",
+          "is_correct": false
+        },
+        {
+          "answer": "Hiring a babysitter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If the older person doesn't mind, what does the second speaker propose for the little child?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Buying ice cream",
+          "is_correct": false
+        },
+        {
+          "answer": "Giving a toy",
+          "is_correct": true
+        },
+        {
+          "answer": "Giving money",
+          "is_correct": false
+        },
+        {
+          "answer": "Leaving him at home",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why does the second person think buying the toy is good?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The child will like the toy",
+          "is_correct": true
+        },
+        {
+          "answer": "Toys are inexpensive",
+          "is_correct": false
+        },
+        {
+          "answer": "They already have many toys",
+          "is_correct": false
+        },
+        {
+          "answer": "It will spoil the child",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does the conversation suggest giving the older child?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A toy",
+          "is_correct": false
+        },
+        {
+          "answer": "Some money",
+          "is_correct": true
+        },
+        {
+          "answer": "A book",
+          "is_correct": false
+        },
+        {
+          "answer": "A movie ticket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is said about giving money to children?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It spoils their habits",
+          "is_correct": true
+        },
+        {
+          "answer": "It teaches them savings",
+          "is_correct": false
+        },
+        {
+          "answer": "It is always good",
+          "is_correct": false
+        },
+        {
+          "answer": "It is required by elders",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Where do they plan to go in the evening?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To a restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "To the cinema",
+          "is_correct": true
+        },
+        {
+          "answer": "To the park",
+          "is_correct": false
+        },
+        {
+          "answer": "Nowhere",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does the first speaker ask regarding the little child if the older person doesn't mind?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To leave the child at home",
+          "is_correct": false
+        },
+        {
+          "answer": "To feed the child",
+          "is_correct": false
+        },
+        {
+          "answer": "To give a toy",
+          "is_correct": true
+        },
+        {
+          "answer": "To scold the child",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why does the second speaker discourage giving money to the older child?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It makes children greedy",
+          "is_correct": false
+        },
+        {
+          "answer": "It spoils their habits",
+          "is_correct": true
+        },
+        {
+          "answer": "There is no money",
+          "is_correct": false
+        },
+        {
+          "answer": "It is illegal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आज शाम को आप क्या कर रहे हैं ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "कुछ नहीं। कहिये तो आपके साथ कहाँ चलूँ ?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "जी हाँ, चलिये आज सिनेमा देखने चलें। बच्चों को भी ले लें ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "ज़रूर! अगर आप बुरा न मानें तो छोटे बच्चे को एक खिलौना ले दूँ ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "हाँ हाँ, ले दीजिये। शायद उसे आपका खिलौना बहुत पसंद आये ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "बड़े बच्चे को कुछ पैसे दे दें ?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "पैसे न दें तो अच्छा होगा। पैसों से बच्चों की आदत खराब होती है ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

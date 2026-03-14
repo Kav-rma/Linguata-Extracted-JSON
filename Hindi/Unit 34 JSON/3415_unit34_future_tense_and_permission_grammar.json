@@ -1,0 +1,258 @@
+{
+  "title": "unit34_future_tense_and_permission_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What are the future tense endings for masculine singular, masculine plural, and feminine subjects in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ता, ती, ते",
+          "is_correct": false
+        },
+        {
+          "answer": "गा, गे, गी",
+          "is_correct": true
+        },
+        {
+          "answer": "ए, ऐ, ई",
+          "is_correct": false
+        },
+        {
+          "answer": "रा, रे, री",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which vowel change occurs with the subject 'मैं' in the future tense?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ए",
+          "is_correct": false
+        },
+        {
+          "answer": "ऊँ",
+          "is_correct": true
+        },
+        {
+          "answer": "एँ",
+          "is_correct": false
+        },
+        {
+          "answer": "इ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which verbs have contracted future forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "जाना, खाना, पीना",
+          "is_correct": false
+        },
+        {
+          "answer": "देना, लेना, होना",
+          "is_correct": true
+        },
+        {
+          "answer": "लिखना, पढ़ना, पाना",
+          "is_correct": false
+        },
+        {
+          "answer": "सुनना, देखना, चलना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the correct future form for 'I will write' (masculine)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "लिखेगा",
+          "is_correct": false
+        },
+        {
+          "answer": "लिखूँगा",
+          "is_correct": true
+        },
+        {
+          "answer": "लिखूँगी",
+          "is_correct": false
+        },
+        {
+          "answer": "लिखेंगे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How does 'देना' with an infinitive in the oblique case function?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Shows ability",
+          "is_correct": false
+        },
+        {
+          "answer": "Gives permission or allows",
+          "is_correct": true
+        },
+        {
+          "answer": "Indicates obligation",
+          "is_correct": false
+        },
+        {
+          "answer": "Shows completion",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which of the following sentences means 'They will let us write'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हम उन्हें लिखने देंगे",
+          "is_correct": false
+        },
+        {
+          "answer": "वे हमें लिखने देंगे",
+          "is_correct": true
+        },
+        {
+          "answer": "वे हमें लिखने दे",
+          "is_correct": false
+        },
+        {
+          "answer": "हम उन्हें लिखने देते",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which is a regular future form of 'होना'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "होऊँगा",
+          "is_correct": true
+        },
+        {
+          "answer": "दूँगा",
+          "is_correct": false
+        },
+        {
+          "answer": "लूँगा",
+          "is_correct": false
+        },
+        {
+          "answer": "पाऊँगा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which future form is correct for feminine singular of 'लेना'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "लूँगा",
+          "is_correct": false
+        },
+        {
+          "answer": "लूँगी",
+          "is_correct": true
+        },
+        {
+          "answer": "लेगा",
+          "is_correct": false
+        },
+        {
+          "answer": "लेगी",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence uses a future tense with plural subject correctly?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "वे लिखेंगे",
+          "is_correct": true
+        },
+        {
+          "answer": "वे लिखेगा",
+          "is_correct": false
+        },
+        {
+          "answer": "वे लिखूँगा",
+          "is_correct": false
+        },
+        {
+          "answer": "वे लिखेंगी",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'आने दीजिये' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please come here",
+          "is_correct": false
+        },
+        {
+          "answer": "Please let me come",
+          "is_correct": true
+        },
+        {
+          "answer": "You may come",
+          "is_correct": false
+        },
+        {
+          "answer": "I come here",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The future tense in Hindi is formed using familiar endings 'गा', 'गे', and 'गी' for masculine singular, masculine plural, and feminine subjects respectively. There are also internal vowel changes: 'ऊँ' with the subject 'मैं', 'ए' with all other singular subjects, and 'एँ' with all other plural subjects. Verbs like 'लिखना' (write) and 'पाना' (find) demonstrate typical future conjugations: 'लिखूँगा/लिखूँगी' (I will write), 'लिखेगा/लिखेगी' (he/she will write), 'लिखेंगे/लिखेंगी' (they will write). Similarly, 'पाऊँगा/पाऊँगी', 'पाएगा/पाएगी', 'पाएँगे/पाएँगी' show the pattern for 'पाना'.\nSome verbs have contracted future forms: 'देना' (to give) becomes 'दूँगा/दूँगी' in the first person singular and 'देगा/देगी' for other singular subjects; 'लेना' (to take) becomes 'लूँगा/लूँगी' and 'लेगा/लेगी'; 'होना' (to be) becomes 'हूँगा/हूँगी' or regular forms like 'होऊँगा, होएगा' etc.\nThe verb 'देना' combined with an infinitive in the oblique case expresses giving permission or allowing someone to do something. For example, 'आने दीजिये' means 'Please let me come', 'मैं आपको बोलने देता हूँ' means 'I give you permission to speak', 'वे हमें लिखने देंगे' means 'They will let us write', and 'हम बच्चों को स्कूल जाने देते थे' means 'We used to let the children go to school'.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

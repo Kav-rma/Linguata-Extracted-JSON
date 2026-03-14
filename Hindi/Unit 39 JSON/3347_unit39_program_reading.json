@@ -1,0 +1,286 @@
+{
+  "title": "unit39_program_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the main question asked at the beginning of the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where are you going?",
+          "is_correct": false
+        },
+        {
+          "answer": "What time is it?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is your program this evening?",
+          "is_correct": true
+        },
+        {
+          "answer": "When is your flight?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the speaker have to do today?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Cook dinner",
+          "is_correct": false
+        },
+        {
+          "answer": "Travel to Washington",
+          "is_correct": true
+        },
+        {
+          "answer": "Write letters",
+          "is_correct": false
+        },
+        {
+          "answer": "Go shopping",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If time allows, what does the speaker plan to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Read a book",
+          "is_correct": false
+        },
+        {
+          "answer": "Write two or three letters",
+          "is_correct": true
+        },
+        {
+          "answer": "Visit the doctor",
+          "is_correct": false
+        },
+        {
+          "answer": "Sleep",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How does the speaker describe his program?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Short and simple",
+          "is_correct": false
+        },
+        {
+          "answer": "Long and elaborate",
+          "is_correct": true
+        },
+        {
+          "answer": "Nonexistent",
+          "is_correct": false
+        },
+        {
+          "answer": "Confusing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What question does the speaker ask the other person?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What is your program?",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you like movies?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you know the time?",
+          "is_correct": false
+        },
+        {
+          "answer": "Are you going home?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What do the last two lines ask?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Do you need to go anywhere and do you have anything to do?",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you want to eat dinner?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you want to watch a movie?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you want to travel?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of the following is NOT part of the speaker's plan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Buying several things",
+          "is_correct": false
+        },
+        {
+          "answer": "Writing letters",
+          "is_correct": false
+        },
+        {
+          "answer": "Going to Washington",
+          "is_correct": false
+        },
+        {
+          "answer": "Sleeping all day",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the word 'प्रोग्राम' refer to in this passage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A television show",
+          "is_correct": false
+        },
+        {
+          "answer": "A plan or schedule",
+          "is_correct": true
+        },
+        {
+          "answer": "A computer program",
+          "is_correct": false
+        },
+        {
+          "answer": "A job",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What indicates that the speaker's program is lengthy?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He has nothing to do",
+          "is_correct": false
+        },
+        {
+          "answer": "It is described as long and wide",
+          "is_correct": true
+        },
+        {
+          "answer": "He is early",
+          "is_correct": false
+        },
+        {
+          "answer": "They are watching a movie",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following tasks does the speaker plan to do if time permits?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go shopping",
+          "is_correct": false
+        },
+        {
+          "answer": "Write letters",
+          "is_correct": true
+        },
+        {
+          "answer": "Travel to India",
+          "is_correct": false
+        },
+        {
+          "answer": "Bake a cake",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आज शाम को आपका क्या प्रोग्राम है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "आज मुझे वाशिंगटन जाना है ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "कई चीजें खरीदनी हैं ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "अगर समय मिलेगा तो दो तीन चिट्ठियाँ लिखनी हैं ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "सो आप देख सकते हैं कि काफी लंबा चौड़ा प्रोग्राम है ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "आपका क्या प्रोग्राम है ?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "क्या आपको कहीं नहीं जाना है ?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "क्या आपको कुछ नहीं करना है ?"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

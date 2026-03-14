@@ -1,0 +1,278 @@
+{
+  "title": "unit38_nepal_trip_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where did the younger boy go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "India",
+          "is_correct": false
+        },
+        {
+          "answer": "Cinema",
+          "is_correct": false
+        },
+        {
+          "answer": "Airport",
+          "is_correct": false
+        },
+        {
+          "answer": "Nepal",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When did they go to the airport?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the evening",
+          "is_correct": false
+        },
+        {
+          "answer": "Early yesterday morning",
+          "is_correct": true
+        },
+        {
+          "answer": "Tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "Next week",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Who went with the younger boy to Nepal?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His father",
+          "is_correct": false
+        },
+        {
+          "answer": "His friend's daughter",
+          "is_correct": true
+        },
+        {
+          "answer": "No one",
+          "is_correct": false
+        },
+        {
+          "answer": "His uncle",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What did the group do in the evening?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Went shopping",
+          "is_correct": false
+        },
+        {
+          "answer": "Went to the airport",
+          "is_correct": false
+        },
+        {
+          "answer": "Went to see a movie",
+          "is_correct": true
+        },
+        {
+          "answer": "Went to Nepal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How long did they stay at their friend's house on the way back?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "All night",
+          "is_correct": false
+        },
+        {
+          "answer": "Several days",
+          "is_correct": false
+        },
+        {
+          "answer": "For a while",
+          "is_correct": true
+        },
+        {
+          "answer": "They didn't stay",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Who came with them to eat at their place afterwards?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The uncle",
+          "is_correct": false
+        },
+        {
+          "answer": "The friends they visited",
+          "is_correct": true
+        },
+        {
+          "answer": "Strangers",
+          "is_correct": false
+        },
+        {
+          "answer": "No one else",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Where did they go first that day?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The cinema",
+          "is_correct": false
+        },
+        {
+          "answer": "The airport",
+          "is_correct": true
+        },
+        {
+          "answer": "Their friend's house",
+          "is_correct": false
+        },
+        {
+          "answer": "A restaurant",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What did they do on the way back before eating together?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They flew to Nepal",
+          "is_correct": false
+        },
+        {
+          "answer": "They stayed at their friend's house",
+          "is_correct": true
+        },
+        {
+          "answer": "They went shopping",
+          "is_correct": false
+        },
+        {
+          "answer": "They went to another movie",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which statement is true according to the passage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They visited the airport, cinema, and then ate with friends",
+          "is_correct": true
+        },
+        {
+          "answer": "They went to Nepal after the cinema",
+          "is_correct": false
+        },
+        {
+          "answer": "They never visited a friend",
+          "is_correct": false
+        },
+        {
+          "answer": "They went shopping after the cinema",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What activity did they do early in the morning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Went to the cinema",
+          "is_correct": false
+        },
+        {
+          "answer": "Went to the airport",
+          "is_correct": true
+        },
+        {
+          "answer": "Went to the market",
+          "is_correct": false
+        },
+        {
+          "answer": "Went to a restaurant",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "कल आप लोग कहाँ गये थे ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "कल सवेरे हम लोग हवाई अड्डे पर गये थे ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "मेरा छोटा लड़का कल नेपाल गया ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "शाम को हम लोग सिनेमा देखने गये थे ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "वापसी में कुछ देर हम अपने दोस्त के घर ठहरे ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "फिर वे भी हमारे साथ हमारे यहाँ खाना खाने आये ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
