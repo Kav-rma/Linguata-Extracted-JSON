@@ -1,0 +1,258 @@
+{
+  "title": "unit31_past_chahiye_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does adding 'था' to 'चाहिए' express?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Present necessity",
+          "is_correct": false
+        },
+        {
+          "answer": "Past necessity or obligation",
+          "is_correct": true
+        },
+        {
+          "answer": "Future intention",
+          "is_correct": false
+        },
+        {
+          "answer": "Continuous action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When does a verb in Hindi agree with its subject?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Always, regardless of case",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when the subject is in the oblique case",
+          "is_correct": false
+        },
+        {
+          "answer": "When the subject is in the direct case",
+          "is_correct": true
+        },
+        {
+          "answer": "Only when the object is in the direct case",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the sentence 'मुझको किताबें चाहिए थीं', why is the verb in the feminine plural form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because the subject is feminine plural",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the object 'किताबें' is feminine plural",
+          "is_correct": true
+        },
+        {
+          "answer": "Because 'मुझको' is oblique plural",
+          "is_correct": false
+        },
+        {
+          "answer": "Because verbs never agree with subjects",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What happens to the verb if the subject is in the oblique case and there is no direct case noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The verb stays plural",
+          "is_correct": false
+        },
+        {
+          "answer": "The verb agrees with the subject",
+          "is_correct": false
+        },
+        {
+          "answer": "The verb takes neutral masculine singular form",
+          "is_correct": true
+        },
+        {
+          "answer": "The verb agrees with any object",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which phrase means 'somebody or other'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "कुछ न कुछ",
+          "is_correct": false
+        },
+        {
+          "answer": "कोई न कोई",
+          "is_correct": true
+        },
+        {
+          "answer": "कभी न कभी",
+          "is_correct": false
+        },
+        {
+          "answer": "कहीं न कहीं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which phrase means 'something or other'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "कुछ न कुछ",
+          "is_correct": true
+        },
+        {
+          "answer": "कोई न कोई",
+          "is_correct": false
+        },
+        {
+          "answer": "कभी न कभी",
+          "is_correct": false
+        },
+        {
+          "answer": "कहीं न कहीं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of the following correctly translates 'आपको क्या चाहिए था?'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What do you need?",
+          "is_correct": false
+        },
+        {
+          "answer": "What did you need?",
+          "is_correct": false
+        },
+        {
+          "answer": "What do you want?",
+          "is_correct": false
+        },
+        {
+          "answer": "What did you want?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In 'मेरे दोस्त हिन्दी बोलते थे', why does the verb agree in masculine plural?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because 'दोस्त' is masculine plural in direct case",
+          "is_correct": true
+        },
+        {
+          "answer": "Because 'हिन्दी' is feminine",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it doesn't agree",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the verb always agrees with the first noun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence conveys past necessity or obligation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हमें हिन्दी सीखनी चाहिए थी",
+          "is_correct": true
+        },
+        {
+          "answer": "हमें हिन्दी सीखना",
+          "is_correct": false
+        },
+        {
+          "answer": "हमें हिन्दी सीखते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "हम हिन्दी सीखेंगे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'कभी न कभी' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Somewhere or other",
+          "is_correct": false
+        },
+        {
+          "answer": "Something or other",
+          "is_correct": false
+        },
+        {
+          "answer": "Somebody or other",
+          "is_correct": false
+        },
+        {
+          "answer": "Sometime or other",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The addition of 'था' (thā) gives a past meaning to 'चाहिए'. For example, 'आना चाहिए था' means someone should have come, 'कोशिश करनी चाहिए थी' means one should have tried, and 'मुझे नौकरी चाहिए थी' means I needed a job.\nIn Hindi, the verb agrees with its subject when the subject is in the direct case. For instance, 'मेरे दोस्त हिन्दी बोलते थे' means 'My friends used to speak Hindi'; here both the subject and verb are in the masculine plural form.\nIf the subject is in the oblique case, the verb cannot agree with it. Instead, the verb may agree with a direct case noun if one is present. An example is 'मुझको किताबें चाहिए थीं', meaning 'I needed the books'; the verb agrees with the feminine plural noun 'किताबें'.\nWhen no direct case noun is available, the verb reverts to its neutral form, masculine singular. For example, 'आपको क्या चाहिए था?' translates to 'What did you want?'.\nSome useful indefinite expressions include: 'कुछ न कुछ' meaning 'something or other', 'कोई न कोई' meaning 'somebody or other', and 'कभी न कभी' meaning 'sometime or other'.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

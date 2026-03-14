@@ -1,0 +1,97 @@
+{
+  "title": "unit31_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "क्या आपको आज सवेरे कहीं जाना चाहिए था?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Should you have gone somewhere this morning?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "उनको सबसे पहले कौनसा काम करना चाहिए था?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What task should they have done first?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "उन विद्यार्थियों को पहले हिन्दी पढ़नी चाहिए थी या उर्दू?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Should those students have studied Hindi first or Urdu?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "मेरी समझ में आपके दोस्तों को भी आज यहां आना चाहिए था।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "In my opinion, your friends should have come here today as well.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "मेरी राय में उन्हें अपने बच्चों को अच्छे स्कूल में भेजना चाहिए था।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "In my opinion, they should have sent their children to good schools.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "डॉक्टर साहब के राय में माता जी को कुछ दिन और दवा खानी चाहिए थी।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "According to the doctor, Mother should have taken medicine for a few more days.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "उन पड़ोसियों को हमारी कुछ न कुछ सहायता करनी चाहिए थी।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Those neighbors should have given us some help.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

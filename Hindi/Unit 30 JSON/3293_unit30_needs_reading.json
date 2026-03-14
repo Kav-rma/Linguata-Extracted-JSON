@@ -1,0 +1,294 @@
+{
+  "title": "unit30_needs_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Do the friends want their salary today?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, definitely",
+          "is_correct": true
+        },
+        {
+          "answer": "No, they want to wait",
+          "is_correct": false
+        },
+        {
+          "answer": "They want half",
+          "is_correct": false
+        },
+        {
+          "answer": "They want more money",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Besides salary, what else do they need?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "More work",
+          "is_correct": false
+        },
+        {
+          "answer": "Some days of leave",
+          "is_correct": true
+        },
+        {
+          "answer": "Free meal",
+          "is_correct": false
+        },
+        {
+          "answer": "New clothes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "At least how many days of leave are mentioned as necessary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One day",
+          "is_correct": false
+        },
+        {
+          "answer": "Two days",
+          "is_correct": false
+        },
+        {
+          "answer": "Three days",
+          "is_correct": true
+        },
+        {
+          "answer": "Four days",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What should be bought before going to India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A new house",
+          "is_correct": false
+        },
+        {
+          "answer": "New clothes",
+          "is_correct": false
+        },
+        {
+          "answer": "A new car",
+          "is_correct": true
+        },
+        {
+          "answer": "A new computer",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "After buying a new car, what is planned for the children?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A bicycle",
+          "is_correct": false
+        },
+        {
+          "answer": "A scooter",
+          "is_correct": true
+        },
+        {
+          "answer": "A television",
+          "is_correct": false
+        },
+        {
+          "answer": "A book",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "For the children's ride, what is deemed necessary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nothing at all",
+          "is_correct": false
+        },
+        {
+          "answer": "Something or other",
+          "is_correct": true
+        },
+        {
+          "answer": "An animal",
+          "is_correct": false
+        },
+        {
+          "answer": "A bicycle",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What question is asked at the end of the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What is your opinion?",
+          "is_correct": true
+        },
+        {
+          "answer": "When is the trip?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do they need to study?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is the weather like?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What are the friends asked to consider about their leave?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How much salary they want",
+          "is_correct": false
+        },
+        {
+          "answer": "How many days of leave they need",
+          "is_correct": true
+        },
+        {
+          "answer": "When to return",
+          "is_correct": false
+        },
+        {
+          "answer": "Where to go",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the general theme of this conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Planning purchases and vacations",
+          "is_correct": true
+        },
+        {
+          "answer": "Talking about weather",
+          "is_correct": false
+        },
+        {
+          "answer": "Cooking",
+          "is_correct": false
+        },
+        {
+          "answer": "Sports",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What should be bought for the children after the new car?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A computer",
+          "is_correct": false
+        },
+        {
+          "answer": "A scooter",
+          "is_correct": true
+        },
+        {
+          "answer": "A house",
+          "is_correct": false
+        },
+        {
+          "answer": "A television",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "क्या आपके दोस्तों को आज अपना वेतन चाहिए?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "जी हां, जरूर चाहिए ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "उन्हें कुछ दिनों की छुट्टी भी चाहिए ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "उनसे पूछिये कि कम से कम कितनी चाहिए ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "कम से कम तीन दिन की जरूर चाहिए ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "अगले महीने में आप लोगों को क्या खरीदना चाहिए ?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "भारत जाने से पहले हमें नई गाड़ी खरीदनी चाहिए ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "उसके बाद बच्चों के लिए एक स्कूटर भी खरीदना चाहिए ।"
+    },
+    {
+      "sequence_id": 9,
+      "text": "बच्चों की सवारी के लिए कुछ न कुछ जरूर चाहिए ।"
+    },
+    {
+      "sequence_id": 10,
+      "text": "आपका क्या विचार है ?"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

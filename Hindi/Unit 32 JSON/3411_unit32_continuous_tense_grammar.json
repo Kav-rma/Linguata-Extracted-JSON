@@ -1,0 +1,258 @@
+{
+  "title": "unit32_continuous_tense_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How is the continuous ('ing') tense formed in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By adding 'ता', 'ती', 'ते'",
+          "is_correct": false
+        },
+        {
+          "answer": "By adding 'रहा', 'रहे', or 'रही' to the verb root",
+          "is_correct": true
+        },
+        {
+          "answer": "By adding 'गा', 'गी'",
+          "is_correct": false
+        },
+        {
+          "answer": "By adding 'इ' suffix",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which suffix is used for masculine singular subjects?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "रही",
+          "is_correct": false
+        },
+        {
+          "answer": "रहे",
+          "is_correct": false
+        },
+        {
+          "answer": "रहा",
+          "is_correct": true
+        },
+        {
+          "answer": "ते",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where is 'नहीं' placed in a negative continuous sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "After the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Before the root",
+          "is_correct": true
+        },
+        {
+          "answer": "At the end",
+          "is_correct": false
+        },
+        {
+          "answer": "After 'रहा'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In the example 'गाड़ियाँ नहीं पहुँच रही', what happens to the auxiliary verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is changed to 'हैं'",
+          "is_correct": false
+        },
+        {
+          "answer": "It is omitted",
+          "is_correct": true
+        },
+        {
+          "answer": "It moves before 'नहीं'",
+          "is_correct": false
+        },
+        {
+          "answer": "It is repeated",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What do 'कब से' and 'अब तक' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where from and how long",
+          "is_correct": false
+        },
+        {
+          "answer": "Since when and until now",
+          "is_correct": true
+        },
+        {
+          "answer": "Why and when",
+          "is_correct": false
+        },
+        {
+          "answer": "How and why",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which sentence means 'The bus is arriving'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "बस पहुँच रही है",
+          "is_correct": true
+        },
+        {
+          "answer": "बस जाती है",
+          "is_correct": false
+        },
+        {
+          "answer": "बस आ रही",
+          "is_correct": false
+        },
+        {
+          "answer": "बस आयी है",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you ask 'How long have you been living here?' in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यहाँ कब से रह रही है?",
+          "is_correct": true
+        },
+        {
+          "answer": "आप यहाँ क्यों रह रहे हैं?",
+          "is_correct": false
+        },
+        {
+          "answer": "आप यहाँ कब आए?",
+          "is_correct": false
+        },
+        {
+          "answer": "तुम यहाँ कब से हो?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which form is used for feminine subjects in the continuous tense?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "रहा",
+          "is_correct": false
+        },
+        {
+          "answer": "रहे",
+          "is_correct": false
+        },
+        {
+          "answer": "रही",
+          "is_correct": true
+        },
+        {
+          "answer": "ते",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How is destination expressed in continuous constructions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the nominative case",
+          "is_correct": false
+        },
+        {
+          "answer": "In the oblique case without postpositions",
+          "is_correct": true
+        },
+        {
+          "answer": "With the postposition 'को'",
+          "is_correct": false
+        },
+        {
+          "answer": "With the postposition 'में'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'सब आ रहे हैं' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Everyone is going",
+          "is_correct": false
+        },
+        {
+          "answer": "They are all coming",
+          "is_correct": true
+        },
+        {
+          "answer": "The bus is arriving",
+          "is_correct": false
+        },
+        {
+          "answer": "No one is coming",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The continuous or 'ing' tense in Hindi is formed by adding the suffixes 'रहा', 'रहे' or 'रही' to the verb root. The form agrees with the gender and number of the subject: 'रहा' for masculine singular, 'रहे' for masculine plural and mixed groups, and 'रही' for feminine subjects. For example, 'मैं जा रहा हूँ' means 'I am going' (masculine speaker), 'सब आ रहे हैं' means 'They are all coming' (masculine subject), and 'बस पहुँच रही है' means 'The bus is arriving'.\nIn negative continuous sentences, 'नहीं' is usually placed before the root. The auxiliary verb may be omitted, and in feminine plural forms the nasalization moves from the omitted 'हैं' onto 'रही', as in 'गाड़ियाँ नहीं पहुँच रही' which means 'The trains aren't arriving'.\nThe expressions 'कब से' (since when?) and 'अब तक' (until now) are used to ask about the duration of an action. For example, 'यहाँ कब से रह रही है?' asks 'How long have you been living here?' and 'क्या वह अब तक सो रही है?' means 'Is she still sleeping?'.\nDestinations in continuous constructions are expressed in the oblique case, often without explicit postpositions, e.g., 'अपने दफ्तर जा रहा हूँ' meaning 'I am going to my office'.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

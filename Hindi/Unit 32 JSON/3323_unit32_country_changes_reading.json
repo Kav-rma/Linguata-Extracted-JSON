@@ -1,0 +1,286 @@
+{
+  "title": "unit32_country_changes_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the text, what is happening in the country these days?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nothing",
+          "is_correct": false
+        },
+        {
+          "answer": "Many things",
+          "is_correct": true
+        },
+        {
+          "answer": "Only strikes",
+          "is_correct": false
+        },
+        {
+          "answer": "Only farming",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is being produced more than before?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Steel",
+          "is_correct": false
+        },
+        {
+          "answer": "Grain",
+          "is_correct": true
+        },
+        {
+          "answer": "Machines",
+          "is_correct": false
+        },
+        {
+          "answer": "Textbooks",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where are strikes taking place?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In markets",
+          "is_correct": false
+        },
+        {
+          "answer": "In universities",
+          "is_correct": true
+        },
+        {
+          "answer": "In factories",
+          "is_correct": false
+        },
+        {
+          "answer": "In villages",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What kind of progress is happening in the country?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Scientific only",
+          "is_correct": false
+        },
+        {
+          "answer": "All kinds",
+          "is_correct": true
+        },
+        {
+          "answer": "Cultural only",
+          "is_correct": false
+        },
+        {
+          "answer": "None",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What are people learning to operate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Old machines",
+          "is_correct": false
+        },
+        {
+          "answer": "New machines",
+          "is_correct": true
+        },
+        {
+          "answer": "Cars",
+          "is_correct": false
+        },
+        {
+          "answer": "Computers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Who is coming from foreign countries?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tourists",
+          "is_correct": false
+        },
+        {
+          "answer": "People to study",
+          "is_correct": true
+        },
+        {
+          "answer": "Workers",
+          "is_correct": false
+        },
+        {
+          "answer": "Politicians",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What two contrasting situations are mentioned?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "More grain and strikes",
+          "is_correct": true
+        },
+        {
+          "answer": "Peace and war",
+          "is_correct": false
+        },
+        {
+          "answer": "Poverty and wealth",
+          "is_correct": false
+        },
+        {
+          "answer": "Rain and drought",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the last question asked in the text?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What do you eat?",
+          "is_correct": false
+        },
+        {
+          "answer": "Since when have you been working here?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where are you going?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is your name?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "According to the text, where are people coming from to study?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Other cities",
+          "is_correct": false
+        },
+        {
+          "answer": "Foreign countries",
+          "is_correct": true
+        },
+        {
+          "answer": "Villages",
+          "is_correct": false
+        },
+        {
+          "answer": "Factories",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is happening in universities?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Construction",
+          "is_correct": false
+        },
+        {
+          "answer": "Strikes",
+          "is_correct": true
+        },
+        {
+          "answer": "Sports events",
+          "is_correct": false
+        },
+        {
+          "answer": "Festivals",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आजकल आपके देश में क्या हो रहा है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "बहुत चीजें हो रही हैं ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "एक तरफ़ देश में पहले से बहुत अधिक अन्न पैदा हो रहा है ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "दूसरी तरफ़ कई विश्वविद्यालयों में हड़ताले हो रही हैं ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "देश में हर किस्म की तरक्की हो रही है ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "लोग नई से नई मशीनें चलाना सीख रहे हैं ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "बाहर के देशों से कुछ लोग यहाँ पढ़ने आ रहे हैं ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "अब आप बताइये कि आप यहाँ कब से काम कर रहे हैं ?"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

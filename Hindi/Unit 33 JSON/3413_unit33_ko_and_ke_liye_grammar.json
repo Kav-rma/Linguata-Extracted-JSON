@@ -1,0 +1,258 @@
+{
+  "title": "unit33_ko_and_ke_liye_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the postposition 'को' usually mark in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The subject",
+          "is_correct": false
+        },
+        {
+          "answer": "The indirect object",
+          "is_correct": true
+        },
+        {
+          "answer": "The direct object",
+          "is_correct": false
+        },
+        {
+          "answer": "The location",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following sentences correctly uses 'को' to mark an indirect object?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मुझको नमक दीजिये",
+          "is_correct": true
+        },
+        {
+          "answer": "हम नमक खाते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "नमक को दीजिये",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं नमक खाना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is a short form that can replace 'मुझको'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मुझे",
+          "is_correct": true
+        },
+        {
+          "answer": "मेरे",
+          "is_correct": false
+        },
+        {
+          "answer": "मुझ",
+          "is_correct": false
+        },
+        {
+          "answer": "मे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which phrase means 'for me'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मेरे लिये",
+          "is_correct": true
+        },
+        {
+          "answer": "हमारे लिये",
+          "is_correct": false
+        },
+        {
+          "answer": "इस के लिये",
+          "is_correct": false
+        },
+        {
+          "answer": "इन के लिये",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'किस के लिये' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "For them",
+          "is_correct": false
+        },
+        {
+          "answer": "For us",
+          "is_correct": false
+        },
+        {
+          "answer": "For whom",
+          "is_correct": true
+        },
+        {
+          "answer": "For me",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How is 'के लिये' used with verb infinitives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To show past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "To indicate purpose",
+          "is_correct": true
+        },
+        {
+          "answer": "To mark the subject",
+          "is_correct": false
+        },
+        {
+          "answer": "To change gender",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which sentence shows the omission of 'के लिये' before a verb like 'जा'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "सिनेमा देखने जा रहे थे",
+          "is_correct": true
+        },
+        {
+          "answer": "खाना खाने के लिये चलिये",
+          "is_correct": false
+        },
+        {
+          "answer": "हम पढ़ने के लिये गए",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं बाजार के लिये जा रहा हूँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the translation of 'अपने पिता जी को चिट्ठी भेज रहा हूँ'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I am sending a letter to my father",
+          "is_correct": true
+        },
+        {
+          "answer": "I am writing a letter for my father",
+          "is_correct": false
+        },
+        {
+          "answer": "My father is sending a letter",
+          "is_correct": false
+        },
+        {
+          "answer": "I am reading a letter from my father",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following phrases means 'for us'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हमारे लिये",
+          "is_correct": true
+        },
+        {
+          "answer": "आपके लिये",
+          "is_correct": false
+        },
+        {
+          "answer": "इन के लिये",
+          "is_correct": false
+        },
+        {
+          "answer": "इस के लिये",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "When 'के लिये' is omitted before certain verbs, what happens to the infinitive?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It remains in the oblique case",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes to direct case",
+          "is_correct": false
+        },
+        {
+          "answer": "It is omitted",
+          "is_correct": false
+        },
+        {
+          "answer": "It changes to future tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The postposition 'को' is used in many ways in Hindi. It often shows how a noun, pronoun, or phrase relates to the verb, particularly when there is an indirect object. The indirect object is always marked by 'को'. For example, 'मुझको नमक दीजिये' means 'Please pass me the salt', and 'हमको सड़क दिखाइये' means 'Please show us the way'. The short forms 'मुझे', 'हमें', 'उन्हें', etc., can be used interchangeably. An indirect object is used in 'अपने पिता जी को चिट्ठी भेज रहा हूँ' meaning 'I am sending a letter to my father'.\nAdverbial phrases using 'के लिये' (for) indicate purpose or for whom something is intended. Examples include 'मेरे लिये' for 'for me', 'हमारे लिये' for 'for us', 'आपके लिये' for 'for your sake', 'इन के लिये' for 'for them/for him/for her', 'इस के लिये' for 'for him/for her' (singular), and 'किस के लिये' meaning 'for whom?'.\nThis construction is also used with nouns, particularly verb infinitives, to express purpose. For example, 'खाना खाने के लिये चलिये' means 'Let’s go to eat'. Before verbs such as 'आ' (to come), 'जा' (to go), and 'चल' (to walk/go), 'के लिये' may be omitted, but the infinitive remains in the oblique case. An example is 'सिनेमा देखने जा रहे थे', meaning 'They were going to watch a movie'.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

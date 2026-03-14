@@ -1,0 +1,258 @@
+{
+  "title": "unit30_chahiye_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "'चाहिए' is not related to which verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "चाहना",
+          "is_correct": true
+        },
+        {
+          "answer": "सकना",
+          "is_correct": false
+        },
+        {
+          "answer": "जाना",
+          "is_correct": false
+        },
+        {
+          "answer": "पीना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which postposition marks the subject of 'चाहिए'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "को",
+          "is_correct": true
+        },
+        {
+          "answer": "ने",
+          "is_correct": false
+        },
+        {
+          "answer": "से",
+          "is_correct": false
+        },
+        {
+          "answer": "का",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When used with a noun, what does 'चाहिए' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wish",
+          "is_correct": false
+        },
+        {
+          "answer": "need",
+          "is_correct": true
+        },
+        {
+          "answer": "past",
+          "is_correct": false
+        },
+        {
+          "answer": "future",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When used with an infinitive, 'चाहिए' expresses what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "past action",
+          "is_correct": false
+        },
+        {
+          "answer": "should or ought to",
+          "is_correct": true
+        },
+        {
+          "answer": "future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "continuous action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "If the direct object is mentioned in the direct case, the infinitive agrees with:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the subject",
+          "is_correct": false
+        },
+        {
+          "answer": "the direct object",
+          "is_correct": true
+        },
+        {
+          "answer": "the tense",
+          "is_correct": false
+        },
+        {
+          "answer": "the mood",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What do many speakers often not do when using 'चाहिए' with a plural object?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Use the postposition 'को'",
+          "is_correct": false
+        },
+        {
+          "answer": "Use agreement of infinitive with the object",
+          "is_correct": true
+        },
+        {
+          "answer": "Use any subject",
+          "is_correct": false
+        },
+        {
+          "answer": "Use the infinitive at all",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which form is sometimes used for plural needs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Singular 'चाहिए'",
+          "is_correct": false
+        },
+        {
+          "answer": "Plural 'चाहियेँ'",
+          "is_correct": true
+        },
+        {
+          "answer": "Past 'चाहता'",
+          "is_correct": false
+        },
+        {
+          "answer": "Future 'चाहेगा'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In the sentence 'हमको हिन्दी सीखनी चाहिए', what is being expressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "We need to speak Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "We should learn Hindi",
+          "is_correct": true
+        },
+        {
+          "answer": "We used to learn Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "We will learn Hindi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'मुझे काम चाहिए' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I needed to work",
+          "is_correct": false
+        },
+        {
+          "answer": "I need a job",
+          "is_correct": true
+        },
+        {
+          "answer": "You need a job",
+          "is_correct": false
+        },
+        {
+          "answer": "He needs work",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence correctly shows verb-object agreement with 'चाहिए'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हम को हिन्दी सीखनी चाहिए",
+          "is_correct": true
+        },
+        {
+          "answer": "हिन्दी सीखना चाहिए",
+          "is_correct": false
+        },
+        {
+          "answer": "जूते खरीदना चाहिए",
+          "is_correct": false
+        },
+        {
+          "answer": "हम हिन्दी सीखते हैं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "'चाहिए' is a unique verb form in Hindi that is not related to 'चाहना'. Its subject, if expressed, is marked by the postposition 'को'. With a noun, 'चाहिए' means 'need', as in 'आपको क्या चाहिए?' meaning 'What do you need?' or 'मुझे काम चाहिए' meaning 'I need a job'.\nWhen used with an infinitive, 'चाहिए' expresses 'should' or 'ought to'. For example, 'हमें जाना चाहिए' means 'We should go'.\nIf the direct object of the verb is mentioned in the direct case, the infinitive agrees with it: 'हमको हिन्दी सीखनी चाहिए' means 'We ought to learn Hindi', and 'आपको नये जूते खरीदने चाहिए' means 'You should buy new shoes'. However, many speakers do not make this agreement and might say 'हिन्दी सीखना चाहिए' or 'जूते खरीदना चाहिए'.\nSome speakers use a plural form 'चाहियेँ' when talking about plural objects, as in 'उन्हें किताबें खरीदनी चाहिएँ' (They ought to buy books).\nIn all cases, the concept of need or obligation still refers back to the subject, which is marked by 'को'.\nFor example, 'हमें अपने काम के बारे में बोलना चाहिए' means 'We should speak about our work'."
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
