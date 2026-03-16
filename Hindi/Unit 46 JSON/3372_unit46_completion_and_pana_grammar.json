@@ -1,0 +1,258 @@
+{
+  "title": "unit46_completion_and_pana_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does adding 'चुक' between the root and the ending of a verb indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The beginning of the action",
+          "is_correct": false
+        },
+        {
+          "answer": "The continuation of the action",
+          "is_correct": false
+        },
+        {
+          "answer": "The completion or stopping of the action",
+          "is_correct": true
+        },
+        {
+          "answer": "An obligation to do the action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which sentence exemplifies the use of ‘चुक’ to indicate completion?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हम एक बजे खा चुके हैं",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं किताब पढ़ रहा हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "वे खेलते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं सोया था",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the verb ‘पाना’ mean when used as a main verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To give",
+          "is_correct": false
+        },
+        {
+          "answer": "To find, obtain or get",
+          "is_correct": true
+        },
+        {
+          "answer": "To leave",
+          "is_correct": false
+        },
+        {
+          "answer": "To make",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In the sentence ‘मुझे सौ रुपये महावार मिलते हैं’, what is being conveyed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I pay Rs.100 every month",
+          "is_correct": false
+        },
+        {
+          "answer": "I receive Rs.100 every month",
+          "is_correct": true
+        },
+        {
+          "answer": "I owe Rs.100",
+          "is_correct": false
+        },
+        {
+          "answer": "I lose Rs.100 every month",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What nuance does ‘पाना’ convey when used as a clarifier in the negative?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A total inability to perform the action",
+          "is_correct": true
+        },
+        {
+          "answer": "A future intention",
+          "is_correct": false
+        },
+        {
+          "answer": "A past habit",
+          "is_correct": false
+        },
+        {
+          "answer": "A completed action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which sentence illustrates ‘पाना’ indicating inability due to lack of opportunity?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मैं न्यूयॉर्क जाना चाहता था लेकिन जा नहीं पाया",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं सो नहीं पाया",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं खाना पका रहा हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं कागज़ पढ़ता हूँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "According to the grammar, at what time can the speaker never get up?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Six o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "Seven o'clock",
+          "is_correct": false
+        },
+        {
+          "answer": "Eight o'clock",
+          "is_correct": true
+        },
+        {
+          "answer": "Ten o'clock",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the role of ‘कर’ when used with a verb root?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It shows the second of two actions",
+          "is_correct": false
+        },
+        {
+          "answer": "It marks the future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "It indicates the first action is completed before another begins",
+          "is_correct": true
+        },
+        {
+          "answer": "It expresses an obligation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which question uses ‘चुक’ to ask whether work is finished?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "क्या आपका काम हो चुका?",
+          "is_correct": true
+        },
+        {
+          "answer": "क्या आप काम करेंगे?",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या काम चलता है?",
+          "is_correct": false
+        },
+        {
+          "answer": "क्या तुम काम कर रहे हो?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "‘पाना’ as a clarifier has a meaning similar to which verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "होना",
+          "is_correct": false
+        },
+        {
+          "answer": "करना",
+          "is_correct": false
+        },
+        {
+          "answer": "सकना",
+          "is_correct": true
+        },
+        {
+          "answer": "देना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Adding ‘चुक’ between the root of the main verb and the ending refers to the stopping or completion of the action. For example:\n\n• हम एक बजे खा चुके हैं — We finish eating at one.\n• वहां जा चुका हूं — I've already been there.\n• क्या आपका काम हो चुका? — Has your work been completed?\n• कल तक ज़रूर हो चुकैगा — It will be finished tomorrow.\n• मेरे पहुंचने से पहले वे आ चुके थे — They had all come before I arrived.\n\n‘पाना’ as a main verb means find, obtain or get, as in:\n• मैं सौ रुपये महावार पाता हूं / मुझे सौ रुपये महावार मिलते हैं — I make Rs.100 a month.\n• मैंने उनको अंदर के कमरे में पाया — I found him in the room inside.\n\nWhen used as a clarifier, ‘पाना’ has a similar meaning to ‘सकना’. In the negative it suggests almost complete inability. For example:\n• मैं न्यूयॉर्क जाना चाहता था लेकिन जा नहीं पाया — I really wanted to go to New York, but I just didn't get the chance.\n• सवेरे को आठ बजे से पहले मैं कभी उठ नहीं पाता — I can never get up before eight (no matter how hard I try).\n\nThe postposition ‘कर’ can be used with a verb root to mention the first of two acts, such as जाकर meaning ‘go and …’. This construction indicates that the first action is completed before the second begins."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

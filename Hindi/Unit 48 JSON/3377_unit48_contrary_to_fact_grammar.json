@@ -1,0 +1,258 @@
+{
+  "title": "unit48_contrary_to_fact_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the participle ending with ता/ते/ती without an auxiliary verb express?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Future intentions",
+          "is_correct": false
+        },
+        {
+          "answer": "Past contrary-to-fact situations",
+          "is_correct": true
+        },
+        {
+          "answer": "Present continuous actions",
+          "is_correct": false
+        },
+        {
+          "answer": "Imperatives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which sentence is an example of a past contrafactual statement?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मौसम अच्छा होता तो मैं जाता",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं जा रहा हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "वह बाजार जाता है",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं जाऊँगा",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How is the negative formed in a contrary-to-fact clause?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By adding नहीं",
+          "is_correct": false
+        },
+        {
+          "answer": "By using न",
+          "is_correct": true
+        },
+        {
+          "answer": "By using मत",
+          "is_correct": false
+        },
+        {
+          "answer": "By dropping the verb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the sentence ‘अगर मैं आपकी जगह होता तो ऐसा न करता’ mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If I were you, I wouldn’t do that",
+          "is_correct": true
+        },
+        {
+          "answer": "If I were you, I would do it",
+          "is_correct": false
+        },
+        {
+          "answer": "If you were me, you wouldn’t do that",
+          "is_correct": false
+        },
+        {
+          "answer": "I will not do that",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is understood after the word ‘जगह’ in these constructions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "का or की",
+          "is_correct": false
+        },
+        {
+          "answer": "में or पर",
+          "is_correct": true
+        },
+        {
+          "answer": "से or तक",
+          "is_correct": false
+        },
+        {
+          "answer": "न or मत",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which sentence expresses a future contingent meaning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "अगर मैं आपकी जगह होऊँ तो ऐसा न करूँ",
+          "is_correct": true
+        },
+        {
+          "answer": "अगर मैं आपकी जगह होता तो ऐसा न करता",
+          "is_correct": false
+        },
+        {
+          "answer": "अगर वह बाजार गया",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं जा सकता हूँ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In which case is the postposition ‘ने’ typically used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When there is no direct object",
+          "is_correct": false
+        },
+        {
+          "answer": "When the direct object is stated",
+          "is_correct": true
+        },
+        {
+          "answer": "When the verb is intransitive",
+          "is_correct": false
+        },
+        {
+          "answer": "When the sentence is imperative",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which sentence omits the postposition ‘ने’ because there is no direct object?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हमने टेनिस खेली",
+          "is_correct": false
+        },
+        {
+          "answer": "इन्होंने हिन्दी बोली",
+          "is_correct": false
+        },
+        {
+          "answer": "हम खेले",
+          "is_correct": true
+        },
+        {
+          "answer": "वे सिनेमा देखते",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does ‘मैं जा सकती तो ज़रूर जाती’ convey?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If I can go, I will",
+          "is_correct": false
+        },
+        {
+          "answer": "If I could have gone, I certainly would have",
+          "is_correct": true
+        },
+        {
+          "answer": "I will go if you ask",
+          "is_correct": false
+        },
+        {
+          "answer": "I am going now",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following examples shows the use of ‘न’ in a negative contrary-to-fact clause?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "वह गाना गाता",
+          "is_correct": false
+        },
+        {
+          "answer": "आप गोश्त न खाते तो तन्दुरुस्त हो जाते",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं जा सकता था",
+          "is_correct": false
+        },
+        {
+          "answer": "अगर वह बाजार जाता",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The participle ending in **ता, ते, ती** without any auxiliary verb gives a past, contrary-to-fact meaning. Such clauses express situations that did not happen but could have. For example:\n\n• मौसम अच्छा होता तो मैं जाता — If the weather had been good, I would have gone.\n• मैं जा सकती तो ज़रूर जाती — If I could have gone, I certainly would have.\n\nIn negative contrary-to-fact statements, **न** is usually used:\n\n• आप गोश्त न खाते तो तन्दुरुस्त हो जाते — If you hadn’t eaten meat, you would have become healthy.\n\nThe construction also contrasts with a present contingent meaning:\n\n• अगर मैं आपकी जगह होता तो ऐसा न करता — I wouldn’t have done it that way if I had been in your shoes.\n• अगर मैं आपकी जगह होऊँ तो ऐसा न करूँ — I wouldn’t do that if I were you.\n\nHere, **में** or **पर** is understood after **जगह**. Some verbs, particularly transitive ones like **बोला** (speak) and **खेला** (play), are sometimes used without the postposition **ने** when no direct object is stated. When the direct object is present, **ने** tends to be used:\n\n• इन्होंने हिन्दी बोली — They spoke Hindi.\n• ये बोले — They spoke.\n• हमने टेनिस खेली — We played tennis.\n• हम खेले — We played."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

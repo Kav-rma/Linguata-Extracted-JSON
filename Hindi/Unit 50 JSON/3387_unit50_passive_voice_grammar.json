@@ -1,0 +1,258 @@
+{
+  "title": "unit50_passive_voice_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How is the passive voice formed in Hindi according to the grammar lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By adding the suffix –ता to the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "By inserting one of the आ/ए/ई endings plus जा into the verb phrase",
+          "is_correct": true
+        },
+        {
+          "answer": "By changing the verb to its infinitive form",
+          "is_correct": false
+        },
+        {
+          "answer": "By adding the prefix –से",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In the past tense, how does **जाता** appear in the passive construction?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "जाता",
+          "is_correct": false
+        },
+        {
+          "answer": "जाया",
+          "is_correct": false
+        },
+        {
+          "answer": "गया",
+          "is_correct": true
+        },
+        {
+          "answer": "जाते",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which passive construction correctly translates ‘The doors will be opened’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "दरवाज़े खोले जाएँगे",
+          "is_correct": true
+        },
+        {
+          "answer": "दरवाज़ा खोला जाएगा",
+          "is_correct": false
+        },
+        {
+          "answer": "दरवाज़े खोला जाएगा",
+          "is_correct": false
+        },
+        {
+          "answer": "दरवाज़े खुल जाएँगे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the correct passive form to say ‘The sari will be cleaned’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "साड़ी साफ़ की जाएगी",
+          "is_correct": true
+        },
+        {
+          "answer": "साड़ी साफ़ करेगी",
+          "is_correct": false
+        },
+        {
+          "answer": "साड़ी साफ़ करेंगे",
+          "is_correct": false
+        },
+        {
+          "answer": "साड़ी साफ़ कर दी",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Where does a clarifier (such as कर, ले, or दे) appear in a passive verb phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "After the passive marker",
+          "is_correct": false
+        },
+        {
+          "answer": "Immediately before the passive marker",
+          "is_correct": true
+        },
+        {
+          "answer": "At the very end of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "It is omitted",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which postposition is used to mention the actor in a passive sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "को",
+          "is_correct": false
+        },
+        {
+          "answer": "से",
+          "is_correct": true
+        },
+        {
+          "answer": "द्वारा",
+          "is_correct": false
+        },
+        {
+          "answer": "पर",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What unusual passive form is produced by verbs containing **जाना**?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "जाते",
+          "is_correct": false
+        },
+        {
+          "answer": "जाया",
+          "is_correct": true
+        },
+        {
+          "answer": "जाए",
+          "is_correct": false
+        },
+        {
+          "answer": "जायी",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which sentence translates ‘By whom was this book written?’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यह किताब किस से लिखी गई?",
+          "is_correct": true
+        },
+        {
+          "answer": "यह किताब किस ने लिखी?",
+          "is_correct": false
+        },
+        {
+          "answer": "यह किताब किस को लिखी गई?",
+          "is_correct": false
+        },
+        {
+          "answer": "यह किताब लिखी गई?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the correct passive form for ‘The money will be given’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "पैसे दिये जाएँगे",
+          "is_correct": true
+        },
+        {
+          "answer": "पैसे दे दिए",
+          "is_correct": false
+        },
+        {
+          "answer": "पैसा दिया जाएगा",
+          "is_correct": false
+        },
+        {
+          "answer": "पैसे देंगे",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following is NOT part of the passive formation as described?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Inserting आ/ए/ई endings plus जा",
+          "is_correct": false
+        },
+        {
+          "answer": "Using the past form of the main verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Adding the prefix में",
+          "is_correct": true
+        },
+        {
+          "answer": "Agreeing with the direct object",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Forms of the passive voice in Hindi are formed by inserting one of the masculine (आ), plural (ए), or feminine (ई) endings plus **जा** into the verb phrase. The result looks like the past form of the main verb plus some form of **जाना**. In the past tenses, **जाता** appears as **गया**. The passive forms of **कहना** (to say) illustrate this:\n\n• कहा जाता है — It is said.\n• कहा जाएगा — It will be said.\n• कहा गया — It was said.\n\nWhen the direct object is mentioned in the direct case, the entire verb phrase agrees with it. For example:\n\n• दरवाज़ा खोला जाएगा — The door will be opened.\n• दरवाज़े खोले जाएँगे — The doors will be opened.\n• खिड़की खोली जाएगी — The window will be opened.\n• खिड़कियाँ खोली जाएँगी — The windows will be opened.\n\nContractions that normally occur in past forms of verbs like **करना**, **देना**, **पीना** also occur in the passive, for example:\n\n• काम किया जाएगा — The job will be done.\n• पैसे दिये जाएँगे — The money will be given.\n• साड़ी साफ़ की जाएगी — The sari will be cleaned.\n\nIf a clarifier (such as कर, ले, or दे) is used, it comes immediately before the passive marker. All other verb elements follow. If the actor is mentioned, the postposition **से** is used, as in:\n\n• यह किताब किस से लिखी गई? — By whom was this book written?\n\nWhen the verb contains **जाना**, the passive produces an unusual form **जाया**, as in:\n\n• सामान कूली से जाया गया — The luggage was taken away by the porter."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

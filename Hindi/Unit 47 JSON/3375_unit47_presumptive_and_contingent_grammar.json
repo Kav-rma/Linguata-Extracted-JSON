@@ -1,0 +1,258 @@
+{
+  "title": "unit47_presumptive_and_contingent_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What meaning does the auxiliary form of ‘होगा’ convey when used with a verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Present continuous action",
+          "is_correct": false
+        },
+        {
+          "answer": "Future meaning or uncertainty",
+          "is_correct": true
+        },
+        {
+          "answer": "Past perfect action",
+          "is_correct": false
+        },
+        {
+          "answer": "Imperative mood",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which sentence means ‘He is probably sleeping’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "वह सो रहा है",
+          "is_correct": false
+        },
+        {
+          "answer": "वह सो रहा होगा",
+          "is_correct": true
+        },
+        {
+          "answer": "वह सो जायेगा",
+          "is_correct": false
+        },
+        {
+          "answer": "वह सो चुका है",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which sentence suggests that someone must know something?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "वह जानता है",
+          "is_correct": false
+        },
+        {
+          "answer": "वे जानते होंगे",
+          "is_correct": true
+        },
+        {
+          "answer": "वह जानता होगा",
+          "is_correct": false
+        },
+        {
+          "answer": "आप जानते हैं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the term for this usage of ‘होगा’ that implies probability or supposition?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Imperative",
+          "is_correct": false
+        },
+        {
+          "answer": "Presumptive",
+          "is_correct": true
+        },
+        {
+          "answer": "Conditional",
+          "is_correct": false
+        },
+        {
+          "answer": "Infinitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the sentence ‘आपने देखा होगा’, what is implied?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You will watch",
+          "is_correct": false
+        },
+        {
+          "answer": "You must have seen",
+          "is_correct": true
+        },
+        {
+          "answer": "You should see",
+          "is_correct": false
+        },
+        {
+          "answer": "You cannot see",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does ‘इन्हें रहना होगा’ mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They may stay",
+          "is_correct": false
+        },
+        {
+          "answer": "They will have to stay",
+          "is_correct": true
+        },
+        {
+          "answer": "They are staying",
+          "is_correct": false
+        },
+        {
+          "answer": "They wanted to stay",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the effect of using the short form without ‘होगा’ in a sentence like ‘अगर आपका लड़का कल जा रहा हो’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It forms the imperative",
+          "is_correct": false
+        },
+        {
+          "answer": "It expresses a contingent or conditional meaning",
+          "is_correct": true
+        },
+        {
+          "answer": "It expresses present continuous",
+          "is_correct": false
+        },
+        {
+          "answer": "It expresses a completed action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which sentence expresses ‘Maybe he has already gone downtown’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "शायद वह बाजार गया है",
+          "is_correct": false
+        },
+        {
+          "answer": "शायद वह बाजार जायेगा",
+          "is_correct": false
+        },
+        {
+          "answer": "शायद वह बाजार गये हों",
+          "is_correct": true
+        },
+        {
+          "answer": "शायद वह बाजार जाता है",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence shows that she can probably type?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "वह टाइप कर सकती है",
+          "is_correct": false
+        },
+        {
+          "answer": "वह टाइप कर सकती होगी",
+          "is_correct": true
+        },
+        {
+          "answer": "वह टाइप कर रही है",
+          "is_correct": false
+        },
+        {
+          "answer": "वह टाइप कर सकती थी",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence expresses a contingent meaning of ‘if he has gone to the market’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "यदि वह बाजार जायेगा",
+          "is_correct": false
+        },
+        {
+          "answer": "यदि वह बाजार गया है",
+          "is_correct": false
+        },
+        {
+          "answer": "यदि वह बाजार गये हों",
+          "is_correct": true
+        },
+        {
+          "answer": "यदि वह बाजार जाता है",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "An appropriate form of **होगा** can be used as an auxiliary verb. It gives a future meaning or suggests a degree of uncertainty or probability. This is sometimes called the *presumptive* usage. Examples include:\n\n• वह सो रहा होगा — He will be sleeping (at this time tomorrow) or He is probably sleeping (but I'm not sure).\n• वहां रहती होंगी — She probably lives there.\n• वे जानते होंगे — He must know.\n• आपने देखा होगा — You must have seen it.\n\nMore complex examples show the same usage:\n\n• आपने देख लिया होगा — You must have seen (it) by now.\n• वे टाइप कर सकती होंगी — She can probably type.\n• वे आ चुके होंगे — He must have arrived.\n• इन्हें रहना होगा — They will have to stay.\n• हमें साड़ियां खरीदनी होंगी — We will have to buy saris.\n\nThe short form without **होगा** has a *contingent* meaning, often used in **if** clauses and with expressions of obligation:\n\n• अगर आपको ज़रूर जाना हो — If you really must go …\n• अगर आपका लड़का कल जा रहा हो — If your son is going tomorrow.\n• अगर वे खाना खाते हों — If they are eating.\n• यदि वह बाजार गये हों — If he has gone to the market.\n• शायद वे बाजार गये हों — Maybe he has already gone downtown.\n• शायद वे अभी तक आये न हों — Probably they haven’t come yet."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

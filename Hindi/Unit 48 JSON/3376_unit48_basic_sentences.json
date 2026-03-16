@@ -1,0 +1,73 @@
+{
+  "title": "unit48_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "अगर आप कल आते तो हम ज़रूर आपको नौकरी दे देते ।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "If you had come yesterday, we would certainly have given you a job.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "अगर आप दो चार दिन पहले बताते तो आपका काम हो जाता ।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "If you had told us two or four days earlier, your work would have been done.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "अगर सब देश शांति चाहते तो आज कहीं भी लड़ाई न होती ।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "If all countries wanted peace, there would be no fighting anywhere today.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "यदि आप सचमुच हिन्दी सीखते तो आपका बोलना ज़रूर आ जाता ।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "If you truly learned Hindi, you would certainly be able to speak.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "यदि इतनी बर्फ न पड़ती तो गाड़ियां आसानी से आ सकतीं ।",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "If so much snow hadn't fallen, cars could have come easily.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

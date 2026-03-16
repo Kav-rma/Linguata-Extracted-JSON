@@ -1,0 +1,258 @@
+{
+  "title": "unit49_neuter_passive_and_causative_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does a neuter passive verb suggest?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That the actor is important",
+          "is_correct": false
+        },
+        {
+          "answer": "That an action happens on its own without focusing on the actor",
+          "is_correct": true
+        },
+        {
+          "answer": "That the action is future",
+          "is_correct": false
+        },
+        {
+          "answer": "That the sentence is imperative",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following sentences demonstrates a neuter passive meaning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "बहुत नई इमारतें बन रही हैं",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं खाना खा रहा हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "हम बाजार जाते हैं",
+          "is_correct": false
+        },
+        {
+          "answer": "वह किताब पढ़ती है",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How can the actor be mentioned in a neuter passive construction?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "With the postposition से and he is blamed",
+          "is_correct": false
+        },
+        {
+          "answer": "With the postposition से but he is not to be blamed",
+          "is_correct": true
+        },
+        {
+          "answer": "With the postposition को",
+          "is_correct": false
+        },
+        {
+          "answer": "The actor cannot be mentioned",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Do neuter passive verbs have different forms or tenses compared to other verbs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they use special forms",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they use ordinary verb forms and tenses",
+          "is_correct": true
+        },
+        {
+          "answer": "They only exist in present tense",
+          "is_correct": false
+        },
+        {
+          "answer": "They only appear in passive voice",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Can neuter passives enter into the special passive construction of पाठ 50?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they cannot",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Causative verbs that mean ‘get somebody else to do it’ typically end with which suffix?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ना",
+          "is_correct": false
+        },
+        {
+          "answer": "वा",
+          "is_correct": true
+        },
+        {
+          "answer": "ता",
+          "is_correct": false
+        },
+        {
+          "answer": "इ",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the verb सुलवाना mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To make someone wake up",
+          "is_correct": false
+        },
+        {
+          "answer": "To have someone go to sleep",
+          "is_correct": true
+        },
+        {
+          "answer": "To clean the house",
+          "is_correct": false
+        },
+        {
+          "answer": "To sing a song",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In the sentence ‘बच्चों को आया से सुलवाती हूं’, what is the speaker doing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Putting the children to bed herself",
+          "is_correct": false
+        },
+        {
+          "answer": "Having the nurse put the children to bed",
+          "is_correct": true
+        },
+        {
+          "answer": "Waking the children up",
+          "is_correct": false
+        },
+        {
+          "answer": "Teaching the children",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence shows the use of धुलवाना?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मैं कपड़े धोता हूं",
+          "is_correct": false
+        },
+        {
+          "answer": "अपने कपड़े धोबी से धुलवाता हूं",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं कपड़े खरीदता हूं",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं कपड़े पहनता हूं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is true about causative verbs ending in वा?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They mean the subject performs the action",
+          "is_correct": false
+        },
+        {
+          "answer": "They indicate that someone else performs the action at the subject’s request",
+          "is_correct": true
+        },
+        {
+          "answer": "They refer to habitual actions",
+          "is_correct": false
+        },
+        {
+          "answer": "They only appear in negative sentences",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Another kind of verb is sometimes called a **neuter passive**. Neuter passives suggest that an action takes place of its own accord, or that nobody cares who the actor is. They use ordinary verb forms and tenses like any other verb, but in English they are typically translated using the passive voice. Examples include:\n\n• बहुत नई इमारतें बन रही हैं — A lot of new buildings are going up.\n• गाड़ियां हाथों हाथ बिक रही हैं — Cars are selling like hot cakes (from hand to hand).\n\nThe actor can be mentioned with **से**, but he is not to be blamed:\n\n• मुझसे खिड़की टूट गई — The window broke (while I was washing it) as an accidental result of my action.\n\nNeuter passives cannot enter into the special passive construction explained in पाठ 50.\n\nAnother kind of causative verb means ‘get somebody else to do it’. These verbs all end with **वा**. Examples include:\n\n• सुलवाना — to have someone go to sleep.\n• बच्चों को आया से सुलवाती हूं — I have the nurse put the children to bed.\n• अपने कपड़े धोबी से धुलवाता हूं — I get my clothes washed by the washerman."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

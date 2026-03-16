@@ -1,0 +1,258 @@
+{
+  "title": "unit45_obligation_clarifier_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the use of ‘पड़’ after an infinitive indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A polite request",
+          "is_correct": false
+        },
+        {
+          "answer": "An inescapable necessity or strong obligation",
+          "is_correct": true
+        },
+        {
+          "answer": "Past habitual action",
+          "is_correct": false
+        },
+        {
+          "answer": "Permission to do something",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In which tenses can the ‘पड़’ construction be used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only the present tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "All tenses",
+          "is_correct": true
+        },
+        {
+          "answer": "Only the future tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "According to the grammar, what kind of force does the ‘पड़’ construction suggest?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Internal desire",
+          "is_correct": false
+        },
+        {
+          "answer": "External or outside force",
+          "is_correct": true
+        },
+        {
+          "answer": "Random chance",
+          "is_correct": false
+        },
+        {
+          "answer": "Personal preference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence means ‘We’ll have to take our shots’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "हमें टीके लगवाने पड़ेंगे",
+          "is_correct": true
+        },
+        {
+          "answer": "हमें टीके लगवाना",
+          "is_correct": false
+        },
+        {
+          "answer": "हमें टीके लगवाने देना",
+          "is_correct": false
+        },
+        {
+          "answer": "हमें टीके लगनी चाहिए",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the clarifier ‘जाना’ sometimes indicate when added after a verb root?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The action is habitual",
+          "is_correct": false
+        },
+        {
+          "answer": "The action is fully carried out",
+          "is_correct": true
+        },
+        {
+          "answer": "The action is incomplete",
+          "is_correct": false
+        },
+        {
+          "answer": "The action is disliked",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which example shows the clarifier used to suggest finishing an action?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "मैं खा गई",
+          "is_correct": true
+        },
+        {
+          "answer": "मैं खाने लगी",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं खाता हूँ",
+          "is_correct": false
+        },
+        {
+          "answer": "मैं खा रही हूं",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When can the clarifier ‘जाना’ be omitted?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only in affirmative sentences",
+          "is_correct": false
+        },
+        {
+          "answer": "Except in sentences with न or नहीं",
+          "is_correct": true
+        },
+        {
+          "answer": "Always, it is never required",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in interrogative sentences",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the meaning difference between ‘समझें?’ and ‘समझ गये?’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Both mean the same",
+          "is_correct": false
+        },
+        {
+          "answer": "The first asks ‘Do you understand?’ and the second means ‘Did you understand?’",
+          "is_correct": true
+        },
+        {
+          "answer": "The first is negative and the second positive",
+          "is_correct": false
+        },
+        {
+          "answer": "One is a noun and the other a verb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Why is it often difficult to determine the contribution of the clarifier ‘जाना’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because it seldom changes the meaning",
+          "is_correct": true
+        },
+        {
+          "answer": "Because it always changes the meaning",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it is rarely used",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it is spelled incorrectly",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which statement about the clarifier ‘जाना’ is true?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It functions as the main verb in these constructions",
+          "is_correct": false
+        },
+        {
+          "answer": "It is only used in the future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "It adds only a shade of meaning and little relation to its main verb meaning",
+          "is_correct": true
+        },
+        {
+          "answer": "It is mandatory in negative sentences",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The use of ‘पड़’ after an infinitive expresses inescapable necessity or the strongest kind of obligation. It is used in all tenses and suggests some kind of external force. Example sentences include:\n\n• मुझे डॉक्टर के पास जाना पड़ता है — I must go to see the doctor.\n• उसे दवा खानी पड़ती थी — She used to have to take medicine.\n• हमें टीके लगवाने पड़ेंगे — We’ll have to take our shots.\n• उसका इंतज़ार करना पड़ा — (Somebody) had to wait for him.\n• बहुत किस्म की मशीनों के प्रयोग करने पड़े — It was necessary to use all kinds of machines.\n\nAdding the clarifier ‘जाना’ after a verb root sometimes suggests that the action is carried out completely. For example:\n• पी जाइये — Bottoms up!\n• मैं खा गई — I ate it all up.\nHowever, in many cases the clarifier contributes very little to the meaning, and forms without the clarifier (except with न or नहीं) are also acceptable, such as समझें? versus समझ गये? and मरे versus मर गये. A clarifier adds only a shade of meaning and has little relationship to its meaning as a main verb."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

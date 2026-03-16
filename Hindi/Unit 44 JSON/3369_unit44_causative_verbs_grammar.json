@@ -1,0 +1,258 @@
+{
+  "title": "unit44_causative_verbs_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the Hindi verb ‘बिठाना’ mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To sit down oneself",
+          "is_correct": false
+        },
+        {
+          "answer": "To make someone sit down",
+          "is_correct": true
+        },
+        {
+          "answer": "To fall down",
+          "is_correct": false
+        },
+        {
+          "answer": "To stand up",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which verb pair corresponds to 'understand' and 'explain'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "समझना / समझाना",
+          "is_correct": true
+        },
+        {
+          "answer": "देखना / दिखाना",
+          "is_correct": false
+        },
+        {
+          "answer": "उठना / उठाना",
+          "is_correct": false
+        },
+        {
+          "answer": "खाना / खिलाना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the meaning of the causative verb ‘गिराना’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To fall down",
+          "is_correct": false
+        },
+        {
+          "answer": "To make something fall",
+          "is_correct": true
+        },
+        {
+          "answer": "To sit down",
+          "is_correct": false
+        },
+        {
+          "answer": "To make someone sit",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of the following pairs correctly shows a base verb and its causative form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "खाना / खिलाना",
+          "is_correct": true
+        },
+        {
+          "answer": "बैठना / गिरना",
+          "is_correct": false
+        },
+        {
+          "answer": "देखना / खिलाना",
+          "is_correct": false
+        },
+        {
+          "answer": "पढ़ना / निकलना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the instruction ‘इन को यहाँ बिठाइये’, what is being requested?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Let them fall here",
+          "is_correct": false
+        },
+        {
+          "answer": "Seat them here",
+          "is_correct": true
+        },
+        {
+          "answer": "Make them play here",
+          "is_correct": false
+        },
+        {
+          "answer": "Make them stand up",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which verb is the causative of ‘निकलना’ (to emerge)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "उठाना",
+          "is_correct": false
+        },
+        {
+          "answer": "निकालना",
+          "is_correct": true
+        },
+        {
+          "answer": "पढ़ाना",
+          "is_correct": false
+        },
+        {
+          "answer": "दिखाना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of the following verbs is listed among the transitive verbs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "उकसाना",
+          "is_correct": true
+        },
+        {
+          "answer": "बैठना",
+          "is_correct": false
+        },
+        {
+          "answer": "गिरना",
+          "is_correct": false
+        },
+        {
+          "answer": "चलना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does a causative verb in Hindi generally indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It indicates a future action",
+          "is_correct": false
+        },
+        {
+          "answer": "It causes someone or something to perform the action",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes the tense",
+          "is_correct": false
+        },
+        {
+          "answer": "It expresses continuous action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "According to the examples, which verb means ‘to teach’?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "पढ़ना",
+          "is_correct": false
+        },
+        {
+          "answer": "पढ़ाना",
+          "is_correct": true
+        },
+        {
+          "answer": "समझना",
+          "is_correct": false
+        },
+        {
+          "answer": "खिलाना",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the sentence ‘उस पेड़ को गिराएगा’, what does the verb ‘गिराएगा’ express?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He will fall from the tree",
+          "is_correct": false
+        },
+        {
+          "answer": "He will make the tree fall",
+          "is_correct": true
+        },
+        {
+          "answer": "He will climb the tree",
+          "is_correct": false
+        },
+        {
+          "answer": "The tree will grow",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The grammar explains how certain Hindi verbs have causative forms that indicate making someone or something do the action. A list of common transitive verbs is presented, and special attention is given to causatives such as 'बिठाना' and 'गिराना'. For example, ‘इन को यहाँ बिठाइये’ means 'Please seat them here', using the verb बिठाना to mean 'make someone sit down', which is the causative form of बैठना (to sit). Similarly, ‘उस पेड़ को गिराएगा’ means 'He will fell the tree', where गिराना means 'make something fall', the causative of गिरना (to fall). Other causative pairs include: खाना/खिलाना (eat/feed), देखना/दिखाना (see/show), पढ़ना/पढ़ाना (study/teach), उठना/उठाना (rise/raise), निकलना/निकालना (emerge/take out), and समझना/समझाना (understand/explain). The causative form generally adds an ‘-आना’ ending to the root to indicate that the subject causes another to perform the action."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

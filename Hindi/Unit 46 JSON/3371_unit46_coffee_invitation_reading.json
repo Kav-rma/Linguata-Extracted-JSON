@@ -1,0 +1,286 @@
+{
+  "title": "unit46_coffee_invitation_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why does the speaker decline the invitation to go for coffee?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because he has already had coffee",
+          "is_correct": true
+        },
+        {
+          "answer": "Because he dislikes coffee",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he is busy",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he is allergic",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Why does the speaker not drink coffee alone?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is unhealthy",
+          "is_correct": false
+        },
+        {
+          "answer": "It is not enjoyable to drink alone",
+          "is_correct": true
+        },
+        {
+          "answer": "It is too expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "He prefers tea",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What unusual event happened today regarding the speaker's coffee routine?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He forgot to drink coffee",
+          "is_correct": false
+        },
+        {
+          "answer": "He drank earlier since he arrived before eight",
+          "is_correct": true
+        },
+        {
+          "answer": "He switched to tea",
+          "is_correct": false
+        },
+        {
+          "answer": "He didn't drink at all",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the speaker invite the other person to do after finishing coffee?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Come to the speaker's office",
+          "is_correct": true
+        },
+        {
+          "answer": "Go home",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to the cinema",
+          "is_correct": false
+        },
+        {
+          "answer": "Leave immediately",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the speaker hope to have done by the time they meet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Brew fresh coffee",
+          "is_correct": false
+        },
+        {
+          "answer": "Finish his necessary work",
+          "is_correct": true
+        },
+        {
+          "answer": "Eat lunch",
+          "is_correct": false
+        },
+        {
+          "answer": "Write a report",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does the second speaker say about drinking alone?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He enjoys it",
+          "is_correct": false
+        },
+        {
+          "answer": "He doesn't like to drink alone",
+          "is_correct": true
+        },
+        {
+          "answer": "He doesn't mind it",
+          "is_correct": false
+        },
+        {
+          "answer": "He prefers to drink alone",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Does the second speaker usually finish coffee by this time of day?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "No",
+          "is_correct": true
+        },
+        {
+          "answer": "Sometimes",
+          "is_correct": false
+        },
+        {
+          "answer": "Not specified",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How long had the speaker been at the office before drinking coffee?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two hours",
+          "is_correct": true
+        },
+        {
+          "answer": "One hour",
+          "is_correct": false
+        },
+        {
+          "answer": "Three hours",
+          "is_correct": false
+        },
+        {
+          "answer": "He didn't mention",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does the speaker tell the other person after declining coffee?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To go ahead and drink",
+          "is_correct": true
+        },
+        {
+          "answer": "Not to drink either",
+          "is_correct": false
+        },
+        {
+          "answer": "To wait for him",
+          "is_correct": false
+        },
+        {
+          "answer": "To brew tea instead",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "When does the speaker ask the other person to come to his office?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Right away",
+          "is_correct": false
+        },
+        {
+          "answer": "After finishing their coffee",
+          "is_correct": true
+        },
+        {
+          "answer": "Tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "After lunch",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आइये, चलिये कॉफ़ी पीने चलें ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "धन्यवाद, मैं पी चुका हूँ। आप जाकर पी लीजिये।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "मैं अकेले नहीं पीता। अकेले पीने में मज़ा नहीं आता।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "आप रोज़ तो इस समय तक पी नहीं चुके थे ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "आज क्या हुआ ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "आज मैं सवेरे आठ बजे से पहले ही दफ़्तर पहुँच चुका था इसलिए दो घंटे के बाद मैंने नीचे जाकर पी ली।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "जब आप कॉफी पी चुके तो मेरे दफ़्तर में आइये।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "आशा है कि उस समय तक मैं भी अपना जरूरी काम खत्म कर चुका हूँ और फिर हम दोनों कुछ बातें कर सकेंगे।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

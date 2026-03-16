@@ -1,0 +1,286 @@
+{
+  "title": "unit45_walking_preference_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the conversation, why does the speaker walk every day?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because he has no choice and is compelled to",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he enjoys walking and does it by personal preference",
+          "is_correct": true
+        },
+        {
+          "answer": "Because he lost his way",
+          "is_correct": false
+        },
+        {
+          "answer": "Because someone forces him to walk",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In India, did the speaker have to walk due to compulsion?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, he was forced to walk",
+          "is_correct": false
+        },
+        {
+          "answer": "No, he walked voluntarily without any compulsion",
+          "is_correct": true
+        },
+        {
+          "answer": "He did not walk at all",
+          "is_correct": false
+        },
+        {
+          "answer": "He rode a car instead",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is said about the speaker's friend's child?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The child was very ill",
+          "is_correct": true
+        },
+        {
+          "answer": "The child went to school",
+          "is_correct": false
+        },
+        {
+          "answer": "The child traveled to India",
+          "is_correct": false
+        },
+        {
+          "answer": "The child was playing happily",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why did they take the child to the hospital?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because treatment at home did not work",
+          "is_correct": true
+        },
+        {
+          "answer": "Because they wanted a second opinion",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they were visiting a friend",
+          "is_correct": false
+        },
+        {
+          "answer": "They did not take the child to the hospital",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why does the speaker walk according to his own words?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because he enjoys walking",
+          "is_correct": true
+        },
+        {
+          "answer": "Because he doesn't have a car",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he gets paid to walk",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he lost a bet",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does the speaker say about compulsion in India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "There was a compulsion to walk",
+          "is_correct": false
+        },
+        {
+          "answer": "There was no compulsion and he walked by choice",
+          "is_correct": true
+        },
+        {
+          "answer": "He never walked in India",
+          "is_correct": false
+        },
+        {
+          "answer": "He drove everywhere",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does the speaker describe his attitude toward walking?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He dislikes it",
+          "is_correct": false
+        },
+        {
+          "answer": "He enjoys it and walks willingly",
+          "is_correct": true
+        },
+        {
+          "answer": "He is indifferent",
+          "is_correct": false
+        },
+        {
+          "answer": "He hates it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the mother say about taking the child to the hospital?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She wanted to take the child but could not",
+          "is_correct": false
+        },
+        {
+          "answer": "They did not want to take him but eventually had to",
+          "is_correct": true
+        },
+        {
+          "answer": "They never took the child",
+          "is_correct": false
+        },
+        {
+          "answer": "They took him to a friend instead",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does the term 'विवशता (मजबूरी)' refer to in the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Happiness",
+          "is_correct": false
+        },
+        {
+          "answer": "Compulsion or obligation",
+          "is_correct": true
+        },
+        {
+          "answer": "Strength",
+          "is_correct": false
+        },
+        {
+          "answer": "Enjoyment",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which statement best describes the tone of the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Complaining about walking",
+          "is_correct": false
+        },
+        {
+          "answer": "Explaining personal preference and the lack of compulsion",
+          "is_correct": true
+        },
+        {
+          "answer": "Discussing the weather",
+          "is_correct": false
+        },
+        {
+          "answer": "Planning a trip",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "क्या आपको रोज़ पैदल चलना पड़ता है ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "चलता नहीं पड़ता बल्कि मैं चलना पसंद करता हूं । अगर मैं चाहूं तो न चलूँ । यह मेरी अपनी मरज़ी की बात है ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "क्या आपको भारत में भी पैदल चलना पड़ता था ?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "आपने सवाल ठीक नहीं पूछा । पड़ने का न कोई सवाल था और न है । मुझे कोई चलने की विवशता (मजबूरी) नहीं करता था । मैं खुद खुशी से चलता था ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "सुना है कि आपके दोस्त का बच्चा बहुत बीमार है ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "जी हाँ, सच है । वह बेचारा सख्त बीमार है ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "क्या उन्हें अपने बच्चे को अस्पताल ले जाना पड़ा ?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "जी हाँ, जब घर पर इलाज न हो सका तो आखिर में उन्हें अस्पताल ले जाना ही पड़ा । लेजाना चाहते नहीं थे मगर बेचारे और क्या कर सकते थे।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

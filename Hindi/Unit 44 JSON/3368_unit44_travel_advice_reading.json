@@ -1,0 +1,290 @@
+{
+  "title": "unit44_travel_advice_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Who advised the speaker to go to India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A close friend",
+          "is_correct": true
+        },
+        {
+          "answer": "His bank manager",
+          "is_correct": false
+        },
+        {
+          "answer": "A travel agent",
+          "is_correct": false
+        },
+        {
+          "answer": "His parents",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What did the friend say about going to India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go only if you have money and time",
+          "is_correct": true
+        },
+        {
+          "answer": "Never go",
+          "is_correct": false
+        },
+        {
+          "answer": "Go as soon as possible",
+          "is_correct": false
+        },
+        {
+          "answer": "Go with a tour guide",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How did the speaker first arrange his trip?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He spoke with his bank manager",
+          "is_correct": true
+        },
+        {
+          "answer": "He wrote to the embassy",
+          "is_correct": false
+        },
+        {
+          "answer": "He consulted a travel book",
+          "is_correct": false
+        },
+        {
+          "answer": "He asked his parents",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What did the bank manager tell the speaker?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That a loan could be obtained",
+          "is_correct": true
+        },
+        {
+          "answer": "That he should not travel",
+          "is_correct": false
+        },
+        {
+          "answer": "That the trip was too expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "To go to Europe instead",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "After speaking with the bank manager, what did the speaker do next?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He wrote his entire schedule to another friend",
+          "is_correct": true
+        },
+        {
+          "answer": "He cancelled the trip",
+          "is_correct": false
+        },
+        {
+          "answer": "He bought plane tickets",
+          "is_correct": false
+        },
+        {
+          "answer": "He travelled immediately",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What did the friend do for the speaker?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Arranged everything for the trip",
+          "is_correct": true
+        },
+        {
+          "answer": "Booked the hotels only",
+          "is_correct": false
+        },
+        {
+          "answer": "Gave him money",
+          "is_correct": false
+        },
+        {
+          "answer": "Refused to help",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How did the speaker describe his journey to India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Very comfortable",
+          "is_correct": true
+        },
+        {
+          "answer": "Full of difficulties",
+          "is_correct": false
+        },
+        {
+          "answer": "Dangerous",
+          "is_correct": false
+        },
+        {
+          "answer": "Too expensive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What kinds of things did the friend tell the speaker about India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Many things that he found very good",
+          "is_correct": true
+        },
+        {
+          "answer": "Only negative stories",
+          "is_correct": false
+        },
+        {
+          "answer": "Only about food",
+          "is_correct": false
+        },
+        {
+          "answer": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What condition did the friend mention for traveling to India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Having time and money",
+          "is_correct": true
+        },
+        {
+          "answer": "Having a car",
+          "is_correct": false
+        },
+        {
+          "answer": "Knowing Hindi",
+          "is_correct": false
+        },
+        {
+          "answer": "Having a visa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What was the speaker's friend's involvement in the trip after the schedule was written?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He handled all the arrangements",
+          "is_correct": true
+        },
+        {
+          "answer": "He advised against the trip",
+          "is_correct": false
+        },
+        {
+          "answer": "He joined the trip",
+          "is_correct": false
+        },
+        {
+          "answer": "He ignored the letter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आपको भारत जाने की सलाह किसने दी थी ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "मेरे एक बड़े गहरे मित्र ने ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "उन्होंने मुझे भारत के बारे में बहुत-सी बातें सुनाई थीं जो मुझे बहुत अच्छी लगीं ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "उन्होंने उस समय यह भी कहा था कि अगर कभी पैसा और समय हो तो भारत ज़रूर जाइये ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "तो आपने जाने और वहाँ ठहरने का सब प्रबंध कैसे किया था ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "मैंने सबसे पहले अपने बैंक के मैनेजर से बात की ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "उन्होंने कहा कि क़र्ज़ मिल सकता है ।"
+    },
+    {
+      "sequence_id": 8,
+      "text": "उसके बाद मैंने अपने एक और मित्र को अपना सारा कार्यक्रम लिख दिया ।"
+    },
+    {
+      "sequence_id": 9,
+      "text": "उन्होंने मेरा सब प्रबंध कर दिया और मैं बड़े आराम से भारत घूम लिया ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "title": "unit47_speculative_activity_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What time is it in India when it is nine in the morning here?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is nine in the morning there",
+          "is_correct": false
+        },
+        {
+          "answer": "It is half past ten at night there",
+          "is_correct": true
+        },
+        {
+          "answer": "It is noon there",
+          "is_correct": false
+        },
+        {
+          "answer": "It is six in the morning there",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What activities do the speakers think people in India might be doing at that time?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sleeping and going to the cinema",
+          "is_correct": true
+        },
+        {
+          "answer": "Cooking and eating",
+          "is_correct": false
+        },
+        {
+          "answer": "Working in the fields",
+          "is_correct": false
+        },
+        {
+          "answer": "Travelling abroad",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why haven't the friends arrived yet according to the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They have forgotten the meeting",
+          "is_correct": false
+        },
+        {
+          "answer": "They are resting somewhere along the way",
+          "is_correct": true
+        },
+        {
+          "answer": "They are lost",
+          "is_correct": false
+        },
+        {
+          "answer": "They never intended to come",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the speaker ask about his letter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whether it has been posted",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether it has been written",
+          "is_correct": true
+        },
+        {
+          "answer": "Whether it was read",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether it was lost",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How does the other person respond regarding the letter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He isn't sure",
+          "is_correct": false
+        },
+        {
+          "answer": "He says it must have been written",
+          "is_correct": true
+        },
+        {
+          "answer": "He says it hasn't been written",
+          "is_correct": false
+        },
+        {
+          "answer": "He doesn't answer",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which event was supposed to happen today according to the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Friends were supposed to come",
+          "is_correct": true
+        },
+        {
+          "answer": "A festival",
+          "is_correct": false
+        },
+        {
+          "answer": "A movie premiere",
+          "is_correct": false
+        },
+        {
+          "answer": "A trip to the market",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What reasoning does the speaker give to assert the letter must have been written?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because the friends left early",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they finished their work yesterday",
+          "is_correct": true
+        },
+        {
+          "answer": "Because he saw them writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Because he wrote it himself",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What might some people in India be doing besides sleeping according to the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Preparing to sleep and going to the cinema",
+          "is_correct": true
+        },
+        {
+          "answer": "Working in the fields",
+          "is_correct": false
+        },
+        {
+          "answer": "Cooking dinner",
+          "is_correct": false
+        },
+        {
+          "answer": "Playing cricket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How does the conversation characterize the time difference between here and India?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "There is no time difference",
+          "is_correct": false
+        },
+        {
+          "answer": "India is ahead by eleven hours",
+          "is_correct": false
+        },
+        {
+          "answer": "India is behind by three hours",
+          "is_correct": false
+        },
+        {
+          "answer": "It is night in India when it is morning here",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the speaker suggest he might do to find out about the letter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Call his friend",
+          "is_correct": false
+        },
+        {
+          "answer": "Go and ask",
+          "is_correct": true
+        },
+        {
+          "answer": "Send another letter",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait for a reply",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "आपके विचार में भारत के लोग इस समय क्या कर रहे होंगे ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "इस समय यहाँ सवेरे के नौ बजे हैं सो वहाँ रात के साढ़े दस बजे होंगे ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "कुछ लोग सो चुके होंगे ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "कुछ सोने की तैयारियाँ कर रहे होंगे और कुछ सिनेमा देखने गये होंगे ।"
+    },
+    {
+      "sequence_id": 5,
+      "text": "आज आपके मित्र आने वाले थे न ? कब पहुँचेंगे ?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "पहुँचते ही होंगे । शायद कहीं रास्ते में आराम करते होंगे इसलिए अभी तक यहाँ नहीं पहुँचे ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "क्या उन्होंने मेरा पत्र लिख दिया होगा ?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "क्या मैं जाकर पूछूँ ?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "हाँ, मेरी समझ से लिख दिया होगा । वे अपना काम कल दिन में समाप्त कर चुके थे इसलिए मुझे पूरा विश्वास है कि आपकी चिट्ठी भी लिख दी होगी ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "title": "unit49_noise_and_damage_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why was there so much noise in the house last night?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The children were playing",
+          "is_correct": false
+        },
+        {
+          "answer": "A storm blew open the windows and the pictures fell and broke",
+          "is_correct": true
+        },
+        {
+          "answer": "There was a party",
+          "is_correct": false
+        },
+        {
+          "answer": "The radio was on",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What happened when the storm blew last night?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The windows closed",
+          "is_correct": false
+        },
+        {
+          "answer": "Both windows opened and the pictures fell",
+          "is_correct": true
+        },
+        {
+          "answer": "The door broke",
+          "is_correct": false
+        },
+        {
+          "answer": "Nothing happened",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Was there significant damage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No damage at all",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, there was a lot of damage",
+          "is_correct": true
+        },
+        {
+          "answer": "A small scratch",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the garden was affected",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Did the children cause the disturbance?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they broke the pictures",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they did nothing",
+          "is_correct": true
+        },
+        {
+          "answer": "They were yelling",
+          "is_correct": false
+        },
+        {
+          "answer": "They were fighting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What mistake did the speaker make?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He broke the other person's watch",
+          "is_correct": true
+        },
+        {
+          "answer": "He broke a vase",
+          "is_correct": false
+        },
+        {
+          "answer": "He dropped a plate",
+          "is_correct": false
+        },
+        {
+          "answer": "He spilled water",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Was the watch successfully repaired?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it was",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it could not be made",
+          "is_correct": true
+        },
+        {
+          "answer": "It was never broken",
+          "is_correct": false
+        },
+        {
+          "answer": "They lost it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does the speaker propose to rectify breaking the watch?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He will ignore it",
+          "is_correct": false
+        },
+        {
+          "answer": "He will pay for repairs",
+          "is_correct": false
+        },
+        {
+          "answer": "He will bring a new one",
+          "is_correct": true
+        },
+        {
+          "answer": "He will ask a friend",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Where did they have their furniture made?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They had it custom made",
+          "is_correct": false
+        },
+        {
+          "answer": "They bought it ready-made",
+          "is_correct": true
+        },
+        {
+          "answer": "They made it themselves",
+          "is_correct": false
+        },
+        {
+          "answer": "They haven't bought furniture yet",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Who purchased the ready-made furniture?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The speaker",
+          "is_correct": false
+        },
+        {
+          "answer": "Their friend from an acquaintance's shop",
+          "is_correct": true
+        },
+        {
+          "answer": "The children",
+          "is_correct": false
+        },
+        {
+          "answer": "A carpenter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What was initially assumed about the children's involvement?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That they broke the windows",
+          "is_correct": false
+        },
+        {
+          "answer": "That they did something",
+          "is_correct": true
+        },
+        {
+          "answer": "That they left the door open",
+          "is_correct": false
+        },
+        {
+          "answer": "That they were asleep",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "कल रात आपके घर में इतना शोर क्यों हो रहा था ?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "कल रात जब आंधी चली तो हमारी दोनों खिड़कियाँ खुल गईं और तस्वीरें फर्श पर गिरकर टूट गईं ।"
+    },
+    {
+      "sequence_id": 3,
+      "text": "बड़ा नुक़सान हुआ ।"
+    },
+    {
+      "sequence_id": 4,
+      "text": "मैंने समझा कि आपके बच्चों ने कुछ कर दिया ?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "जी नहीं, उन्होंने कुछ नहीं किया । हां मुझसे कल एक गलती हो गई । मुझसे आपकी घड़ी टूट गई ।"
+    },
+    {
+      "sequence_id": 6,
+      "text": "मैंने बनवाने की बहुत कोशिश की पर बन न सकी । चिंता न कीजिये । मैं आपके लिये एक नई ला दूंगा ।"
+    },
+    {
+      "sequence_id": 7,
+      "text": "क्या आपने अपना फ़र्नीचर कहाँ बनवाया था ?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "जी नहीं, बनवाया नहीं। हमने बना-बनाया खरीदा था।"
+    },
+    {
+      "sequence_id": 9,
+      "text": "हमारे दोस्त ने अपने एक मिलने वाले की दुकान से खरीदा था ।"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
