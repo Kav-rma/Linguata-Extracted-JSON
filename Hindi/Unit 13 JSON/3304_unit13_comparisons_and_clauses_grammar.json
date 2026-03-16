@@ -1,0 +1,138 @@
+{
+  "title": "unit13_comparisons_and_clauses_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In Hindi, which post‑position is used to express comparison (‘than’)?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "को", "is_correct": false },
+        { "answer": "से", "is_correct": true },
+        { "answer": "में", "is_correct": false },
+        { "answer": "ने", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which sentence correctly says ‘India is larger than Pakistan’ using the comparative marker?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "भारत पाकिस्तान में बड़ा है", "is_correct": false },
+        { "answer": "भारत पाकिस्तान से बड़ा है", "is_correct": true },
+        { "answer": "भारत बड़ा से पाकिस्तान है", "is_correct": false },
+        { "answer": "भारत से पाकिस्तान बड़ा है", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the word ‘सबसे’ indicate in a comparison?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "Equality", "is_correct": false },
+        { "answer": "Comparison without context", "is_correct": false },
+        { "answer": "Superlative degree (most)", "is_correct": true },
+        { "answer": "Plural marker", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Translate ‘सबसे बड़ा शहर कलकत्ता है’ into English.",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "The biggest city is Calcutta.", "is_correct": true },
+        { "answer": "Calcutta is a large city.", "is_correct": false },
+        { "answer": "Calcutta is smaller than Madras.", "is_correct": false },
+        { "answer": "The small city is Calcutta.", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would you ask ‘Which is the smallest state?’ in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "कौनसा प्रदेश सबसे बड़ा है?", "is_correct": false },
+        { "answer": "सबसे छोटा प्रदेश कौनसा है?", "is_correct": true },
+        { "answer": "प्रदेश छोटा कौनसा है?", "is_correct": false },
+        { "answer": "सबसे प्रदेश छोटा कौन है?", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which expression means ‘largest in population’?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "सबसे बड़ा आबादी में", "is_correct": true },
+        { "answer": "सबसे बड़ा इलाके में", "is_correct": false },
+        { "answer": "भारत पाकिस्तान से बड़ा है", "is_correct": false },
+        { "answer": "केरल छोटा है", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What function does the conjunction ‘कि’ serve in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "It marks possession", "is_correct": false },
+        { "answer": "It connects two clauses", "is_correct": true },
+        { "answer": "It marks the superlative", "is_correct": false },
+        { "answer": "It introduces a question", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Choose the correct English translation of ‘मेरा ख़्याल यह है कि बहुत अच्छा है।’",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "I think it’s very good.", "is_correct": true },
+        { "answer": "My meaning is that it isn’t possible.", "is_correct": false },
+        { "answer": "Is it true that you're a Pakistani?", "is_correct": false },
+        { "answer": "The biggest city is Calcutta.", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which question correctly uses ‘कि’ to ask if someone is a Pakistani?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "क्या यह सच है कि आप पाकिस्तानी हैं?", "is_correct": true },
+        { "answer": "क्या यह सच है आप पाकिस्तानी हैं?", "is_correct": false },
+        { "answer": "यह सच है कि आप पाकिस्तानी है?", "is_correct": false },
+        { "answer": "आप पाकिस्तानी हैं क्या?", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the meaning of the one‑word question ‘तो?’ when used alone?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "It means ‘But?’", "is_correct": false },
+        { "answer": "It means ‘So?’ or ‘Then?’", "is_correct": true },
+        { "answer": "It means ‘Where?’", "is_correct": false },
+        { "answer": "It means ‘How many?’", "is_correct": false }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Hindi, comparison is expressed by using the post‑position **से**, which corresponds to the English word ‘than’.  For example, **भारत बड़ा है** means ‘India is large’, but **भारत पाकिस्तान से बड़ा है** means ‘India is larger than Pakistan’.  Similarly, **केरल छोटा है** means ‘Kerala is small’ and **केरल मद्रास से छोटा है** means ‘Kerala is smaller than Madras’.\n\nThe word **सबसे** introduces the superlative degree (‘the most’).  You can say **सबसे बड़ा शहर कलकत्ता है** – ‘The biggest city is Calcutta’ – or ask **सबसे छोटा प्रदेश कौनसा है?** – ‘Which is the smallest state?’.  Other useful expressions include **सबसे बड़ा आबादी में** (‘largest in population’) and **सबसे बड़ा इलाके में** (‘largest in area’).  Try quizzing each other with questions like these.\n\nTo connect two clauses, Hindi uses the conjunction **कि**.  For instance, you can ask **क्या यह सच है कि आप पाकिस्तानी हैं?** – ‘Is it true that you’re a Pakistani?’.  You can express an opinion with **मेरा ख़्याल यह है कि…**, as in **मेरा ख़्याल यह है कि बहुत अच्छा है** (‘My opinion is that it’s very good’).  Similarly, **मेरा मतलब यह है कि मुमकिन नहीं है** translates to ‘My meaning is that it isn’t possible’.\n\nA single word question **तो?** functions like the English “So?” or “Then?”, inviting the other speaker to explain further."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
