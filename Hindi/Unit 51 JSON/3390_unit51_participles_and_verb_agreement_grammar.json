@@ -1,0 +1,138 @@
+{
+  "title": "unit51_participles_and_verb_agreement_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which of the following Hindi participles would you use to describe 'the seated man'?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "सोती हुई", "is_correct": false },
+        { "answer": "बैठा हुआ", "is_correct": true },
+        { "answer": "बहता हुआ", "is_correct": false },
+        { "answer": "पढ़ती हुई", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How is the adjectival participle construction marked in Hindi?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "By adding the postposition को.", "is_correct": false },
+        { "answer": "By using the auxiliary था.", "is_correct": false },
+        { "answer": "By adding a form of हुआ to the participle.", "is_correct": true },
+        { "answer": "By repeating the verb.", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which series shows how an adjectival participle phrase can be used adverbially in the oblique singular masculine form?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "लाल किताब; नीली किताब", "is_correct": false },
+        { "answer": "चलते चलते, हँसते हँसते", "is_correct": true },
+        { "answer": "सिर में दर्द है", "is_correct": false },
+        { "answer": "खाना खा कर गया", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In Hindi, how would you express the idea 'I have a headache'?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "मेरे पास सिर है।", "is_correct": false },
+        { "answer": "मेरे सिर में दर्द है।", "is_correct": true },
+        { "answer": "मुझे सिर दर्द था।", "is_correct": false },
+        { "answer": "मेरा सिर दर्द कर रहा है।", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When combining two verbs with the same subject, what marker is used to replace the ending of the first verb?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "है", "is_correct": false },
+        { "answer": "कर", "is_correct": true },
+        { "answer": "को", "is_correct": false },
+        { "answer": "ने", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which form is used in Hindi to indicate a planned but not necessarily completed action in the past?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "Perfect participle alone.", "is_correct": false },
+        { "answer": "Present participle alone.", "is_correct": false },
+        { "answer": "Perfect participle plus past auxiliary था", "is_correct": true },
+        { "answer": "Imperative form of the verb.", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "According to the grammar, what does the auxiliary in 'आप गये थे न?' indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "The speaker doubts whether the listener went.", "is_correct": false },
+        { "answer": "The speaker knows the listener did go.", "is_correct": true },
+        { "answer": "The listener is currently going.", "is_correct": false },
+        { "answer": "The action is indefinite.", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which sentence shows the verb agreeing with a direct object in the direct case?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "आपको यह किताब पढ़नी थी।", "is_correct": false },
+        { "answer": "आपने यह किताब पढ़ी थी।", "is_correct": true },
+        { "answer": "आपने इस किताब को पढ़ा था।", "is_correct": false },
+        { "answer": "आपको इस किताब को पढ़ना था।", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When the verb cannot agree with the subject, what does it agree with?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "The nearest indirect‑case noun.", "is_correct": false },
+        { "answer": "The nearest direct‑case noun.", "is_correct": true },
+        { "answer": "The subject's gender.", "is_correct": false },
+        { "answer": "The last verb in the sentence.", "is_correct": false }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the sentence 'हमने महात्मा जी के शब्द याद किये', which word loses its ability to control the verb's agreement?",
+      "type": "multiple_choice",
+      "answers": [
+        { "answer": "शब्द", "is_correct": false },
+        { "answer": "याद", "is_correct": true },
+        { "answer": "महात्मा", "is_correct": false },
+        { "answer": "किये", "is_correct": false }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "You have met the basic structures of Hindi: the nouns, adjectives, pronouns, postpositions, verbs, and other kinds of words; the basic kinds of phrases—subject, direct object, indirect object, adverbial phrases, adjectival phrases and the verb phrases; the clause, which contains a verb phrase and possibly a variety of other phrases; and the sentence, in which several clauses may be combined. On this base you can go on to build a real command of the language. Most of the grammatical structures which you do not immediately recognize are in fact combinations of elements you already know. In this unit are a few more combinations which are frequent in both spoken and written Hindi.\n\nVerb participles can be used as adjectives. A form of हुआ may be added to mark this adjectival construction. With the present or imperfective participle, examples include: \u0938\u094b\u0924\u0940 \u0939\u0941\u0908 \u0932\u0921\u093c\u0915\u0940 – the sleeping girl; \u092c\u0939\u0924\u093e \u0939\u0941\u0906 \u092a\u093e\u0928\u0940 – the flowing water (examples in sentences 6, 7, 8). With the past or perfective participle: \u091f\u0942\u091f\u093e \u0939\u0941\u0906 \u092c\u091f\u0928 – a broken button; \u092c\u0948\u0920\u093e \u0939\u0941\u0906 \u0905\u0926\u092e\u0940 – the seated man (sentences 6, 9, 16, 17); \u0906\u092a\u0915\u0940 \u0932\u093f\u0916\u0940 \u0939\u0941\u0906 \u0915\u093f\u0924\u093e\u092c – the book which you wrote; \u092e\u0947\u0930\u0940 \u0915\u0932 \u0915\u0940 \u092a\u0939\u0928\u0940 \u0939\u0941\u0906 \u091c\u0941\u0930\u093e\u092c\u0947\u0902 – the socks I wore yesterday (sentences 12, 13). These adjectival phrases, like any others, may be used adverbially, in the oblique singular masculine form: \u092c\u0948\u0920\u0947 \u0939\u0941\u090f – taking a seat; \u0938\u093e\u0921\u093c\u0940 \u092a\u0939\u0928\u0924\u0947 \u0939\u0941\u090f – while dressing (sentences 9, 18); \u0938\u093e\u0921\u093c\u093f\u092f\u093e\u0902 \u092a\u0939\u0928\u0924\u0947 \u0939\u0941\u090f – wearing saris; \u091f\u093e\u0908 \u092a\u0939\u0928\u0924\u0947 \u0939\u0941\u090f – wearing a necktie (sentences 10, 11, 14, 15). The adverb can be repeated: \u091a\u0932\u0924\u0947 \u091a\u0932\u0924\u0947 – walking constantly; \u0939\u0901\u0938\u0924\u0947 \u0939\u0901\u0938\u0924\u0947 – laughing constantly (sentences 1, 4, 5, 19, 20). Expressions such as \u092e\u0930\u0924\u0947 \u092e\u0930\u0924\u0947 – on the brink of dying – and \u0917\u093f\u0930\u0924\u0947 \u0917\u093f\u0930\u0924\u0947 – on the brink of falling – appear in sentences 2, 3, 18.\n\nHindi has no verb \"have\". It is therefore impossible to translate \"literally\" any sentence that uses it. You have to stop and think what is meant. In English we say \"I have two children.\" Hindi uses for this a possessive adjective or a \u0915\u093e‑phrase: \u0909\u0928\u0915\u0947 \u0926\u094b \u092c\u091a\u094d\u091a\u0947 \u0939\u0948\u0902 – They have two children. The same pattern is used for other relatives, body parts and things you can hardly lose: \u0909\u0938\u0915\u0940 \u090f\u0915 \u0906\u0901\u0916 \u0939\u0948 – He has one eye. In English we say \"I have a headache.\" In Hindi this can be \"There's a pain in my head\": \u092e\u0947\u0930\u0947 \u0938\u093f\u0930 \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0939\u0948. Other kinds of illness are expressed with \u0915\u094b: \u092e\u0941\u091d\u0947 \u091c\u0941\u0915\u093e\u092e \u0939\u0948 – I have a cold; \u092e\u0941\u091d\u0947 \u092c\u0941\u0916\u093e\u0930 \u0925\u093e – I had a fever. Ownership is usually expressed with \u092a\u093e\u0938, for example: \u092e\u0947\u0930\u0947 \u092a\u093e\u0938 \u0926\u094b \u0917\u093e\u0921\u093c\u093f\u092f\u093e\u0902 \u0925\u0940\u0902; \u0939\u092e\u093e\u0930\u0947 \u092a\u093e\u0938 \u0905\u092a\u0928\u093e \u0918\u0930 \u0928\u0939\u0940\u0902 \u0939\u094b\u0917\u093e; \u0915\u094d\u092f\u093e \u0906\u092a \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u092a\u093e\u0938 \u0930\u0939\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092c\u0921\u093c\u0947‑\u092c\u0921\u093c\u0947 \u092e\u0915\u093e\u0928 \u0939\u0948\u0902?\n\nWhen two or more verbs are used together with the same subject, the endings of all but the last can be replaced by the special marker \u0915\u0930. For example: \u091c\u093e\u0907\u092f\u0947 \u0926\u0947\u0916\u0915\u0930 \u0926\u0947\u0916\u093f\u092f\u0947 – Go and see; \u0916\u093e\u0928\u093e \u0916\u093e\u0907\u090f \u0914\u0930 \u0935\u093e\u092a\u0938 \u0906\u0908\u090f – Eat and then come back. The abbreviation marker may appear as \u0915\u0930, \u0915\u0947 or \u0915\u0930\u0915\u0947. If the root of the abbreviated verb is \u0915\u0930, then \u0915\u0947 is the marker. For example: \u0939\u092e \u0905\u092a\u0928\u093e \u0915\u093e\u092e \u0915\u0930\u0915\u0947 \u0917\u0930 \u0917\u090f – After doing our work, we went home. The subject, if mentioned, is marked by \u0928\u0947 only if the last verb requires it: \u0939\u092e\u0928\u0947 \u0917\u0930 \u091c\u093e\u0915\u0930 \u0915\u093e\u092e \u0915\u093f\u092f\u093e – We went home and worked. When a series of two or more verbs are put together the abbreviation marker (\u0915\u0930, \u0915\u0947 or \u0915\u0930\u0915\u0947) can be omitted: \u0932\u0947\u0915\u0930 \u0906\u0908\u090f – Take it and come (bring it). This usually appears as \u0932\u0947 \u0906\u0908\u090f. Other common examples are \u0932\u0947 \u091c\u093e\u0928\u093e (carry) and \u0932\u0947 \u091a\u0932\u0928\u093e (bring along). When \u0915\u0930 is understood, both verbs have their full meanings. Such combinations can be confusing because they look like a full verb plus a clarifier. \u0935\u0939 \u0916\u093e\u0928\u093e \u0916\u093e \u0917\u092f\u093e can mean either \u0916\u093e\u0928\u093e \u0916\u093e \u0915\u0930 \u0917\u092f\u093e – He ate and went – or it can represent the main verb \u0916\u093e\u0928\u093e plus the clarifier \u091c\u093e\u0928\u093e: \u0935\u0939 \u0938\u093e\u0930\u093e \u0916\u093e\u0928\u093e \u0916\u093e \u0917\u092f\u093e – He ate it all up.\n\nThe difference between the meaning of the perfect participle by itself and the perfect participle plus the past auxiliary is subtle. With the past auxiliary the meaning is clearly in the past. \u092e\u0948\u0902 \u0917\u092f\u093e \u0925\u093e will be used wherever in English 'I had gone' is appropriate, but also in many cases where 'I went' is used. The perfect participle alone often gives a suggestion of indefiniteness. It will be used in questions: \u0915\u094d\u092f\u093e \u0906\u092a \u0917\u092f\u0947? – Did you go? But if the asker thinks he knows the answer, the past auxiliary is added: \u0906\u092a \u0917\u092f\u0947 \u0925\u0947 \u0928? – You did go, didn't you? The auxiliary is also used to refer to an action that was definitely intended or planned even if not carried out: \u092e\u0948\u0902 \u0928\u0939\u0940\u0902 \u0917\u092f\u093e \u0925\u093e – I didn't go, after all. The use of the present auxiliary shows some connection with the present or the very recent past: \u0906\u092a\u0928\u0947 \u0936\u093e\u0926\u0940 \u0915\u0940 \u0939\u0948? – Have you gotten married? If you believe that the person is not married now you might ask: \u0936\u093e\u0926\u0940 \u0915\u0940 \u0925\u0940? – Have you ever married? The past auxiliary separates the action mentioned from the present.\n\nVerb agreement: the verb can agree only with a direct case expression. If the subject is in the direct case, the verb agrees with it. If however the subject is oblique (with \u0915\u094b or \u0928\u0947) the verb may come under the control of some other direct case expression. If a direct object is present and not marked by \u0915\u094b the verb will agree with it. If no direct expression is available, the verb reverts to its neutral masculine singular form. For example: \u0906\u092a \u092f\u0939 \u0915\u093f\u0924\u093e\u092c \u092a\u0922\u093c\u0924\u0947 \u0925\u0947 – you read this book (verb agrees with \u0915\u093f\u0924\u093e\u092c); \u0906\u092a\u0915\u094b \u092f\u0939 \u0915\u093f\u0924\u093e\u092c \u092a\u0922\u093c\u0928\u0940 \u0925\u0940 – with the oblique subject, the verb is in the neutral form; \u0906\u092a\u0928\u0947 \u092f\u0939 \u0915\u093f\u0924\u093e\u092c \u092a\u0922\u093c\u0940 \u0925\u0940; \u0906\u092a\u0928\u0947 \u0907\u0938 \u0915\u093f\u0924\u093e\u092c \u0915\u094b \u092a\u0922\u093c\u093e \u0925\u093e; \u0906\u092a\u0915\u094b \u0907\u0938 \u0915\u093f\u0924\u093e\u092c \u0915\u094b \u092a\u0922\u093c\u0928\u093e \u0925\u093e.\n\nIf the verb cannot agree with the subject of the sentence, it will agree with the nearest direct‑case noun (which is usually the direct object). There is one exception to this rule: a few nouns, when used with \u0915\u0930\u0924\u093e, lose the power to control the verb. Examples: \u0939\u092e\u0928\u0947 \u092e\u0939\u093e\u0924\u094d\u092e\u093e \u091c\u0940 \u0915\u0947 \u0936\u092c\u094d\u0926 \u092f\u093e\u0926 \u0915\u093f\u092f\u0947 – We remembered his words; \u0939\u092e\u0928\u0947 \u0905\u092a\u0928\u093e \u092a\u093e\u0920 \u092f\u093e\u0926 \u0915\u093f\u092f\u093e – We memorized our lesson; \u0907\u0928\u0939\u094b\u0902\u0928\u0947 \u0906\u092a\u0915\u0940 \u0938\u093e\u0921\u093c\u093f\u092f\u093e\u0902 \u092a\u0938\u0902\u0926 \u0915\u0940\u0902 – She liked your saris; \u0907\u0928\u0939\u094b\u0902\u0928\u0947 \u0939\u092e\u093e\u0930\u0947 \u0936\u0939\u0930 \u092a\u0938\u0902\u0926 \u0915\u093f\u090f – He liked our cities; \u092e\u0948\u0928\u0947 \u092f\u0947 \u091a\u0940\u091c\u093c\u0947\u0902 \u0907\u0938\u094d\u0924\u093f\u092e\u093e\u0932 \u0915\u093f\u0902 – I used these things; \u092e\u0948\u0928\u0947 \u092f\u0947 \u0915\u092e\u0930\u093e \u0907\u0938\u094d\u0924\u093f\u092e\u093e\u0932 \u0915\u093f\u092f\u093e – I used this room. Normally, \u092f\u093e\u0926, \u092a\u0938\u0902\u0926 and \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 are nouns, but when used with \u0915\u0930\u0924\u093e they become transparent, allowing the effect of a preceding noun to pass through them and control the verb. Sentences such as \u0906\u092a\u0915\u0940 \u092a\u0938\u0902\u0926 \u0905\u091a\u094d\u091b\u0940 \u0939\u0948 – You have good taste; \u092e\u0947\u0930\u0940 \u092f\u093e\u0926 \u0907\u0924\u0928\u0940 \u0905\u091a\u094d\u091b\u0940 \u0928\u0939\u0940\u0902 \u0939\u0948 – My memory isn’t so good; \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940 \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0905\u091a\u094d\u091b\u093e \u0928\u0939\u0940\u0902 – It’s bad to use English – show that the noun phrases control agreement rather than the neutral form."
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
