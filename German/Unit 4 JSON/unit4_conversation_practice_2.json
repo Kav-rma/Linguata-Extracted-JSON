@@ -1,0 +1,160 @@
+[
+  {
+    "title": "unit4_conversation_practice_2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does K invite M to do?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To visit them",
+            "is_correct": true
+          },
+          {
+            "answer": "To go to the theater",
+            "is_correct": false
+          },
+          {
+            "answer": "To go shopping",
+            "is_correct": false
+          },
+          {
+            "answer": "To go to Munich",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "On which day does M first propose to visit?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Friday",
+            "is_correct": true
+          },
+          {
+            "answer": "Saturday",
+            "is_correct": false
+          },
+          {
+            "answer": "Sunday",
+            "is_correct": false
+          },
+          {
+            "answer": "Monday",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Why can't K host M on Friday?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are going to the theater",
+            "is_correct": true
+          },
+          {
+            "answer": "They are working",
+            "is_correct": false
+          },
+          {
+            "answer": "They are out of town",
+            "is_correct": false
+          },
+          {
+            "answer": "They have guests",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Why can't M come on Saturday?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He has an appointment",
+            "is_correct": true
+          },
+          {
+            "answer": "He is traveling",
+            "is_correct": false
+          },
+          {
+            "answer": "He is at the theater",
+            "is_correct": false
+          },
+          {
+            "answer": "He is visiting family",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which day do they finally decide on?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Sunday",
+            "is_correct": true
+          },
+          {
+            "answer": "Monday",
+            "is_correct": false
+          },
+          {
+            "answer": "Friday",
+            "is_correct": false
+          },
+          {
+            "answer": "Saturday",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "K: Wollen Sie uns nicht mal besuchen, Herr Meyer?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "M: Gern; passt es Ihnen am Freitag?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "K: Da passt es uns leider nicht; wir gehen ins Theater. Aber können Sie nicht am Sonnabend kommen?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "M: Da habe ich schon eine Verabredung."
+      },
+      {
+        "sequence_id": 5,
+        "text": "K: Dann sagen wir Sonntag; ist Ihnen das recht?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "M: Ja, da passt es mir gut."
+      }
+    ],
+    "metadata": {
+      "page_start": 106,
+      "page_end": 106,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

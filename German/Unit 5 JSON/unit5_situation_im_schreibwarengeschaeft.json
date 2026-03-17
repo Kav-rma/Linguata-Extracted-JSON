@@ -1,0 +1,286 @@
+{
+  "title": "unit5_situation_im_schreibwarengeschaeft",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Herr Keller go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To the bank",
+          "is_correct": false
+        },
+        {
+          "answer": "To Frau Schulze's stationery shop",
+          "is_correct": true
+        },
+        {
+          "answer": "To the post office",
+          "is_correct": false
+        },
+        {
+          "answer": "To his office",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does Herr Keller want to buy?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A typewriter",
+          "is_correct": false
+        },
+        {
+          "answer": "A hat",
+          "is_correct": false
+        },
+        {
+          "answer": "A pen, six pencils, and ink",
+          "is_correct": true
+        },
+        {
+          "answer": "A book and some stamps",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Who knows Herr Keller well?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herr Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Frau Schulze",
+          "is_correct": true
+        },
+        {
+          "answer": "Herr Becker",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Allen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why does Herr Keller need to write letters by hand?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His typewriter is broken",
+          "is_correct": true
+        },
+        {
+          "answer": "He has no ink",
+          "is_correct": false
+        },
+        {
+          "answer": "He prefers handwriting",
+          "is_correct": false
+        },
+        {
+          "answer": "He likes calligraphy",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Who comes in and wants stamps?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herr Jones",
+          "is_correct": true
+        },
+        {
+          "answer": "Herr Becker",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Allen",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Schneider",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Does Frau Schulze have any stamps?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, she does",
+          "is_correct": false
+        },
+        {
+          "answer": "No, she doesn't",
+          "is_correct": true
+        },
+        {
+          "answer": "Only a few",
+          "is_correct": false
+        },
+        {
+          "answer": "She has many",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Where does Herr Jones have to go to get stamps?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To the market",
+          "is_correct": false
+        },
+        {
+          "answer": "To the bank",
+          "is_correct": false
+        },
+        {
+          "answer": "To the post office in the city",
+          "is_correct": true
+        },
+        {
+          "answer": "To the library",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why is Herr Keller going to the city anyway?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He needs to work",
+          "is_correct": false
+        },
+        {
+          "answer": "He is going shopping",
+          "is_correct": false
+        },
+        {
+          "answer": "He is going anyway",
+          "is_correct": true
+        },
+        {
+          "answer": "He is visiting relatives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does Herr Keller do with Herr Jones?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He ignores him",
+          "is_correct": false
+        },
+        {
+          "answer": "He takes him along",
+          "is_correct": true
+        },
+        {
+          "answer": "He gives him money",
+          "is_correct": false
+        },
+        {
+          "answer": "He sends him to the store",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What items does Herr Keller want from the shop?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A novel and a newspaper",
+          "is_correct": false
+        },
+        {
+          "answer": "A typewriter and ink",
+          "is_correct": false
+        },
+        {
+          "answer": "A fountain pen, pencils and ink",
+          "is_correct": true
+        },
+        {
+          "answer": "A wallet and a map",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr Keller geht in Frau Schulzes Schreibwarengeschäft."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Er will einen Füller, sechs Bleistifte und Tinte haben."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Frau Schulze kennt ihn gut."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Er sagt, seine Schreibmaschine ist kaputt und er muss einige Briefe mit der Hand schreiben."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Herr Jones kommt herein, er möchte Briefmarken haben."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Die hat Frau Schulze nicht, er muss zur Post in die Stadt fahren."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Herr Keller fährt sowieso in die Stadt."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Er nimmt Herrn Jones gern mit."
+    }
+  ],
+  "metadata": {
+    "page_start": 134,
+    "page_end": 134,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

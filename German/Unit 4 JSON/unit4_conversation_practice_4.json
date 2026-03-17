@@ -1,0 +1,160 @@
+[
+  {
+    "title": "unit4_conversation_practice_4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What is A lacking at the beginning of the conversation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Cigarettes",
+            "is_correct": true
+          },
+          {
+            "answer": "A cigar",
+            "is_correct": false
+          },
+          {
+            "answer": "Money",
+            "is_correct": false
+          },
+          {
+            "answer": "A pipe",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Where is the cigar shop located?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "On the other side of the street",
+            "is_correct": true
+          },
+          {
+            "answer": "Next to the theater",
+            "is_correct": false
+          },
+          {
+            "answer": "Around the corner",
+            "is_correct": false
+          },
+          {
+            "answer": "In the same building",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Does A accept the offered cigar?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, he says he doesn't like cigars",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, he takes it",
+            "is_correct": false
+          },
+          {
+            "answer": "He takes half",
+            "is_correct": false
+          },
+          {
+            "answer": "He thanks and leaves",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What type of tobacco does A prefer most?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Cigarettes",
+            "is_correct": true
+          },
+          {
+            "answer": "Cigars",
+            "is_correct": false
+          },
+          {
+            "answer": "Pipes",
+            "is_correct": false
+          },
+          {
+            "answer": "Chewing tobacco",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does M say he prefers to smoke?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Cigars",
+            "is_correct": true
+          },
+          {
+            "answer": "Cigarettes",
+            "is_correct": false
+          },
+          {
+            "answer": "Pipes",
+            "is_correct": false
+          },
+          {
+            "answer": "No tobacco",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Ich habe keine Zigaretten bei mir. Ist hier in der Nähe ein Zigarrengeschäft?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "M: Ja, dort auf der anderen Seite der Straße. Aber darf ich Ihnen eine Zigarre anbieten?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Vielen Dank. Ich rauche nicht gern Zigarren."
+      },
+      {
+        "sequence_id": 4,
+        "text": "M: Rauchen Sie auch nicht Pfeife?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Doch, aber am liebsten rauche ich Zigaretten. Und Sie?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "M: Ich rauche lieber Zigarren."
+      }
+    ],
+    "metadata": {
+      "page_start": 106,
+      "page_end": 106,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

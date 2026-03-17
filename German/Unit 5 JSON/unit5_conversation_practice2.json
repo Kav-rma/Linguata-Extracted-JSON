@@ -1,0 +1,150 @@
+{
+  "title": "unit5_conversation_practice2",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How long have they lived in Frankfurt?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One year",
+          "is_correct": false
+        },
+        {
+          "answer": "Two years",
+          "is_correct": true
+        },
+        {
+          "answer": "Three years",
+          "is_correct": false
+        },
+        {
+          "answer": "Four years",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Why doesn't A have a car?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He doesn't like cars",
+          "is_correct": false
+        },
+        {
+          "answer": "He can't afford a car",
+          "is_correct": false
+        },
+        {
+          "answer": "He uses the bus or streetcar",
+          "is_correct": true
+        },
+        {
+          "answer": "He prefers to walk",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which modes of transportation does A use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Bus and streetcar",
+          "is_correct": true
+        },
+        {
+          "answer": "Taxi and airplane",
+          "is_correct": false
+        },
+        {
+          "answer": "Train and bicycle",
+          "is_correct": false
+        },
+        {
+          "answer": "Taxi and car",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Does A ever take a taxi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, never",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, occasionally when he is in a hurry",
+          "is_correct": true
+        },
+        {
+          "answer": "He always takes a taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "Only on weekends",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does A do when he is in a hurry?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He walks",
+          "is_correct": false
+        },
+        {
+          "answer": "He rides a bicycle",
+          "is_correct": false
+        },
+        {
+          "answer": "He takes a taxi",
+          "is_correct": true
+        },
+        {
+          "answer": "He takes a train",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "B: Sie wohnen doch schon seit zwei Jahren in Frankfurt. Warum haben Sie kein Auto?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "A: Ich nehme den Omnibus oder die Straßenbahn."
+    },
+    {
+      "sequence_id": 3,
+      "text": "B: Fahren Sie nie mit dem Taxi?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "A: Doch, ab und zu, wenn ich es eilig habe."
+    }
+  ],
+  "metadata": {
+    "page_start": 134,
+    "page_end": 134,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

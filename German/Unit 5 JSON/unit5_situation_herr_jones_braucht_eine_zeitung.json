@@ -1,0 +1,350 @@
+{
+  "title": "unit5_situation_herr_jones_braucht_eine_zeitung",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Whom does Herr Jones ring?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herrn Keller",
+          "is_correct": false
+        },
+        {
+          "answer": "Herrn Becker",
+          "is_correct": true
+        },
+        {
+          "answer": "Herrn Allen",
+          "is_correct": false
+        },
+        {
+          "answer": "Herrn Schneider",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does Herr Jones want to borrow?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A pen",
+          "is_correct": false
+        },
+        {
+          "answer": "A book",
+          "is_correct": false
+        },
+        {
+          "answer": "A newspaper",
+          "is_correct": true
+        },
+        {
+          "answer": "A typewriter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Does Herr Becker have a newspaper?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, he has many",
+          "is_correct": false
+        },
+        {
+          "answer": "No, he doesn't",
+          "is_correct": true
+        },
+        {
+          "answer": "He has one",
+          "is_correct": false
+        },
+        {
+          "answer": "He doesn't want to lend it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is Herr Becker about to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go to work",
+          "is_correct": false
+        },
+        {
+          "answer": "Go get a newspaper",
+          "is_correct": true
+        },
+        {
+          "answer": "Cook dinner",
+          "is_correct": false
+        },
+        {
+          "answer": "Visit Herr Keller",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Whom do they meet on the way?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herr Allen",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Keller",
+          "is_correct": true
+        },
+        {
+          "answer": "Herr Schneider",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Herr Keller show them?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A typewriter",
+          "is_correct": false
+        },
+        {
+          "answer": "Some books",
+          "is_correct": true
+        },
+        {
+          "answer": "A map",
+          "is_correct": false
+        },
+        {
+          "answer": "Some stamps",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is one of the books?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A dictionary",
+          "is_correct": false
+        },
+        {
+          "answer": "A novel by Goethe",
+          "is_correct": false
+        },
+        {
+          "answer": "A novel by Cocteau",
+          "is_correct": true
+        },
+        {
+          "answer": "A history book",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Do Herr Jones and Herr Becker know the novel?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they know it",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they don't",
+          "is_correct": true
+        },
+        {
+          "answer": "Only Herr Jones knows it",
+          "is_correct": false
+        },
+        {
+          "answer": "Only Herr Becker knows it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does Herr Keller like to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He writes a lot",
+          "is_correct": false
+        },
+        {
+          "answer": "He reads a lot",
+          "is_correct": true
+        },
+        {
+          "answer": "He watches movies",
+          "is_correct": false
+        },
+        {
+          "answer": "He plays games",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why doesn't Herr Becker accept the offered book?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He already has it",
+          "is_correct": false
+        },
+        {
+          "answer": "He doesn't like reading novels",
+          "is_correct": true
+        },
+        {
+          "answer": "He doesn't know the author",
+          "is_correct": false
+        },
+        {
+          "answer": "He doesn't need a book",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "What does Herr Becker prefer to read?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Magazines",
+          "is_correct": false
+        },
+        {
+          "answer": "Novels",
+          "is_correct": false
+        },
+        {
+          "answer": "Newspapers",
+          "is_correct": true
+        },
+        {
+          "answer": "Comics",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "What does Herr Jones want to borrow from Herr Keller?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A book",
+          "is_correct": true
+        },
+        {
+          "answer": "A newspaper",
+          "is_correct": false
+        },
+        {
+          "answer": "A pen",
+          "is_correct": false
+        },
+        {
+          "answer": "A typewriter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr Jones klingelt bei seinem Bekannten, Herrn Becker."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Er möchte sich eine Zeitung leihen."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Herr Becker hat leider keine, er will sich gerade eine holen."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Will Herr Jones mitkommen?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Unterwegs treffen sie Herrn Keller."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Herr Keller zeigt ihnen einige Bücher."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Eins der Bücher ist ein Roman von Cocteau."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Herr Jones und Herr Becker kennen den Roman nicht."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Herr Keller liest sehr viel."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Er bietet Herrn Becker eins seiner Bücher an, aber Herr Becker liest nicht gern Romane."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Er liest lieber Zeitungen."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Herr Jones möchte sich aber gern ein Buch von Herrn Keller leihen."
+    }
+  ],
+  "metadata": {
+    "page_start": 134,
+    "page_end": 134,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

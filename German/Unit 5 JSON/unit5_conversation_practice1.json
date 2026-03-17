@@ -1,0 +1,158 @@
+{
+  "title": "unit5_conversation_practice1",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where do they plan to meet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the train station",
+          "is_correct": false
+        },
+        {
+          "answer": "At the airport",
+          "is_correct": true
+        },
+        {
+          "answer": "At the hotel",
+          "is_correct": false
+        },
+        {
+          "answer": "At the theater",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When will they meet at the airport?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In one hour",
+          "is_correct": false
+        },
+        {
+          "answer": "In two hours",
+          "is_correct": true
+        },
+        {
+          "answer": "In three hours",
+          "is_correct": false
+        },
+        {
+          "answer": "In four hours",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How long before the flight to Berlin departs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In one hour",
+          "is_correct": false
+        },
+        {
+          "answer": "In two hours",
+          "is_correct": false
+        },
+        {
+          "answer": "In three hours",
+          "is_correct": true
+        },
+        {
+          "answer": "In four hours",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When will they arrive in Berlin?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In one hour",
+          "is_correct": true
+        },
+        {
+          "answer": "In two hours",
+          "is_correct": false
+        },
+        {
+          "answer": "In three hours",
+          "is_correct": false
+        },
+        {
+          "answer": "In four hours",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What city are they traveling to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Munich",
+          "is_correct": false
+        },
+        {
+          "answer": "Frankfurt",
+          "is_correct": false
+        },
+        {
+          "answer": "Berlin",
+          "is_correct": true
+        },
+        {
+          "answer": "Hamburg",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "B: Wann treffen wir uns am Flughafen?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "A: In zwei Stunden."
+    },
+    {
+      "sequence_id": 3,
+      "text": "B: Und wann fliegt der Flug nach Berlin ab?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "A: In drei Stunden."
+    },
+    {
+      "sequence_id": 5,
+      "text": "B: Wann kommen wir in Berlin an?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "A: Wir werden in einer Stunde in Berlin sein."
+    }
+  ],
+  "metadata": {
+    "page_start": 134,
+    "page_end": 134,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

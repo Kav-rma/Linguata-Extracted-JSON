@@ -1,0 +1,158 @@
+{
+  "title": "unit5_conversation_practice3",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does A prefer to live?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In a hotel",
+          "is_correct": false
+        },
+        {
+          "answer": "In a house",
+          "is_correct": false
+        },
+        {
+          "answer": "In an apartment",
+          "is_correct": true
+        },
+        {
+          "answer": "In a hostel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Does A want to buy a car?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, he wants to buy a car",
+          "is_correct": false
+        },
+        {
+          "answer": "No, he prefers to ride the streetcar",
+          "is_correct": true
+        },
+        {
+          "answer": "He already has a car",
+          "is_correct": false
+        },
+        {
+          "answer": "He wants to rent a car",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What form of transportation does A prefer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "Streetcar",
+          "is_correct": true
+        },
+        {
+          "answer": "Car",
+          "is_correct": false
+        },
+        {
+          "answer": "Bicycle",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When asked if he would rather walk or ride, what does A choose?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He prefers to ride",
+          "is_correct": false
+        },
+        {
+          "answer": "He prefers to walk",
+          "is_correct": true
+        },
+        {
+          "answer": "He takes a taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "He drives a car",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why does A prefer to walk?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because he's in a hurry",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it's nice outside",
+          "is_correct": true
+        },
+        {
+          "answer": "Because he doesn't like public transportation",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the car is broken",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "B: Möchten Sie lieber im Hotel wohnen?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "A: Nein, ich wohne lieber in einer Wohnung."
+    },
+    {
+      "sequence_id": 3,
+      "text": "B: Möchten Sie lieber ein Auto kaufen?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "A: Nein, ich fahre lieber mit der Straßenbahn."
+    },
+    {
+      "sequence_id": 5,
+      "text": "B: Möchten Sie lieber gehen oder fahren?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "A: Es ist so schön draußen. Ich möchte lieber zu Fuß gehen."
+    }
+  ],
+  "metadata": {
+    "page_start": 134,
+    "page_end": 134,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

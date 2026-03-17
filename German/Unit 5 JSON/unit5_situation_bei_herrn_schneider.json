@@ -1,0 +1,286 @@
+{
+  "title": "unit5_situation_bei_herrn_schneider",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Herr Allen ring?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the post office",
+          "is_correct": false
+        },
+        {
+          "answer": "At Frau Schulze's shop",
+          "is_correct": false
+        },
+        {
+          "answer": "At Herr Schneider's on the second floor",
+          "is_correct": true
+        },
+        {
+          "answer": "At the train station",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does Herr Allen want to borrow?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A book",
+          "is_correct": false
+        },
+        {
+          "answer": "A typewriter",
+          "is_correct": true
+        },
+        {
+          "answer": "Some pencils",
+          "is_correct": false
+        },
+        {
+          "answer": "A car",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why does Herr Allen need a typewriter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He wants to write a novel",
+          "is_correct": false
+        },
+        {
+          "answer": "He has some letters to write",
+          "is_correct": true
+        },
+        {
+          "answer": "He needs to learn typing",
+          "is_correct": false
+        },
+        {
+          "answer": "He is fixing it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Is Herr Allen's typewriter available?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it's at home",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it's still on the way",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, it's at the office",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it is broken",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does Herr Schneider invite Herr Allen to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Stay for dinner",
+          "is_correct": false
+        },
+        {
+          "answer": "Come in for a moment",
+          "is_correct": true
+        },
+        {
+          "answer": "Drive to the city",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to the bank",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where does Herr Schneider work?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the bank",
+          "is_correct": false
+        },
+        {
+          "answer": "At the consulate",
+          "is_correct": true
+        },
+        {
+          "answer": "At a newspaper",
+          "is_correct": false
+        },
+        {
+          "answer": "At a school",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does Herr Schneider ask Herr Allen about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His family history",
+          "is_correct": false
+        },
+        {
+          "answer": "His travel plans",
+          "is_correct": false
+        },
+        {
+          "answer": "His department, origins, and hometown",
+          "is_correct": true
+        },
+        {
+          "answer": "His favorite food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How does Herr Allen feel about Frankfurt?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He dislikes it",
+          "is_correct": false
+        },
+        {
+          "answer": "He loves it",
+          "is_correct": true
+        },
+        {
+          "answer": "He doesn't care",
+          "is_correct": false
+        },
+        {
+          "answer": "He wants to leave",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What else does Herr Allen like?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His work",
+          "is_correct": true
+        },
+        {
+          "answer": "Travelling",
+          "is_correct": false
+        },
+        {
+          "answer": "Gardening",
+          "is_correct": false
+        },
+        {
+          "answer": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does Herr Schneider say at the end?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "See you tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "Auf Wiedersehen, take the typewriter with you",
+          "is_correct": true
+        },
+        {
+          "answer": "Good night",
+          "is_correct": false
+        },
+        {
+          "answer": "I'll meet you at the office",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr Allen klingelt bei Herrn Schneider in der zweiten Etage."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Er möchte sich Herrn Schneiders Schreibmaschine leihen."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Er muss nämlich einige Briefe schreiben und seine Schreibmaschine ist noch unterwegs."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Herr Schneider will ihm die Schreibmaschine gern leihen, aber will Herr Allen nicht für einen Augenblick hereinkommen?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Herr Schneider arbeitet auch im Konsulat und möchte wissen, in welcher Abteilung Herr Allen arbeitet."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Er fragt ihn auch, woher er kommt, wo seine Heimatstadt ist, usw."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Allens gefällt es in Frankfurt sehr gut, und Herrn Allen gefällt auch seine Arbeit."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Dann sagt er Auf Wiedersehen; die Schreibmaschine kann er gleich mitnehmen."
+    }
+  ],
+  "metadata": {
+    "page_start": 134,
+    "page_end": 134,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

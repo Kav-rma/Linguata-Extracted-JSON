@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unit4_conversation_practice_1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which drink does M say he would prefer at the moment?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Bier",
+            "is_correct": false
+          },
+          {
+            "answer": "Wein",
+            "is_correct": false
+          },
+          {
+            "answer": "Kaffee",
+            "is_correct": true
+          },
+          {
+            "answer": "Wasser",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What two drinks does M say he enjoys most?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Bier und Wein",
+            "is_correct": true
+          },
+          {
+            "answer": "Kaffee und Saft",
+            "is_correct": false
+          },
+          {
+            "answer": "Wein und Wasser",
+            "is_correct": false
+          },
+          {
+            "answer": "Bier und Milch",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What does J ask M initially?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Whether he would like beer or wine",
+            "is_correct": true
+          },
+          {
+            "answer": "If he wants coffee",
+            "is_correct": false
+          },
+          {
+            "answer": "Whether he likes tea",
+            "is_correct": false
+          },
+          {
+            "answer": "If he likes water",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Does M like to drink beer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes, he likes beer very much",
+            "is_correct": true
+          },
+          {
+            "answer": "No, he doesn't like beer",
+            "is_correct": false
+          },
+          {
+            "answer": "He only drinks wine",
+            "is_correct": false
+          },
+          {
+            "answer": "He only drinks coffee",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which drink does M say he likes even more than beer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wein",
+            "is_correct": true
+          },
+          {
+            "answer": "Kaffee",
+            "is_correct": false
+          },
+          {
+            "answer": "Wasser",
+            "is_correct": false
+          },
+          {
+            "answer": "Bier",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "J: Was möchten Sie trinken, Bier oder Wein?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "M: Ich glaube, ich trinke jetzt lieber Kaffee."
+      },
+      {
+        "sequence_id": 3,
+        "text": "J: Ach, trinken Sie nicht gern Bier?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "M: Doch, ich trinke Bier sehr gern und Wein sogar noch lieber. Aber jetzt möchte ich am liebsten Kaffee trinken."
+      }
+    ],
+    "metadata": {
+      "page_start": 106,
+      "page_end": 106,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

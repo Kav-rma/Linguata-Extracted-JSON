@@ -1,0 +1,168 @@
+[
+  {
+    "title": "unit4_conversation_practice_3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who asks whether the listener knows Mr. Jones?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "K",
+            "is_correct": true
+          },
+          {
+            "answer": "S",
+            "is_correct": false
+          },
+          {
+            "answer": "J",
+            "is_correct": false
+          },
+          {
+            "answer": "M",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "In which department does Mr. Jones currently work?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In the Visa section",
+            "is_correct": true
+          },
+          {
+            "answer": "In the Consulate's main office",
+            "is_correct": false
+          },
+          {
+            "answer": "In the embassy",
+            "is_correct": false
+          },
+          {
+            "answer": "In the visa application center",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Is Mr. Jones's wife German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, she is American",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, she is German",
+            "is_correct": false
+          },
+          {
+            "answer": "Yes, she is Austrian",
+            "is_correct": false
+          },
+          {
+            "answer": "No, she is French",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How long will Mr. Jones stay in Bremen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Only four more weeks",
+            "is_correct": true
+          },
+          {
+            "answer": "Two weeks",
+            "is_correct": false
+          },
+          {
+            "answer": "Six weeks",
+            "is_correct": false
+          },
+          {
+            "answer": "One year",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is S's final request?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To give Mr. Jones his regards",
+            "is_correct": true
+          },
+          {
+            "answer": "To invite Mr. Jones",
+            "is_correct": false
+          },
+          {
+            "answer": "To give Mr. Jones a letter",
+            "is_correct": false
+          },
+          {
+            "answer": "To fetch Mr. Jones",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "K: Kennen Sie eigentlich Herrn Jones?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "S: Ja. Er arbeitet doch auch im Generalkonsulat, nicht wahr?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "K: Er ist jetzt in der Visa-Abteilung."
+      },
+      {
+        "sequence_id": 4,
+        "text": "S: Ist seine Frau nicht Deutsche?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "K: Nein, sie ist Amerikanerin."
+      },
+      {
+        "sequence_id": 6,
+        "text": "S: Wie lange bleibt Herr Jones noch in Bremen?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "K: Leider nur noch vier Wochen."
+      },
+      {
+        "sequence_id": 8,
+        "text": "S: Grüssen Sie ihn bitte von mir."
+      }
+    ],
+    "metadata": {
+      "page_start": 106,
+      "page_end": 106,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

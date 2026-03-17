@@ -1,0 +1,158 @@
+{
+  "title": "unit5_conversation_practice4",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does A invite B to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go to the opera",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to the cinema",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to the theater",
+          "is_correct": true
+        },
+        {
+          "answer": "Go to a concert",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does B prefer to do instead of going to the theater?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go to the opera",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to the cinema",
+          "is_correct": true
+        },
+        {
+          "answer": "Stay at home",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to a concert",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does B want to see at the theater?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A play",
+          "is_correct": false
+        },
+        {
+          "answer": "An opera",
+          "is_correct": true
+        },
+        {
+          "answer": "A ballet",
+          "is_correct": false
+        },
+        {
+          "answer": "A concert",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Does B like going to the opera?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, never",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, but not right now",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "He prefers concerts",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why doesn't B want to go to the theater right now?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is tired",
+          "is_correct": false
+        },
+        {
+          "answer": "The weather is bad",
+          "is_correct": false
+        },
+        {
+          "answer": "The opera is a very long piece",
+          "is_correct": true
+        },
+        {
+          "answer": "He doesn't like the theater",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "A: Möchten Sie heute Abend mit mir ins Theater gehen?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "B: Ich möchte lieber ins Kino gehen."
+    },
+    {
+      "sequence_id": 3,
+      "text": "A: Was möchten Sie im Theater sehen?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "B: Ich möchte eine Oper sehen."
+    },
+    {
+      "sequence_id": 5,
+      "text": "A: Gehen Sie nicht gern in die Oper?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "B: Doch, aber im Augenblick spielt die Oper ein sehr langes Stück."
+    }
+  ],
+  "metadata": {
+    "page_start": 134,
+    "page_end": 134,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

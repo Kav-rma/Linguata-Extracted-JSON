@@ -1,0 +1,308 @@
+[
+  {
+    "title": "unit5_narrative",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What is Herr Wilson's destination?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The post office",
+            "is_correct": false
+          },
+          {
+            "answer": "The consulate",
+            "is_correct": true
+          },
+          {
+            "answer": "The bank",
+            "is_correct": false
+          },
+          {
+            "answer": "The restaurant",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What items does Herr Wilson want to buy for his children at the stationery store?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Three notebooks and pens",
+            "is_correct": false
+          },
+          {
+            "answer": "Two pens, an eraser and a ruler",
+            "is_correct": true
+          },
+          {
+            "answer": "A map and postcards",
+            "is_correct": false
+          },
+          {
+            "answer": "Stamps and envelopes",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Whom does Herr Wilson ask about the picture magazines?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Meyer",
+            "is_correct": false
+          },
+          {
+            "answer": "The sales clerk",
+            "is_correct": true
+          },
+          {
+            "answer": "His wife",
+            "is_correct": false
+          },
+          {
+            "answer": "His children",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does Herr Wilson buy for his wife?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A picture magazine",
+            "is_correct": true
+          },
+          {
+            "answer": "A ballpoint pen",
+            "is_correct": false
+          },
+          {
+            "answer": "A map",
+            "is_correct": false
+          },
+          {
+            "answer": "A typewriter",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Who does Herr Wilson meet on the street?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Becker",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Meyer",
+            "is_correct": true
+          },
+          {
+            "answer": "Herr Jones",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Schneider",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Where will Herr Meyer travel next month?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Paris",
+            "is_correct": false
+          },
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "New York",
+            "is_correct": true
+          },
+          {
+            "answer": "London",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Why are Herr Wilson and Herr Meyer going to the consulate together?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To buy tickets",
+            "is_correct": false
+          },
+          {
+            "answer": "To pick up a visa",
+            "is_correct": true
+          },
+          {
+            "answer": "To meet friends",
+            "is_correct": false
+          },
+          {
+            "answer": "To mail letters",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What does Herr Wilson ask Herr Meyer to do in New York?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Visit his children",
+            "is_correct": false
+          },
+          {
+            "answer": "Visit his parents-in-law",
+            "is_correct": true
+          },
+          {
+            "answer": "Buy him a typewriter",
+            "is_correct": false
+          },
+          {
+            "answer": "Find him an apartment",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What will Herr Wilson's parents-in-law do for Herr Meyer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Show him around the city",
+            "is_correct": true
+          },
+          {
+            "answer": "Give him money",
+            "is_correct": false
+          },
+          {
+            "answer": "Offer him a job",
+            "is_correct": false
+          },
+          {
+            "answer": "Teach him German",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What happens at the end of the narrative?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They cancel their trip",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Wilson gives Herr Meyer his address and they say goodbye",
+            "is_correct": true
+          },
+          {
+            "answer": "They get lost in the city",
+            "is_correct": false
+          },
+          {
+            "answer": "They decide to go shopping",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Herr Wilson fährt zum Konsulat."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Er will aber vorher noch im Papiergeschäft zwei Kugelschreiber, einen Radiergummi und ein Lineal für seine Kinder kaufen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Er fragt den Verkäufer, wo die Illustrierten sind."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Der zeigt sie ihm und Herr Wilson kauft eine für seine Frau."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Er trifft Herrn Meyer auf der Strasse."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Sie kennen sich gut."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Herr Meyer erzählt Herrn Wilson, dass er eine Geschäftsreise nach Amerika machen muss."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Er fährt nächsten Monat nach New York."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Die Herren fahren zusammen zum Konsulat."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Herr Meyer will sich sein Visum dort abholen."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Herr Wilson bittet ihn, seine Schwiegereltern in New York zu besuchen."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Sie zeigen Herrn Meyer bestimmt gern die Stadt."
+      },
+      {
+        "sequence_id": 13,
+        "text": "Er gibt ihm die Adresse und dann verabschieden sich die Herren."
+      }
+    ],
+    "metadata": {
+      "page_start": 130,
+      "page_end": 130,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]
