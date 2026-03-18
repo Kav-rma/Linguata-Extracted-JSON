@@ -1,0 +1,304 @@
+[
+  {
+    "title": "unit8_situation_im_damenkonfektionsgeschaeft",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where do Herr and Frau Jones see a nice jacket?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In the window of a women's clothing store",
+            "is_correct": true
+          },
+          {
+            "answer": "In a supermarket",
+            "is_correct": false
+          },
+          {
+            "answer": "At home",
+            "is_correct": false
+          },
+          {
+            "answer": "At a cafe",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does Frau Jones want after seeing the jacket?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Something similar",
+            "is_correct": true
+          },
+          {
+            "answer": "A hat",
+            "is_correct": false
+          },
+          {
+            "answer": "A new car",
+            "is_correct": false
+          },
+          {
+            "answer": "Nothing",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Who asks Frau Jones what she would like?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The saleswoman",
+            "is_correct": true
+          },
+          {
+            "answer": "Her husband",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Schmidt",
+            "is_correct": false
+          },
+          {
+            "answer": "The cashier",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Does the jacket fit Frau Jones?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, it doesn't",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, perfectly",
+            "is_correct": false
+          },
+          {
+            "answer": "She doesn't try it on",
+            "is_correct": false
+          },
+          {
+            "answer": "It is too big",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How does Frau Jones feel about the other jackets she tries on?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "She doesn't like them",
+            "is_correct": true
+          },
+          {
+            "answer": "She loves them",
+            "is_correct": false
+          },
+          {
+            "answer": "They are too small",
+            "is_correct": false
+          },
+          {
+            "answer": "They are very expensive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Does the store have a large selection?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, it doesn't",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, it has a lot",
+            "is_correct": false
+          },
+          {
+            "answer": "Only hats",
+            "is_correct": false
+          },
+          {
+            "answer": "Only jackets",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Does Frau Jones buy anything?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, she doesn't",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, she buys the jacket",
+            "is_correct": false
+          },
+          {
+            "answer": "She buys a scarf",
+            "is_correct": false
+          },
+          {
+            "answer": "She buys two jackets",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Where do Herr and Frau Jones go after seeing the jacket?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Into the store",
+            "is_correct": true
+          },
+          {
+            "answer": "To the bank",
+            "is_correct": false
+          },
+          {
+            "answer": "To a restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "Back home",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Why can't Frau Jones buy the jacket she saw?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It doesn't fit and the store has no large selection",
+            "is_correct": true
+          },
+          {
+            "answer": "It is too cheap",
+            "is_correct": false
+          },
+          {
+            "answer": "She forgets her money",
+            "is_correct": false
+          },
+          {
+            "answer": "Her husband says no",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Who is with Frau Jones on this shopping trip?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Her husband",
+            "is_correct": true
+          },
+          {
+            "answer": "Her friend",
+            "is_correct": false
+          },
+          {
+            "answer": "Her sister",
+            "is_correct": false
+          },
+          {
+            "answer": "No one",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Herr und Frau Jones machen Besorgungen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Im Schaufenster eines Damenkonfektionsgeschäfts sieht Frau Jones eine nette Jacke."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Sie möchte gern etwas Ähnliches haben."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Sie gehen in das Geschäft und die Verkäuferin fragt sie, was sie haben möchte."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Frau Jones sagt, die Jacke im Schaufenster gefällt ihr gut."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Hoffentlich kann sie sie in ihrer Grösse bekommen."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Die Verkäuferin zeigt ihr eine ähnliche Jacke."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Frau Jones will sie anprobieren."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Leider passt sie ihr nicht."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Sie probiert noch einige andere Jacken an, aber sie gefallen Frau Jones nicht gut."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Leider hat das Geschäft keine grosse Auswahl."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Frau Jones kauft nichts."
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

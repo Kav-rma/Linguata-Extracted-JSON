@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit9_time_expressions",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which prepositions require the dative form in time expressions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "an and in",
+            "is_correct": true
+          },
+          {
+            "answer": "für and mit",
+            "is_correct": false
+          },
+          {
+            "answer": "über and unter",
+            "is_correct": false
+          },
+          {
+            "answer": "durch and gegen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which sentence is an example of an independent noun phrase expressing time?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Letzten Sommer waren wir an der Ostsee",
+            "is_correct": true
+          },
+          {
+            "answer": "Kommen Sie doch mal am nächsten Sonntag zu uns",
+            "is_correct": false
+          },
+          {
+            "answer": "In den Sommermonaten ist es heisser als hier",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich muss in einer halben Stunde meine Frau abholen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What is the meaning of 'Wir fahren im August nach Deutschland'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "We're going to Germany in August",
+            "is_correct": true
+          },
+          {
+            "answer": "We went to Germany last August",
+            "is_correct": false
+          },
+          {
+            "answer": "We go to Germany every August",
+            "is_correct": false
+          },
+          {
+            "answer": "We're going to Germany in October",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does the phrase 'Ein Wochenende im Juli' illustrate?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A time expression using the preposition 'in' with dative",
+            "is_correct": true
+          },
+          {
+            "answer": "A past tense verb phrase",
+            "is_correct": false
+          },
+          {
+            "answer": "A comparative expression",
+            "is_correct": false
+          },
+          {
+            "answer": "A future phrase",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What form do nouns for months take in German time expressions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are der-words and usually preceded by a specifier",
+            "is_correct": true
+          },
+          {
+            "answer": "They are die-words and always indefinite",
+            "is_correct": false
+          },
+          {
+            "answer": "They are neuter words with no article",
+            "is_correct": false
+          },
+          {
+            "answer": "They take the accusative ending",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence correctly uses 'für' with the accusative to indicate time?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Danke, aber nur für einen Augenblick",
+            "is_correct": true
+          },
+          {
+            "answer": "Kommen Sie am nächsten Sonntag",
+            "is_correct": false
+          },
+          {
+            "answer": "Letzten Sommer waren wir an der Ostsee",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich bin den ganzen Nachmittag in meinem Büro",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which of the following sentences shows a dative prepositional phrase with 'an'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Kommen Sie doch mal am nächsten Sonntag zu uns",
+            "is_correct": true
+          },
+          {
+            "answer": "Wir fahren im August nach Deutschland",
+            "is_correct": false
+          },
+          {
+            "answer": "Letzten Sommer waren wir an der Ostsee",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich fahre jeden Sommer ins Gebirge",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What is the correct translation of 'Kommen Sie doch mal am nächsten Sonntag zu uns'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Why don't you come to see us next Sunday?",
+            "is_correct": true
+          },
+          {
+            "answer": "Let's meet on Sunday",
+            "is_correct": false
+          },
+          {
+            "answer": "Come to see us every Sunday",
+            "is_correct": false
+          },
+          {
+            "answer": "We are coming next Sunday",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which month is mentioned as always lovely?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Mai",
+            "is_correct": true
+          },
+          {
+            "answer": "Januar",
+            "is_correct": false
+          },
+          {
+            "answer": "Oktober",
+            "is_correct": false
+          },
+          {
+            "answer": "Dezember",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which list correctly enumerates some German month names?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "der Januar, der Februar, der März",
+            "is_correct": true
+          },
+          {
+            "answer": "der Juni, der Dienstag, der Juli",
+            "is_correct": false
+          },
+          {
+            "answer": "der April, die Mai, der Juni",
+            "is_correct": false
+          },
+          {
+            "answer": "der August, der Freitag, der Samstag",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Time Expressions\n\nNoun phrases in time expressions are of two main types: prepositional phrases and independent noun phrases.\n\n1. Prepositional phrases with an and in have the dative form; prepositional phrases with für have the accusative form:\nKommen Sie doch mal am nächsten Sonntag zu uns. – Why don't you come to see us next Sunday?\nIn den Sommermonaten ist es heisser als hier. – In the summer months it's hotter than it is here.\nIch muss in einer halben Stunde meine Frau abholen. – I have to pick up my wife in half an hour.\nWollen Sie nicht Platz nehmen? – Won't you sit down?\nDanke, aber nur für einen Augenblick. – Thanks, but only for a minute.\n\n2. Independent noun phrases usually have the accusative form:\nFahren Sie jeden Sommer ins Gebirge? – Do you go to the mountains every summer?\nLetzten Sommer waren wir an der Ostsee. – Last summer we were on the Baltic.\nIch bin den ganzen Nachmittag in meinem Büro. – I'll be in my office all afternoon.\n\nThe names of the months are nearly always preceded by a form of the specifier in German. All are der-words:\nEin Wochenende im Juli. – A weekend in July.\nDer Mai ist immer schön. – May is always lovely.\nWir fahren im August nach Deutschland. – We're going to Germany in August.\nHere is the complete list:\nder Januar, der Februar, der März, der April, der Mai, der Juni, der Juli, der August, der September, der Oktober, der November, der Dezember."
+      }
+    ],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 11,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

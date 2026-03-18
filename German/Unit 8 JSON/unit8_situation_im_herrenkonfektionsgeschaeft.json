@@ -1,0 +1,288 @@
+[
+  {
+    "title": "unit8_situation_im_herrenkonfektionsgeschaeft",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does Herr Jones want to buy?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Some sports shirts and ties",
+            "is_correct": true
+          },
+          {
+            "answer": "Furniture",
+            "is_correct": false
+          },
+          {
+            "answer": "Books",
+            "is_correct": false
+          },
+          {
+            "answer": "Shoes",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "How many shirts does Herr Jones choose?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Four",
+            "is_correct": true
+          },
+          {
+            "answer": "Two",
+            "is_correct": false
+          },
+          {
+            "answer": "Five",
+            "is_correct": false
+          },
+          {
+            "answer": "One",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What kinds of shirts does the salesperson show him?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "All colors, patterned and plain",
+            "is_correct": true
+          },
+          {
+            "answer": "Only white shirts",
+            "is_correct": false
+          },
+          {
+            "answer": "Only black shirts",
+            "is_correct": false
+          },
+          {
+            "answer": "Only striped shirts",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What kind of tie is Herr Jones looking for?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A patterned tie",
+            "is_correct": true
+          },
+          {
+            "answer": "A plain tie",
+            "is_correct": false
+          },
+          {
+            "answer": "A red tie",
+            "is_correct": false
+          },
+          {
+            "answer": "A bow tie",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Does Herr Jones find a suitable tie?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes, he does",
+            "is_correct": true
+          },
+          {
+            "answer": "No, he doesn't",
+            "is_correct": false
+          },
+          {
+            "answer": "He buys two ties",
+            "is_correct": false
+          },
+          {
+            "answer": "He forgets",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What color suit does the tie match?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Light gray",
+            "is_correct": true
+          },
+          {
+            "answer": "Black",
+            "is_correct": false
+          },
+          {
+            "answer": "Blue",
+            "is_correct": false
+          },
+          {
+            "answer": "Brown",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Who gives Herr Jones the receipt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The salesperson",
+            "is_correct": true
+          },
+          {
+            "answer": "His wife",
+            "is_correct": false
+          },
+          {
+            "answer": "The cashier",
+            "is_correct": false
+          },
+          {
+            "answer": "A friend",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Where does Herr Jones pay for his purchases?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At the cash desk",
+            "is_correct": true
+          },
+          {
+            "answer": "Online",
+            "is_correct": false
+          },
+          {
+            "answer": "At home",
+            "is_correct": false
+          },
+          {
+            "answer": "He doesn't pay",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Does Herr Jones buy more than one tie?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, he buys only one",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, two ties",
+            "is_correct": false
+          },
+          {
+            "answer": "Yes, three ties",
+            "is_correct": false
+          },
+          {
+            "answer": "No ties",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Are the shirts shown in many colors?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes, in all colors",
+            "is_correct": true
+          },
+          {
+            "answer": "Only blue",
+            "is_correct": false
+          },
+          {
+            "answer": "Only red",
+            "is_correct": false
+          },
+          {
+            "answer": "Only green",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Herr Jones will sich einige Sporthemden und Krawatten kaufen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Er geht in ein Geschäft und der Verkäufer zeigt ihm Hemden in allen Farben, gemusterte und einfarbige."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Herr Jones nimmt vier Hemden."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Dann sieht er sich die Krawatten an."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Er sucht eine gemusterte Krawatte."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Endlich findet er eine."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Die passt auch zu seinem hellgrauen Anzug."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Der Verkäufer gibt ihm den Kassenzettel und Herr Jones geht zur Kasse und bezahlt."
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

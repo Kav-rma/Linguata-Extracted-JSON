@@ -1,0 +1,140 @@
+[
+  {
+    "title": "unit9_specifier_jeder",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What type of specifier is 'jeder' in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A der-type specifier",
+            "is_correct": true
+          },
+          {
+            "answer": "An ein-type specifier",
+            "is_correct": false
+          },
+          {
+            "answer": "A preposition",
+            "is_correct": false
+          },
+          {
+            "answer": "A verb",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which sentence uses 'jeder' correctly?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Jeder deutsche Photoapparat kostet in Deutschland weniger als in Amerika",
+            "is_correct": true
+          },
+          {
+            "answer": "Jeder Deutsch Photoapparat kosten weniger",
+            "is_correct": false
+          },
+          {
+            "answer": "Jeder die Photoapparat kostet weniger",
+            "is_correct": false
+          },
+          {
+            "answer": "Jeder Photoapparat deutscher kostet weniger",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What does 'jeder' mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "each, every",
+            "is_correct": true
+          },
+          {
+            "answer": "some",
+            "is_correct": false
+          },
+          {
+            "answer": "their",
+            "is_correct": false
+          },
+          {
+            "answer": "none",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which other specifiers function the same way as 'jeder'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "der, dieser and welcher",
+            "is_correct": true
+          },
+          {
+            "answer": "ein, kein, mein",
+            "is_correct": false
+          },
+          {
+            "answer": "wo, wann, wie",
+            "is_correct": false
+          },
+          {
+            "answer": "gut, besser, best",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which of the following sentences best translates 'Every German camera costs less in Germany than in America'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Jeder deutsche Photoapparat kostet in Deutschland weniger als in Amerika",
+            "is_correct": true
+          },
+          {
+            "answer": "Jeder deutsche Photoapparat kostet weniger wie in Deutschland",
+            "is_correct": false
+          },
+          {
+            "answer": "Jeder deutscher Photoapparat kosten weniger als Amerika",
+            "is_correct": false
+          },
+          {
+            "answer": "Ein deutsches Photoapparat kostet weniger wie Amerika",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Specifiers: jeder\n\nJeder (‘each, every’) should be added to the list of der‑type specifiers presented in Unit 3. It has the same endings and functions in the same way as der, dieser and welcher.\n\nJeder deutsche Photoapparat kostet in Deutschland weniger als in Amerika. – Every German camera costs less in Germany than in America."
+      }
+    ],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 11,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

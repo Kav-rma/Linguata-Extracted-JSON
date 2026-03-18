@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit9_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What is the simplest way to convert meters to feet according to the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Multiply by 10 and divide by 3",
+            "is_correct": true
+          },
+          {
+            "answer": "Multiply by 3 and divide by 10",
+            "is_correct": false
+          },
+          {
+            "answer": "Multiply by 4 and divide by 2",
+            "is_correct": false
+          },
+          {
+            "answer": "Divide by 40",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which part of Germany does the Baltic coast north of Lübeck belong to?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The Federal Republic",
+            "is_correct": true
+          },
+          {
+            "answer": "Eastern Germany",
+            "is_correct": false
+          },
+          {
+            "answer": "Both East and West equally",
+            "is_correct": false
+          },
+          {
+            "answer": "It is an independent state",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What does the variant 'öfters' mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Fairly often or quite often",
+            "is_correct": true
+          },
+          {
+            "answer": "More often",
+            "is_correct": false
+          },
+          {
+            "answer": "Not often",
+            "is_correct": false
+          },
+          {
+            "answer": "Rarely",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What is implied by the comparative adverb 'öfter'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A comparison of frequency",
+            "is_correct": true
+          },
+          {
+            "answer": "Absolute frequency",
+            "is_correct": false
+          },
+          {
+            "answer": "Negative frequency",
+            "is_correct": false
+          },
+          {
+            "answer": "No implication",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which expressions demonstrate a dative form with an adjective?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Das ist mir recht and Ist Ihnen diese Krawatte zu auffällig?",
+            "is_correct": true
+          },
+          {
+            "answer": "Das ist gut and Es ist warm",
+            "is_correct": false
+          },
+          {
+            "answer": "Wir fahren schnell and Wir essen gern",
+            "is_correct": false
+          },
+          {
+            "answer": "Er hat Hunger and Sie hat Durst",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What kind of construction is 'mir ist kalt' in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "An impersonal construction with no grammatical subject",
+            "is_correct": true
+          },
+          {
+            "answer": "A reflexive construction",
+            "is_correct": false
+          },
+          {
+            "answer": "A passive construction",
+            "is_correct": false
+          },
+          {
+            "answer": "An active construction with a subject",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What is the approximate conversion of one meter to inches according to the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Approximately 40 inches",
+            "is_correct": true
+          },
+          {
+            "answer": "Approximately 30 inches",
+            "is_correct": false
+          },
+          {
+            "answer": "Approximately 50 inches",
+            "is_correct": false
+          },
+          {
+            "answer": "Approximately 20 inches",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Where are many of the formerly well-known Baltic resorts located?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Eastern Germany",
+            "is_correct": true
+          },
+          {
+            "answer": "The Federal Republic",
+            "is_correct": false
+          },
+          {
+            "answer": "Northern France",
+            "is_correct": false
+          },
+          {
+            "answer": "Western Austria",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What is the direct English translation of 'öfter' as mentioned in the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "More often",
+            "is_correct": true
+          },
+          {
+            "answer": "Fairly often",
+            "is_correct": false
+          },
+          {
+            "answer": "Always",
+            "is_correct": false
+          },
+          {
+            "answer": "Never",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which grammatical case appears in the expressions 'Das ist mir recht' and 'Ist Ihnen diese Krawatte zu auffällig?'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Dative",
+            "is_correct": true
+          },
+          {
+            "answer": "Accusative",
+            "is_correct": false
+          },
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Meter. Since one meter very nearly equals 40 inches, the simplest way of calculating an equivalent number of feet is to multiply by 10 and divide by 3.\nDie Ostsee. The Baltic coast north of Lübeck is part of the Federal Republic. Many of the formerly well-known resorts however are in Eastern Germany.\nÖfters is a variant form of öfter, the comparative of the adverb oft (see page 236). Öfters means 'fairly often, quite often', while öfter means literally 'more often', and implies a comparison.\nThe occurrence of a dative form with an adjective is already familiar in such expressions as: Das ist mir recht and Ist Ihnen diese Krawatte zu auffällig? The construction mir ist kalt is an impersonal one which has no actual grammatical subject."
+      }
+    ],
+    "metadata": {
+      "page_start": 6,
+      "page_end": 6,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

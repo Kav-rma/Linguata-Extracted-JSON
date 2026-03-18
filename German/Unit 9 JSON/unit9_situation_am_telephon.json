@@ -1,0 +1,145 @@
+[
+  {
+    "title": "unit9_situation_am_telephon",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wer spricht miteinander am Telefon?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Herr Müller und Herr Becker", "is_correct": true},
+          {"answer": "Herr Becker und Herr Schulze", "is_correct": false},
+          {"answer": "Herr Müller und Herr Wilson", "is_correct": false},
+          {"answer": "Frau Becker und Herr Müller", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was fragt Herr Müller Herrn Becker?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Wie es ihm geht und wie es ihm in Frankfurt gefällt", "is_correct": true},
+          {"answer": "Ob er nach München fährt", "is_correct": false},
+          {"answer": "Ob er gesund ist", "is_correct": false},
+          {"answer": "Wann er zurückkommt", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wie beschreibt Herr Becker seinen Aufenthalt in Frankfurt?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Es gefällt ihm gut, aber das Wetter ist schlecht", "is_correct": true},
+          {"answer": "Er mag Frankfurt nicht", "is_correct": false},
+          {"answer": "Es regnet nie", "is_correct": false},
+          {"answer": "Es ist zu kalt", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wie ist das Wetter derzeit in Frankfurt?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Es regnet sehr viel", "is_correct": true},
+          {"answer": "Es schneit", "is_correct": false},
+          {"answer": "Es ist sonnig", "is_correct": false},
+          {"answer": "Es ist windig", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was möchte Herr Becker wissen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Wie das Wetter in Süddeutschland ist", "is_correct": true},
+          {"answer": "Wann Herr Müller nach Frankfurt kommt", "is_correct": false},
+          {"answer": "Wie hoch die Zugspitze ist", "is_correct": false},
+          {"answer": "Ob es in Frankfurt ein Hotel gibt", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Was sagt Herr Müller über das Wetter in Süddeutschland?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Es ist wärmer als in den letzten Tagen und hoffentlich bleibt es so", "is_correct": true},
+          {"answer": "Es ist kälter als in Frankfurt", "is_correct": false},
+          {"answer": "Es gibt viel Schnee", "is_correct": false},
+          {"answer": "Es regnet die ganze Zeit", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Wann muss Herr Becker nach München fahren?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "In drei Tagen", "is_correct": true},
+          {"answer": "Morgen", "is_correct": false},
+          {"answer": "Nächste Woche", "is_correct": false},
+          {"answer": "Heute", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Warum fährt Herr Becker nach München?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Um zum Generalkonsulat zu gehen", "is_correct": true},
+          {"answer": "Um einen Freund zu besuchen", "is_correct": false},
+          {"answer": "Um Urlaub zu machen", "is_correct": false},
+          {"answer": "Um Ski zu laufen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Was möchte Herr Müller in Bezug auf Herrn Becker tun?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er möchte ihn gern sehen", "is_correct": true},
+          {"answer": "Er möchte ihn nicht treffen", "is_correct": false},
+          {"answer": "Er möchte mit ihm reisen", "is_correct": false},
+          {"answer": "Er möchte ihm einen Pullover verkaufen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Was soll Herr Becker tun, wenn er in München ist?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Herr Müller besuchen", "is_correct": true},
+          {"answer": "Ski laufen gehen", "is_correct": false},
+          {"answer": "Ein Hotel buchen", "is_correct": false},
+          {"answer": "Den General besuchen", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "Herr Müller und Herr Becker sprechen telephonisch zusammen."},
+      {"sequence_id": 2, "text": "Herr Müller fragt, wie es Herrn Becker geht und wie es ihm in Frankfurt gefällt."},
+      {"sequence_id": 3, "text": "Herr Becker sagt, es gefällt ihm gut, leider ist das Wetter schlecht."},
+      {"sequence_id": 4, "text": "Es regnet jetzt sehr viel."},
+      {"sequence_id": 5, "text": "Herr Becker möchte wissen, wie das Wetter in Süddeutschland ist."},
+      {"sequence_id": 6, "text": "Herr Müller sagt, es ist wärmer als in den letzten Tagen und hoffentlich bleibt es so."},
+      {"sequence_id": 7, "text": "Herr Becker sagt, er muss in drei Tagen nach München zum Generalkonsulat fahren."},
+      {"sequence_id": 8, "text": "Herr Müller möchte ihn gern sehen."},
+      {"sequence_id": 9, "text": "Herr Becker soll ihn dann besuchen."}
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

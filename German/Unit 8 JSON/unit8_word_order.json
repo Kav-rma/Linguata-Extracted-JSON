@@ -1,0 +1,258 @@
+{
+  "title": "unit8_word_order",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "According to the notes, what is the finite verb form's position in a German statement?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "First element",
+          "is_correct": false
+        },
+        {
+          "answer": "Second element",
+          "is_correct": true
+        },
+        {
+          "answer": "Third element",
+          "is_correct": false
+        },
+        {
+          "answer": "Last element",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which example illustrates a sentence where the finite verb is the second element?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Wein trinke ich nicht gern",
+          "is_correct": true
+        },
+        {
+          "answer": "Ich fürchte, das ist telephonisch etwas umständlich",
+          "is_correct": false
+        },
+        {
+          "answer": "Da drüben ist ein Spiegel",
+          "is_correct": false
+        },
+        {
+          "answer": "Die Arbeit ist zu viel für meine Frau",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why do sentences beginning with 'ein' or 'einige' often sound awkward in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English prefers indefinite articles at the end",
+          "is_correct": false
+        },
+        {
+          "answer": "English avoids starting sentences with 'a' or 'some'",
+          "is_correct": true
+        },
+        {
+          "answer": "English always uses the plural first",
+          "is_correct": false
+        },
+        {
+          "answer": "English uses dative at the start",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which verb is mentioned as part of the introductory phrase that still keeps the finite verb second?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kommen",
+          "is_correct": false
+        },
+        {
+          "answer": "glauben",
+          "is_correct": true
+        },
+        {
+          "answer": "machen",
+          "is_correct": false
+        },
+        {
+          "answer": "sein",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the example 'Da drüben ist ein Spiegel' illustrate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Use of dative adjectives",
+          "is_correct": false
+        },
+        {
+          "answer": "Location sentences avoid beginning with indefinite articles",
+          "is_correct": true
+        },
+        {
+          "answer": "Compound noun formation",
+          "is_correct": false
+        },
+        {
+          "answer": "Specifiers and adjectives rules",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the significance of the examples with introductory phrases in section C?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They show that German sometimes omits verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "They demonstrate that the finite verb remains second even after introductory clauses",
+          "is_correct": true
+        },
+        {
+          "answer": "They illustrate the use of modal verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "They show how nouns govern verb endings",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of the following is a sentence from the notes that answers the question 'Where?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hier sind noch einige nette Häuser zu vermieten",
+          "is_correct": true
+        },
+        {
+          "answer": "Ich höre, Sie wollen nach Amerika fahren",
+          "is_correct": false
+        },
+        {
+          "answer": "Sagen Sie ihm doch bitte, er möchte mich anrufen",
+          "is_correct": false
+        },
+        {
+          "answer": "Das ist mir recht",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What type of phrase is an introduction that allows the finite verb to remain second in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A clause containing the verb 'finden'",
+          "is_correct": true
+        },
+        {
+          "answer": "A dative complement",
+          "is_correct": false
+        },
+        {
+          "answer": "A specifier-adjective-noun sequence",
+          "is_correct": false
+        },
+        {
+          "answer": "An adjective-noun compound",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "According to the notes, what is unusual about German word order compared to English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "German always places the verb at the end",
+          "is_correct": false
+        },
+        {
+          "answer": "The subject-verb-object order is basic in German",
+          "is_correct": false
+        },
+        {
+          "answer": "The finite verb form frequently appears second",
+          "is_correct": true
+        },
+        {
+          "answer": "German uses no finite verbs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of these sentences is not used as an example in the word order section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Der neue Schreibtisch passt sehr gut zu Ihren Möbeln",
+          "is_correct": false
+        },
+        {
+          "answer": "Hier im Vorort ist es wirklich viel schöner",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Keller ist meiner Schwester zu alt",
+          "is_correct": true
+        },
+        {
+          "answer": "Die Angehörigen meiner Frau leben hier",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "C. Word Order\n\n1. In Unit 3 we observed that the finite verb form is the second element of a German statement. Here are some more examples illustrating this basic German word order pattern taken from the basic sentences of Units 4–8. Die finden Sie in allen Preislagen. Wein trinke ich nicht gern. Der neue Schreibtisch passt sehr gut zu Ihren Möbeln. Die Angehörigen meiner Frau leben hier. Hier im Vorort ist es wirklich viel schöner und ruhiger als in der Stadt. In den anderen Zimmern steht schon alles an Ort und Stelle. Den grauen habe ich leider nicht mehr in Ihrer Größe. Wie ich sehe, haben Sie eine schöne Bibliothek. You'll find them in all price ranges. I don't care for wine. The new desk matches your furniture very well. My wife's family lives here. It's really much nicer and quieter here in the suburbs than in the city. Everything's in place in the other rooms. I'm sorry, I don't have the grey one in your size any more. As I see, you have a fine library.\n\nNote that the first element of these sentences may be as short as a pronoun or a noun alone, or as long as a complete specifier-adjective-noun sequence. It may have the nominative, accusative or dative form. It may be a prepositional phrase or a phrase consisting of a noun or specifier-adjective-noun sequence plus another noun or sequence in the genitive form. It may also be a separate clause with its own subject and verb. Notice, too, how often German word order differs from the pattern: subject-verb-object, which is basic in English.\n\n2. The words ein, einige, viele usually do not begin a sentence which gives a location, answering the question 'where?'. The following examples from the basic sentences illustrate this point. Direkt neben der Post ist ein Schreibwarengeschäft. Da drüben ist ein Spiegel. Hier nebenan ist eins. Hier sind noch einige nette Häuser zu vermieten. There's a stationery store right next to the post office. There's a mirror over there. There's one next door here. There are still some nice houses for rent here. Notice that English likewise avoids beginning sentences with the indefinite article or the words 'some' and 'a few'. Try re-phrasing the English sentences on the right above so as to begin with 'one' or 'some' or 'a' and notice how awkward and unnatural these sentences sound.\n\n3. The finite verb form is the second element also in statements which are preceded by an introductory phrase containing a verb such as finden, fürchten, glauben, sagen. Note the following examples: Ich fürchte, das ist telephonisch etwas umständlich. Ich höre, Sie wollen nach Amerika fahren. Ich glaube, Fräulein Bruce hat eine. Sagen Sie ihm doch bitte, er möchte mich sobald wie möglich anrufen. Ich finde, jetzt sieht es schon richtig gemütlich aus. I'm afraid that's a bit complicated on the telephone. I hear you're planning to go to America. I think Miss Bruce has one. Please tell him I'd like him to call me as soon as possible. I think it looks really comfortable here now. These examples actually represent in each case two separate statements.The first statement is thus not an element of the second; in each one separately the basic word order pattern is observed."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

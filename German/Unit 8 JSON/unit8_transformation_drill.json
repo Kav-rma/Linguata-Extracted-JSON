@@ -1,0 +1,589 @@
+{
+  "title": "unit8_transformation_drill",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Transform the sentence 'Sie haben heute einen netten Anzug im Schaufenster.' starting with 'Im Schaufenster'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Im Schaufenster haben Sie heute einen netten Anzug.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Transform the sentence 'Sie haben heute einen netten Anzug im Schaufenster.' starting with 'Heute'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Heute haben Sie einen netten Anzug im Schaufenster.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Transform the sentence 'Sie haben heute einen netten Anzug im Schaufenster.' starting with 'Einen netten Anzug'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Einen netten Anzug haben Sie heute im Schaufenster.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Transform the sentence 'Sie haben heute einen netten Anzug im Schaufenster.' starting with 'Sie'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie haben heute einen netten Anzug im Schaufenster.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Transform the sentence 'Ich habe die graue Jacke leider nicht mehr in Ihrer Grösse.' starting with 'Leider'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Leider habe ich die graue Jacke nicht mehr in Ihrer Grösse.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Transform the sentence 'Ich habe die graue Jacke leider nicht mehr in Ihrer Grösse.' starting with 'Die graue Jacke'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die graue Jacke habe ich leider nicht mehr in Ihrer Grösse.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Transform the sentence 'Ich habe die graue Jacke leider nicht mehr in Ihrer Grösse.' starting with 'In Ihrer Grösse'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In Ihrer Grösse habe ich die graue Jacke leider nicht mehr.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Transform the sentence 'Ich habe die graue Jacke leider nicht mehr in Ihrer Grösse.' starting with 'Ich'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich habe die graue Jacke leider nicht mehr in Ihrer Grösse.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Transform the sentence 'Ich kann mir augenblicklich nicht mehr leisten.' starting with 'Augenblicklich'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Augenblicklich kann ich mir nicht mehr leisten.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Transform the sentence 'Ich kann mir augenblicklich nicht mehr leisten.' starting with 'Mehr'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mehr kann ich mir augenblicklich nicht leisten.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Transform the sentence 'Ich kann mir augenblicklich nicht mehr leisten.' starting with 'Ich'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kann mir augenblicklich nicht mehr leisten.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Transform the sentence 'Jetzt möchte ich mir auch noch einige Krawatten ansehen.' starting with 'Ich'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich möchte mir jetzt auch noch einige Krawatten ansehen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Transform the sentence 'Jetzt möchte ich mir auch noch einige Krawatten ansehen.' starting with 'Einige Krawatten'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Einige Krawatten möchte ich mir jetzt auch noch ansehen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Transform the sentence 'Jetzt möchte ich mir auch noch einige Krawatten ansehen.' starting with 'Jetzt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Jetzt möchte ich mir auch noch einige Krawatten ansehen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Transform the sentence 'Der Konsul wohnt jetzt in dem grossen Haus.' starting with 'In dem grossen Haus'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In dem grossen Haus wohnt jetzt der Konsul.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Transform the sentence 'Der Konsul wohnt jetzt in dem grossen Haus.' starting with 'Jetzt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Jetzt wohnt der Konsul in dem grossen Haus.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Transform the sentence 'Der Konsul wohnt jetzt in dem grossen Haus.' starting with 'Wohnt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wohnt der Konsul jetzt in dem grossen Haus?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Transform the sentence 'Der Konsul wohnt jetzt in dem grossen Haus.' starting with 'Ja, der Konsul'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ja, der Konsul wohnt jetzt in dem grossen Haus.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Transform the sentence 'Wir wollen heute ins Kino gehen.' starting with 'Heute'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Heute wollen wir ins Kino gehen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Transform the sentence 'Wir wollen heute ins Kino gehen.' starting with 'In welches Kino'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In welches Kino wollen wir heute gehen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Transform the sentence 'Wir wollen heute ins Kino gehen.' starting with 'Wohin'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wohin wollen wir heute gehen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Transform the sentence 'Wir wollen heute ins Kino gehen.' starting with 'Wo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wo wollen wir heute hingehen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Transform the sentence 'Wir wollen heute ins Kino gehen.' starting with 'Ins Kino'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ins Kino wollen wir heute gehen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Transform the sentence 'Diese braune Krawatte passt wirklich sehr gut zu Ihrem Anzug.' starting with 'Zu Ihrem Anzug'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Zu Ihrem Anzug passt diese braune Krawatte wirklich sehr gut.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Transform the sentence 'Diese braune Krawatte passt wirklich sehr gut zu Ihrem Anzug.' starting with 'Wirklich sehr gut'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wirklich sehr gut passt diese braune Krawatte zu Ihrem Anzug.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Transform the sentence 'Diese braune Krawatte passt wirklich sehr gut zu Ihrem Anzug.' starting with 'Diese braune Krawatte'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Diese braune Krawatte passt wirklich sehr gut zu Ihrem Anzug.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Transform the sentence 'Jetzt müssen wir die Bilder über das Sofa hängen.' starting with 'Müssen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Müssen wir jetzt die Bilder über das Sofa hängen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "Transform the sentence 'Jetzt müssen wir die Bilder über das Sofa hängen.' starting with 'Die Bilder'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Bilder müssen wir jetzt über das Sofa hängen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Transform the sentence 'Jetzt müssen wir die Bilder über das Sofa hängen.' starting with 'Über das Sofa'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Über das Sofa müssen wir jetzt die Bilder hängen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Transform the sentence 'Jetzt müssen wir die Bilder über das Sofa hängen.' starting with 'Wir'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wir müssen jetzt die Bilder über das Sofa hängen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Transform the sentence 'Ich kaufe meine Anzüge gewöhnlich hier in diesem Geschäft.' starting with 'Hier in diesem Geschäft'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Hier in diesem Geschäft kaufe ich gewöhnlich meine Anzüge.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Transform the sentence 'Ich kaufe meine Anzüge gewöhnlich hier in diesem Geschäft.' starting with 'Meine Anzüge'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Meine Anzüge kaufe ich gewöhnlich in diesem Geschäft.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Transform the sentence 'Ich kaufe meine Anzüge gewöhnlich hier in diesem Geschäft.' starting with 'Ich'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kaufe meine Anzüge gewöhnlich hier in diesem Geschäft.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Transform the sentence 'Ich kaufe meine Anzüge gewöhnlich hier in diesem Geschäft.' starting with 'Gewöhnlich'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Gewöhnlich kaufe ich meine Anzüge in diesem Geschäft.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Transform the sentence 'Bezahlen Sie diese Sachen bitte da vorne an der Kasse.' starting with 'Bitte'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bitte bezahlen Sie diese Sachen da vorne an der Kasse.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Transform the sentence 'Bezahlen Sie diese Sachen bitte da vorne an der Kasse.' starting with 'Da vorne an der Kasse'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Da vorne an der Kasse bezahlen Sie bitte diese Sachen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Transform the sentence 'Bezahlen Sie diese Sachen bitte da vorne an der Kasse.' starting with 'Diese Sachen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Diese Sachen bezahlen Sie bitte da vorne an der Kasse.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "Transform the sentence 'Bezahlen Sie diese Sachen bitte da vorne an der Kasse.' starting with 'Bezahlen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bezahlen Sie diese Sachen bitte da vorne an der Kasse.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Transform the sentence 'In dieser Farbe haben wir leider augenblicklich nichts Ähnliches.' starting with 'Leider'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Leider haben wir in dieser Farbe augenblicklich nichts Ähnliches.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Transform the sentence 'In dieser Farbe haben wir leider augenblicklich nichts Ähnliches.' starting with 'Wir'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wir haben in dieser Farbe leider augenblicklich nichts Ähnliches.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Transform the sentence 'In dieser Farbe haben wir leider augenblicklich nichts Ähnliches.' starting with 'Augenblicklich'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Augenblicklich haben wir leider nichts Ähnliches in dieser Farbe.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "Transform the sentence 'In dieser Farbe haben wir leider augenblicklich nichts Ähnliches.' starting with 'In dieser Farbe'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In dieser Farbe haben wir augenblicklich leider nichts Ähnliches.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Transform the sentence 'Ich glaube, das ist keine genaue Auskunft.' so that Move 'glaube ich' to the end.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist keine genaue Auskunft, glaube ich.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "Transform the sentence 'Ich finde, das ist eine gute Qualität.' so that Move 'finde ich' to the end.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist eine gute Qualität, finde ich.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "Transform the sentence 'Ich glaube, er macht eine Geschäftsreise.' so that Move 'glaube ich' to the end.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er macht eine Geschäftsreise, glaube ich.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "Transform the sentence 'Unser Haus ist in einer idealen Gegend, finden wir.' so that Move 'Wir finden' to the beginning.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wir finden, unser Haus ist in einer idealen Gegend.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Transform the sentence 'Wir können uns das nicht leisten, glaube ich.' so that Move 'Ich glaube' to the beginning.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich glaube, wir können uns das nicht leisten.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "Transform the sentence 'Diese Bestimmung ist sehr wichtig, finde ich.' so that Move 'Ich finde' to the beginning.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich finde, diese Bestimmung ist sehr wichtig.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 21,
+    "page_end": 23,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

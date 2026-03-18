@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit9_future_phrase",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which auxiliary verb forms a future phrase in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "werden",
+            "is_correct": true
+          },
+          {
+            "answer": "haben",
+            "is_correct": false
+          },
+          {
+            "answer": "sein",
+            "is_correct": false
+          },
+          {
+            "answer": "tun",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which sentence indicates future time using the present tense?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ich fahre nachher dort vorbei",
+            "is_correct": true
+          },
+          {
+            "answer": "Es wird wahrscheinlich bald regnen",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich will gleich mal anrufen",
+            "is_correct": false
+          },
+          {
+            "answer": "Er soll in zehn Minuten kommen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which of the following sentences uses a verb phrase with 'wollen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wir wollen essen gehen",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich werde mir meinen Mantel anziehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Jetzt können wir schneller fahren",
+            "is_correct": false
+          },
+          {
+            "answer": "Er soll in zehn Minuten kommen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does the verb phrase 'Ich werde mir meinen Mantel anziehen' convey?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "I'm going to put my coat on",
+            "is_correct": true
+          },
+          {
+            "answer": "I will take off my coat",
+            "is_correct": false
+          },
+          {
+            "answer": "I have to change the tire",
+            "is_correct": false
+          },
+          {
+            "answer": "I'm going to walk",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is implied when sentences use the auxiliary 'wollen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The subject’s desire or intention",
+            "is_correct": true
+          },
+          {
+            "answer": "An external expectation",
+            "is_correct": false
+          },
+          {
+            "answer": "Past habitual action",
+            "is_correct": false
+          },
+          {
+            "answer": "Condition of inaction",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence contains an example of 'sollen' indicating someone else’s desire or expectation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Er soll in zehn Minuten kommen",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich will nach Schwabing fahren",
+            "is_correct": false
+          },
+          {
+            "answer": "In zehn Minuten sind Sie da",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich werde nachher dort vorbeifahren",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which sentence demonstrates a future expression using present tense and a time expression?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Hoffentlich kommt das Frachtgut bald an",
+            "is_correct": true
+          },
+          {
+            "answer": "Wir wollen essen gehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Es wird wahrscheinlich bald regnen",
+            "is_correct": false
+          },
+          {
+            "answer": "Er soll in zehn Minuten kommen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Why do sentences using 'sollen' differ from those using 'wollen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They express someone else’s desire or expectation",
+            "is_correct": true
+          },
+          {
+            "answer": "They refer to past events",
+            "is_correct": false
+          },
+          {
+            "answer": "They negate the action",
+            "is_correct": false
+          },
+          {
+            "answer": "They imply habitual action",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which auxiliary verbs are listed as forming verb phrases with an infinitive in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "dürfen, können, müssen, sollen, wollen, möchten",
+            "is_correct": true
+          },
+          {
+            "answer": "gehen, kommen, bleiben",
+            "is_correct": false
+          },
+          {
+            "answer": "haben, sein",
+            "is_correct": false
+          },
+          {
+            "answer": "essen, trinken, schlafen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which of the following is NOT used in German to indicate future time?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Past perfect tense",
+            "is_correct": true
+          },
+          {
+            "answer": "Present tense with time expression",
+            "is_correct": false
+          },
+          {
+            "answer": "werden + infinitive",
+            "is_correct": false
+          },
+          {
+            "answer": "Auxiliaries sollen/wollen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Verbs: The Future Phrase\n\nIn Units 2 and 3 we noted that the verbs dürfen, können, müssen, sollen and wollen and the special forms möchte and möchten occur together with an infinitive in German to form a verb phrase. These verbs, which help to make up verb phrases, are called auxiliary verbs. We have now encountered one more such verb. Notice the similarity in the way it is used.\n\nJetzt können wir wieder etwas schneller fahren. – Now we can go a little faster again.\nIch werde mir meinen Mantel anziehen. – I’m going to put my coat on.\nWir müssen eben den Reifen wechseln. – We’ll just have to change the tire.\nInzwischen werde ich ein paar Aufnahmen machen. – Meanwhile I'll take a couple of pictures.\nEs wird wahrscheinlich bald regnen. – It's probably going to rain soon.\n\nThe verb phrase consisting of a form of the auxiliary werden plus an infinitive is used to refer to future time and is known as the future phrase.\n\nFuture time is indicated by other devices in German also.\n\n1. The present tense form of the verb, often with a time expression:\nIn welches Geschäft gehen Sie? – What store are you going to?\nWo kommt die Stehlampe hin? – Where does the floor lamp go?\nIn zehn Minuten sind Sie da. – You'll be there in ten minutes.\nHoffentlich kommt das Frachtgut bald an. – I hope the freight arrives soon.\nIch fahre nachher dort vorbei. – I'm driving by there in a little while.\nNote that English also may use a present tense form of the verb (“arrives”), but just as frequently uses a phrase consisting of ‘will’ or 'll plus an infinitive, or a phrase with the '-ing' form of the verb.\n\n2. A verb phrase with the auxiliaries sollen or wollen, often with a time expression:\nIch will gleich mal anrufen. – I'll just give them a quick call.\nWo sollen wir den kleinen Tisch hinstellen? – Where shall we put the little table?\nWir wollen essen gehen. – We're planning to go and eat.\nSoll ich auflegen? – Shall I hang up?\nIch will nach Schwabing fahren. – I'm planning to go to Schwabing.\nEr soll in zehn Minuten kommen. – He's supposed to be coming in ten minutes.\nWie lange wollen Sie bleiben? – How long do you intend to stay?\n\nNotice however that although future time is indicated in every case, something else is also implied. The sentences with wollen indicate the desire, plan or intention of the subject. The sentences with sollen express a desire, intention or opinion of someone other than the subject of the sentence, i.e., someone wants or expects the subject to do something, or, in questions, the subject is inquiring about the desire or expectation of another person with regard to his contemplated action."
+      }
+    ],
+    "metadata": {
+      "page_start": 10,
+      "page_end": 10,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

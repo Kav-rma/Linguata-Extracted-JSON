@@ -1,0 +1,144 @@
+[
+  {
+    "title": "unit9_situation_herr_becker_kauft_einen_pullover",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Was fragt Herr Becker am Anfang der Situation?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Was sie mitnehmen wollen", "is_correct": true},
+          {"answer": "Wo sie essen wollen", "is_correct": false},
+          {"answer": "Wie spät es ist", "is_correct": false},
+          {"answer": "Ob es schneien wird", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was möchte Herr Wilson kaufen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Warme Unterwäsche", "is_correct": true},
+          {"answer": "Einen Hut", "is_correct": false},
+          {"answer": "Einen Pullover", "is_correct": false},
+          {"answer": "Neue Schuhe", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Was braucht Herr Becker?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Lange, warme Socken und einen Pullover", "is_correct": true},
+          {"answer": "Kurze Hosen und ein Hemd", "is_correct": false},
+          {"answer": "Einen Mantel", "is_correct": false},
+          {"answer": "Ein Paar Schuhe", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wohin gehen sie zusammen, um die Kleidungsstücke zu kaufen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "In ein Konfektionsgeschäft", "is_correct": true},
+          {"answer": "In ein Kaufhaus", "is_correct": false},
+          {"answer": "In ein Sportgeschäft", "is_correct": false},
+          {"answer": "Auf den Markt", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was fragt der Verkäufer, als sie das Geschäft betreten?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Was er ihnen zeigen darf", "is_correct": true},
+          {"answer": "Ob sie einen Kaffee möchten", "is_correct": false},
+          {"answer": "Was sie suchen", "is_correct": false},
+          {"answer": "Ob sie einen Rabatt haben", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Warum lehnen sie die ersten Pullover ab?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Der eine ist zu klein, der andere zu auffällig und bei einem anderen sind die Ärmel zu kurz", "is_correct": true},
+          {"answer": "Alle Pullover sind zu teuer", "is_correct": false},
+          {"answer": "Die Farben gefallen ihnen nicht", "is_correct": false},
+          {"answer": "Sie finden keinen Pullover in ihrer Grösse", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Was für einen Pullover findet Herr Becker schliesslich?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Einen guten, einfarbigen Pullover", "is_correct": true},
+          {"answer": "Einen gestreiften Pullover", "is_correct": false},
+          {"answer": "Einen karierten Pullover", "is_correct": false},
+          {"answer": "Einen sehr billigen Pullover", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Wie ist der Preis des gefundenen Pullovers?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er ist ziemlich teuer", "is_correct": true},
+          {"answer": "Er ist sehr billig", "is_correct": false},
+          {"answer": "Er ist kostenlos", "is_correct": false},
+          {"answer": "Er kostet weniger als die anderen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Warum nimmt Herr Becker den Pullover trotzdem?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Der Verkäufer hat nichts Preiswerteres", "is_correct": true},
+          {"answer": "Er gefällt ihm nicht, aber es gibt keine andere Farbe", "is_correct": false},
+          {"answer": "Er ist ein Sonderangebot", "is_correct": false},
+          {"answer": "Er passt nicht, aber er möchte ihn", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Was macht Herr Becker am Ende?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er nimmt den Pullover und bezahlt an der Kasse", "is_correct": true},
+          {"answer": "Er lässt den Pullover im Geschäft", "is_correct": false},
+          {"answer": "Er tauscht ihn gegen ein Hemd", "is_correct": false},
+          {"answer": "Er verhandelt über den Preis", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "Herr Becker fragt, was sie mitnehmen wollen."},
+      {"sequence_id": 2, "text": "Herr Wilson will sich noch warme Unterwäsche kaufen und Herr Becker braucht lange, warme Socken und einen Pullover."},
+      {"sequence_id": 3, "text": "Sie gehen zusammen in ein Konfektionsgeschäft und der Verkäufer fragt sie, was er ihnen zeigen darf."},
+      {"sequence_id": 4, "text": "Erst suchen sie einen Pullover."},
+      {"sequence_id": 5, "text": "Aber der eine ist zu klein, der andere ist zu auffällig und bei einem anderen sind die Ärmel zu kurz."},
+      {"sequence_id": 6, "text": "Endlich findet Herr Becker einen guten, einfarbigen Pullover."},
+      {"sequence_id": 7, "text": "Er ist leider ziemlich teuer, aber der Verkäufer hat nichts Preiswerteres."},
+      {"sequence_id": 8, "text": "Herr Becker nimmt den Pullover und bezahlt an der Kasse."}
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

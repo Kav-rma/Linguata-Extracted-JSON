@@ -1,0 +1,258 @@
+{
+  "title": "unit8_compound_nouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In German compound nouns, what determines whether a compound is der, die, or das?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The first element",
+          "is_correct": false
+        },
+        {
+          "answer": "The longest element",
+          "is_correct": false
+        },
+        {
+          "answer": "The final element",
+          "is_correct": true
+        },
+        {
+          "answer": "The number of elements",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of these compounds is an example of a noun + noun structure?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "der Sommeranzug",
+          "is_correct": true
+        },
+        {
+          "answer": "der Elektroherd",
+          "is_correct": false
+        },
+        {
+          "answer": "der Fragebogen",
+          "is_correct": false
+        },
+        {
+          "answer": "das Fernamt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What type of compound is 'der Parkplatz' according to the notes?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "noun + noun",
+          "is_correct": false
+        },
+        {
+          "answer": "verb stem + noun",
+          "is_correct": true
+        },
+        {
+          "answer": "preposition + noun",
+          "is_correct": false
+        },
+        {
+          "answer": "adjective + noun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which compound exemplifies a preposition + noun structure?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "der Stadplan",
+          "is_correct": false
+        },
+        {
+          "answer": "der Nachmittag",
+          "is_correct": true
+        },
+        {
+          "answer": "die Heimatstadt",
+          "is_correct": false
+        },
+        {
+          "answer": "der Kühlschrank",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the plural rule for German compound nouns?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They always take -n in the plural",
+          "is_correct": false
+        },
+        {
+          "answer": "They take the plural of the first element",
+          "is_correct": false
+        },
+        {
+          "answer": "They follow the plural of the final element",
+          "is_correct": true
+        },
+        {
+          "answer": "They have no plural form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which example shows a compound made up of an adjective + noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "das Telefonbuch",
+          "is_correct": false
+        },
+        {
+          "answer": "der Neubau",
+          "is_correct": true
+        },
+        {
+          "answer": "der Bahnhof",
+          "is_correct": false
+        },
+        {
+          "answer": "die Briefmarke",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the term 'special combining form' refer to in the context of compound nouns?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Forms taken by nouns when used as final elements",
+          "is_correct": false
+        },
+        {
+          "answer": "Forms taken by nouns or verbs when used as non-final elements",
+          "is_correct": true
+        },
+        {
+          "answer": "Forms that always end in -ung",
+          "is_correct": false
+        },
+        {
+          "answer": "Forms used only in loanwords",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "According to the notes, what should learners do when encountering unfamiliar compound nouns?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Consult a dictionary because meaning cannot be deduced",
+          "is_correct": false
+        },
+        {
+          "answer": "Decompose the compound into parts to infer meaning",
+          "is_correct": true
+        },
+        {
+          "answer": "Always assume the meaning is unrelated to the parts",
+          "is_correct": false
+        },
+        {
+          "answer": "Ignore them as they are rare",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following compounds has more than two elements according to the examples?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "der Bleistift",
+          "is_correct": false
+        },
+        {
+          "answer": "der Sommerschlussverkauf",
+          "is_correct": true
+        },
+        {
+          "answer": "der Schlafraum",
+          "is_correct": false
+        },
+        {
+          "answer": "das Sporthemd",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which compound is an example of a verb stem + noun formation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "der Fahrstuhl",
+          "is_correct": true
+        },
+        {
+          "answer": "der Vorort",
+          "is_correct": false
+        },
+        {
+          "answer": "die Zwischenzeit",
+          "is_correct": false
+        },
+        {
+          "answer": "der Küchentisch",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Compound Nouns\n\n1. English has many compound nouns like newspaper, fireman, outpost, etc., which the writing system treats as single units. We have others like letter-paper, Minute Man, lookout post, after-effect, etc., which, although they are the same sort of compounds, are written as two units, sometimes completely separate and sometimes connected by a hyphen. In German, compound nouns are of very common occurrence and not infrequently contain four or five or even more elements. They are almost all written as single units and hence often look rather formidable. They may turn out to be more difficult than automobileinsurancesalesman, however.\n\n2. Let us examine some typical German compound nouns which we have encountered in the last few units and see what they are composed of: das Papiergeschäft (das Papier + das Geschäft), Schreibmaschine (schreiben + die Maschine), Nachmittag (nach + der Mittag), Neubau (neu + der Bau). Notice that the final element of each of these words is a noun. This is just like English. Notice also that each of these compounds is a der-noun, a das-noun or a die-noun according to whether its final element is a der-noun, a das-noun or a die-noun. Preceding elements may be another noun, a verb stem, a preposition, or an adjective. Let us examine these types of compound nouns in turn.\n\nCompound made up of noun + noun: der Sommer + der Anzug = der Sommeranzug; das Papier + das Geschäft = das Papiergeschäft; die Heimat + die Stadt = die Heimatstadt; die Bahn + der Hof = der Bahnhof; der Sport + das Hemd = das Sporthemd; das Blei + der Stift = der Bleistift. Notice that das-nouns may combine with der-nouns and die-nouns as well as with das-nouns, and der-nouns may combine with die-nouns and das-nouns as well as with der-nouns, etc., but it is always the final element that determines whether the compound as a whole is a der-noun, a das-noun or a die-noun. A compound noun also has the same plural as its final element. What are the component parts of the following compound nouns? der Autobus, der Stadtplan, das Briefpapier, das Telefonbuch, die Stuhllehne, die Briefmarke.\n\nCompounds made up of verb stem + noun: park- (parken) + der Platz = der Parkplatz; schau- (schauen) + das Fenster = das Schaufenster; schreib- (schreiben) + die Maschine = die Schreibmaschine. Here are some more compounds of the same type. What are their component parts? der Rauchtisch, der Fahrstuhl, das Wohnzimmer, das Schlafzimmer, die Stehlampe, die Schreibwaren.\n\nCompounds made up of a preposition + noun: nach + der Mittag = der Nachmittag; bei + das Spiel = das Beispiel; vor + die Anmeldung = die Voranmeldung. Here are a few more compounds of this type. Although some of them are new you will have no difficulty in recognizing their component parts: der Vorort, der Umweg, das Hinterhaus, die Nebenstraße, die Unterwäsche, die Zwischenzeit.\n\nCompounds made up of an adjective + noun: neu + der Bau = der Neubau; fern + das Gespräch = das Ferngespräch; groß + die Stadt = die Großstadt. The following are a few more examples of this type of compound: der Kühlschrank, das Fernamt, die Kleinstadt.\n\nMany nouns and verbs have special forms or plural forms when they occur as non-final elements in compounds. The following compounds contain such special forms: Staats- (der Staat) + der Angehörige = der Staatsangehörige; Wirtschafts- (die Wirtschaft) + die Abteilung = die Wirtschaftsabteilung; Etagen- (die Etage) + das Haus = das Etagenhaus; Frage- (fragen) + der Bogen = der Fragebogen; Elektro- (elektrisch) + der Herd = der Elektroherd. In the following compounds identify both the special combining form of the first element and the form the element has when not combined: der Bücherschrank, der Küchentisch, der Kassenzettel, das Zigarrengeschäft, das Besuchsvisum, das Konfektionsgeschäft, die Geschäftsreise, die Bilderkiste, die Visa-Abteilung.\n\nIV. As mentioned in paragraph I, German compound nouns frequently have more than two elements. The following examples have occurred in our basic sentences up to this point. Can you break them down into their component elements? das Herrenkonfektionsgeschäft, der Sommerschlussverkauf.\n\nV. Compounding is an active process in the language, and you will often hear and see compounds which no dictionary lists. Since the meaning of the whole compound is usually the sum of its parts (cf. Geschäftsbrief, Schreibwarengeschäft), you will usually be able to figure out the meaning of a new compound with little or no difficulty. In a few cases, of course, the English equivalent may not be apparent at all (cf. Fahrstuhl, Vorort), but words of this kind are almost always listed in the dictionary."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

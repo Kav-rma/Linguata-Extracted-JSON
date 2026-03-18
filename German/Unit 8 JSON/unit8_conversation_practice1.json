@@ -1,0 +1,156 @@
+[
+  {
+    "title": "unit8_conversation_practice1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What item is being discussed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A white sports shirt",
+            "is_correct": true
+          },
+          {
+            "answer": "A pair of socks",
+            "is_correct": false
+          },
+          {
+            "answer": "A sofa",
+            "is_correct": false
+          },
+          {
+            "answer": "A chair",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "How much does the white sports shirt cost?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "16.50 marks",
+            "is_correct": true
+          },
+          {
+            "answer": "12.80 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "12.50 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "10.50 marks",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What is the price of the striped shirt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "12.80 marks",
+            "is_correct": true
+          },
+          {
+            "answer": "16.50 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "20.00 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "8.00 marks",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How many shirts does the customer request?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "One white and two striped",
+            "is_correct": true
+          },
+          {
+            "answer": "Two white and one striped",
+            "is_correct": false
+          },
+          {
+            "answer": "Three white",
+            "is_correct": false
+          },
+          {
+            "answer": "Three striped",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is the difference in price between the white and striped sports shirts?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "3.70 marks",
+            "is_correct": true
+          },
+          {
+            "answer": "4.50 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "2.50 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "1.00 mark",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wieviel kostet dieses weisse Sporthemd?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Das kostet sechzehn Mark fünfzig."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Und das gestreifte hier?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Das kostet nur zwölf Mark achtzig."
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Bitte geben Sie mir ein weisses und zwei gestreifte."
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "title": "unit8_conversation_practice2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What type of store is the person looking for?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A furniture store",
+            "is_correct": true
+          },
+          {
+            "answer": "A clothing store",
+            "is_correct": false
+          },
+          {
+            "answer": "A grocery store",
+            "is_correct": false
+          },
+          {
+            "answer": "A shoe store",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which items does the customer want to buy?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A desk, a sofa and two armchairs",
+            "is_correct": true
+          },
+          {
+            "answer": "A bed and chairs",
+            "is_correct": false
+          },
+          {
+            "answer": "A bookcase and table",
+            "is_correct": false
+          },
+          {
+            "answer": "Only a sofa",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which store is recommended?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Schäfer und Co.",
+            "is_correct": true
+          },
+          {
+            "answer": "Schwarz und Co.",
+            "is_correct": false
+          },
+          {
+            "answer": "A big department store",
+            "is_correct": false
+          },
+          {
+            "answer": "No recommendation",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does the customer ask about the store?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Whether it is expensive",
+            "is_correct": true
+          },
+          {
+            "answer": "Its opening hours",
+            "is_correct": false
+          },
+          {
+            "answer": "Its address",
+            "is_correct": false
+          },
+          {
+            "answer": "If it sells food",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How does the assistant respond about the store's prices?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It is not very expensive",
+            "is_correct": true
+          },
+          {
+            "answer": "It is very expensive",
+            "is_correct": false
+          },
+          {
+            "answer": "It is closed",
+            "is_correct": false
+          },
+          {
+            "answer": "It has no selection",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wo ist hier ein gutes Möbelgeschäft?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Was wollen Sie denn kaufen?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Einen grossen Schreibtisch, ein Sofa und vielleicht auch zwei Sessel."
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Ich glaube, Sie gehen am besten zu Schäfer und Co."
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Ist das ein sehr teures Geschäft?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "B: Nein, durchaus nicht."
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

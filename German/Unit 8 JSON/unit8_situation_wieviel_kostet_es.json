@@ -1,0 +1,268 @@
+[
+  {
+    "title": "unit8_situation_wieviel_kostet_es",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where do the gentlemen come from?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "From the city",
+            "is_correct": true
+          },
+          {
+            "answer": "From the mountains",
+            "is_correct": false
+          },
+          {
+            "answer": "From the beach",
+            "is_correct": false
+          },
+          {
+            "answer": "From home",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "To whom do they tell what they want to buy and how much it costs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The other gentlemen in their class",
+            "is_correct": true
+          },
+          {
+            "answer": "The shopkeeper",
+            "is_correct": false
+          },
+          {
+            "answer": "Their wives",
+            "is_correct": false
+          },
+          {
+            "answer": "A friend",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What do the gentlemen take to write down the costs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A pencil",
+            "is_correct": true
+          },
+          {
+            "answer": "A computer",
+            "is_correct": false
+          },
+          {
+            "answer": "A calculator",
+            "is_correct": false
+          },
+          {
+            "answer": "Their phones",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What do they write down?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The numbers (prices)",
+            "is_correct": true
+          },
+          {
+            "answer": "Their names",
+            "is_correct": false
+          },
+          {
+            "answer": "Addresses",
+            "is_correct": false
+          },
+          {
+            "answer": "Recipes",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What question do they ask at the end?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "How much does it all cost together?",
+            "is_correct": true
+          },
+          {
+            "answer": "What time is it?",
+            "is_correct": false
+          },
+          {
+            "answer": "Where is the store?",
+            "is_correct": false
+          },
+          {
+            "answer": "Who is paying?",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Are they calculating the total cost?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes",
+            "is_correct": true
+          },
+          {
+            "answer": "No",
+            "is_correct": false
+          },
+          {
+            "answer": "They are cooking",
+            "is_correct": false
+          },
+          {
+            "answer": "They are driving",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Why do they use paper and pencil?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To write the numbers down",
+            "is_correct": true
+          },
+          {
+            "answer": "To draw a picture",
+            "is_correct": false
+          },
+          {
+            "answer": "To write letters",
+            "is_correct": false
+          },
+          {
+            "answer": "To pass time",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Who is asking the question 'Wieviel kostet alles zusammen?'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The gentlemen themselves",
+            "is_correct": true
+          },
+          {
+            "answer": "The shopkeeper",
+            "is_correct": false
+          },
+          {
+            "answer": "Their teacher",
+            "is_correct": false
+          },
+          {
+            "answer": "A stranger",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Is this activity likely part of a lesson?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes, they are practicing talking about costs",
+            "is_correct": true
+          },
+          {
+            "answer": "No, it's a party",
+            "is_correct": false
+          },
+          {
+            "answer": "They are taking a test",
+            "is_correct": false
+          },
+          {
+            "answer": "They are on vacation",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Do the gentlemen know how much everything costs individually?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes, they know and write it down",
+            "is_correct": true
+          },
+          {
+            "answer": "No, they guess",
+            "is_correct": false
+          },
+          {
+            "answer": "They forget",
+            "is_correct": false
+          },
+          {
+            "answer": "They don't care",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie kommen gerade aus der Stadt und erzählen den anderen Herren in ihrer Klasse, was Sie sich kaufen wollen und wieviel alles kostet."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Die Herren nehmen einen Bleistift und schreiben die Zahlen auf das Papier."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Dann fragen Sie: \"Wieviel kostet alles zusammen?\""
+      }
+    ],
+    "metadata": {
+      "page_start": 32,
+      "page_end": 32,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

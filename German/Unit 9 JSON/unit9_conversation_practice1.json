@@ -1,0 +1,82 @@
+[
+  {
+    "title": "unit9_conversation_practice1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Welche Jahreszeit hat B in Deutschland am liebsten?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Den Frühling", "is_correct": true},
+          {"answer": "Den Sommer", "is_correct": false},
+          {"answer": "Den Herbst", "is_correct": false},
+          {"answer": "Den Winter", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Wie ist der Sommer bei A zu Hause im Vergleich zu Deutschland?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Viel wärmer und die Luftfeuchtigkeit ist sehr hoch", "is_correct": true},
+          {"answer": "Kälter und trockener", "is_correct": false},
+          {"answer": "Genauso wie in Deutschland", "is_correct": false},
+          {"answer": "Kühler mit viel Schnee", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wie viel Schnee haben sie zu Hause im Winter?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Nicht so viel wie hier", "is_correct": true},
+          {"answer": "Mehr als hier", "is_correct": false},
+          {"answer": "Genauso viel", "is_correct": false},
+          {"answer": "Gar keinen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wie ist der Winter in Deutschland im Vergleich zu ihrem Zuhause?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Viel kälter als bei ihnen", "is_correct": true},
+          {"answer": "Wärmer als bei ihnen", "is_correct": false},
+          {"answer": "Gleich warm", "is_correct": false},
+          {"answer": "Schneeärmer", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Warum mag B den Frühling in Deutschland besonders?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Weil der Frühling viel länger ist als in Amerika", "is_correct": true},
+          {"answer": "Weil der Frühling wärmer ist als der Sommer", "is_correct": false},
+          {"answer": "Weil es im Frühling viel schneit", "is_correct": false},
+          {"answer": "Weil es im Frühling sehr kalt ist", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "A: Welche Jahreszeit haben Sie am liebsten?"},
+      {"sequence_id": 2, "text": "B: Hier in Deutschland habe ich den Frühling am liebsten. Der ist viel länger als bei uns in Amerika."},
+      {"sequence_id": 3, "text": "A: Ist es bei Ihnen zu Hause im Sommer sehr warm?"},
+      {"sequence_id": 4, "text": "B: Jedenfalls viel wärmer als hier. Und die Luftfeuchtigkeit ist sehr hoch."},
+      {"sequence_id": 5, "text": "A: Und wie ist bei Ihnen der Winter?"},
+      {"sequence_id": 6, "text": "B: Gewöhnlich haben wir nicht so viel Schnee wie hier. Der Winter in Deutschland ist auch viel kälter als bei uns."}
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

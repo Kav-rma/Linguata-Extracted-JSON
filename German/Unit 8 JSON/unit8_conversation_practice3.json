@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unit8_conversation_practice3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What clothing item is the person looking for?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A summer suit",
+            "is_correct": true
+          },
+          {
+            "answer": "A coat",
+            "is_correct": false
+          },
+          {
+            "answer": "A sports shirt",
+            "is_correct": false
+          },
+          {
+            "answer": "A pullover",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Where does the assistant suggest going for a wide selection?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Schwarz und Co.",
+            "is_correct": true
+          },
+          {
+            "answer": "Schäfer und Co.",
+            "is_correct": false
+          },
+          {
+            "answer": "A bookstore",
+            "is_correct": false
+          },
+          {
+            "answer": "A tailor",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Where else does the assistant buy clothes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In the large ready-made clothing store on Schubert Street",
+            "is_correct": true
+          },
+          {
+            "answer": "At a pharmacy",
+            "is_correct": false
+          },
+          {
+            "answer": "At a shoe store",
+            "is_correct": false
+          },
+          {
+            "answer": "Online",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How many stores are mentioned in the conversation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Two",
+            "is_correct": true
+          },
+          {
+            "answer": "One",
+            "is_correct": false
+          },
+          {
+            "answer": "Three",
+            "is_correct": false
+          },
+          {
+            "answer": "None",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which store is said to have a rich selection?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Schwarz und Co.",
+            "is_correct": true
+          },
+          {
+            "answer": "Schäfer und Co.",
+            "is_correct": false
+          },
+          {
+            "answer": "The big department store",
+            "is_correct": false
+          },
+          {
+            "answer": "The tailor",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wo kann ich hier einen guten Sommeranzug bekommen?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Bei Schwarz und Co. haben Sie eine reiche Auswahl."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Kaufen Sie Ihre Sachen auch dort?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Ja, gewöhnlich kaufe ich sie dort oder im grossen Konfektionsgeschäft in der Schubertstrasse."
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "unit9_conversation_practice4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Was möchte der Kunde kaufen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Einen Pullover", "is_correct": true},
+          {"answer": "Einen Hut", "is_correct": false},
+          {"answer": "Eine Jacke", "is_correct": false},
+          {"answer": "Ein Hemd", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Welche Grösse und Farbe wünscht der Kunde?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Grösse 42 in Grau", "is_correct": true},
+          {"answer": "Grösse 40 in Blau", "is_correct": false},
+          {"answer": "Grösse 44 in Schwarz", "is_correct": false},
+          {"answer": "Grösse 42 in Rot", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wie beurteilt der Kunde den ersten vorgeschlagenen Pullover?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er gefällt ihm, aber er ist zu teuer", "is_correct": true},
+          {"answer": "Er gefällt ihm sehr gut und ist günstig", "is_correct": false},
+          {"answer": "Er gefällt ihm gar nicht", "is_correct": false},
+          {"answer": "Er ist zu klein", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Was bietet der Verkäufer danach an?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Andere Pullover, darunter einen hellgrauen, der preiswerter ist", "is_correct": true},
+          {"answer": "Einen Hut", "is_correct": false},
+          {"answer": "Einen teureren Pullover", "is_correct": false},
+          {"answer": "Ein Hemd", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Warum lehnt der Kunde den zweiten Pullover ab?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Die Ärmel sind zu kurz", "is_correct": true},
+          {"answer": "Er ist zu gross", "is_correct": false},
+          {"answer": "Er ist zu teuer", "is_correct": false},
+          {"answer": "Er ist in der falschen Farbe", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Was braucht der Kunde laut eigener Aussage?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Einen Pullover mit längeren Ärmeln", "is_correct": true},
+          {"answer": "Einen Pullover in einer anderen Farbe", "is_correct": false},
+          {"answer": "Eine kleinere Grösse", "is_correct": false},
+          {"answer": "Einen billigeren Pullover", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Welche Eigenschaft hat der nächste Pullover, den der Verkäufer zeigt?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er hat lange Ärmel", "is_correct": true},
+          {"answer": "Er ist kurzärmlig", "is_correct": false},
+          {"answer": "Er ist rot", "is_correct": false},
+          {"answer": "Er ist kleiner", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Gefällt dem Kunden der letzte vorgeschlagene Pullover?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Ja, er gefällt ihm", "is_correct": true},
+          {"answer": "Nein, er gefällt ihm nicht", "is_correct": false},
+          {"answer": "Er ist unsicher", "is_correct": false},
+          {"answer": "Er möchte einen anderen", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "B: Was darf ich Ihnen zeigen?"},
+      {"sequence_id": 2, "text": "A: Ich möchte gern einen Pullover haben."},
+      {"sequence_id": 3, "text": "B: Gern, - in welcher Grösse?"},
+      {"sequence_id": 4, "text": "A: Grösse 42 und in grau, bitte."},
+      {"sequence_id": 5, "text": "B: Gefällt Ihnen dieser hier?"},
+      {"sequence_id": 6, "text": "A: Ja, ganz gut, - aber ich hätte eigentlich lieber einen billigeren. Dieser ist mir etwas zu teuer."},
+      {"sequence_id": 7, "text": "B: Ich zeige Ihnen gern noch andere. Der hellgraue hier ist zum Beispiel auch sehr gut und preiswerter als der andere. Möchten Sie ihn mal anprobieren?"},
+      {"sequence_id": 8, "text": "A: Nein, die Ärmel sind zu kurz. Ich brauche einen mit längeren Ärmeln."},
+      {"sequence_id": 9, "text": "B: Hier ist ein ähnlicher Pullover mit langen Ärmeln."},
+      {"sequence_id": 10, "text": "A: Ja, der gefällt mir."}
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

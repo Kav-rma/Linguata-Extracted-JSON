@@ -1,0 +1,192 @@
+[
+  {
+    "title": "unit8_conversation_practice4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does the customer want to buy?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A sports shirt",
+            "is_correct": true
+          },
+          {
+            "answer": "A pair of socks",
+            "is_correct": false
+          },
+          {
+            "answer": "A suit",
+            "is_correct": false
+          },
+          {
+            "answer": "A coat",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which color does the customer request?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "White",
+            "is_correct": true
+          },
+          {
+            "answer": "Blue",
+            "is_correct": false
+          },
+          {
+            "answer": "Striped",
+            "is_correct": false
+          },
+          {
+            "answer": "Grey",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Does the customer know his size?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, he doesn't know exactly",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, it's size 42",
+            "is_correct": false
+          },
+          {
+            "answer": "Yes, he knows",
+            "is_correct": false
+          },
+          {
+            "answer": "He needs a size bigger",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How does the customer like the shirt shown?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He likes it quite well",
+            "is_correct": true
+          },
+          {
+            "answer": "He doesn't like it at all",
+            "is_correct": false
+          },
+          {
+            "answer": "He thinks it's too big",
+            "is_correct": false
+          },
+          {
+            "answer": "He thinks it's too colorful",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is the price of the shirt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "10.50 marks",
+            "is_correct": true
+          },
+          {
+            "answer": "16.50 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "12.80 marks",
+            "is_correct": false
+          },
+          {
+            "answer": "20.00 marks",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "How many shirts does the customer buy?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Three",
+            "is_correct": true
+          },
+          {
+            "answer": "One",
+            "is_correct": false
+          },
+          {
+            "answer": "Two",
+            "is_correct": false
+          },
+          {
+            "answer": "Four",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Was darf ich Ihnen zeigen?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Ich möchte gern ein Sporthemd haben."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: In welcher Farbe und Grösse?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: In weiss. Die Grösse weiss ich leider nicht genau."
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Wie gefällt Ihnen dieses hier?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "B: Ganz gut. Wieviel kostet es denn?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "A: Es ist sehr preiswert; es kostet nur zehn Mark fünfzig."
+      },
+      {
+        "sequence_id": 8,
+        "text": "B: Gut, geben Sie mir bitte drei davon."
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

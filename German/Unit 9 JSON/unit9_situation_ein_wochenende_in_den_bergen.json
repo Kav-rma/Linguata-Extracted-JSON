@@ -1,0 +1,144 @@
+[
+  {
+    "title": "unit9_situation_ein_wochenende_in_den_bergen",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wohin möchte Herr Wilson am Wochenende fahren?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "In die Berge", "is_correct": true},
+          {"answer": "An die Ostsee", "is_correct": false},
+          {"answer": "Nach München", "is_correct": false},
+          {"answer": "Nach Süddeutschland", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was macht Herr Wilson gern?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er läuft gern Ski", "is_correct": true},
+          {"answer": "Er schwimmt gern", "is_correct": false},
+          {"answer": "Er fährt gern Fahrrad", "is_correct": false},
+          {"answer": "Er segelt gern", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Was hofft Herr Wilson bezüglich des Wetters?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Dass es viel Schnee in den Bergen gibt", "is_correct": true},
+          {"answer": "Dass es regnet", "is_correct": false},
+          {"answer": "Dass es warm ist", "is_correct": false},
+          {"answer": "Dass es stürmt", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wen möchte Herr Wilson mitnehmen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Herrn Becker", "is_correct": true},
+          {"answer": "Herrn Müller", "is_correct": false},
+          {"answer": "Frau Becker", "is_correct": false},
+          {"answer": "Frau Wilson", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was hat Herr Becker am Wochenende vor?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Nichts", "is_correct": true},
+          {"answer": "Eine Geschäftsreise", "is_correct": false},
+          {"answer": "Er möchte Ski laufen", "is_correct": false},
+          {"answer": "Er muss arbeiten", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Kann Herr Becker Ski laufen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Nein, er kann nicht Ski laufen", "is_correct": true},
+          {"answer": "Ja, er ist ein guter Skifahrer", "is_correct": false},
+          {"answer": "Er kann es ein bisschen", "is_correct": false},
+          {"answer": "Er fährt lieber Snowboard", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Was fragt Herr Becker?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Mit welchem Auto sie fahren wollen", "is_correct": true},
+          {"answer": "Wohin sie fahren wollen", "is_correct": false},
+          {"answer": "Ob sie Ski fahren können", "is_correct": false},
+          {"answer": "Wann sie abfahren", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Wer hat einen grösseren Wagen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Herr Becker", "is_correct": true},
+          {"answer": "Herr Wilson", "is_correct": false},
+          {"answer": "Beide haben gleich grosse Wagen", "is_correct": false},
+          {"answer": "Sie mieten einen Wagen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Welches Auto möchte Herr Wilson lieber nehmen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Seinen neuen Volkswagen", "is_correct": true},
+          {"answer": "Den grossen Wagen von Herrn Becker", "is_correct": false},
+          {"answer": "Einen Mietwagen", "is_correct": false},
+          {"answer": "Seinen alten Wagen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Warum möchte Herr Wilson lieber seinen Volkswagen fahren?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Weil er in den Bergen besser fährt als ein grosser Wagen", "is_correct": true},
+          {"answer": "Weil er neu ist und besser aussieht", "is_correct": false},
+          {"answer": "Weil er schneller ist", "is_correct": false},
+          {"answer": "Weil Herr Becker keinen Führerschein hat", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "Herr Wilson sagt Herrn Becker, er will am Wochenende in die Berge fahren."},
+      {"sequence_id": 2, "text": "Er sagt, er läuft gern Ski und er hofft, es gibt viel Schnee in den Bergen."},
+      {"sequence_id": 3, "text": "Er möchte Herrn Becker gern mitnehmen."},
+      {"sequence_id": 4, "text": "Herr Becker hat am Wochenende nichts vor."},
+      {"sequence_id": 5, "text": "Er kann leider nicht Ski laufen, aber er möchte gern mitkommen."},
+      {"sequence_id": 6, "text": "Er fragt, mit welchem Auto sie fahren wollen."},
+      {"sequence_id": 7, "text": "Er hat einen grösseren Wagen als Herr Wilson."},
+      {"sequence_id": 8, "text": "Herr Wilson möchte aber lieber mit seinem neuen Volkswagen fahren; der fährt in den Bergen besser als ein grosser Wagen."}
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,937 @@
+{
+  "title": "unit8_variation_drill",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Geben Sie mir bitte ein paar einfarbige und ein paar gemusterte Socken.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Give me a couple of solid-color and a couple of patterned socks, please.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Ich suche einfarbige und gemusterte Socken.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I'm looking for solid-color and figured socks.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Zeigen Sie mir bitte einige leichte und preiswerte Jacken.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Show me a few light-weight and reasonably priced jackets.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Er hat viele neue und schöne Sachen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He has many new and beautiful things.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Haben Sie gestreifte und weisse Sporthemden?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Do you have striped and plain white soft-collar shirts?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Meine Frau möchte sich ein paar lange und ein paar kurze Jacken ansehen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "My wife would like to look at a couple of long and a couple of short jackets.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Sie haben viele kleine Teppiche und ein paar grosse.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They have a lot of small rugs and a couple of big ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Unsere beiden alten Wagen fahren noch ganz gut.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Both our old cars still run quite well.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Alle neuen Hemden sind mir leider zu klein.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "All the new shirts are unfortunately too small for me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Wie gefallen Ihnen meine neuen gestreiften Sporthemden?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "How do you like my new striped (soft-collar) shirts?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Alle anderen Farben gefallen mir nicht.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I don't like all the other colors.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Hier gibt es keine grossen Geschäfte, nur kleine.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "There aren't any big stores here, only small ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Ich kenne hier viele amerikanische Restaurants, aber nur ein paar deutsche.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I know a lot of American restaurants here but only a couple of German ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Er liest keine englischen Zeitungen, aber alle deutschen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He doesn't read any English newspapers but all the German ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Ich kann Ihnen viele gute Stoffe zeigen, aber leider keine englischen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I can show you a lot of good materials but unfortunately no English ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Haben Sie nur gestreifte Sporthemden und keine einfarbigen?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Do you have only striped, soft-collar shirts, no solid-color ones?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Wir kennen keine französischen Weine, aber alle deutschen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "We don't know any French wines, but we do know all the German ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Ich habe einige braune Jacken in Ihrer Grösse, aber keine grünen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I have a few brown jackets here in your size but no green ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Er will mir etwas Nettes kaufen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He wants to buy something nice for me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Haben Sie etwas Passendes in dieser Preislage?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Do you have something suitable in this price range?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Ich zeige Ihnen gern noch etwas Anderes.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I'll be glad to show you something else in addition.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "In dieser Farbe haben wir leider nichts Ähnliches.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In this color unfortunately we don't have anything similar.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Hoffentlich gibt er uns nichts Teueres.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I hope he doesn't give us anything expensive.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Ich kann hier nichts Gutes finden.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I can't find anything good here.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Ist Ihnen das recht?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Is that all right with you?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Das ist ihm recht.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "That's all right with him.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Das ist uns sehr wichtig.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "That's very important to us.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "Ist Ihnen das bekannt?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Do you know about that?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Das ist mir leider nicht möglich.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I'm unfortunately not able to.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Diese neuen Einfuhrbestimmungen sind dem Konsul nicht bekannt.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The consul doesn't know about these new import regulations.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Das Buch ist meinem Vater nicht bekannt.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "My father doesn't know about the book.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Dieser Besuch ist meiner Frau leider nicht möglich.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "My wife is unfortunately not able to make the visit.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Das Telefongespräch ist dem Vizekonsul sehr wichtig.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The telephone call is very important to the vice-consul.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Die deutschen Zeitungen sind den amerikanischen nicht sehr ähnlich.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "German newspapers are not very much like American ones.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Dieser Anzug ist mir leider zu gross.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "This suit is too big for me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Ist Ihnen diese Krawatte zu auffällig?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Is this tie too loud for you?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Die Ärmel dieses Hemdes sind mir viel zu lang.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The sleeves of this shirt are much too long for me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "Seine Jacke ist ihm zu kurz.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "His coat is too short for him.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Das Wetter ist uns heute zu schlecht.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The weather is too unpleasant for us today.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Dieser Anzug ist zu gross für mich.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "This suit is too big for me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Dieser grosse Wagen ist zu teuer für uns.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "This big car is too expensive for us.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "Ich glaube, das Haus ist zu klein für Sie.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I think the house is too small for you.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Hier im Vorort ist es zu ruhig für mich.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Here in the suburbs it's too quiet for me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "Ist diese Wohnung nicht zu gross für ihn?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Isn't this apartment too large for him?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "Ich möchte mir ein kleines Haus kaufen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I'd like to buy a little house.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "Er kann sich jetzt kein neues Auto leisten.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He can't afford a new car now.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Ich will mir eine andere Wohnung ansehen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I want to take a look at another apartment.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "Heute kauft er sich einen hellgrauen Anzug.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He's going to buy a light grey suit today.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "Sie möchte sich kein grosses Zimmer mieten.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "She wouldn't like to rent a large room.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "Ich will mir ein Buch leihen.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I want to borrow a book.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "Was für neue Möbel haben Sie denn?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What kind of new furniture do you have?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Welche neuen Geschäfte kennen Sie hier?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which new stores do you know here?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "Was für deutsche Bücher lesen Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What kind of German books do you read?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "Was für graue Anzüge meinen Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What kind of grey suits do you mean?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "Welche gestreiften Hemden möchten Sie haben?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which striped shirts would you like?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "Welche berühmten Schriftsteller kennen Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which famous authors are you familiar with?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "Was für alte Briefe suchen Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What kind of old letters are you looking for?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "Welche alten Briefe suchen Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which old letters are you looking for?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "Von welchen neuen Büchern sprechen Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which new books are you talking about?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "Mit was für alten Leuten spricht er denn da?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What old people is he talking to there, anyway?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "Von was für einem deutschen Buch sprechen Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What German book are you talking about?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "Mit welchen amerikanischen Beamten wollen Sie sprechen?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which American officials do you want to talk to?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 63,
+      "question_text": "Von was für neuen Wagen spricht er denn?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What new cars is he talking about anyway?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 64,
+      "question_text": "In welchen deutschen Restaurants waren Sie?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which German restaurants were you at?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 65,
+      "question_text": "Mit was für einem Beamten will er sprechen?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What kind of an official does he want to talk to?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 66,
+      "question_text": "Mit welchem Beamten will er sprechen?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Which official does he want to talk to?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 67,
+      "question_text": "Er liest gerade eine deutsche Zeitung.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He's just reading a German newspaper.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 68,
+      "question_text": "Er trägt die leeren Koffer auf den Boden.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He's carrying the empty suitcases to the attic.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 69,
+      "question_text": "Sie liest viele französische Romane.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "She reads lots of French novels.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 70,
+      "question_text": "Er sieht sie wahrscheinlich nicht.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He probably doesn't see them.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 71,
+      "question_text": "Sie trägt ihre Schreibmaschine in das andere Zimmer.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "She's carrying her typewriter to the other room.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 72,
+      "question_text": "Er nimmt die graue Jacke nicht.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He's not going to take the grey jacket.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 73,
+      "question_text": "Ich hoffe, die Männer tragen die Kisten bald in den Keller.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I hope the men carry the crates down to the cellar soon.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 74,
+      "question_text": "Ich hoffe, die Leute geben sich Mühe.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I hope the people make an effort.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 75,
+      "question_text": "Wir glauben, Meyers sind mit ihrer neuen Wohnung zufrieden.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "We think the Meyers are satisfied with their new apartment.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 76,
+      "question_text": "Sie sagen, sie kennen München noch nicht.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They say they're not familiar with Munich yet.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 77,
+      "question_text": "Ich finde, das Geschäft ist nicht sehr gut.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "My impression is, the store is not very good.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 23,
+    "page_end": 26,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

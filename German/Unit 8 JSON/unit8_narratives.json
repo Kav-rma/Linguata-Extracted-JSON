@@ -1,0 +1,326 @@
+{
+  "title": "unit8_narratives",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Who goes for a walk through the business center of Düsseldorf?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Herr Jones alone",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr und Frau Jones",
+          "is_correct": true
+        },
+        {
+          "answer": "Herr Wilson",
+          "is_correct": false
+        },
+        {
+          "answer": "The sales clerk",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where does Frau Jones stop to look at the display?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "At a men's clothing store",
+          "is_correct": false
+        },
+        {
+          "answer": "In front of a women's fashion store display",
+          "is_correct": true
+        },
+        {
+          "answer": "At a shoe store",
+          "is_correct": false
+        },
+        {
+          "answer": "At the market",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which items please Frau Jones?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Suits and coats",
+          "is_correct": false
+        },
+        {
+          "answer": "Dresses, pullovers, cardigans and blouses",
+          "is_correct": true
+        },
+        {
+          "answer": "Hats and shoes",
+          "is_correct": false
+        },
+        {
+          "answer": "Only blouses",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "How is men's fashion in Germany compared to America?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "More conservative",
+          "is_correct": true
+        },
+        {
+          "answer": "More colorful",
+          "is_correct": false
+        },
+        {
+          "answer": "The same",
+          "is_correct": false
+        },
+        {
+          "answer": "More expensive",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Are bright yellow socks and fiery red pullovers common in Germany?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Yes, very common",
+          "is_correct": false
+        },
+        {
+          "answer": "No, not very often",
+          "is_correct": true
+        },
+        {
+          "answer": "Only during festivals",
+          "is_correct": false
+        },
+        {
+          "answer": "They are forbidden",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where do many men still buy their suits?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Online",
+          "is_correct": false
+        },
+        {
+          "answer": "From the tailor",
+          "is_correct": true
+        },
+        {
+          "answer": "From supermarkets",
+          "is_correct": false
+        },
+        {
+          "answer": "From the market",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the service in German shops usually like?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Rude",
+          "is_correct": false
+        },
+        {
+          "answer": "Average",
+          "is_correct": false
+        },
+        {
+          "answer": "Courteous and attentive",
+          "is_correct": true
+        },
+        {
+          "answer": "Slow",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Are there as many sales in Germany as in America?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Yes, the same",
+          "is_correct": false
+        },
+        {
+          "answer": "No, there are fewer",
+          "is_correct": true
+        },
+        {
+          "answer": "There are more",
+          "is_correct": false
+        },
+        {
+          "answer": "Sales are illegal",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "What special sales events are mentioned in German cities?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "Spring and autumn sales",
+          "is_correct": false
+        },
+        {
+          "answer": "Summer and winter clearance sales",
+          "is_correct": true
+        },
+        {
+          "answer": "Christmas and Easter sales",
+          "is_correct": false
+        },
+        {
+          "answer": "Weekly markets",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is different about shoes in the shop windows?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "They are numbered",
+          "is_correct": false
+        },
+        {
+          "answer": "They are color-coded",
+          "is_correct": false
+        },
+        {
+          "answer": "They are not numbered",
+          "is_correct": true
+        },
+        {
+          "answer": "They are on sale",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr und Frau Jones machen einen Spaziergang durch das Geschäftszentrum Düsseldorfs."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Die Schaufensterauslagen gefallen ihnen sehr gut und Frau Jones bleibt lange vor dem Schaufenster eines Damenmodegeschäfts stehen."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Ihr gefallen die schönen Kleider, Pullover, Strickjacken und Blusen."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Die Handschuhe, Handtasche und Strümpfe harmonieren mit der Kleidung."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Herr Jones interessiert sich mehr für die Herrenmode."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Sie ist in Deutschland etwas konservativer als in Amerika."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Helle gelbe Socken, feuerrote Pullover oder schreiend-bunte Krawatten findet man nicht sehr oft."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Viele Herren kaufen ihre Anzüge auch heute noch beim Schneider."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Man kann aber auch sehr gute Anzüge von der Stange kaufen."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Die Bedienung in den Geschäften ist gewöhnlich sehr höflich und aufmerksam."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Die Verkäufer haben eine lange Ausbildungszeit."
+    },
+    {
+      "sequence_id": 12,
+      "text": "So viele Ausverkäufe wie in Amerika gibt es in Deutschland nicht."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Ausverkäufe sind gesetzlich geregelt."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Aber in allen Städten gibt es einen Sommerschlussverkauf und einen Winterschlussverkauf."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Herr und Frau Jones gehen auch in ein Schuhgeschäft."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Die Schuhe in den Schaufenstern sind nicht nummeriert."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Im Geschäft müssen sie dem Verkäufer sagen, was sie haben wollen."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Dieser zeigt ihnen dann mehrere Paar Schuhe, und Herr Jones findet auch bald etwas, was ihm gefällt."
+    }
+  ],
+  "metadata": {
+    "page_start": 32,
+    "page_end": 32,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

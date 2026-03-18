@@ -1,0 +1,196 @@
+[
+  {
+    "title": "unit8_conversation_practice5",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What item does the customer want to buy?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A pair of socks",
+            "is_correct": true
+          },
+          {
+            "answer": "A sports shirt",
+            "is_correct": false
+          },
+          {
+            "answer": "A coat",
+            "is_correct": false
+          },
+          {
+            "answer": "A pullover",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Does the customer want long or short socks?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Short",
+            "is_correct": true
+          },
+          {
+            "answer": "Long",
+            "is_correct": false
+          },
+          {
+            "answer": "Both",
+            "is_correct": false
+          },
+          {
+            "answer": "No preference",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which colors does the customer suggest?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Grey or green",
+            "is_correct": true
+          },
+          {
+            "answer": "Blue",
+            "is_correct": false
+          },
+          {
+            "answer": "Red",
+            "is_correct": false
+          },
+          {
+            "answer": "Black",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What material are the socks made of?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Pure wool",
+            "is_correct": true
+          },
+          {
+            "answer": "Cotton",
+            "is_correct": false
+          },
+          {
+            "answer": "Silk",
+            "is_correct": false
+          },
+          {
+            "answer": "Synthetic",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How many pairs of socks are packed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Three pairs",
+            "is_correct": true
+          },
+          {
+            "answer": "One pair",
+            "is_correct": false
+          },
+          {
+            "answer": "Two pairs",
+            "is_correct": false
+          },
+          {
+            "answer": "Four pairs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Where should the customer pay?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At the cashier",
+            "is_correct": true
+          },
+          {
+            "answer": "Online",
+            "is_correct": false
+          },
+          {
+            "answer": "At home",
+            "is_correct": false
+          },
+          {
+            "answer": "They don't need to pay",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Ich möchte gern ein Paar Socken haben."
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Gern, lange oder kurze?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Kurze, bitte."
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Welche Farbe, - haben Sie einen bestimmten Wunsch?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Nein, aber sie müssen einfarbig sein, vielleicht grau oder grün."
+      },
+      {
+        "sequence_id": 6,
+        "text": "B: Hier sind gute Socken, reine Wolle."
+      },
+      {
+        "sequence_id": 7,
+        "text": "A: Ja, die gefallen mir auch."
+      },
+      {
+        "sequence_id": 8,
+        "text": "B: Packen Sie bitte drei Paar ein."
+      },
+      {
+        "sequence_id": 9,
+        "text": "A: Hier ist Ihr Kassenzettel. Bitte bezahlen Sie dort an der Kasse."
+      }
+    ],
+    "metadata": {
+      "page_start": 31,
+      "page_end": 31,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

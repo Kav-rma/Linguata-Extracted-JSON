@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit9_quantity_adjectives",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Under which conditions do 'viel' and 'wenig' take endings?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In the plural or after a specifier",
+            "is_correct": true
+          },
+          {
+            "answer": "Only in the singular",
+            "is_correct": false
+          },
+          {
+            "answer": "Only when used as verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "They never take endings",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which sentence correctly uses 'viel' without an ending?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Haben Sie viel Regen?",
+            "is_correct": true
+          },
+          {
+            "answer": "Mir gefallen die vielen eingebauten Schränke",
+            "is_correct": false
+          },
+          {
+            "answer": "Mit seinem wenigen Geld",
+            "is_correct": false
+          },
+          {
+            "answer": "Er kennt viele Deutsche",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What is the comparative form of 'wenig'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "weniger",
+            "is_correct": true
+          },
+          {
+            "answer": "wenigerer",
+            "is_correct": false
+          },
+          {
+            "answer": "mehr",
+            "is_correct": false
+          },
+          {
+            "answer": "wenigst",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which expression is an exception where 'viel' has an ending?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Vielen Dank",
+            "is_correct": true
+          },
+          {
+            "answer": "Viel Schnee",
+            "is_correct": false
+          },
+          {
+            "answer": "Viel Zeit",
+            "is_correct": false
+          },
+          {
+            "answer": "Viel Geld",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "In the sentence 'Er kennt viele Deutsche, aber er spricht nur mit wenigen', which form has an ending?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "wenigen",
+            "is_correct": true
+          },
+          {
+            "answer": "viele",
+            "is_correct": false
+          },
+          {
+            "answer": "spricht",
+            "is_correct": false
+          },
+          {
+            "answer": "Deutsche",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence shows 'mehr' used without an ending?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Sie hat sicher mehr Geld als ich",
+            "is_correct": true
+          },
+          {
+            "answer": "Mit seinem wenigen Geld kann er sich kein Auto leisten",
+            "is_correct": false
+          },
+          {
+            "answer": "Mir gefallen die vielen eingebauten Schränke",
+            "is_correct": false
+          },
+          {
+            "answer": "In Deutschland gibt es weniger Tankstellen als in Amerika",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which of the following sentences uses 'viel' with an ending after a specifier?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Mir gefallen die vielen eingebauten Schränke",
+            "is_correct": true
+          },
+          {
+            "answer": "Haben Sie viel Regen?",
+            "is_correct": false
+          },
+          {
+            "answer": "Er kennt viele Deutsche",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich habe nicht viel Zeit",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What does 'weniger' mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Less",
+            "is_correct": true
+          },
+          {
+            "answer": "More",
+            "is_correct": false
+          },
+          {
+            "answer": "Most",
+            "is_correct": false
+          },
+          {
+            "answer": "Little",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which sentence illustrates that 'viel' and 'wenig' take endings when they occur after a specifier?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Mit seinem wenigen Geld kann er sich kein Auto leisten",
+            "is_correct": true
+          },
+          {
+            "answer": "Bei uns gibt es wenig Schnee",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich habe nicht viel Zeit",
+            "is_correct": false
+          },
+          {
+            "answer": "Vielen Dank",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which adjective forms do not take endings when used in the comparative?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "mehr and weniger",
+            "is_correct": true
+          },
+          {
+            "answer": "viele and wenige",
+            "is_correct": false
+          },
+          {
+            "answer": "vielen and wenigen",
+            "is_correct": false
+          },
+          {
+            "answer": "vieler and wenigst",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Quantity adjectives in German have endings only under certain conditions.\n\n1. Viel (‘much, many’) and wenig (‘not much, few’) have endings when they occur in the plural:\nEr kennt viele Deutsche, aber er spricht nur mit wenigen. – He knows many Germans but he only talks to a few.\n\n2. Viel and wenig have endings when they occur after a specifier:\nMir gefallen die vielen eingebauten Schränke. – I like the many built‑in cupboards.\nMit seinem wenigen Geld kann er sich kein Auto leisten. – With the little money he has he can't afford a car.\n\n3. Viel and wenig usually do not have endings in the singular when they occur without a specifier:\nHaben Sie viel Regen? – Do you have much rain?\nBei uns zu Hause gibt es leider wenig Schnee im Winter. – Where we live there's not much snow in the winter.\nIch habe nicht viel Zeit. – I don't have much time.\nHowever, there is one fixed expression where an ending occurs: Vielen Dank. – Many thanks.\n\nComparative forms of the quantity adjectives do not have endings. The comparative forms mehr (‘more’) and weniger (‘less’) never have endings:\nSie hat sicher mehr Geld als ich. – She certainly has more money than I.\nHat sie weniger Zeit als der Konsul? – Does she have less time than the consul?\nWir haben hier weniger Verkehr als in der Stadt. – We have less traffic here than in town.\nEr hat mehr Bücher als ich. – He has more books than I.\nIn Deutschland gibt es weniger Tankstellen als in Amerika. – In Germany there are fewer gas stations than in America."
+      }
+    ],
+    "metadata": {
+      "page_start": 9,
+      "page_end": 9,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

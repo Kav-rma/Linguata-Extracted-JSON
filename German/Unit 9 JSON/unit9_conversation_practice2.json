@@ -1,0 +1,80 @@
+[
+  {
+    "title": "unit9_conversation_practice2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wo kauft B gewöhnlich seine Anzüge?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Im Konfektionsgeschäft", "is_correct": true},
+          {"answer": "Im Warenhaus", "is_correct": false},
+          {"answer": "Im Second-Hand-Laden", "is_correct": false},
+          {"answer": "Im Supermarkt", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Warum kauft B im Konfektionsgeschäft ein?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Es gibt eine größere Auswahl", "is_correct": true},
+          {"answer": "Es ist billiger", "is_correct": false},
+          {"answer": "Es ist in der Nähe", "is_correct": false},
+          {"answer": "Es hat längere Öffnungszeiten", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Was fragt A bezüglich des Preises?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Ob es dort nicht viel teurer ist", "is_correct": true},
+          {"answer": "Ob es dort billiger ist", "is_correct": false},
+          {"answer": "Ob es Rabatte gibt", "is_correct": false},
+          {"answer": "Ob die Anzüge ausverkauft sind", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wie antwortet B auf die Frage nach dem Preis?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Nicht viel und die Qualität der Anzüge ist besser", "is_correct": true},
+          {"answer": "Es ist viel billiger", "is_correct": false},
+          {"answer": "Es ist viel teurer", "is_correct": false},
+          {"answer": "Sie haben keine Anzüge", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Wie beschreibt B die Qualität der Anzüge im Konfektionsgeschäft?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Besser als im Warenhaus", "is_correct": true},
+          {"answer": "Schlechter als im Warenhaus", "is_correct": false},
+          {"answer": "Gleich wie im Warenhaus", "is_correct": false},
+          {"answer": "Er weiss es nicht", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "A: Wo kaufen Sie Ihre Anzüge, im Konfektionsgeschäft oder im Warenhaus?"},
+      {"sequence_id": 2, "text": "B: Ich kaufe sie gewöhnlich im Konfektionsgeschäft. Man hat dort eine größere Auswahl als im Warenhaus."},
+      {"sequence_id": 3, "text": "A: Ist es dort nicht viel teurer?"},
+      {"sequence_id": 4, "text": "B: Nicht viel und die Qualität der Anzüge ist besser."}
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

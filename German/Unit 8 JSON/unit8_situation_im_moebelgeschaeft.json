@@ -1,0 +1,288 @@
+[
+  {
+    "title": "unit8_situation_im_moebelgeschaeft",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What are the Joneses looking to buy?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "New furniture",
+            "is_correct": true
+          },
+          {
+            "answer": "Clothes",
+            "is_correct": false
+          },
+          {
+            "answer": "Books",
+            "is_correct": false
+          },
+          {
+            "answer": "Food",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Whom do they ask for advice?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Schmidt",
+            "is_correct": true
+          },
+          {
+            "answer": "Herr Becker",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Wilson",
+            "is_correct": false
+          },
+          {
+            "answer": "Der Verkäufer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Where does Herr Schmidt like to shop for furniture?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Schneider und Co.",
+            "is_correct": true
+          },
+          {
+            "answer": "Schwarz und Co.",
+            "is_correct": false
+          },
+          {
+            "answer": "Schäfer und Co.",
+            "is_correct": false
+          },
+          {
+            "answer": "A supermarket",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Where is the recommended store located?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "On Bahnhofstrasse",
+            "is_correct": true
+          },
+          {
+            "answer": "On Schubertstrasse",
+            "is_correct": false
+          },
+          {
+            "answer": "In the city center",
+            "is_correct": false
+          },
+          {
+            "answer": "Near a park",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What kind of furniture do Herr und Frau Jones look at?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Living-room furniture",
+            "is_correct": true
+          },
+          {
+            "answer": "Bedroom furniture",
+            "is_correct": false
+          },
+          {
+            "answer": "Office furniture",
+            "is_correct": false
+          },
+          {
+            "answer": "Garden furniture",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which items do they buy?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A desk, a large armchair, a bookcase, four chairs, a sofa, a floor lamp and a small smoking table",
+            "is_correct": true
+          },
+          {
+            "answer": "Only a sofa and chairs",
+            "is_correct": false
+          },
+          {
+            "answer": "Just a rug",
+            "is_correct": false
+          },
+          {
+            "answer": "A television",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Does the salesperson show them rugs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes, he shows them some beautiful rugs",
+            "is_correct": true
+          },
+          {
+            "answer": "No, he doesn't",
+            "is_correct": false
+          },
+          {
+            "answer": "He shows them only chairs",
+            "is_correct": false
+          },
+          {
+            "answer": "He sells them fruit",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Why don't they buy a rug?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The rugs are very expensive",
+            "is_correct": true
+          },
+          {
+            "answer": "They don't like the color",
+            "is_correct": false
+          },
+          {
+            "answer": "The rugs are too small",
+            "is_correct": false
+          },
+          {
+            "answer": "They already have one",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What is the name of the recommended store?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Schneider und Co.",
+            "is_correct": true
+          },
+          {
+            "answer": "Schäfer und Co.",
+            "is_correct": false
+          },
+          {
+            "answer": "Schwarz und Co.",
+            "is_correct": false
+          },
+          {
+            "answer": "Becker und Co.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Do Herr und Frau Jones buy any rugs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, they don't",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, they buy two",
+            "is_correct": false
+          },
+          {
+            "answer": "Yes, they buy one",
+            "is_correct": false
+          },
+          {
+            "answer": "They plan to buy one later",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Jones' wollen sich neue Möbel kaufen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Sie fragen Herrn Schmidt, wo ein gutes Möbelgeschäft ist."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Herr Schmidt sagt ihnen, er kauft gern bei Schneider und Co."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Das ist ein gutes altes Geschäft in der Bahnhofstrasse."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Herr und Frau Jones gehen dorthin und sehen sich Wohnzimmer-Möbel an."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Sie kaufen sich einen Schreibtisch, einen grossen Sessel, einen Bücherschrank, vier Stühle, ein Sofa, eine Stehlampe und einen kleinen Rauchtisch."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Dann zeigt ihnen der Verkäufer noch einige schöne Teppiche."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Aber die Teppiche sind sehr teuer und Herr und Frau Jones wollen sich noch keinen kaufen."
+      }
+    ],
+    "metadata": {
+      "page_start": 32,
+      "page_end": 32,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

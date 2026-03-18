@@ -1,0 +1,93 @@
+[
+  {
+    "title": "unit9_conversation_practice3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Warum suchen B und seine Familie eine neue Wohnung?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Weil sie eine grössere brauchen", "is_correct": true},
+          {"answer": "Weil sie umziehen wollen", "is_correct": false},
+          {"answer": "Weil sie die Stadt verlassen", "is_correct": false},
+          {"answer": "Weil ihre Wohnung renoviert wird", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Wo sind einige Wohnungen zu vermieten?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "In der Schubertstrasse", "is_correct": true},
+          {"answer": "In der Hauptstrasse", "is_correct": false},
+          {"answer": "In der Bahnhofstrasse", "is_correct": false},
+          {"answer": "In der Mozartstrasse", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wie weit ist die Schubertstrasse von hier?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Nicht weit von hier", "is_correct": true},
+          {"answer": "Sehr weit von hier", "is_correct": false},
+          {"answer": "Nebenan", "is_correct": false},
+          {"answer": "Unbekannt", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wann will B sich die Wohnungen ansehen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Heute Abend", "is_correct": true},
+          {"answer": "Morgen früh", "is_correct": false},
+          {"answer": "Nächste Woche", "is_correct": false},
+          {"answer": "Heute Morgen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was hofft B bezüglich der Miete?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Dass die Miete nicht zu hoch ist", "is_correct": true},
+          {"answer": "Dass die Miete sehr hoch ist", "is_correct": false},
+          {"answer": "Dass die Wohnung möbliert ist", "is_correct": false},
+          {"answer": "Dass die Wohnung alt ist", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Wie beurteilt A die Miete im Vergleich zur jetzigen Wohnung?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Sie ist nicht viel höher als hier", "is_correct": true},
+          {"answer": "Sie ist viel niedriger", "is_correct": false},
+          {"answer": "Sie ist doppelt so hoch", "is_correct": false},
+          {"answer": "Er weiss es nicht", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "A: Ich höre, Sie suchen eine neue Wohnung?"},
+      {"sequence_id": 2, "text": "B: Ja, wir brauchen eine grössere. Unsere ist wirklich zu klein."},
+      {"sequence_id": 3, "text": "A: In der Schubertstrasse sind einige zu vermieten. Das ist nicht weit von hier."},
+      {"sequence_id": 4, "text": "B: Ich werde heute abend gleich hingehen. Hoffentlich ist die Miete nicht zu hoch."},
+      {"sequence_id": 5, "text": "A: Ich glaube, sie ist nicht viel höher als hier."}
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

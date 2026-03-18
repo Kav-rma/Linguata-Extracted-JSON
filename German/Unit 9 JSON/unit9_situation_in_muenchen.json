@@ -1,0 +1,144 @@
+[
+  {
+    "title": "unit9_situation_in_muenchen",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wo trifft Herr Schulze Herrn Becker?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Vor dem Rathaus", "is_correct": true},
+          {"answer": "Am Bahnhof", "is_correct": false},
+          {"answer": "Vor dem Hotel", "is_correct": false},
+          {"answer": "Im Park", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was sagt Herr Becker über seine Geschäftsreisen und Besuche in München?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er muss viele Geschäftsreisen machen und kommt nicht oft nach München", "is_correct": true},
+          {"answer": "Er hat keine Geschäftsreisen und besucht München oft", "is_correct": false},
+          {"answer": "Er macht nur Urlaubsreisen", "is_correct": false},
+          {"answer": "Er ist oft in München", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wo wohnt Herr Becker zurzeit in München?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "In einem Hotel in der Beethovenstrasse", "is_correct": true},
+          {"answer": "Bei Herrn Schulze", "is_correct": false},
+          {"answer": "In einem Apartment in der Mozartstrasse", "is_correct": false},
+          {"answer": "Im Rathaus", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Was fragt Herr Schulze Herrn Becker?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Was er jetzt vorhat", "is_correct": true},
+          {"answer": "Wo er arbeitet", "is_correct": false},
+          {"answer": "Wie lange er bleibt", "is_correct": false},
+          {"answer": "Wann er abreist", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was muss Herr Becker noch erledigen, bevor er essen geht?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er muss noch einige Besorgungen machen", "is_correct": true},
+          {"answer": "Er muss eine Konferenz besuchen", "is_correct": false},
+          {"answer": "Er muss packen", "is_correct": false},
+          {"answer": "Er muss das Auto reparieren", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Was möchte Herr Becker nach den Besorgungen tun?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Er möchte gern essen gehen", "is_correct": true},
+          {"answer": "Er möchte schlafen", "is_correct": false},
+          {"answer": "Er möchte einen Pullover kaufen", "is_correct": false},
+          {"answer": "Er möchte ins Museum gehen", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Wo wollen sie sich in einer Stunde wieder treffen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Auf dem Parkplatz vor dem Rathaus", "is_correct": true},
+          {"answer": "Im Hotel", "is_correct": false},
+          {"answer": "Am Bahnhof", "is_correct": false},
+          {"answer": "Im Restaurant", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Wem gehört das Auto, das auf dem Parkplatz steht?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Herrn Schulze", "is_correct": true},
+          {"answer": "Herrn Becker", "is_correct": false},
+          {"answer": "Dem Konsulat", "is_correct": false},
+          {"answer": "Einem Taxifahrer", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Wohin wollen sie zusammen fahren?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Nach Schwabing", "is_correct": true},
+          {"answer": "An die Ostsee", "is_correct": false},
+          {"answer": "Nach Frankfurt", "is_correct": false},
+          {"answer": "In die Berge", "is_correct": false}
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Was wollen sie in Schwabing machen?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Zu Mittag essen", "is_correct": true},
+          {"answer": "Einkaufen gehen", "is_correct": false},
+          {"answer": "Skifahren gehen", "is_correct": false},
+          {"answer": "Freunde besuchen", "is_correct": false}
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {"sequence_id": 1, "text": "Herr Schulze trifft Herrn Becker vor dem Rathaus."},
+      {"sequence_id": 2, "text": "Herr Becker sagt, er muss viele Geschäftsreisen machen und er kommt nicht oft nach München."},
+      {"sequence_id": 3, "text": "Herr Schulze fragt ihn, wo er jetzt in München wohnt."},
+      {"sequence_id": 4, "text": "Herr Becker sagt, er wohnt in einem Hotel in der Beethovenstrasse."},
+      {"sequence_id": 5, "text": "Herr Schulze fragt Herrn Becker, was er jetzt vorhat."},
+      {"sequence_id": 6, "text": "Herr Becker muss noch einige Besorgungen machen und dann möchte er gern essen gehen."},
+      {"sequence_id": 7, "text": "Er will Herrn Schulze in einer Stunde wieder auf dem Parkplatz vor dem Rathaus treffen."},
+      {"sequence_id": 8, "text": "Dort steht das Auto von Herrn Schulze und sie wollen zusammen nach Schwabing fahren und dort zu Mittag essen."}
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]
