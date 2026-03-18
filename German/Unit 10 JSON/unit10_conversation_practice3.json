@@ -1,0 +1,156 @@
+[
+  {
+    "title": "unit10_conversation_practice3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "When does Herr Meyer usually eat his main meal?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At seven o'clock in the evening",
+            "is_correct": true
+          },
+          {
+            "answer": "At noon",
+            "is_correct": false
+          },
+          {
+            "answer": "At eight",
+            "is_correct": false
+          },
+          {
+            "answer": "At six",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does Herr Meyer usually eat at midday?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A warm soup",
+            "is_correct": false
+          },
+          {
+            "answer": "Rye bread with cold cuts and cheese",
+            "is_correct": true
+          },
+          {
+            "answer": "Pizza",
+            "is_correct": false
+          },
+          {
+            "answer": "Salad",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "According to A, what can he do at midday?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He can't go home",
+            "is_correct": false
+          },
+          {
+            "answer": "He goes home to eat and they eat warm",
+            "is_correct": true
+          },
+          {
+            "answer": "He skips lunch",
+            "is_correct": false
+          },
+          {
+            "answer": "He only drinks coffee",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Who is being asked about meal times?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Meyer",
+            "is_correct": true
+          },
+          {
+            "answer": "Herr Becker",
+            "is_correct": false
+          },
+          {
+            "answer": "Frau Wilson",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Jones",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Does Herr Meyer eat a warm meal at lunchtime?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes",
+            "is_correct": false
+          },
+          {
+            "answer": "No, he eats something cold",
+            "is_correct": true
+          },
+          {
+            "answer": "He always goes home",
+            "is_correct": false
+          },
+          {
+            "answer": "He doesn't eat lunch",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wann essen Sie eigentlich immer Ihre Hauptmahlzeit, Herr Meyer?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "M: Gewöhnlich um sieben Uhr abends, wenn ich aus dem Büro komme."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Essen Sie mittags auch warm?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "M: Nein, dann esse ich meistens etwas Roggenbrot mit Aufschnitt und Käse und trinke ein Glas Bier dazu."
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Ich kann mittags zum Essen nach Hause gehen und wir essen meistens warm."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

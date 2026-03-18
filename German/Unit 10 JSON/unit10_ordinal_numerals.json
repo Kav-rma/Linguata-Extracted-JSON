@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit10_ordinal_numerals",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "How are most German ordinal numerals from 'second' to 'nineteenth' formed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Number + -er",
+            "is_correct": false
+          },
+          {
+            "answer": "Number + stem‑lengthener + adjective ending",
+            "is_correct": true
+          },
+          {
+            "answer": "Number + -st + noun",
+            "is_correct": false
+          },
+          {
+            "answer": "Number alone",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which ordinal numeral is irregular according to the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "zweiter",
+            "is_correct": false
+          },
+          {
+            "answer": "vierter",
+            "is_correct": false
+          },
+          {
+            "answer": "erster",
+            "is_correct": true
+          },
+          {
+            "answer": "sechster",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How are ordinal numerals from 'twentieth' onward formed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They drop the stem‑lengthener",
+            "is_correct": false
+          },
+          {
+            "answer": "They use -st- plus adjective endings",
+            "is_correct": true
+          },
+          {
+            "answer": "They add an umlaut",
+            "is_correct": false
+          },
+          {
+            "answer": "They become invariant",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "In German, how is the date 'May the sixth' correctly expressed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "der sechs Mai",
+            "is_correct": false
+          },
+          {
+            "answer": "der sechsten Mai",
+            "is_correct": false
+          },
+          {
+            "answer": "der sechste Mai",
+            "is_correct": true
+          },
+          {
+            "answer": "der sechstel Mai",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "When a date stands alone in German, as at the head of a letter, which case is used?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Accusative",
+            "is_correct": true
+          },
+          {
+            "answer": "Dative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence correctly expresses 'We're leaving on the afternoon of the eighteenth'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wir fahren am Nachmittag des 18. ab.",
+            "is_correct": true
+          },
+          {
+            "answer": "Wir fahren in der Nachmittag 18 ab.",
+            "is_correct": false
+          },
+          {
+            "answer": "Wir fahren des 18. am Nachmittag ab.",
+            "is_correct": false
+          },
+          {
+            "answer": "Wir fahren der 18. Nachmittag ab.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does the ordinal 'fünfter' signify in the phrase 'seinen fünften Sohn'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Fourth",
+            "is_correct": false
+          },
+          {
+            "answer": "Fifth",
+            "is_correct": true
+          },
+          {
+            "answer": "Sixth",
+            "is_correct": false
+          },
+          {
+            "answer": "Fifth of",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which statement about dates in German is correct?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The ordinal always follows the month name.",
+            "is_correct": false
+          },
+          {
+            "answer": "German uses 'of' in dates like English.",
+            "is_correct": false
+          },
+          {
+            "answer": "The ordinal precedes the month and the noun 'Tag' is not expressed.",
+            "is_correct": true
+          },
+          {
+            "answer": "The ordinal can either precede or follow the month.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What is the English translation of 'Am 16. September komme ich wieder zurück'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "I'm coming back again on September 16th.",
+            "is_correct": true
+          },
+          {
+            "answer": "On the 16th of September I am leaving.",
+            "is_correct": false
+          },
+          {
+            "answer": "I will arrive on 16 September.",
+            "is_correct": false
+          },
+          {
+            "answer": "It is September 16th again.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "In 'Mein erster Sommer im Gebirge', what does 'erster' indicate?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It’s the first summer spent in the mountains.",
+            "is_correct": true
+          },
+          {
+            "answer": "It’s the third summer.",
+            "is_correct": false
+          },
+          {
+            "answer": "It means the second.",
+            "is_correct": false
+          },
+          {
+            "answer": "It’s the first time in summer.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "B. ORDINAL NUMERALS\nWe have already noted that German numbers, except for *eins*, normally have no endings. They are not adjectives, although they may occur within the specifier‑adjective‑noun sequence. There are however number‑like adjectives in German which do have endings. We have had one such example in this unit:\nAm vierten Juli mittags während eines Gewitters. – The fourth of July, at noon during a thunder shower.\nThese number‑like adjectives – the words for \"first, fourth, twentieth, etc.\" – are called ORDINAL NUMERALS. Note how the numeral above is formed: *am vier‑t‑en Juli* (“on the fourth of July”). The number is followed by a stem‑lengthener and then the regular adjective ending.\n\nII. Look at some more examples of numbers and ordinal numerals:\nWir fahren in zehn Tagen nach Amerika.\nHier sind täglich zwei Konzerte.\nEin Sommer im Gebirge ist sehr schön.\nIch lese jeden Tag drei Zeitungen.\nIm Sommer finden hier zwanzig Konzerte statt.\nKennen Sie seine fünf Söhne?\nWir fahren in acht Wochen nach Berlin.\nDas sind ihre sieben Kinder.\nWir werden am zehnten Tag unserer Reise ankommen.\nDas zweite Konzert fängt um acht Uhr an.\nDas ist mein erster Sommer im Gebirge.\nDie dritte Zeitung lese ich abends.\nDas zwanzigste Konzert war am schönsten.\nKennen Sie seinen fünften Sohn?\nIn der achten Woche unserer Reise fahren wir nach Berlin.\nDas ist ihr siebtes (siebentes) Kind.\n\n1. Most ordinal numerals through “nineteenth” have the number plus stem‑lengthener plus adjective endings:\nam zehn‑t‑en Tag – on the tenth day\ndas zwei‑t‑e Konzert – the second concert\nseinen fünf‑t‑en Sohn – his fifth son\n\n2. Three ordinal numerals are irregular and one has an alternate irregular form:\nmein erst‑er Sommer – my first summer\ndie dritt‑e Zeitung – the third newspaper\nder acht‑en Woche – the eighth week\nihr siebt‑es Kind (ihr sieben‑t‑es Kind) – her seventh child\n\n3. The ordinal numerals from “twentieth” onward have the number plus stem‑lengthener *‑st‑* plus adjective endings:\ndas zwanzig‑st‑e Konzert – the twentieth concert\n\nIII. Ordinal numerals are used for dates in both German and English. There are some differences in the way they are used, however:\nAm vierten Juli besuchen wir meine Tante.\nHeute ist der sechste Mai.\nOn the fourth of July / On July the fourth we’re going to visit my aunt. / On July fourth\nThe sixth of May. Today is May the sixth. May sixth. In English we have three choices; in German there is only one.\nNote that the date is always a *der*-sequence, although the noun (*der Tag*) is not expressed, and that the ordinal always immediately precedes the name of the month when it occurs.\nHere are some more examples:\nAm 16. September komme ich wieder zurück.\nDer 21. Juni ist der längste Tag des Jahres.\nIch freue mich auf den einunddreissigsten –\nWir fahren am Nachmittag des 18. ab.\nOn September 16th I’m coming back again.\nThe 21st of June is the longest day of the year.\nI’m looking forward to the thirty‑first –\nWe’re leaving on the afternoon of the 18th.\nWhen they occur in sentences, dates have whatever form (Nominative, Accusative, Dative, Genitive) the structure of the sentence may require. Notice that in the German writing system the ordinal may also be identified by a period placed after the Arabic numeral. When a date stands alone, as for example at the head of a letter, it has the accusative form: Bremen, den 31. Mai 1951."
+      }
+    ],
+    "metadata": {
+      "page_start": 9,
+      "page_end": 10,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

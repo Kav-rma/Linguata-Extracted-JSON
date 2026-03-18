@@ -1,0 +1,312 @@
+[
+  {
+    "title": "unit10_narrative",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In which city do Herr und Frau Burke arrive?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Frankfurt",
+            "is_correct": true
+          },
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Munich",
+            "is_correct": false
+          },
+          {
+            "answer": "Hamburg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "On which date do the Burkes arrive in Germany?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "10th July",
+            "is_correct": true
+          },
+          {
+            "answer": "10th June",
+            "is_correct": false
+          },
+          {
+            "answer": "10th August",
+            "is_correct": false
+          },
+          {
+            "answer": "10th September",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Why do the Burkes go to a restaurant first?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because it's lunchtime and they're hungry",
+            "is_correct": true
+          },
+          {
+            "answer": "Because they want to go shopping",
+            "is_correct": false
+          },
+          {
+            "answer": "Because their flight is delayed",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they are meeting friends there",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Who brings them the menu?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The waiter",
+            "is_correct": true
+          },
+          {
+            "answer": "The chef",
+            "is_correct": false
+          },
+          {
+            "answer": "Their friend",
+            "is_correct": false
+          },
+          {
+            "answer": "A passerby",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Why are the Burkes glad their friends can help them with the menu?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They find reading the menu difficult",
+            "is_correct": true
+          },
+          {
+            "answer": "They don't like German food",
+            "is_correct": false
+          },
+          {
+            "answer": "They can't see well",
+            "is_correct": false
+          },
+          {
+            "answer": "They want to save time",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What surprises the Burkes about the waiter?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He doesn't bring ice water",
+            "is_correct": true
+          },
+          {
+            "answer": "He is very rude",
+            "is_correct": false
+          },
+          {
+            "answer": "He sings a song",
+            "is_correct": false
+          },
+          {
+            "answer": "He doesn't bring a menu",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What do they order for dessert?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A piece of cake",
+            "is_correct": true
+          },
+          {
+            "answer": "Ice cream",
+            "is_correct": false
+          },
+          {
+            "answer": "A cup of coffee",
+            "is_correct": false
+          },
+          {
+            "answer": "A slice of pie",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "According to Frau Wilson, when do many Germans go to a café?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In the afternoon",
+            "is_correct": true
+          },
+          {
+            "answer": "Early morning",
+            "is_correct": false
+          },
+          {
+            "answer": "Late evening",
+            "is_correct": false
+          },
+          {
+            "answer": "Midnight",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What habit does Frau Burke notice at the next table?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "People never put their knife down while eating",
+            "is_correct": true
+          },
+          {
+            "answer": "People talk loudly",
+            "is_correct": false
+          },
+          {
+            "answer": "People leave early",
+            "is_correct": false
+          },
+          {
+            "answer": "People eat without forks",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Where do the people at the next table keep their hands during the meal?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Both hands on the table",
+            "is_correct": true
+          },
+          {
+            "answer": "One hand under the table",
+            "is_correct": false
+          },
+          {
+            "answer": "Hands in their lap",
+            "is_correct": false
+          },
+          {
+            "answer": "Hands on their knees",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Herr und Frau Burke kommen am 10. Juli auf dem Flughafen in Frankfurt an."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Sie sind zum ersten Mal in Deutschland."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Ihre Freunde holen sie ab und da es gerade Mittagszeit ist, gehen sie erst einmal in ein Restaurant."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Der Ober bringt die Speisekarte und Burkes sind froh, dass ihnen ihre Freunde helfen können."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Frau Burke hat zwar ein kleines Wörterbuch, aber das Lesen einer Speisekarte ist ziemlich schwierig."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Das Essen schmeckt ihnen sehr gut."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Sie wundern sich aber, dass der Ober ihnen kein Eiswasser bringt."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Salz, Pfeffer und Senf stehen auf dem Tisch."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Als Nachtisch bestellen sie sich später noch ein Stück Kuchen."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Frau Wilson erzählt Burkes, dass sehr viele Deutsche nachmittags in ein Café gehen und dort Torte essen und Kaffee trinken, sofern sie es sich geldlich und zeitlich leisten können."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Frau Burke fällt es auf, dass die Leute am Nebentisch nie beim Essen das Messer aus der Hand legen."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Sie haben die Gabel in der linken Hand und mit dem Messer schieben sie das Gemüse, Fleisch und die Kartoffeln auf die Gabel."
+      },
+      {
+        "sequence_id": 13,
+        "text": "Sie haben immer beide Hände auf dem Tisch."
+      },
+      {
+        "sequence_id": 14,
+        "text": "Ja, andere Länder, andere Sitten!"
+      }
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

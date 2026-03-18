@@ -1,0 +1,819 @@
+[
+  {
+    "title": "unit10_variation_drill",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Ich höre, dass Sie nach Deutschland fahren wollen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I hear that you're planning to go to Germany.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Ich weiss, dass meine Mutter kommen kann.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I know that my mother can come.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Ich glaube, dass ich zur Bank gehen muss.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I believe that I have to go to the bank.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Wir wissen, dass er sich einen neuen Wagen kaufen will.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We know that he's planning to buy a new car.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Ich hoffe, dass Sie auch kommen können.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I hope that you can come too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Ich denke, dass unsere Reise vom Wetter abhängen wird.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I think that our trip is going to depend on the weather.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Von diesem Tisch aus hat man eine schöne Aussicht.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "From this table there's a beautiful view.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Von diesem Fenster aus kann man den Dom sehen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "From this window you can see the cathedral.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Kann man von hier aus die Berge sehen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can you see the mountains from here?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Kann man von diesem Restaurant aus die Zugspitze sehen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can you see the Zugspitze from this restaurant?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Ich kann von meiner Wohnung aus die Alpen sehen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I can see the Alps from my apartment.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Können Sie von Ihrem Zimmer aus die Autobahn sehen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can you see the Autobahn from your room?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Bringen Sie mir bitte ein Glas Moselwein.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please bring me a glass of Moselle wine.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Sie bestellt ein Glas Milch.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "She orders a glass of milk.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Bitte bringen Sie mir ein Stück Kuchen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please bring me a piece of cake.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Soll ich Ihnen ein Glas Wasser bringen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Shall I bring you a glass of water?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Er bestellt Roggenbrot, Butter und ein Stück Käse.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He orders rye bread, butter and a piece of cheese.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Bringen Sie mir bitte eine Tasse Kaffee.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please bring me a cup of coffee.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Ich muss nach Hause gehen, da es schon sehr spät ist.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I have to go home, since it's already very late.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Wenn es heute regnet, wollen wir nicht ins Gebirge fahren.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "If it rains today let's not drive to the mountains.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Wir wollen lieber zu Fuß gehen, da das Wetter so schön ist.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Let's walk rather, since the weather is so nice.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Ich kann das Auto jetzt nicht kaufen, da ich kein Geld habe.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I can't buy the car now, since I don't have any money.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Da wir noch genug Zeit haben, können wir jetzt einen Spaziergang machen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Since we still have enough time, we can now take a walk.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Sie müssen ihn zu Hause anrufen, da er heute nicht im Büro ist.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "You'll have to call him up at home, since he's not in the office today.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Wir können noch ein paar Ansichtskarten kaufen, wenn wir uns beeilen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We can still buy a few picture postcards if we hurry.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Wissen Sie, ob er heute kommt?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Do you know if he's coming today?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Wir wissen noch nicht, ob wir fahren werden.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "We don't know yet whether we'll go.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Fragen Sie ihn bitte, ob er mitkommen will.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ask him, please, if he wants to come along.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Schreiben Sie mir bitte, ob Sie in die Berge fahren werden.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please write me whether you're going to travel to the mountains.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Können Sie mir sagen, ob das Konzert heute stattfindet?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can you tell me if the concert is going to take place today?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Er weiss noch nicht, ob er morgen schon abfährt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He doesn't know yet whether he's going to leave as early as tomorrow.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Er sitzt dort am dritten Tisch links.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He's sitting there at the third table to the left.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Das ist meine zweite Reise nach Deutschland.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "This is my second trip to Germany.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Sie wohnt im fünften Stock.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "She lives on the sixth floor.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Ist das noch Ihr erster Wagen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Is that still your first car?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Das ist schon ihr viertes Buch.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "That's her fourth book already.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Das ist die dritte Reifenpanne!",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "That's the third flat tire!",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Um wieviel Uhr essen Sie gewöhnlich?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "At what time do you usually eat?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Um wieviel Uhr gehen Sie nach Hause?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "At what time do you go home?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Vorige Woche war ich um diese Zeit in Hamburg.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Last week I was in Hamburg at this time.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Was werden Sie morgen um diese Zeit tun?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "What will you be doing tomorrow at this time?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Um wieviel Uhr sollen wir sie treffen?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "What time are we supposed to meet them?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "Morgen früh um diese Zeit werden wir schon in Berlin sein.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Tomorrow morning at this time we'll be in Berlin already.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "Findet die Konferenz morgens oder nachmittags statt?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Is the conference going to be in the morning or in the afternoon?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "Er fährt schon nachmittags ab.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He's leaving in the afternoon already.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "Die Konferenz findet um neun Uhr morgens statt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The conference will be at nine o'clock in the morning.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "Er geht mittags um zwölf nach Hause.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He goes home at twelve noon.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "Sie wollen um sieben Uhr abends zu uns kommen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They're planning to come to our place at seven in the evening.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "Morgens um acht Uhr hören wir die Nachrichten.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Every morning at eight o'clock we listen to the news.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "Wissen Sie, dass Herr Becker heute kommt?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Do you know that Mr. Becker is coming today?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "Sagen Sie ihm bitte, dass wir uns beeilen müssen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please tell him that we have to hurry.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "Können Sie mir sagen, wann das Konzert stattfindet?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can you tell me when the concert is going to be?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "Schreiben Sie mir bitte, ob Beckers nach Deutschland fahren.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please write me whether the Beckers are going to Germany.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "Glauben Sie wirklich, dass die Heizung kaputt ist?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Do you really believe that the furnace is out of order?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "Fragen Sie ihn bitte, ob hier täglich Kurkonzert ist.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ask him, please, if there's a concert in the resort here daily.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "Wissen Sie, warum Herr Becker heute nicht kommt?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Do you know why Mr. Becker isn't coming today?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "Ich finde, dass Ihre Wohnung jetzt sehr schön aussieht.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I think that your apartment looks very nice now.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "Ich weiss nicht, ob Herr Becker nochmal anruft.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I don't know whether Mr. Becker is going to call again.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "Sie sagt, dass es dort schöne Ansichtskarten gibt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "She says that there are beautiful picture postcards there.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "Sagen Sie mir bitte, wann der Omnibus abfährt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please tell me when the bus leaves.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "Ich finde, dass der Gasthof einen sehr guten Eindruck macht.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I think that the inn looks very good.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "Nachher, wenn die Sonne wieder scheint, wollen wir in die Stadt fahren.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "In a little while, if the sun is shining again, we plan to drive downtown.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "Morgen früh, wenn das Wetter gut ist, wollen wir einen Spaziergang machen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Tomorrow morning, if the weather is good, we plan to go for a walk.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "Später, wenn es nicht mehr regnet, können wir uns den Ort ansehen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Later, if it's not raining any more, we can take a look around the place.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 65,
+        "question_text": "Manchmal, wenn wir mittags warm essen, essen wir abends nur Brot und Aufschnitt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sometimes when we have a warm meal at noon we only eat bread and cold cuts in the evening.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 66,
+        "question_text": "Vorher, wenn wir genug Zeit haben, werden wir ein paar Aufnahmen machen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Before, if we have enough time, we'll take a few pictures.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 67,
+        "question_text": "Abends, wenn wir die Gelegenheit dazu haben, können wir unser Geschirr auspacken.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "In the evening, if we have an opportunity for it, we can unpack our dishes.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 16,
+      "page_end": 18,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "title": "unit10_finder_list",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "abends",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "in the evening",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "abfahren",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "leave",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "abhängen von",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "depend on",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "die Ansichtskarte,-n",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "picture postcard",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "das Apfelmus",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "apple sauce",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "der Apfelsaft",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "apple juice",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "der Appetit",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "appetite",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "ich habe Appetit auf (etwas)",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I'm hungry (for something)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "die Arbeitszeit,-en",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "working hours",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "der Aufschnitt",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "cold cuts",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "der Beruf,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "job, profession",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "bestellen",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "order",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "die Butter",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "butter",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "da",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "since",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "denken",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "think",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "dreiviertel",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "three quarters",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "der Eindruck,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "impression",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "einen guten Eindruck machen",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "make a good impression",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "die Forelle,-n",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "trout",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "der Gasthof,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "inn",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "das Gastzimmer,-",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "dining room (of an inn)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "die Gelegenheit (zu etwas)",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "opportunity (for something)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "genug",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "enough",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "halb",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "half",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "die Hauptmahlzeit,-en",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "main meal",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "hell",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "light",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "der Hirsch,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "stag",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Zum Weissen Hirsch",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "at the (sign of) the White Stag",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "die Kalbsleber",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "calves' liver",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "das Kartoffelpüree",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "mashed potatoes",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "der Käse",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "cheese",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "das Konzert,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "concert",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "der Kuchen,-",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "cake",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "das Kurkonzert,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "concert in the resort",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "manchmal",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "sometimes, occasionally",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "die meisten",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "most (pl)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "meistens",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "usually, mostly",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "der Moselwein",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Moselle wine",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "na also",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "well, that's a surprise",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "ob",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "if, whether",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "ohne",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "without (prep with acc)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "das Roggenbrot,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "rye bread",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "die Röstkartoffeln",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "fried potatoes",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "das Rumpsteak,-s",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "steak",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "wie schade",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "what a pity",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "scheinen",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "shine",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "die Sonne",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "sun",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "spätestens",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "at the latest",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "die Speisekarte,-n",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "menu",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "stattfinden",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "take place",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "das Stück,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "piece",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "die Suppe,-n",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "soup",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "das Tagesgericht,-e",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "special for today",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "täglich",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "daily",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "um ... zu",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "in order to",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "unbedingt",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "necessarily, definitely",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "viertel",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "quarter",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "vierten",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "fourth",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "am vierten Juli",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "the fourth of July",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "von diesem Tisch aus",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "from this table",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "während",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "during",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "wenn",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "if, whenever",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "zahlen",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "pay",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "zerlassene Butter",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "melted butter",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 25,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

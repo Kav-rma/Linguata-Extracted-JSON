@@ -1,0 +1,156 @@
+[
+  {
+    "title": "unit10_conversation_practice2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does B say about the weather?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It's raining heavily",
+            "is_correct": false
+          },
+          {
+            "answer": "It's snowing",
+            "is_correct": false
+          },
+          {
+            "answer": "The sun is shining again",
+            "is_correct": true
+          },
+          {
+            "answer": "It's windy",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does A want to do?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Go shopping",
+            "is_correct": false
+          },
+          {
+            "answer": "Go for a walk and look at the place",
+            "is_correct": true
+          },
+          {
+            "answer": "Eat lunch",
+            "is_correct": false
+          },
+          {
+            "answer": "Go skiing",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Does B agree to join A for the walk?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes, gladly",
+            "is_correct": true
+          },
+          {
+            "answer": "No",
+            "is_correct": false
+          },
+          {
+            "answer": "Only if it rains",
+            "is_correct": false
+          },
+          {
+            "answer": "He can't",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does B want to know?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Where to find a store to buy postcards",
+            "is_correct": true
+          },
+          {
+            "answer": "Where to find a restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "What time it is",
+            "is_correct": false
+          },
+          {
+            "answer": "Where to buy wine",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Where does A say B can get postcards?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At the restaurant",
+            "is_correct": true
+          },
+          {
+            "answer": "At the post office",
+            "is_correct": false
+          },
+          {
+            "answer": "At the hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "Nowhere",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Regnet es eigentlich noch?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Nein, die Sonne scheint schon wieder."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Ich möchte gern einen Spaziergang machen und mir den Ort ansehen. Kommen Sie mit?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Ja, gern. Gibt es hier in der Nähe ein Geschäft, wo ich Ansichtskarten kaufen kann?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Ich glaube, dass Sie die sogar hier im Restaurant bekommen."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

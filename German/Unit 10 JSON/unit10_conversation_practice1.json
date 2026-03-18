@@ -1,0 +1,156 @@
+[
+  {
+    "title": "unit10_conversation_practice1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where does the group plan to travel?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Alps",
+            "is_correct": true
+          },
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Munich",
+            "is_correct": false
+          },
+          {
+            "answer": "Baltic Sea",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "When will they travel if the weather is good?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "July 1",
+            "is_correct": false
+          },
+          {
+            "answer": "July 3",
+            "is_correct": true
+          },
+          {
+            "answer": "June 25",
+            "is_correct": false
+          },
+          {
+            "answer": "August 3",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Why can't B join the trip?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "B has to be in Munich on June 25",
+            "is_correct": true
+          },
+          {
+            "answer": "B is sick",
+            "is_correct": false
+          },
+          {
+            "answer": "B doesn't like skiing",
+            "is_correct": false
+          },
+          {
+            "answer": "B has to work",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How does A react to B's inability to join?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They say 'Schade!' (Too bad)",
+            "is_correct": true
+          },
+          {
+            "answer": "They say 'Good luck'",
+            "is_correct": false
+          },
+          {
+            "answer": "They say 'No problem'",
+            "is_correct": false
+          },
+          {
+            "answer": "They say 'Thank you'",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Who invites B to go to the Alps?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A",
+            "is_correct": true
+          },
+          {
+            "answer": "B",
+            "is_correct": false
+          },
+          {
+            "answer": "Another person",
+            "is_correct": false
+          },
+          {
+            "answer": "M",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wollen Sie mit uns in die Alpen fahren?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Wann fahren Sie denn?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Am dritten Juli, - wenn es nicht regnet."
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Ich möchte sehr gern mitkommen, aber leider muss ich schon am 25. Juni in München sein."
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Schade!"
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

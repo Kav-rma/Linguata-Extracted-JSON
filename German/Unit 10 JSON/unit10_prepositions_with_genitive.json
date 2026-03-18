@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit10_prepositions_with_genitive",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which case does the preposition 'während' require for its object in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Accusative",
+            "is_correct": false
+          },
+          {
+            "answer": "Dative",
+            "is_correct": false
+          },
+          {
+            "answer": "Genitive",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is the meaning of the phrase 'während des Konzerts'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because of the concert",
+            "is_correct": false
+          },
+          {
+            "answer": "During the concert",
+            "is_correct": true
+          },
+          {
+            "answer": "Under the concert",
+            "is_correct": false
+          },
+          {
+            "answer": "Outside the concert",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "According to the notes, to which small group does 'während' belong?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Prepositions that take the dative",
+            "is_correct": false
+          },
+          {
+            "answer": "Prepositions that take the genitive",
+            "is_correct": true
+          },
+          {
+            "answer": "Coordinating conjunctions",
+            "is_correct": false
+          },
+          {
+            "answer": "Clause introducers",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which of the following phrases illustrates a preposition with a genitive object?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "ohne das Konzert",
+            "is_correct": false
+          },
+          {
+            "answer": "mit dem Konzert",
+            "is_correct": false
+          },
+          {
+            "answer": "während des Konzerts",
+            "is_correct": true
+          },
+          {
+            "answer": "durch das Konzert",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does 'des Konzerts' illustrate in the phrase 'während des Konzerts'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A nominative ending",
+            "is_correct": false
+          },
+          {
+            "answer": "A genitive ending",
+            "is_correct": true
+          },
+          {
+            "answer": "A dative ending",
+            "is_correct": false
+          },
+          {
+            "answer": "An indefinite article",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What does the example sentence in the notes mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "We have the best opportunity at the concert",
+            "is_correct": false
+          },
+          {
+            "answer": "We'll have the best opportunity after that during the concert",
+            "is_correct": true
+          },
+          {
+            "answer": "We had the best opportunity during the concert",
+            "is_correct": false
+          },
+          {
+            "answer": "We will not have an opportunity during the concert",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What is said about other prepositions that take the genitive?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "There are none",
+            "is_correct": false
+          },
+          {
+            "answer": "They will be noted as they occur",
+            "is_correct": true
+          },
+          {
+            "answer": "They all take the accusative",
+            "is_correct": false
+          },
+          {
+            "answer": "They are clause introducers",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which type of relationship is most commonly expressed by prepositions that take the genitive?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Direction",
+            "is_correct": false
+          },
+          {
+            "answer": "Time or possession",
+            "is_correct": true
+          },
+          {
+            "answer": "Instrument",
+            "is_correct": false
+          },
+          {
+            "answer": "Location",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of these is NOT a use of the genitive with prepositions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Expressing time during an event",
+            "is_correct": false
+          },
+          {
+            "answer": "Showing possession",
+            "is_correct": false
+          },
+          {
+            "answer": "Expressing direction toward a place",
+            "is_correct": true
+          },
+          {
+            "answer": "Indicating part of a whole",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What does the note imply about case governing by prepositions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "All prepositions govern the same case",
+            "is_correct": false
+          },
+          {
+            "answer": "Most prepositions take only the nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "Different prepositions can govern different cases",
+            "is_correct": true
+          },
+          {
+            "answer": "Case governing is optional",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "C. PREPOSITIONS WITH THE GENITIVE\nNumerous examples of prepositions with dative and/or accusative objects have occurred and have been discussed. In this unit we encounter the first example of a preposition followed by a genitive form:\nDazu haben wir nachher während des Konzerts die beste Gelegenheit.\nThe preposition *während* is one of a very small group of prepositions which are customarily followed by a genitive object. We will note the others as they occur."
+      }
+    ],
+    "metadata": {
+      "page_start": 10,
+      "page_end": 10,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit10_word_order_in_larger_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In German statements, where is the finite verb usually placed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "First",
+            "is_correct": false
+          },
+          {
+            "answer": "Second",
+            "is_correct": true
+          },
+          {
+            "answer": "Last",
+            "is_correct": false
+          },
+          {
+            "answer": "It varies",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which of the following words is considered a \"sentence connector\"?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "wenn",
+            "is_correct": false
+          },
+          {
+            "answer": "und",
+            "is_correct": true
+          },
+          {
+            "answer": "dass",
+            "is_correct": false
+          },
+          {
+            "answer": "wie",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "In a yes–no question, where does the finite verb appear?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "First",
+            "is_correct": true
+          },
+          {
+            "answer": "Second",
+            "is_correct": false
+          },
+          {
+            "answer": "Last",
+            "is_correct": false
+          },
+          {
+            "answer": "Anywhere",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "In a subordinate clause introduced by 'dass', what happens to the finite verb?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It stays in second position",
+            "is_correct": false
+          },
+          {
+            "answer": "It moves to the end of the clause",
+            "is_correct": true
+          },
+          {
+            "answer": "It appears first",
+            "is_correct": false
+          },
+          {
+            "answer": "It is omitted",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which of the following is NOT listed as a clause introducer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "warum",
+            "is_correct": false
+          },
+          {
+            "answer": "welcher",
+            "is_correct": false
+          },
+          {
+            "answer": "vielleicht",
+            "is_correct": true
+          },
+          {
+            "answer": "ob",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "In the sentence 'Im Sommer fahren wir an die Ostsee, aber im Winter bleiben wir hier in München', what is the first element of the second clause?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "bleiben",
+            "is_correct": false
+          },
+          {
+            "answer": "wir",
+            "is_correct": false
+          },
+          {
+            "answer": "im Winter",
+            "is_correct": true
+          },
+          {
+            "answer": "München",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "When a subordinate clause comes at the beginning of a sentence, what happens to the finite verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They appear next to each other",
+            "is_correct": true
+          },
+          {
+            "answer": "They are far apart",
+            "is_correct": false
+          },
+          {
+            "answer": "They disappear",
+            "is_correct": false
+          },
+          {
+            "answer": "They switch order",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which translation best matches 'ich weiß nicht, ob es heute im Park oder im Kurhaus stattfindet'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "I don’t know if it’s taking place today in the park or in the spa.",
+            "is_correct": true
+          },
+          {
+            "answer": "I think it is taking place in the park or the spa today.",
+            "is_correct": false
+          },
+          {
+            "answer": "I know that it is taking place in the park or the spa.",
+            "is_correct": false
+          },
+          {
+            "answer": "I am not going today to the park or the spa.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "According to the notes, what counts as the first element of a sentence?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Only the subject pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "Anything before the finite verb",
+            "is_correct": true
+          },
+          {
+            "answer": "Only a noun phrase",
+            "is_correct": false
+          },
+          {
+            "answer": "Only an adverb",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What is true about sentence connectors in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They occur inside subordinate clauses",
+            "is_correct": false
+          },
+          {
+            "answer": "They introduce questions",
+            "is_correct": false
+          },
+          {
+            "answer": "They connect sentences and may precede them",
+            "is_correct": true
+          },
+          {
+            "answer": "They always require inversion",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A. WORD ORDER IN LARGER SENTENCES\nI. Sentence Connectors\n1. It was noted in Unit 3 that the finite verb is the second element of statements.\nIn Unit 8 we noted that an introductory phrase such as ich glaube may be considered to be a separate item and not the first element of a statement.\nWe have also encountered three little words which in a similar way may precede a sentence but are not counted as its first element.\nUnd ich nehme Forelle blau mit zerlassener Butter.\nUnd dazu trinken wir Tee.\nAber es ist auch kühler hier oben.\nAber im Winter fahren wir öfters in die Berge zum Skilaufen.\nOder wir fahren in den Schwarzwald.\nUnd, aber and oder actually connect these sentences to preceding utterances.\nWe will call them SENTENCE CONNECTORS. In traditional terminology they are referred to as COORDINATING CONJUNCTIONS.\n2. Simple sentences may thus be joined together by Sentence Connectors into larger, compound sentences:\nIch wohne in München, aber ich fahre sehr oft nach Frankfurt.\nBeckers haben ein neues Auto, und im Sommer fahren wir öfters mit ihnen in die Berge.\nEssen Sie immer um diese Zeit, oder essen Sie manchmal auch später?\nNotice that the word order of both parts of these compound sentences is similar: the verb is the second element of statements, or the first element of yes‑no questions, regardless of whether or not a sentence connector precedes. Grammatically speaking, sentence connectors occur between sentences, not in them.\n\nII. Clauses and Clause Introducers\n1. Two or more sentences joined together by sentence connectors are not the only type of larger sentences we have encountered, however. Sometimes one sentence is built into another as a subordinate part of it. Note the following examples:\nKönnen Sie mir sagen, wo ich ein Visum beantragen kann?\nWie ich sehe, haben Sie eine schöne Bibliothek, Herr Wilson.\nIch wusste gar nicht, dass Ihre Frau hier Verwandte hat.\nIch weiß nicht, ob es heute im Park oder im Kurhaus stattfindet.\nThe underlined parts of the above sentences are clauses. They are sentences which are incorporated into the larger sentences as subordinate parts of them. Notice that they are introduced in every case by special little words (wo, wie, dass, ob) which we will call CLAUSE INTRODUCERS. In traditional terminology they are referred to as SUBORDINATING CONJUNCTIONS.\n2. Notice the order of words following the clause introducers above. The clause may be very short, consisting only of the clause introducer, subject pronoun and verb, or it may be quite long. The finite verb may be by itself (sehe, hat), or it may be part of a verb phrase with an infinitive (beantragen kann) or accented adverb (stattfindet). In every case, however, THE FINITE VERB IS LAST WITHIN THE CLAUSE.\n3. Now compare NORMAL WORD ORDER with CLAUSE WORD ORDER. Note especially the position of the finite verb:\nWo kann ich ein Visum beantragen?\nIhre Frau hat Verwandte hier.\nFindet es heute im Park oder im Kurhaus statt?\nwo ich ein Visum beantragen kann?\ndass Ihre Frau hier Verwandte hat.\nob es heute im Park oder im Kurhaus stattfindet.\nNotice now, too, that a verb phrase with an accented adverb is written as one word when it occurs at the end of a clause.\n4. The list of clause introducers includes a number of words you are already familiar with (all the question words, for instance) plus several others. We give here only the ones which have been encountered up to this point:\nda; dass; ob; wann; warum; was; welcher (welches, welche, etc.); wenn; wer (wen, etc.); wie; wieviel (wieviele, etc.); wo.  Their English equivalents are “since,” “that,” “whether,” “when,” “why,” “what,” “what/which,” “if/when/whenever,” “who/whom,” “how,” “how much/how many,” and “where.”  Notice that some of these words sound just like other words which are not clause introducers. Remember that CLAUSE INTRODUCERS AND CLAUSE WORD ORDER GO TOGETHER.\nDa wollen wir unseren Freund Meyer besuchen.\nDa wir unseren Freund Meyer besuchen wollen, fahren wir auch nach Frankfurt.\nDas müssen wir morgen machen.\nIch weiß, dass wir das morgen machen müssen.\nWie können Sie das verstehen?\nWie ich sehr gut verstehen kann, will er einfach nicht mehr dort arbeiten.\n\nIII. Difficulties with Larger Sentences\nThere we’re planning to visit our friend Meyer. Since we’re planning to visit our friend Meyer, we’re also going to go to Frankfurt. We have to do that tomorrow. I know that we have to do that tomorrow. How can you understand that? As I can very well understand, he simply doesn’t want to work there any more.\nMost of the difficulties students have with larger sentences result from a) failure to remember the cardinal observations that Germans place the verb second in statements and last in clauses, and b) failure to recognize what constitutes an element, i.e., what the first element of the sentence is.\nLet us examine some more of the sentences we have encountered, plus a few additional examples, and observe the arrangement of their elements:\na. Im Sommer fahren wir an die Ostsee, aber im Winter bleiben wir hier in München.\nb. Herr Müller weiß schon, dass wir jetzt in der Ludwigstraße wohnen.\nc. Meistens essen wir schon um ein Uhr, da ich mittags gewöhnlich nach Hause gehe.\nd. Wir werden in einer halben Stunde, wenn meine Frau zurückkommt, die Kisten auspacken.\ne. Später, wenn es nicht mehr regnet, könnten wir vielleicht noch einen Spaziergang machen.\nf. Wenn Sie selbst mittags Ihre Hauptmahlzeit essen, essen Sie dann abends nochmal warm?\n1. In each of the above sentences the finite verb is the second element. Everything that precedes the finite verb is the first element.\n2. The first element may thus be: a subject pronoun (d), a noun phrase (b), a preposition and its object (a), an adverb (c), an adverb plus a clause (e), or a clause by itself (f).\n3. A clause may come at the beginning (e,f), middle (d), or end (b,c) of a larger sentence. It may be an element by itself (f) or part of another element (e).\n4. Within the clause itself the verb is last.\n5. When a clause comes at the beginning of a sentence, two finite verbs will occur next to each other (e,f)."
+      }
+    ],
+    "metadata": {
+      "page_start": 7,
+      "page_end": 9,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

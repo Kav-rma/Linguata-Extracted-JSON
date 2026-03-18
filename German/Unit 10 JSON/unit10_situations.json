@@ -1,0 +1,272 @@
+[
+  {
+    "title": "unit10_situations",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where are Herr Becker and Herr Jones sitting?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In a restaurant",
+            "is_correct": true
+          },
+          {
+            "answer": "In a park",
+            "is_correct": false
+          },
+          {
+            "answer": "On a train",
+            "is_correct": false
+          },
+          {
+            "answer": "At home",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does the waiter bring them?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The menu",
+            "is_correct": true
+          },
+          {
+            "answer": "Drinks",
+            "is_correct": false
+          },
+          {
+            "answer": "Dessert",
+            "is_correct": false
+          },
+          {
+            "answer": "A bill",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "When are Herr Becker and his wife planning to travel to Bonn?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "On August 10",
+            "is_correct": true
+          },
+          {
+            "answer": "On September 10",
+            "is_correct": false
+          },
+          {
+            "answer": "On July 10",
+            "is_correct": false
+          },
+          {
+            "answer": "On October 10",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does Herr Jones prefer instead of another glass of beer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A cup of coffee",
+            "is_correct": true
+          },
+          {
+            "answer": "A glass of wine",
+            "is_correct": false
+          },
+          {
+            "answer": "A slice of cake",
+            "is_correct": false
+          },
+          {
+            "answer": "A cup of tea",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is Herr Jones curious about regarding Herr Becker's meals?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "When he eats lunch and whether he eats cold or warm meals",
+            "is_correct": true
+          },
+          {
+            "answer": "What his job is",
+            "is_correct": false
+          },
+          {
+            "answer": "How much his meal costs",
+            "is_correct": false
+          },
+          {
+            "answer": "Whether he likes trout",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "How much does Herr Jones's meal cost?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Five Mark thirty-five",
+            "is_correct": true
+          },
+          {
+            "answer": "Four Mark sixty-five",
+            "is_correct": false
+          },
+          {
+            "answer": "Five Mark fifty",
+            "is_correct": false
+          },
+          {
+            "answer": "Six Mark",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "How much change does the waiter give Herr Jones?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Four Mark sixty-five",
+            "is_correct": true
+          },
+          {
+            "answer": "Five Mark",
+            "is_correct": false
+          },
+          {
+            "answer": "Two Mark",
+            "is_correct": false
+          },
+          {
+            "answer": "One Mark",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Who pays for his own meal at the end?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Becker",
+            "is_correct": true
+          },
+          {
+            "answer": "Herr Jones",
+            "is_correct": false
+          },
+          {
+            "answer": "The waiter",
+            "is_correct": false
+          },
+          {
+            "answer": "Frau Becker",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Herr Becker und Herr Jones sitzen im Restaurant."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Der Ober bringt ihnen die Speisekarte und sie bestellen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Die beiden Herren sprechen zusammen."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Herr Becker sagt, dass seine Frau und er am zehnten August nach Bonn fahren werden."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Herr Jones möchte wissen, ob sie mit dem Auto fahren und wie lange sie in Bonn bleiben wollen."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Herr Becker und Herr Jones sprechen über das Essen in einigen Restaurants, was sie gern und was sie nicht gern essen."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Dann bestellt Herr Becker das zweite Glas Bier."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Der Ober fragt Herrn Jones, ob er ihm auch noch ein Glas Bier bringen darf."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Aber Herr Jones hätte lieber eine Tasse Kaffee und dazu will er ein Stück Kuchen essen."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Herr Jones fragt Herrn Becker, wann er meistens zu Mittag isst und ob er abends kalt oder warm isst."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Herr Becker sagt es ihm und später fragt er Herrn Jones, wann er seine Hauptmahlzeit gewöhnlich isst."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Er weiss nicht, dass man in Amerika oft mittags und abends warm isst."
+      },
+      {
+        "sequence_id": 13,
+        "text": "Herr Jones ruft den Ober, er möchte gern zahlen."
+      },
+      {
+        "sequence_id": 14,
+        "text": "Sein Essen kostet fünf Mark fünfunddreissig."
+      },
+      {
+        "sequence_id": 15,
+        "text": "Er gibt dem Ober zehn Mark und der Ober wechselt das Geld und gibt ihm vier Mark fünfundsechzig zurück."
+      },
+      {
+        "sequence_id": 16,
+        "text": "Dann bezahlt Herr Becker für sein Essen."
+      }
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 25,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

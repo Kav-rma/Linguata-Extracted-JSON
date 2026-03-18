@@ -1,0 +1,483 @@
+[
+  {
+    "title": "unit10_translation_drill",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Es ist der vierte Juli.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "It's the fourth of July.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Wilsons und Beckers sind in einem Kurort in den Bergen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The Wilsons and the Beckers are at a resort in the mountains.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Während des Gewitters wollen sie in ein Restaurant gehen und dort zu Mittag essen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "During the thunder shower they intend to go to a restaurant and eat lunch there.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Der Gasthof 'Zum Weissen Hirsch' macht einen guten Eindruck.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The White Stag Inn looks pretty good.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Sie fahren mit dem Auto auf dem Parkplatz des Gasthofs und dann gehen sie ins Gastzimmer.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They drive into the parking lot of the inn in their car and then they go into the dining room.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "In dem gemütlichen Gastzimmer finden sie einen Tisch am Fenster.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "In the charming dining room they find a table by the window.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Sie hoffen, dass sie von dem Tisch aus eine gute Aussicht haben.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They hope that they'll have a good view from the table.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Der Ober bringt die Speisekarte und Frau Becker bestellt Kalbsleber mit Kartoffelpüree und Apfelmus.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The waiter brings the menu and Mrs. Becker orders calf's liver with mashed potatoes and applesauce.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Frau Wilson nimmt das Tagesgericht, aber sie möchte keine Suppe dazu haben.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mrs. Wilson takes the special for the day, but she'd like not to have the soup with it.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Der Ober soll Herrn Wilson Rumpsteak mit Röstkartoffeln bringen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The waiter is to bring Mr. Wilson steak with fried potatoes.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Herr Becker bestellt Forelle blau mit zerlassener Butter.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Becker orders blue trout with melted butter.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Forelle isst er besonders gern.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "He's especially fond of trout.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Der Ober fragt, ob sie etwas zu trinken haben wollen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The waiter asks if they want to have something to drink.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Frau Wilson und Frau Becker möchten gern ein Glas Apfelsaft trinken.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mrs. Wilson and Mrs. Becker would like a glass of apple juice.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Herr Wilson trinkt lieber Bier als Apfelsaft.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Wilson prefers beer to apple juice.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Herr Becker bestellt ein Glas Moselwein, da der besser zu Forelle passt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Becker orders a glass of Moselle wine, since that goes better with trout.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Herr Wilson fragt Herrn Becker, wieviel Uhr es ist.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Wilson asks Mr. Becker what time it is.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Es ist viertel zwei.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "It's quarter past one.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Beckers essen gewöhnlich schon um ein Uhr zu Mittag.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The Beckers usually eat lunch not later than one o'clock.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Das Büro von Herrn Becker ist in der Nähe seiner Wohnung, und mittags geht er meistens zum Essen nach Hause.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Becker's office is in the vicinity of his apartment, and at noon he usually goes home for lunch.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Herr Wilson möchte wissen, ob die meisten Deutschen mittags ihre Hauptmahlzeit essen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Wilson would like to know if most Germans eat their main meal at noon.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Herr Becker sagt, dass das von Beruf und Arbeitszeit abhängt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Becker says that depends on the job and working hours.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Beckers essen mittags ihre Hauptmahlzeit, aber abends essen sie dann nicht mehr warm.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The Beckers eat their main meal at noon, but they don't have a warm meal in the evening.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Meistens gibt es bei ihnen Roggenbrot, Butter, Aufschnitt und Käse.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Usually they have rye bread, butter, cold cuts and cheese.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Sie trinken gewöhnlich eine Tasse Tee dazu.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They usually have a cup of tea with it.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Frau Wilson hat noch Appetit auf ein Stück Kuchen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mrs. Wilson still has room for a piece of cake.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Beckers wollen nichts mehr essen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The Beckers don't want anything more to eat.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Sie möchten lieber später noch eine Tasse Kaffee trinken.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They'd rather have a cup of coffee later on.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Endlich scheint die Sonne wieder.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "At last the sun is shining again.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Herr Becker ruft den Ober und zahlt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Becker calls the waiter and pays.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Da das Wetter wieder schön ist, wollen sie noch einen Spaziergang durch den Kurort machen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Since the weather is nice now, they want to take a walk through the resort.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Sie hören, dass täglich ein Kurkonzert stattfindet.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They hear that there's a concert in the resort daily.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Wenn das Wetter gut ist, findet es im Park statt, sonst im Kurhaus.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "If the weather is good, it takes place in the park, otherwise in the Kurhaus.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Herr Wilson möchte wissen, wann das Konzert anfängt.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mr. Wilson would like to know when the concert begins.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Der Ober glaubt, es fängt um vier Uhr an.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "The waiter thinks it begins at four o'clock.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Sie haben noch genug Zeit, um sich die Stadt anzusehen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They still have enough time to look around the city.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Frau Wilson möchte einige Ansichtskarten kaufen.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Mrs. Wilson would like to buy a few picture postcards.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Um vier Uhr wollen sie im Kurhaus eine Tasse Kaffee trinken.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "At four o'clock they want to have a cup of coffee in the 'Kurhaus'.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Sie haben vor, um halb sechs abzufahren.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "They plan to leave at half past five.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 20,
+      "page_end": 21,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

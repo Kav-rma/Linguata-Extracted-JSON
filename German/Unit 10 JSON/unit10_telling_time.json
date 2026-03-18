@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit10_telling_time",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which two phrases can be used to ask 'What time is it?' in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wie spät ist es? and Wieviel Uhr ist es?",
+            "is_correct": true
+          },
+          {
+            "answer": "Was ist jetzt Zeit?",
+            "is_correct": false
+          },
+          {
+            "answer": "Wie spät ist es?",
+            "is_correct": false
+          },
+          {
+            "answer": "Wieviel Uhr ist es?",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "When the word 'Uhr' follows 'ein', which form of 'one' is used?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "eine",
+            "is_correct": false
+          },
+          {
+            "answer": "eins",
+            "is_correct": false
+          },
+          {
+            "answer": "einen",
+            "is_correct": false
+          },
+          {
+            "answer": "ein",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How do you say 'quarter past one' in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Viertel eins",
+            "is_correct": false
+          },
+          {
+            "answer": "Viertel nach eins",
+            "is_correct": true
+          },
+          {
+            "answer": "Halb zwei",
+            "is_correct": false
+          },
+          {
+            "answer": "Ein und Viertel",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "In the fractional system without prepositions, what is the expression for 1:30?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Halb eins",
+            "is_correct": false
+          },
+          {
+            "answer": "Viertel eins",
+            "is_correct": false
+          },
+          {
+            "answer": "Halb zwei",
+            "is_correct": true
+          },
+          {
+            "answer": "Dreiviertel eins",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does 'dreiviertel zwei' indicate?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "1:15",
+            "is_correct": false
+          },
+          {
+            "answer": "2:15",
+            "is_correct": false
+          },
+          {
+            "answer": "1:45",
+            "is_correct": true
+          },
+          {
+            "answer": "2:45",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which sentence correctly uses the word 'morgens' according to the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wir kommen um acht Uhr morgens.",
+            "is_correct": true
+          },
+          {
+            "answer": "Wir kommen morgens um acht Uhr.",
+            "is_correct": false
+          },
+          {
+            "answer": "Morgens wir kommen um acht Uhr.",
+            "is_correct": false
+          },
+          {
+            "answer": "Um acht Uhr kommen wir morgens an.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "How can the expressions 'abends', 'mittags', 'nachmittags' and 'morgens' be used?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Only for habitual activities",
+            "is_correct": false
+          },
+          {
+            "answer": "Only for specific times",
+            "is_correct": false
+          },
+          {
+            "answer": "Both for habitual and specific times",
+            "is_correct": true
+          },
+          {
+            "answer": "Only for indefinite times",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which of these is a German time expression using a fraction without a preposition?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ein Uhr",
+            "is_correct": false
+          },
+          {
+            "answer": "Viertel nach eins",
+            "is_correct": false
+          },
+          {
+            "answer": "Halb zwei",
+            "is_correct": true
+          },
+          {
+            "answer": "Fünf Minuten nach eins",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which translation corresponds to 'Um halb sechs müssen wir spätestens abfahren'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "We have to leave at exactly six",
+            "is_correct": false
+          },
+          {
+            "answer": "We have to leave at half past five at the latest",
+            "is_correct": true
+          },
+          {
+            "answer": "We must arrive by half past six",
+            "is_correct": false
+          },
+          {
+            "answer": "We must go at five thirty‑five at the earliest",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What is the translation of 'Es ist genau viertel nach eins'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It is exactly a quarter to one",
+            "is_correct": false
+          },
+          {
+            "answer": "It is exactly one o'clock",
+            "is_correct": false
+          },
+          {
+            "answer": "It is exactly quarter past one",
+            "is_correct": true
+          },
+          {
+            "answer": "It is exactly quarter after two",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "D. TELLING TIME\nI. We have had several references to time by the clock. Let us examine a few of them:\nWie spät ist es denn jetzt? / Wieviel Uhr ist es eigentlich? – What time is it now? / What time is it anyway?\nEs ist genau viertel nach eins. – It’s exactly quarter past one.\nWir essen meistens um ein Uhr. – We usually eat at one o’clock.\nDas Kurkonzert fängt um vier Uhr an. – The concert begins at four o’clock.\nThere are two ways of asking the time in German; both are equally common. In German as in English time expressions the word for “o’clock” may or may not occur. Notice, however, that the word for “one” is *ein* when followed by *Uhr* but is *eins* when the word *Uhr* does not occur.\n\nII. There are different ways of telling time in German. Here are some more examples:\nIch werde um zehn Uhr dreissig bei Ihnen sein. – I’ll be at your office at ten‑thirty.\nUm halb sechs müssen wir spätestens abfahren. – We have to leave at half past five at the latest.\nEs ist viertel vor drei. – It’s a quarter to three.\nEs ist dreiviertel drei. – It’s a quarter to three (three quarters to three).\nViertel nach eins. / Viertel zwei. – Quarter past one / quarter two.\nTime between the hours may be designated with reference to the number of minutes involved (*ein Uhr fünfzehn*, *zwanzig Minuten nach fünf*). This presents no problem. The use of fractions is a little more complicated, however.\n1. The word *viertel* may be used with the prepositions *nach* and *vor* (*viertel nach eins*, *viertel vor drei*). This is just like the English use of “quarter past” or “quarter to.”\n2. The words *viertel*, *halb* and *dreiviertel* also occur without prepositions. They then mean “a quarter,” “a half” or “three‑quarters” of the way through the hour, and the reference point is the hour which has not yet struck. You may, for instance, think of the hour from one o’clock to two o’clock as the second hour and the hour from two o’clock to three o’clock as the third hour. At 1:15 you are one‑fourth of the way through hour number two (*viertel zwei*); at 1:30 you are halfway through the hour (*halb zwei*); at 1:45 you are three‑quarters of the way through the hour (*dreiviertel zwei*).\n\nIII. Here is a tabular presentation of the different ways of telling time in German:\n1:00 – ein Uhr / eins\n1:15 – ein Uhr fünfzehn / viertel nach eins / viertel zwei\n1:30 – ein Uhr dreissig / halb zwei\n1:45 – ein Uhr fünfundvierzig / viertel vor zwei / dreiviertel zwei\n\nIV. We have had three words referring to the general time of day: *abends*, *mittags*, *nachmittags*. These are adverbs and often occur together with a reference to clock time. There is one more which is of frequent occurrence: the word *morgens*. Here are further examples of their use:\nIch gehe mittags gewöhnlich nach Hause. – I usually go home at noon.\nEssen Sie abends nochmal warm? – Do you eat a warm meal again in the evening?\nWir kommen um acht Uhr morgens. – We’ll come at eight o’clock in the morning.\nNachmittags bin ich immer im Büro. – In the afternoons I’m always in the office.\nAbends um sieben hören wir immer den Wetterbericht. – We always listen to the weather report at seven in the evening.\nWas haben Sie mittags um zwölf Uhr vor? – What do you have planned for twelve noon?\nNote that these expressions for the time of day may be used both to refer to something which takes place regularly or habitually and to refer to a specific point of time on a particular day."
+      }
+    ],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 12,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]
