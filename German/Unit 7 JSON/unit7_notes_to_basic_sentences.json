@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit7_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In German, when the infinitive form of a verb is used as a noun, what gender does it have?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It is always a das-noun",
+            "is_correct": true
+          },
+          {
+            "answer": "It is always a der-noun",
+            "is_correct": false
+          },
+          {
+            "answer": "It is always a plural noun",
+            "is_correct": false
+          },
+          {
+            "answer": "It is always an adjective",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which of the following English gerund nouns best illustrates the German use of infinitives as nouns?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "playing",
+            "is_correct": true
+          },
+          {
+            "answer": "chair",
+            "is_correct": false
+          },
+          {
+            "answer": "quickly",
+            "is_correct": false
+          },
+          {
+            "answer": "tall",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Why must regular adjective endings be added to the stem ander- in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because there is no endingless citation form for this adjective",
+            "is_correct": true
+          },
+          {
+            "answer": "Because adjectives always end in -en regardless of context",
+            "is_correct": false
+          },
+          {
+            "answer": "Because the specifier is always plural",
+            "is_correct": false
+          },
+          {
+            "answer": "Because it copies the English adjective ending",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What must accompany the verb 'stellen' ('to put') in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A prepositional phrase or the word 'hin'",
+            "is_correct": true
+          },
+          {
+            "answer": "Only a direct object",
+            "is_correct": false
+          },
+          {
+            "answer": "Nothing; it can stand alone",
+            "is_correct": false
+          },
+          {
+            "answer": "An adjective describing the object",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Can the verb 'stellen' occur without a complement?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, it requires a complement",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, it can stand alone",
+            "is_correct": false
+          },
+          {
+            "answer": "Only in the present tense",
+            "is_correct": false
+          },
+          {
+            "answer": "Only in negative sentences",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What does the verb 'passen' mean when used with the preposition 'zu' (as in Unit 7)?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To match or to go (with)",
+            "is_correct": true
+          },
+          {
+            "answer": "To walk to",
+            "is_correct": false
+          },
+          {
+            "answer": "To send to",
+            "is_correct": false
+          },
+          {
+            "answer": "To play with",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "In the notes, why is 'passen' considered equivalent to 'stellen' in its influence on grammar?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because both verbs determine the accusative case for the noun phrase following a two-way preposition",
+            "is_correct": true
+          },
+          {
+            "answer": "Because they both mean to eat",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they only use the dative case",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they have no objects",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which verb is reflexive and typically needs a prepositional phrase like 'an den Tisch'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "sich setzen",
+            "is_correct": true
+          },
+          {
+            "answer": "stellen",
+            "is_correct": false
+          },
+          {
+            "answer": "laufen",
+            "is_correct": false
+          },
+          {
+            "answer": "lesen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "In the reflexive verb 'sich setzen', what does the reflexive pronoun refer to?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The subject themselves",
+            "is_correct": true
+          },
+          {
+            "answer": "The direct object",
+            "is_correct": false
+          },
+          {
+            "answer": "The location",
+            "is_correct": false
+          },
+          {
+            "answer": "The preposition",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Why are the verbs 'passen' and 'stellen' listed separately in the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because they have different English equivalents depending on context",
+            "is_correct": true
+          },
+          {
+            "answer": "Because they are irregular verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "Because one is reflexive and the other is not",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they always use dative case",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "The infinitive form of many verbs can be used as a noun in German. It is always a das-noun. English has similar nouns, like playing, working, speaking, etc., but often uses the infinitive in equivalent sentences.\n\nThis adjective always has an ending of some kind, in this case the ending that the specifier-adjective-noun sequence den anderen Zimmern requires. There is no endingless citation form, but regular adjective endings are added to the stem ander-.\n\nThe verb stellen \"to put\" is complemented either by a prepositional phrase such as an die Wand or by the word hin. It does not occur without a complement, however.\n\nThis is actually the same verb as was encountered in Unit 4 in the form es passt mir \"it suits me, it's convenient for me\" and as occurs later on in this unit with the preposition zu, meaning \"to match, to go (with)\". Because of the divergent English equivalents in different situations the verb is listed separately each time. In this sentence the implication is that the table will end up in front of the two chairs when it has been put there; in its grammatical influence on the syntactic environment (vor die beiden Sessel, accusative) it is equivalent to the verb stellen \"to put\".\n\nThe verb sich setzen \"to sit down\" is usually complemented by a prepositional phrase such as an den Tisch or by the word hin."
+      }
+    ],
+    "metadata": {
+      "page_start": 8,
+      "page_end": 9,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit7_two_way_prepositions",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "When a two-way preposition is followed by a dative form, what does it indicate?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A person or thing in motion",
+            "is_correct": false
+          },
+          {
+            "answer": "An indefinite location",
+            "is_correct": false
+          },
+          {
+            "answer": "A static situation where someone or something is found",
+            "is_correct": true
+          },
+          {
+            "answer": "A repeated action",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does the accusative after a two-way preposition normally indicate?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Where someone or something is to be found",
+            "is_correct": false
+          },
+          {
+            "answer": "Where someone or something in motion is going to end up",
+            "is_correct": true
+          },
+          {
+            "answer": "That the verb is reflexive",
+            "is_correct": false
+          },
+          {
+            "answer": "That no motion occurs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which sentence shows a static situation involving a two-way preposition and a dative form?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Das Sofa können wir dort an die Wand stellen.",
+            "is_correct": false
+          },
+          {
+            "answer": "Den Teppich legen wir in die Mitte des Zimmers.",
+            "is_correct": false
+          },
+          {
+            "answer": "Das Telefonbuch liegt dort unter den Zeitungen.",
+            "is_correct": true
+          },
+          {
+            "answer": "Stellen Sie die Lampe zwischen den Rauchtisch und den Bücherschrank.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which verbs generally accompany two-way prepositions when followed by the dative?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "stehen, legen, stellen",
+            "is_correct": false
+          },
+          {
+            "answer": "liegen, haben, ist",
+            "is_correct": true
+          },
+          {
+            "answer": "stellen, legen, hängen",
+            "is_correct": false
+          },
+          {
+            "answer": "wohnen, kommen, gehen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "In the sentence 'Stellen wir den Schreibtisch vor das grosse Fenster', what does the accusative imply?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The desk is already in front of the window",
+            "is_correct": false
+          },
+          {
+            "answer": "The desk will end up in front of the window",
+            "is_correct": true
+          },
+          {
+            "answer": "The desk is behind the window",
+            "is_correct": false
+          },
+          {
+            "answer": "The desk belongs to someone else",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What happens when a two-way preposition is followed by an accusative form in a sentence where the verb itself does not indicate motion?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The sentence becomes passive",
+            "is_correct": false
+          },
+          {
+            "answer": "The preposition still implies motion",
+            "is_correct": true
+          },
+          {
+            "answer": "The preposition changes to a dative case",
+            "is_correct": false
+          },
+          {
+            "answer": "The object disappears",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which sentence demonstrates that a dative form after a two-way preposition always implies a static relationship?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Das grosse Bild hängt dort über dem Sofa.",
+            "is_correct": true
+          },
+          {
+            "answer": "Wir können das Sofa an die Wand stellen.",
+            "is_correct": false
+          },
+          {
+            "answer": "Den Teppich legen wir in die Mitte des Zimmers.",
+            "is_correct": false
+          },
+          {
+            "answer": "Der Tisch passt gut vor die beiden Sessel.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "In the example 'Der Tisch passt gut vor die beiden Sessel', what does the accusative case after 'vor' signify?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The table is not moving",
+            "is_correct": false
+          },
+          {
+            "answer": "The table should be placed in front of the chairs",
+            "is_correct": true
+          },
+          {
+            "answer": "The chairs belong to the table",
+            "is_correct": false
+          },
+          {
+            "answer": "The chairs are behind the table",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "According to the notes, how many two-way prepositions are there?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Seven",
+            "is_correct": false
+          },
+          {
+            "answer": "Nine",
+            "is_correct": true
+          },
+          {
+            "answer": "Five",
+            "is_correct": false
+          },
+          {
+            "answer": "Twelve",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which verbs are used with two-way prepositions to indicate action or motion?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "liegen, haben",
+            "is_correct": false
+          },
+          {
+            "answer": "stellen, legen, hängen",
+            "is_correct": true
+          },
+          {
+            "answer": "sein, sind",
+            "is_correct": false
+          },
+          {
+            "answer": "sehen, stehen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "C. SUMMARY OF TWO-WAY PREPOSITIONS\n\nI. In Unit 3 it was noted that certain prepositions when followed by a dative form indicate where someone or something is to be found and when followed by an accusative form indicate where someone or something in motion is going to end up. We have now encountered the total inventory of TWO-WAY PREPOSITIONS, nine in all. Let us review some of the sentences in which they have occurred:\n\nDas Sofa können wir dort an die Wand stellen. We can place the sofa over against the wall there.\nDie Steppdecken liegen auf unseren Betten. The quilts are on our beds.\nWir haben einen grossen Garten hinter dem Haus. We have a big yard behind the house.\nDen Teppich legen wir in die Mitte des Zimmers. We'll lay the carpet in the middle of the room.\nRechts neben dem Schloss ist die Universität. Next to the palace on the right is the university.\nDas grosse Bild könnten wir über das Sofa hängen. We could hang the big picture above the sofa.\nDas Telefonbuch liegt dort unter den Zeitungen. The telephone book is there under the newspapers.\nStellen wir den Schreibtisch vor das grosse Fenster. Let's put the desk in front of the big window.\nStellen Sie die Lampe zwischen den Rauchtisch und den Bücherschrank. Put the lamp between the smoking table and the bookcase.\n\n1. Note that there is a close link between the TWO-WAY PREPOSITION and the verbs in these sentences. In the sentences where a dative form follows, the preposition verbs which indicate or describe a static situation occur: liegen, haben, ist. In the sentences where an accusative form follows, the preposition verbs indicating action or motion occur: stellen, legen, hängen.\n\n2. It is important to note however that two-way prepositions may be followed by an accusative form in a sentence where the verb by itself does not necessarily indicate motion. In association WITH THE ACCUSATIVE object of a two-way preposition the verb ALWAYS IMPLIES MOTION.\n\nDer Tisch passt gut vor die beiden Sessel. The table fits the picture in front of the two easy-chairs and therefore should end up in that location.\n\n3. Likewise a DATIVE FORM following a two-way preposition ALWAYS IMPLIES A STATIC RELATIONSHIP, nonchanging, even when the verb is a verb of action or motion:\n\nDas grosse Bild hängt dort über dem Sofa. The big picture is hanging there above the sofa.\nDas grosse Bild können wir über das Sofa hängen. We can hang the big picture above the sofa."
+      }
+    ],
+    "metadata": {
+      "page_start": 13,
+      "page_end": 14,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

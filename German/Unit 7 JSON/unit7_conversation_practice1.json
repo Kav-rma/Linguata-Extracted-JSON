@@ -1,0 +1,158 @@
+{
+  "title": "unit7_conversation_practice1",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Person B suggest placing the small table?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Beside the bookcase",
+          "is_correct": true
+        },
+        {
+          "answer": "In front of the sofa",
+          "is_correct": false
+        },
+        {
+          "answer": "Between two windows",
+          "is_correct": false
+        },
+        {
+          "answer": "Next to the door",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does Person A ask about after the small table?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where to place the lamp",
+          "is_correct": true
+        },
+        {
+          "answer": "Where to place the sofa",
+          "is_correct": false
+        },
+        {
+          "answer": "Where to hang the picture",
+          "is_correct": false
+        },
+        {
+          "answer": "Where to put the books",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where does Person B suggest putting the lamp?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Between the two windows",
+          "is_correct": true
+        },
+        {
+          "answer": "On the table",
+          "is_correct": false
+        },
+        {
+          "answer": "Next to the door",
+          "is_correct": false
+        },
+        {
+          "answer": "Behind the bookcase",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is Person A deciding about the armchair?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whether it should be in the corner or by the door",
+          "is_correct": true
+        },
+        {
+          "answer": "Whether to sell it",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether to paint it",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether to move it to another room",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Where does Person B think the armchair fits best?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the corner",
+          "is_correct": true
+        },
+        {
+          "answer": "Near the door",
+          "is_correct": false
+        },
+        {
+          "answer": "Between the windows",
+          "is_correct": false
+        },
+        {
+          "answer": "In front of the bookcase",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "A: Wo soll dieser kleine Tisch stehen?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "B: Dort neben dem Bücherschrank."
+    },
+    {
+      "sequence_id": 3,
+      "text": "A: Und die Lampe hier?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "B: Stellen Sie die doch bitte zwischen die zwei Fenster."
+    },
+    {
+      "sequence_id": 5,
+      "text": "A: Soll der Sessel dort in der Ecke stehen oder neben der Tür?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "B: Ich finde, der passt gut dort in die Ecke."
+    }
+  ],
+  "metadata": {
+    "page_start": 28,
+    "page_end": 28,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "title": "unit7_conversation_practice2",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does Person D ask about at the beginning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The cost of rent for new apartments",
+          "is_correct": true
+        },
+        {
+          "answer": "The size of the living room",
+          "is_correct": false
+        },
+        {
+          "answer": "The number of available rooms",
+          "is_correct": false
+        },
+        {
+          "answer": "The nearest supermarket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does Person A describe rent prices in the city?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Very high",
+          "is_correct": true
+        },
+        {
+          "answer": "Moderate",
+          "is_correct": false
+        },
+        {
+          "answer": "Very low",
+          "is_correct": false
+        },
+        {
+          "answer": "Not mentioned",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What kind of apartment does Person D need?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One with large rooms",
+          "is_correct": true
+        },
+        {
+          "answer": "A studio",
+          "is_correct": false
+        },
+        {
+          "answer": "A small flat",
+          "is_correct": false
+        },
+        {
+          "answer": "A shared room",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does Person A offer to show Person D?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Some nice houses for rent in the neighborhood",
+          "is_correct": true
+        },
+        {
+          "answer": "New office spaces",
+          "is_correct": false
+        },
+        {
+          "answer": "Local restaurants",
+          "is_correct": false
+        },
+        {
+          "answer": "Furniture stores",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Where would Person D prefer to live?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the suburbs",
+          "is_correct": true
+        },
+        {
+          "answer": "In the city center",
+          "is_correct": false
+        },
+        {
+          "answer": "Near the market",
+          "is_correct": false
+        },
+        {
+          "answer": "Next to a park",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D: Wie hoch sind hier eigentlich die Mieten für neue Wohnungen?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "A: Hier in der Stadt sind sie sehr hoch."
+    },
+    {
+      "sequence_id": 3,
+      "text": "D: Ich brauche eine Wohnung mit grossen Zimmern."
+    },
+    {
+      "sequence_id": 4,
+      "text": "A: In unserer Nachbarschaft sind einige nette Häuser zu vermieten. Wollen Sie sich die nicht mal ansehen?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "D: Ja, wir möchten auch lieber im Vorort wohnen."
+    }
+  ],
+  "metadata": {
+    "page_start": 28,
+    "page_end": 28,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

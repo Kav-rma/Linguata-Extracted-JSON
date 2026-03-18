@@ -1,0 +1,302 @@
+{
+  "title": "unit7_situation_johnsons_mieten_ein_haus",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where do Herr and Frau Johnson look at a house?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In a suburb of Stuttgart",
+          "is_correct": true
+        },
+        {
+          "answer": "In the center of Berlin",
+          "is_correct": false
+        },
+        {
+          "answer": "In Munich",
+          "is_correct": false
+        },
+        {
+          "answer": "In Frankfurt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Who owns the house the Johnsons are viewing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herr Meyer",
+          "is_correct": true
+        },
+        {
+          "answer": "Herr Schmidt",
+          "is_correct": false
+        },
+        {
+          "answer": "Frau Johnson",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Jones",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why do the Johnsons need a large house?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They have four small children",
+          "is_correct": true
+        },
+        {
+          "answer": "They host many guests",
+          "is_correct": false
+        },
+        {
+          "answer": "They have a large business",
+          "is_correct": false
+        },
+        {
+          "answer": "They own many pets",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What rooms does Herr Meyer show the Johnsons?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The rooms in the house",
+          "is_correct": true
+        },
+        {
+          "answer": "The garage",
+          "is_correct": false
+        },
+        {
+          "answer": "The attic",
+          "is_correct": false
+        },
+        {
+          "answer": "The basement",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is lacking in the kitchen?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A refrigerator and a modern stove",
+          "is_correct": true
+        },
+        {
+          "answer": "A sink",
+          "is_correct": false
+        },
+        {
+          "answer": "Windows",
+          "is_correct": false
+        },
+        {
+          "answer": "A dining table",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Herr Meyer plan to put in the kitchen?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A new refrigerator",
+          "is_correct": true
+        },
+        {
+          "answer": "A new oven",
+          "is_correct": false
+        },
+        {
+          "answer": "A dining table",
+          "is_correct": false
+        },
+        {
+          "answer": "A microwave",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does Herr Meyer show after the rooms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The garden behind the house",
+          "is_correct": true
+        },
+        {
+          "answer": "The garage",
+          "is_correct": false
+        },
+        {
+          "answer": "The cellar",
+          "is_correct": false
+        },
+        {
+          "answer": "The roof",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How much is the rent?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "400 DM",
+          "is_correct": true
+        },
+        {
+          "answer": "200 DM",
+          "is_correct": false
+        },
+        {
+          "answer": "500 DM",
+          "is_correct": false
+        },
+        {
+          "answer": "350 DM",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does Herr Johnson ask about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The amount of the rent",
+          "is_correct": true
+        },
+        {
+          "answer": "The age of the house",
+          "is_correct": false
+        },
+        {
+          "answer": "The location of the school",
+          "is_correct": false
+        },
+        {
+          "answer": "The neighbors",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Do the Johnsons decide to rent the house?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No",
+          "is_correct": false
+        },
+        {
+          "answer": "Not mentioned",
+          "is_correct": false
+        },
+        {
+          "answer": "They delay the decision",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr und Frau Johnson sehen sich im Vorort von Stuttgart ein Haus an."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Es gehört Herrn Meyer, und der möchte es vermieten."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Johnsons brauchen ein grosses Haus."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Sie haben vier kleine Kinder."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Herr Meyer zeigt ihnen die Zimmer."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Das Haus gefällt Johnsons sehr gut."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Die Küche ist sehr gross, hat aber leider keinen Kühlschrank und nur einen alten Herd."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Herr Meyer will aber einen neuen Kühlschrank in die Küche stellen."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Dann zeigt er den Garten hinter dem Haus."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Herr Johnson möchte wissen, wie hoch die Miete ist."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Herr Meyer sagt 400.-- DM."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Johnsons mieten das Haus."
+    }
+  ],
+  "metadata": {
+    "page_start": 29,
+    "page_end": 29,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

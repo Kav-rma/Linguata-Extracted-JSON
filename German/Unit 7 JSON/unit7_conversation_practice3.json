@@ -1,0 +1,150 @@
+{
+  "title": "unit7_conversation_practice3",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Person C say the newspapers can be placed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "On the small table",
+          "is_correct": true
+        },
+        {
+          "answer": "On the sofa",
+          "is_correct": false
+        },
+        {
+          "answer": "In the kitchen",
+          "is_correct": false
+        },
+        {
+          "answer": "On the shelf",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What item is already on the small table?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The telephone book",
+          "is_correct": true
+        },
+        {
+          "answer": "A vase",
+          "is_correct": false
+        },
+        {
+          "answer": "A lamp",
+          "is_correct": false
+        },
+        {
+          "answer": "The newspapers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does Person A ask about doing next?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Unpacking the books",
+          "is_correct": true
+        },
+        {
+          "answer": "Taking out the trash",
+          "is_correct": false
+        },
+        {
+          "answer": "Cleaning the table",
+          "is_correct": false
+        },
+        {
+          "answer": "Arranging the chairs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Where does Person C suggest putting the books?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the bookcase",
+          "is_correct": true
+        },
+        {
+          "answer": "On the kitchen counter",
+          "is_correct": false
+        },
+        {
+          "answer": "On the floor",
+          "is_correct": false
+        },
+        {
+          "answer": "On the windowsill",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is Person C's response to unpacking the books?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, please, and put them in the bookcase",
+          "is_correct": true
+        },
+        {
+          "answer": "No, keep them packed",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait until tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "Only unpack the magazines",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "A: Wo soll ich die Zeitungen hinlegen?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "C: Die können Sie auf den kleinen Tisch legen. Das Telefonbuch liegt auch dort."
+    },
+    {
+      "sequence_id": 3,
+      "text": "A: Kann ich jetzt die Bücher auspacken?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "C: Ja, bitte. Und stellen Sie sie doch gleich in den Bücherschrank."
+    }
+  ],
+  "metadata": {
+    "page_start": 28,
+    "page_end": 28,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

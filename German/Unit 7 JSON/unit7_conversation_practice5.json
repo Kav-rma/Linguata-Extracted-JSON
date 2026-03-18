@@ -1,0 +1,150 @@
+{
+  "title": "unit7_conversation_practice5",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does Person B want to know?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If there is a room for rent",
+          "is_correct": true
+        },
+        {
+          "answer": "If there is a kitchen available",
+          "is_correct": false
+        },
+        {
+          "answer": "If there is a parking space",
+          "is_correct": false
+        },
+        {
+          "answer": "If there is a bathroom",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How many rooms does Person C have for rent?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two rooms",
+          "is_correct": true
+        },
+        {
+          "answer": "One room",
+          "is_correct": false
+        },
+        {
+          "answer": "Three rooms",
+          "is_correct": false
+        },
+        {
+          "answer": "Four rooms",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which room does Person B want to see?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The large room",
+          "is_correct": true
+        },
+        {
+          "answer": "The small room",
+          "is_correct": false
+        },
+        {
+          "answer": "Both rooms",
+          "is_correct": false
+        },
+        {
+          "answer": "The kitchen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does Person C say about showing the room?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sure, it's to the right",
+          "is_correct": true
+        },
+        {
+          "answer": "No, it's occupied",
+          "is_correct": false
+        },
+        {
+          "answer": "Come back later",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the small one is available",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the location of the room according to Person C?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Here on the right",
+          "is_correct": true
+        },
+        {
+          "answer": "Here on the left",
+          "is_correct": false
+        },
+        {
+          "answer": "Upstairs",
+          "is_correct": false
+        },
+        {
+          "answer": "Downstairs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "B: Verzeihung, ist hier ein Zimmer zu vermieten?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "C: Ich habe zwei Zimmer zu vermieten, ein grosses und ein kleines."
+    },
+    {
+      "sequence_id": 3,
+      "text": "B: Kann ich mir das grosse Zimmer mal ansehen?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "C: Aber gern. Hier rechts, bitte."
+    }
+  ],
+  "metadata": {
+    "page_start": 28,
+    "page_end": 28,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

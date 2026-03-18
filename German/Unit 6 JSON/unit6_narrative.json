@@ -1,0 +1,340 @@
+[
+  {
+    "title": "unit6_narrative",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In Ortsgespräche, where can you dial the desired number yourself?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In any city worldwide",
+            "is_correct": false
+          },
+          {
+            "answer": "In all smaller towns",
+            "is_correct": false
+          },
+          {
+            "answer": "In all larger towns of the Federal Republic",
+            "is_correct": true
+          },
+          {
+            "answer": "Only at the post office",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "If self-dial long distance service is not available, what must you do?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Call a friend",
+            "is_correct": false
+          },
+          {
+            "answer": "Register the long-distance call at the Fernamt",
+            "is_correct": true
+          },
+          {
+            "answer": "Dial the number anyway",
+            "is_correct": false
+          },
+          {
+            "answer": "Wait until evening",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "When does a V-call begin to count?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "As soon as you dial",
+            "is_correct": false
+          },
+          {
+            "answer": "When the operator answers",
+            "is_correct": false
+          },
+          {
+            "answer": "Only when the desired person is on the line",
+            "is_correct": true
+          },
+          {
+            "answer": "When the call is connected",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What are X P calls?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Local calls",
+            "is_correct": false
+          },
+          {
+            "answer": "Calls with people who have a phone connection",
+            "is_correct": false
+          },
+          {
+            "answer": "Long-distance calls with people without a telephone connection",
+            "is_correct": true
+          },
+          {
+            "answer": "Emergency calls",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Who pays the charges in R calls?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The caller always pays",
+            "is_correct": false
+          },
+          {
+            "answer": "The operator",
+            "is_correct": false
+          },
+          {
+            "answer": "The requested party if the person there agrees",
+            "is_correct": true
+          },
+          {
+            "answer": "It is free",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What does 'grösseren' mean in the vocabulary list?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Desired",
+            "is_correct": false
+          },
+          {
+            "answer": "Fairly large",
+            "is_correct": true
+          },
+          {
+            "answer": "Yourself",
+            "is_correct": false
+          },
+          {
+            "answer": "Place",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does 'der Ort' mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Town hall",
+            "is_correct": false
+          },
+          {
+            "answer": "Charge",
+            "is_correct": false
+          },
+          {
+            "answer": "Place, locality",
+            "is_correct": true
+          },
+          {
+            "answer": "Pay",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What is the English meaning of 'die Sprechstelle'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Telephone connection",
+            "is_correct": false
+          },
+          {
+            "answer": "Station",
+            "is_correct": true
+          },
+          {
+            "answer": "Charge",
+            "is_correct": false
+          },
+          {
+            "answer": "Kind",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What does 'erst' mean?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Only, not until",
+            "is_correct": true
+          },
+          {
+            "answer": "When",
+            "is_correct": false
+          },
+          {
+            "answer": "Via",
+            "is_correct": false
+          },
+          {
+            "answer": "Without",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "In the narrative, what does the phrase 'ohne Fernsprechananschluss' describe?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Without a train connection",
+            "is_correct": false
+          },
+          {
+            "answer": "Without a telephone connection",
+            "is_correct": true
+          },
+          {
+            "answer": "Without a seat reservation",
+            "is_correct": false
+          },
+          {
+            "answer": "Without a letter",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Narrative"
+      },
+      {
+        "sequence_id": 2,
+        "text": "Ortsgespräche: In allen grösseren Orten der Bundesrepublik können Sie die gewünschte Nummer selbst wählen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Ferngespräche: Zwischen vielen Orten hat man \"Selbstwählferndienst\". Wo es den noch nicht gibt, müssen Sie das Ferngespräch beim Fernamt anmelden. Nur über das Fernamt können Sie auch diese drei Arten von Gesprächsverbindungen haben:"
+      },
+      {
+        "sequence_id": 4,
+        "text": "V - Gespräche: Sie sagen gleich bei der Anmeldung dem Fräulein vom Fernamt den Namen der Person, die Sie sprechen wollen. Das Gespräch zählt dann erst, wenn die gewünschte Person am Apparat ist."
+      },
+      {
+        "sequence_id": 5,
+        "text": "X P - Gespräche: Das sind Ferngespräche mit Personen ohne Fernsprechananschluss. Die gewünschte Person wird dann an einen öffentlichen Fernsprecher gerufen."
+      },
+      {
+        "sequence_id": 6,
+        "text": "R - Gespräche: Die Gebühren dieser Gespräche bezahlt die gewünschte Sprechstelle, wenn die Person, die sich dort meldet, damit einverstanden ist."
+      },
+      {
+        "sequence_id": 7,
+        "text": "grösseren – fairly large"
+      },
+      {
+        "sequence_id": 8,
+        "text": "der Ort,-e – place, locality"
+      },
+      {
+        "sequence_id": 9,
+        "text": "gewünschte – desired"
+      },
+      {
+        "sequence_id": 10,
+        "text": "selbst – yourself, himself, themselves"
+      },
+      {
+        "sequence_id": 11,
+        "text": "über – via"
+      },
+      {
+        "sequence_id": 12,
+        "text": "die Art,-en – kind"
+      },
+      {
+        "sequence_id": 13,
+        "text": "erst – only, not until"
+      },
+      {
+        "sequence_id": 14,
+        "text": "wenn – when"
+      },
+      {
+        "sequence_id": 15,
+        "text": "ohne – without"
+      },
+      {
+        "sequence_id": 16,
+        "text": "der Fernsprechanschluss – telephone connection"
+      },
+      {
+        "sequence_id": 17,
+        "text": "wird ... gerufen – is called"
+      },
+      {
+        "sequence_id": 18,
+        "text": "die Gebühr,-en – charge"
+      },
+      {
+        "sequence_id": 19,
+        "text": "bezahlen – pay"
+      },
+      {
+        "sequence_id": 20,
+        "text": "die Sprechstelle,-n – station"
+      },
+      {
+        "sequence_id": 21,
+        "text": "damit einverstanden sein – to be in agreement with something"
+      }
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

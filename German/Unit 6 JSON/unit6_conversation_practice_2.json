@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unit6_conversation_practice_2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What city code does K ask to be connected to?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Berlin 58 64 22",
+            "is_correct": false
+          },
+          {
+            "answer": "Düsseldorf 58 64 22",
+            "is_correct": true
+          },
+          {
+            "answer": "Munich 24 23 21",
+            "is_correct": false
+          },
+          {
+            "answer": "Frankfurt 58 64 22",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Who is the call intended for?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Bauer",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Allen",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Peter König",
+            "is_correct": true
+          },
+          {
+            "answer": "Herr Schmidt",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What number does K provide as his own?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "58 64 22",
+            "is_correct": false
+          },
+          {
+            "answer": "24 23 21",
+            "is_correct": true
+          },
+          {
+            "answer": "10 32 45",
+            "is_correct": false
+          },
+          {
+            "answer": "77 94 51",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does the operator ask K?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To dial again",
+            "is_correct": false
+          },
+          {
+            "answer": "For his number",
+            "is_correct": true
+          },
+          {
+            "answer": "To give his name",
+            "is_correct": false
+          },
+          {
+            "answer": "For the address",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does the operator instruct K to do after giving his number?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Hang up the phone",
+            "is_correct": false
+          },
+          {
+            "answer": "Stay on the line",
+            "is_correct": true
+          },
+          {
+            "answer": "Dial zero",
+            "is_correct": false
+          },
+          {
+            "answer": "Give his address",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "K: Bitte Düsseldorf 58 64 22, mit Voranmeldung für Herrn Peter König."
+      },
+      {
+        "sequence_id": 2,
+        "text": "F: Ihre Nummer bitte?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "K: 24 23 21."
+      },
+      {
+        "sequence_id": 4,
+        "text": "F: Bleiben Sie am Apparat. Ich rufe."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

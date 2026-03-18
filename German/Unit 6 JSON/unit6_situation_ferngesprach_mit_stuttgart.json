@@ -1,0 +1,286 @@
+{
+  "title": "unit6_situation_ferngesprach_mit_stuttgart",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Herr Jones live?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In Munich",
+          "is_correct": true
+        },
+        {
+          "answer": "In Stuttgart",
+          "is_correct": false
+        },
+        {
+          "answer": "In Berlin",
+          "is_correct": false
+        },
+        {
+          "answer": "In Cologne",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "On which day does Herr Jones plan to visit his friends?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Saturday",
+          "is_correct": true
+        },
+        {
+          "answer": "Sunday",
+          "is_correct": false
+        },
+        {
+          "answer": "Friday",
+          "is_correct": false
+        },
+        {
+          "answer": "Monday",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why does Herr Jones call before visiting?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He does not know their telephone number",
+          "is_correct": true
+        },
+        {
+          "answer": "He wants to cancel the visit",
+          "is_correct": false
+        },
+        {
+          "answer": "He is lost",
+          "is_correct": false
+        },
+        {
+          "answer": "He wants to invite them to dinner",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What information does Herr Jones have even though he doesn’t know the phone number?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Their address",
+          "is_correct": true
+        },
+        {
+          "answer": "Their passport number",
+          "is_correct": false
+        },
+        {
+          "answer": "Their email address",
+          "is_correct": false
+        },
+        {
+          "answer": "Their license plate number",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What number does Herr Jones dial first?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Zero",
+          "is_correct": true
+        },
+        {
+          "answer": "Nine",
+          "is_correct": false
+        },
+        {
+          "answer": "Seven",
+          "is_correct": false
+        },
+        {
+          "answer": "Five",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Whom does Herr Jones ask to speak with?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herrn oder Frau Walter Müller",
+          "is_correct": true
+        },
+        {
+          "answer": "Herrn Schmidt",
+          "is_correct": false
+        },
+        {
+          "answer": "Frau Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Herrn Keller",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the telephone operator do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Provides the number and connects him",
+          "is_correct": true
+        },
+        {
+          "answer": "Refuses to help",
+          "is_correct": false
+        },
+        {
+          "answer": "Asks him to call later",
+          "is_correct": false
+        },
+        {
+          "answer": "Gives the wrong number",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why can’t Herr Jones speak to Frau Müller on Saturday?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She is not at home",
+          "is_correct": true
+        },
+        {
+          "answer": "She is traveling abroad",
+          "is_correct": false
+        },
+        {
+          "answer": "She is at work",
+          "is_correct": false
+        },
+        {
+          "answer": "She is ill",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When is it convenient for Herr Jones to visit?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sunday",
+          "is_correct": true
+        },
+        {
+          "answer": "Monday",
+          "is_correct": false
+        },
+        {
+          "answer": "Tuesday",
+          "is_correct": false
+        },
+        {
+          "answer": "Wednesday",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In which city do Herr Jones’s friends live?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Stuttgart",
+          "is_correct": true
+        },
+        {
+          "answer": "Frankfurt",
+          "is_correct": false
+        },
+        {
+          "answer": "Munich",
+          "is_correct": false
+        },
+        {
+          "answer": "Hamburg",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr Jones wohnt in München."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Er möchte am Samstag seine deutschen Bekannten in Stuttgart besuchen und ruft sie vorher an."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Leider weiss er ihre Telefonnummer nicht, aber er hat die Adresse."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Er wählt Null und das Fernamt meldet sich."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Herr Jones sagt, er möchte mit Herrn oder Frau Walter Müller in Stuttgart, Ludwigstrasse 4 sprechen."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Das Fernamt sagt ihm die Nummer und verbindet ihn."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Frau Müller ist leider am Samstag nicht da."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Aber am Sonntag passt es ihnen gut."
+    }
+  ],
+  "metadata": {
+    "page_start": 23,
+    "page_end": 23,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

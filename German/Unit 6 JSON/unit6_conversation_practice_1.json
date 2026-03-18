@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unit6_conversation_practice_1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who answers the phone?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Jones",
+            "is_correct": false
+          },
+          {
+            "answer": "Müller",
+            "is_correct": true
+          },
+          {
+            "answer": "Schmidt",
+            "is_correct": false
+          },
+          {
+            "answer": "Peter",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Who does Jones want to speak to?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Mrs. Müller",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Allen",
+            "is_correct": false
+          },
+          {
+            "answer": "Fräulein Müller",
+            "is_correct": true
+          },
+          {
+            "answer": "Mr. Bauer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Why can't Jones speak with Miss Müller?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "She is sick",
+            "is_correct": false
+          },
+          {
+            "answer": "She is busy cooking",
+            "is_correct": false
+          },
+          {
+            "answer": "She is not in the office at the moment",
+            "is_correct": true
+          },
+          {
+            "answer": "She is asleep",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does M offer to do for Miss Müller?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Call her later",
+            "is_correct": false
+          },
+          {
+            "answer": "Take a message for her",
+            "is_correct": true
+          },
+          {
+            "answer": "Visit her",
+            "is_correct": false
+          },
+          {
+            "answer": "Send her a letter",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does Jones decide to do instead?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Send a message",
+            "is_correct": false
+          },
+          {
+            "answer": "Call again in an hour",
+            "is_correct": true
+          },
+          {
+            "answer": "Visit the office",
+            "is_correct": false
+          },
+          {
+            "answer": "Speak with her secretary",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "M: Hier Müller."
+      },
+      {
+        "sequence_id": 2,
+        "text": "J: Hier Jones. Kann ich bitte mit Fräulein Müller sprechen?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "M: Fräulein Müller ist leider im Augenblick nicht hier. Kann ich ihr etwas ausrichten?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "J: Nein danke, ich rufe in einer Stunde wieder an."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

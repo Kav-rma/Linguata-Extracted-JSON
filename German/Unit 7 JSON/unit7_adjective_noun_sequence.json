@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit7_adjective_noun_sequence",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which set of endings is used for attributive adjectives in adjective-noun sequences?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "-e, -em, -en, -er or -es",
+            "is_correct": true
+          },
+          {
+            "answer": "-en, -in, -er, -es or -et",
+            "is_correct": false
+          },
+          {
+            "answer": "-us, -um, -um, -un or -ut",
+            "is_correct": false
+          },
+          {
+            "answer": "No endings are added",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What effect do preceding adverbs or numerals have on adjective endings in adjective-noun sequences?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The adjective endings become neuter",
+            "is_correct": false
+          },
+          {
+            "answer": "The adjective endings remain unaffected",
+            "is_correct": true
+          },
+          {
+            "answer": "The adjective endings become capitalized",
+            "is_correct": false
+          },
+          {
+            "answer": "The adjective is omitted",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which sentence shows an adjective used as a noun without a specifier?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wir treffen unsere guten Bekannten in Frankfurt.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ist sie Amerikanerin oder Deutsche?",
+            "is_correct": true
+          },
+          {
+            "answer": "Das ist ein guter französischer Wein.",
+            "is_correct": false
+          },
+          {
+            "answer": "Trinken Sie gern gutes deutsches Bier?",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "When there is more than one adjective in an adjective-noun sequence, how are the endings applied?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They take different endings based on their order",
+            "is_correct": false
+          },
+          {
+            "answer": "All adjectives have the same ending",
+            "is_correct": true
+          },
+          {
+            "answer": "The first adjective loses its ending",
+            "is_correct": false
+          },
+          {
+            "answer": "Only the last adjective is inflected",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which sentence includes an adjective-noun sequence where the noun is omitted?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Die Männer bringen gerade zwei grosse Kisten herauf.",
+            "is_correct": false
+          },
+          {
+            "answer": "Hier sind noch einige nette Häuser zu vermieten.",
+            "is_correct": false
+          },
+          {
+            "answer": "Nein, ich habe nur amerikanisches.",
+            "is_correct": true
+          },
+          {
+            "answer": "Ist sie deutsche Staatsangehörige?",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Why are genitive forms rarely listed for adjective-noun sequences?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because they are identical to nominative forms",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they occur very rarely",
+            "is_correct": true
+          },
+          {
+            "answer": "Because they are replaced by dative forms",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they require a special prefix",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which pair of sentences illustrates the difference between adjective-noun sequences and specifier-adjective-noun sequences?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Das ist gutes deutsches Geschirr. / Das ist ihr gutes deutsches Geschirr.",
+            "is_correct": true
+          },
+          {
+            "answer": "Die Männer bringen gerade zwei grosse Kisten herauf. / Ist sie amerikanischer Beamter.",
+            "is_correct": false
+          },
+          {
+            "answer": "Trinken Sie gern deutsches Bier? / Ich trinke lieber französischen.",
+            "is_correct": false
+          },
+          {
+            "answer": "Wir haben gute Bekannte. / Wir treffen unsere guten Bekannten.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What is the correct English translation of 'Haben Sie deutsches Geld?'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Do you have any German money?",
+            "is_correct": true
+          },
+          {
+            "answer": "Is this German money?",
+            "is_correct": false
+          },
+          {
+            "answer": "Do you have German relatives?",
+            "is_correct": false
+          },
+          {
+            "answer": "Where is the German money?",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "When adjectives are used as nouns and preceded by other adjectives, how do their endings behave?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The first adjective is uninflected",
+            "is_correct": false
+          },
+          {
+            "answer": "Both adjectives take the same ending",
+            "is_correct": true
+          },
+          {
+            "answer": "The second adjective changes to -er only",
+            "is_correct": false
+          },
+          {
+            "answer": "The adjectives drop their endings",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What change does the specifier 'ein' cause in the sentence 'Das ist ein guter französischer Wein'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It shortens the adjective",
+            "is_correct": false
+          },
+          {
+            "answer": "It adds an umlaut",
+            "is_correct": false
+          },
+          {
+            "answer": "It changes the ending of the adjective",
+            "is_correct": true
+          },
+          {
+            "answer": "It removes the adjective",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Notes on Grammar (For Home Study)\n\nA. ADJECTIVES - THE ADJECTIVE-NOUN SEQUENCE\n\nI. In Unit 6 we discussed attributive adjectives in specifier-adjective-noun sequences. Attributive adjectives are not always preceded by specifiers however; they also occur in ADJECTIVE-NOUN sequences. Note the following examples from the basic sentences of this and preceding units:\n\nAmerikanisches Generalkonsulat. American Consulate General.\nIch muss einige Geschäftsbriefe schreiben. I have to write some business letters.\nJa, mit so grossen Kühlschrank und kombinierten Gas- und Elektroherd. Yes, with such a large refrigerator and combination gas and electric range.\n\nII. Attributive adjectives in ADJECTIVE-NOUN sequences ALWAYS HAVE ENDINGS.\n\n1. The adjective endings are -e, -em, -en, -er or -es:\n\nNom Amerikanischer Tabak ist gut.\nAcc Ich rauche gern amerikanischen Tabak.\nDat Ich rauche nur Zigaretten mit amerikanischem Tabak.\n\nNom Hier ist deutsches Geld.\nAcc Haben Sie deutsches Geld?\nDat Was können wir hier mit deutschem Geld tun?\n\nNom Ist das hier gute Tinte?\nAcc Hier haben Sie gute Tinte.\nDat Mit guter Tinte kann man gut schreiben.\n\nNom Hier sind grosse Sessel.\nAcc Ich suche grosse Sessel.\nDat Ich habe ein Wohnzimmer mit grossen Sesseln.\n\n2. No genitive forms are listed for the ADJECTIVE-NOUN sequence, as they occur only very rarely. Note that the adjective endings of the nominative, accusative and dative forms correspond throughout to the endings of the der-type specifiers.\n\n3. Preceding adverbs or numerals do not affect the forms of the adjectives in ADJECTIVE-NOUN sequences:\n\nDie Männer bringen gerade zwei grosse Kisten herauf. The men are just bringing two big crates in.\nHeute ist wirklich schönes Wetter. It's really nice weather today.\n\n4. The noun is not always present in a sequence when it can be understood from the context. The form of the adjective is the same whether the noun is present or not:\n\nHaben Sie deutsches Geld? Do you have any German money?\nNein, ich habe nur amerikanisches. No, I only have American money.\n\nBrauchen Sie einen grossen Teppich für das Wohnzimmer? Do you need a large rug for the living-room?\nNein, ich möchte zwei kleine für das Schlafzimmer haben. No, I'd like to have two small ones for the bedroom.\n\nTrinken Sie lieber deutschen oder französischen Wein? Do you like German or French wine better?\nIch trinke lieber französischen. I like French wine better.\n\n5. If there is more than one adjective in an ADJECTIVE-NOUN sequence, all have the same endings:\n\nHier sind noch einige nette Häuser zu vermieten. There are still some nice houses for rent here.\nEine Küche mit so vielen eingebauten Schränken ist doch schön. A kitchen with so many built-in cupboards really is nice.\nTrinken Sie gern gutes deutsches Bier? Do you like good German beer?\n\nIII. Adjectives used as nouns often occur without a preceding specifier.\n\n1. Their endings are the same as those outlined above:\n\nIst sie Amerikanerin oder Deutsche? Is she an American or a German?\nSie sind Deutscher, nicht wahr? You're German, aren't you?\nIch wusste nicht, dass Ihre Frau hier Verwandte hat. I didn't know that your wife has relatives here.\n\n2. Note that adjectives used as nouns may be preceded by other adjectives. Both then have the same ending:\n\nIst sie deutsche Staatsangehörige? Is she a German citizen?\nEr ist amerikanischer Beamter. He's an American official.\nMeine Frau hat nette Verwandte in Berlin. My wife has nice relatives in Berlin.\nWir haben gute Bekannte in Frankfurt. We have good friends in Frankfurt.\n\n3. Note carefully the distinction in form between adjectives used as nouns when they are preceded by a specifier and when they are not:\n\nDas ist der amerikanische Beamte. That's the American official.\nMorgen besuchen wir die netten Verwandten meiner Frau in Berlin. Tomorrow we're going to visit my wife's nice relatives in Berlin.\nWir treffen unsere guten Bekannten in Frankfurt. We're meeting our good friends in Frankfurt.\n\nIV. Adjectives in ADJECTIVE-NOUN sequences and in SPECIFIER-ADJECTIVE-NOUN sequences:\n\n1. Compare the following sentences:\n\nDas ist guter französischer Wein. That's good French wine.\nDas ist ein guter französischer Wein. That's a good French wine.\nWo ist der gute französische Wein? Where's the good French wine?\n\nDas ist gutes deutsches Geschirr. That's good German dinnerware.\nDas ist ihr gutes deutsches Geschirr. That's her good German dinnerware.\nWo ist das gute deutsche Geschirr? Where's the good German dinnerware?\n\nYou will note that there is no difference in the form of adjectives in adjective-noun sequences and in sequences with the endingless ein-type specifiers. There is a difference between the form of these adjectives and adjectives in a specifier-adjective-noun sequence where the specifier also has an ending."
+      }
+    ],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 13,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

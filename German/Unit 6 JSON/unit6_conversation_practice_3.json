@@ -1,0 +1,164 @@
+[
+  {
+    "title": "unit6_conversation_practice_3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who does S represent on the call?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The Economic Section",
+            "is_correct": false
+          },
+          {
+            "answer": "Certina G.m.b.H.",
+            "is_correct": true
+          },
+          {
+            "answer": "The Consulate",
+            "is_correct": false
+          },
+          {
+            "answer": "Bauer & Co.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What topic does S want information about?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "New tax laws",
+            "is_correct": false
+          },
+          {
+            "answer": "New import regulations",
+            "is_correct": true
+          },
+          {
+            "answer": "New employees",
+            "is_correct": false
+          },
+          {
+            "answer": "New telephone numbers",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "At what time does S ask to visit A's office?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Two o'clock",
+            "is_correct": true
+          },
+          {
+            "answer": "Three o'clock",
+            "is_correct": false
+          },
+          {
+            "answer": "Four o'clock",
+            "is_correct": false
+          },
+          {
+            "answer": "Five o'clock",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Why can't A meet at two o'clock?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He is out of town",
+            "is_correct": false
+          },
+          {
+            "answer": "He is at a conference",
+            "is_correct": true
+          },
+          {
+            "answer": "He is sleeping",
+            "is_correct": false
+          },
+          {
+            "answer": "He is on holiday",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What time does A propose instead?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "One o'clock",
+            "is_correct": false
+          },
+          {
+            "answer": "Two o'clock",
+            "is_correct": false
+          },
+          {
+            "answer": "Three o'clock",
+            "is_correct": false
+          },
+          {
+            "answer": "Four o'clock",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wirtschaftsabteilung, Allen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "S: Guten Tag, Herr Allen. Hier Certina G.m.b.H., Schmidt. Kann ich Sie einen Augenblick stören?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Sie stören nicht, Herr Schmidt. Worum handelt es sich?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "S: Um die neuen Zollbestimmungen. Ich möchte gern eine genaue Auskunft darüber haben. Kann ich um zwei Uhr zu Ihnen ins Büro kommen?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Um zwei Uhr muss ich leider zu einer Konferenz gehen. Können Sie vielleicht um vier Uhr kommen?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "S: Gern. Vielen Dank und Auf Wiedersehen."
+      },
+      {
+        "sequence_id": 7,
+        "text": "A: Auf Wiedersehen, Herr Schmidt."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

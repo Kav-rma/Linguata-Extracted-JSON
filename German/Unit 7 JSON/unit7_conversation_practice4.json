@@ -1,0 +1,150 @@
+{
+  "title": "unit7_conversation_practice4",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does Person C want to know about the boxes?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where to put them",
+          "is_correct": true
+        },
+        {
+          "answer": "How heavy they are",
+          "is_correct": false
+        },
+        {
+          "answer": "Who owns them",
+          "is_correct": false
+        },
+        {
+          "answer": "When they arrived",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is Person D's first response?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Asking how many boxes there are",
+          "is_correct": true
+        },
+        {
+          "answer": "Telling to put them in the garage",
+          "is_correct": false
+        },
+        {
+          "answer": "Saying he doesn't know",
+          "is_correct": false
+        },
+        {
+          "answer": "Suggesting to throw them away",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How many boxes are there?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Four large and two small",
+          "is_correct": true
+        },
+        {
+          "answer": "Two large and four small",
+          "is_correct": false
+        },
+        {
+          "answer": "Six large",
+          "is_correct": false
+        },
+        {
+          "answer": "Six small",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Where should the large boxes go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the living room",
+          "is_correct": true
+        },
+        {
+          "answer": "In the kitchen",
+          "is_correct": false
+        },
+        {
+          "answer": "In the bedroom",
+          "is_correct": false
+        },
+        {
+          "answer": "On the balcony",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Where should the small boxes go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the kitchen",
+          "is_correct": true
+        },
+        {
+          "answer": "In the living room",
+          "is_correct": false
+        },
+        {
+          "answer": "In the hallway",
+          "is_correct": false
+        },
+        {
+          "answer": "In the closet",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "C: Wo sollen wir die Kisten hinstellen?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "D: Wieviele Kisten sind es denn?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "C: Vier grosse und zwei kleine."
+    },
+    {
+      "sequence_id": 4,
+      "text": "D: Stellen Sie bitte die grossen hier ins Wohnzimmer und die zwei kleinen in die Küche."
+    }
+  ],
+  "metadata": {
+    "page_start": 28,
+    "page_end": 28,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
