@@ -1,0 +1,172 @@
+[
+  {
+    "title": "unit11_conversation_practice2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "At what time is Dr. König's meeting?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "5:15",
+            "is_correct": true
+          },
+          {
+            "answer": "1:00",
+            "is_correct": false
+          },
+          {
+            "answer": "12:30",
+            "is_correct": false
+          },
+          {
+            "answer": "4:00",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does B ask Miss Keller to do regarding Mr. Becker?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Cancel the meeting.",
+            "is_correct": false
+          },
+          {
+            "answer": "Translate an article.",
+            "is_correct": false
+          },
+          {
+            "answer": "Call him to arrange lunch.",
+            "is_correct": true
+          },
+          {
+            "answer": "Get the documents.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Where do B and Mr. Becker plan to meet for lunch if convenient?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At the Chamber of Commerce.",
+            "is_correct": false
+          },
+          {
+            "answer": "At the French restaurant.",
+            "is_correct": false
+          },
+          {
+            "answer": "At the Ratskeller.",
+            "is_correct": true
+          },
+          {
+            "answer": "At the office.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does B want Miss Keller to do with the French article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Throw it away.",
+            "is_correct": false
+          },
+          {
+            "answer": "Have it translated.",
+            "is_correct": true
+          },
+          {
+            "answer": "Summarize it.",
+            "is_correct": false
+          },
+          {
+            "answer": "Publish it.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does B plan to do before going to lunch?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Write some letters.",
+            "is_correct": false
+          },
+          {
+            "answer": "Dictate some letters to Miss Keller.",
+            "is_correct": true
+          },
+          {
+            "answer": "Meet Mr. Becker early.",
+            "is_correct": false
+          },
+          {
+            "answer": "Go to the dentist.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "B: Um wieviel Uhr ist heute die Besprechung bei Dr. König, Fräulein Keller?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "K: Um fünf Uhr fünfzehn, Herr Doktor."
+      },
+      {
+        "sequence_id": 3,
+        "text": "B: Haben Sie alle Unterlagen da?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "K: Ja, sie liegen in Ihrer Aktenmappe auf dem Schreibtisch."
+      },
+      {
+        "sequence_id": 5,
+        "text": "B: Gut. – Bitte rufen Sie doch gleich mal Herrn Becker an und sagen Sie ihm, dass ich gern heute mit ihm zu Mittag essen möchte."
+      },
+      {
+        "sequence_id": 6,
+        "text": "K: Um wieviel Uhr, Herr Doktor?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "B: Um ein Uhr, und wenn es Herrn Becker recht ist, im Ratskeller."
+      },
+      {
+        "sequence_id": 8,
+        "text": "K: Soll ich diesen Artikel aus der französischen Zeitung übersetzen lassen?"
+      },
+      {
+        "sequence_id": 9,
+        "text": "B: Ja, er ist sehr wichtig. – Bevor ich zum Essen gehe, möchte ich Ihnen noch einige Briefe diktieren. Bringen Sie sie bitte noch vor eins zur Post."
+      }
+    ],
+    "metadata": {
+      "page_start": 25,
+      "page_end": 25,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

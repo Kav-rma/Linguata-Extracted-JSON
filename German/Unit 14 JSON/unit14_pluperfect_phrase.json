@@ -1,0 +1,258 @@
+{
+  "title": "unit14_pluperfect_phrase",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What components form the pluperfect phrase in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Present tense of haben or sein plus past participle",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tense of haben or sein plus past participle",
+          "is_correct": true
+        },
+        {
+          "answer": "Infinitive plus auxiliary verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Past participle plus zu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which sentence illustrates a pluperfect action that occurred before the speaker returned from the kiosk?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Er kam gestern abend zu mir, nachdem er seine Fahrkarte gelöst hatte.",
+          "is_correct": false
+        },
+        {
+          "answer": "Als ich vom Kiosk zurückkam, war der Zug schon abgefahren.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sie hatte ihre Koffer einem Gepäckträger gegeben.",
+          "is_correct": false
+        },
+        {
+          "answer": "Diesen Koffer hatte er mit ins Abteil nehmen wollen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the pluperfect phrase, what replaces the past participle when using modal verbs like dürfen and können?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Another past participle",
+          "is_correct": false
+        },
+        {
+          "answer": "The infinitive form",
+          "is_correct": true
+        },
+        {
+          "answer": "The present tense",
+          "is_correct": false
+        },
+        {
+          "answer": "A noun phrase",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What happens to the finite verb in a subordinate clause containing a pluperfect phrase with an auxiliary modal verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It moves to the end of the clause",
+          "is_correct": false
+        },
+        {
+          "answer": "It remains at the beginning of the clause",
+          "is_correct": false
+        },
+        {
+          "answer": "It does not come last in the clause",
+          "is_correct": true
+        },
+        {
+          "answer": "It is omitted entirely",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which example shows a pluperfect phrase where the verb 'lassen' is used as an auxiliary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Er hatte seine Frau erst anrufen müssen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich wusste nicht, dass du schon den Anzug hattest aufbügeln lassen.",
+          "is_correct": true
+        },
+        {
+          "answer": "Da er den Koffer ins Abteil hatte mitnehmen wollen, musste er zurückgehen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Diesen Koffer hatte er mit ins Abteil nehmen wollen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "According to the notes, what does the pluperfect phrase express?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A past action that precedes another past time",
+          "is_correct": true
+        },
+        {
+          "answer": "An action in the distant future",
+          "is_correct": false
+        },
+        {
+          "answer": "A repeated present action",
+          "is_correct": false
+        },
+        {
+          "answer": "An implied present state",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which auxiliary verbs can function with the infinitive in a pluperfect phrase instead of a past participle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "haben and sein",
+          "is_correct": false
+        },
+        {
+          "answer": "dürfen, können, mögen, müssen, sollen, wollen, lassen",
+          "is_correct": true
+        },
+        {
+          "answer": "werden and sein",
+          "is_correct": false
+        },
+        {
+          "answer": "sein and lassen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In the example 'Diesen Koffer hatte er mit ins Abteil nehmen wollen', what did he intend to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Take the suitcase to the compartment",
+          "is_correct": true
+        },
+        {
+          "answer": "Buy a ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "Call his wife",
+          "is_correct": false
+        },
+        {
+          "answer": "Return to the kiosk",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which German sentence translates to 'She had already given her suitcases to a porter'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sie hatte ihre Koffer schon einem Gepäckträger gegeben.",
+          "is_correct": true
+        },
+        {
+          "answer": "Er kam gestern abend zu mir",
+          "is_correct": false
+        },
+        {
+          "answer": "Er hatte seine Frau erst anrufen müssen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich wusste nicht, dass du schon den Anzug hattest aufbügeln lassen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In a subordinate clause with a pluperfect phrase, such as 'Da er den Koffer ins Abteil hatte mitnehmen wollen', where does the finite verb appear?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "After the auxiliary",
+          "is_correct": false
+        },
+        {
+          "answer": "Before the auxiliary infinitive phrase",
+          "is_correct": true
+        },
+        {
+          "answer": "At the end of the clause",
+          "is_correct": false
+        },
+        {
+          "answer": "At the beginning of the clause",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Unit 12 we mentioned several devices for talking about past time in German. One of them was the PERFECT PHRASE, consisting of the PRESENT TENSE of the AUXILIARY VERB plus a PAST PARTICIPLE. When we want to refer to an action or state previous to a past time under discussion, the PAST TENSE of haben or sein plus the PAST PARTICIPLE is used. This is called the PLUPERFECT PHRASE.\n\n1. Note the following examples:\n a) Er kam gestern abend zu mir, nachdem er seine Fahrkarte gelöst hatte.\n b) Als ich vom Kiosk zurückkam, war der Zug schon abgefahren.\n c) Sie hatte ihre Koffer schon einem Gepäckträger gegeben, ehe ich ins Abteil kam.\n\n   He came to my house yesterday evening after he had bought his ticket. When I came back from the news stand the train had already left. She had already given her suitcases to a porter before I came to the compartment.\n\n2. The previous action or state may only be implied or may have been indicated in other sentences in context:\n Also war der Zug inzwischen schon eingelaufen? The train had come in the meantime then?\n\nII. The PLUPERFECT PHRASE with the verbs dürfen, können, mögen, müssen, sollen, wollen and lassen.\n 1. Instead of the PAST PARTICIPLE the INFINITIVE form is used when these verbs are themselves functioning as auxiliaries in a PLUPERFECT PHRASE. See Unit 12, where the PERFECT PHRASE is described, and the following examples:\n  a) Diesen Koffer hatte er mit ins Abteil nehmen wollen.\n  b) Er hatte seine Frau erst anrufen müssen.\n   He had intended to take this suitcase with him to the compartment. He had had to telephone his wife first.\n\n 2. When a PERFECT or PLUPERFECT PHRASE with one of the above verbs functioning as an auxiliary occurs in a subordinate clause, the finite verb does not come last in the clause. Note the following examples:\n  a) Da er den Koffer ins Abteil hatte mitnehmen wollen, musste er nochmal zurückgehen.\n  Since he had intended to take the suitcase along with him to the compartment he had to go back again.\n  b) Ich wusste nicht, dass du schon den Anzug hattest aufbügeln lassen.\n  I didn't know that you had already had the suit pressed."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

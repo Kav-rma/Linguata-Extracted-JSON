@@ -1,0 +1,138 @@
+{
+  "title": "unit11_verb_forms_in_familiar_speech",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How many different German words exist for 'you'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Three (Sie, du, ihr)", "is_correct": true},
+        {"answer": "Two (du, ihr)", "is_correct": false},
+        {"answer": "One (Sie)", "is_correct": false},
+        {"answer": "Four", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What social relationship does 'Sie' indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "A formal relationship", "is_correct": true},
+        {"answer": "A familiar relationship", "is_correct": false},
+        {"answer": "Addressing animals", "is_correct": false},
+        {"answer": "An informal relationship with one person", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In verbs whose er-form ends in -t, how is the du-form formed?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Replace the final -t with -st", "is_correct": true},
+        {"answer": "Add -en", "is_correct": false},
+        {"answer": "Drop the final -t", "is_correct": false},
+        {"answer": "Add -et", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which verb's du-form is irregular and becomes 'bist'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "sein", "is_correct": true},
+        {"answer": "werden", "is_correct": false},
+        {"answer": "halten", "is_correct": false},
+        {"answer": "lesen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How is the ihr-form derived from the wir-form?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "By replacing the -en ending with -t", "is_correct": true},
+        {"answer": "By adding -st to the stem", "is_correct": false},
+        {"answer": "By adding -en to the stem", "is_correct": false},
+        {"answer": "By changing -t to -st", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the command form for 'Sie' commands?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Verb form ending in -en followed by Sie", "is_correct": true},
+        {"answer": "Verb stem with -st", "is_correct": false},
+        {"answer": "The infinitive alone", "is_correct": false},
+        {"answer": "Verb stem plus -e", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What command form is used when addressing someone with du?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The infinitive or wir-form stem without -en", "is_correct": true},
+        {"answer": "The verb ending in -en followed by du", "is_correct": false},
+        {"answer": "The ihr-form plus pronoun", "is_correct": false},
+        {"answer": "The verb stem plus -t", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which suffix may optionally appear in the du-command form but is often not spoken?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "-e", "is_correct": true},
+        {"answer": "-st", "is_correct": false},
+        {"answer": "-en", "is_correct": false},
+        {"answer": "-er", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "For verbs whose stems end in -t or -d, what happens to the du-command form?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It regularly has an -e ending added", "is_correct": true},
+        {"answer": "It uses the ihr-form", "is_correct": false},
+        {"answer": "It drops the final consonant", "is_correct": false},
+        {"answer": "It becomes identical to the er-form", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which verb has the command form 'Sei' when addressing one person familiar?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "sein", "is_correct": true},
+        {"answer": "gehen", "is_correct": false},
+        {"answer": "sehen", "is_correct": false},
+        {"answer": "können", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "German has three different words for you.\nWollen Sie nicht Platz nehmen, Herr Allen?\nMaria, du kennst doch Herrn Becker, nicht wahr?\nGeht ihr hin?\nWon't you sit down, Mr. Allen?\nMaria, you know Mr. Becker, don't you?\nAre you going?\nThe different words for you in German indicate different situations and different social relationships.\nSie indicates a formal relationship between the speaker and the person or persons addressed. There is no distinction between singular and plural.\nDu indicates a familiar or intimate relationship, but where only one person is addressed.\nIhr indicates that two or more people are being addressed with whom the speaker is on familiar or intimate terms.\nOutside of the family circle itself the familiar forms are used only with very close friends. Most Germans regard this relationship in a very special light and do not enter into it lightly after childhood years. The use of the familiar du and ihr forms is very much more restricted among Germans than the use of first names among Americans, for instance.\nThe familiar forms are used by all adults in talking to children below the age of puberty, however. They are also used with animals and in addressing the deity.\nII. New verb forms are also used with the familiar words for you.\n1. The form of the verb with du is found from the er-form in the following ways:\na. In verbs whose er-form ends in -t, the final -t is replaced by -st.\ner komm-t\ndu komm-st\ner fähr-t\ndu fähr-st\ner ha-t\ndu ha-st\ner arbeit-e-t\ndu arbeit-e-st\ner find-e-t\ndu find-e-st\nNotice that the connecting vowel -e- is generally retained in the du-form when it occurs in the er-form (after -d- or -t-), although it is sometimes lost in rapid speech.\nRemember that final -b or -g in er-form stems have the sounds of final [p] or [k].\ner gib-t\ndu gib-st\n\"gip-t\"\n\"gip-st\"\ner leg-t\ndu leg-st\n\"lek-t\"\n\"lek-st\"\nb. In verbs whose er-form ending -t is preceded by -s- or -ß-, the -s- of the du-form ending is lost, so that in these cases the du-form turns out to be identical with the er-form.\ner lies-t\ner lässt\ner sitzt\ner heißt\ner vergisst\ndu lies-t\ndu lässt\ndu sitzt\ndu heißt\ndu vergisst\nc. In verbs whose er-form does not end in -t, -st is added.\ner will\ner kann\ner soll\ner darf\ner möchte\ndu willst\ndu kannst\ndu sollst\ndu darfst\ndu möchtest\nNote however that the -s- of the du-form ending is lost after a preceding -s-.\ner muss\ndu musst\ner weiss\ndu weisst\nd. The following du- and er-forms show irregularities.\ner ist – du bist\ner wird – du wirst\ner hält – du hältst\n2. The form of the verb with ihr is arrived at as follows:\na. The -en ending of the wir-form is replaced by -t in most verbs.\nwir komm-en – ihr komm-t\nwir les-en – ihr les-t\nwir müss-en – ihr müss-t\nwir besuch-en – ihr besuch-t\nwir arbeit-en – ihr arbei-tet\nNotice that a connecting vowel appears here also after -d- or -t-.\nRemember that stems ending in -b or -g will have the sounds [b] and [g] in the wir-form before the ending -en, but will have the sounds [p] and [k] in the ihr-form before the ending -t.\nwir geb-en – ihr geb-t (\"geb-en\" – \"gep-t\")\nwir trag-en – ihr trag-t (\"trag-en\" – \"trak-t\")\nb. There is one irregular form.\nwir sind – ihr seid\nIII. There are three command or imperative forms in German corresponding to the three words for you.\n1. In situations where the word for you is Sie, the command form consists of the verb form ending in -en followed by the pronoun Sie.\nGrüßen Sie bitte Ihre Frau Gemahlin. (Please give my regards to Mrs. Allen.)\nHerr Ober, bringen Sie mir bitte Kalbsleber mit Kartoffelpüree und Apfelmus. (Waiter, please bring me calves’ liver with mashed potatoes and apple sauce.)\nNote that the Sie-command form of the verb sein is irregular: Seien Sie ruhig! (Be quiet!)\n2. In situations where the word for you is ihr, the command form consists of the ihr-form of the verb alone, with no pronoun following.\nKommt doch heute abend zu uns! (Do come over and see us tonight.)\nVergesst eure Bücher nicht! (Don’t forget your books.)\nSeid bitte um vier Uhr bei uns! (Be at our house at four o’clock.)\n3. In situations where the word for you is du, a special command form is used with no pronoun following.\na. For the majority of German verbs this special command form is the same as the infinitive or wir-form stem, that is, the infinitive or wir-form minus the ending -en.\nBeeil’ dich, Klaus! (Hurry up, Klaus!)\nLass dir die Haare schneiden. (Get your hair cut.)\nLauf’, damit du nicht zu spät kommst. (Run so you won’t be late.)\nHol’ mich dort um eins ab. (Pick me up there at one.)\nThis command form alternatively has an ending -e which is often written or is indicated in the writing system by an apostrophe as above but is not spoken by most Germans: Beeile dich. Hole mich in einer Stunde ab.\nb. For a few verbs the command form regularly has the ending -e added to the infinitive or wir-form stem. These are verbs whose stems end in -t or -d or in an unstressed syllable: Entschuldige, dass ich störe. (Excuse me for disturbing you.) Arbeite nicht so viel. (Don’t work so much.)\nc. In verbs like sprechen and lesen whose stem sometimes has the vowel -e- and sometimes -i- (or -ie-) the command form is the same as the du-form stem, that is, the du-form minus the ending -st (or -t): Vergiss dein Frühstücksbrot nicht. (Don’t forget your lunch.) Nimm doch bitte auch den blauen mit. (Take the blue one along too, please.) Lies den ganzen Artikel. (Read the whole article.)\nd. The verb sein has an irregular command form: Sei bitte um vier Uhr bei uns. (Be at our house at four o’clock, now)"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

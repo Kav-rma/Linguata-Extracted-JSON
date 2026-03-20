@@ -1,0 +1,340 @@
+[
+  {
+    "title": "unit12_narrative",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "How long have Bill and his family been in Bonn?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Eight days",
+            "is_correct": true
+          },
+          {
+            "answer": "Two months",
+            "is_correct": false
+          },
+          {
+            "answer": "One week",
+            "is_correct": false
+          },
+          {
+            "answer": "Twelve days",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Where did they drive first before arriving in Bonn?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Heidelberg",
+            "is_correct": true
+          },
+          {
+            "answer": "Munich",
+            "is_correct": false
+          },
+          {
+            "answer": "Frankfurt",
+            "is_correct": false
+          },
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What did Bill do from Heidelberg?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He wrote Fritz a postcard.",
+            "is_correct": true
+          },
+          {
+            "answer": "He bought a house.",
+            "is_correct": false
+          },
+          {
+            "answer": "He visited a museum.",
+            "is_correct": false
+          },
+          {
+            "answer": "He went shopping.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What was the weather like when they arrived in Bremerhaven?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It rained terribly.",
+            "is_correct": true
+          },
+          {
+            "answer": "It was sunny.",
+            "is_correct": false
+          },
+          {
+            "answer": "It snowed.",
+            "is_correct": false
+          },
+          {
+            "answer": "It was very windy.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Where does Bill's family have to live?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In the American settlement",
+            "is_correct": true
+          },
+          {
+            "answer": "In a German village",
+            "is_correct": false
+          },
+          {
+            "answer": "In a hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "In Heidelberg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What does Bill say about the American settlement?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It's like 'Little America' and not Germany",
+            "is_correct": true
+          },
+          {
+            "answer": "It's in downtown Bonn",
+            "is_correct": false
+          },
+          {
+            "answer": "It's very old and falling apart",
+            "is_correct": false
+          },
+          {
+            "answer": "It's full of Germans",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which department does Bill work in?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The Visa Department",
+            "is_correct": true
+          },
+          {
+            "answer": "Education Department",
+            "is_correct": false
+          },
+          {
+            "answer": "Medical Department",
+            "is_correct": false
+          },
+          {
+            "answer": "Finance Department",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Why is it harder for Bill's wife in Bonn?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "She shops at the commissary and speaks English almost all day",
+            "is_correct": true
+          },
+          {
+            "answer": "She doesn't like German food",
+            "is_correct": false
+          },
+          {
+            "answer": "She can't drive",
+            "is_correct": false
+          },
+          {
+            "answer": "She has no friends",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Where do Bill and his wife plan to send their children?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To a German school",
+            "is_correct": true
+          },
+          {
+            "answer": "To an American school",
+            "is_correct": false
+          },
+          {
+            "answer": "To a French school",
+            "is_correct": false
+          },
+          {
+            "answer": "They will homeschool them",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What do Bill and his family plan to do in the summer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Drive around the surrounding countryside by car",
+            "is_correct": true
+          },
+          {
+            "answer": "Stay in Bonn",
+            "is_correct": false
+          },
+          {
+            "answer": "Go to Norway",
+            "is_correct": false
+          },
+          {
+            "answer": "Return to the U.S.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Bonn, den 15. Mai 1961"
+      },
+      {
+        "sequence_id": 2,
+        "text": "Lieber Fritz!"
+      },
+      {
+        "sequence_id": 3,
+        "text": "Seit acht Tagen sind wir in Bonn und fühlen uns hier eigentlich recht wohl."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Wir sind erst mit dem Auto nach Heidelberg gefahren und haben dort Freunde besucht und von dort habe ich Dir auch eine Ansichtskarte geschrieben."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Glücklicherweise ist das Wetter jetzt sehr schön."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Es hat furchtbar geregnet, als wir in Bremerhaven ankamen."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Unsere Kisten, Bilder und Teppiche sind endlich eingetroffen und wir haben uns jetzt sehr gemütlich eingerichtet."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Leider müssen wir in der amerikanischen Siedlung wohnen."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Die Wohnungen sind sehr schön und gross, aber es ist eben 'Klein-Amerika' und nicht Deutschland."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Allerdings muss ich im Büro fast nur deutsch sprechen."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Ich arbeite in der Visa-Abteilung und stelle Visa aus."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Für meine Frau ist es etwas schwieriger."
+      },
+      {
+        "sequence_id": 13,
+        "text": "Sie kauft natürlich in der 'Commisary' ein und spricht fast den ganzen Tag nur englisch."
+      },
+      {
+        "sequence_id": 14,
+        "text": "Die Kinder wollen wir in eine deutsche Schule schicken, damit sie gut deutsch lernen und deutsche Freunde finden."
+      },
+      {
+        "sequence_id": 15,
+        "text": "Wir wollen uns ein Theater-Abonnement nehmen und viel ins Theater und in die Oper gehen."
+      },
+      {
+        "sequence_id": 16,
+        "text": "Im Sommer wollen wir oft mit dem Auto in die Umgebung fahren."
+      },
+      {
+        "sequence_id": 17,
+        "text": "Vieles ist neu für uns; wenn wir uns etwas besser hier eingelebt haben, schreibe ich Dir ausführlicher."
+      },
+      {
+        "sequence_id": 18,
+        "text": "Ich hoffe, dass es Dir und Deiner ganzen Familie gut geht und dass Ihr uns auch bald einmal schreibt."
+      },
+      {
+        "sequence_id": 19,
+        "text": "Grüss' bitte alle herzlich von uns."
+      },
+      {
+        "sequence_id": 20,
+        "text": "Viele Grüße"
+      },
+      {
+        "sequence_id": 21,
+        "text": "Dein Bill"
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

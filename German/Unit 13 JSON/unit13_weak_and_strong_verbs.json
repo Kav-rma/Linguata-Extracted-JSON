@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit13_weak_and_strong_verbs",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "How can the past tense of most weak verbs be formed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "By adding -te, -test, -ten, -tet",
+            "is_correct": true
+          },
+          {
+            "answer": "By adding -en, -st, -t",
+            "is_correct": false
+          },
+          {
+            "answer": "By adding -er, -est",
+            "is_correct": false
+          },
+          {
+            "answer": "By changing the stem vowel",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which verbs require a connecting vowel before the past tense endings?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Verbs whose present stem ends in -d or -t",
+            "is_correct": true
+          },
+          {
+            "answer": "Verbs ending in -en",
+            "is_correct": false
+          },
+          {
+            "answer": "All weak verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "All strong verbs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which verb is an exception among irregular weak verbs, where the past tense stem does not correspond to the past participle?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Haben",
+            "is_correct": true
+          },
+          {
+            "answer": "Denken",
+            "is_correct": false
+          },
+          {
+            "answer": "Müssen",
+            "is_correct": false
+          },
+          {
+            "answer": "Kennen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How many strong verbs are there approximately?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Over 100",
+            "is_correct": true
+          },
+          {
+            "answer": "About 50",
+            "is_correct": false
+          },
+          {
+            "answer": "About 10",
+            "is_correct": false
+          },
+          {
+            "answer": "Over 500",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What are the past tense endings for strong verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "-, -st, -en, -t",
+            "is_correct": true
+          },
+          {
+            "answer": "-te, -test, -ten, -tet",
+            "is_correct": false
+          },
+          {
+            "answer": "-e, -es, -et, -en",
+            "is_correct": false
+          },
+          {
+            "answer": "-te, -st, -et",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "When is the connecting vowel -e- inserted in strong verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Before the du- and ihr-form endings when the past stem ends in -d or -t",
+            "is_correct": true
+          },
+          {
+            "answer": "Before all endings",
+            "is_correct": false
+          },
+          {
+            "answer": "Only before the ich-form",
+            "is_correct": false
+          },
+          {
+            "answer": "Never",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What are the past tense forms of 'werden'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "ich, er wurde; du wurdest; wir, sie wurden; ihr wurdet",
+            "is_correct": true
+          },
+          {
+            "answer": "ich, er wurde; du wurde; wir, sie wurden; ihr wurden",
+            "is_correct": false
+          },
+          {
+            "answer": "ich, er wurden; du wurdest; wir, sie wurde; ihr wurdet",
+            "is_correct": false
+          },
+          {
+            "answer": "ich, er wurd; du wurdest; wir, sie wurdet; ihr wurden",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which weak verb uses the stem 'dach-' in the past tense?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Denken",
+            "is_correct": true
+          },
+          {
+            "answer": "Haben",
+            "is_correct": false
+          },
+          {
+            "answer": "Müssen",
+            "is_correct": false
+          },
+          {
+            "answer": "Kennen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What is the past participle of 'müssen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "ge-muss-t",
+            "is_correct": true
+          },
+          {
+            "answer": "gemusst",
+            "is_correct": false
+          },
+          {
+            "answer": "müssen",
+            "is_correct": false
+          },
+          {
+            "answer": "musste",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which strong verb ends with the past tense form 'nahm'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nehmen",
+            "is_correct": true
+          },
+          {
+            "answer": "Fahren",
+            "is_correct": false
+          },
+          {
+            "answer": "Gehen",
+            "is_correct": false
+          },
+          {
+            "answer": "Trinken",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Weak Verbs\n1. This group comprises the great majority of German verbs.\nThe PAST TENSE\ncan in most cases be derived from the PRESENT STEM simply by adding the\nendings: -te, -test, -ten, -tet.\nNote the following examples:\nInfinitive, or wir-form of the present:\nmach-en\nhör-en\nfreu-en\nPresent Stem:\nmach-\nhör-\nfreu-\nPast Tense:\nich, er mach-te\nhör-te\nfreu-te\ndu mach-test\nhör-test\nfreu-test\nwir, sie mach-ten\nhör-ten\nfreu-ten\nihr mach-tet\nhör-tet\nfreu-tet\n2. Verbs whose PRESENT STEM ends in -d or -t or in a consonant plus -d or -t (except the combination of -d or -t plus -d or -n) require a connecting vowel between stem and ending. Note that these are the same verbs which require a connecting vowel in the du- and er-forms of the PRESENT:\nInfinitive, or wir-form of the Present:\narbeit-en\nmeld-en\nöffn-en\nPresent Stem:\narbeit-\nmeld-\nöffn-\nPast Tense:\nich, er arbeit-e-te\nmeld-e-te\nöffn-e-te\ndu arbeit-e-test\nmeld-e-test\nöffn-e-test\nwir, sie arbeit-e-ten\nmeld-e-ten\nöffn-e-ten\nihr arbeit-e-tet\nmeld-e-tet\nöffn-e-tet\n3. There are a few IRREGULAR WEAK VERBS which change their stem before adding the endings of the PAST TENSE. Note that with the single exception of haben the stem of the PAST TENSE always corresponds to that of the PAST PARTICIPLE:\nInfinitive:\ndenk-en\nkenn-en\nmüss-en\nhab-en\nPast Tense:\ndach-te\nkann-te\nmuss-te\nhat-te\nPast Participle:\nge-dach-t\nge-kann-t\nge-muss-t\nge-hab-t\n\nStrong Verbs\n1. The STRONG VERBS are a little over 100 in number and include a large number of very common verbs. We noted above that the PAST TENSE of these verbs has a different STEM form from the PRESENT. The PAST TENSE endings are: -, -st, -en, -t:\nich, er gab / fuhr / nahm\ndu gab-st / fuhr-st / nahm-st\nwir, sie gab-en / fuhr-en / nahm-en\nihr gab-t / fuhr-t / nahm-t\nNote that these endings are not the same as the endings of weak verbs in the PAST TENSE.\n2. In verbs whose PAST STEM ends in -d or -t the connecting vowel -e- is sometimes inserted before the du-form ending. It is always inserted before the ihr-form ending:\ndu stand-st or stand-e-st\nihr stand-e-t\ndu bat-st or bat-e-st\nihr bat-e-t\n3. The PAST TENSE of the verb werden has the following forms:\nich, er wurde\ndu wurdest\nwir, sie wurden\nihr wurdet"
+      }
+    ],
+    "metadata": {
+      "page_start": 8,
+      "page_end": 9,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

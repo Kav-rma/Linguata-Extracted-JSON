@@ -1,0 +1,276 @@
+[
+  {
+    "title": "unit14_situation1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wohin ruft Herr Schmidt an?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In ein Hotel in Bad Pyrmont",
+            "is_correct": true
+          },
+          {
+            "answer": "Zu einem Restaurant in Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Zu einem Bahnhof in Bremen",
+            "is_correct": false
+          },
+          {
+            "answer": "Zu einem Reisebüro in München",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Welche Zimmer möchte Herr Schmidt reservieren?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ein Doppelzimmer mit Bad und zwei Einzelzimmer",
+            "is_correct": true
+          },
+          {
+            "answer": "Zwei Doppelzimmer ohne Bad",
+            "is_correct": false
+          },
+          {
+            "answer": "Drei Einzelzimmer mit Dusche",
+            "is_correct": false
+          },
+          {
+            "answer": "Ein Familienzimmer und ein Einzelzimmer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Für welchen Zeitraum möchte er die Zimmer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Vom 5. bis 12. August",
+            "is_correct": true
+          },
+          {
+            "answer": "Vom 1. bis 7. Juni",
+            "is_correct": false
+          },
+          {
+            "answer": "Vom 20. bis 27. Dezember",
+            "is_correct": false
+          },
+          {
+            "answer": "Vom 12. bis 19. April",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wer reserviert ihm die Zimmer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Der Empfangschef",
+            "is_correct": true
+          },
+          {
+            "answer": "Der Reiseleiter",
+            "is_correct": false
+          },
+          {
+            "answer": "Sein Freund",
+            "is_correct": false
+          },
+          {
+            "answer": "Die Putzfrau",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Wann kommen Herr Schmidt und seine Familie an?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Um zwölf Uhr fünfzehn",
+            "is_correct": true
+          },
+          {
+            "answer": "Um zehn Uhr",
+            "is_correct": false
+          },
+          {
+            "answer": "Um acht Uhr dreißig",
+            "is_correct": false
+          },
+          {
+            "answer": "Um zwei Uhr",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Mit welchem Verkehrsmittel reist die Familie an?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Mit dem Zug",
+            "is_correct": true
+          },
+          {
+            "answer": "Mit dem Flugzeug",
+            "is_correct": false
+          },
+          {
+            "answer": "Mit dem Auto",
+            "is_correct": false
+          },
+          {
+            "answer": "Mit dem Bus",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Was möchte Herr Schmidt über den Bahnhof wissen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ob dort Taxen stehen",
+            "is_correct": true
+          },
+          {
+            "answer": "Wann der Bahnhof schließt",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob es dort einen Kiosk gibt",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob das Hotel einen Pool hat",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Wie lautet der Name der Stadt, in der das Hotel liegt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Bad Pyrmont",
+            "is_correct": true
+          },
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Bremen",
+            "is_correct": false
+          },
+          {
+            "answer": "Hamburg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Wie viele Einzelzimmer möchte Herr Schmidt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Zwei",
+            "is_correct": true
+          },
+          {
+            "answer": "Eins",
+            "is_correct": false
+          },
+          {
+            "answer": "Drei",
+            "is_correct": false
+          },
+          {
+            "answer": "Keine",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Wieso fragt Herr Schmidt nach alternativen Transportmöglichkeiten?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Er möchte wissen, wie er vom Bahnhof zum Hotel kommt, falls keine Taxen da sind",
+            "is_correct": true
+          },
+          {
+            "answer": "Er sucht einen anderen Zug",
+            "is_correct": false
+          },
+          {
+            "answer": "Er will ein Fahrrad ausleihen",
+            "is_correct": false
+          },
+          {
+            "answer": "Er plant eine Stadtrundfahrt",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Herr Schmidt ruft in einem Hotel in Bad Pyrmont an."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Er spricht mit dem Empfangschef, sagt seinen Namen und fragt, ob er vom 5. - 12. August ein Doppelzimmer mit Bad und zwei Einzelzimmer haben kann."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Der Empfangschef wird ihm diese Zimmer reservieren."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Herr Schmidt sagt, dass er und seine Familie mit dem Zug um zwölf Uhr fünfzehn ankommen."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Er möchte wissen, ob am Bahnhof Taxen stehen oder wie er sonst zum Hotel kommen kann."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,258 @@
+{
+  "title": "unit12_past_time_continuing",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How does German indicate that an action begun in the past continues in the present?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Using the past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Using future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Using present tense with an expression of duration",
+          "is_correct": true
+        },
+        {
+          "answer": "Using the perfect tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which question phrase is commonly used with schon or jetzt to ask about duration?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Was",
+          "is_correct": false
+        },
+        {
+          "answer": "Wer",
+          "is_correct": false
+        },
+        {
+          "answer": "Wie lange",
+          "is_correct": true
+        },
+        {
+          "answer": "Woher",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the sentence 'Ich bin jetzt ein halbes Jahr in Deutschland' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I have been in Germany for half a year now",
+          "is_correct": true
+        },
+        {
+          "answer": "I will go to Germany in half a year",
+          "is_correct": false
+        },
+        {
+          "answer": "I have lived in Germany for two years",
+          "is_correct": false
+        },
+        {
+          "answer": "I was in Germany for half a year",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which preposition is used with a dative phrase to indicate duration?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "zu",
+          "is_correct": false
+        },
+        {
+          "answer": "für",
+          "is_correct": false
+        },
+        {
+          "answer": "seit",
+          "is_correct": true
+        },
+        {
+          "answer": "nach",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the translation of 'Der Brief liegt seit gestern auf seinem Schreibtisch'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The letter has been on his desk since yesterday",
+          "is_correct": true
+        },
+        {
+          "answer": "He writes the letter tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "The letter was sent yesterday",
+          "is_correct": false
+        },
+        {
+          "answer": "He will write the letter later",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which adverbs occur with either an accusative phrase or with seit and a dative phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "schon and erst",
+          "is_correct": true
+        },
+        {
+          "answer": "weit and kurz",
+          "is_correct": false
+        },
+        {
+          "answer": "nichts and etwas",
+          "is_correct": false
+        },
+        {
+          "answer": "hier and dort",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In English, how is past time continuing into the present typically indicated?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By a present participle only",
+          "is_correct": false
+        },
+        {
+          "answer": "By a verb phrase",
+          "is_correct": true
+        },
+        {
+          "answer": "By the simple past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "By a future phrase",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Wie lange haben Sie in München gewohnt?' ask?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How long did you live in Munich?",
+          "is_correct": true
+        },
+        {
+          "answer": "How long have you lived in Munich?",
+          "is_correct": false
+        },
+        {
+          "answer": "Where did you live in Munich?",
+          "is_correct": false
+        },
+        {
+          "answer": "Why did you live in Munich?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following sentences indicates that the state or action lies entirely in the past?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich bin seit einem Monat hier",
+          "is_correct": false
+        },
+        {
+          "answer": "Sie hat eine ganze Stunde da drüben im cafe gesessen",
+          "is_correct": true
+        },
+        {
+          "answer": "Ich bin jetzt ein halbes Jahr in Deutschland",
+          "is_correct": false
+        },
+        {
+          "answer": "Sie wohnt seit letztem Sommer in München",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of these sentences uses the expression 'seit' with a dative phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich bin schon eine Woche hier",
+          "is_correct": false
+        },
+        {
+          "answer": "Wir sind erst seit einer Stunde hier in Frankfurt",
+          "is_correct": true
+        },
+        {
+          "answer": "Ich habe diesen Anzug schon drei Jahre",
+          "is_correct": false
+        },
+        {
+          "answer": "Meine Frau ist erst zwei Monate hier",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D.\nVERBS.\nPAST TIME CONTINUING IN THE PRESENT\nI. To indicate that an action or state begun in the past is still continuing in the present German uses a present tense of the verb with an expression indicating continuation or duration of time.\n1. The most common of these expressions are:\na. The question phrase wie lange accompanied by schon (or jetzt).\nWie lange sind Sie denn schon hier?\nWissen Sie, wie lange sie schon in dieser Strasse wohnt?\nHow long have you been here?\nDo you know how long she has been living on this street?\nb. An adverb or an accusative phrase, usually accompanied by schon, jetzt or erst.\nWohnen Sie schon lange in Berlin?\nIch bin jetzt ein halbes Jahr in Deutschland.\nMeine Frau ist erst zwei Monate hier.\nIch habe diesen Anzug schon drei Jahre.\nIch glaube, sie sitzt schon eine ganze Stunde da drüben im Cafe.\nHave you been living in Berlin long?\nI've been in Germany for six months now.\nMy wife has only been here for two months.\nI have had this suit for three years.\nI think she has been sitting over there in the cafe for a whole hour.\nc. The preposition seit followed by an adverb, a question word or a dative phrase.\nDer Brief liegt seit gestern auf seinem Schreibtisch.\nSeit wann arbeiten Sie in diesem Büro?\nSie wohnt seit letztem Sommer in München.\nWir sind erst seit einer Stunde hier in Frankfurt.\nThe letter has been on his desk since yesterday.\nHow long have you been working in this office?\nShe has been living in Munich since last summer.\nWe've only been here in Frankfurt for an hour.\nNote that schon and erst are adverbs and occur either with an accusative phrase or with seit and a dative phrase.\nIch bin schon eine Woche hier.\nIch bin schon einen Monat hier.\nIch bin erst eine Woche hier.\nIch bin erst einen Monat hier.\nIch bin seit einer Woche hier.\nIch bin seit einem Monat hier.\nIch bin schon seit einer Woche hier.\nIch bin schon seit einem Monat hier.\nIch bin erst seit einer Woche hier.\nIch bin erst seit einem Monat hier.\n2. You will have noticed that past time which continues into the present is indicated in English by a verb phrase. Notice the implication of the following sentences:\nWie lange haben Sie in München gewohnt?\nIch bin ein halbes Jahr in Deutschland gewesen.\nSie hat eine ganze Stunde da drüben im cafe gesessen.\nHow long did you live in Munich?\nI was in Germany for six months.\nShe sat over there in the cafe for the whole hour.\nThe use of the verb phrase in German with expressions indicating continuation or duration of time indicates that the state or action lies entirely in the past.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

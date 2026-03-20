@@ -1,0 +1,138 @@
+{
+  "title": "unit11_auxiliary_verb_lassen",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the function of the auxiliary verb 'lassen' in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It allows one to have something done", "is_correct": true},
+        {"answer": "It forms the past tense", "is_correct": false},
+        {"answer": "It negates a verb", "is_correct": false},
+        {"answer": "It indicates future action", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which English verbs create a similar construction to German 'lassen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "to have or to get", "is_correct": true},
+        {"answer": "to be", "is_correct": false},
+        {"answer": "to do", "is_correct": false},
+        {"answer": "to become", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which sentence translates to 'Get your hair cut, too' using lassen?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Lass dir auch die Haare schneiden", "is_correct": true},
+        {"answer": "Hol mich dort um eins ab", "is_correct": false},
+        {"answer": "Sei bitte um vier Uhr bei uns", "is_correct": false},
+        {"answer": "Entschuldige, dass ich störe", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence shows the use of lassen in the formal Sie-form?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Lassen Sie diesen Artikel doch bitte übersetzen", "is_correct": true},
+        {"answer": "Lasst euch die Haare schneiden", "is_correct": false},
+        {"answer": "Lass dir die Haare schneiden", "is_correct": false},
+        {"answer": "Ich lasse heute nachmittag meine Schuhe besohlen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would you express 'I'm getting my shoes soled this afternoon' in German using lassen?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ich lasse heute nachmittag meine Schuhe besohlen", "is_correct": true},
+        {"answer": "Ich lasse heute nachmittag meine Schuhe besohlen lassen", "is_correct": false},
+        {"answer": "Ich lasse meine Schuhe heute Nachmittag besohlen", "is_correct": false},
+        {"answer": "Ich lasse Schuhe besohlen heute Nachmittag", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "In the example 'Weißt du, wo Klaus seine Anzüge reinigen lässt?', what is being asked?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Do you know where Klaus has his suits cleaned?", "is_correct": true},
+        {"answer": "Do you know if Klaus cleans his suits himself?", "is_correct": false},
+        {"answer": "Do you know whether Klaus will clean his suits?", "is_correct": false},
+        {"answer": "Do you know when Klaus cleans his suits?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which German auxiliary verbs are mentioned as analogous to lassen in verb phrases?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "können, müssen, werden", "is_correct": true},
+        {"answer": "sein, haben, werden", "is_correct": false},
+        {"answer": "sprechen, lesen, laufen", "is_correct": false},
+        {"answer": "dürfen, sollen, möchten", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What English grammatical construction is comparable to German 'lassen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Using 'have' or 'get' plus a participle", "is_correct": true},
+        {"answer": "Using 'be' plus a participle", "is_correct": false},
+        {"answer": "Using 'do' plus a verb", "is_correct": false},
+        {"answer": "Using 'make' plus an infinitive", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of these sentences does not use lassen?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Beeil’ dich, Klaus!", "is_correct": true},
+        {"answer": "Ich lasse heute nachmittag meine Schuhe besohlen", "is_correct": false},
+        {"answer": "Lass dir auch die Haare schneiden", "is_correct": false},
+        {"answer": "Lassen Sie diesen Artikel doch bitte übersetzen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the translation of 'Lass dir die Haare schneiden'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Have your hair cut", "is_correct": true},
+        {"answer": "Let your hair grow", "is_correct": false},
+        {"answer": "Cut your own hair", "is_correct": false},
+        {"answer": "Wash your hair", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "C. THE AUXILIARY VERB LASSEN\nThe auxiliary verb lassen occurs in verb phrases with an infinitive, just as können, müssen, werden, etc. (see Units 2, 3 & 9). English has a similar verb phrase with a form of the verbs have or get and a participle.\nLass dir auch die Haare schneiden. (Get your hair cut, too.)\nLassen Sie diesen Artikel doch bitte übersetzen. (Have this article translated, please.)\nIch lasse heute nachmittag meine Schuhe besohlen. (I'm getting my shoes soled this afternoon.)\nWeißt du, wo Klaus seine Anzüge reinigen lässt? (Do you know where Klaus has his suits cleaned?)"
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

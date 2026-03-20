@@ -1,0 +1,258 @@
+{
+  "title": "unit12_past_time",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the main topic of section A?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Future time",
+          "is_correct": false
+        },
+        {
+          "answer": "Past time",
+          "is_correct": true
+        },
+        {
+          "answer": "Present continuous",
+          "is_correct": false
+        },
+        {
+          "answer": "Imperative mood",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which English sentence in the examples consists solely of a past tense form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They did not buy the house.",
+          "is_correct": false
+        },
+        {
+          "answer": "We have been living in this house for two months already.",
+          "is_correct": false
+        },
+        {
+          "answer": "We had a very pleasant crossing.",
+          "is_correct": true
+        },
+        {
+          "answer": "I have written a long letter to Bill.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which German sentence uses the present tense to refer to past time?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Die Seereise war eine richtige Erholung für uns.",
+          "is_correct": false
+        },
+        {
+          "answer": "Wie haben Sie das Schulproblem gelöst?",
+          "is_correct": false
+        },
+        {
+          "answer": "Sie wohnt seit letztem Sommer in München.",
+          "is_correct": true
+        },
+        {
+          "answer": "Hatten Sie eine angenehme Überfahrt?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which two German verbs allow interchangeable past time devices?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "werden and bleiben",
+          "is_correct": false
+        },
+        {
+          "answer": "sein and haben",
+          "is_correct": true
+        },
+        {
+          "answer": "sehen and fahren",
+          "is_correct": false
+        },
+        {
+          "answer": "essen and trinken",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the sentence 'Wie haben Sie das Schulproblem gelöst?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How did you settle the school question?",
+          "is_correct": true
+        },
+        {
+          "answer": "How did you solve the travel problem?",
+          "is_correct": false
+        },
+        {
+          "answer": "How did you plan the vacation?",
+          "is_correct": false
+        },
+        {
+          "answer": "How did you buy the house?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which English translation corresponds to 'Die Seereise war eine richtige Erholung für uns'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The sea voyage was a real vacation for us.",
+          "is_correct": true
+        },
+        {
+          "answer": "The voyage was a difficult journey for us.",
+          "is_correct": false
+        },
+        {
+          "answer": "The crossing was unpleasant for us.",
+          "is_correct": false
+        },
+        {
+          "answer": "The trip was a costly expense for us.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "According to the notes, which sentences occurred in the basic sentences of the unit?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sentences 1 and 3",
+          "is_correct": true
+        },
+        {
+          "answer": "Sentences 2 and 4",
+          "is_correct": false
+        },
+        {
+          "answer": "Sentences 1 and 2",
+          "is_correct": false
+        },
+        {
+          "answer": "Sentences 3 and 4",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the main point about German and English past time devices?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They coincide exactly",
+          "is_correct": false
+        },
+        {
+          "answer": "They do not coincide exactly",
+          "is_correct": true
+        },
+        {
+          "answer": "English has more devices",
+          "is_correct": false
+        },
+        {
+          "answer": "German has no past tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of these English sentences is a verb phrase containing an auxiliary verb and a past participle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They did not buy the house.",
+          "is_correct": false
+        },
+        {
+          "answer": "We had a very pleasant crossing.",
+          "is_correct": false
+        },
+        {
+          "answer": "I have written a long letter to Bill.",
+          "is_correct": true
+        },
+        {
+          "answer": "We were living in this house.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "According to the notes, which pair of sentences could have occurred interchangeably?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sentences 1 and 2",
+          "is_correct": false
+        },
+        {
+          "answer": "Sentences 2 and 4",
+          "is_correct": true
+        },
+        {
+          "answer": "Sentences 3 and 4",
+          "is_correct": false
+        },
+        {
+          "answer": "Sentences 1 and 4",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "A.\nVERBS.\nPAST TIME.\nI. In English we use several devices in order to talk about past time, some of which are illustrated in the following examples:\n1  We had a very pleasant crossing.\n2  Was he living in Berlin then?\n3  They did not buy the house.\n4  I have written a long letter to Bill.\n5  We have been living in this house for two months already.\nNotice that one of these devices (sentence 1) consists solely of a past tense form of the verb (had).\nAll the other sentences contain verb phrases consisting of an auxiliary verb (was, did, have) plus a present participle (living), or an infinitive (buy), or a past participle (written), or a past and a present participle together (been living).\nII. In German there are three devices which are used to talk about past time.\n1) Die Seereise war eine richtige Erholung für uns.\n2) Wie haben Sie das Schulproblem gelöst?\n3) Sie wohnt seit letztem Sommer in München.\nThe voyage was a real vacation for us.\nHow did you settle the school question?\nShe's been living in Munich since last summer.\nSentence 1 contains a past tense form of the verb,\nsentence 2 contains a verb phrase with an auxiliary verb plus a past participle,\nsentence 3 contains a present tense form of the verb.\nNotice that some of the devices used in English do not occur in German and one of the devices used in German does not occur in English.\nIII. In some cases (particularly where the verbs sein and haben are concerned) two German devices for talking about past time are interchangeable.\n1) Haben Sie eine angenehme Überfahrt gehabt?\n2) Hatten Sie eine angenehme Überfahrt?\n3) Die Seereise war eine richtige Erholung für uns.\n4) Die Seereise ist eine richtige Erholung für uns gewesen.\nSentences 1 and 3 occurred in the basic sentences of this unit.\nSentences 2 and 4 could just as well have occurred in their stead.\nSee if you could substitute any other English sentence for the one given in each case.\nDoes the situation seem different to you, the time and place and circumstances under which the comments are made?\nGERMAN AND ENGLISH DEVICES FOR TALKING ABOUT PAST TIME DO NOT COINCIDE EXACTLY.\nThe SIMPLE PAST TENSE of the one language is not necessarily equivalent to the SIMPLE PAST TENSE of the other, and a verb phrase in the one language is not necessarily equivalent to a verb phrase in the other.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit12_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What would a German typically use when addressing Mr. Allen in a social situation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "His first name.",
+            "is_correct": false
+          },
+          {
+            "answer": "His title, such as 'Herr Doktor'.",
+            "is_correct": true
+          },
+          {
+            "answer": "His last name only.",
+            "is_correct": false
+          },
+          {
+            "answer": "The phrase 'gnädige Frau'.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which two principal secondary schools prepare students for university in Germany?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Volksschule and Realschule.",
+            "is_correct": false
+          },
+          {
+            "answer": "Oberrealschule (Realgymnasium) and Humanistisches Gymnasium.",
+            "is_correct": true
+          },
+          {
+            "answer": "Kindergarten and Gymnasium.",
+            "is_correct": false
+          },
+          {
+            "answer": "Realschule and Polytechnic.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What subjects are emphasized in the Oberrealschule/Realgymnasium?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Modern languages and natural sciences.",
+            "is_correct": true
+          },
+          {
+            "answer": "Humanities, classical languages and literature.",
+            "is_correct": false
+          },
+          {
+            "answer": "Sports and physical education.",
+            "is_correct": false
+          },
+          {
+            "answer": "Agriculture.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which subjects are given more prominence in the Humanistisches Gymnasium?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Natural sciences.",
+            "is_correct": false
+          },
+          {
+            "answer": "Modern languages.",
+            "is_correct": false
+          },
+          {
+            "answer": "Humanities, classical languages and literature.",
+            "is_correct": true
+          },
+          {
+            "answer": "Business and economics.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How is 'anderthalb Stunden' treated in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "As singular.",
+            "is_correct": false
+          },
+          {
+            "answer": "As dual.",
+            "is_correct": false
+          },
+          {
+            "answer": "As plural.",
+            "is_correct": true
+          },
+          {
+            "answer": "As neuter.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What is the English equivalent of 'anderthalb Stunden'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Two hours.",
+            "is_correct": false
+          },
+          {
+            "answer": "An hour and a half with the noun singular.",
+            "is_correct": true
+          },
+          {
+            "answer": "Half an hour.",
+            "is_correct": false
+          },
+          {
+            "answer": "Several hours.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does the pronoun 'sich' indicate in the phrase 'sich sehen'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A reflexive action.",
+            "is_correct": false
+          },
+          {
+            "answer": "A reciprocal relationship, meaning 'see each other'.",
+            "is_correct": true
+          },
+          {
+            "answer": "Possession.",
+            "is_correct": false
+          },
+          {
+            "answer": "A command.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which pronouns can be used with German verbs to indicate a reciprocal relationship?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "ich, du, er.",
+            "is_correct": false
+          },
+          {
+            "answer": "die, das, der.",
+            "is_correct": false
+          },
+          {
+            "answer": "sich, uns, euch.",
+            "is_correct": true
+          },
+          {
+            "answer": "Sie, sie.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which verbs are listed as examples that can occur with reciprocal pronouns?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "essen, trinken, schlafen.",
+            "is_correct": false
+          },
+          {
+            "answer": "besuchen, kennen, schreiben, treffen, verstehen.",
+            "is_correct": true
+          },
+          {
+            "answer": "fahren, laufen, rufen.",
+            "is_correct": false
+          },
+          {
+            "answer": "weinen, lachen, singen.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What would an American typically say instead of using a title when addressing someone like Mr. Allen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Allen.",
+            "is_correct": false
+          },
+          {
+            "answer": "Mr. Allen.",
+            "is_correct": true
+          },
+          {
+            "answer": "Mein Herr.",
+            "is_correct": false
+          },
+          {
+            "answer": "Sir Allen.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "In a social situation such as this it would be natural for the German to use Mr. Allen's title in speaking to him, just as he would say \"gnädige Frau\" in speaking to a lady. An American of course would just say \"Mr. Allen\" or \"Mrs. Jones\".\nIn the German educational system after Elementary School (die Volksschule) there are two principal secondary schools for students planning to go on to the university. One is the Oberrealschule, or the Realgymnasium where modern languages and natural sciences are given prominence. The other is the Humanistisches Gymnasium, often referred to just as Gymnasium, where the humanities, classical languages and literature are given more prominence.\nanderthalb Stunden is plural in German (it is more than one), although in English we say \"an hour and a half\" and the noun remains singular.\nsich sehen. The pronoun here indicates a reciprocal relationship: \"see each other, see one another\". The pronouns sich, uns, euch may occur with a number of German verbs to indicate this relationship: besuchen, kennen, schreiben, treffen, verstehen, etc."
+      }
+    ],
+    "metadata": {
+      "page_start": 7,
+      "page_end": 7,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit11_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "How do Germans express 'this evening'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "heute abend",
+            "is_correct": true
+          },
+          {
+            "answer": "heute Nacht",
+            "is_correct": false
+          },
+          {
+            "answer": "dieser Abend",
+            "is_correct": false
+          },
+          {
+            "answer": "im Abend",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which forms are used in German for 'hair'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Only the singular form",
+            "is_correct": false
+          },
+          {
+            "answer": "Only the plural form",
+            "is_correct": false
+          },
+          {
+            "answer": "Both singular and plural forms",
+            "is_correct": true
+          },
+          {
+            "answer": "Only in compounds",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "When may the infinitives 'gehen' and 'fahren' be omitted with auxiliary verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "When the idea of motion is implied by the rest of the sentence",
+            "is_correct": true
+          },
+          {
+            "answer": "When the subject is plural",
+            "is_correct": false
+          },
+          {
+            "answer": "When there is no object",
+            "is_correct": false
+          },
+          {
+            "answer": "When the sentence is subordinate",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which of the following would not typically be used as a respectful form with 'Herr'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Doktor",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Konsul",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Professor",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Freund",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "In an office situation, what do Germans usually say to express 'to speak to someone'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Er will ihn sprechen or Ich möchte Sie sprechen",
+            "is_correct": true
+          },
+          {
+            "answer": "Er will mit ihm sprechen",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich möchte mit Ihnen sprechen",
+            "is_correct": false
+          },
+          {
+            "answer": "Er spricht den Kaffee",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What is the German phrase for 'tonight' used regardless of formality?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "heute abend",
+            "is_correct": true
+          },
+          {
+            "answer": "heute morgen",
+            "is_correct": false
+          },
+          {
+            "answer": "diesen Abend",
+            "is_correct": false
+          },
+          {
+            "answer": "im Abend",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What determines whether an English speaker uses 'this evening' or 'tonight'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The formality of the situation",
+            "is_correct": true
+          },
+          {
+            "answer": "The age of the speaker",
+            "is_correct": false
+          },
+          {
+            "answer": "The season of the year",
+            "is_correct": false
+          },
+          {
+            "answer": "The weather",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which auxiliary verb can cause omission of 'gehen' or 'fahren' when motion is implied?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "müssen",
+            "is_correct": true
+          },
+          {
+            "answer": "haben",
+            "is_correct": false
+          },
+          {
+            "answer": "sein",
+            "is_correct": false
+          },
+          {
+            "answer": "werden",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of these is a correct German phrase meaning 'this morning'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "heute morgen",
+            "is_correct": true
+          },
+          {
+            "answer": "dieser Morgen",
+            "is_correct": false
+          },
+          {
+            "answer": "morgen heute",
+            "is_correct": false
+          },
+          {
+            "answer": "heute Abende",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which preposition do Germans use with a dative pronoun in social situations when saying 'to speak with someone'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "mit",
+            "is_correct": true
+          },
+          {
+            "answer": "auf",
+            "is_correct": false
+          },
+          {
+            "answer": "für",
+            "is_correct": false
+          },
+          {
+            "answer": "ohne",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Germans do not say: 'this afternoon, this evening' but, literally, 'today afternoon, today evening'. Heute occurs in phrases with any of the words for the general time of day: heute morgen, heute mittag, etc.\nBoth das Haar and the plural die Haare are used in German, whereas we use only the singular form 'hair' in English.\nThe infinitives gehen and fahren are often omitted with the auxiliary verbs müssen, können, möchte(n), dürfen, sollen and wollen when the idea of motion is clearly indicated by the rest of the sentence.\nAs a sign of respect, both in direct address and in referring to a third person Germans use Herr plus the person's title: Herr Doktor, Herr Konsul, Herr Kollege, Herr Wachtmeister, Herr Ober, Herr Professor, etc.\nIn an office situation Germans usually say: Er will ihn sprechen or Ich möchte Sie sprechen, with an accusative form. In a social situation they more often say: Er will mit ihm sprechen or Ich möchte mit Ihnen sprechen, with the preposition mit and a dative form.\nIn English the choice of 'this evening' or 'tonight' depends on the formality of the situation in which the speaker finds himself. Both expressions indicate the period roughly from dinnertime to bed-time. Germans always say heute abend, however, in referring to this period of time."
+      }
+    ],
+    "metadata": {
+      "page_start": 6,
+      "page_end": 6,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

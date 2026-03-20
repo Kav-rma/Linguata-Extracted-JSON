@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit13_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In German, what does the pronoun 'es' sometimes anticipate in a sentence?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The true grammatical subject",
+            "is_correct": true
+          },
+          {
+            "answer": "The verb of the sentence",
+            "is_correct": false
+          },
+          {
+            "answer": "The object of the sentence",
+            "is_correct": false
+          },
+          {
+            "answer": "A missing adjective",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which English word is used similarly to 'es' when anticipating a subject?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "there",
+            "is_correct": true
+          },
+          {
+            "answer": "it",
+            "is_correct": false
+          },
+          {
+            "answer": "here",
+            "is_correct": false
+          },
+          {
+            "answer": "that",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What is the English translation of 'Ein Gewerkschaftssekretär war anwesend'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A union official was there",
+            "is_correct": true
+          },
+          {
+            "answer": "The union secretary was absent",
+            "is_correct": false
+          },
+          {
+            "answer": "A secretary was working",
+            "is_correct": false
+          },
+          {
+            "answer": "There was a union meeting",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "In the example sentence 'Es war ein Gewerkschaftssekretär anwesend', which word functions similarly to 'there' in English?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "es",
+            "is_correct": true
+          },
+          {
+            "answer": "ein",
+            "is_correct": false
+          },
+          {
+            "answer": "anwesend",
+            "is_correct": false
+          },
+          {
+            "answer": "war",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What grammatical role does the word 'es' play in the sentence 'Es war ein Gewerkschaftssekretär anwesend'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "anticipatory subject",
+            "is_correct": true
+          },
+          {
+            "answer": "direct object",
+            "is_correct": false
+          },
+          {
+            "answer": "predicate nominative",
+            "is_correct": false
+          },
+          {
+            "answer": "possessive pronoun",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which of the following best describes the use of 'es' in German when anticipating the subject?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It is grammatically required to appear even though it has little semantic content",
+            "is_correct": true
+          },
+          {
+            "answer": "It must be dropped in spoken language",
+            "is_correct": false
+          },
+          {
+            "answer": "It refers to a specific person",
+            "is_correct": false
+          },
+          {
+            "answer": "It is always translated as 'it'",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What part of speech is 'Gewerkschaftssekretär' in the example sentence?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A noun",
+            "is_correct": true
+          },
+          {
+            "answer": "A verb",
+            "is_correct": false
+          },
+          {
+            "answer": "An adjective",
+            "is_correct": false
+          },
+          {
+            "answer": "An adverb",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which German sentence has the same meaning as 'Es war ein Gewerkschaftssekretär anwesend'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ein Gewerkschaftssekretär war anwesend",
+            "is_correct": true
+          },
+          {
+            "answer": "Es gab keinen Gewerkschaftssekretär",
+            "is_correct": false
+          },
+          {
+            "answer": "Es ist ein Gewerkschaftssekretär",
+            "is_correct": false
+          },
+          {
+            "answer": "Ein Gewerkschaftssekretär war weg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What does the term 'anticipate the true grammatical subject' imply in the context of the note?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A pronoun appears before the actual subject to introduce the sentence",
+            "is_correct": true
+          },
+          {
+            "answer": "The subject is omitted completely",
+            "is_correct": false
+          },
+          {
+            "answer": "The verb comes before the subject",
+            "is_correct": false
+          },
+          {
+            "answer": "The sentence must begin with a noun",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which example illustrates the use of an anticipatory 'es' similar to the English 'there'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Es gibt viele Leute im Park.",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich sehe den Park.",
+            "is_correct": false
+          },
+          {
+            "answer": "Der Park ist schön.",
+            "is_correct": false
+          },
+          {
+            "answer": "Sie laufen im Park.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Es war ein Gewerkschaftssekretär anwesend. German sometimes uses es to anticipate the true grammatical subject of a sentence. English uses the word there in the same way. The equivalent German and English sentences are: Ein Gewerkschaftssekretär war anwesend. A union official was there."
+      }
+    ],
+    "metadata": {
+      "page_start": 6,
+      "page_end": 6,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,258 @@
+{
+  "title": "unit14_time_expressions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which German word for 'when' is used in questions and indirect questions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wann",
+          "is_correct": true
+        },
+        {
+          "answer": "wenn",
+          "is_correct": false
+        },
+        {
+          "answer": "als",
+          "is_correct": false
+        },
+        {
+          "answer": "weil",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In the sentence 'Später, wenn es nicht mehr regnet, könnten wir vielleicht noch einen Spaziergang machen', what does 'wenn' indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A specific past event",
+          "is_correct": false
+        },
+        {
+          "answer": "A conditional or future time",
+          "is_correct": true
+        },
+        {
+          "answer": "An indirect question",
+          "is_correct": false
+        },
+        {
+          "answer": "An imperative command",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which word would you use to refer to a specific action that happened in the past?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wann",
+          "is_correct": false
+        },
+        {
+          "answer": "wenn",
+          "is_correct": false
+        },
+        {
+          "answer": "als",
+          "is_correct": true
+        },
+        {
+          "answer": "wie",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence uses 'wann' correctly?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Wann werden Sie nach Deutschland fahren?",
+          "is_correct": true
+        },
+        {
+          "answer": "Später, wenn es nicht mehr regnet, machen wir einen Spaziergang.",
+          "is_correct": false
+        },
+        {
+          "answer": "Als wir ankamen, regnete es.",
+          "is_correct": false
+        },
+        {
+          "answer": "Wenn er französisch sprach, konnte ich ihn verstehen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which sentence demonstrates the use of 'als'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich rufe Sie sofort an, wenn ich Bescheid habe.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich rannte zum Kiosk, doch als ich zurückkam, war der Zug schon abgefahren.",
+          "is_correct": true
+        },
+        {
+          "answer": "Wann werden Sie nach Deutschland fahren?",
+          "is_correct": false
+        },
+        {
+          "answer": "Wenn er französisch sprach, konnte ich ihn nie verstehen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which of the following describes when 'wenn' is used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In questions about time",
+          "is_correct": false
+        },
+        {
+          "answer": "For specific past events",
+          "is_correct": false
+        },
+        {
+          "answer": "For recurring actions or future/conditional events",
+          "is_correct": true
+        },
+        {
+          "answer": "To join two nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In which sentence is 'wann' used in a context implying a question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich konnte ihm nicht sagen, wann die Konferenz stattgefunden hatte.",
+          "is_correct": true
+        },
+        {
+          "answer": "Wenn er französisch sprach, konnte ich ihn nie verstehen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Als wir ankamen, regnete es.",
+          "is_correct": false
+        },
+        {
+          "answer": "Später, wenn es nicht mehr regnet, könnten wir einen Spaziergang machen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'wenn' mean in the sentence 'Wenn er französisch sprach, konnte ich ihn nie verstehen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When",
+          "is_correct": true
+        },
+        {
+          "answer": "Where",
+          "is_correct": false
+        },
+        {
+          "answer": "Because",
+          "is_correct": false
+        },
+        {
+          "answer": "Who",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which word would you use to talk about something that will happen later if it stops raining?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wann",
+          "is_correct": false
+        },
+        {
+          "answer": "wenn",
+          "is_correct": true
+        },
+        {
+          "answer": "als",
+          "is_correct": false
+        },
+        {
+          "answer": "dass",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following is NOT a correct use of 'als'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Als wir ankamen, regnete es.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich rannte zum Kiosk, doch als ich zurückkam, war der Zug schon abgefahren.",
+          "is_correct": false
+        },
+        {
+          "answer": "Als werden Sie nach Deutschland fahren?",
+          "is_correct": true
+        },
+        {
+          "answer": "Als ich zurückkam, war der Zug schon weg.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "C. TIME EXPRESSIONS: Wann, wenn and als\n\nWann, wenn and als have all occurred in the basic sentences with the English translation \"when\". They are however not interchangeable, but are quite distinct in meaning.\n\nWann macht die Post eigentlich zu? (5) When does the post office close actually?\nIch rufe Sie sofort an, wenn ich Bescheid habe. (14) I'll call you immediately when I have an answer.\nAls wir ankamen, regnete es. (13) When we arrived it was raining.\n\n1. Wann occurs in questions or in sentences that imply a question (indirect questions). It may occur with present, past or future time.\n  Wann werden Sie nach Deutschland fahren?\n  Ich konnte ihm nicht sagen, wann die Konferenz stattgefunden hatte.\n\n2. Wenn occurs in statements referring to a recurrent action or situation in the present or past (\"whenever\") and in statements referring to a specific action or situation in the present or future. Note that in this latter situation Germans don't really differentiate between \"when\" and \"if\".\n  Wenn er französisch sprach, konnte ich ihn nie verstehen.\n  Später, wenn es nicht mehr regnet, könnten wir vielleicht noch einen Spaziergang machen.\n\n3. Als refers to a specific action or situation in the past.\n  Ich rannte zum Kiosk, doch als ich zurückkam, war der Zug schon abgefahren."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

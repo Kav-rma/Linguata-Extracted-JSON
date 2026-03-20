@@ -1,0 +1,148 @@
+[
+  {
+    "title": "unit12_auf_einer_gesellschaft",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who introduces you to Herr Jones?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr König",
+            "is_correct": true
+          },
+          {
+            "answer": "Herr Becker",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Allen",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Bruce",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which city do you ask about?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Munich",
+            "is_correct": false
+          },
+          {
+            "answer": "Bonn",
+            "is_correct": true
+          },
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Hamburg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What type of accommodation is mentioned?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A house",
+            "is_correct": false
+          },
+          {
+            "answer": "A hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "A beautiful apartment",
+            "is_correct": true
+          },
+          {
+            "answer": "A university dorm",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does Herr Jones ask later?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Where the post office is",
+            "is_correct": false
+          },
+          {
+            "answer": "Who the lady next to the Landrat is",
+            "is_correct": true
+          },
+          {
+            "answer": "How to find a taxi",
+            "is_correct": false
+          },
+          {
+            "answer": "What time the concert starts",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Where does Herr Jones think he met the lady before?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At a concert",
+            "is_correct": false
+          },
+          {
+            "answer": "At a reception with the General Consul",
+            "is_correct": true
+          },
+          {
+            "answer": "At the university",
+            "is_correct": false
+          },
+          {
+            "answer": "In a restaurant",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Auf einer Gesellschaft macht Herr König Sie mit Herrn Jones bekannt."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Sie fragen ihn, wie lange er schon in Bonn ist, wie ihm die Stadt gefällt, ob er eine schöne Wohnung gefunden hat und ob er vorher schon einmal in Deutschland gewesen ist."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Später fragt Herr Jones Sie, wer die Dame neben dem Landrat ist; er glaubt, dass er sie vorige Woche auf einem Empfang beim Generalkonsul kennengelernt hat."
+      }
+    ],
+    "metadata": {
+      "page_start": 22,
+      "page_end": 22,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

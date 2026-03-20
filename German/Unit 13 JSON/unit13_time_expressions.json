@@ -1,0 +1,258 @@
+{
+  "title": "unit13_time_expressions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What tense is primarily used for narrating consecutive events in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Present tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Future tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Imperative",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which forms can past participles serve as, aside from being part of verb phrases?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Adjectives and adverbs",
+          "is_correct": false
+        },
+        {
+          "answer": "Nouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Pronouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Conjunctions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What suffix is used to form adjectives from nouns in German, similar to -ish in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "-isch",
+          "is_correct": false
+        },
+        {
+          "answer": "-lich",
+          "is_correct": false
+        },
+        {
+          "answer": "-ig",
+          "is_correct": false
+        },
+        {
+          "answer": "-en",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which suffix added to numbers forms time expressions like 'once' or 'twice' in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "-mal",
+          "is_correct": true
+        },
+        {
+          "answer": "-s",
+          "is_correct": false
+        },
+        {
+          "answer": "-lich",
+          "is_correct": false
+        },
+        {
+          "answer": "-ig",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In what type of clause is the past tense frequently used instead of the perfect phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Subordinate clauses introduced by als, da, or weil",
+          "is_correct": false
+        },
+        {
+          "answer": "Main clauses",
+          "is_correct": false
+        },
+        {
+          "answer": "Interrogative clauses",
+          "is_correct": false
+        },
+        {
+          "answer": "Relative clauses",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Give an example of a participle used as an adjective in German.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "geschlossen",
+          "is_correct": false
+        },
+        {
+          "answer": "machen",
+          "is_correct": false
+        },
+        {
+          "answer": "trinken",
+          "is_correct": false
+        },
+        {
+          "answer": "kommen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which German word for 'French' is derived from a noun via -isch?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "französisch",
+          "is_correct": false
+        },
+        {
+          "answer": "telephonisch",
+          "is_correct": false
+        },
+        {
+          "answer": "gemütlich",
+          "is_correct": false
+        },
+        {
+          "answer": "freundlich",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What English suffix corresponds to German -lich when forming adjectives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "-ly",
+          "is_correct": false
+        },
+        {
+          "answer": "-ish",
+          "is_correct": false
+        },
+        {
+          "answer": "-y",
+          "is_correct": false
+        },
+        {
+          "answer": "-ic",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which suffix forms time expressions ending in -s, such as 'abends'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "-s",
+          "is_correct": true
+        },
+        {
+          "answer": "-mal",
+          "is_correct": false
+        },
+        {
+          "answer": "-isch",
+          "is_correct": false
+        },
+        {
+          "answer": "-ig",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which German sentence means 'Because the car only cost ... DM we bought it on the spot'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Weil das Auto nur 2000 DM kostete, haben wir es auf der Stelle gekauft.",
+          "is_correct": false
+        },
+        {
+          "answer": "Es war eine geschlossene Aufführung.",
+          "is_correct": false
+        },
+        {
+          "answer": "Der Franzose ist französisch.",
+          "is_correct": false
+        },
+        {
+          "answer": "Abends gehen wir ins Kino.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "E. TIME EXPRESSIONS.\nI. Time words in -s. In Unit 10 we noted the expressions abends, mittags, morgens, nachmittags.\nTwo similar forms have occurred in this unit: wochentags (on weekdays) and sonntags (on Sundays).\nThe names of all the days of the week and the general times of the day thus have a special form ending in -s.\nNote that the writing system does not capitalize them.\nDerive these forms from the following nouns: der Freitag (Friday).\nII. Time words in -mal. We have so far encountered three words ending in -mal, all referring to time: einmal, manchmal, zweimal.\nNotice their meanings and how they are formed: ein -> einmal (once, one time); manch- -> manchmal (sometimes); zwei -> zweimal (twice, two times).\nTime words of this kind can be formed from any number by adding -mal to it, for example: dreimal, fünfmal, zehnmal, hundertmal, zehntausendmal.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 17,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

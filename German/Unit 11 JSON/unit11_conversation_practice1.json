@@ -1,0 +1,160 @@
+[
+  {
+    "title": "unit11_conversation_practice1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Why isn't B sure about going to the theater?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He doesn't like the theater.",
+            "is_correct": false
+          },
+          {
+            "answer": "He has to work.",
+            "is_correct": false
+          },
+          {
+            "answer": "He hasn't decided whether to go to the theater or Professor Albers's lecture.",
+            "is_correct": true
+          },
+          {
+            "answer": "He is sick.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "At what time and where does Professor Albers's lecture take place?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "At seven in the Rathaus.",
+            "is_correct": false
+          },
+          {
+            "answer": "At eight in the Chamber of Commerce.",
+            "is_correct": true
+          },
+          {
+            "answer": "At nine in the theater.",
+            "is_correct": false
+          },
+          {
+            "answer": "At eight at home.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What does A decide when they find out about the lecture?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Not to go.",
+            "is_correct": false
+          },
+          {
+            "answer": "To go alone.",
+            "is_correct": false
+          },
+          {
+            "answer": "To accompany B to the lecture.",
+            "is_correct": true
+          },
+          {
+            "answer": "To go to bed.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "When do A and B suggest going to the theater instead?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Tonight.",
+            "is_correct": false
+          },
+          {
+            "answer": "Tomorrow.",
+            "is_correct": true
+          },
+          {
+            "answer": "Next week.",
+            "is_correct": false
+          },
+          {
+            "answer": "They don't go.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What was A's original plan for the evening?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Going to a lecture.",
+            "is_correct": false
+          },
+          {
+            "answer": "Going to the theater.",
+            "is_correct": true
+          },
+          {
+            "answer": "Going to a movie.",
+            "is_correct": false
+          },
+          {
+            "answer": "Not specified.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Gehst du heute abend ins Theater?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Ich weiss nicht, ob ich ins Theater gehen soll oder zum Vortrag von Professor Albers."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Ach, hält Albers heute einen Vortrag? Den möchte ich eigentlich auch gern hören! Um wieviel Uhr und wo?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Um acht Uhr in der Handelskammer."
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Wenn du hingehst, komme ich mit dir mit."
+      },
+      {
+        "sequence_id": 6,
+        "text": "B: Wir können ja auch morgen ins Theater gehen."
+      }
+    ],
+    "metadata": {
+      "page_start": 25,
+      "page_end": 25,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

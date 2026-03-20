@@ -1,0 +1,258 @@
+{
+  "title": "unit12_past_participle_forms",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What are the two form classes of past participles in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Present and future",
+          "is_correct": false
+        },
+        {
+          "answer": "Weak verbs and strong verbs",
+          "is_correct": true
+        },
+        {
+          "answer": "Regular and irregular nouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Modal and auxiliary verbs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do most weak verbs form their past participle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By adding -n to the stem",
+          "is_correct": false
+        },
+        {
+          "answer": "By using the infinitive",
+          "is_correct": false
+        },
+        {
+          "answer": "By prefixing ge- and adding -t",
+          "is_correct": true
+        },
+        {
+          "answer": "By changing the stem",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When the verb has an accented adverb, what happens in the past participle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The adverb precedes the prefix ge- and the whole is one word",
+          "is_correct": true
+        },
+        {
+          "answer": "The adverb is dropped",
+          "is_correct": false
+        },
+        {
+          "answer": "The verb takes the auxiliary sein",
+          "is_correct": false
+        },
+        {
+          "answer": "The participle ends in -n",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of the following is a weak verb with an irregular past participle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "gehen",
+          "is_correct": false
+        },
+        {
+          "answer": "haben",
+          "is_correct": true
+        },
+        {
+          "answer": "fahren",
+          "is_correct": false
+        },
+        {
+          "answer": "kommen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do strong verbs form their past participle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They add -t to the stem",
+          "is_correct": false
+        },
+        {
+          "answer": "They incorporate stem changes and end in -n",
+          "is_correct": true
+        },
+        {
+          "answer": "They use the infinitive",
+          "is_correct": false
+        },
+        {
+          "answer": "They take no prefix",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which of the following past participles uses the auxiliary sein in a perfect phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "gehabt",
+          "is_correct": false
+        },
+        {
+          "answer": "geschrieben",
+          "is_correct": false
+        },
+        {
+          "answer": "gegessen",
+          "is_correct": false
+        },
+        {
+          "answer": "gekommen",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the past participle of 'lesen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "lesen",
+          "is_correct": false
+        },
+        {
+          "answer": "gelesen",
+          "is_correct": true
+        },
+        {
+          "answer": "gelasen",
+          "is_correct": false
+        },
+        {
+          "answer": "lesend",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the past participle of 'finden'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "gefunden",
+          "is_correct": true
+        },
+        {
+          "answer": "fanden",
+          "is_correct": false
+        },
+        {
+          "answer": "gefundenen",
+          "is_correct": false
+        },
+        {
+          "answer": "findet",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which verb has the past participle gewesen?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "sein",
+          "is_correct": true
+        },
+        {
+          "answer": "haben",
+          "is_correct": false
+        },
+        {
+          "answer": "gehen",
+          "is_correct": false
+        },
+        {
+          "answer": "bleiben",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of these verbs has its past participle 'geschrieben'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "schreiben",
+          "is_correct": true
+        },
+        {
+          "answer": "sprechen",
+          "is_correct": false
+        },
+        {
+          "answer": "sehen",
+          "is_correct": false
+        },
+        {
+          "answer": "gehen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "C.\nVERBS.\nPAST PARTICIPLE FORMS\nThere are two form classes of past participles in German. Most verbs have past participles which end in -t like gekauft, gelöst, gewohnt and are called weak verbs. A relatively small group of very common verbs have past participles which end in -n like gefahren, gesehen, gestanden and are called strong verbs.\nI. Weak verbs.\n1. Most weak verbs have a past participle consisting of a form which is identical with the er-form of the present tense preceded by the prefix ge-:\nge-kauft, ge-wohnt, ge-hört, ge-arbeitet, ge-regnet\n2. When the verb has an accented adverb this precedes the prefix ge- and the whole thing is written as one word:\nein-ge-lebt, auf-ge-macht, ein-ge-richtet, vor-ge-stellt\n3. When the verb is not stressed on the first syllable, the past participle consists only of a form identical with the er-form of the present tense and has no additional prefix ge-:\nbesucht, vermietet, gehört, erwartet, studiert, übersetzt\n4. A few weak verbs have irregular past participles:\nge-habt, ge-kannt, ge-bracht, ge-wusst, ge-dacht\nNotice that most of these verbs also have other forms which are irregular.\nII. Strong verbs.\n1. The past participles of many strong verbs incorporate arbitrary changes in the stem which cannot be predicted from the infinitive or present tense forms. The following is a complete list of all strong verbs which have occurred in the first twelve units, together with their past participles:\nabheben – abgehoben\nanbieten – angeboten\nanfangen – angefangen\nanrufen – angerufen\nbehalten – behalten\nbekommen – bekommen\nbitten – gebeten\nbleiben – geblieben\nempfehlen – empfohlen\nessen – gegessen\nfahren – gefahren\nabfahren – abgefahren\nmitfahren – mitgefahren\nfinden – gefunden\nstattfinden – stattgefunden\ngeben – gegeben\nausgeben – ausgegeben\ngefallen – gefallen\ngehen – gegangen\nausgehen – ausgegangen\nhingehen – hingegangen\nhalten – gehalten\nheissen – geheissen\nhelfen – geholfen\nkommen – gekommen\nankommen – angekommen\nhereinkommen – hereingekommen\nhinkommen – hingekommen\nmitkommen – mitgekommen\nvorbeikommen – vorbeigekommen\nzurückkommen – zurückgekommen\nlaufen – gelaufen\nleihen – geliehen\nlesen – gelesen\nliegen – gelegen\nnehmen – genommen\nabnehmen – abgenommen\nmitnehmen – mitgenommen\nscheinen – geschienen\nschneiden – geschnitten\nschreiben – geschrieben\nsehen – gesehen\nansehen – angesehen\naussehen – ausgesehen\nsitzen – gesessen\nsprechen – gesprochen\nstehen – gestanden\nanstehen – angestanden\ntragen – getragen\ntreffen – getroffen\ntreiben – getrieben\ntrinken – getrunken\ntun – getan\nunterhalten – unterhalten\nverbinden – verbunden\nvergessen – vergessen\nverschlafen – verschlafen\nverstehen – verstanden\nwaschen – gewaschen\nziehen – gezogen\nanziehen – angezogen\neinziehen – eingezogen\nNote that these past participles occur in a perfect phrase with the auxiliary sein.\n2. The verb sein, which is irregular, has the past participle gewesen.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

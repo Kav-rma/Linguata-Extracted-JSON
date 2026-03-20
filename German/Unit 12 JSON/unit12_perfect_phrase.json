@@ -1,0 +1,258 @@
+{
+  "title": "unit12_perfect_phrase",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does a German perfect phrase consist of?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An adjective and a noun",
+          "is_correct": false
+        },
+        {
+          "answer": "An auxiliary verb plus a past participle",
+          "is_correct": true
+        },
+        {
+          "answer": "Two infinitives",
+          "is_correct": false
+        },
+        {
+          "answer": "A modal verb and a noun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which auxiliary verb is used with most German verbs to form the perfect phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "haben",
+          "is_correct": true
+        },
+        {
+          "answer": "sein",
+          "is_correct": false
+        },
+        {
+          "answer": "werden",
+          "is_correct": false
+        },
+        {
+          "answer": "lassen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which auxiliary verb is used with verbs of motion or change to form the perfect phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "haben",
+          "is_correct": false
+        },
+        {
+          "answer": "sein",
+          "is_correct": true
+        },
+        {
+          "answer": "dürfen",
+          "is_correct": false
+        },
+        {
+          "answer": "können",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of the following is an example of the perfect phrase using the auxiliary sein?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Wir haben Sie lange nicht gesehen",
+          "is_correct": false
+        },
+        {
+          "answer": "Wir sind am zweiten März in Bremerhaven angekommen",
+          "is_correct": true
+        },
+        {
+          "answer": "Sie haben vorhin bei mir angerufen",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich habe die Schuhe besohlen lassen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which verbs have a special perfect phrase using the infinitive instead of a past participle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only lassen",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the modal verbs and lassen",
+          "is_correct": true
+        },
+        {
+          "answer": "Only sein and haben",
+          "is_correct": false
+        },
+        {
+          "answer": "All regular verbs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the double infinitive construction?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A phrase with a past participle and an infinitive",
+          "is_correct": false
+        },
+        {
+          "answer": "When two infinitives stand together at the end of the sentence",
+          "is_correct": true
+        },
+        {
+          "answer": "A verb phrase using auxiliary sein",
+          "is_correct": false
+        },
+        {
+          "answer": "A modal verb followed by a noun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of the following sentences shows the special perfect phrase with a modal verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich habe die Schuhe besohlen lassen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Wir sind am zweiten März angekommen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Er hat sogar zwei Jahre dort studieren können.",
+          "is_correct": true
+        },
+        {
+          "answer": "Wir haben Sie lange nicht gesehen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Do the verbs auswandern, bleiben, etc., occur with accusative objects?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "No",
+          "is_correct": true
+        },
+        {
+          "answer": "Only some of them",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in the past participle",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following is the translation of 'Wir haben Sie lange nicht gesehen, Herr Becker'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "We haven't seen you for a long time, Mr. Becker.",
+          "is_correct": true
+        },
+        {
+          "answer": "We have been looking for you, Mr. Becker.",
+          "is_correct": false
+        },
+        {
+          "answer": "We haven't been living here long, Mr. Becker.",
+          "is_correct": false
+        },
+        {
+          "answer": "We will see you soon, Mr. Becker.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the special perfect phrase, which auxiliary verb is always used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "sein",
+          "is_correct": false
+        },
+        {
+          "answer": "haben",
+          "is_correct": true
+        },
+        {
+          "answer": "werden",
+          "is_correct": false
+        },
+        {
+          "answer": "können",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "B.\nVERBS.\nTHE PERFECT PHRASE.\nI. The most frequent device used in conversation in German is the verb phrase consisting of an auxiliary verb plus a past participle. This is called the perfect phrase. The form is like our English perfect phrase have sent, have gone, etc., but note that an English perfect phrase does not always occur where a German perfect phrase is used.\n1. Notice the following examples, most of which have occurred in our units:\nWir haben Sie lange nicht gesehen, Herr Becker.\nSie haben vorhin bei mir angerufen, Herr Bauer.\nHat er gesagt, um was es sich handelt?\nSie hat lange vor dem Geschäft gestanden.\nWissen Sie, wo seine Eltern in Deutschland gewohnt haben?\nWe haven't seen you for a long time, Mr. Becker.\nYou called my office a little while ago, Mr. Bauer.\nDid he say what it was about?\nShe stood in front of the store for a long time.\nDo you know where his parents lived in Germany?\nMost German verbs make the perfect phrase with the auxiliary verb haben.\n2. Notice further:\nWir sind am zweiten März in Bremerhaven angekommen.\nMeine Zeitung ist heute nicht gekommen.\nDie Handwerker sind jedenfalls gestern dagewesen.\nWie lange bist du denn dort geblieben?\nIch glaube nicht, dass sie heute mitgefahren ist.\nWe arrived in Bremerhaven on the second of March.\nMy paper didn't come today.\nAt any rate the workmen were here yesterday.\nHow long did you stay there?\nI don't think she came along today.\nCertain German verbs make the perfect phrase with the auxiliary verb sein.\nThe following is a list of the verbs in the first twelve units which do this:\nauswandern, bleiben, fahren, abfahren, mitfahren, gehen, ausgehen, hingehen, kommen, ankommen, hereinkommen, hinkommen, mitkommen, vorbeikommen, zurückkommen, laufen, sein, ziehen, einziehen.\nYou will remember that these verbs do not occur with accusative objects.\nNotice that all except bleiben and sein are also verbs which indicate motion or change of position.\nII. The verbs dürfen, können, möchten, müssen, sollen, wollen and lassen have a special perfect phrase.\nIch habe die Schuhe besohlen lassen.\nEr hat sogar zwei Jahre dort studieren können.\nIch habe anderthalb Stunden für meine Karte anstehen müssen.\nInstead of a past participle, the infinitive form of these verbs occurs in the perfect phrase. Since they all function as auxiliary verbs with another infinitive, two infinitives stand together at the end of the sentence, the auxiliary infinitive last. This construction is sometimes referred to as the double infinitive construction. Notice that this is exactly the same construction as we noted in Unit 11 under complex verb phrases. The auxiliary verb in the special perfect phrase is always haben, however.\nCompare:\nIch habe die Schuhe besohlen lassen.\nIch muss die Schuhe besohlen lassen.\nIch werde die Schuhe besohlen lassen.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

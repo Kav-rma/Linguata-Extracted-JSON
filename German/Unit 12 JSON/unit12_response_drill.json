@@ -1,0 +1,555 @@
+[
+  {
+    "title": "unit12_response_drill",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Wie lange ist Familie Jones schon in Deutschland?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Familie Jones ist erst zwei Monate in Deutschland.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Wann sind Jones' in Bremerhaven angekommen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie sind am zweiten März in Bremerhaven angekommen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Wie ist die Überfahrt gewesen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Die Überfahrt ist im Großen und Ganzen sehr angenehm gewesen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Ist keiner seekrank gewesen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Doch, leider ist ihre Tochter fast die ganze Zeit seekrank gewesen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Seit wann wohnt Konsul Allen mit seiner Familie in einem Zweifamilienhaus?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Er und seine Familie wohnen seit zwei Wochen in einem Zweifamilienhaus.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "In welcher Gegend der Stadt wohnen sie?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie wohnen im Süden der Stadt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Wo haben sie vorher gewohnt?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie haben vorher in der amerikanischen Siedlung gewohnt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Wie haben er und seine Frau das Schulproblem ihrer Kinder gelöst?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ihre beiden Söhne besuchen ein deutsches Realgymnasium und ihre kleine Tochter geht in einen amerikanischen Kindergarten.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Wo sind Herr Bruce und Herr Jones gestern gewesen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie sind in der Oper gewesen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Wie hat ihnen die Aufführung gefallen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Die Aufführung hat ihnen sehr gut gefallen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Warum hat Herr Bruce anderthalb Stunden für seine Karte anstehen müssen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Er hat leider kein Theater-Abonnement genommen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Wann werden die Berliner Philharmoniker hier ein Konzert geben?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie werden in acht Tagen hier ein Konzert geben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Werden Herr Bruce und Herr Jones in das Konzert gehen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ja, wenn sie noch Karten bekommen können.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Was macht der Sohn von Herrn Meyer?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Er studiert in Göttingen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Wo hat er voriges Jahr studiert?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Voriges Jahr hat er als Austauschstudent in Amerika studiert.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Wie lange war er in Amerika?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Er ist zwei Jahre dort gewesen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Wo ist die Tochter von Herrn Meyer gewesen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie war in Norwegen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Was hat sie in Norwegen getan?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie ist dort als Sportlehrerin gewesen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Wo wohnt sie jetzt?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie wohnt jetzt in München.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Seit wann wohnt sie dort?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie wohnt seit letztem Sommer dort.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Wie oft sehen Meyers ihre Tochter?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie sehen sie leider nur alle paar Monate.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Wer sitzt neben dem Landrat?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Neben dem Landrat sitzt die Gastgeberin.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Wie heißt die Dame links vom Landrat?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie heißt Frau von Rothenburg.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Wo arbeitet sie?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie arbeitet für's Rote Kreuz.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Wo hat Herr Allen Frau von Rothenburg kennengelernt?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Er hat sie neulich auf einem Empfang kennengelernt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Mit wem unterhält sich Frau von Rothenburg gerade?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sie unterhält sich gerade mit Herrn Dr. Maler.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Wer ist Herr Dr. Maler?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Er ist der Leiter des Gesundheitsamtes.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Treibt Herr Bruce gern Sport?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ja, er ist ein guter Tennisspieler.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Was möchte Herr Müller Herrn Bruce gern zeigen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Er möchte ihm gern das neue, moderne Schwimmbad zeigen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Seit wann gibt es dort ein Schwimmbad?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Erst seit kurzem.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Wie lange wohnen Sie schon in Washington?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Wir wohnen seit drei Jahren in Washington.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Um wieviel Uhr sind Sie gestern nach Hause gekommen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich bin gestern um sechs Uhr abends nach Hause gekommen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Wie lange haben Sie in New York gewohnt?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich habe fünf Jahre in New York gewohnt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Wo haben Sie studiert?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich habe in Heidelberg studiert.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Wie lange arbeiten Sie schon hier?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich arbeite hier seit einem Jahr.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Wo sind Sie letztes Jahr hingefahren?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich bin letztes Jahr nach Italien gefahren.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Wann haben Sie dieses Buch gelesen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich habe dieses Buch vor zwei Wochen gelesen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Wann haben Sie Herrn Keller angerufen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich habe Herrn Keller gestern Abend angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Wo haben Sie eigentlich Herrn und Frau Müller kennengelernt?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich habe Herrn und Frau Müller auf einer Party kennengelernt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Wo sind Sie gestern abend gewesen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich war gestern Abend im Kino.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Seit wann wohnen Sie in der Mozartstraße?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich wohne seit einem Jahr in der Mozartstraße.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Wie lange sind Sie schon verheiratet?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich bin seit fünf Jahren verheiratet.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "Seit wann rauchen Sie?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich rauche seit fünf Jahren.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "Wie lange sprechen Sie schon deutsch?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ich spreche seit zwei Jahren Deutsch.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "Wie lange regnet es schon?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Es regnet seit heute Morgen.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 21,
+      "page_end": 22,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

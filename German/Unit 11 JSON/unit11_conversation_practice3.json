@@ -1,0 +1,168 @@
+[
+  {
+    "title": "unit11_conversation_practice3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does Lee want to have done?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "His shoes polished.",
+            "is_correct": false
+          },
+          {
+            "answer": "His suit and light gray jacket cleaned.",
+            "is_correct": true
+          },
+          {
+            "answer": "His car serviced.",
+            "is_correct": false
+          },
+          {
+            "answer": "His shirts washed.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "When can Lee pick up his clothes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Monday morning.",
+            "is_correct": false
+          },
+          {
+            "answer": "Friday afternoon.",
+            "is_correct": true
+          },
+          {
+            "answer": "Wednesday afternoon.",
+            "is_correct": false
+          },
+          {
+            "answer": "Immediately.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How much does it cost to clean the suit?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "2 Marks 50.",
+            "is_correct": true
+          },
+          {
+            "answer": "1 Mark 95.",
+            "is_correct": false
+          },
+          {
+            "answer": "3 Marks.",
+            "is_correct": false
+          },
+          {
+            "answer": "2 Marks.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Where is the laundry located?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Across the street.",
+            "is_correct": false
+          },
+          {
+            "answer": "Next door.",
+            "is_correct": true
+          },
+          {
+            "answer": "Upstairs.",
+            "is_correct": false
+          },
+          {
+            "answer": "On the first floor.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is Lee's full address?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Frank Lee, Beethovenstrasse 12, first floor.",
+            "is_correct": false
+          },
+          {
+            "answer": "Frank Lee, Schubertstrasse 12, first floor.",
+            "is_correct": true
+          },
+          {
+            "answer": "Lee, Schubertstrasse 21, second floor.",
+            "is_correct": false
+          },
+          {
+            "answer": "Frank Lee, Mozartstrasse 12, ground floor.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Lee: Ich möchte diesen Anzug und die hellgraue Jacke reinigen lassen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Frl: Bitte sehr; – am Freitag nachmittag können Sie die Sachen wieder abholen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Lee: Wieviel kostet das Reinigen des Anzugs?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "Frl: Der Anzug kostet zwei Mark fünfzig, die Jacke eine Mark fünfundneunzig."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Lee: Kann ich bei Ihnen auch meine Wäsche waschen lassen?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "Frl: Unsere Wäscherei ist hier nebenan. Darf ich um Ihren Namen und die Adresse bitten?"
+      },
+      {
+        "sequence_id": 7,
+        "text": "Lee: Frank Lee, Schubertstrasse 12, erster Stock."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Frl: Vielen Dank."
+      }
+    ],
+    "metadata": {
+      "page_start": 25,
+      "page_end": 25,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

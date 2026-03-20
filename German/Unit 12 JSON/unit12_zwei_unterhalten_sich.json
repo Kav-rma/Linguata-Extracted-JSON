@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unit12_zwei_unterhalten_sich",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which topics are suggested to discuss with your friend?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Universities, sports, theatre or cinema",
+            "is_correct": true
+          },
+          {
+            "answer": "Politics, economics, literature",
+            "is_correct": false
+          },
+          {
+            "answer": "Travel plans, health, weather",
+            "is_correct": false
+          },
+          {
+            "answer": "Music, art, dance",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which orchestra is mentioned in the conversation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Munich Symphony",
+            "is_correct": false
+          },
+          {
+            "answer": "Vienna Philharmonic",
+            "is_correct": false
+          },
+          {
+            "answer": "Berlin Philharmonic",
+            "is_correct": true
+          },
+          {
+            "answer": "London Symphony",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What does your friend want to know?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Whether you have a car",
+            "is_correct": false
+          },
+          {
+            "answer": "If tickets for the concert are available",
+            "is_correct": true
+          },
+          {
+            "answer": "What time the movie starts",
+            "is_correct": false
+          },
+          {
+            "answer": "How to get to the theatre",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How do you respond to your friend's question about tickets?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "You know exactly where to get them",
+            "is_correct": false
+          },
+          {
+            "answer": "You don't know exactly",
+            "is_correct": true
+          },
+          {
+            "answer": "You don't want to talk about it",
+            "is_correct": false
+          },
+          {
+            "answer": "You already bought them",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What do you promise to do regarding the tickets?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Buy tickets",
+            "is_correct": false
+          },
+          {
+            "answer": "Take your friend to the concert",
+            "is_correct": false
+          },
+          {
+            "answer": "Get information about available tickets",
+            "is_correct": true
+          },
+          {
+            "answer": "Cancel your subscription",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Unterhalten Sie sich mit Ihrem Freund über Ihre Universitäten, wo Sie studiert haben, ob Sie Sport getrieben haben, ob Sie oft ins Theater oder Kino gehen und sagen Sie ihm, dass die berühmten Berliner Philharmoniker bald kommen werden."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Ihr Freund möchte wissen, ob man für das Konzert noch Karten bekommen kann."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Sie sagen, dass Sie das nicht genau wissen."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Sie selbst haben ein Abonnement, aber Sie werden sich gern mal erkundigen, ob es noch Karten gibt."
+      }
+    ],
+    "metadata": {
+      "page_start": 22,
+      "page_end": 22,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

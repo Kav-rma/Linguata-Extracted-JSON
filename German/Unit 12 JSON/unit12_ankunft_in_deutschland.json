@@ -1,0 +1,220 @@
+[
+  {
+    "title": "unit12_ankunft_in_deutschland",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which city do you arrive in?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Munich",
+            "is_correct": false
+          },
+          {
+            "answer": "Bonn",
+            "is_correct": true
+          },
+          {
+            "answer": "Hamburg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What do you do after arriving in the city?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Buy tickets",
+            "is_correct": false
+          },
+          {
+            "answer": "Take a taxi to the hotel",
+            "is_correct": true
+          },
+          {
+            "answer": "Visit a museum",
+            "is_correct": false
+          },
+          {
+            "answer": "Go to the consulate",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Whom do you call from the hotel?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Your family",
+            "is_correct": false
+          },
+          {
+            "answer": "Vice Consul Jones",
+            "is_correct": true
+          },
+          {
+            "answer": "The General Consul",
+            "is_correct": false
+          },
+          {
+            "answer": "The hotel manager",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does Herr Jones ask?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "If you need directions",
+            "is_correct": false
+          },
+          {
+            "answer": "If you had a pleasant trip and how your family is",
+            "is_correct": true
+          },
+          {
+            "answer": "If you need money",
+            "is_correct": false
+          },
+          {
+            "answer": "If you want to attend a concert",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does Herr Jones suggest when a house is hard to get?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Buy a car",
+            "is_correct": false
+          },
+          {
+            "answer": "Stay in a hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "Move into an apartment in the American settlement",
+            "is_correct": true
+          },
+          {
+            "answer": "Travel to Berlin",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What do you need to do before going to dinner?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Get money from the bank",
+            "is_correct": false
+          },
+          {
+            "answer": "Wash and change clothes",
+            "is_correct": true
+          },
+          {
+            "answer": "Buy tickets",
+            "is_correct": false
+          },
+          {
+            "answer": "Call your family",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "When will you meet at the restaurant?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "After ten minutes",
+            "is_correct": false
+          },
+          {
+            "answer": "In half an hour",
+            "is_correct": false
+          },
+          {
+            "answer": "In one and a half hours",
+            "is_correct": true
+          },
+          {
+            "answer": "The next day",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie sind gerade in Bonn angekommen, nehmen sich eine Taxe und fahren zum Hotel."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Dort nehmen Sie sich ein Zimmer und rufen dann Ihren Kollegen, Vizekonsul Jones an."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Herr Jones fragt Sie, ob Sie eine angenehme Reise gehabt haben und wie es Ihrer Familie geht."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Sie sagen, dass Ihre Familie etwas später kommt."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Sie wollen erst ein Haus mieten."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Herr Jones sagt, dass es sehr schwer ist, ein Haus zu bekommen, aber Sie können doch erst mal in eine Wohnung in der amerikanischen Siedlung ziehen."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Dann fragt Herr Jones, ob Sie mit ihm ins Restaurant zum Essen gehen wollen."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Sie sagen ja, aber Sie wollen sich erst noch waschen und einen anderen Anzug anziehen."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Sie werden in anderthalb Stunden im Restaurant sein."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

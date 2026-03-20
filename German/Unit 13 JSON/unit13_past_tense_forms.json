@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit13_past_tense_forms",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What English word is used similarly to German 'es' to anticipate the subject?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "There",
+            "is_correct": true
+          },
+          {
+            "answer": "It",
+            "is_correct": false
+          },
+          {
+            "answer": "That",
+            "is_correct": false
+          },
+          {
+            "answer": "Here",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which tense is introduced as a special verb form used to talk about past time?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Future Tense",
+            "is_correct": false
+          },
+          {
+            "answer": "Past Tense",
+            "is_correct": true
+          },
+          {
+            "answer": "Perfect Tense",
+            "is_correct": false
+          },
+          {
+            "answer": "Present Tense",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which endings characterize weak verbs in the past tense?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "-te and -ten",
+            "is_correct": true
+          },
+          {
+            "answer": "-en and -st",
+            "is_correct": false
+          },
+          {
+            "answer": "-t and -en",
+            "is_correct": false
+          },
+          {
+            "answer": "-ing and -ed",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How can you distinguish weak and strong verbs based on past tense endings?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Weak verbs end in -te or -ten, strong verbs do not",
+            "is_correct": true
+          },
+          {
+            "answer": "Strong verbs end in -te or -ten, weak verbs do not",
+            "is_correct": false
+          },
+          {
+            "answer": "Both weak and strong verbs end in -te",
+            "is_correct": false
+          },
+          {
+            "answer": "There is no difference",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What are strong verbs sometimes called due to their arbitrary stem changes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Regular verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "Irregular verbs",
+            "is_correct": true
+          },
+          {
+            "answer": "Weak verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "Connecting verbs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which example illustrates a strong verb with four different stem forms?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "stehen",
+            "is_correct": false
+          },
+          {
+            "answer": "nehmen",
+            "is_correct": true
+          },
+          {
+            "answer": "fahren",
+            "is_correct": false
+          },
+          {
+            "answer": "trinken",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which verbs have past participles ending in -t and are predictable from the present stem?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Weak verbs",
+            "is_correct": true
+          },
+          {
+            "answer": "Strong verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "Irregular verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "Mixed verbs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which verb forms are used to list weak verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Infinitive, past tense, past participle",
+            "is_correct": true
+          },
+          {
+            "answer": "Infinitive, present tense, imperative",
+            "is_correct": false
+          },
+          {
+            "answer": "Present tense, future tense, infinitive",
+            "is_correct": false
+          },
+          {
+            "answer": "Past participle, future tense, imperative",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What must be known about weak verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They always have stem vowel changes",
+            "is_correct": false
+          },
+          {
+            "answer": "They cannot be predicted by looking at the infinitive",
+            "is_correct": true
+          },
+          {
+            "answer": "They always end in -en",
+            "is_correct": false
+          },
+          {
+            "answer": "They are never used in past tense",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which English verbs are given as parallels to demonstrate regular and irregular verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Live, reach, give, take",
+            "is_correct": true
+          },
+          {
+            "answer": "Run, walk, see, go",
+            "is_correct": false
+          },
+          {
+            "answer": "Drink, sleep, read, write",
+            "is_correct": false
+          },
+          {
+            "answer": "Buy, sell, eat, drive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A.\nVERBS.\nTHE PAST TENSE FORMS\nI.\nIn Unit 12 we were concerned with only two of the devices for talking about\npast time in German:\nthe PERFECT PHRASE and the construction using a\nPRESENT TENSE form of the verb plus an expression of time.\nWe noted however\nthat both German and English have a special verb form which is also used\nto talk about past time.\nThis is the PAST TENSE form.\n1. Notice the following examples from the basic sentences of this unit:\na) Machten Sie auch Berg-\ntouren?\nb) Wir fuhren nach Bad\nPyrmont.\nc) Herr Schumann gab einen\nBericht.\nd) Darüber stand ein Artikel\nin der Zeitung.\ne) Die Zeit reichte nicht\naus.\nDid you go on hikes in the\nmountains too?\nWe went to Bad Pyrmont.\nMr.\nSchumann gave a report.\nThere was an article about that\nin the paper.\nThere wasn't sufficient time.\nYou will see that the PAST TENSE forms in the above sentences can be\ndivided into two form-classes, verbs which end in -te\nor\n-ten\nand\nthose which do not have these endings;\nmachten\nreichte\nvs.\nfuhren\ngab\nstand\nThe verbs above whose PAST TENSE forms end in\n-te\n(er-form)\nand\n-ten\n(wir-form)\nare WEAK VERBS.\nIt was noted in Unit 12 that WEAK VERBS\nhave PAST PARTICIPLES which end in\n-t. If we list the INFINITIVE,\nPAST\nTENSE ich-\nor\ner-form, and PAST PARTICIPLE of these verbs together, it\nwill be seen that the STEM (the INFINITIVE or wir-form of the PRESENT\nminus the ending -en) in every case is the same.\nThese verbs are often called REGULAR VERBS.\nThe PAST TENSE form can\nalways be predicted from the PAST PARTICIPLE and vice versa, and both\nforms can be derived from the PRESENT STEM by adding the endings\nindicated.\nHowever, it is not possible to tell by looking at the\nINFINITIVE or PRESENT STEM that a particular verb is a WEAK VERB.\nThis\nfact must be known.\nThe verbs above whose PAST TENSE forms do not end in\n-te\nor\n-ten\nare STRONG VERBS.\nWe noted in Unit 12 that STRONG VERBS have PAST\nPARTICIPLES ending in\n-en\nand incorporating arbitrary changes in the\nSTEM.\nIf we list the INFINITIVE,\nPAST TENSE\nich-\nor\ner-form,\nand\nPAST PARTICIPLE of these verbs together, it will be seen that in every\ncase the PAST TENSE STEM (equivalent to the er-form of the PAST in\nSTRONG VERBS) is different from the INFINITIVE or PRESENT TENSE STEM:\nfahr-en\nfuhr\nge-fahr-en\ngeb-en\ngab\nge-geb-en\nsteh-en\nstand\nge-stand-en\nNotice that the PAST TENSE STEM sometimes differs from the PARTICIPLE\nSTEM also.\nBecause of the completely arbitrary changes in the form of\nthe STEM in these verbs they are often called IRREGULAR VERBS.\nIn some verbs the PRESENT STEM, the PAST TENSE STEM and the PARTICIPLE\nSTEM are all different.\nIf these verbs also happen to have two different\nforms of the PRESENT STEM we have a total of four different stem forms.\nIn most cases it is only the STEM VOWEL which varies, but there may be\nother changes as well.\nHere are examples of strong verbs with two,\nthree and four stem changes:\nsteh-en\nsteh-t\nstand\nge-stand-en\nfahr-en\nfähr-t\nfuhr\nge-fahr-en\ntrink-en\ntrink-t\ntrank\nge-trunk-en\nnehm-en\nnimm-t\nnahm\nge-nomm-en\nThese forms are not predictable and cannot be derived from the INFINITIVE\nor PRESENT STEM.\nThey must all be memorized.\nThe two form-classes have close parallels in English regular and irregular\nverbs:\nlive\nlived\nlived\nreach\nreached\nreached\ngive\ngave\ngiven\ntake\ntook\ntaken"
+      }
+    ],
+    "metadata": {
+      "page_start": 6,
+      "page_end": 7,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

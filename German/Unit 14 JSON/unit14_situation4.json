@@ -1,0 +1,312 @@
+[
+  {
+    "title": "unit14_situation4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wem erzählen Sie von Ihrer Reise?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Meinen Kollegen",
+            "is_correct": true
+          },
+          {
+            "answer": "Meinem Onkel",
+            "is_correct": false
+          },
+          {
+            "answer": "Dem Hotelmanager",
+            "is_correct": false
+          },
+          {
+            "answer": "Dem Taxifahrer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Was ist zu Beginn der Reise passiert?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ich habe verschlafen und fast den Zug verpasst",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich habe mein Gepäck verloren",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich bin zu spät am Flughafen angekommen",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich hatte kein Taxi gefunden",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Warum hätten Sie den Zug fast verpasst?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Weil Sie noch keine Fahrkarte gelöst hatten",
+            "is_correct": true
+          },
+          {
+            "answer": "Weil Sie kein Frühstück gegessen hatten",
+            "is_correct": false
+          },
+          {
+            "answer": "Weil Sie kein Gepäck hatten",
+            "is_correct": false
+          },
+          {
+            "answer": "Weil Sie den Bahnhof nicht fanden",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Was war mit Ihrem Gepäck?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Es war sehr schwer",
+            "is_correct": true
+          },
+          {
+            "answer": "Es war sehr leicht",
+            "is_correct": false
+          },
+          {
+            "answer": "Es war beschädigt",
+            "is_correct": false
+          },
+          {
+            "answer": "Es war verloren",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Wo hatten Sie Ihre Aktenmappe vergessen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Im Büro",
+            "is_correct": true
+          },
+          {
+            "answer": "Im Hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Taxi",
+            "is_correct": false
+          },
+          {
+            "answer": "In der Wohnung",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Wer hat die Aktenmappe gefunden?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Meine Sekretärin",
+            "is_correct": true
+          },
+          {
+            "answer": "Mein Kollege",
+            "is_correct": false
+          },
+          {
+            "answer": "Der Gepäckträger",
+            "is_correct": false
+          },
+          {
+            "answer": "Der Empfangschef",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Was haben Sie vergessen, bevor der Zug abfuhr?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Reiseliteratur zu besorgen",
+            "is_correct": true
+          },
+          {
+            "answer": "Einen Kaffee zu trinken",
+            "is_correct": false
+          },
+          {
+            "answer": "Die Koffer zu packen",
+            "is_correct": false
+          },
+          {
+            "answer": "Die Zimmer zu buchen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Wie sind Sie vom Bahnhof zum Hotel gekommen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Mit einer Taxe",
+            "is_correct": true
+          },
+          {
+            "answer": "Zu Fuß",
+            "is_correct": false
+          },
+          {
+            "answer": "Mit der Straßenbahn",
+            "is_correct": false
+          },
+          {
+            "answer": "Mit dem Fahrrad",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Was war mit Ihrer Hotelreservierung?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Der Empfangschef hatte vergessen, das Zimmer zu reservieren",
+            "is_correct": true
+          },
+          {
+            "answer": "Es gab keine freien Zimmer",
+            "is_correct": false
+          },
+          {
+            "answer": "Sie hatten nicht reserviert",
+            "is_correct": false
+          },
+          {
+            "answer": "Ihr Zimmer war doppelt gebucht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Wie fühlten Sie sich, nachdem Sie nach Hause zurückkehrten?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Froh, wieder zu Hause zu sein",
+            "is_correct": true
+          },
+          {
+            "answer": "Traurig, dass die Reise vorbei war",
+            "is_correct": false
+          },
+          {
+            "answer": "Verärgert über das Hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "Nervös wegen der Konferenz",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie erzählen Ihren Kollegen von Ihrer Reise nach Berlin."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Eine ganze Menge ist schiefgegangen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Sie hatten verschlafen und fast den Zug verpasst, weil Sie noch keine Fahrkarte gelöst hatten."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Ihr Gepäck war sehr schwer und Sie konnten keinen Gepäckträger finden."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Nachdem Sie endlich im Zug saßen, fiel Ihnen ein, dass Sie Ihre Aktenmappe im Büro gelassen hatten."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Glücklicherweise hatte Ihre Sekretärin sie gefunden und sie schnell noch zum Zug gebracht."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Nachdem der Zug abgefahren war, sahen Sie, dass Sie vergessen hatten, sich Reiseliteratur zu besorgen."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Als Sie in Berlin ankamen, fuhren Sie mit einer Taxe zum Hotel."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Sie hatten sich dort telegraphisch ein Zimmer reservieren lassen."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Leider hatte der Empfangschef vergessen, es zu reservieren."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Er hatte aber noch ein Zimmer - ohne Bad - im achten Stock frei."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Am nächsten Tag gingen Sie zu einer Konferenz."
+      },
+      {
+        "sequence_id": 13,
+        "text": "Leider hörten Sie, dass diese schon vor acht Tagen stattgefunden hatte."
+      },
+      {
+        "sequence_id": 14,
+        "text": "Jetzt sind Sie froh, dass Sie wieder zu Hause sind."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

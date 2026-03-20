@@ -1,0 +1,162 @@
+{
+  "title": "unit11_besorgungen",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the person ask the hotel porter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where the theatre is",
+          "is_correct": false
+        },
+        {
+          "answer": "Where a dry cleaner and laundry are nearby",
+          "is_correct": true
+        },
+        {
+          "answer": "Where the bus stop is",
+          "is_correct": false
+        },
+        {
+          "answer": "Where the bank is",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the young woman at the laundry count?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only shirts",
+          "is_correct": false
+        },
+        {
+          "answer": "Your laundry including shirts, sport shirts, socks and underwear",
+          "is_correct": true
+        },
+        {
+          "answer": "Just socks",
+          "is_correct": false
+        },
+        {
+          "answer": "Only sports shirts",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "After dropping off the laundry, where does the person go next?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To a conference",
+          "is_correct": false
+        },
+        {
+          "answer": "To the cobbler",
+          "is_correct": true
+        },
+        {
+          "answer": "To the theatre",
+          "is_correct": false
+        },
+        {
+          "answer": "To a restaurant",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the person ask the cobbler?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How much the shoes cost",
+          "is_correct": false
+        },
+        {
+          "answer": "How much resoling costs",
+          "is_correct": true
+        },
+        {
+          "answer": "How many shoes he has",
+          "is_correct": false
+        },
+        {
+          "answer": "What time it is",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Who tells the person where the pharmacy is?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The hotel porter",
+          "is_correct": false
+        },
+        {
+          "answer": "A child",
+          "is_correct": true
+        },
+        {
+          "answer": "The secretary",
+          "is_correct": false
+        },
+        {
+          "answer": "The cobbler",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Fragen Sie den Portier Ihres Hotels, wo in der Nähe eine Reinigung und eine Wäscherei ist."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Dann bringen Sie Ihre Wäsche und zwei Anzüge dorthin."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Das Fräulein in der Wäscherei zählt Ihre Wäsche, vier Oberhemden, zwei Sporthemden, Socken, Unterwäsche – und Sie fragen, wann Sie wieder alles abholen können."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Dann gehen Sie zum Schuster und holen Ihre Schuhe ab."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Sie fragen ihn, wieviel das Besohlen kostet."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Auf dem Nachhauseweg fragen Sie ein Kind, wo eine Apotheke ist."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Das Kind sagt es Ihnen und dann sprechen Sie noch etwas mit ihm, fragen es, wo es wohnt, wie es heisst usw."
+    }
+  ],
+  "metadata": {
+    "page_start": 26,
+    "page_end": 26,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "title": "unit12_unterhaltung_im_buero",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where does the conversation take place?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In a restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "In an office",
+            "is_correct": true
+          },
+          {
+            "answer": "In a theatre",
+            "is_correct": false
+          },
+          {
+            "answer": "In a hotel",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What event did both you and Herr Becker attend the previous day?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A sports game",
+            "is_correct": false
+          },
+          {
+            "answer": "A museum exhibition",
+            "is_correct": false
+          },
+          {
+            "answer": "An opera",
+            "is_correct": true
+          },
+          {
+            "answer": "A film screening",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How did Herr Becker feel about the opera?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He loved it",
+            "is_correct": false
+          },
+          {
+            "answer": "It didn't appeal to him",
+            "is_correct": true
+          },
+          {
+            "answer": "He fell asleep",
+            "is_correct": false
+          },
+          {
+            "answer": "He didn't see it",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What type of music does Herr Becker dislike?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Classical music",
+            "is_correct": false
+          },
+          {
+            "answer": "Modern music",
+            "is_correct": true
+          },
+          {
+            "answer": "Jazz",
+            "is_correct": false
+          },
+          {
+            "answer": "Folk music",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What do you ask Herr Becker after discussing the opera?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Whether he will go to the cinema",
+            "is_correct": false
+          },
+          {
+            "answer": "If he has seen the American General Consul",
+            "is_correct": true
+          },
+          {
+            "answer": "How his family is",
+            "is_correct": false
+          },
+          {
+            "answer": "Where he lives",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What happens after you talk about other acquaintances?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "You leave separately",
+            "is_correct": false
+          },
+          {
+            "answer": "You go home to rest",
+            "is_correct": false
+          },
+          {
+            "answer": "You go to a restaurant together",
+            "is_correct": true
+          },
+          {
+            "answer": "You buy tickets",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "How did you feel about the opera?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "You disliked it",
+            "is_correct": false
+          },
+          {
+            "answer": "You liked it but prefer other music",
+            "is_correct": true
+          },
+          {
+            "answer": "You haven't seen it",
+            "is_correct": false
+          },
+          {
+            "answer": "You fell asleep",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie unterhalten sich im Büro mit Herrn Becker."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Sie waren beide gestern in der Oper."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Herr Becker sagt, die Oper hat ihm nicht gut gefallen."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Er hört moderne Musik nicht gern."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Sie sagen, dass Ihnen die Oper ganz gut gefallen hat, aber dass Sie auch lieber andere Musik hören."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Dann fragen Sie Herrn Becker, ob er gestern auch den amerikanischen Generalkonsul gesehen hat."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Sie sprechen noch über einige andere Bekannte und dann gehen Sie zusammen essen."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

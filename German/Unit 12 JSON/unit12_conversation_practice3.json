@@ -1,0 +1,156 @@
+[
+  {
+    "title": "unit12_conversation_practice3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where did the Consul stay until recently?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In a hotel",
+            "is_correct": true
+          },
+          {
+            "answer": "In the American colony",
+            "is_correct": false
+          },
+          {
+            "answer": "In his own house",
+            "is_correct": false
+          },
+          {
+            "answer": "At the embassy",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Where are they living now?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In the American settlement",
+            "is_correct": true
+          },
+          {
+            "answer": "In the French quarter",
+            "is_correct": false
+          },
+          {
+            "answer": "In the city center",
+            "is_correct": false
+          },
+          {
+            "answer": "In the suburbs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "When did they move to the American settlement?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yesterday",
+            "is_correct": true
+          },
+          {
+            "answer": "A week ago",
+            "is_correct": false
+          },
+          {
+            "answer": "A month ago",
+            "is_correct": false
+          },
+          {
+            "answer": "Today",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What question does the speaker ask about the Consul's wife?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Whether she had a pleasant crossing",
+            "is_correct": true
+          },
+          {
+            "answer": "Whether she found a house",
+            "is_correct": false
+          },
+          {
+            "answer": "Whether she stayed behind",
+            "is_correct": false
+          },
+          {
+            "answer": "Whether she likes the new settlement",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How was the Consul's wife's voyage?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "She was seasick most of the time",
+            "is_correct": true
+          },
+          {
+            "answer": "She enjoyed it",
+            "is_correct": false
+          },
+          {
+            "answer": "She didn't travel",
+            "is_correct": false
+          },
+          {
+            "answer": "She was very busy",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Wohnen Sie noch immer im Hotel, Herr Generalkonsul?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Nein, gnädige Frau, seit gestern wohnen wir in der amerikanischen Siedlung."
+      },
+      {
+        "sequence_id": 3,
+        "text": "B: Meine Frau ist jetzt auch hier."
+      },
+      {
+        "sequence_id": 4,
+        "text": "A: Hat Ihre Frau Gemahlin eine angenehme Überfahrt gehabt?"
+      },
+      {
+        "sequence_id": 5,
+        "text": "B: Leider nein; sie ist fast die ganze Zeit seekrank gewesen."
+      }
+    ],
+    "metadata": {
+      "page_start": 22,
+      "page_end": 22,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

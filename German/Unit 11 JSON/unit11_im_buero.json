@@ -1,0 +1,154 @@
+{
+  "title": "unit11_im_buero",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What must the person tell his secretary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That he will be late for lunch",
+          "is_correct": false
+        },
+        {
+          "answer": "That he has to attend an important conference",
+          "is_correct": true
+        },
+        {
+          "answer": "That she should go home",
+          "is_correct": false
+        },
+        {
+          "answer": "That his parents are visiting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the conference about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A business trip",
+          "is_correct": false
+        },
+        {
+          "answer": "The new import regulations",
+          "is_correct": true
+        },
+        {
+          "answer": "An office party",
+          "is_correct": false
+        },
+        {
+          "answer": "A family reunion",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What should the secretary do before he leaves?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Write a letter",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to the post office and translate an article",
+          "is_correct": true
+        },
+        {
+          "answer": "Cook lunch",
+          "is_correct": false
+        },
+        {
+          "answer": "Call his friend",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Who will arrive and wants to fill out forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His friend Klaus",
+          "is_correct": false
+        },
+        {
+          "answer": "Dr. Bergmann",
+          "is_correct": true
+        },
+        {
+          "answer": "His parents",
+          "is_correct": false
+        },
+        {
+          "answer": "The porter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What message should be given to his wife?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She should visit him at noon",
+          "is_correct": false
+        },
+        {
+          "answer": "She should call him later",
+          "is_correct": false
+        },
+        {
+          "answer": "She wants to pick him up at six in the evening",
+          "is_correct": true
+        },
+        {
+          "answer": "She wants to go shopping",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Sagen Sie Ihrer Sekretärin, dass Sie zu einer wichtigen Konferenz gehen müssen."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Es handelt sich um die neuen Einfuhrbestimmungen, und Sie brauchen dafür die Unterlagen."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Bevor Sie gehen, sagen Sie ihr, was sie noch machen soll."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Zum Beispiel soll sie noch mal zur Post gehen, einen Artikel übersetzen."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Herr Dr. Bergmann kommt, und er will einige Formulare ausfüllen, und Ihrer Frau ausrichten, dass sie Sie heute abend um sechs Uhr abholen möchte."
+    }
+  ],
+  "metadata": {
+    "page_start": 26,
+    "page_end": 26,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

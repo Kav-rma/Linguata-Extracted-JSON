@@ -1,0 +1,166 @@
+{
+  "title": "unit11_am_telephon",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Whom does Gerhard Becker call?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His dentist",
+          "is_correct": false
+        },
+        {
+          "answer": "His friend Klaus König",
+          "is_correct": true
+        },
+        {
+          "answer": "His secretary",
+          "is_correct": false
+        },
+        {
+          "answer": "His parents",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Why can't Klaus go to Munich with Gerhard?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is busy with work",
+          "is_correct": false
+        },
+        {
+          "answer": "He has to go to the dentist and expects his parents",
+          "is_correct": true
+        },
+        {
+          "answer": "He doesn't like Munich",
+          "is_correct": false
+        },
+        {
+          "answer": "He has no money",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does Gerhard ask his friend about meeting?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To go shopping",
+          "is_correct": false
+        },
+        {
+          "answer": "To eat lunch now",
+          "is_correct": true
+        },
+        {
+          "answer": "To go to the theatre",
+          "is_correct": false
+        },
+        {
+          "answer": "To visit a museum",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How long will Klaus's parents stay?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One day",
+          "is_correct": false
+        },
+        {
+          "answer": "Two to three days",
+          "is_correct": true
+        },
+        {
+          "answer": "One week",
+          "is_correct": false
+        },
+        {
+          "answer": "A month",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "At what time do Gerhard and Klaus plan to meet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "10:00",
+          "is_correct": false
+        },
+        {
+          "answer": "12:30",
+          "is_correct": true
+        },
+        {
+          "answer": "14:00",
+          "is_correct": false
+        },
+        {
+          "answer": "18:00",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Gerhard Becker ruft seinen Freund, Klaus König, an."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Er fragt ihn, ob er mit ihm am Wochenende nach München fahren will."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Klaus hat leider keine Zeit, er muss am Sonnabend zum Zahnarzt und Sonntag früh erwartet er seine Eltern."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Gerhard fragt, wie lange seine Eltern bleiben wollen und was sie vorhaben."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Klaus sagt, dass seine Eltern nur zwei bis drei Tage bleiben werden und dass er ihnen die Stadt zeigen will."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Am Sonntag abend will er mit ihnen ins Theater gehen."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Dann fragt Gerhard seinen Freund, ob er jetzt mit ihm zu Mittag essen will."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Klaus hat Zeit und beide wollen um 12:30 Uhr im Restaurant am Markt sein."
+    }
+  ],
+  "metadata": {
+    "page_start": 26,
+    "page_end": 26,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

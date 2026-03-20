@@ -1,0 +1,192 @@
+[
+  {
+    "title": "unit12_conversation_practice4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Did the doctor attend the opera yesterday?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Yes",
+            "is_correct": true
+          },
+          {
+            "answer": "No",
+            "is_correct": false
+          },
+          {
+            "answer": "He isn't sure",
+            "is_correct": false
+          },
+          {
+            "answer": "He plans to attend next week",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "How did the doctor find the performance?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The performance was good but not the music",
+            "is_correct": true
+          },
+          {
+            "answer": "The performance was bad",
+            "is_correct": false
+          },
+          {
+            "answer": "The music was great",
+            "is_correct": false
+          },
+          {
+            "answer": "He didn't watch it",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What type of opera was it?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A very modern opera",
+            "is_correct": true
+          },
+          {
+            "answer": "A classical opera",
+            "is_correct": false
+          },
+          {
+            "answer": "A comedy",
+            "is_correct": false
+          },
+          {
+            "answer": "A ballet",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Does the doctor like modern music?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes",
+            "is_correct": false
+          },
+          {
+            "answer": "Sometimes",
+            "is_correct": false
+          },
+          {
+            "answer": "He hasn't heard it",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Why did he go to the opera even though he doesn't like modern music?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because he has a theater subscription",
+            "is_correct": true
+          },
+          {
+            "answer": "Because he loves the opera house",
+            "is_correct": false
+          },
+          {
+            "answer": "Because friends invited him",
+            "is_correct": false
+          },
+          {
+            "answer": "Because he was curious",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What was the doctor's short reply when asked if the performance was good?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ja",
+            "is_correct": true
+          },
+          {
+            "answer": "Nein",
+            "is_correct": false
+          },
+          {
+            "answer": "Vielleicht",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich weiß nicht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Sind Sie gestern in der Oper gewesen, Herr Doktor?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Ja."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: War die Aufführung gut?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Die Aufführung ja, aber nicht die Musik!"
+      },
+      {
+        "sequence_id": 5,
+        "text": "A: Es war eine ganz moderne Oper. Gefällt Ihnen die moderne Musik nicht?"
+      },
+      {
+        "sequence_id": 6,
+        "text": "B: Nein."
+      },
+      {
+        "sequence_id": 7,
+        "text": "A: Warum sind Sie denn dann in die Oper gegangen?"
+      },
+      {
+        "sequence_id": 8,
+        "text": "B: Weil ich ein Theater-Abonnement habe."
+      }
+    ],
+    "metadata": {
+      "page_start": 22,
+      "page_end": 22,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

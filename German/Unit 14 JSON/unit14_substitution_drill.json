@@ -1,0 +1,783 @@
+[
+  {
+    "title": "unit14_substitution_drill",
+    "type": "writing",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Reiselektüre'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm die Reiselektüre gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Meldeschein'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm den Meldeschein gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Reisepass'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm den Reisepass gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Scheck'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm den Scheck gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Theaterkarten'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm die Theaterkarten gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Bericht'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm den Bericht gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Einfuhrbestimmungen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm die Einfuhrbestimmungen gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Zeitung'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm die Zeitung gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Write a German sentence using the pattern 'Sie hat ihm die Fahrkarte gebracht.' with the word 'Artikel'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie hat ihm den Artikel gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Write a German sentence using the pattern 'Nach der Konferenz setzte er sich mit dem Betriebsleiter in Verbindung.' with the word 'Besprechung'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Nach der Besprechung setzte er sich mit dem Betriebsleiter in Verbindung.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Write a German sentence using the pattern 'Nach der Konferenz setzte er sich mit dem Betriebsleiter in Verbindung.' with the word 'Ferngespräch'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Nach dem Ferngespräch setzte er sich mit dem Betriebsleiter in Verbindung.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Write a German sentence using the pattern 'Nach der Konferenz setzte er sich mit dem Betriebsleiter in Verbindung.' with the word 'Reise'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Nach der Reise setzte er sich mit dem Betriebsleiter in Verbindung.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Write a German sentence using the pattern 'Nach der Konferenz setzte er sich mit dem Betriebsleiter in Verbindung.' with the word 'Diskussion'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Nach der Diskussion setzte er sich mit dem Betriebsleiter in Verbindung.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Write a German sentence using the pattern 'Nach der Konferenz setzte er sich mit dem Betriebsleiter in Verbindung.' with the word 'Anruf'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Nach dem Anruf setzte er sich mit dem Betriebsleiter in Verbindung.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Write a German sentence using the pattern 'Nach der Konferenz setzte er sich mit dem Betriebsleiter in Verbindung.' with the word 'Vortrag'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Nach dem Vortrag setzte er sich mit dem Betriebsleiter in Verbindung.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Write a German sentence using the pattern 'Vor der Geschäftsreise hat er Herrn Meyer angerufen.' with the word 'Aufführung'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Vor der Aufführung hat er Herrn Meyer angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Write a German sentence using the pattern 'Vor der Geschäftsreise hat er Herrn Meyer angerufen.' with the word 'Besprechung'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Vor der Besprechung hat er Herrn Meyer angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Write a German sentence using the pattern 'Vor der Geschäftsreise hat er Herrn Meyer angerufen.' with the word 'Vortrag'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Vor dem Vortrag hat er Herrn Meyer angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Write a German sentence using the pattern 'Vor der Geschäftsreise hat er Herrn Meyer angerufen.' with the word 'Rückreise'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Vor der Rückreise hat er Herrn Meyer angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Write a German sentence using the pattern 'Vor der Geschäftsreise hat er Herrn Meyer angerufen.' with the word 'Konzert'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Vor dem Konzert hat er Herrn Meyer angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Write a German sentence using the pattern 'Vor der Geschäftsreise hat er Herrn Meyer angerufen.' with the word 'Abfahrt'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Vor der Abfahrt hat er Herrn Meyer angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Write a German sentence using the pattern 'Hat er heute morgen vergessen, die Zeitung zu kaufen?' with the phrase 'heute abend'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hat er heute abend vergessen, die Zeitung zu kaufen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Write a German sentence using the pattern 'Hat er heute morgen vergessen, die Zeitung zu kaufen?' with the phrase 'heute vormittag'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hat er heute vormittag vergessen, die Zeitung zu kaufen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Write a German sentence using the pattern 'Hat er heute morgen vergessen, die Zeitung zu kaufen?' with the phrase 'heute früh'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hat er heute früh vergessen, die Zeitung zu kaufen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Write a German sentence using the pattern 'Hat er heute morgen vergessen, die Zeitung zu kaufen?' with the phrase 'heute nachmittag'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hat er heute nachmittag vergessen, die Zeitung zu kaufen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Write a German sentence using the pattern 'Hat er heute morgen vergessen, die Zeitung zu kaufen?' with the phrase 'gestern früh'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hat er gestern früh vergessen, die Zeitung zu kaufen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Write a German sentence using the pattern 'Hat er heute morgen vergessen, die Zeitung zu kaufen?' with the phrase 'gestern abend'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hat er gestern abend vergessen, die Zeitung zu kaufen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Write a German sentence using the pattern 'Hat er heute morgen vergessen, die Zeitung zu kaufen?' with the phrase 'gestern mittag'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hat er gestern mittag vergessen, die Zeitung zu kaufen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Write a German sentence using the pattern 'Wir beabsichtigen eine Reise zu machen.' with the phrase 'zum Wirtschaftsministerium zu fahren'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Wir beabsichtigen zum Wirtschaftsministerium zu fahren.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Write a German sentence using the pattern 'Wir beabsichtigen eine Reise zu machen.' with the phrase 'zur Ausstellung zu gehen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Wir beabsichtigen zur Ausstellung zu gehen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Write a German sentence using the pattern 'Wir beabsichtigen eine Reise zu machen.' with the phrase 'Herrn Becker zum Bahnhof zu begleiten'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Wir beabsichtigen Herrn Becker zum Bahnhof zu begleiten.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Write a German sentence using the pattern 'Wir beabsichtigen eine Reise zu machen.' with the phrase 'am Kiosk Zeitungen zu kaufen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Wir beabsichtigen am Kiosk Zeitungen zu kaufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Write a German sentence using the pattern 'Wir beabsichtigen eine Reise zu machen.' with the phrase 'ein Theater-Abonnement zu nehmen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Wir beabsichtigen ein Theater-Abonnement zu nehmen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Write a German sentence using the pattern 'Wir beabsichtigen eine Reise zu machen.' with the phrase 'in Bremen ein Haus zu mieten'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Wir beabsichtigen in Bremen ein Haus zu mieten.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Write a German sentence using the pattern 'Haben Sie schon angefangen, den Artikel zu schreiben?' with the phrase 'das Buch zu lesen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Haben Sie schon angefangen, das Buch zu lesen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Write a German sentence using the pattern 'Haben Sie schon angefangen, den Artikel zu schreiben?' with the phrase 'den Koffer zu packen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Haben Sie schon angefangen, den Koffer zu packen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Write a German sentence using the pattern 'Haben Sie schon angefangen, den Artikel zu schreiben?' with the phrase 'den Bericht zu übersetzen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Haben Sie schon angefangen, den Bericht zu übersetzen?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Write a German sentence using the pattern 'Haben Sie schon angefangen, den Artikel zu schreiben?' with the phrase 'Ihre Wohnung einzurichten'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Haben Sie schon angefangen, Ihre Wohnung einzurichten?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Write a German sentence using the pattern 'Haben Sie schon angefangen, den Artikel zu schreiben?' with the phrase 'die Kisten auszupacken'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Haben Sie schon angefangen, die Kisten auszupacken?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Write a German sentence using the pattern 'Haben Sie schon angefangen, den Artikel zu schreiben?' with the phrase 'den Brief zu diktieren'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Haben Sie schon angefangen, den Brief zu diktieren?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Write a German sentence using the pattern 'Er hat vergessen, seine Aktenmappe mitzunehmen.' with the phrase 'sich ein Hotelzimmer reservieren zu lassen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hat vergessen, sich ein Hotelzimmer reservieren zu lassen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Write a German sentence using the pattern 'Er hat vergessen, seine Aktenmappe mitzunehmen.' with the phrase 'Theaterkarten zu besorgen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hat vergessen, Theaterkarten zu besorgen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "Write a German sentence using the pattern 'Er hat vergessen, seine Aktenmappe mitzunehmen.' with the phrase 'eine Fahrkarte zu lösen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hat vergessen, eine Fahrkarte zu lösen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "Write a German sentence using the pattern 'Er hat vergessen, seine Aktenmappe mitzunehmen.' with the phrase 'seine Koffer zur Gepäckaufgabe zu bringen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hat vergessen, seine Koffer zur Gepäckaufgabe zu bringen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "Write a German sentence using the pattern 'Er hat vergessen, seine Aktenmappe mitzunehmen.' with the phrase 'sich Reiselektüre zu kaufen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hat vergessen, sich Reiselektüre zu kaufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "Write a German sentence using the pattern 'Er hat vergessen, seine Aktenmappe mitzunehmen.' with the phrase 'die Anrufe zu erledigen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hat vergessen, die Anrufe zu erledigen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "Write a German sentence using the pattern 'Ich bat ihn, das Gepäck zur Gepäckaufgabe zu bringen.' with the phrase 'mich zum Zug zu begleiten'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich bat ihn, mich zum Zug zu begleiten.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "Write a German sentence using the pattern 'Ich bat ihn, das Gepäck zur Gepäckaufgabe zu bringen.' with the phrase 'die Fahrkarten für uns zu lösen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich bat ihn, die Fahrkarten für uns zu lösen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "Write a German sentence using the pattern 'Ich bat ihn, das Gepäck zur Gepäckaufgabe zu bringen.' with the phrase 'uns ein Doppelzimmer zu reservieren'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich bat ihn, uns ein Doppelzimmer zu reservieren.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "Write a German sentence using the pattern 'Ich bat ihn, das Gepäck zur Gepäckaufgabe zu bringen.' with the phrase 'mich vom Wirtschaftsministerium abzuholen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich bat ihn, mich vom Wirtschaftsministerium abzuholen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "Write a German sentence using the pattern 'Ich bat ihn, das Gepäck zur Gepäckaufgabe zu bringen.' with the phrase 'den Koffer ins Abteil zu bringen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich bat ihn, den Koffer ins Abteil zu bringen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "Write a German sentence using the pattern 'Ich bat ihn, das Gepäck zur Gepäckaufgabe zu bringen.' with the phrase 'die Besorgungen für mich zu erledigen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich bat ihn, die Besorgungen für mich zu erledigen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "Write a German sentence using the pattern 'Versuchen Sie doch Theaterkarten zu bekommen.' with the phrase 'mit dem späteren Zug zu fahren'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Versuchen Sie doch mit dem späteren Zug zu fahren.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "Write a German sentence using the pattern 'Versuchen Sie doch Theaterkarten zu bekommen.' with the phrase 'Herrn Meyer zum Bahnhof zu bringen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Versuchen Sie doch Herrn Meyer zum Bahnhof zu bringen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "Write a German sentence using the pattern 'Versuchen Sie doch Theaterkarten zu bekommen.' with the phrase 'sich mit dem Gewerkschaftssekretär in Verbindung zu setzen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Versuchen Sie doch sich mit dem Gewerkschaftssekretär in Verbindung zu setzen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "Write a German sentence using the pattern 'Versuchen Sie doch Theaterkarten zu bekommen.' with the phrase 'das Wirtschaftsministerium anzurufen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Versuchen Sie doch das Wirtschaftsministerium anzurufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "Write a German sentence using the pattern 'Versuchen Sie doch Theaterkarten zu bekommen.' with the phrase 'die Ausstellung zu besuchen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Versuchen Sie doch die Ausstellung zu besuchen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "Write a German sentence using the pattern 'Versuchen Sie doch Theaterkarten zu bekommen.' with the phrase 'einen Abstecher nach Hannover zu machen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Versuchen Sie doch einen Abstecher nach Hannover zu machen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "Write a German sentence using the pattern 'Er hatte nicht vor, soviel Geld auszugeben.' with the phrase 'so lange zu bleiben'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hatte nicht vor, so lange zu bleiben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "Write a German sentence using the pattern 'Er hatte nicht vor, soviel Geld auszugeben.' with the phrase 'zu der Gesellschaft zu gehen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hatte nicht vor, zu der Gesellschaft zu gehen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "Write a German sentence using the pattern 'Er hatte nicht vor, soviel Geld auszugeben.' with the phrase 'eine Bergtour zu machen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hatte nicht vor, eine Bergtour zu machen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "Write a German sentence using the pattern 'Er hatte nicht vor, soviel Geld auszugeben.' with the phrase 'eine lange Erklärung abzugeben'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hatte nicht vor, eine lange Erklärung abzugeben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "Write a German sentence using the pattern 'Er hatte nicht vor, soviel Geld auszugeben.' with the phrase 'einen ausführlichen Artikel zu schreiben'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hatte nicht vor, einen ausführlichen Artikel zu schreiben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "Write a German sentence using the pattern 'Er hatte nicht vor, soviel Geld auszugeben.' with the phrase 'ein Zweifamilienhaus zu kaufen'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Er hatte nicht vor, ein Zweifamilienhaus zu kaufen.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 12,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

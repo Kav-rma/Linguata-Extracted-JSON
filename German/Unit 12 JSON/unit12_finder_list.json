@@ -1,0 +1,975 @@
+[
+  {
+    "title": "unit12_finder_list",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "das Abonnement,-s",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "subscription",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "alle paar Monate",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "every few months",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "als",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "in the capacity of",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "anderthalb",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "one and a half",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "er ist angekommen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he arrived",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "angenehm",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "pleasant, agreeable",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "anstehen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "stand in line",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "er hat anstehen müssen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he had to stand in line",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "die Aufführung,-en",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "performance",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "das Ausland",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "foreign countries",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "der Austauschstudent,-en",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "exchange student",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "das Bad,-¨er",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "bath, bathing place",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "die Berliner Philharmoniker (pl)",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Berlin Philharmonic",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "besuchen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "attend",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "da sein",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "be present, be there",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "dumm",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "stupid",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "zu dumm",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "too bad",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "sich einleben",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "get settled",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "er hat sich eingelebt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he has gotten settled",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "der Empfang,-e",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "reception",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "die Erholung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "recovery, recuperation",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "sich erkundigen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "inquire, ask",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "erst",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "only",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "die Familie,-n",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "family",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "froh",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "glad, happy",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "die Gastgeberin,-nen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "hostess",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "es hat Ihnen gefallen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "you liked it",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "er hat gefunden",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he has found",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "er hat gehabt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he had",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "er hat gelesen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he has read",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "der Generalkonsul,-n",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Consul General",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "er hat genommen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he took",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "das Gesundheitsamt,-¨er",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "board of health",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "er hat getan",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he did",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "sie ist gewesen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "she was",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "im Grossen und Ganzen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "in general, on the whole",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "ja",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "(no English equivalent, implies agreement with the statement)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "der Junge,-n",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "boy",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "die Karte,-n",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "ticket",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "er hat kennengelernt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he met",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "der Kindergarten,-",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "kindergarten",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "die Kleine,-n",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "little girl",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "der Landrat,-¨e",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "head of the administration of a district corresponding roughly to a county",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "die Lehrerin,-nen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "(woman) teacher",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "der Leiter,-",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "director",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "sich lohnen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "be worthwhile",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "lösen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "solve, settle",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "er hat gelöst",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "he solved, settled",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "modern",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "modern",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "neulich",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "recently",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "Norwegen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Norway",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "die Oper,-n",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "opera",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "das Problem,-e",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "problem",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "das Realgymnasium,-en",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "a secondary school in the German educational system",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "der Redakteur,-e",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "editor",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "das Rote Kreuz",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Red Cross",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "das Schulproblem,-e",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "school question",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "das Schwimmbad,-¨er",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "swimming pool",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "seekrank",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "seasick",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "die Seereise,-n",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "voyage",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "sich sehen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "see each other",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "seit kurzem",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "since a short time ago",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "seit vierzehn Tagen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "for two weeks",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "die Siedlung,-en",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "colony, settlement",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 65,
+        "question_text": "der Spieler,-",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "player",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 66,
+        "question_text": "die Sportlehrerin,-nen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "physical education teacher",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 67,
+        "question_text": "Sport treiben",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "engage in athletic activities",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 68,
+        "question_text": "der Student,-en",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "(university) student",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 69,
+        "question_text": "studieren",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "study (at a university)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 70,
+        "question_text": "der Süden",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "south",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 71,
+        "question_text": "in acht Tagen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "in a week",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 72,
+        "question_text": "der Tennisspieler,-",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "tennis player",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 73,
+        "question_text": "das Theater-Abonnement,-s",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "season ticket for the theater",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 74,
+        "question_text": "es tut mir leid",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I'm sorry",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 75,
+        "question_text": "die Überfahrt,-en",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "crossing",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 76,
+        "question_text": "sich unterhalten",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "converse",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 77,
+        "question_text": "verheiratet",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "married",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 78,
+        "question_text": "wäre",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "would be",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 79,
+        "question_text": "sich wohl fühlen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "feel well",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 80,
+        "question_text": "das Zweifamilienhaus,-¨er",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "two-family house",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 25,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

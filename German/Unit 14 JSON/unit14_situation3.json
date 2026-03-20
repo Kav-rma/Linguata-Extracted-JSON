@@ -1,0 +1,300 @@
+[
+  {
+    "title": "unit14_situation3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In welcher Stadt befinden Sie sich am Bahnhof?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In Bremen",
+            "is_correct": true
+          },
+          {
+            "answer": "In Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "In München",
+            "is_correct": false
+          },
+          {
+            "answer": "In Hamburg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Wohin möchten Sie fahren?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nach München",
+            "is_correct": true
+          },
+          {
+            "answer": "Nach Köln",
+            "is_correct": false
+          },
+          {
+            "answer": "Nach Stuttgart",
+            "is_correct": false
+          },
+          {
+            "answer": "Nach Wien",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wie viele grosse Koffer haben Sie?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Drei",
+            "is_correct": true
+          },
+          {
+            "answer": "Zwei",
+            "is_correct": false
+          },
+          {
+            "answer": "Einen",
+            "is_correct": false
+          },
+          {
+            "answer": "Vier",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Wen rufen Sie wegen Ihres Gepäcks?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Einen Gepäckträger",
+            "is_correct": true
+          },
+          {
+            "answer": "Den Schaffner",
+            "is_correct": false
+          },
+          {
+            "answer": "Einen Taxifahrer",
+            "is_correct": false
+          },
+          {
+            "answer": "Den Polizisten",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was fragt der Gepäckträger Sie?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Mit welchem Zug Sie fahren wollen",
+            "is_correct": true
+          },
+          {
+            "answer": "Wie viele Koffer Sie haben",
+            "is_correct": false
+          },
+          {
+            "answer": "Wohin Sie fahren",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob Sie einen Sitzplatz reserviert haben",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Worüber fragen Sie den Gepäckträger nach dem Zug?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Wo man Reiseliteratur kaufen kann",
+            "is_correct": true
+          },
+          {
+            "answer": "Wo man Kaffee bekommt",
+            "is_correct": false
+          },
+          {
+            "answer": "Wie lange die Fahrt dauert",
+            "is_correct": false
+          },
+          {
+            "answer": "Wo der Fahrkartenschalter ist",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Wohin führt der Gepäckträger Sie, um Reiseliteratur zu kaufen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Zum Kiosk",
+            "is_correct": true
+          },
+          {
+            "answer": "Zur Buchhandlung",
+            "is_correct": false
+          },
+          {
+            "answer": "Zum Informationsschalter",
+            "is_correct": false
+          },
+          {
+            "answer": "Zum Zug",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Was kaufen Sie am Kiosk?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Zwei Zeitungen",
+            "is_correct": true
+          },
+          {
+            "answer": "Drei Bücher",
+            "is_correct": false
+          },
+          {
+            "answer": "Eine Fahrkarte",
+            "is_correct": false
+          },
+          {
+            "answer": "Einen Kaffee",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Was teilt Ihnen der Gepäckträger bezüglich des Zuges mit?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Dass der Zug bereits eingefahren ist",
+            "is_correct": true
+          },
+          {
+            "answer": "Dass der Zug Verspätung hat",
+            "is_correct": false
+          },
+          {
+            "answer": "Dass der Zug ausfällt",
+            "is_correct": false
+          },
+          {
+            "answer": "Dass der Zug noch gar nicht angekommen ist",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Wo möchten Sie im Zug sitzen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Am Fenster",
+            "is_correct": true
+          },
+          {
+            "answer": "Im Gang",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Speisewagen",
+            "is_correct": false
+          },
+          {
+            "answer": "Neben der Tür",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie sind auf dem Bahnhof in Bremen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Sie wollen nach München fahren."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Da Sie drei grosse Koffer haben, rufen Sie einen Gepäckträger."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Dieser fragt Sie, mit welchem Zug Sie fahren wollen."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Sie sagen es ihm und fragen ihn dann, wo man sich Reiseliteratur kaufen kann."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Er zeigt Ihnen den Kiosk."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Sie gehen dorthin und kaufen sich zwei Zeitungen."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Dann sagt der Gepäckträger, dass der Zug bereits eingefahren ist und Sie sich beeilen müssen."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Er bringt Ihre Koffer ins Abteil."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Sie sagen ihm, dass Sie gern am Fenster sitzen möchten."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Dann fragen Sie ihn, wieviel er bekommt."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

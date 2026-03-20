@@ -1,0 +1,284 @@
+[
+  {
+    "title": "unit14_situation5",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wo befinden Sie sich, wenn Sie den Empfangschef anrufen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In Ihrem Zimmer im Hotel",
+            "is_correct": true
+          },
+          {
+            "answer": "Am Bahnhof",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Konzertsaal",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Für welche Oper möchten Sie eine Karte?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Für 'Die Zauberflöte'",
+            "is_correct": true
+          },
+          {
+            "answer": "Für 'Die Fledermaus'",
+            "is_correct": false
+          },
+          {
+            "answer": "Für 'Don Giovanni'",
+            "is_correct": false
+          },
+          {
+            "answer": "Für 'Carmen'",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wann möchten Sie die Oper besuchen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Heute abend",
+            "is_correct": true
+          },
+          {
+            "answer": "Morgen",
+            "is_correct": false
+          },
+          {
+            "answer": "Nächste Woche",
+            "is_correct": false
+          },
+          {
+            "answer": "Am Wochenende",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Was teilt der Empfangschef Ihnen mit, nachdem er zurückruft?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Dass er eine Karte im Parkett bekommen konnte",
+            "is_correct": true
+          },
+          {
+            "answer": "Dass die Oper ausverkauft ist",
+            "is_correct": false
+          },
+          {
+            "answer": "Dass die Oper abgesagt wurde",
+            "is_correct": false
+          },
+          {
+            "answer": "Dass die Karten sehr teuer sind",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Wo können Sie die Karte abholen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "An der Kasse der Staatsoper",
+            "is_correct": true
+          },
+          {
+            "answer": "Im Hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "Am Bahnhof",
+            "is_correct": false
+          },
+          {
+            "answer": "Im Restaurant",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Was fragen Sie den Empfangschef noch?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ob es in der Nähe der Oper ein gutes Restaurant gibt",
+            "is_correct": true
+          },
+          {
+            "answer": "Wie spät die Oper beginnt",
+            "is_correct": false
+          },
+          {
+            "answer": "Wo der nächste Bahnhof ist",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob er auch Konzertkarten besorgen kann",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Wie beschreibt der Empfangschef das Restaurant in der Nähe der Oper?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Als nett und klein",
+            "is_correct": true
+          },
+          {
+            "answer": "Als groß und teuer",
+            "is_correct": false
+          },
+          {
+            "answer": "Als laut und voll",
+            "is_correct": false
+          },
+          {
+            "answer": "Als modern und elegant",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Wo befindet sich das Restaurant laut dem Empfangschef?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Neben der Oper",
+            "is_correct": true
+          },
+          {
+            "answer": "Gegenüber dem Bahnhof",
+            "is_correct": false
+          },
+          {
+            "answer": "Im gleichen Gebäude wie das Hotel",
+            "is_correct": false
+          },
+          {
+            "answer": "Am Stadtrand",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Wen rufen Sie an, um die Karte zu bestellen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Den Empfangschef",
+            "is_correct": true
+          },
+          {
+            "answer": "Den Dirigenten",
+            "is_correct": false
+          },
+          {
+            "answer": "Den Konzertmeister",
+            "is_correct": false
+          },
+          {
+            "answer": "Das Reisebüro",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Welche Art von Karte konnte der Empfangschef besorgen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Eine Karte im Parkett",
+            "is_correct": true
+          },
+          {
+            "answer": "Eine Stehplatzkarte",
+            "is_correct": false
+          },
+          {
+            "answer": "Eine Logenkarte",
+            "is_correct": false
+          },
+          {
+            "answer": "Eine Karte auf dem Balkon",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie sind in Ihrem Zimmer im Hotel."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Sie rufen den Empfangschef an und bitten ihn, Ihnen für heute abend noch eine Karte für \"Die Zauberflöte\" zu besorgen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Der Empfangschef will es versuchen."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Er ruft zurück und sagt Ihnen, dass er noch eine Karte im Parkett für Sie bekommen konnte."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Sie können die Karte heute abend an der Kasse der Staatsoper abholen."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Sie danken ihm und dann fragen Sie ihn, ob in der Nähe der Oper ein gutes Restaurant ist, wo Sie vorher essen können."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Der Empfangschef sagt Ihnen, dass neben der Oper ein nettes, kleines Restaurant ist."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

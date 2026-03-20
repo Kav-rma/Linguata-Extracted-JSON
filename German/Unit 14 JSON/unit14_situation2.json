@@ -1,0 +1,288 @@
+[
+  {
+    "title": "unit14_situation2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Wohin muss Herr Allen reisen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Nach Berlin",
+            "is_correct": true
+          },
+          {
+            "answer": "Nach München",
+            "is_correct": false
+          },
+          {
+            "answer": "Nach Hamburg",
+            "is_correct": false
+          },
+          {
+            "answer": "Nach Bremen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Welches Verkehrsmittel hat Herr Allen in Deutschland noch nicht benutzt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Den Zug",
+            "is_correct": true
+          },
+          {
+            "answer": "Das Auto",
+            "is_correct": false
+          },
+          {
+            "answer": "Das Flugzeug",
+            "is_correct": false
+          },
+          {
+            "answer": "Das Fahrrad",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Wen bittet Herr Allen, ihn zum Bahnhof zu begleiten?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herrn Müller",
+            "is_correct": true
+          },
+          {
+            "answer": "Herrn Schmidt",
+            "is_correct": false
+          },
+          {
+            "answer": "Seine Sekretärin",
+            "is_correct": false
+          },
+          {
+            "answer": "Seinen Sohn",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Um wie viel Uhr will Herr Allen abends fahren?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Um zweiundzwanzig Uhr fünfunddreißig",
+            "is_correct": true
+          },
+          {
+            "answer": "Um achtzehn Uhr",
+            "is_correct": false
+          },
+          {
+            "answer": "Um sechzehn Uhr",
+            "is_correct": false
+          },
+          {
+            "answer": "Um neun Uhr",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Was möchte Herr Allen mit seinen zwei Koffern tun?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Er möchte sie zur Gepäckaufgabe bringen",
+            "is_correct": true
+          },
+          {
+            "answer": "Er möchte sie im Hotel lassen",
+            "is_correct": false
+          },
+          {
+            "answer": "Er möchte sie einem Freund geben",
+            "is_correct": false
+          },
+          {
+            "answer": "Er möchte sie nach Hause schicken",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Was fragt Herr Müller bezüglich des Gepäcks?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ob Herr Allen viel Gepäck hat",
+            "is_correct": true
+          },
+          {
+            "answer": "Wie schwer die Koffer sind",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob die Koffer versichert sind",
+            "is_correct": false
+          },
+          {
+            "answer": "Ob er einen Gepäckträger braucht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Wozu lädt Herr Müller Herrn Allen ein?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Zum Abendbrot",
+            "is_correct": true
+          },
+          {
+            "answer": "Zum Frühstück",
+            "is_correct": false
+          },
+          {
+            "answer": "Zu einem Spaziergang",
+            "is_correct": false
+          },
+          {
+            "answer": "Zu einer Konferenz",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Wie viele grosse Koffer hat Herr Allen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Zwei",
+            "is_correct": true
+          },
+          {
+            "answer": "Drei",
+            "is_correct": false
+          },
+          {
+            "answer": "Einen",
+            "is_correct": false
+          },
+          {
+            "answer": "Vier",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Wann will Herr Müller Herrn Allen mit dem Wagen zum Bahnhof fahren?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Um halb zehn",
+            "is_correct": true
+          },
+          {
+            "answer": "Um neun",
+            "is_correct": false
+          },
+          {
+            "answer": "Um elf",
+            "is_correct": false
+          },
+          {
+            "answer": "Um acht",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Was ist das Ziel von Herrn Allens Reise?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Geschäftlich",
+            "is_correct": true
+          },
+          {
+            "answer": "Urlaub",
+            "is_correct": false
+          },
+          {
+            "answer": "Familienbesuch",
+            "is_correct": false
+          },
+          {
+            "answer": "Sprachkurs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Herr Allen sagt Herrn Müller, dass er eine Geschäftsreise nach Berlin machen muss."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Er ist in Deutschland noch nicht mit dem Zug gefahren und bittet Herrn Müller, ihn zum Bahnhof zu begleiten."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Herr Müller will das gern tun und fragt, wann Herr Allen fahren will."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Herr Allen hat vor, abends um zweiundzwanzig Uhr fünfunddreißig zu fahren."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Herr Müller will wissen, ob er viel Gepäck hat."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Herr Allen hat zwei grosse Koffer und möchte sie zur Gepäckaufgabe bringen."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Herr Müller sagt, Herr Allen möchte zum Abendbrot zu ihm kommen."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Um halb zehn will er ihn mit seinem Wagen zum Bahnhof fahren."
+      }
+    ],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 23,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

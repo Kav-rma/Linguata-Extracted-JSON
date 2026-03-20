@@ -1,0 +1,172 @@
+[
+  {
+    "title": "unit12_conversation_practice1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where does the conversation ask if the person is going in the evening?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "to a concert",
+            "is_correct": true
+          },
+          {
+            "answer": "to a restaurant",
+            "is_correct": false
+          },
+          {
+            "answer": "to the movies",
+            "is_correct": false
+          },
+          {
+            "answer": "to the theater",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Why doesn't the person have a subscription this year?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because he has many business trips",
+            "is_correct": true
+          },
+          {
+            "answer": "Because he cannot afford one",
+            "is_correct": false
+          },
+          {
+            "answer": "Because he forgot to renew",
+            "is_correct": false
+          },
+          {
+            "answer": "Because he disliked last year's concerts",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Who informed the speaker about the person's upcoming trip to Norway?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Herr Dr. Bergmann",
+            "is_correct": true
+          },
+          {
+            "answer": "Herr Jones",
+            "is_correct": false
+          },
+          {
+            "answer": "Mrs. Jones",
+            "is_correct": false
+          },
+          {
+            "answer": "Herr Becker",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Has the person been to Norway before?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, not yet",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, once",
+            "is_correct": false
+          },
+          {
+            "answer": "Yes, many times",
+            "is_correct": false
+          },
+          {
+            "answer": "Only once",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How does the person feel about the upcoming trip?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are excited",
+            "is_correct": true
+          },
+          {
+            "answer": "They are indifferent",
+            "is_correct": false
+          },
+          {
+            "answer": "They are nervous",
+            "is_correct": false
+          },
+          {
+            "answer": "They are disappointed",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A: Gehen Sie heute abend auch ins Konzert?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "B: Nein, ich habe leider keine Karten bekommen können."
+      },
+      {
+        "sequence_id": 3,
+        "text": "A: Haben Sie denn kein Abonnement?"
+      },
+      {
+        "sequence_id": 4,
+        "text": "B: Voriges Jahr habe ich eins gehabt."
+      },
+      {
+        "sequence_id": 5,
+        "text": "B: Dieses Jahr habe ich mir keines genommen, da ich viele Geschäftsreisen machen muss."
+      },
+      {
+        "sequence_id": 6,
+        "text": "A: Ach ja, Herr Dr. Bergmann hat mir gesagt, dass Sie nächste Woche nach Norwegen fahren."
+      },
+      {
+        "sequence_id": 7,
+        "text": "A: Sind Sie schon einmal dort gewesen?"
+      },
+      {
+        "sequence_id": 8,
+        "text": "B: Nein, noch nicht."
+      },
+      {
+        "sequence_id": 9,
+        "text": "B: Ich freue mich schon auf diese Reise."
+      }
+    ],
+    "metadata": {
+      "page_start": 22,
+      "page_end": 22,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]
