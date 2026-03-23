@@ -1,0 +1,278 @@
+{
+  "title": "unit15_situation1",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the purpose of Herr Jones's trip to Munich?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To attend a wedding",
+          "is_correct": false
+        },
+        {
+          "answer": "To go sightseeing",
+          "is_correct": false
+        },
+        {
+          "answer": "To attend a conference",
+          "is_correct": true
+        },
+        {
+          "answer": "To visit his family",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Who is Herr Jones's acquaintance in Munich?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herr Bauer",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Allen",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Becker",
+          "is_correct": true
+        },
+        {
+          "answer": "Herr Schmidt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When does Herr Jones plan to arrive in Munich?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "10 May",
+          "is_correct": false
+        },
+        {
+          "answer": "15 May",
+          "is_correct": true
+        },
+        {
+          "answer": "20 May",
+          "is_correct": false
+        },
+        {
+          "answer": "16 May",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does Herr Jones ask Herr Becker?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To pick him up at the airport",
+          "is_correct": false
+        },
+        {
+          "answer": "To show him the city",
+          "is_correct": true
+        },
+        {
+          "answer": "To find him a hotel room",
+          "is_correct": false
+        },
+        {
+          "answer": "To attend a meeting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What event does Herr Becker invite Herr Jones to on May 16?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A conference meeting",
+          "is_correct": false
+        },
+        {
+          "answer": "A museum visit",
+          "is_correct": false
+        },
+        {
+          "answer": "Going to the theater",
+          "is_correct": true
+        },
+        {
+          "answer": "A dinner",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Herr Becker plan to obtain?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A plane ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "A theater ticket",
+          "is_correct": true
+        },
+        {
+          "answer": "A hotel reservation",
+          "is_correct": false
+        },
+        {
+          "answer": "A tour guide",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When will Herr Jones call Herr Becker?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before leaving",
+          "is_correct": false
+        },
+        {
+          "answer": "After attending the conference",
+          "is_correct": false
+        },
+        {
+          "answer": "From the train station",
+          "is_correct": false
+        },
+        {
+          "answer": "When he arrives at the hotel",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Where does Herr Becker work?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At a bank",
+          "is_correct": false
+        },
+        {
+          "answer": "At the Munich General Consulate",
+          "is_correct": true
+        },
+        {
+          "answer": "At an airport",
+          "is_correct": false
+        },
+        {
+          "answer": "At a theater",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Has Herr Jones visited Munich before?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, he has visited many times",
+          "is_correct": false
+        },
+        {
+          "answer": "No, he has never been there",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, he visited last year",
+          "is_correct": false
+        },
+        {
+          "answer": "He can't remember",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "On what date does Herr Becker invite Herr Jones to the theater?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "May 14",
+          "is_correct": false
+        },
+        {
+          "answer": "May 16",
+          "is_correct": true
+        },
+        {
+          "answer": "May 12",
+          "is_correct": false
+        },
+        {
+          "answer": "May 20",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr Jones muss zu einer Konferenz nach München fahren."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Er war noch nie dort und ruft seinen Bekannten, Herrn Becker, im Münchener Generalkonsulat an."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Er erzählt ihm, dass er am 15. Mai kommen will und fragt, ob er Zeit hat, ihm die Stadt zu zeigen."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Herr Becker freut sich darauf und möchte wissen, ob er Lust hat, am 16. mit ihm ins Theater zu gehen."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Er will versuchen, noch eine Theaterkarte zu bekommen."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Herr Jones will vom Hotel aus anrufen, wenn er angekommen ist."
+    }
+  ],
+  "metadata": {
+    "page_start": 30,
+    "page_end": 30,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

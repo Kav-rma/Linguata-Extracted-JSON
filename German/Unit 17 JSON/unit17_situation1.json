@@ -1,0 +1,280 @@
+[
+  {
+    "title": "unit17_situation1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Why does A want to go to the city?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He wants to meet friends.",
+            "is_correct": false
+          },
+          {
+            "answer": "He wants to buy something nice for his wife's upcoming birthday.",
+            "is_correct": true
+          },
+          {
+            "answer": "He wants to pick up groceries.",
+            "is_correct": false
+          },
+          {
+            "answer": "He has a business meeting.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does B ask A about?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Whether A knows the way to the city.",
+            "is_correct": false
+          },
+          {
+            "answer": "What A plans to buy.",
+            "is_correct": true
+          },
+          {
+            "answer": "How long A will be in town.",
+            "is_correct": false
+          },
+          {
+            "answer": "If A wants to watch a movie.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "What is the problem A has encountered so far?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He forgot his wallet.",
+            "is_correct": false
+          },
+          {
+            "answer": "He hasn't thought of anything to buy yet.",
+            "is_correct": true
+          },
+          {
+            "answer": "He lost the shopping list.",
+            "is_correct": false
+          },
+          {
+            "answer": "The stores are closed.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "Why does B offer to accompany A?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Because he has business in the city.",
+            "is_correct": false
+          },
+          {
+            "answer": "Because he has nothing special planned.",
+            "is_correct": true
+          },
+          {
+            "answer": "Because A requested his help.",
+            "is_correct": false
+          },
+          {
+            "answer": "Because he wants to visit his relatives.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "What do A and B plan to do first in the city?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Go to the theater.",
+            "is_correct": false
+          },
+          {
+            "answer": "Visit a museum.",
+            "is_correct": false
+          },
+          {
+            "answer": "Look at the shop windows.",
+            "is_correct": true
+          },
+          {
+            "answer": "Eat at a restaurant.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "What do they hope to achieve by looking at the shop windows?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Find a parking spot.",
+            "is_correct": false
+          },
+          {
+            "answer": "Get a good idea for a gift.",
+            "is_correct": true
+          },
+          {
+            "answer": "Meet B's friends.",
+            "is_correct": false
+          },
+          {
+            "answer": "Buy groceries.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "Who is going to accompany A to the city?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A goes alone.",
+            "is_correct": false
+          },
+          {
+            "answer": "His wife.",
+            "is_correct": false
+          },
+          {
+            "answer": "B.",
+            "is_correct": true
+          },
+          {
+            "answer": "The shopkeeper.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "What occasion are they planning for?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A's birthday",
+            "is_correct": false
+          },
+          {
+            "answer": "B's birthday",
+            "is_correct": false
+          },
+          {
+            "answer": "A's wife's birthday",
+            "is_correct": true
+          },
+          {
+            "answer": "A's friend's wedding",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "Where do they plan to walk?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Through the park.",
+            "is_correct": false
+          },
+          {
+            "answer": "Through the business streets.",
+            "is_correct": true
+          },
+          {
+            "answer": "Around the river.",
+            "is_correct": false
+          },
+          {
+            "answer": "To the countryside.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "What is their strategy to find a present?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Order a gift online.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ask the shopkeeper for advice.",
+            "is_correct": false
+          },
+          {
+            "answer": "Browse shop windows to inspire ideas.",
+            "is_correct": true
+          },
+          {
+            "answer": "Write a list in advance.",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A. sagt B., dass er in die Stadt gehen muss."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Seine Frau hat bald Geburtstag und er möchte ihr etwas Schönes kaufen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "B. erkundigt sich, was er besorgen will und A. sagt, dass ihm bisher leider noch nichts eingefallen ist."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Da B. gerade nichts Besonderes vorhat, fragt er A., ob er ihn begleiten darf."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Sie wollen durch die Geschäftsstrassen gehen und sich zuerst die Schaufenster ansehen."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Vielleicht bekommen sie dann eine gute Idee."
+      }
+    ],
+    "metadata": {
+      "page_start": 37,
+      "page_end": 37,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

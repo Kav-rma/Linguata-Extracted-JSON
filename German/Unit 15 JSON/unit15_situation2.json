@@ -1,0 +1,294 @@
+{
+  "title": "unit15_situation2",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where do Herr Jones and Herr Becker meet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the train station",
+          "is_correct": false
+        },
+        {
+          "answer": "At the airport",
+          "is_correct": false
+        },
+        {
+          "answer": "At the hotel",
+          "is_correct": true
+        },
+        {
+          "answer": "At the theater",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What happened during Herr Jones's trip to Munich?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He lost his luggage",
+          "is_correct": false
+        },
+        {
+          "answer": "He missed his train",
+          "is_correct": false
+        },
+        {
+          "answer": "He had a flat tire",
+          "is_correct": true
+        },
+        {
+          "answer": "He got sick",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where did they go first in Munich?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Schloss Nymphenburg",
+          "is_correct": false
+        },
+        {
+          "answer": "The Rathaus",
+          "is_correct": false
+        },
+        {
+          "answer": "Frauenkirche",
+          "is_correct": true
+        },
+        {
+          "answer": "The zoo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "From which century does the Frauenkirche date?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "12th century",
+          "is_correct": false
+        },
+        {
+          "answer": "15th century",
+          "is_correct": true
+        },
+        {
+          "answer": "18th century",
+          "is_correct": false
+        },
+        {
+          "answer": "20th century",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What happened to the Frauenkirche during the war?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It was rebuilt",
+          "is_correct": false
+        },
+        {
+          "answer": "It was destroyed",
+          "is_correct": true
+        },
+        {
+          "answer": "It remained untouched",
+          "is_correct": false
+        },
+        {
+          "answer": "It was moved",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which building had Herr Jones seen often in pictures?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Frauenkirche",
+          "is_correct": false
+        },
+        {
+          "answer": "Schloss Nymphenburg",
+          "is_correct": false
+        },
+        {
+          "answer": "The Rathaus",
+          "is_correct": true
+        },
+        {
+          "answer": "Hellabrunn Zoo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Where do they take a walk after visiting the Frauenkirche?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The zoo",
+          "is_correct": false
+        },
+        {
+          "answer": "Nymphenburg Palace Park",
+          "is_correct": true
+        },
+        {
+          "answer": "The English Garden",
+          "is_correct": false
+        },
+        {
+          "answer": "The city center",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Besides the city tour, what do they discuss?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An upcoming exam",
+          "is_correct": false
+        },
+        {
+          "answer": "Politics and news",
+          "is_correct": false
+        },
+        {
+          "answer": "The conference and an exhibition",
+          "is_correct": true
+        },
+        {
+          "answer": "Food and drink",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Where do they decide to go because the weather is beautiful?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The English Garden",
+          "is_correct": false
+        },
+        {
+          "answer": "A beer garden",
+          "is_correct": false
+        },
+        {
+          "answer": "Hellabrunn Zoo",
+          "is_correct": true
+        },
+        {
+          "answer": "The theater",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What do they drink at the zoo's garden restaurant?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Coffee",
+          "is_correct": false
+        },
+        {
+          "answer": "Wine",
+          "is_correct": false
+        },
+        {
+          "answer": "Water",
+          "is_correct": false
+        },
+        {
+          "answer": "A glass of beer",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Die beiden Herren treffen sich im Hotel und Herr Becker fragt, ob Herr Jones eine gute Reise hatte."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Leider hatte er unterwegs eine Reifenpanne, aber glücklicherweise war eine Tankstelle in der Nähe und er konnte gleich den Reifen wechseln lassen."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Nun wollen sich die Herren die Stadt ansehen."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Zuerst fahren sie zur Frauenkirche und Herr Becker erzählt Herrn Jones, dass diese Kirche aus dem 15. Jahrhundert ist."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Sie wurde im Krieg leider zerstört, ist aber bald nach dem Kriege wiederaufgebaut worden."
+    },
+    {
+      "sequence_id": 6,
+      "text": "In der Nähe ist das Rathaus; Herr Jones hatte das schon oft auf Bildern gesehen."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Dann fahren sie zum Schloss Nymphenburg und gehen im Park spazieren."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Sie unterhalten sich über die Konferenz und über eine interessante Ausstellung in der Stadt."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Da das Wetter so schön ist und sie auch noch genug Zeit haben, wollen sie sich noch den Tierpark Hellabrunn ansehen."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Sie trinken im Gartenrestaurant des Tierparks ein Glas Bier und fahren später zum Hotel zurück."
+    }
+  ],
+  "metadata": {
+    "page_start": 30,
+    "page_end": 30,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

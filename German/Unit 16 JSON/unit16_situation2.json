@@ -1,0 +1,272 @@
+[
+  {
+    "title": "unit16_situation2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What are you asking a German about?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "which autobahn routes are particularly beautiful",
+            "is_correct": true
+          },
+          {
+            "answer": "which restaurants serve sausages",
+            "is_correct": false
+          },
+          {
+            "answer": "which train schedules are cheapest",
+            "is_correct": false
+          },
+          {
+            "answer": "which hotels are available",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What does he show you to help?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "German road maps",
+            "is_correct": true
+          },
+          {
+            "answer": "a travel brochure",
+            "is_correct": false
+          },
+          {
+            "answer": "photographs",
+            "is_correct": false
+          },
+          {
+            "answer": "bus tickets",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Where do you want to travel first?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "from northern Germany to Austria",
+            "is_correct": true
+          },
+          {
+            "answer": "from Italy to Spain",
+            "is_correct": false
+          },
+          {
+            "answer": "from Berlin to Paris",
+            "is_correct": false
+          },
+          {
+            "answer": "from Hamburg to Munich",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Where do you want to travel after Austria?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "to the Swiss side of Lake Constance",
+            "is_correct": true
+          },
+          {
+            "answer": "to the French Riviera",
+            "is_correct": false
+          },
+          {
+            "answer": "to the Black Forest",
+            "is_correct": false
+          },
+          {
+            "answer": "to the Alps",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does the German do regarding your route?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "he makes a suggestion on how best to drive",
+            "is_correct": true
+          },
+          {
+            "answer": "he refuses to help",
+            "is_correct": false
+          },
+          {
+            "answer": "he tells you to fly",
+            "is_correct": false
+          },
+          {
+            "answer": "he recommends a train",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which body of water do you plan to visit?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Lake Constance",
+            "is_correct": true
+          },
+          {
+            "answer": "Lake Geneva",
+            "is_correct": false
+          },
+          {
+            "answer": "Lake Garda",
+            "is_correct": false
+          },
+          {
+            "answer": "Lake Zurich",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What tool helps you find the routes easily?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "road maps",
+            "is_correct": true
+          },
+          {
+            "answer": "GPS",
+            "is_correct": false
+          },
+          {
+            "answer": "compass",
+            "is_correct": false
+          },
+          {
+            "answer": "smartphone",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What type of routes are discussed?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "autobahn routes",
+            "is_correct": true
+          },
+          {
+            "answer": "hiking paths",
+            "is_correct": false
+          },
+          {
+            "answer": "river cruises",
+            "is_correct": false
+          },
+          {
+            "answer": "bike trails",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Who makes a proposal about the best route?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "the German",
+            "is_correct": true
+          },
+          {
+            "answer": "the Austrian",
+            "is_correct": false
+          },
+          {
+            "answer": "your friend",
+            "is_correct": false
+          },
+          {
+            "answer": "a travel agent",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "The conversation suggests that German highways can be what?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "scenic",
+            "is_correct": true
+          },
+          {
+            "answer": "dangerous",
+            "is_correct": false
+          },
+          {
+            "answer": "boring",
+            "is_correct": false
+          },
+          {
+            "answer": "narrow",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie fragen einen Deutschen, welche Autobahnstrecken besonders schön sind."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Er zeigt Ihnen deutsche Autokarten, auf denen Sie diese Strecken leicht finden können."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Sie möchten von Norddeutschland nach Österreich fahren und dann an die Schweizer Seite des Bodensees."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Der Deutsche macht Ihnen einen Vorschlag, wie Sie am besten fahren können."
+      }
+    ],
+    "metadata": {
+      "page_start": 30,
+      "page_end": 30,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

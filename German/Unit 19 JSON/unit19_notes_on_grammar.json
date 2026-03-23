@@ -1,0 +1,258 @@
+{
+  "title": "unit19_notes_on_grammar",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How is present possibility expressed in German unreal sentences?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By simple unreal forms or phrases with an infinitive plus könnte or würde",
+          "is_correct": true
+        },
+        {
+          "answer": "By past participles and the auxiliary haben",
+          "is_correct": false
+        },
+        {
+          "answer": "Only by present tense forms",
+          "is_correct": false
+        },
+        {
+          "answer": "By future tense forms",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In a special conditional clause, what comes first?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The subject",
+          "is_correct": false
+        },
+        {
+          "answer": "The infinitive",
+          "is_correct": false
+        },
+        {
+          "answer": "The inflected verb followed by the subject",
+          "is_correct": true
+        },
+        {
+          "answer": "A past participle",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which forms can introduce an unreal wish expressing past or present possibility?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wollte or wünschte",
+          "is_correct": true
+        },
+        {
+          "answer": "hätte or wäre",
+          "is_correct": false
+        },
+        {
+          "answer": "kann or muss",
+          "is_correct": false
+        },
+        {
+          "answer": "gern or lieber",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the conjunction 'als ob' mean in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because",
+          "is_correct": false
+        },
+        {
+          "answer": "Although",
+          "is_correct": false
+        },
+        {
+          "answer": "As if/as though",
+          "is_correct": true
+        },
+        {
+          "answer": "Even though",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which pronouns are categorized as indefinite pronouns in Unit 19?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "er, sie, es",
+          "is_correct": false
+        },
+        {
+          "answer": "man, jemand, niemand, einer",
+          "is_correct": true
+        },
+        {
+          "answer": "ich, du, wir",
+          "is_correct": false
+        },
+        {
+          "answer": "dieser, jener",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How are nouns referring to nationality or profession typically used in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "With a definite article",
+          "is_correct": false
+        },
+        {
+          "answer": "Without a specifier",
+          "is_correct": true
+        },
+        {
+          "answer": "With a preposition",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in plural form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In sentences with both a direct and an indirect object, where does the pronoun object typically appear?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "After the noun object",
+          "is_correct": false
+        },
+        {
+          "answer": "Before the noun object",
+          "is_correct": true
+        },
+        {
+          "answer": "It is omitted",
+          "is_correct": false
+        },
+        {
+          "answer": "It is replaced by a prepositional phrase",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When both objects of a verb are pronouns, which pronoun usually precedes?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The dative pronoun",
+          "is_correct": false
+        },
+        {
+          "answer": "The accusative pronoun",
+          "is_correct": true
+        },
+        {
+          "answer": "The genitive pronoun",
+          "is_correct": false
+        },
+        {
+          "answer": "The nominative pronoun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is true about the dative and accusative forms of 'man' and 'einer'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They are different",
+          "is_correct": false
+        },
+        {
+          "answer": "They are identical",
+          "is_correct": true
+        },
+        {
+          "answer": "They are only used in formal speech",
+          "is_correct": false
+        },
+        {
+          "answer": "They are obsolete",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following sentences demonstrates the omission of a specifier in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Er war Mechaniker von Beruf (He was a mechanic by profession)",
+          "is_correct": true
+        },
+        {
+          "answer": "Er war ein guter Mechaniker (He was a good mechanic)",
+          "is_correct": false
+        },
+        {
+          "answer": "Mein Onkel ist amerikanischer Staatsangehöriger (My uncle is an American citizen)",
+          "is_correct": false
+        },
+        {
+          "answer": "Gestern kam wieder ein Ostzonenflüchtling über die Grenze (Yesterday another refugee from the Eastern Zone came over the border)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "\nA. The unreal or subjunctive - Present and Past Possibility\n\nI. The unreal or subjunctive expresses possible, not actual states or actions. Examples: Ich wünschte, sie würde sich von einem Spezialisten untersuchen lassen; Wenn Sie den Jungen jetzt gleich in die Sprechstunde bringen würden, könnte ihn Herr Doktor sofort behandeln; Es wäre kein Problem, das neue Auto zu kaufen, wenn wir mehr Geld hätten. These sentences refer to actions or states which are possible of fulfillment at the present time; this is called present possibility and is marked by simple unreal forms (hätte or wäre) or by phrases with an infinitive plus könnte or würde. Conditional sentences expressing present possibility are sometimes called present conditional sentences.\n\nII. We have encountered additional sentences with the unreal or subjunctive. Note: Ich wollte, ich wäre nie Kandidat geworden; Wäre ich es nicht geworden, hätte ich schon damals grosse Schwierigkeiten gehabt, meinen Betrieb zu halten; Ich wäre schon eher geflohen, wenn ich nicht die Hoffnung gehabt hätte, dass sich die Zustände ändern würden. These sentences express a possibility which existed at some time in the past; this is called past possibility or contrary-to-fact. Past possibility is marked by a verb phrase containing a past participle and an unreal form of the auxiliary verb. Conditional sentences expressing past possibility are called past conditional or past contrary-to-fact conditional sentences. The phrases würde ... haben and würde ... sein are equivalent to the simple unreal forms hätte and wäre. They also occur with past participles in expressing past possibility; their use or avoidance is a matter of style and may occur in either clause of a conditional sentence.\n\nB. The Special Conditional Clause\n\nI. In place of the wenn-clause in conditional sentences a special conditional clause may occur, in which the clause introducer is omitted and the clause begins with the inflected verb followed by the subject: Wäre ich nicht Kandidat geworden, hätte ich grosse Schwierigkeiten gehabt, meinen Betrieb zu halten; or Wenn ich nicht Kandidat geworden wäre, hätte ich grosse Schwierigkeiten gehabt, meinen Betrieb zu halten. The special conditional clause may occur in either position in the sentence. Examples: Man hätte ihn als politischen Flüchtling anerkannt, wäre er nicht Funktionär der SED gewesen; or Man hätte ihn als politischen Flüchtling anerkannt, wenn er nicht Funktionär der SED gewesen wäre. Wären die Zustände in der Ostzone besser, würde es weniger Flüchtlinge geben; or Wenn die Zustände in der Ostzone besser wären, würde es weniger Flüchtlinge geben. English sometimes omits the clause introducer and inverts subject and verb in formal style; the construction is much more frequent in German and not limited to formal situations.\n\nC. Unreal Wishes – Present and Past\n\nI. An unreal wish may express past as well as present possibility and may be introduced by either of the special forms wünschte (wünschten) or wollte (wollten). Example: Ich wollte, ich wäre nie Kandidat geworden (or Ich wünschte, ich wäre nie Kandidat geworden). Wir wünschten, er hätte mehr Zeit für uns (or Wir wollten, er hätte mehr Zeit für uns).\n\nII. Another type of unreal wish, which has not occurred in the basic sentences, consists of a wenn-clause or special conditional clause standing alone, usually with the words nur or bloss: Wenn es nur regnen würde! (If only it would rain); Hätten wir das Haus bloss nicht gekauft! (If only we hadn't bought the house); Wenn wir nur damals schon ausgewandert wären!; Wäre ich bloss schon zu Hause!\n\nD. The Unreal After als ob\n\nI. The unreal or subjunctive occurs after als ob ('as if, as though'). Example from the unit: Das hört sich leider so an, als ob es sehr lange dauern könnte (I'm afraid that sounds as if it could take quite a long time). In clauses introduced by als ob, unreal forms are often encountered. German speakers do not consistently use the unreal here and you will often hear the sentence as: Das hört sich leider so an, als ob es lange dauern kann. Clauses introduced by als ob are frequently preceded by the anticipating word so in the main clause. They may occur after various verbs, and reference may be to either present or past possibility. Additional examples: Es sieht so aus, als ob es gleich regnen würde (It looks as though it were about to rain); Er spricht, als ob er keine Hoffnung mehr hätte, dass sich die Zustände ändern würden (He talks as if he no longer had any hopes that circumstances would change); Er arbeitete so, als ob er schon Jahre lang Klempner wäre (He worked as if he had been a plumber for years); Alles, was ich ihm sagte, vergass er so schnell, als ob es gar nicht wichtig gewesen wäre (He forgot everything I told him as quickly as if it hadn't been at all important); Er ass, als ob er nicht genug bekommen könnte (He ate as if he couldn't get enough); Sie parkte so, als ob sie noch nie einen Wagen gefahren hätte (She parked as if she had never driven a car).\n\nE. Indefinite Pronouns – einer, jemand, niemand\n\nI. In Unit 15 we discussed the pronoun man. Since then we have encountered three other similar pronouns – einer, jemand, and niemand. Examples: Bei unserer grossen Familie ist alle Augenblicke einer krank (With a family as large as ours there's somebody sick all the time); Kennen Sie jemand(en) in den Staaten, der für Sie bürgen würde? (Do you know someone in the States who would act as a sponsor for you?); Hier kümmert sich niemand ums Parken (Nobody bothers about parking here). All four of these pronouns are called indefinite pronouns.\n\nII. The pronouns jemand and niemand sometimes have the dative and accusative endings –em and –en. Germans freely use the endingless forms in speech. The genitive forms jemandes and niemandes occur only very rarely in speech. Examples: Ich habe dort niemand (or niemanden) gesehen (I saw no one there); Wir haben jemand (or jemandem) geholfen (We were helping someone); Er möchte gern jemandes Freund sein (He would like to be friends with somebody).\n\nIII. The dative and accusative forms of the pronouns man and einer are identical: einem and einen. Example: Es wird einem immer gesagt, dass man viel arbeiten muss (One is always told that one has to work a lot); Auf dem Rathaus habe ich mit einem gesprochen, der mir diese Auskunft gab (At the Town Hall I talked to someone who gave me this information).\n\nF. Omission of the Specifier\n\nI. It was noted that many nouns referring to nationality, profession or membership in a group occur without a specifier in German. Examples: Ist er nicht als Austauschstudent in Amerika gewesen? (Wasn't he in America as an exchange student?); War Ihre Tochter nicht auch im Ausland? – Ja, als Sportlehrerin in Norwegen (Yes, as a physical education teacher in Norway); Ich bin Ostzonenflüchtling (I am a refugee from the Eastern Zone); Zur Zeit bin ich hier als Autoschlosser angestellt (At present I'm employed as an auto mechanic); Ich habe einen Onkel, der amerikanischer Staatsangehöriger ist (I have an uncle who's an American citizen). The specifier is omitted in German in identifying people according to profession, nationality or political or organizational affiliation. English does not omit the specifier here.\n\nII. The specifier is not omitted in German when no emphasis is given to establishing an individual's identity as a member of a group. Example: Er war Mechaniker von Beruf (He was a mechanic by profession) but Er war ein guter Mechaniker (He was a good mechanic). She is a refugee from the Eastern Zone (Sie ist Ostzonenflüchtling) but Yesterday another refugee from the Eastern Zone came over the border (Gestern kam wieder ein Ostzonenflüchtling über die Grenze). My uncle is an American citizen (Mein Onkel ist amerikanischer Staatsangehöriger) but Only an American citizen can be your sponsor (Ihr Bürge kann nur ein amerikanischer Staatsangehöriger sein).\n\nG. Word Order – Nouns and Pronouns\n\nI. Up to now we have been mainly concerned with the position of the finite verb in the sentence. Now we examine the place of noun and pronoun objects in sentences. In sentences with both a direct and an indirect object (or an object and an interested bystander), the pronoun object consistently precedes the noun object with its specifier and modifiers. Example: Nehmen Sie täglich dreimal je fünfzehn Tropfen von der Medizin, für die ich Ihnen jetzt ein Rezept gebe (Take fifteen drops three times a day of something I'll give you a prescription for). Konnten Sie ihm nicht noch schnell ein paar Zeitungen holen, ehe der Zug abfuhr? (Couldn't you still hurry and get him a couple of newspapers before the train left?) Empfehlen Sie mich bitte Ihrer Frau Gemahlin (Please remember me to Mrs. ...); Mein achtjähriger Sohn hat sich das Knie aufgeschlagen (My eight-year-old son scraped his knee); Ich habe es dem Arzt gesagt (I told it to the doctor). In these sentences the pronoun object precedes the noun object.\n\nII. Pronoun objects may precede noun subjects with their specifier and modifiers in sentences beginning with the verb or with another word than the subject. Examples: Wenn Sie den Jungen jetzt gleich bringen würden, könnte ihn Herr Doktor sofort behandeln (If you'd bring the boy right to the office now the doctor could treat him immediately); Blieb Ihnen noch Zeit für private Interessen? (Did you have any time left for your own private interests?). Deshalb interessierte mich der Wiederaufbau (That's why the reconstruction interested me); Übrigens wollte Sie ein Herr von der englischen Botschaft sprechen (By the way a gentleman from the British Embassy wanted to talk to you). Here the pronoun object may precede a noun subject.\n\nIII. When both objects of a verb are pronouns the accusative pronoun usually precedes the dative pronoun. Note that pointing words generally follow other pronouns when both objects follow the verb. Examples: Er hat Ihnen das schon gestern gebracht (He brought you that yesterday); Ich habe sie dem nicht gezeigt (I didn't show them to him).\n\nIV. In sentences in which both objects of the verb are nouns, dative noun objects precede accusative noun objects with their specifiers and modifiers. Examples: Herr Becker diktierte seiner Sekretärin einen langen Brief (Mr. Becker dictated a long letter to his secretary); Dr. Buchner hat meiner Frau eine Kur in Bad Nauheim verordnet (Dr. Buchner prescribed treatment at Bad Nauheim for my wife).\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "title": "unit15_situation3",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Who picked up Herr Allen at the hotel?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herr Becker",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Bauer",
+          "is_correct": true
+        },
+        {
+          "answer": "Herr Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Schmidt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How long had Herr Allen been traveling?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One week",
+          "is_correct": false
+        },
+        {
+          "answer": "Two weeks",
+          "is_correct": false
+        },
+        {
+          "answer": "One month",
+          "is_correct": true
+        },
+        {
+          "answer": "Three months",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which country did Herr Allen visit first?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sweden",
+          "is_correct": false
+        },
+        {
+          "answer": "Finland",
+          "is_correct": true
+        },
+        {
+          "answer": "Norway",
+          "is_correct": false
+        },
+        {
+          "answer": "Denmark",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What activity was happening with Herr Allen's friends in Finland?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A music festival",
+          "is_correct": false
+        },
+        {
+          "answer": "A hunt",
+          "is_correct": true
+        },
+        {
+          "answer": "A conference",
+          "is_correct": false
+        },
+        {
+          "answer": "A wedding",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which industry did Herr Allen tour in Finland?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Automobile industry",
+          "is_correct": false
+        },
+        {
+          "answer": "Paper industry",
+          "is_correct": true
+        },
+        {
+          "answer": "Fish industry",
+          "is_correct": false
+        },
+        {
+          "answer": "Banking industry",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "After Finland, which country did Herr Allen visit?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Norway",
+          "is_correct": true
+        },
+        {
+          "answer": "Denmark",
+          "is_correct": false
+        },
+        {
+          "answer": "Germany",
+          "is_correct": false
+        },
+        {
+          "answer": "Italy",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What impression did Sweden make on Herr Allen?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The people were rude and the cities were dirty",
+          "is_correct": false
+        },
+        {
+          "answer": "The people were friendly and the cities were clean and modern",
+          "is_correct": true
+        },
+        {
+          "answer": "It was very hot and crowded",
+          "is_correct": false
+        },
+        {
+          "answer": "He didn't like the food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why are the large forest areas important for Sweden?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because they attract tourists",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they are important for the Swedish industry",
+          "is_correct": true
+        },
+        {
+          "answer": "Because they are protected areas",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they are used for festivals",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which additional country did Herr Allen visit before returning to Berlin?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Denmark",
+          "is_correct": true
+        },
+        {
+          "answer": "France",
+          "is_correct": false
+        },
+        {
+          "answer": "Italy",
+          "is_correct": false
+        },
+        {
+          "answer": "Spain",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What prevented Herr Allen from visiting Tivoli Park in Copenhagen?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He didn't like amusement parks",
+          "is_correct": false
+        },
+        {
+          "answer": "He didn't have time because he had to attend a conference in Hamburg",
+          "is_correct": true
+        },
+        {
+          "answer": "The park was closed for repairs",
+          "is_correct": false
+        },
+        {
+          "answer": "He lost his ticket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Herr Allen wird von Herrn Bauer im Hotel abgeholt."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Herr Bauer freut sich, Herrn Allen wiederzusehen und möchte wissen, wie es seiner Familie geht."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Frau Allen und den Kindern geht es gut."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Auf seiner Reise hat alles gut geklappt."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Herr Bauer fragt, wann Herr Allen aus Amerika abgefahren ist und welche Länder er inzwischen besucht hat."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Herr Allen ist schon einen Monat unterwegs."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Zuerst besuchte er Finnland, wo bei seinen Freunden gerade eine Jagd war."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Finnland hat ja sehr viel Wild."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Dann besichtigte er einige Betriebe der Papierindustrie."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Das war sehr interessant für ihn."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Herr Bauer will wissen, ob er von dort nach Norwegen gefahren ist."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Herr Allen verbrachte einige Tage dort und fuhr dann weiter nach Schweden."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Es hat ihm dort gut gefallen."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Die Leute waren sehr nett, die Städte sind sauber und modern."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Schön sind auch die grossen Waldgebiete."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Sie sind sehr wichtig für die Industrie in Schweden."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Herr Bauer möchte wissen, ob Herr Allen von Schweden direkt nach Berlin kam."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Herr Allen hatte erst noch einen Abstecher nach Dänemark gemacht."
+    },
+    {
+      "sequence_id": 19,
+      "text": "Dieses Land machte auch einen sehr sauberen und ordentlichen Eindruck."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Besonders gut gefiel ihm eine Autofahrt an die Ostsee."
+    },
+    {
+      "sequence_id": 21,
+      "text": "Herr Bauer fragt, ob Herr Allen auch in dem bekannten Tivoli Park in Kopenhagen war."
+    },
+    {
+      "sequence_id": 22,
+      "text": "Dazu hatte Herr Allen keine Zeit mehr, er musste zu einer Tagung nach Hamburg fahren."
+    }
+  ],
+  "metadata": {
+    "page_start": 30,
+    "page_end": 30,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

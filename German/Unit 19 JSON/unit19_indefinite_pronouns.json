@@ -1,0 +1,258 @@
+{
+  "title": "unit19_indefinite_pronouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which pronouns are introduced in this section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "einer, jemand, and niemand",
+          "is_correct": true
+        },
+        {
+          "answer": "mein, dein, sein",
+          "is_correct": false
+        },
+        {
+          "answer": "diese, jene, welche",
+          "is_correct": false
+        },
+        {
+          "answer": "sie, ihn, ihr",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What type of pronouns are einer, jemand, and niemand?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Indefinite pronouns",
+          "is_correct": true
+        },
+        {
+          "answer": "Definite pronouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Relative pronouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Demonstrative pronouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which pronouns sometimes take endings -ern and -en?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "jemand and niemand",
+          "is_correct": true
+        },
+        {
+          "answer": "einer and man",
+          "is_correct": false
+        },
+        {
+          "answer": "mein and dein",
+          "is_correct": false
+        },
+        {
+          "answer": "sie and es",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How often do the genitive forms jemandes and niemandes occur?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Very rarely",
+          "is_correct": true
+        },
+        {
+          "answer": "Frequently",
+          "is_correct": false
+        },
+        {
+          "answer": "Never",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in colloquial speech",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What are the dative and accusative forms of man and einer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "einem and einen",
+          "is_correct": true
+        },
+        {
+          "answer": "ihm and ihnen",
+          "is_correct": false
+        },
+        {
+          "answer": "sie and ihnen",
+          "is_correct": false
+        },
+        {
+          "answer": "uns and euch",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which sentence shows someone being sick all the time?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Bei unserer grossen Familie ist alle Augenblicke einer krank",
+          "is_correct": true
+        },
+        {
+          "answer": "Kennen Sie jemand in den Staaten?",
+          "is_correct": false
+        },
+        {
+          "answer": "Hier kümmert sich niemand ums Parken",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich habe dort niemand gesehen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In which example do you ask for a sponsor?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kennen Sie jemand(en) in den Staaten, der für Sie bürgen würde?",
+          "is_correct": true
+        },
+        {
+          "answer": "Hier kümmert sich niemand ums Parken",
+          "is_correct": false
+        },
+        {
+          "answer": "Bei unserer grossen Familie ist einer krank",
+          "is_correct": false
+        },
+        {
+          "answer": "Er möchte gern jemandes Freund sein",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which pronouns are identical in dative and accusative?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "man and einer",
+          "is_correct": true
+        },
+        {
+          "answer": "jemand and niemand",
+          "is_correct": false
+        },
+        {
+          "answer": "du and ihr",
+          "is_correct": false
+        },
+        {
+          "answer": "er and sie",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Hier kümmert sich niemand ums Parken' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nobody bothers about parking here",
+          "is_correct": true
+        },
+        {
+          "answer": "Someone is parking",
+          "is_correct": false
+        },
+        {
+          "answer": "Everyone parks carefully",
+          "is_correct": false
+        },
+        {
+          "answer": "Someone is worried about parking",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence means 'I saw no one there'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich habe dort niemand (or niemanden) gesehen",
+          "is_correct": true
+        },
+        {
+          "answer": "Wir haben jemand geholfen",
+          "is_correct": false
+        },
+        {
+          "answer": "Er möchte gern jemandes Freund sein",
+          "is_correct": false
+        },
+        {
+          "answer": "Es wird einem immer gesagt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "INDEFINITE PRONOUNS - einer, jemand, niemand\nIn Unit 15 we discussed the pronoun man. Since then we have encountered three other, similar pronouns - einer, jemand, and niemand.\nBei unserer grossen Familie ist alle Augenblicke einer krank.\nKennen Sie jemand(en) in den Staaten, der für Sie bürgen würde?\nHier kümmert sich niemand ums Parken.\nWith a family as large as ours there's somebody sick all the time.\nDo you know someone in the States who would act as a sponsor for you?\nNobody bothers about parking here.\nAll four of these pronouns are called INDEFINITE PRONOUNS.\nThe pronouns jemand and niemand sometimes have the dative and accusative endings -ern and -en. Note, however, that Germans freely use the endingless forms in speech. The genitive forms jemandes and niemandes occur only very rarely in speech.\nIch habe dort niemand (or niemanden) gesehen. - I saw no one there.\nWir haben jemand (or jemandem) geholfen. - We were helping someone.\nEr möchte gern jemandes Freund sein. - He would like to be friends with somebody.\nIII. The dative and accusative forms of the pronoun man and einer are identical: einem and einen.\nEs wird einem immer gesagt, dass man viel arbeiten muss. - One is always told that one has to work a lot.\nAuf dem Rathaus habe ich mit einem gesprochen, der mir diese Auskunft gab. - At the Town Hall I talked to someone who gave me this information."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

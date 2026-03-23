@@ -1,0 +1,831 @@
+[
+  {
+    "title": "unit15_conversion_drill",
+    "type": "writing",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Rewrite the sentence 'Er schreibt den Brief.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief wird von ihm geschrieben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Rewrite the sentence 'Er hat den Brief geschrieben.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief ist von ihm geschrieben worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Rewrite the sentence 'Er schrieb den Brief.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief wurde von ihm geschrieben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Rewrite the sentence 'Er wird den Brief schreiben.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief wird von ihm geschrieben werden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Rewrite the sentence 'Er putzt die Schuhe.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Schuhe werden von ihm geputzt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Rewrite the sentence 'Er hat die Schuhe geputzt.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Schuhe sind von ihm geputzt worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Rewrite the sentence 'Er putzte die Schuhe.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Schuhe wurden von ihm geputzt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Rewrite the sentence 'Er wird die Schuhe putzen.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Schuhe werden von ihm geputzt werden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Rewrite the sentence 'Sie schreibt den Brief.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief wird von ihr geschrieben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Rewrite the sentence 'Sie hat den Brief geschrieben.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief ist von ihr geschrieben worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Rewrite the sentence 'Sie schrieb den Brief.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief wurde von ihr geschrieben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Rewrite the sentence 'Sie wird den Brief schreiben.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief wird von ihr geschrieben werden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Rewrite the sentence 'Herr Schmidt füllt den Meldeschein aus.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Meldeschein wird von Herrn Schmidt ausgefüllt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Rewrite the sentence 'Herr Schmidt hat den Meldeschein ausgefüllt.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Meldeschein ist von Herrn Schmidt ausgefüllt worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Rewrite the sentence 'Herr Schmidt füllte den Meldeschein aus.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Meldeschein wurde von Herrn Schmidt ausgefüllt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Rewrite the sentence 'Herr Schmidt wird den Meldeschein ausfüllen.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Meldeschein wird von Herrn Schmidt ausgefüllt werden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Rewrite the sentence 'Sie besichtigen die Tagungsräume.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Tagungsräume werden von ihnen besichtigt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Rewrite the sentence 'Sie haben die Tagungsräume besichtigt.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Tagungsräume sind von ihnen besichtigt worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Rewrite the sentence 'Sie besichtigten die Tagungsräume.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Tagungsräume wurden von ihnen besichtigt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Rewrite the sentence 'Sie werden die Tagungsräume besichtigen.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Tagungsräume werden von ihnen besichtigt werden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Rewrite the sentence 'Das Arbeitsamt bearbeitet den Antrag.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Antrag wird vom Arbeitsamt bearbeitet.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Rewrite the sentence 'Das Arbeitsamt hat den Antrag bearbeitet.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Antrag ist vom Arbeitsamt bearbeitet worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Rewrite the sentence 'Das Arbeitsamt bearbeitete den Antrag.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Antrag wurde vom Arbeitsamt bearbeitet.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Rewrite the sentence 'Das Arbeitsamt wird den Antrag bearbeiten.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Antrag wird vom Arbeitsamt bearbeitet werden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Rewrite the sentence 'Unsere Architekten entwerfen die neuen Bauten.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die neuen Bauten werden von unseren Architekten entworfen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Rewrite the sentence 'Unsere Architekten haben die neuen Bauten entworfen.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die neuen Bauten sind von unseren Architekten entworfen worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Rewrite the sentence 'Unsere Architekten entwarfen die neuen Bauten.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die neuen Bauten wurden von unseren Architekten entworfen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Rewrite the sentence 'Unsere Architekten werden die neuen Bauten entwerfen.' in the passive voice, preserving the same tense.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die neuen Bauten werden von unseren Architekten entworfen werden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Rewrite the sentence 'Der Betriebsleiter hat mich inzwischen angerufen.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich bin von dem Betriebsleiter inzwischen angerufen worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Rewrite the sentence 'Die Sekretärin hat den Brief geschrieben.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Brief ist von der Sekretärin geschrieben worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Rewrite the sentence 'Herr Meyer hat den Artikel übersetzt.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Artikel ist von Herrn Meyer übersetzt worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Rewrite the sentence 'Professor Albers hat gestern den Vortrag gehalten.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Vortrag ist gestern von Professor Albers gehalten worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Rewrite the sentence 'Hat Herr Müller die Arbeit erledigt?' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ist die Arbeit von Herrn Müller erledigt worden?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Rewrite the sentence 'Das Hotel hat für Herrn Allen ein Zimmer reserviert.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Für Herrn Allen ist vom Hotel ein Zimmer reserviert worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Rewrite the sentence 'Meine Sekretärin hat die Fahrkarte gestern gelöst.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Fahrkarte ist von meiner Sekretärin gestern gelöst worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Rewrite the sentence 'Herr Meyer begleitete Herrn Allen zum Zug.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Herr Allen wurde von Herrn Meyer zum Zug begleitet.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Rewrite the sentence 'Die Männer holten das beschädigte Auto ab.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Das beschädigte Auto wurde von den Männern abgeholt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Rewrite the sentence 'Herr Schneider brachte die Koffer zur Gepäckaufgabe.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Koffer wurden von Herrn Schneider zur Gepäckaufgabe gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Rewrite the sentence 'Frau Meyer bügelte den Anzug auf.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Anzug wurde von Frau Meyer aufgebügelt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Rewrite the sentence 'Herr Schumann gab einen Bericht über neue Konzernbildungen und Kartellfragen.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Von Herrn Schumann wurde ein Bericht über neue Konzernbildungen und Kartellfragen gegeben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Rewrite the sentence 'Der Gewerkschaftssekretär gab langatmige Erklärungen ab.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Von dem Gewerkschaftssekretär wurden langatmige Erklärungen abgegeben.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Rewrite the sentence 'Herr Martin rief Frau Köhler an.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Frau Köhler wurde von Herrn Martin angerufen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "Rewrite the sentence 'Sie verbindet mich mit dem Auswärtigen Amt.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ich werde von ihr mit dem Auswärtigen Amt verbunden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "Rewrite the sentence 'Er probiert gerade den braunen Anzug an.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der braune Anzug wird gerade von ihm anprobiert.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "Rewrite the sentence 'Der Konsul diktiert der Sekretärin einen Brief.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der Sekretärin wird von dem Konsul ein Brief diktiert.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "Rewrite the sentence 'Herr und Frau Meyer packen gerade die Kisten aus.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Kisten werden gerade von Herrn und Frau Meyer ausgepackt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "Rewrite the sentence 'Sie stellt das Radio an.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Das Radio wird von ihr angestellt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "Rewrite the sentence 'Der Gepäckträger trug den grossen Koffer ins Abteil.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Der grosse Koffer wurde von dem Gepäckträger ins Abteil getragen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "Rewrite the sentence 'Wer hat den Anfang geschrieben?' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Von wem ist der Anfang geschrieben worden?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "Rewrite the sentence 'Ich begleite sie in die Stadt.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Sie wird von mir in die Stadt begleitet.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "Rewrite the sentence 'Der Page hat Ihr Gepäck auf Ihr Zimmer gebracht.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Ihr Gepäck ist von dem Pagen auf Ihr Zimmer gebracht worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "Rewrite the sentence 'Die ausländischen Architekten besichtigen heute das Reichstagsgebäude.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Heute wird das Reichstagsgebäude von den ausländischen Architekten besichtigt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "Rewrite the sentence 'Im Hotel hat Herr Meyer die Schuhe vor die Zimmertür gestellt.' in the passive voice.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Die Schuhe sind von Herrn Meyer im Hotel vor die Zimmertür gestellt worden.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "Rewrite the sentence 'Die zerstörten Gebäude werden wieder aufgebaut.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man baut die zerstörten Gebäude wieder auf.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "Rewrite the sentence 'Die zerstörten Gebäude sind wieder aufgebaut worden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man hat die zerstörten Gebäude wieder aufgebaut.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "Rewrite the sentence 'Die zerstörten Gebäude wurden wieder aufgebaut.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man baute die zerstörten Gebäude wieder auf.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "Rewrite the sentence 'Die zerstörten Gebäude werden wieder aufgebaut werden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man wird die zerstörten Gebäude wieder aufbauen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "Rewrite the sentence 'Die Bauausstellung ist schon am Anfang des Monats geschlossen worden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man hat die Bauausstellung schon am Anfang des Monats geschlossen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "Rewrite the sentence 'Die Lindenbäume wurden schon vor dem Kriege entfernt.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man entfernte die Lindenbäume schon vor dem Kriege.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "Rewrite the sentence 'Viele Architekten wurden zur Bauausstellung erwartet.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man erwartete viele Architekten zur Bauausstellung.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "Rewrite the sentence 'Der Antrag wird bald bearbeitet werden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man wird den Antrag bald bearbeiten.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "Rewrite the sentence 'Die grossen Koffer sind zum Bahnhof gebracht worden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man hat die grossen Koffer zum Bahnhof gebracht.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "Rewrite the sentence 'Der Bericht ist in der Botschaft übersetzt worden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man hat den Bericht in der Botschaft übersetzt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "Rewrite the sentence 'Die neuen Wohnungen werden jetzt vermietet.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man vermietet jetzt die neuen Wohnungen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 65,
+        "question_text": "Rewrite the sentence 'Der Tisch am Fenster wurde für uns reserviert.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man reservierte den Tisch am Fenster für uns.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 66,
+        "question_text": "Rewrite the sentence 'Die Koffer sind in der Gepäckaufgabe verwechselt worden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man hat die Koffer in der Gepäckaufgabe verwechselt.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 67,
+        "question_text": "Rewrite the sentence 'Die Ausstellung wird bald geschlossen werden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man wird die Ausstellung bald schliessen.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 68,
+        "question_text": "Rewrite the sentence 'Der Brand ist zu spät gesehen worden.' using the substitute construction with 'man'.",
+        "type": "writing",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Man hat den Brand zu spät gesehen.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 20,
+      "page_end": 22,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

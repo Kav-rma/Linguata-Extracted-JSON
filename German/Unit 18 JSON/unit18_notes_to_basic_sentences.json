@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit18_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which medical specialty is separate in Germany but combined in the United States?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ophthalmology",
+            "is_correct": true
+          },
+          {
+            "answer": "Cardiology",
+            "is_correct": false
+          },
+          {
+            "answer": "Dermatology",
+            "is_correct": false
+          },
+          {
+            "answer": "Psychiatry",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What immediate identification is required in German telephone etiquette?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Name of the caller",
+            "is_correct": false
+          },
+          {
+            "answer": "Identification by the person answering",
+            "is_correct": true
+          },
+          {
+            "answer": "Title of the caller",
+            "is_correct": false
+          },
+          {
+            "answer": "Address of the residence",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How do German nurses typically identify themselves?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "By first names with the title Schwester",
+            "is_correct": true
+          },
+          {
+            "answer": "By their last names only",
+            "is_correct": false
+          },
+          {
+            "answer": "By their job titles",
+            "is_correct": false
+          },
+          {
+            "answer": "By a number",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What pronoun do Germans use when referring to parts of the body to make personal reference clear?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Possessive pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "Dative pronoun",
+            "is_correct": true
+          },
+          {
+            "answer": "Nominative pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "Accusative pronoun",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How do German employees usually refer to their employer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "By title",
+            "is_correct": true
+          },
+          {
+            "answer": "By first name",
+            "is_correct": false
+          },
+          {
+            "answer": "By last name",
+            "is_correct": false
+          },
+          {
+            "answer": "By nicknames",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What is a 'Nachkur' in German health treatment context?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A strenuous initial treatment",
+            "is_correct": false
+          },
+          {
+            "answer": "A follow-up recuperation treatment",
+            "is_correct": true
+          },
+          {
+            "answer": "A spa vacation",
+            "is_correct": false
+          },
+          {
+            "answer": "A surgical procedure",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does 'Medikament' specifically refer to in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Any drug in any form",
+            "is_correct": false
+          },
+          {
+            "answer": "A specific prescription or patent drug",
+            "is_correct": true
+          },
+          {
+            "answer": "The science of medicine",
+            "is_correct": false
+          },
+          {
+            "answer": "Herbal remedies",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "In German, what does 'Medizin' refer to in popular usage?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Medical devices",
+            "is_correct": false
+          },
+          {
+            "answer": "Liquids taken internally",
+            "is_correct": true
+          },
+          {
+            "answer": "Vaccinations",
+            "is_correct": false
+          },
+          {
+            "answer": "Topical ointments",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "How should a married woman identify herself on the phone according to German etiquette?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "With her maiden name",
+            "is_correct": false
+          },
+          {
+            "answer": "As 'Fräulein' plus last name",
+            "is_correct": false
+          },
+          {
+            "answer": "As 'Frau' plus her last name",
+            "is_correct": true
+          },
+          {
+            "answer": "Only by her first name",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What is the proper response when answering a phone in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Say 'Hallo' without identification",
+            "is_correct": false
+          },
+          {
+            "answer": "Identify the residence using 'Hier' and last name",
+            "is_correct": true
+          },
+          {
+            "answer": "Speak in English",
+            "is_correct": false
+          },
+          {
+            "answer": "Ask who is calling first",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "The medical specialties in Germany differ from those common in the United States. The eye, ear, nose and throat combination does not occur, and ophthalmology is a separate specialty in Germany.\nGerman telephone etiquette requires an immediate identification by the person answering, whether it is a business or private residence. The formula is: Hier Schmidt (if Schmidt himself answers) or Hier bei Schmidt, equivalent to 'The Smiths' residence' in English. Note that a married woman may refer to herself as Frau Schmidt, and a man with a doctor's degree (whether in medicine, law, philosophy or whatever) may say Hier Doktor Schmidt, but usually gives only his last name. Men and unmarried women do NOT identify themselves as Fräulein or Herr. A young girl always gives both her first and last names.\nNurses in Germany, both Catholic and non-Catholic, are referred to by their first names with the title Schwester.\nIn referring to parts of the body and sometimes to certain articles of clothing Germans frequently use the specifier instead of a possessive word. A dative pronoun often occurs, too, to make personal reference clear.\nA German employee or subordinate usually refers to his employer or superior by title, just as if he were addressing him directly.\nGermans frequently go to springs or baths for the treatment of various conditions, such as rheumatism and heart disorders. Sometimes this is regarded as a kind of rest cure and is combined with a vacation (See Unit 13). Sometimes it is recommended or even prescribed by the doctor. Often the treatment or 'Kur' involves a strenuous regimen of diet, exercise, massage, hot and cold baths, etc., leaving the patient quite exhausted. Then a second or follow-up treatment, a 'Nachkur', is called for as a kind of recuperation from the original 'Kur'.\nMedizin is the more general, overall term used also, as in English, to refer to the branch of science. Medikament is used in referring to a specific prescription or patent drug. In popular usage Medizin refers to liquids taken internally, while Medikament may refer to any drug in whatever form (powder, tablets, etc.), and for whatever use."
+      }
+    ],
+    "metadata": {
+      "page_start": 8,
+      "page_end": 8,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

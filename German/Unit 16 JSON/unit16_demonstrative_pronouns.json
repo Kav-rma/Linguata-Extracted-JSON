@@ -1,0 +1,258 @@
+{
+  "title": "unit16_demonstrative_pronouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which pronouns, when stressed, serve as demonstrative pronouns in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "der, das, die",
+          "is_correct": true
+        },
+        {
+          "answer": "er, sie, es",
+          "is_correct": false
+        },
+        {
+          "answer": "ich, du, wir",
+          "is_correct": false
+        },
+        {
+          "answer": "dies, das, jenes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "The forms of German demonstrative pronouns are identical to which other pronoun forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Relative pronouns",
+          "is_correct": true
+        },
+        {
+          "answer": "Personal pronouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Possessive pronouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Interrogative pronouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In the phrase 'Das ist hier ganz in der Nähe', what does 'Das' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "This/It",
+          "is_correct": true
+        },
+        {
+          "answer": "That one",
+          "is_correct": false
+        },
+        {
+          "answer": "She",
+          "is_correct": false
+        },
+        {
+          "answer": "A letter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which of the following is an example of a demonstrative pronoun used with a preposition?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "in denen",
+          "is_correct": true
+        },
+        {
+          "answer": "die",
+          "is_correct": false
+        },
+        {
+          "answer": "sein",
+          "is_correct": false
+        },
+        {
+          "answer": "ich",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "In the demonstrative pronoun examples, 'den' refers back to which item?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the rug",
+          "is_correct": true
+        },
+        {
+          "answer": "the room",
+          "is_correct": false
+        },
+        {
+          "answer": "the article",
+          "is_correct": false
+        },
+        {
+          "answer": "the hand",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "When might English speakers say 'the latter' to correspond to a German demonstrative pronoun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When there is danger of confusion",
+          "is_correct": true
+        },
+        {
+          "answer": "When emphasising indefinite pronouns",
+          "is_correct": false
+        },
+        {
+          "answer": "When repeating adjectives",
+          "is_correct": false
+        },
+        {
+          "answer": "In subordinate clauses",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What effect do demonstrative pronouns have on German word order?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They do not affect word order",
+          "is_correct": true
+        },
+        {
+          "answer": "They require clause word order",
+          "is_correct": false
+        },
+        {
+          "answer": "They invert subject and verb",
+          "is_correct": false
+        },
+        {
+          "answer": "They place the finite verb at the end",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "True or False: The form of a demonstrative pronoun depends on the kind of noun it refers back to and its function in the sentence.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        },
+        {
+          "answer": "Only depends on gender",
+          "is_correct": false
+        },
+        {
+          "answer": "Only depends on position",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "In example d), what does the demonstrative pronoun refer to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Frau Schulze's daughter",
+          "is_correct": true
+        },
+        {
+          "answer": "Mr Schumann",
+          "is_correct": false
+        },
+        {
+          "answer": "Ministry of Economic Affairs",
+          "is_correct": false
+        },
+        {
+          "answer": "Ludwigstrasse",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "In English translation, demonstrative pronouns may often be replaced by what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An unstressed personal pronoun",
+          "is_correct": true
+        },
+        {
+          "answer": "A verb",
+          "is_correct": false
+        },
+        {
+          "answer": "An adjective",
+          "is_correct": false
+        },
+        {
+          "answer": "A preposition",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Unit 3 we noted that der, das and die when stressed serve to point out things or people.\nWe have had several examples of this use:\na) Wissen Sie, in welcher Gegend das amerikanische Konsulat ist? Das ist hier ganz in der Nähe.\nDo you know what part of town the American Consulate is in? It's right near here.\nb) Ich muss einige Geschäftsbriefe schreiben. Die schreibe ich nicht gern mit der Hand.\nI have to write some business letters. I don't like to write them in long-hand.\nc) Gut, fangen wir mit dem Teppich an. Den legen wir in die Mitte des Zimmers.\nGood, let's begin with the rug. We'll lay it in the middle of the room.\nd) Darüber stand neulich bereits ein Artikel in der \"Frankfurter Allgemeinen\". Ja, aber der war nicht sehr ausführlich.\nThere was an article about that in the \"Frankfurter Allgemeine\" recently. Yes, but it wasn't very complete.\nThese stressed pointing words are called DEMONSTRATIVE PRONOUNS.\nNote that their form, as with the RELATIVE PRONOUNS, depends on the kind of noun they refer back to, whether a der-, das-, die- or plural word, and on their function in the sentence in which they occur.\n\nThe forms of the DEMONSTRATIVE PRONOUNS are exactly the same as the forms of the RELATIVE PRONOUNS.\nHere are some more examples illustrating the forms that are new to you:\na) Kennen Sie die Geschäfte in der Ludwigstrasse? Ja, in denen habe ich schon öfter gekauft.\nAre you familiar with the stores in the Ludwigstrasse? Yes, I've often shopped in those stores.\nb) Der Page brachte das Gepäck von Herrn Schmidt auf dessen Zimmer.\nThe bellhop brought Mr. Schmidt's luggage up to the latter's room.\nc) Das sind Herr und Frau Schumann. Arbeitet deren Sohn nicht im Wirtschaftsministerium?\nThat's Mr. and Mrs. Schumann. Isn't their son the one that works at the Ministry of Economic Affairs?\nd) Sie kennen doch Frau Schulze, nicht wahr? Deren Tochter hat zwei Jahre in Amerika studiert.\nYou know Mrs. Schulze, don't you? It was her daughter who studied at an American university for two years.\nNotice that English does not always use a DEMONSTRATIVE PRONOUN where one occurs in German.\nWe often use an unstressed personal pronoun or, with some additional emphasis, repeat the noun.\nIf there is danger of confusion we sometimes say \"the latter\" or, with very strong stress, use a phrase such as those illustrated in examples c) and d).\nRemember that RELATIVE PRONOUNS are always followed by CLAUSE WORD ORDER, whereas DEMONSTRATIVE PRONOUNS as such do not affect word order.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

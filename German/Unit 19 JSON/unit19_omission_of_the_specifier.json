@@ -1,0 +1,258 @@
+{
+  "title": "unit19_omission_of_the_specifier",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In which contexts is the specifier often omitted in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nationality, profession or group membership",
+          "is_correct": true
+        },
+        {
+          "answer": "Time expressions",
+          "is_correct": false
+        },
+        {
+          "answer": "Modal verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "Numbers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which sentence correctly omits the specifier?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich bin ostzonenflüchtling",
+          "is_correct": true
+        },
+        {
+          "answer": "Er war ein guter Mechaniker",
+          "is_correct": false
+        },
+        {
+          "answer": "Mein Onkel ist amerikanischer Staatsangehöriger",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich habe einen Onkel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How does English differ from German in omitting the specifier?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English does not omit the specifier",
+          "is_correct": true
+        },
+        {
+          "answer": "English omits it more often",
+          "is_correct": false
+        },
+        {
+          "answer": "German never omits it",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no difference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When is the specifier not omitted in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When establishing identity is not emphasized",
+          "is_correct": true
+        },
+        {
+          "answer": "When emphasizing identity",
+          "is_correct": false
+        },
+        {
+          "answer": "When talking about time",
+          "is_correct": false
+        },
+        {
+          "answer": "When listing numbers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which sentence shows a member of a group identified without a specifier?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Waren Sie Mitglied einer Partei?",
+          "is_correct": true
+        },
+        {
+          "answer": "Er war ein guter Mechaniker",
+          "is_correct": false
+        },
+        {
+          "answer": "Mein Onkel ist amerikanischer Staatsangehöriger",
+          "is_correct": false
+        },
+        {
+          "answer": "Gestern kam ein Ostzonenflüchtling",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Er war Mechaniker von Beruf' illustrate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Specifier omitted because identity is not emphasized",
+          "is_correct": true
+        },
+        {
+          "answer": "Specifier included because identity is emphasized",
+          "is_correct": false
+        },
+        {
+          "answer": "Wrong word order",
+          "is_correct": false
+        },
+        {
+          "answer": "Use of subjunctive mood",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which pair shows contrast in specifier omission?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sie ist Ostzonenflüchtling / Gestern kam wieder ein Ostzonenflüchtling",
+          "is_correct": true
+        },
+        {
+          "answer": "Er war Mechaniker / Er war ein guter Mechaniker",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich bin ostzonenflüchtling / Zur Zeit bin ich hier",
+          "is_correct": false
+        },
+        {
+          "answer": "Mein Onkel / Ihr Bürge kann nur ein amerikanischer Staatsangehöriger sein",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Identify the statement that requires the specifier in German",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ihr Bürge kann nur ein amerikanischer Staatsangehöriger sein",
+          "is_correct": true
+        },
+        {
+          "answer": "Ich bin ostzonenflüchtling",
+          "is_correct": false
+        },
+        {
+          "answer": "Er war Mechaniker von Beruf",
+          "is_correct": false
+        },
+        {
+          "answer": "Ja, als Sportlehrerin in Norwegen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence asks about organizational membership?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Waren Sie Mitglied einer Partei?",
+          "is_correct": true
+        },
+        {
+          "answer": "War Ihre Tochter im Ausland?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich habe einen Onkel",
+          "is_correct": false
+        },
+        {
+          "answer": "Zur Zeit bin ich hier angestellt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the English meaning of 'Zur Zeit bin ich hier als Autoschlosser angestellt'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At present I'm employed as an auto mechanic",
+          "is_correct": true
+        },
+        {
+          "answer": "I am studying to be a mechanic",
+          "is_correct": false
+        },
+        {
+          "answer": "I will become a mechanic",
+          "is_correct": false
+        },
+        {
+          "answer": "I work part-time as a mechanic",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "OMISSION OF THE SPECIFIER\nIt was noted in a footnote to Unit 4 that many nouns referring to nationality, profession or membership in a group occur without a specifier in German.\nIst er nicht als Austauschstudent in Amerika gewesen? - Wasn't he in America as an exchange student?\nWar Ihre Tochter nicht auch im Ausland? - Wasn't your daughter also abroad?\nJa, als Sportlehrerin in Norwegen. - Yes, in Norway as a physical education teacher.\nIch bin ostzonenflüchtling. - I'm a refugee from the Eastern Zone.\nZur Zeit bin ich hier als Autoschlosser angestellt. - At present I'm employed as an auto mechanic.\nIch habe einen Onkel, der amerikanischer Staatsangehöriger ist. - I have an uncle who's an American citizen.\nWaren Sie Mitglied einer Partei? - Were you a member of a (political) party?\nThe specifier is omitted in German in identifying people according to profession, nationality or political or organizational affiliation. Note that English does not omit the specifier here.\nThe specifier is not omitted in German when no emphasis is given to establishing an individual's identity as a member of a group.\nEr war Mechaniker von Beruf. - He was a mechanic by profession.\naber\nEr war ein guter Mechaniker. - He was a good mechanic.\nSie ist Ostzonenflüchtling. - She is a refugee from the Eastern Zone.\naber\nGestern kam wieder ein Ostzonenflüchtling über die Grenze. - Yesterday another refugee from the Eastern Zone came over the border.\nMein Onkel ist amerikanischer Staatsangehöriger. - My uncle is an American citizen.\naber\nIhr Bürge kann nur ein amerikanischer Staatsangehöriger sein. - Only an American citizen can be your sponsor."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

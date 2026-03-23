@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit20_auxiliary_verbs",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Which auxiliary verbs are grouped together in this section due to similarities in form and use?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "dürfen, können, möchte(n), müssen, sollen, wollen",
+            "is_correct": true
+          },
+          {
+            "answer": "gehen, stehen, laufen",
+            "is_correct": false
+          },
+          {
+            "answer": "haben, sein, werden",
+            "is_correct": false
+          },
+          {
+            "answer": "sehen, hören, sprechen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "In verb phrases with auxiliary verbs, what usually follows the auxiliary?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A dependent or complementary infinitive",
+            "is_correct": true
+          },
+          {
+            "answer": "A subjunctive pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "A past participle",
+            "is_correct": false
+          },
+          {
+            "answer": "An adjective",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "For past time references, which tense is most frequently used with these auxiliary verbs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Simple past tense, an irregular weak form",
+            "is_correct": true
+          },
+          {
+            "answer": "Present perfect tense",
+            "is_correct": false
+          },
+          {
+            "answer": "Future tense",
+            "is_correct": false
+          },
+          {
+            "answer": "Present tense",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "In special perfect phrases with dependent infinitives, which form of the auxiliary verb occurs?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The infinitive form of the auxiliary",
+            "is_correct": true
+          },
+          {
+            "answer": "The past participle",
+            "is_correct": false
+          },
+          {
+            "answer": "The present participle",
+            "is_correct": false
+          },
+          {
+            "answer": "The subjunctive form",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Which special form of the auxiliary is commonly used to express polite requests or suggestions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "möchte",
+            "is_correct": true
+          },
+          {
+            "answer": "wollte",
+            "is_correct": false
+          },
+          {
+            "answer": "müsste",
+            "is_correct": false
+          },
+          {
+            "answer": "dürfte",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What is unique about the unreal or subjunctive forms of the auxiliaries sollen and wollen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are identical to their past tense forms",
+            "is_correct": true
+          },
+          {
+            "answer": "They have no subjunctive forms",
+            "is_correct": false
+          },
+          {
+            "answer": "They are used only in the future tense",
+            "is_correct": false
+          },
+          {
+            "answer": "They require a prefix to conjugate",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "In the unreal or subjunctive forms, what does 'dürfte' mean according to the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Would be allowed to, might (with permission), could",
+            "is_correct": true
+          },
+          {
+            "answer": "Would be able to, might (possibly), could",
+            "is_correct": false
+          },
+          {
+            "answer": "Would have to, should, ought to",
+            "is_correct": false
+          },
+          {
+            "answer": "Would be obliged to, ought to (according to expectation)",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which of the following is the correct wir-form of 'dürfen' in the unreal or subjunctive?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "dürften",
+            "is_correct": true
+          },
+          {
+            "answer": "durfte",
+            "is_correct": false
+          },
+          {
+            "answer": "dürfen",
+            "is_correct": false
+          },
+          {
+            "answer": "dürfenst",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What caution does the text provide regarding the English words 'could' and 'ought to' when translating the German auxiliary phrases?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They may represent different German verbs and are not always interchangeable",
+            "is_correct": true
+          },
+          {
+            "answer": "They always refer to present ability",
+            "is_correct": false
+          },
+          {
+            "answer": "They are used only in the past perfect tense",
+            "is_correct": false
+          },
+          {
+            "answer": "They should not be used at all when translating",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "In sentences expressing past possibility, what construction marks the unreal or subjunctive form?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A verb phrase containing hatte in the subjunctive and the infinitive of the auxiliary",
+            "is_correct": true
+          },
+          {
+            "answer": "A phrase with hatte and past participle",
+            "is_correct": false
+          },
+          {
+            "answer": "The auxiliary verb in the present tense",
+            "is_correct": false
+          },
+          {
+            "answer": "A phrase with sein and the past participle",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Notes on Grammar\n(For Home Study)\nA.\nVERBS.\nTHE AUXILIARY VERBS dürfen, können, möchte(n). mUssen, sollen, wollen\nI.\nSummary and Review\nThese verbs show similarities, both in their forms and in the way they\nfunction\nin phrases. which justify treating them as a group.\nFor the purpose of summary\nand review let us look at some of the sentences from recent units and note the\nforms and uses which they illustrate:\n1. The auxiliaries usually occur in verb phrases with complementary or\ndependent\ninfinitives.\nThe infinitive may be omitted however when it is clearly under-\nstood from the rest of the sentence:\nDarf ich um Ihren Namen\nbitten?\nIst das alles, was ich\nhaben muss?\nbut also\nWollten Sie nicht auch in\ndie Buchhandlung Müller?\nMay I have your name please?\nIs that all I have to have?\nDidn't you want [to go] to Müller's\nBookstore also?\n2. In referring to past time the simple past tense -\nan irregular weak form -\nis most frequently used.\nIn the special perfect phrase and special pluper-\nfect phrase with complementary or dependent infinitive the infinitive form\nof the auxiliary, not the past participle, occurs.\nRemember that in sub-\nordinate clauses the two infinitives come last:\nIch konnte leider nicht\nhingehen.\nIch habe meine Abreise\nnoch aufschieben können.\nEr hatte vergessen, dass er\nihn mit ins\n~teil hatte\nnehmen wollen.\nUnfortunately I couldn't go.\nI was able to put off my departure.\nHe had forgotten that he had intended\nto take it with him to the compartment.\n3. These verbs are also used in phrases with perfect infinitives and passive\ninfinitives (cf. p. 473).\nWe have encountered only one example in the\nbasic sentences so far, but many combinations occur:\nDas Brandenburger Tor ~\nman ja gesehen haben.\nDas kann ich gesagt haben.\nDieser Artikel soll so\nschnell wie möglich über-\nsetzt werden.\nDie Karten müssen zurück-\ngegeben werden, wenn keiner\nzu der Aufführung geht.\nEveryone has to see ('one has to have\nseen') the Brandenburg Gate.\nI may have said that.\nThis article is to be translated as\nquickly as possible.\nThe tickets must be returned if no one\nis going to the performance.\n4.\nUp to now one Qf these verbs has occurred only in the special form\nmöchte(~),\nand we have accordingly listed it in this way.\nYou are\nf~niliar with its\nuse as a polite expression of desire, request or suggestion:\nZunächst möchte ich Ihre\nPersonalien aufnehmen.\nIch möchte nach Amerika\nauswandern.\nMöchten die Herrschaften\netwas zu trinken haben?\nSagen Sie ihm doch bitte,\ner mBchte mich sobald wie\nmöglich anrufen.\nFirst of all I'd like to note down\nyour name and address and other personal\nparticulars.\nI'd like to emigrate to America.\nWould you (ladies and gentlemen) care for\nsomething to drink?\nPlease tell him I'd like him to call me\nas soon as possible.\nThis is by far the most common form and use of this auxiliary verb.\nHowever,\nit can be noted at this point that other forms of the verb also occur, al-\nthough less frequently:\nthe Infinitive and Present Tense wir-form is mögen;\nthe Simple Past Tense and Past participle forms are mochte and gemocht.\nWe\nwill not deal with their uses here but list the forms only to complete the\ninventory.\nII.\nUNREAL or SUBJUNCTlVE\nForms\n1.\nUNREAL or SUBJUNCTlVE forms of most of these auxiliary verbs have occurred\nin the last four units.\nLet us review the examples:\nIch könnte Ihnen unseren\nHausarzt empfehlen.\nMeine Vergrösserungen mUss-\nten auch fertig sein.\nDas sollte ich auch tun.\nSie könnten die belegten\nBrötchen holen.\nWären wir ohne Hut und\nMantel gekommen, müseten\nwir dort nicht schon wieder\nanstehen.\nI\ncould recommend our family doctor\nto you.\nMy enlargements ought to be ready too.\nI ought to do that too.\nYou could be getting the sandwiches.\nIf we had come without our hats and\ncoats we wouldn't have to wait in line\nthere again so soon.\nWe must add one further example, which has not occurred in the basic\nsentences:\nWann dürften wir zu Ihnen\nkommen?\nWhen could we come to see you?\n2. It may now be evident to you that the special form\nmöchte(~) is actually\nan UNREAL or SUBJUNCTIVE form.\nLikewise the special form\nwollte(~). which\noccurred in the UNREAL WISH, can be identified as an UNREAL or SUBJUNCTIVE\nform.\nIch wollte. ich wMre nie\nKandidat geworden.\nI wish I\nhad never become a probational\nparty member.\n('Would that I had ... ')\n3.\nThe complete inventory of UNREAL or SUBJUNCTIVE forms of the auxiliaries\ndürfen. können. mögen. müssen, sollen and wollen is as follows:\ner-form\nwir-form\ndu-form\nihr-form\ndürfte\ndürften\ndürftest\ndürftet\nkönnte\nkönnten\nkönntest\nkönntet\nmöchte\nmöchten\nmöchtest\nmöchtet\nmUsste\nmUssten\nmUsstest\nmUsstet\nsollte\nsollten\nsolltest\nsolltet\nwollte\nwollten\nwolltest\nwolltet\n4. It will be noted that the UNREAL or SUBJUNCTIVE forms of sollen and wollen\nare just like the Past Tense forms.\nThe difference between the Past Tense\nand UNREAL or SUBJUNCTIVE forms of the other auxiliary verbs is a very\nimportant sound distinction in German however.\nPractice the pronunciatun of:\ndürfte\nvs.\ndurfte\nkönnte\nvs.\nkonnte\nmUsste\nvs.\nmusste\n5.\nSince the forms and specialized use of\nmöchte(~) are already familiar, it\nwill not be included for further discussion here.\nThe rather limited and\nspecial use of\nwollte(~) in UNREAL WISHES has already been dealt with in\nUnit 19 and needs no further comment either.\nOnly dUrfen, können, mUssen\nand sollen occur frequently in the UNREAL uses discussed in Section III below.\nIII.\nUNREAL or SUBJUNCTIVE Uses\nPRESENT POSSIBILITY\n1. Look back at the examples in paragraph II, 1 above.\nNotice that the\nUNREAL or SUBJUNCTIVE forms of the auxiliary verbs are translated as \"could\",\n\"ought to\",\n\"would have to\", but note also that the same English verb or\nphrase occurs as equivalent to two different German auxiliaries.\nBoth\nkönnte(~) and dürften are given as \"could\";\nboth sollte and müssten are\ngiven as \"ought to\".\nTHIS DOES NOT MEAN THAT THERE IS NO DIFFERENCE IN\nMEANING BETWEEN THESE GERMAN VERB PAIRS IN THEIR UNREAL OR SUBJUNCTIVE FORMS,\nOR THAT THEY ARE INTERCHANGEABLE.\nIt does mean that you will have to be very\ncareful in your mind to distinguish just what the English forms mean.\nRemember that \"could\" may mean \"was able to\",\n\"was allowed to\",\n\"would be able to\"\nor \"would be allowed to\", and \"ought to\" may refer to an obligation or to\nan assumption or surmise.\nTry making up some English sentences using \"could\"\nand \"ought to\" in at least two different ways.\nDo you know other English\nverbs or phrases with two or more different meanings, like these?\n2.\nLook at the sentences in paragraph II, 1 again.\nYou will see that the time\nreference here is to PRESENT POSSIBILITY, actions or states which are at the\npresent time hypothetical or possible of fulfillment.\nNow, keeping in mind\nthe meanings of these four auxiliary verbs as we have encountered them pre-\nviously, let us see if we can more exactly suggest the meanings of the UNREAL\nor SUBJUNCTIVE forms:\ndürfte - \"would be allowed to, might (with permission or by surmise), could\"\nkönnte - \"would be able to, might (possibly), could\"\nmüsste - \"would have to, should, ought to (of necessity or by surmise)\"\nsollte - \"would be obliged to, ought to (under obligation or according\n to expectation), should\"\n3.\nUNREAL or SUBJUNCTIVE forms of the auxiliaries occur both in Conditional\nSentences and in simple sentences expressing PRESENT POSSIBILITY.\n4. Just as we noted in Unit 18 with reference to the auxiliaries haben, sein\nand können we should note that a phrase with würde and the infinitive of\nsome of the auxiliaries dealt with here sometimes occurs also:\nEr hat soviel zu tun, Sie\nwürden ihn nicht vor vier\nUhr nachmittags sprechen\nkönnen.\nWürden wir\nnachm~ttags auch\nSchlange stehen müssen?\nSie sollten mit der Taxe\nkommen, Ihren Wagen würden\nSie sowieso hier nicht\nparken dürfen.\nHe has so much to do you wouldn't be\nable to speak to him before four o'clock\nin the afternoon.\nWould we have to queue up in the after-\nnoon (i.e., for an afternoon performance)\ntoo?\nYou ought to take a taxi;\nyou wouldn't\nbe allowed to park your car here anyway.\nThis phrase is generally less common of occurrence than the UNREAL or\nSUBJUNCTIVE form of the auxiliary.\nIV.\nUNREAL or SUBJUNCTIVE Forms and Uses\nPAST POSSIBILITY\n1. In the current unit we have also encountered other sentences containing\nsome of these auxiliary verbs.\nLook at the following examples:\nDas hatte ich wissen sollen.\nWir hatten Plätze nebenein-\nander bekommen können.\nWenn wir das vorher gewusst\nhatten, hatte ich nicht für\nmeine Karte Schlange stehen\nmüssen.\nI wish I had known that.\n('Somebody should have told me that.')\nWe could have gotten seats next to\neach other.\nIf we had known that before I wouldn't\nhave had to queue up for my ticket.\nWe shall add two more examples, not in the basic sentences:\nHätte er uns dort treffen\nwollen, hatte er vorher\nanrufen müssen.\nZu Hause hatte ich nie\nrauchen dürfen.\nIf he had wanted to meet us there\nhe should have called first.\nI never would have been allowed to smoke\n('could have smoked') at home.\nYou see that the time reference here is to PAST POSSIBILITY,\na possibility\nwhich now no longer exists although it existed at some time in the past.\nNote that the verb phrase which occurs in all these sentences, like the\nspecial perfect and pluperfect phrases, contains the infinitive form of the\nauxiliary verb;\nthis infinitive also comes last in the sentences.\nOccurring\nwith it is the UNREAL or SUBJUNCTIVE form hatte(~).\nIn every other respect\nthe form and arrangement of this phrase is just like that of the special\nperfect and pluperfect phrases reviewed above in paragraph I, 2.\nPAST POSSIBILITY is thus marked by a verb phrase containing the UNREAL or\nSUBJUNCTIVE form hatte(~) and the infinitive of the auxiliary verb dürfen,\nkönnen, müssen, sollen or wollen.\n2.\nIn sentences referring to PAST POSSIBILITY, just as in those referring to\nPRESENT POSSIBILITY, some overlapping of the English phrases given as\nequivalent to the German auxiliary phrases with dürfen, können, müssen and\nsollen occurs.\nThus the English phrase \"could have\" plus past participle\nis found as equivalent to the German auxiliary verb phrases hätte ... können\nand hätte ... dürfen.\nHowever, just as we noted above in paragraph III,\n1 and 2 the meanings of the German verb phrases are distinct.\nCompare the\nfollowing examples:\nIch hätte nicht ins Theater\ngehen können.\nIch hätte nicht ins Theater\ngehen dürfen.\nEr hätte mehr Geld für sein\nAuto bekommen müssen.\nEr hätte mehr Geld für sein\nAuto bekommen sollen.\nI couldn't have gone to the theater\n(i.e., because of lack of money, time, etc.\nI couldn't have gone to the theater\n(i.e., because of lack of permission).\nHe should have got more money for his car\n(i.e., it was worth more and the market\ncan be assumed to have been good).\nHe should have got more money for his\ncar (i.e., someone should have felt\nobliged to pay more, in the speaker's\nopinion).\n3.\nRemember that these phrases, like the special UNREAL or SUBJUNCTIVE forms\nof the auxiliaries, occur both in Conditional Sentences and in simple\nsentences referring to PAST POSSIBILITY."
+      }
+    ],
+    "metadata": {
+      "page_start": 6,
+      "page_end": 10,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

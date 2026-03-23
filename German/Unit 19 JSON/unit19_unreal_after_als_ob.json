@@ -1,0 +1,258 @@
+{
+  "title": "unit19_unreal_after_als_ob",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What conjunction introduces clauses meaning 'as if' in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "als ob",
+          "is_correct": true
+        },
+        {
+          "answer": "weil",
+          "is_correct": false
+        },
+        {
+          "answer": "wenn",
+          "is_correct": false
+        },
+        {
+          "answer": "obwohl",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How is the unreal expressed in clauses with als ob?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Often with the subjunctive but sometimes avoided",
+          "is_correct": true
+        },
+        {
+          "answer": "Always with the present tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Never with subjunctive",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with future tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What anticipating word often precedes an als ob clause?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "so",
+          "is_correct": true
+        },
+        {
+          "answer": "dann",
+          "is_correct": false
+        },
+        {
+          "answer": "denn",
+          "is_correct": false
+        },
+        {
+          "answer": "doch",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence means 'It looks as though it were about to rain'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Es sieht so aus, als ob es gleich regnen würde",
+          "is_correct": true
+        },
+        {
+          "answer": "Es sieht aus, als ob es regnet",
+          "is_correct": false
+        },
+        {
+          "answer": "Es regnet",
+          "is_correct": false
+        },
+        {
+          "answer": "Es könnte regnen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In which example does a plumber appear?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Er arbeitete so, als ob er schon Jahre lang Klempner wäre",
+          "is_correct": true
+        },
+        {
+          "answer": "Er spricht, als ob er keine Hoffnung hätte",
+          "is_correct": false
+        },
+        {
+          "answer": "Er ass, als ob er nicht genug bekommen könnte",
+          "is_correct": false
+        },
+        {
+          "answer": "Sie parkte so, als ob sie noch nie einen Wagen fahren hätte",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which example illustrates forgetting quickly?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Alles, was ich ihm sagte, vergass er so schnell, als ob es gar nicht wichtig gewesen wäre",
+          "is_correct": true
+        },
+        {
+          "answer": "Er ass, als ob er nicht genug bekommen könnte",
+          "is_correct": false
+        },
+        {
+          "answer": "Er arbeitete so, als ob er Klempner wäre",
+          "is_correct": false
+        },
+        {
+          "answer": "Sie parkte so, als ob sie noch nie gefahren hätte",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do German speakers sometimes simplify als ob clauses?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By using würde instead of könnte",
+          "is_correct": true
+        },
+        {
+          "answer": "By dropping the clause",
+          "is_correct": false
+        },
+        {
+          "answer": "By adding 'wenn'",
+          "is_correct": false
+        },
+        {
+          "answer": "By changing to active voice",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Er ass, als ob er nicht genug bekommen könnte' convey?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He ate as if he couldn't get enough",
+          "is_correct": true
+        },
+        {
+          "answer": "He ate because he wasn't hungry",
+          "is_correct": false
+        },
+        {
+          "answer": "He ate slowly as if he were sick",
+          "is_correct": false
+        },
+        {
+          "answer": "He refused to eat",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which clause shows an absence of hope?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Er spricht, als ob er keine Hoffnung mehr hätte, dass sich die Zustände ändern würden",
+          "is_correct": true
+        },
+        {
+          "answer": "Es sieht so aus, als ob es regnen würde",
+          "is_correct": false
+        },
+        {
+          "answer": "Er ass, als ob er nicht genug bekommen könnte",
+          "is_correct": false
+        },
+        {
+          "answer": "Sie parkte so, als ob sie nicht gefahren hätte",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What situation is being described in 'Das hört sich leider so an, als ob es sehr lange dauern könnte'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A potential long duration",
+          "is_correct": true
+        },
+        {
+          "answer": "A completed action",
+          "is_correct": false
+        },
+        {
+          "answer": "An immediate decision",
+          "is_correct": false
+        },
+        {
+          "answer": "A definite plan",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "THE UNREAL AFTER als ob\nThe UNREAL or SUBJUNCTIVE has occurred in another situation in this unit:\nDas hört sich leider so an, als ob es sehr lange dauern könnte.\nI'm afraid that sounds as if it could take quite a long time.\nIn clauses introduced by als ob (\"as if, as though\") UNREAL or SUBJUNCTIVE forms are often encountered. German speakers do not consistently use the UNREAL here however, and you will often hear the sentence as:\nDas hört sich leider so an, als ob es lange dauern würde.\nI'm afraid that sounds as if it may take quite a long time.\nClauses introduced by als ob are frequently preceded by the anticipating word so in the main clause. They may occur after a number of different verbs, and reference may be to either present or past possibility. Here are some additional examples:\nEs sieht so aus, als ob es gleich regnen würde.\nEr spricht, als ob er keine Hoffnung mehr hätte, dass sich die Zustände ändern würden.\nEr arbeitete so, als ob er schon Jahre lang Klempner wäre.\nAlles, was ich ihm sagte, vergass er so schnell, als ob es gar nicht wichtig gewesen wäre.\nEr ass, als ob er nicht genug bekommen könnte.\nSie parkte so, als ob sie noch nie einen Wagen fahren hätte.\nIt looks as though it were about to rain.\nHe talks as if he no longer had any hopes that circumstances would change.\nHe worked as if he had been a plumber for years.\nHe forgot everything I told him as quickly as if it hadn't been at all important.\nHe ate as if he couldn't get enough.\nShe parked as if she had never driven a car before."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

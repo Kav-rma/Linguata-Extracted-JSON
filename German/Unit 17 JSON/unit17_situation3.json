@@ -1,0 +1,284 @@
+[
+  {
+    "title": "unit17_situation3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What problem does X's wife tell him about when he comes home?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "The stove is broken.",
+            "is_correct": false
+          },
+          {
+            "answer": "The kitchen faucet is dripping.",
+            "is_correct": true
+          },
+          {
+            "answer": "The lights are out.",
+            "is_correct": false
+          },
+          {
+            "answer": "The window is stuck.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question": "What had X's wife been doing all day?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Cleaning the kitchen.",
+            "is_correct": false
+          },
+          {
+            "answer": "Baking a cake.",
+            "is_correct": false
+          },
+          {
+            "answer": "Trying to reach the plumber.",
+            "is_correct": true
+          },
+          {
+            "answer": "Shopping for tools.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question": "Was she successful in reaching the plumber?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Yes, he was coming immediately.",
+            "is_correct": false
+          },
+          {
+            "answer": "No, she had no luck.",
+            "is_correct": true
+          },
+          {
+            "answer": "She left a message.",
+            "is_correct": false
+          },
+          {
+            "answer": "She fixed the issue herself.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question": "What does X decide to do about the dripping faucet?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "Wait for the plumber.",
+            "is_correct": false
+          },
+          {
+            "answer": "Call a neighbor.",
+            "is_correct": false
+          },
+          {
+            "answer": "Try to repair it himself.",
+            "is_correct": true
+          },
+          {
+            "answer": "Ignore it.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is the problem X faces when he wants to fix the faucet?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "He doesn't know how.",
+            "is_correct": false
+          },
+          {
+            "answer": "He doesn't have the right tools.",
+            "is_correct": true
+          },
+          {
+            "answer": "He can't find the faucet.",
+            "is_correct": false
+          },
+          {
+            "answer": "The water supply is shut off.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question": "To whom does X go for help?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "His brother.",
+            "is_correct": false
+          },
+          {
+            "answer": "His neighbor Y who lives nearby.",
+            "is_correct": true
+          },
+          {
+            "answer": "A hardware store employee.",
+            "is_correct": false
+          },
+          {
+            "answer": "The plumber.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does X ask Y?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "If Y can repair the faucet.",
+            "is_correct": false
+          },
+          {
+            "answer": "If he can borrow some tools.",
+            "is_correct": true
+          },
+          {
+            "answer": "If Y knows the plumber's phone number.",
+            "is_correct": false
+          },
+          {
+            "answer": "If Y can babysit his children.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question": "What does Y say about waiting for workmen nowadays?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "They arrive quickly.",
+            "is_correct": false
+          },
+          {
+            "answer": "They are expensive.",
+            "is_correct": false
+          },
+          {
+            "answer": "One often has to wait a long time.",
+            "is_correct": true
+          },
+          {
+            "answer": "They are very friendly.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question": "What suggestion does Y make?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "To move to another house.",
+            "is_correct": false
+          },
+          {
+            "answer": "To learn to fix such things yourself.",
+            "is_correct": true
+          },
+          {
+            "answer": "To buy a new faucet.",
+            "is_correct": false
+          },
+          {
+            "answer": "To give up on fixing the faucet.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question": "According to the text, what is good to have at home?",
+        "type": "multiple_choice",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer": "A list of phone numbers.",
+            "is_correct": false
+          },
+          {
+            "answer": "A reliable plumber.",
+            "is_correct": false
+          },
+          {
+            "answer": "The necessary basic tools.",
+            "is_correct": true
+          },
+          {
+            "answer": "Extra kitchen faucets.",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "X. hört von seiner Frau, als er abends nach Hause kommt, dass in der Küche der Wasserhahn tropft."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Seine Frau hat den ganzen Tag versucht, den Klempner zu erreichen, hatte aber kein Glück."
+      },
+      {
+        "sequence_id": 3,
+        "text": "X. will versuchen, den Wasserhahn zu reparieren."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Leider hat er nicht das richtige Werkzeug dazu."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Er geht zu seinem Bekannten, Y., der in der Nähe wohnt und fragt ihn, ob er sich Werkzeug von ihm leihen kann."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Er erzählt ihm, wozu er es braucht und Y. sagt, dass man heutzutage oft lange auf die Handwerker warten muss."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Es ist besser, wenn man solche Sachen selbst reparieren kann und dazu das nötigste Werkzeug im Haus hat."
+      }
+    ],
+    "metadata": {
+      "page_start": 38,
+      "page_end": 38,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

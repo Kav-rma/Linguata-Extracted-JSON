@@ -1,0 +1,258 @@
+{
+  "title": "unit19_unreal_wishes",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which words can introduce an unreal wish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wünschte or wollte",
+          "is_correct": true
+        },
+        {
+          "answer": "dachte or machte",
+          "is_correct": false
+        },
+        {
+          "answer": "würde or könnte",
+          "is_correct": false
+        },
+        {
+          "answer": "werden or sein",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Unreal wishes may express which types of possibility?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Present and past",
+          "is_correct": true
+        },
+        {
+          "answer": "Future only",
+          "is_correct": false
+        },
+        {
+          "answer": "Present only",
+          "is_correct": false
+        },
+        {
+          "answer": "Past only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the sentence 'Wir wünschten, er hätte mehr Zeit für uns' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "We wish he had more time for us",
+          "is_correct": true
+        },
+        {
+          "answer": "We hope he will have time",
+          "is_correct": false
+        },
+        {
+          "answer": "He will have more time",
+          "is_correct": false
+        },
+        {
+          "answer": "We had more time for him",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What kind of clause can stand alone in an unreal wish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A clause or special conditional clause with nur or bloss",
+          "is_correct": true
+        },
+        {
+          "answer": "A relative clause",
+          "is_correct": false
+        },
+        {
+          "answer": "A command clause",
+          "is_correct": false
+        },
+        {
+          "answer": "An interrogative clause",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which particle expresses urgency in an unreal wish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "nur or bloss",
+          "is_correct": true
+        },
+        {
+          "answer": "aber or sondern",
+          "is_correct": false
+        },
+        {
+          "answer": "doch or ja",
+          "is_correct": false
+        },
+        {
+          "answer": "denn or bitte",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How would you translate 'Wenn es nur regnen würde!'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If only it would rain!",
+          "is_correct": true
+        },
+        {
+          "answer": "When it rains",
+          "is_correct": false
+        },
+        {
+          "answer": "Although it rains",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it rains",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which sentence expresses a wish for the past?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hätten wir das Haus bloss nicht gekauft!",
+          "is_correct": true
+        },
+        {
+          "answer": "Wir wollen das Haus kaufen",
+          "is_correct": false
+        },
+        {
+          "answer": "Wir kaufen das Haus morgen",
+          "is_correct": false
+        },
+        {
+          "answer": "Wir haben das Haus gekauft",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "The forms wünschte and wollte are considered what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Interchangeable in unreal wishes",
+          "is_correct": true
+        },
+        {
+          "answer": "Past participles",
+          "is_correct": false
+        },
+        {
+          "answer": "Infinitives",
+          "is_correct": false
+        },
+        {
+          "answer": "Subordinate conjunctions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Ich wollte, ich wäre nie Kandidat geworden' express?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A wish that something in the past had been different",
+          "is_correct": true
+        },
+        {
+          "answer": "A future plan",
+          "is_correct": false
+        },
+        {
+          "answer": "A command",
+          "is_correct": false
+        },
+        {
+          "answer": "A present fact",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In which section do unreal wishes belong?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Unit 19 grammar notes",
+          "is_correct": true
+        },
+        {
+          "answer": "Unit 18 vocabulary",
+          "is_correct": false
+        },
+        {
+          "answer": "Unit 17 translation",
+          "is_correct": false
+        },
+        {
+          "answer": "Unit 20 pronunciation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "UNREAL WISHES - PRESENT AND PAST\nNotice that an UNREAL WISH may express past as well as present possibility and may be introduced by either of the special forms wünschte (wünschten) or wollte (wollten) interchangeably.\nIch wollte, ich wäre nie Kandidat geworden. oder Ich wünschte, ich wäre nie Kandidat geworden.\nWir wünschten, er hätte mehr Zeit für uns. oder Wir wollten, er hätte mehr Zeit für uns.\nI wish I had never become a probational party member.\nWe wish he had more time for us.\nAnother type of UNREAL WISH, which has not occurred in our basic sentences, consists of a clause or special conditional clause standing alone, usually with the words nur or bloss:\nWenn es nur regnen würde! Hätten wir das Haus bloss nicht gekauft! Wenn wir nur damals schon ausgewandert wären! Wäre ich bloss schon zu Hause!\nIf only it would rain! If only we hadn't bought the house! If we had only emigrated at that time! If I were only home already!"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

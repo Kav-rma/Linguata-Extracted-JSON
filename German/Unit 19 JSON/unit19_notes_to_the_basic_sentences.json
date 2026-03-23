@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit19_notes_to_the_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "In German, what does 'Geburtsdatum und -ort' represent?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Geburtsdatum und Geburtsort.",
+            "is_correct": true
+          },
+          {
+            "answer": "Birth month and year.",
+            "is_correct": false
+          },
+          {
+            "answer": "Birth certificate.",
+            "is_correct": false
+          },
+          {
+            "answer": "Place and time of death.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What order does the numerical code for dates in German follow?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Day – month – year",
+            "is_correct": true
+          },
+          {
+            "answer": "Month – day – year",
+            "is_correct": false
+          },
+          {
+            "answer": "Year – day – month",
+            "is_correct": false
+          },
+          {
+            "answer": "Year – month – day",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What type of numerals are used for the day and month symbols in German date codes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ordinal numerals",
+            "is_correct": true
+          },
+          {
+            "answer": "Cardinal numerals",
+            "is_correct": false
+          },
+          {
+            "answer": "Roman numerals",
+            "is_correct": false
+          },
+          {
+            "answer": "Fractional numerals",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Under what name do Soviet occupation authorities refer to the Eastern Zone?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "die Deutsche Demokratische Republik",
+            "is_correct": true
+          },
+          {
+            "answer": "die Bundesrepublik Deutschland",
+            "is_correct": false
+          },
+          {
+            "answer": "die Freie Universität Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "die Deutsche Einheit",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How do most Germans not living in the Eastern Zone commonly refer to it?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "die Ostzone or die Zone",
+            "is_correct": true
+          },
+          {
+            "answer": "die Republik",
+            "is_correct": false
+          },
+          {
+            "answer": "die Hauptstadt",
+            "is_correct": false
+          },
+          {
+            "answer": "die Heimat",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "In what year was the SED party created?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "1946",
+            "is_correct": true
+          },
+          {
+            "answer": "1933",
+            "is_correct": false
+          },
+          {
+            "answer": "1918",
+            "is_correct": false
+          },
+          {
+            "answer": "1950",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which parties merged to form the SED in 1946?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "SPD and KPD",
+            "is_correct": true
+          },
+          {
+            "answer": "SPD and CDU",
+            "is_correct": false
+          },
+          {
+            "answer": "FDP and KPD",
+            "is_correct": false
+          },
+          {
+            "answer": "SPD and CSU",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What is a 'Strafregister'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A record of criminal convictions maintained by legal authorities",
+            "is_correct": true
+          },
+          {
+            "answer": "A birth certificate",
+            "is_correct": false
+          },
+          {
+            "answer": "A medical record",
+            "is_correct": false
+          },
+          {
+            "answer": "A passport",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What does 'Strafregisterauszug' refer to?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The extract or summary of court convictions for an individual",
+            "is_correct": true
+          },
+          {
+            "answer": "The complete criminal register",
+            "is_correct": false
+          },
+          {
+            "answer": "A list of police charges for traffic violations",
+            "is_correct": false
+          },
+          {
+            "answer": "An employment history",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What type of offenses are listed on a Führungszeugnis issued by a police headquarters?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Police charges, fines or jail sentences for misdemeanors not involving court proceedings",
+            "is_correct": true
+          },
+          {
+            "answer": "All political activities",
+            "is_correct": false
+          },
+          {
+            "answer": "Only traffic violations",
+            "is_correct": false
+          },
+          {
+            "answer": "Civil lawsuits",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "1. Geburtsdatum und -ort = Geburtsdatum und Geburtsort. Germans often represent part of a compound only by a hyphen if it occurs in another compound closely preceding or following. Cf. in Unit 18 Hals- Nasen- und Ohrenarzt (= Halsarzt, Nasenarzt und Ohrenarzt).\n\n2. 11.6.33 (elften sechsten dreiunddreißig). The numerical code for dates in German follows the same order as the unabbreviated date, i.e. day - month - year. The day and month symbols are ordinal numerals (elften Tag, sechsten Monat), so indicated by the period following the number.\n\n3. Ostzone. The Eastern (Soviet Occupation) Zone is referred to by the Soviet occupation authorities as die Deutsche Demokratische Republik (DDR), and its population is obliged to use this name or abbreviation officially, although it is not recognized by the West and most Germans not living there refer to it informally as die Ostzone or simply die Zone.\n\n4. SED. This party was created in the Soviet Occupation Zone in 1946 as a \"union\" of the Sozialdemokratische Partei Deutschlands (SPD) and the Kommunistische Partei Deutschlands (KPD).\n\n5. Wäre ich es nicht geworden = Wenn ich es nicht geworden wäre.\n\n6. A Strafregister is a record maintained by a district court, district attorney's office or police authority which lists all persons residing in that particular jurisdiction who have been convicted of a crime (vorbestraft). The Strafregisterauszug is the extract or summary of court convictions applying to a particular individual.\n\n7. The Führungszeugnis issued by a police headquarters lists all police charges, fines or jail sentences levied against a particular person for misdemeanors subject to police jurisdiction and not involving court proceedings."
+      }
+    ],
+    "metadata": {
+      "page_start": 8,
+      "page_end": 8,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

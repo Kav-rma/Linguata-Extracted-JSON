@@ -1,0 +1,258 @@
+{
+  "title": "unit19_word_order_nouns_pronouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In sentences with both a direct and indirect object, which comes first?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The pronoun object",
+          "is_correct": true
+        },
+        {
+          "answer": "The noun object",
+          "is_correct": false
+        },
+        {
+          "answer": "The subject",
+          "is_correct": false
+        },
+        {
+          "answer": "The verb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is notable about object order in German sentences beginning with the verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A pronoun object may precede a noun subject",
+          "is_correct": true
+        },
+        {
+          "answer": "The verb always comes last",
+          "is_correct": false
+        },
+        {
+          "answer": "The noun subject must precede everything",
+          "is_correct": false
+        },
+        {
+          "answer": "Objects are always at the end",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the example 'Nehmen Sie täglich dreimal je fünfzehn Tropfen ...', what is being prescribed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Fifteen drops of medicine three times a day",
+          "is_correct": true
+        },
+        {
+          "answer": "Ten drops once a day",
+          "is_correct": false
+        },
+        {
+          "answer": "A tablet before meals",
+          "is_correct": false
+        },
+        {
+          "answer": "An injection",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What happens when both objects are pronouns?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The accusative pronoun precedes the dative pronoun",
+          "is_correct": true
+        },
+        {
+          "answer": "The dative pronoun precedes the accusative pronoun",
+          "is_correct": false
+        },
+        {
+          "answer": "Both pronouns follow the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "The pronouns appear at the end",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which sentence shows a pronoun object preceding a noun object?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich habe es dem Arzt gesagt",
+          "is_correct": true
+        },
+        {
+          "answer": "Der Arzt hat es mir gesagt",
+          "is_correct": false
+        },
+        {
+          "answer": "Herr Becker diktierte seiner Sekretärin einen langen Brief",
+          "is_correct": false
+        },
+        {
+          "answer": "Dr. Buchner hat meiner Frau eine Kur verordnet",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the English meaning of 'Blieb Ihnen noch Zeit für private Interessen?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Did you have any time left for your private interests?",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you need more time?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you still have interest in work?",
+          "is_correct": false
+        },
+        {
+          "answer": "Are you interested in private matters?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which example illustrates two noun objects in a dative-accusative order?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Herr Becker diktierte seiner Sekretärin einen langen Brief",
+          "is_correct": true
+        },
+        {
+          "answer": "Ich habe sie dem nicht gezeigt",
+          "is_correct": false
+        },
+        {
+          "answer": "Er hat Ihnen das schon gebracht",
+          "is_correct": false
+        },
+        {
+          "answer": "Nehmen Sie täglich dreimal ...",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In 'Wieviel kostet der Anzug? Gut, packen Sie ihn mir bitte ein.' what is being requested?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To wrap up the suit",
+          "is_correct": true
+        },
+        {
+          "answer": "To try on the suit",
+          "is_correct": false
+        },
+        {
+          "answer": "To buy the suit",
+          "is_correct": false
+        },
+        {
+          "answer": "To pay for the suit",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Why is object order important in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It clarifies relationships between pronouns and nouns",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes verb conjugations",
+          "is_correct": false
+        },
+        {
+          "answer": "It affects adjective endings",
+          "is_correct": false
+        },
+        {
+          "answer": "It determines the gender of nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which pronoun placement is correct when both objects follow the verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Accusative pronoun before dative pronoun",
+          "is_correct": true
+        },
+        {
+          "answer": "Dative pronoun before accusative pronoun",
+          "is_correct": false
+        },
+        {
+          "answer": "Pronouns always after nouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Pronouns always at the beginning",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "WORD ORDER - NOUNS AND PRONOUNS\nUp to now in talking about word order we have been mainly concerned with the position of the finite, or inflected verb in the sentence. Let us now examine the place of noun and pronoun objects in the following sentences, most of which have occurred in the preceding units:\nNehmen Sie täglich dreimal je fünfzehn Tropfen von der Medizin, für die ich Ihnen jetzt ein Rezept gebe. (Take fifteen drops three times a day of something I'll give you a prescription for.)\nKonnten Sie ihm nicht noch schnell ein paar Zeitungen holen, ehe der Zug abfuhr? (Couldn't you still hurry and get him a couple of newspapers before the train left?)\nEmpfehlen Sie mich bitte Ihrer Frau Gemahlin. (Please remember me to Mrs....)\nMein achtjähriger Sohn hat sich das Knie aufgeschlagen. (My eight-year-old son [fell and] scraped his knee.)\nIch habe es dem Arzt gesagt. (I said it to the doctor.)\nIn sentences in which a direct and indirect object (or an object and an interested bystander) occur, you will notice that the PRONOUN OBJECT consistently PRECEDES the NOUN OBJECT with its specifier and modifiers.\nNow note the following examples:\nWenn Sie den Jungen jetzt gleich bringen würden, könnte ihn Herr Doktor sofort behandeln. (If you'd bring the boy right to the office now the doctor could treat him immediately.)\nBlieb Ihnen noch Zeit für private Interessen? (Did you have any time left for [your own] private interests?)\nDeshalb interessierte mich der Wiederaufbau. (That's why the reconstruction interested me.)\nÜbrigens wollte Sie ein Herr von der englischen Botschaft sprechen. (By the way a gentleman from the British Embassy wanted to talk to you.)\nHere it can be seen that a PRONOUN OBJECT may precede a NOUN SUBJECT with its specifier and modifiers in sentences beginning with the verb or with another word than the subject.\nNow also note these examples:\nWieviel kostet der Anzug? Gut, packen Sie ihn mir bitte ein. (How much does the suit cost? All right; wrap it up for me please.)\nIch glaube, Fräulein Bruce hat eine Schreibmaschine. Sie leiht sie Ihnen sicher gern. (I think Miss Bruce has one. I'm sure she'll be glad to lend it to you.)\nWhen both objects of a verb are pronouns the ACCUSATIVE PRONOUN usually PRECEDES THE DATIVE PRONOUN. Note that pointing words, however, generally follow other pronouns when both objects follow the verb.\nEr hat Ihnen das schon gestern gebracht. (He brought you that yesterday already.)\nIch habe sie dem nicht gezeigt. (I didn't show them to him.)\nHere are a few sentences in which both objects of the verb are nouns:\nHerr Becker diktierte seiner Sekretärin einen langen Brief. (Mr. Becker dictated a long letter to his secretary.)\nDr. Buchner hat meiner Frau eine Kur in Bad Nauheim verordnet. (Dr. Buchner prescribed treatment at Bad Nauheim for my wife.)\nIn sentences of this type DATIVE NOUN OBJECTS PRECEDE ACCUSATIVE NOUN OBJECTS with their specifiers and modifiers."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

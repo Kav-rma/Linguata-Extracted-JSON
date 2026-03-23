@@ -1,0 +1,553 @@
+{
+  "title": "unit19_substitution_drill_part1",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Use the pattern 'Ich kenne jemanden, der für mich bürgen würde.' and replace 'jemanden' with 'einen Amerikaner, der'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kenne einen Amerikaner, der für mich bürgen würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Use the pattern 'Ich kenne jemanden, der für mich bürgen würde.' and replace 'jemanden' with 'niemanden, der'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kenne niemanden, der für mich bürgen würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Use the pattern 'Ich kenne jemanden, der für mich bürgen würde.' and replace 'jemanden' with 'einen Arzt, der'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kenne einen Arzt, der für mich bürgen würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Use the pattern 'Ich kenne jemanden, der für mich bürgen würde.' and replace 'jemanden' with 'einige Professoren, die'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kenne einige Professoren, die für mich bürgen würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Use the pattern 'Ich kenne jemanden, der für mich bürgen würde.' and replace 'jemanden' with 'einen Diplomaten, der'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kenne einen Diplomaten, der für mich bürgen würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Use the pattern 'Ich kenne jemanden, der für mich bürgen würde.' and replace 'jemanden' with 'mehrere Leute, die'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ich kenne mehrere Leute, die für mich bürgen würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Use the pattern 'Sie hat einen Onkel, der ihr Bürge sein würde.' and replace 'einen Onkel' with 'einen Bekannten, der'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie hat einen Bekannten, der ihr Bürge sein würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Use the pattern 'Sie hat einen Onkel, der ihr Bürge sein würde.' and replace 'einen Onkel' with 'eine Tante, die'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie hat eine Tante, die ihr Bürge sein würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Use the pattern 'Sie hat einen Onkel, der ihr Bürge sein würde.' and replace 'einen Onkel' with 'einen Verwandten, der'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie hat einen Verwandten, der ihr Bürge sein würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Use the pattern 'Sie hat einen Onkel, der ihr Bürge sein würde.' and replace 'einen Onkel' with 'einen Bruder, der'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie hat einen Bruder, der ihr Bürge sein würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Use the pattern 'Sie hat einen Onkel, der ihr Bürge sein würde.' and replace 'einen Onkel' with 'eine Schwester, die'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie hat eine Schwester, die ihr Bürge sein würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Use the pattern 'Sie hat einen Onkel, der ihr Bürge sein würde.' and replace 'einen Onkel' with 'eine Verwandte, die'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie hat eine Verwandte, die ihr Bürge sein würde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '10.4.24'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 10.4.24 geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '3.1.04'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 3.1.04 geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '26.10.40'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 26.10.40 geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '14.9.32'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 14.9.32 geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '19.8.16'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 19.8.16 geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '6.2.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 6.2. geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '5.5.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 5.5. geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Use the pattern 'Er ist am 11.6.33 geboren.' and replace '11.6.33' with '4.11.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist am 4.11. geboren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'bei der Post'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist bei der Post angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'beim Arbeitsamt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist beim Arbeitsamt angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'bei der Gewerkschaft'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist bei der Gewerkschaft angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'beim Konsulat'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist beim Konsulat angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'bei der Stadtpolizei'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist bei der Stadtpolizei angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'bei der Botschaft'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist bei der Botschaft angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'beim Gesundheitsamt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist beim Gesundheitsamt angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'bei der Bank'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist bei der Bank angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'bei der Buchhandlung Müller'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist bei der Buchhandlung Müller angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Use the pattern 'Er ist bei der Volkswagengeneralvertretung angestellt.' and replace 'bei der Volkswagengeneralvertretung' with 'bei dem Photogeschäft Knopp'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er ist bei dem Photogeschäft Knopp angestellt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Use the pattern 'Unser Betrieb in der Zone ist VEB geworden.' and replace 'Unser Betrieb' with 'unsere Schiffswerft'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "unsere Schiffswerft in der Zone ist VEB geworden.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Use the pattern 'Unser Betrieb in der Zone ist VEB geworden.' and replace 'Unser Betrieb' with 'unser Hotel'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "unser Hotel in der Zone ist VEB geworden.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Use the pattern 'Unser Betrieb in der Zone ist VEB geworden.' and replace 'Unser Betrieb' with 'unsere Reparaturwerkstatt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "unsere Reparaturwerkstatt in der Zone ist VEB geworden.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Use the pattern 'Unser Betrieb in der Zone ist VEB geworden.' and replace 'Unser Betrieb' with 'unser Geschäft'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "unser Geschäft in der Zone ist VEB geworden.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Use the pattern 'Unser Betrieb in der Zone ist VEB geworden.' and replace 'Unser Betrieb' with 'unser Restaurant'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "unser Restaurant in der Zone ist VEB geworden.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'den Scheck'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade den Scheck.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'den Pass'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade den Pass.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'den Bericht'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade den Bericht.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'das Visum'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade das Visum.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'die Urkunde'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade die Urkunde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'den Antrag'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade den Antrag.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'den Meldeschein'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade den Meldeschein.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'den Geschäftsbrief'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade den Geschäftsbrief.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'die Unterlagen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade die Unterlagen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "Use the pattern 'Er unterschreibt gerade das Formular.' and replace 'das Formular' with 'das Rezept'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Er unterschreibt gerade das Rezept.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 16,
+    "page_end": 18,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

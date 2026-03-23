@@ -1,0 +1,258 @@
+{
+  "title": "unit15_passive_phrase",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which phrase can refer to present, past, or future time?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Perfect phrase",
+          "is_correct": false
+        },
+        {
+          "answer": "Pluperfect phrase",
+          "is_correct": false
+        },
+        {
+          "answer": "Passive phrase",
+          "is_correct": true
+        },
+        {
+          "answer": "Infinitive phrase",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How is the agent of an action commonly introduced in a German passive phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By the preposition 'durch' followed by a genitive form",
+          "is_correct": false
+        },
+        {
+          "answer": "By the preposition 'von' followed by a dative form",
+          "is_correct": true
+        },
+        {
+          "answer": "By the preposition 'zu' followed by an accusative form",
+          "is_correct": false
+        },
+        {
+          "answer": "By the preposition 'mit' followed by a dative form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What indicates that a passive phrase refers only to future time?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The use of the auxiliary verb 'sein'",
+          "is_correct": false
+        },
+        {
+          "answer": "Two forms of 'werden' appear in the phrase",
+          "is_correct": true
+        },
+        {
+          "answer": "The presence of the preposition 'von'",
+          "is_correct": false
+        },
+        {
+          "answer": "A dative indirect object",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the past participle of 'werden' when it functions as a passive auxiliary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "geworden",
+          "is_correct": false
+        },
+        {
+          "answer": "worden",
+          "is_correct": true
+        },
+        {
+          "answer": "gewesen",
+          "is_correct": false
+        },
+        {
+          "answer": "gegangen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which of the following sentences is an example of a passive phrase introduced by 'es'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Die Koffer werden morgen zur Gepäckaufgabe gebracht werden.",
+          "is_correct": false
+        },
+        {
+          "answer": "Es wurde viel geredet.",
+          "is_correct": true
+        },
+        {
+          "answer": "Mir wurde gesagt, dass er ein guter Tennisspieler ist.",
+          "is_correct": false
+        },
+        {
+          "answer": "Der Bericht wird gerade geschrieben.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What happens to the dative indirect object when the verb occurs in a passive phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It remains in the dative case",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes to nominative",
+          "is_correct": false
+        },
+        {
+          "answer": "It changes to accusative",
+          "is_correct": false
+        },
+        {
+          "answer": "It is omitted",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which preposition introduces the instrument (non-personal cause) in a passive phrase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "von",
+          "is_correct": false
+        },
+        {
+          "answer": "durch",
+          "is_correct": true
+        },
+        {
+          "answer": "mit",
+          "is_correct": false
+        },
+        {
+          "answer": "zu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How is the passive phrase with present tense 'werden' interpreted in context?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It always refers to future time",
+          "is_correct": false
+        },
+        {
+          "answer": "It may refer to present or future depending on context",
+          "is_correct": true
+        },
+        {
+          "answer": "It always refers to past time",
+          "is_correct": false
+        },
+        {
+          "answer": "It has no meaning",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What auxiliary verb does a perfect phrase with 'werden' always use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "haben",
+          "is_correct": false
+        },
+        {
+          "answer": "sein",
+          "is_correct": true
+        },
+        {
+          "answer": "werden",
+          "is_correct": false
+        },
+        {
+          "answer": "lassen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence describes a situation where actions were done in the past without specifying an agent?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Es wurde viel geredet.",
+          "is_correct": true
+        },
+        {
+          "answer": "Die Wohnhäuser sind von bekannten Architekten entworfen worden.",
+          "is_correct": false
+        },
+        {
+          "answer": "Die Koffer werden morgen von den Männern gebracht.",
+          "is_correct": false
+        },
+        {
+          "answer": "Der Bericht wird geschrieben.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The PASSIVE PHRASE is not restricted to a particular time of action as are the perfect and pluperfect phrases, which always refer to past time. Passive phrases may refer to present, past or future time. They differ from the actor–action–goal, or subject–verb–object pattern familiar to us in that the subject itself is in most cases the goal of action, the person or thing acted upon.\nDie Koffer werden morgen zur Gepäckaufgabe gebracht werden.\nDas Reichstagsgebäude wurde vor dem Kriege zerstört.\nDer Bericht wird gerade geschrieben.\nThe suitcases will be taken to the baggage checkroom tomorrow.\nThe parliament building was destroyed before the war.\nThe report is just being written.\n\nIn a PASSIVE PHRASE the AGENT or INSTRUMENT responsible for the action may or may not be indicated. In the sentences above it is not. We read only that the action occurred, is occurring or will occur. The AGENT or INSTRUMENT may however be expressed:\nDer Bericht wird gerade von dem Betriebsleiter geschrieben.\nDas Reichstagsgebäude wurde durch den berüchtigten Reichstagsbrand vor dem Kriege zerstört.\nDie Koffer werden morgen von den Männern zur Gepäckaufgabe gebracht werden.\nThe report is just being written by the plant manager.\nThe parliament building was destroyed by the notorious Reichstag fire before the war.\nThe suitcases will be taken to the baggage checkroom by the men tomorrow.\nNote that German usually introduces the AGENT, or person responsible for the action, by the preposition von, always followed by a dative form. The INSTRUMENT, the non-personal cause or instigator of the action, is introduced by the preposition durch, which is always followed by an accusative form.\n\nReference to present, past or future time is indicated by the form of the PASSIVE AUXILIARY werden. Since werden is also the future auxiliary it is necessary to distinguish carefully between the two. Whenever a form of werden occurs with a past participle the implication is first of all passive. Remember, however, that Germans often use the present to talk about the future, and a passive phrase with a present tense form of werden may refer either to present or future time, depending on the context. A phrase in which a form of werden occurs twice refers of course only to future time.\nDas Gepäck wird gerade abgeholt.\nDas Gepäck wird nächste Woche abgeholt.\nDas Gepäck wird sicher abgeholt werden.\nThe baggage is just being picked up.\nThe baggage is going to be picked up next week.\nThe baggage will certainly be picked up.\nReference to past time may be indicated either by the simple past form wurde, as we have seen above, or by a perfect (or pluperfect) phrase.\nIst die Kirche im Kriege stark beschädigt worden?\nDie Wohnhäuser in diesem Viertel sind von bekannten Architekten entworfen worden.\nWas the church damaged this badly during the war?\nThe apartment houses in this section were designed by famous architects.\n\nNotice the special past participle form of the passive auxiliary, worden. When the verb werden is not functioning as the passive auxiliary, its past participle is geworden.\nJetzt ist es wieder kühler geworden.\nSeine Frau ist Amerikanerin geworden.\nNow it has become cooler.\nHis wife has become an American citizen.\nA perfect phrase with werden ALWAYS has the auxiliary verb sein, however.\n\nA number of German verbs occur with a dative indirect object or complement. The dative form remains when these verbs occur in PASSIVE PHRASES. In many cases no nominative subject form occurs at all.\nMir wurde gesagt, dass er ein guter Tennisspieler ist.\nIhm konnte nicht geholfen werden.\nDen Kindern ist nicht geglaubt worden.\nI was told that he's a good tennis player.\nHe could not be helped.\nThe children were not believed.\n\nThe PASSIVE PHRASE is often introduced by es in German. Sometimes it is followed by a true grammatical subject, sometimes not, and in some cases no subject at all appears in the sentence. The PASSIVE PHRASE then merely indicates that some action is going on.\nEs wird „Die Zauberflöte“ von Mozart gespielt.\nEs wurde viel geredet.\nEs wird dort schwer gearbeitet.\nDa wurde gegessen und getrunken bis spät in die Nacht.\nDann wurde ausgepackt und eingerichtet und saubergemacht.\nMozart's “Magic Flute” is playing.\nThere was a lot of talking.\nPeople work hard there.\nThere was eating and drinking far into the night.\nThen things were unpacked and furniture was arranged and the cleaning up was done."
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

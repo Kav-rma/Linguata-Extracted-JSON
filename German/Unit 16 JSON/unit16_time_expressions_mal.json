@@ -1,0 +1,258 @@
+{
+  "title": "unit16_time_expressions_mal",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which word appears as a separate element in some time expressions in Unit 16?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mal",
+          "is_correct": true
+        },
+        {
+          "answer": "Zeit",
+          "is_correct": false
+        },
+        {
+          "answer": "Tag",
+          "is_correct": false
+        },
+        {
+          "answer": "Woche",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "In 'Dieses Mal standen mir sogar mehrere Tage zur Verfügung', what does 'Dieses Mal' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "This time",
+          "is_correct": true
+        },
+        {
+          "answer": "Last time",
+          "is_correct": false
+        },
+        {
+          "answer": "Next time",
+          "is_correct": false
+        },
+        {
+          "answer": "Every time",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which of the following is NOT a frequently occurring compound in '-mal'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "jedermann",
+          "is_correct": true
+        },
+        {
+          "answer": "ein paarmal",
+          "is_correct": false
+        },
+        {
+          "answer": "diesmal",
+          "is_correct": false
+        },
+        {
+          "answer": "jedesmal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which sentence expresses 'That was the last time'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Das war das letzte Mal",
+          "is_correct": true
+        },
+        {
+          "answer": "Nächstes Mal werde ich früher kommen",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich bin schon mehrere Male gefahren",
+          "is_correct": false
+        },
+        {
+          "answer": "Jedesmal, wenn wir nach Hamburg fahren, regnet es",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Does the clause introducer always occur in German time expressions with Mal or -mal?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No",
+          "is_correct": false
+        },
+        {
+          "answer": "Only sometimes",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with dass",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which phrase means 'Next time I will come earlier'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nächstes Mal werde ich früher kommen",
+          "is_correct": true
+        },
+        {
+          "answer": "Dieses Mal standen mir Tage zur Verfügung",
+          "is_correct": false
+        },
+        {
+          "answer": "Das letzte Mal, als wir in München waren",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich bin schon mehrere Male gefahren",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "The word 'ein paarmal' means:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a couple of times",
+          "is_correct": true
+        },
+        {
+          "answer": "last time",
+          "is_correct": false
+        },
+        {
+          "answer": "every time",
+          "is_correct": false
+        },
+        {
+          "answer": "next time",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "In 'Jedesmal, wenn wir nach Hamburg fahren, regnet es', which clause introducer is used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wenn",
+          "is_correct": true
+        },
+        {
+          "answer": "dass",
+          "is_correct": false
+        },
+        {
+          "answer": "als",
+          "is_correct": false
+        },
+        {
+          "answer": "weil",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "In German, when time expressions with Mal occur with clauses introduced by dass, wenn or als, the clause introducer is:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Required",
+          "is_correct": true
+        },
+        {
+          "answer": "Optional",
+          "is_correct": false
+        },
+        {
+          "answer": "Replaced by a pronoun",
+          "is_correct": false
+        },
+        {
+          "answer": "Omitted",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which sentence expresses 'This is the first time I've seen him without his wife'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Das ist das erste Mal, dass ich ihn ohne seine Frau sehe",
+          "is_correct": true
+        },
+        {
+          "answer": "Das nächste Mal, wenn wir nach Berlin fahren, wollen wir in die Oper",
+          "is_correct": false
+        },
+        {
+          "answer": "Als ich das letzte Mal eine Reifenpanne hatte",
+          "is_correct": false
+        },
+        {
+          "answer": "Ich bin schon mehrere Male durch die Lüneburger Heide gefahren",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Further compounds in -mal and the noun das Mal\nIn Unit 13 we noted several time words ending in -mal, most of them compounds with the numerals.\nA number of time expressions occur with the word Mal as a separate element, not compounded.\nWe have had one example in this Unit: Dieses Mal standen mir sogar mehrere Tage zur Verfügung.\nHere are a few other examples:\nDas war das letzte Mal.\nNächstes Mal werde ich früher kommen.\nIch bin schon mehrere Male durch die Lüneburger Heide gefahren.\nThis time I even had several days at my disposal.\nThat was the last time.\nNext time I'll come earlier.\nI've driven through the Lüneburger Heide several times already.\nThe following, frequently occurring compounds in -mal have not been encountered in the basic sentences: diesmal, ein paarmal, jedesmal.\nDiesmal hatten wir keine Schwierigkeiten.\nEr kommt jedesmal fünfzehn Minuten zu spät.\nDiese Strecke bin ich schon ein paarmal gefahren.\nThis time we didn't have any trouble.\nHe comes fifteen minutes late every time.\nI've already traveled this route a couple of times.\nTime expressions with Mal or -mal also occur with clauses introduced by dass, wenn or als.\nDas letzte Mal, als wir in München waren, konnten wir nur zwei Tage bleiben.\nDas ist das erste Mal, dass ich ihn ohne seine Frau sehe.\nJedesmal, wenn wir nach Hamburg fahren, regnet es.\nDas nächste Mal, wenn wir nach Berlin fahren, wollen wir unbedingt in die Oper gehen.\nAls ich das letzte Mal eine Reifenpanne hatte, war keine Tankstelle in der Nähe.\nThe last time we were in Munich we could only stay two days.\nThis is the first time I've seen him without his wife.\nEvery time we take a trip to Hamburg it rains.\nThe next time we take a trip to Berlin we definitely want to go to the opera.\nThe last time I had a flat tire there was no gas station nearby.\nNote that the clause introducer always occurs in German, although it is usually omitted in English.\nThe time expression sometimes precedes the clause, sometimes occurs within it.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

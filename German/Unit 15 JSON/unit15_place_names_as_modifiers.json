@@ -1,0 +1,258 @@
+{
+  "title": "unit15_place_names_as_modifiers",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How do German place names function as modifiers?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They remain unchanged and add '-er' with no endings",
+          "is_correct": true
+        },
+        {
+          "answer": "They change according to case endings",
+          "is_correct": false
+        },
+        {
+          "answer": "They always take the ending '-lich'",
+          "is_correct": false
+        },
+        {
+          "answer": "They are used only as adjectives like 'deutsch' or 'englisch'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following examples is a German place name used as a modifier?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "die Frankfurter Allgemeine",
+          "is_correct": true
+        },
+        {
+          "answer": "das passive phrase",
+          "is_correct": false
+        },
+        {
+          "answer": "die Zauberflöte",
+          "is_correct": false
+        },
+        {
+          "answer": "vor dem Krieg",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which suffix is typically added to German city names when they function as modifiers?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "-lich",
+          "is_correct": false
+        },
+        {
+          "answer": "-ung",
+          "is_correct": false
+        },
+        {
+          "answer": "-er",
+          "is_correct": true
+        },
+        {
+          "answer": "-en",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which modifier form is irregular in formation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Münchner",
+          "is_correct": true
+        },
+        {
+          "answer": "Berliner",
+          "is_correct": false
+        },
+        {
+          "answer": "Würzburger",
+          "is_correct": false
+        },
+        {
+          "answer": "Frankfurter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why are adjectives like 'deutsch' or 'englisch' not to be confused with place name modifiers?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because they are capitalized",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they do not take the suffix '-er' and are not capitalized",
+          "is_correct": true
+        },
+        {
+          "answer": "Because they always have umlaut",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they are used only in plural form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which example shows a German place name used to modify a noun meaning 'beer'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich trinke lieber Würzburger",
+          "is_correct": true
+        },
+        {
+          "answer": "Ich halte eine Münchner Zeitung",
+          "is_correct": false
+        },
+        {
+          "answer": "Er hat in einem Bremer Geschäft gearbeitet",
+          "is_correct": false
+        },
+        {
+          "answer": "Mir gefallen die Schwarzwälder Häuser",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which phrase illustrates a modifier form derived from a district name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Schwarzwälder Häuser",
+          "is_correct": true
+        },
+        {
+          "answer": "Berliner Luft",
+          "is_correct": false
+        },
+        {
+          "answer": "Bremer Geschäft",
+          "is_correct": false
+        },
+        {
+          "answer": "Münchner Zeitung",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following is NOT an example of a place name used as a modifier?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Die Lindenbäume sind zu sehen",
+          "is_correct": true
+        },
+        {
+          "answer": "Bremer Geschäft",
+          "is_correct": false
+        },
+        {
+          "answer": "Münchner Zeitung",
+          "is_correct": false
+        },
+        {
+          "answer": "Frankfurter Allgemeine",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What aspect is common to all place names used as modifiers?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They have no endings",
+          "is_correct": false
+        },
+        {
+          "answer": "They have no endings and are capitalized",
+          "is_correct": true
+        },
+        {
+          "answer": "They take adjective endings",
+          "is_correct": false
+        },
+        {
+          "answer": "They are always irregular",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence contains a place name modifier referring to a newspaper?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ich halte die ‘Frankfurter Allgemeine’.",
+          "is_correct": true
+        },
+        {
+          "answer": "Die Beamten fragen einen immer",
+          "is_correct": false
+        },
+        {
+          "answer": "Es wird dort schwer gearbeitet.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ist die Kirche im Krieg beschädigt worden?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. PLACE NAMES AS MODIFIERS\nPlace names in English can be used to modify following nouns in such phrases as “the New York telephone directory”, “The Washington Post”, “his Connecticut home”, etc. The proper name does not change its form or spelling when used in this way.\nSome German place names have a special form when they occur in a phrase modifying a noun:\nDas Brandenburger Tor muss man ja gesehen haben.\nAbenteuerlust und Unternehmungsgeist lagen schon immer in der Berliner Luft.\nIch halte die „Frankfurter Allgemeine“.\nIch trinke lieber Würzburger (Bier).\nMir gefallen die Schwarzwälder Häuser.\nIch halte eine Münchner Zeitung.\nEr hat in einem Bremer Geschäft gearbeitet.\nNotice that the above place names used as modifiers all have a suffix -er and sometimes umlaut of the stem vowel but have no endings. A few are irregular in formation (Münchner, Bremer). Notice also that most of them are city names, although some names of larger districts (Schwarzwald) are also used as modifiers in this way. They are capitalized in the writing system. This special modifier form is not to be confused with the adjectives deutsch, französisch, bayrisch, englisch, amerikanisch, etc., which are not capitalized in the writing system and which may all occur with adjective endings."
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

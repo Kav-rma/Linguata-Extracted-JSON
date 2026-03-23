@@ -1,0 +1,272 @@
+[
+  {
+    "title": "unit16_situation1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Where does the recently emigrated man sit in Washington?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "at your table",
+            "is_correct": true
+          },
+          {
+            "answer": "at the bar",
+            "is_correct": false
+          },
+          {
+            "answer": "in a hotel lobby",
+            "is_correct": false
+          },
+          {
+            "answer": "in a park",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What two English words does he ask you to translate into German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "'lobster' and 'oyster'",
+            "is_correct": true
+          },
+          {
+            "answer": "'fish' and 'crab'",
+            "is_correct": false
+          },
+          {
+            "answer": "'shrimp' and 'clam'",
+            "is_correct": false
+          },
+          {
+            "answer": "'steak' and 'salad'",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Besides those two words, what else do you translate for him?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "other dishes on the menu",
+            "is_correct": true
+          },
+          {
+            "answer": "local newspapers",
+            "is_correct": false
+          },
+          {
+            "answer": "train schedules",
+            "is_correct": false
+          },
+          {
+            "answer": "songs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What topic does he ask about next?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "the fishing industry in America",
+            "is_correct": true
+          },
+          {
+            "answer": "American automobiles",
+            "is_correct": false
+          },
+          {
+            "answer": "weather in Germany",
+            "is_correct": false
+          },
+          {
+            "answer": "train routes",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What do you tell him about oysters?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "where they are freshest",
+            "is_correct": true
+          },
+          {
+            "answer": "how to cook them",
+            "is_correct": false
+          },
+          {
+            "answer": "that you don't eat them",
+            "is_correct": false
+          },
+          {
+            "answer": "their nutritional value",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What do you tell him about lobsters?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "where they are largest",
+            "is_correct": true
+          },
+          {
+            "answer": "how expensive they are",
+            "is_correct": false
+          },
+          {
+            "answer": "their color",
+            "is_correct": false
+          },
+          {
+            "answer": "that they are endangered",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Where has the man recently emigrated from?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Germany",
+            "is_correct": true
+          },
+          {
+            "answer": "France",
+            "is_correct": false
+          },
+          {
+            "answer": "Italy",
+            "is_correct": false
+          },
+          {
+            "answer": "Canada",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "In which city does the conversation occur?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Washington",
+            "is_correct": true
+          },
+          {
+            "answer": "New York",
+            "is_correct": false
+          },
+          {
+            "answer": "Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "Boston",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What type of restaurant is mentioned?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "a restaurant in Washington",
+            "is_correct": true
+          },
+          {
+            "answer": "a hotel restaurant in Berlin",
+            "is_correct": false
+          },
+          {
+            "answer": "a cafe in Paris",
+            "is_correct": false
+          },
+          {
+            "answer": "a fast food chain",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "How does the man refer to the German words?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "he asks what English 'lobster' and 'oyster' are in German",
+            "is_correct": true
+          },
+          {
+            "answer": "he complains about translation",
+            "is_correct": false
+          },
+          {
+            "answer": "he demands service",
+            "is_correct": false
+          },
+          {
+            "answer": "he orders them to go",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Ein Mann, der erst kürzlich aus Deutschland ausgewandert ist, sitzt in einem Restaurant in Washington an Ihrem Tisch."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Er fragt Sie, wie die englischen Worte 'lobster' und 'oyster' auf deutsch heissen."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Sie sagen es ihm und übersetzen ihm auch die Namen anderer Gerichte, die auf der Speisekarte stehen."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Er fragt Sie dann, wie die Fischerei in Amerika ist und Sie sagen ihm, wo hier die Austern am frischesten und die Hummern am grössten sind."
+      }
+    ],
+    "metadata": {
+      "page_start": 30,
+      "page_end": 30,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

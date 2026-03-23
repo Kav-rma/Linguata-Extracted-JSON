@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit18_conjunctions_denn_grammar",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What type of conjunction is 'denn'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A sentence connector or co‑ordinating conjunction",
+            "is_correct": true
+          },
+          {
+            "answer": "A subordinating conjunction",
+            "is_correct": false
+          },
+          {
+            "answer": "A relative pronoun",
+            "is_correct": false
+          },
+          {
+            "answer": "An infinitive marker",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is the example sentence using 'denn' given in the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ja, das werde ich bald tun, denn bei unserer grossen Familie ist alle Augenblicke einer krank",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich schlage vor, dass Sie statt des starken Kaffees lieber etwas anderes trinken",
+            "is_correct": false
+          },
+          {
+            "answer": "Es würde nett sein, Sie dort zu treffen",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich denke an sie",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How does 'denn' affect the word order in a sentence?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It is followed by normal word order",
+            "is_correct": true
+          },
+          {
+            "answer": "It sends the verb to the end of the clause",
+            "is_correct": false
+          },
+          {
+            "answer": "It causes inversion of subject and verb",
+            "is_correct": false
+          },
+          {
+            "answer": "It omits the verb",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which conjunctions are mentioned along with 'denn' as co‑ordinating conjunctions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "aber, oder, sondern and und",
+            "is_correct": true
+          },
+          {
+            "answer": "weil, dass, obwohl, damit",
+            "is_correct": false
+          },
+          {
+            "answer": "an, auf, in, mit",
+            "is_correct": false
+          },
+          {
+            "answer": "mit, nach, zu, von",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is the English meaning of 'denn'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "for",
+            "is_correct": true
+          },
+          {
+            "answer": "if",
+            "is_correct": false
+          },
+          {
+            "answer": "and",
+            "is_correct": false
+          },
+          {
+            "answer": "because",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "In the example sentence, why will the speaker do something soon?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because someone in their large family is sick all the time",
+            "is_correct": true
+          },
+          {
+            "answer": "Because the weather is nice",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they have finished their work",
+            "is_correct": false
+          },
+          {
+            "answer": "Because they are travelling",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which conjunction completes the group of common coordinating conjunctions with 'denn'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "sondern",
+            "is_correct": true
+          },
+          {
+            "answer": "weil",
+            "is_correct": false
+          },
+          {
+            "answer": "dass",
+            "is_correct": false
+          },
+          {
+            "answer": "wenn",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Is 'denn' used to introduce dependent clauses?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, it is a sentence connector",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, it introduces subordinate clauses",
+            "is_correct": false
+          },
+          {
+            "answer": "Sometimes, depending on context",
+            "is_correct": false
+          },
+          {
+            "answer": "It replaces pronouns",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of the following words is NOT grouped with 'denn' as a coordinating conjunction?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "weil",
+            "is_correct": true
+          },
+          {
+            "answer": "aber",
+            "is_correct": false
+          },
+          {
+            "answer": "oder",
+            "is_correct": false
+          },
+          {
+            "answer": "und",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What does the example sentence illustrate about 'denn'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It joins two clauses without changing the word order",
+            "is_correct": true
+          },
+          {
+            "answer": "It acts like a preposition",
+            "is_correct": false
+          },
+          {
+            "answer": "It introduces an indirect question",
+            "is_correct": false
+          },
+          {
+            "answer": "It forms a verb-preposition complex",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "D. CONJUNCTIONS - denn\nIn this unit we have encountered the conjunction denn. Ja, das werde ich bald tun, denn bei unserer grossen Familie ist alle Augenblicke einer krank. Yes, I'll do that soon, for with a family as large as ours there's somebody sick all the time. Denn is a sentence connector, or co-ordinating conjunction, followed by normal word order. With aber, oder, sondern and und it completes the group of common co-ordinating conjunctions."
+      }
+    ],
+    "metadata": {
+      "page_start": 9,
+      "page_end": 14,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

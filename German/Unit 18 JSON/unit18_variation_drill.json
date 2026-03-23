@@ -1,0 +1,819 @@
+[
+  {
+    "title": "unit18_variation_drill",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Kann ich mich an Ihren Hausarzt wenden, wenn wir ärztliche Hilfe brauchen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Can I go to your family doctor when we need medical assistance?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Kann uns dein Sohn abholen, wenn wir in Berlin ankommen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Can your son pick us up when we arrive in Berlin?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Können die Kinder nicht mitkommen, wenn wir ins Kino gehen?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Can't the children come along when we go to the movies?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Können Sie für mich in die Buchhandlung gehen, wenn Sie in der Stadt sind?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Can you go to the bookstore for me when you're downtown?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Kannst du diesen Brief mitnehmen, wenn du zur Post gehst?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Can you take this letter along when you go to the post office?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Die Reise könnten wir nächsten Monat machen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "This is a trip we could take next month.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Diese Auskunft könnte ihr der Empfangschef geben.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "This is information the desk clerk could give her.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Die Medizin könntet ihr heute abend noch in der Apotheke abholen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The prescription is something you could still pick up tonight from the pharmacy.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "Die Geschäftsreise könnte er nächste Woche machen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The business trip is one he could take next week.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "Diesen Arzt könnte ich Ihnen sehr empfehlen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "This is a doctor I could recommend highly to you.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "Wenn Sie mich in die Stadt mitnehmen könnten, würde ich noch vor eins zur Bank kommen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If you could take me down town with you I'd get to the bank before one.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "Wenn Sie mit mir durch die Lüneburger Heide fahren könnten, würde für mich die Fahrt reizvoller sein.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If you could drive through the Lüneburger Heide with me the trip would be more attractive for me.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "Wenn wir uns zuerst einen Katalog ansehen könnten, würden wir nicht so viel von Ihrer Zeit in Anspruch nehmen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If we could take a look at a catalogue first we wouldn't take up so much of your time.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "Wenn ich es zeitlich schaffen könnte, würde ich ganz gern noch an den Rhein fahren.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If I could make it in time I'd like very much to drive to the Rhine too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "Wenn Sie die Adresse des Hotels finden könnten, würde ich telegraphisch ein Zimmer bestellen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If you could find the address of the hotel I'd wire my reservation for a room.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "Wenn wir in diesem Jahr nach Deutschland fahren würden, könnten wir uns einen Volkswagen mitbringen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If we were to go to Germany in the course of this year we could bring a Volkswagen back with us.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "Wenn du deine Abreise aufschieben würdest, könnten wir noch zusammen zur Bauausstellung gehen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If you were to put off your departure we could still go to the architectural exposition together.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "Wenn Sie mir den Brief jetzt diktieren würden, könnte ich ihn nachher zur Post mitnehmen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If you would dictate the letter to me now I could take it along to the post office afterward.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "Wenn wir die Botschaft anrufen würden, könnten wir gleich Auskunft über die Zollbestimmungen bekommen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If we were to call the embassy we could get information about the customs regulations right away.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "Wenn Herr Becker die Formulare heute ausfüllen würde, könnte ich seinen Antrag gleich bearbeiten.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "If Mr. Becker were to fill out the forms today I could process his application right away.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "Ich hätte heute abend Zeit zu kommen, wenn ich früher vom Büro nach Hause gehen könnte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I'd have time to come this evening if I could go home from the office earlier.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "Er hätte nicht so grosse Schmerzen, wenn der Arzt ihm eine Spritze geben könnte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He wouldn't have so much pain if the doctor could give him an injection.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "Ich wäre Ihnen gern behilflich, wenn ich den Brief von Herrn Konsul Wilson finden könnte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I would be glad to help you if I could find the letter from Consul Wilson.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "Wir hätten schon einen Fernsehapparat, wenn wir es uns leisten könnten.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "We'd already have a television set if we could afford it.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "Es wäre schade, wenn Sie den Arzt heute nicht mehr erreichen könnten.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "It would be too bad if you could no longer reach the doctor today.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "Hättest du genug Geld für die Reise, wenn wir schon in zwei Wochen fahren könnten?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Would you have enough money for the trip if we could travel as soon as in two weeks from now?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "Ich könnte Ihnen den Ort genau zeigen, wenn ich eine Autokarte hätte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I could show you exactly where the place is if I had a road map.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "Er könnte zur Kur nach Bad Nauheim fahren, wenn er genug Geld hätte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He could go to Bad Nauheim for treatment if he had enough money.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "Ich könnte die Vergrösserungen gleich machen lassen, wenn ich die Negative bei mir hätte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I could have the enlargements made right away if I had the negatives with me.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "Er könnte selbst zum Arzt fahren, wenn sein Wagen nicht in der Reparaturwerkstatt wäre.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He could drive to the doctor's himself if his car weren't in the repair shop.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "Ich könnte mir die verschiedenen Apparate vorführen lassen, wenn ich genug Zeit hätte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I could have them demonstrate the various sets to me if I had time enough.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "Sie wäre sicher froh, wenn ihr Bruder eine andere Arbeit hätte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "She would certainly be glad if her brother had a different job.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "Herr Köhler hätte schon ein Tonbandgerät, wenn sie nicht so teuer wären.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Köhler would already have a tape recorder if they weren't so expensive.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "Ich wäre glücklich, wenn ich mehr Geld hätte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I'd be happy if I had more money.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "Wir hätten nicht so viele Reifenpannen, wenn die Reifen neuer wären.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "We wouldn't have so many flats if the tires were newer.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "Es wäre schöner, wenn deine Eltern auch hier wären.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "It would be nicer if your parents were here too.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "Ich hätte die Übersetzung schon für Sie, wenn die Sekretärin nicht krank wäre.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I'd already have the translation for you if the secretary weren't sick.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "Alles, was ich tue, strengt mich sehr an.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Everything I do fatigues me very much.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "Ich weiss etwas, was du nicht weisst.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I know something you don't know.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "Vieles, was er sagte, hat mich nicht interessiert.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "A lot that he said did not interest me.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "Nichts, was sie schreibt, gefällt mir.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I don't like anything she writes.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "Das, was Sie mir empfohlen haben, war nicht gut.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The thing you recommended to me was not good.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "Ich bin mit allem, was du tust, zufrieden.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I'm satisfied with all that you do.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "Etwas, was ich gestern gelesen habe, würde Sie bestimmt interessieren.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Something I read yesterday would certainly interest you.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "Das ist etwas, woran ich nicht gedacht habe.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "That is something I didn't think of.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "Das ist alles, wovon er gesprochen hat.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "That's all he spoke of.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "Du sagst überhaupt nichts, worüber man sich freuen könnte!",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "You don't say anything at all that one could be happy about!",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "Was war das eigentlich, worum Sie mich gebeten haben?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Just what was that you asked me for?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "Das ist etwas, woran man sich gewöhnen muss.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "That's something you have to get used to.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "Wir denken bereits daran, ein neues Projekt zu entwerfen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "We're already thinking of designing a new project.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "Wer kann sich schon daran gewöhnen, solch eine Diät einzuhalten!",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Who ever can get used to sticking to such a diet!",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "Unsere Zeit wird leider nicht dazu ausreichen, eins der Nordseebäder zu besuchen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Our time unfortunately will not be sufficient for visiting one of the North Sea bathing beaches.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "Der Generalkonsul rechnet nicht damit, seine Abreise aufschieben zu müssen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The Consul General does not anticipate having to delay his departure.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "Bei diesen Sachen kommt es immer darauf an, billig zu kaufen und teuer zu verkaufen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "In these matters the important thing is always to buy cheap and sell dear.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "Bei diesen Verhandlungen muss man damit rechnen, dass Schwierigkeiten eintreten.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "In these negotiations you have to reckon with the fact that difficulties arise.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "Ich halte nicht viel davon, dass wir uns die Theaterkarten jetzt schon reservieren lassen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I don't think much of our having them reserve us the theater tickets as early as this.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "Er spricht schon davon, dass er im Herbst in die Schweiz fahren will.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He's already talking about wanting to go to Switzerland in the fall.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "Herr Schumann hat nichts dagegen einzuwenden, dass die Kartellfrage zur Diskussion kommt.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Mr. Schumann has no objection to the cartel question coming up for discussion.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "Die Verhandlungen können natürlich auch dazu führen, dass wir die Werft verkaufen müssen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The negotiations of course can also lead to our having to sell the shipyard.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "Es handelt sich darum, dass er seine geschäftlichen Aufträge nicht ausführen konnte.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The matter at hand is that he was not able to carry out his business obligations.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "Sie hätten eine Nachkur machen sollen statt schon wieder zu arbeiten.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "You ought to have taken a second treatment instead of going to work again so soon.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "Der Ober nahm das Geld, ohne sich zu bedanken.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "The waiter took the money without saying thank you.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "Wir fahren am Sonnabend in die Stadt, um uns Fernsehapparate anzusehen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "We're going down town on Saturday to look at television sets.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "Ich fuhr gleich zum Ministerium, statt erst zur Tagung zu gehen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I drove right to the ministry instead of going to the meeting first.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 65,
+        "question_text": "Er nimmt immer meine Zeitung, ohne mich vorher zu fragen.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "He always takes my paper without asking me first.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 66,
+        "question_text": "Statt Besorgungen zu machen, fuhr ich zu Freunden nach Schwabing.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Instead of going shopping I drove to Schwabing to some friends of mine.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 67,
+        "question_text": "Kommt der Klempner heute, um den Wasserhahn zu reparieren?",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Is the plumber coming today to fix the faucet?",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 17,
+      "page_end": 22,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

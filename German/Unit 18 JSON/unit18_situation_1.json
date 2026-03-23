@@ -1,0 +1,168 @@
+[
+  {
+    "title": "unit18_situation_1",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Why does the friend call you?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He is sick in bed and doesn't know a doctor.",
+            "is_correct": true
+          },
+          {
+            "answer": "He wants to borrow money.",
+            "is_correct": false
+          },
+          {
+            "answer": "He is inviting you to a party.",
+            "is_correct": false
+          },
+          {
+            "answer": "He needs help moving his furniture.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is the friend's problem?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He is lost and needs directions.",
+            "is_correct": false
+          },
+          {
+            "answer": "He is sick in bed and doesn't know a doctor.",
+            "is_correct": true
+          },
+          {
+            "answer": "He is waiting for a train.",
+            "is_correct": false
+          },
+          {
+            "answer": "He wants to buy a new house.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What might you suggest to help the friend?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Recommend a doctor and offer assistance.",
+            "is_correct": true
+          },
+          {
+            "answer": "Tell him to wait until he feels better.",
+            "is_correct": false
+          },
+          {
+            "answer": "Suggest he goes shopping.",
+            "is_correct": false
+          },
+          {
+            "answer": "Advise him to travel.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Where is the friend calling from?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "His bed at home.",
+            "is_correct": true
+          },
+          {
+            "answer": "A café.",
+            "is_correct": false
+          },
+          {
+            "answer": "A hospital.",
+            "is_correct": false
+          },
+          {
+            "answer": "A train station.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does the friend not know?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Where to find a doctor.",
+            "is_correct": true
+          },
+          {
+            "answer": "How to cook dinner.",
+            "is_correct": false
+          },
+          {
+            "answer": "Which car to buy.",
+            "is_correct": false
+          },
+          {
+            "answer": "How to get to the airport.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What might you do for your friend?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Offer to find a doctor and check on him.",
+            "is_correct": true
+          },
+          {
+            "answer": "Send him to the store.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ignore his call.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ask him to come over to your house.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Ein Freund ruft Sie an, um Ihnen zu sagen, dass er krank im Bett liegt und keinen Arzt in seiner Gegend kennt."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Was würden Sie ihm sagen oder für ihn tun?"
+      }
+    ],
+    "metadata": {
+      "page_start": 35,
+      "page_end": 35,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

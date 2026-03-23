@@ -1,0 +1,172 @@
+[
+  {
+    "title": "unit18_situation_3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What resources are mentioned as needed for traveling?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Time and money.",
+            "is_correct": true
+          },
+          {
+            "answer": "A passport and a visa.",
+            "is_correct": false
+          },
+          {
+            "answer": "Only time.",
+            "is_correct": false
+          },
+          {
+            "answer": "Only money.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What should you discuss with a colleague?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Countries and cities that interest you.",
+            "is_correct": true
+          },
+          {
+            "answer": "How to cook German food.",
+            "is_correct": false
+          },
+          {
+            "answer": "The latest movie releases.",
+            "is_correct": false
+          },
+          {
+            "answer": "The nearest hospital.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What else do you reflect on in this situation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "In which country you would most like to work.",
+            "is_correct": true
+          },
+          {
+            "answer": "How to fix your car.",
+            "is_correct": false
+          },
+          {
+            "answer": "What to wear to a party.",
+            "is_correct": false
+          },
+          {
+            "answer": "How to find a doctor.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "If you had a lot of time and money, what question do you consider?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Where you would travel.",
+            "is_correct": true
+          },
+          {
+            "answer": "Which doctor to call.",
+            "is_correct": false
+          },
+          {
+            "answer": "Which restaurant to visit.",
+            "is_correct": false
+          },
+          {
+            "answer": "Which coffee to drink.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is not asked in this situation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "What foods you like.",
+            "is_correct": true
+          },
+          {
+            "answer": "Which countries interest you.",
+            "is_correct": false
+          },
+          {
+            "answer": "Which cities interest you.",
+            "is_correct": false
+          },
+          {
+            "answer": "Where you would like to work.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which of the following is part of the discussion?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Countries and cities of interest.",
+            "is_correct": true
+          },
+          {
+            "answer": "A doctor's schedule.",
+            "is_correct": false
+          },
+          {
+            "answer": "The weather forecast.",
+            "is_correct": false
+          },
+          {
+            "answer": "The price of a car.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Wohin würden Sie fahren, wenn Sie viel Zeit und Geld hätten?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "Welche Länder und Städte interessieren Sie besonders; und in welchem Land würden Sie am liebsten arbeiten?"
+      },
+      {
+        "sequence_id": 3,
+        "text": "Unterhalten Sie sich mit einem Ihrer Kollegen darüber."
+      }
+    ],
+    "metadata": {
+      "page_start": 35,
+      "page_end": 35,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

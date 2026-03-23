@@ -1,0 +1,268 @@
+[
+  {
+    "title": "unit16_situation4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Who are you talking to?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "a diplomat",
+            "is_correct": true
+          },
+          {
+            "answer": "a fisherman",
+            "is_correct": false
+          },
+          {
+            "answer": "a hotel manager",
+            "is_correct": false
+          },
+          {
+            "answer": "a student",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is the topic of your conversation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "purchasing spirits",
+            "is_correct": true
+          },
+          {
+            "answer": "booking hotels",
+            "is_correct": false
+          },
+          {
+            "answer": "buying cars",
+            "is_correct": false
+          },
+          {
+            "answer": "visiting museums",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What does the diplomat ask you about?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "import regulations for spirits into America",
+            "is_correct": true
+          },
+          {
+            "answer": "visa requirements",
+            "is_correct": false
+          },
+          {
+            "answer": "weather forecast",
+            "is_correct": false
+          },
+          {
+            "answer": "currency exchange",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Why do you question his interest?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "because he can buy them duty-free at his embassy",
+            "is_correct": true
+          },
+          {
+            "answer": "because he doesn't drink",
+            "is_correct": false
+          },
+          {
+            "answer": "because he is underage",
+            "is_correct": false
+          },
+          {
+            "answer": "because he owns a store",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Where can he buy spirits duty-free?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "at his embassy",
+            "is_correct": true
+          },
+          {
+            "answer": "at the supermarket",
+            "is_correct": false
+          },
+          {
+            "answer": "at a duty-free shop downtown",
+            "is_correct": false
+          },
+          {
+            "answer": "at a friend's house",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which country's import regulations does he ask about?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "America",
+            "is_correct": true
+          },
+          {
+            "answer": "Germany",
+            "is_correct": false
+          },
+          {
+            "answer": "France",
+            "is_correct": false
+          },
+          {
+            "answer": "Canada",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "The conversation implies he is stationed where?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "in an embassy",
+            "is_correct": true
+          },
+          {
+            "answer": "on a farm",
+            "is_correct": false
+          },
+          {
+            "answer": "on a ship",
+            "is_correct": false
+          },
+          {
+            "answer": "at a university",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What product are you discussing?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "alcoholic beverages",
+            "is_correct": true
+          },
+          {
+            "answer": "electronics",
+            "is_correct": false
+          },
+          {
+            "answer": "clothes",
+            "is_correct": false
+          },
+          {
+            "answer": "books",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What is your response to his question?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "ask why he needs to know since he can buy duty-free",
+            "is_correct": true
+          },
+          {
+            "answer": "ignore him",
+            "is_correct": false
+          },
+          {
+            "answer": "provide detailed regulations",
+            "is_correct": false
+          },
+          {
+            "answer": "direct him to a lawyer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Why might he need import regulations if he can buy duty-free?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "he might travel to America",
+            "is_correct": true
+          },
+          {
+            "answer": "he is curious",
+            "is_correct": false
+          },
+          {
+            "answer": "he collects laws",
+            "is_correct": false
+          },
+          {
+            "answer": "he is writing a report",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie sprechen mit einem Diplomaten einer Botschaft über den Einkauf von Spirituosen."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Er fragt Sie nach den Einfuhrbestimmungen für Spirituosen nach Amerika."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Sie fragen ihn, warum ihn das interessiert, da er diese doch bei seiner Botschaft zollfrei kaufen kann."
+      }
+    ],
+    "metadata": {
+      "page_start": 30,
+      "page_end": 30,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

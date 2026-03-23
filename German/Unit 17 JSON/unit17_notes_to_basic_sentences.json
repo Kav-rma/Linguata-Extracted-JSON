@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit17_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "According to note 1, how many identical letters can stand together when words are compounded in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Two",
+            "is_correct": true
+          },
+          {
+            "answer": "One",
+            "is_correct": false
+          },
+          {
+            "answer": "Three",
+            "is_correct": false
+          },
+          {
+            "answer": "Unlimited",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which example illustrates the rule about compounded words not having more than two identical letters?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Imbiss + Stube → Imbisstube",
+            "is_correct": true
+          },
+          {
+            "answer": "Haus + Stadt → Haustadt",
+            "is_correct": false
+          },
+          {
+            "answer": "Auto + Bus → Autobus",
+            "is_correct": false
+          },
+          {
+            "answer": "Land + Straße → Landstraße",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What is said about many loan words in German in note 2?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They often have both the original and a Germanized spelling",
+            "is_correct": true
+          },
+          {
+            "answer": "They are always spelled in the original language",
+            "is_correct": false
+          },
+          {
+            "answer": "They are not used in current writing practice",
+            "is_correct": false
+          },
+          {
+            "answer": "They are banned from formal writing",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which pair of spellings is acceptable in German writing practice according to the notes?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Fotogeschäft and Photogeschäft",
+            "is_correct": true
+          },
+          {
+            "answer": "Buch and Boock",
+            "is_correct": false
+          },
+          {
+            "answer": "Kind and Chind",
+            "is_correct": false
+          },
+          {
+            "answer": "Essen and Assen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "The names of many stores in German end in which suffix?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "-handlung",
+            "is_correct": true
+          },
+          {
+            "answer": "-haus",
+            "is_correct": false
+          },
+          {
+            "answer": "-markt",
+            "is_correct": false
+          },
+          {
+            "answer": "-platz",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "According to note 3, store names ending in -handlung are what grammatical gender?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "die-words",
+            "is_correct": true
+          },
+          {
+            "answer": "der-words",
+            "is_correct": false
+          },
+          {
+            "answer": "das-words",
+            "is_correct": false
+          },
+          {
+            "answer": "plural words",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What unusual gender classification does the word Zentimeter have?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It can be either a der-word or a das-word",
+            "is_correct": true
+          },
+          {
+            "answer": "It is always a die-word",
+            "is_correct": false
+          },
+          {
+            "answer": "It changes depending on plural",
+            "is_correct": false
+          },
+          {
+            "answer": "It is never used with an article",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Note 4 states that the abbreviation for Zentimeter is exactly like which abbreviation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "the English abbreviation",
+            "is_correct": true
+          },
+          {
+            "answer": "the French abbreviation",
+            "is_correct": false
+          },
+          {
+            "answer": "the metric abbreviation for meter",
+            "is_correct": false
+          },
+          {
+            "answer": "the American foot abbreviation",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "According to note 5, what additional work might a German Klempner do besides plumbing?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Sheet metal work and heating insulation",
+            "is_correct": true
+          },
+          {
+            "answer": "Hairdressing and tailoring",
+            "is_correct": false
+          },
+          {
+            "answer": "Teaching and translation",
+            "is_correct": false
+          },
+          {
+            "answer": "Car manufacturing and sales",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "In note 5, why might employees of a German Installationsgeschäft be called Installateure?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They handle plumbing, heating, and appliance services even though each may have a specific specialization",
+            "is_correct": true
+          },
+          {
+            "answer": "They only sell appliances",
+            "is_correct": false
+          },
+          {
+            "answer": "They specialize solely in electrical engineering",
+            "is_correct": false
+          },
+          {
+            "answer": "They are all plumbers by trade",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "1. When words are compounded in German the writing system does not allow more than two of any given letter to stand in juxtaposition. Hence the combination of Imbiss and Stube results in Imbisstube.\n\n2. Many loan words in German are written in two ways, with the spelling of the original language from which the item was borrowed and with a Germanicized spelling. Hence the spellings Fotogeschäft and Photogeschäft, Camera and Kamera, Telefon and Telephon, etc., are both acceptable in current writing practice.\n\n3. The names of many stores in German end in -handlung and are die-words.\n\n4. The word Zentimeter may be either a der-word or a das-word. It is one of a small group of words, many of them referring to measure, with this dual classification. Note that the abbreviation is exactly like the English abbreviation. One inch equals 2.54 cm.\n\n5. The categories of work in general are highly specialized in German. They do not always correspond exactly to American crafts and trades, however. A German Klempner, traditionally translated as \"plumber\", also does sheet metal work and heating insulation. A German Installationsgeschäft, depending on the size of the business, may very well handle plumbing and heating and also appliance sales and service. Its owner and employees could all be called Installateure, although each would retain his area of specialization as a plumber or electrician or heating engineer, etc."
+      }
+    ],
+    "metadata": {
+      "page_start": 7,
+      "page_end": 7,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

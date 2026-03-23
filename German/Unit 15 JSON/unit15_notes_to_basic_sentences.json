@@ -1,0 +1,258 @@
+{
+  "title": "unit15_notes_to_basic_sentences",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How is an ordinal number indicated in the German writing system when following a name like Joachim?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By a Roman numeral followed by a period.",
+          "is_correct": true
+        },
+        {
+          "answer": "By an Arabic numeral before the name.",
+          "is_correct": false
+        },
+        {
+          "answer": "By a hyphen between the name and numeral.",
+          "is_correct": false
+        },
+        {
+          "answer": "By superscript letters after the name.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Does the form of an ordinal depend on the function of the name it follows in German sentences?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it depends on the function of the name.",
+          "is_correct": true
+        },
+        {
+          "answer": "No, it is always the same regardless of function.",
+          "is_correct": false
+        },
+        {
+          "answer": "It depends on the gender of the noun.",
+          "is_correct": false
+        },
+        {
+          "answer": "It only depends on whether the name is a proper noun.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which types of German words can have an alternate dative singular form ending in -e according to the notes?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Der- and das- words.",
+          "is_correct": true
+        },
+        {
+          "answer": "Only feminine nouns.",
+          "is_correct": false
+        },
+        {
+          "answer": "Only masculine nouns.",
+          "is_correct": false
+        },
+        {
+          "answer": "Proper nouns only.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of the following phrases uses the alternate dative singular form ending in -e?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "im Kriege",
+          "is_correct": true
+        },
+        {
+          "answer": "im Krieg",
+          "is_correct": false
+        },
+        {
+          "answer": "nach dem Krieg",
+          "is_correct": false
+        },
+        {
+          "answer": "nach dem Kriegs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which verb phrase is given as an example of verbs occurring with the infinitive besides auxiliary verbs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "essen gehen",
+          "is_correct": true
+        },
+        {
+          "answer": "schlafen setzen",
+          "is_correct": false
+        },
+        {
+          "answer": "haben machen",
+          "is_correct": false
+        },
+        {
+          "answer": "lernen bleiben",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Joachim II.' illustrate in the German writing system?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The usual representation of a name with an ordinal.",
+          "is_correct": true
+        },
+        {
+          "answer": "An abbreviation of a year.",
+          "is_correct": false
+        },
+        {
+          "answer": "A case ending.",
+          "is_correct": false
+        },
+        {
+          "answer": "An honorific title.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the additional '-e' in 'im Kriege' signify?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An alternate dative singular form.",
+          "is_correct": true
+        },
+        {
+          "answer": "Plural form.",
+          "is_correct": false
+        },
+        {
+          "answer": "Imperative mood.",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tense.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following uses the Roman numeral system correctly for ordinal names?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Friedrich III.",
+          "is_correct": true
+        },
+        {
+          "answer": "3 Friedrich",
+          "is_correct": false
+        },
+        {
+          "answer": "Friedrich Third",
+          "is_correct": false
+        },
+        {
+          "answer": "Friedrich 3rd",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What must be observed about the form of the ordinal when used after a name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It stays the same as the name it follows.",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes to the dative case.",
+          "is_correct": false
+        },
+        {
+          "answer": "It always changes to match gender.",
+          "is_correct": false
+        },
+        {
+          "answer": "It disappears in spoken language.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "According to the notes, what can be said about the verb phrase 'stehen bleiben'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It can form part of a verb phrase with the infinitive.",
+          "is_correct": true
+        },
+        {
+          "answer": "It is always used in the passive voice.",
+          "is_correct": false
+        },
+        {
+          "answer": "It has no meaning in modern German.",
+          "is_correct": false
+        },
+        {
+          "answer": "It only occurs in formal writing.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Joachim II. This is the usual representation in the German writing system for Joachim der Zweite. The ordinal number is indicated by the Roman numeral followed by a period. Notice that the form of the ordinal (nominative, genitive, etc.) is the same as the name it follows and depends on the function the name has in the sentence.\nKrieg. Some German der- and das-words have an alternate dative singular form ending in -e. Hence you will hear both im Krieg and im Kriege, nach dem Kriege and nach dem Krieg, etc.\nstehen bleiben. In addition to the auxiliary verbs already noted a few other German verbs occasionally occur in verb phrases with the infinitive, cf. essen gehen, Unit two, p. 25.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

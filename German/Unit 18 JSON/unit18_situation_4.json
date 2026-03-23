@@ -1,0 +1,164 @@
+[
+  {
+    "title": "unit18_situation_4",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What types of establishments are mentioned in the situation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Restaurants, theaters, cinemas, and cafés.",
+            "is_correct": true
+          },
+          {
+            "answer": "Hospitals and schools.",
+            "is_correct": false
+          },
+          {
+            "answer": "Banks and government offices.",
+            "is_correct": false
+          },
+          {
+            "answer": "Parks and museums.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "To whom are you making recommendations?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A man with a lot of enterprise who wants to get to know everything interesting.",
+            "is_correct": true
+          },
+          {
+            "answer": "A child visiting the zoo.",
+            "is_correct": false
+          },
+          {
+            "answer": "A doctor looking for a clinic.",
+            "is_correct": false
+          },
+          {
+            "answer": "A student seeking a library.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What characteristic does the man have?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "He has a lot of enterprise and curiosity.",
+            "is_correct": true
+          },
+          {
+            "answer": "He is lazy and uninterested.",
+            "is_correct": false
+          },
+          {
+            "answer": "He is sick and needs rest.",
+            "is_correct": false
+          },
+          {
+            "answer": "He is preparing a meal.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What is the purpose of the recommendations?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To help him explore interesting places in the city.",
+            "is_correct": true
+          },
+          {
+            "answer": "To find the nearest hospital.",
+            "is_correct": false
+          },
+          {
+            "answer": "To buy groceries.",
+            "is_correct": false
+          },
+          {
+            "answer": "To arrange a doctor's appointment.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "Are financial matters discussed in this situation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "No, the focus is on places to visit.",
+            "is_correct": true
+          },
+          {
+            "answer": "Yes, it talks about bank loans.",
+            "is_correct": false
+          },
+          {
+            "answer": "Yes, it discusses the cost of living.",
+            "is_correct": false
+          },
+          {
+            "answer": "Yes, it mentions wages.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which of the following is NOT mentioned as a type of venue?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Libraries.",
+            "is_correct": true
+          },
+          {
+            "answer": "Theaters.",
+            "is_correct": false
+          },
+          {
+            "answer": "Restaurants.",
+            "is_correct": false
+          },
+          {
+            "answer": "Cafés.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Welche Restaurants (oder Theater, Kinos, Cafés, usw.) in unserer Stadt könnten Sie einem Mann empfehlen, der viel Unternehmungsgeist hat und alles kennen lernen möchte, was hier besonders interessant ist."
+      }
+    ],
+    "metadata": {
+      "page_start": 35,
+      "page_end": 35,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

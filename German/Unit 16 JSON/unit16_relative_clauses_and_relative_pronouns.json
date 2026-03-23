@@ -1,0 +1,258 @@
+{
+  "title": "unit16_relative_clauses_and_relative_pronouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What introduces a relative clause in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Relative pronoun",
+          "is_correct": true
+        },
+        {
+          "answer": "Personal pronoun",
+          "is_correct": false
+        },
+        {
+          "answer": "Article",
+          "is_correct": false
+        },
+        {
+          "answer": "Demonstrative pronoun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "The form of a relative pronoun depends on which two factors?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The noun it refers to and its function in the clause",
+          "is_correct": true
+        },
+        {
+          "answer": "Its gender and number",
+          "is_correct": false
+        },
+        {
+          "answer": "The tense of the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Its position in the sentence",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In the sentence 'Kennen Sie den Herrn, mit dem sie sich unterhält?', what is the case of the relative pronoun 'dem'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Dative",
+          "is_correct": true
+        },
+        {
+          "answer": "Accusative",
+          "is_correct": false
+        },
+        {
+          "answer": "Nominative",
+          "is_correct": false
+        },
+        {
+          "answer": "Genitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which of the following relative pronouns is genitive plural?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "deren",
+          "is_correct": true
+        },
+        {
+          "answer": "dessen",
+          "is_correct": false
+        },
+        {
+          "answer": "der",
+          "is_correct": false
+        },
+        {
+          "answer": "den",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "In example c) 'die Segelregatta', the relative pronoun 'die' has which case?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nominative",
+          "is_correct": true
+        },
+        {
+          "answer": "Accusative",
+          "is_correct": false
+        },
+        {
+          "answer": "Dative",
+          "is_correct": false
+        },
+        {
+          "answer": "Genitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is the function of the relative pronoun in the clause referring to 'Gepäckträger'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Subject",
+          "is_correct": true
+        },
+        {
+          "answer": "Object",
+          "is_correct": false
+        },
+        {
+          "answer": "Indirect object",
+          "is_correct": false
+        },
+        {
+          "answer": "Possession",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Genitive relative pronouns may be followed by what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A noun or an adjective-noun sequence",
+          "is_correct": true
+        },
+        {
+          "answer": "Only a noun",
+          "is_correct": false
+        },
+        {
+          "answer": "Only an adjective",
+          "is_correct": false
+        },
+        {
+          "answer": "A verb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Are relative clauses always introduced by relative pronouns in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No",
+          "is_correct": false
+        },
+        {
+          "answer": "Only sometimes",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "In example d) 'Die Zeitung, in der der Artikel ...', what case is the relative pronoun 'der'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Dative",
+          "is_correct": true
+        },
+        {
+          "answer": "Nominative",
+          "is_correct": false
+        },
+        {
+          "answer": "Accusative",
+          "is_correct": false
+        },
+        {
+          "answer": "Genitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What determines the form of an adjective-noun sequence following a genitive relative pronoun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Its function in the clause",
+          "is_correct": true
+        },
+        {
+          "answer": "The tense of the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "The gender of the noun",
+          "is_correct": false
+        },
+        {
+          "answer": "The number of the pronoun",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Clauses and clause word order were discussed in Unit 10.\nSome common CLAUSE INTRODUCERS were noted there, and additional ones have been added\nin the intervening units.\nFrom Unit 12 on some sentences have occurred containing clauses introduced by the words der, das, die, etc.\nNote the following examples:\na) Kennen Sie den Herrn, mit dem sie sich unterhält?\nDo you know the gentleman she's talking to?\nb) Zum Glück stand gerade ein Gepäckträger da, der den Koffer gleich ins Abteil brachte.\nLuckily a porter just happened to be standing there who took the suitcases right to the compartment.\nc) Ich fuhr vor zwei Wochen zur Segelregatta, die jedes Jahr in Kiel stattfindet.\nTwo weeks ago I went to the sailing regatta that takes place in Kiel every year.\nd) Gewisse Schwierigkeiten, mit denen ich gerechnet hatte, sind gar nicht eingetreten.\nCertain difficulties I had anticipated didn't arise at all.\nNotice that in these sentences the clauses all refer back or 'relate' to a specific preceding noun.\nThey are called RELATIVE CLAUSES and the words which introduce them are called RELATIVE PRONOUNS.\nNote that RELATIVE CLAUSES are always introduced by RELATIVE PRONOUNS in German.\nA RELATIVE PRONOUN does not always appear in English, however.\n\nRelative pronoun forms\n1. Most RELATIVE PRONOUNS are identical in form with the specifiers der, das, die, etc.\nThere are a few special forms however. Here is a complete table:\nReferring to:       der-words   das-words   die-words   plural words\nNominative forms    der         das         die         die\nAccusative forms    den         das         die         die\nDative forms        dem         dem         der         denen\nGenitive forms      dessen      dessen      deren       deren\nThe five places in the table where the RELATIVE PRONOUNS have special forms have been underlined.\n\n2. The form of the RELATIVE PRONOUN depends on two factors: the kind of noun it refers back to, or replaces,\nand its function in the clause it introduces. Thus in paragraph I. example a) above dem refers back to, or replaces a der-word (Herr);\nit has the dative form following the preposition mit. In example b) der also replaces a der-word (Gepäckträger); it has the nominative form as subject of the clause it introduces.\nIn example c) die replaces a die-word (Segelregatta) and has the nominative form as subject of the clause.\nIn example d) denen replaces the plural word Schwierigkeiten and has the dative form following the preposition mit.\n\n3. In the additional examples below note how the RELATIVE PRONOUNS relate to the words they replace and how they function in the clauses they introduce.\nTo give a clearer picture of these relationships each clause has been written as a separate sentence on the right.\na) Fahren Sie dann durch den Teutoburger Wald, dessen historische Bedeutung auf die Schlacht im Jahre 9 n. Chr. zurückgeht.\nThe historical significance of the Teutoburger Wald goes back to the battle in 9 A.D.\nb) Im Ruhrgebiet, durch das wir später reisten, wollten wir einige Industriestädte besuchen.\nWe reiste später durch das Ruhrgebiet.\nc) Die Konferenz, deren Ergebnis heute abend in der Zeitung stehen wird, fand in der Kongresshalle statt.\nDas Ergebnis der Konferenz wird heute abend in der Zeitung stehen.\nd) Die Zeitung, in der der Artikel über die Verhandlungen mit Bonn stand, kann ich nicht mehr finden.\nDer Artikel über die Verhandlungen mit Bonn stand in der Zeitung.\ne) Die ausländischen Architekten, deren Arbeit ein wichtiger Beitrag zur Internationalen Bauausstellung ist, werden morgen auf einem Empfang im Rathaus vorgestellt.\nDie Arbeit der ausländischen Architekten ist ein wichtiger Beitrag zur Internationalen Bauausstellung.\nf) Neumanns, von deren jüngster Tochter ich heute einen Brief bekam, sind noch in Amerika.\nIch bekam heute einen Brief von Neumanns jüngster Tochter.\nIn these examples, the relative pronouns reflect the gender and number of the noun they replace and take the case required by their function in the relative clause.\nGenitive relative pronouns indicating a possessive relationship may be followed either by a noun or by an adjective-noun sequence whose form is determined by its function in the clause.\nThey may also occur, just as in English, between a preposition and its object.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

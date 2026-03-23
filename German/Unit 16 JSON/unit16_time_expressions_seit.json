@@ -1,0 +1,258 @@
+{
+  "title": "unit16_time_expressions_seit",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does 'seit' mean in German?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "since",
+          "is_correct": true
+        },
+        {
+          "answer": "until",
+          "is_correct": false
+        },
+        {
+          "answer": "before",
+          "is_correct": false
+        },
+        {
+          "answer": "after",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When combined with present tense forms, 'seit' and 'seitdem' indicate:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Past time continuing in the present",
+          "is_correct": true
+        },
+        {
+          "answer": "Future time",
+          "is_correct": false
+        },
+        {
+          "answer": "Simple past",
+          "is_correct": false
+        },
+        {
+          "answer": "Pluperfect",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In 'Seitdem ich einen Wagen habe, fahre ich diese Strecke öfter', what has changed since the speaker got a car?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He drives this route more often",
+          "is_correct": true
+        },
+        {
+          "answer": "He sold his car",
+          "is_correct": false
+        },
+        {
+          "answer": "He travels less",
+          "is_correct": false
+        },
+        {
+          "answer": "He goes to the theater",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which sentence uses 'seit' to indicate 'since'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Seit vorigem Monat hat er uns erst zweimal angerufen",
+          "is_correct": true
+        },
+        {
+          "answer": "Vor zehn Jahren war der Verkehr",
+          "is_correct": false
+        },
+        {
+          "answer": "Dieses Mal standen mir Tage zur Verfügung",
+          "is_correct": false
+        },
+        {
+          "answer": "Fahren Sie dieses Jahr an die Nordsee",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "'Seit' and 'seitdem' can be used with which verb forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Present, past, and perfect",
+          "is_correct": true
+        },
+        {
+          "answer": "Present only",
+          "is_correct": false
+        },
+        {
+          "answer": "Past only",
+          "is_correct": false
+        },
+        {
+          "answer": "Perfect only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "The sentence 'Ich war seit 1936 nicht mehr in der Lüneburger Heide' expresses:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I haven't been in the Lüneburger Heide since 1936",
+          "is_correct": true
+        },
+        {
+          "answer": "I was in the Lüneburger Heide in 1936",
+          "is_correct": false
+        },
+        {
+          "answer": "I will go to the Lüneburger Heide after 1936",
+          "is_correct": false
+        },
+        {
+          "answer": "I often go to the Lüneburger Heide",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "In 'Seitdem wir in München wohnen, gehen wir jeden Monat ins Theater', what does 'seitdem' indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Since we have been living in Munich",
+          "is_correct": true
+        },
+        {
+          "answer": "Before we lived in Munich",
+          "is_correct": false
+        },
+        {
+          "answer": "After we moved",
+          "is_correct": false
+        },
+        {
+          "answer": "While in Munich",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "True or False: 'Seit letztem Sonnabend ruft er mich jeden Tag an' and 'Seit letztem Sonnabend hat er mich jeden Tag angerufen' can express the same meaning.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        },
+        {
+          "answer": "Only one is correct",
+          "is_correct": false
+        },
+        {
+          "answer": "They refer to different time periods",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "In 'Seitdem ich diese Aufträge bekommen habe, habe ich keine Zeit mehr für private Interessen', what is the effect of receiving the orders?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I no longer have time for private interests",
+          "is_correct": true
+        },
+        {
+          "answer": "I have more time for private interests",
+          "is_correct": false
+        },
+        {
+          "answer": "I no longer get orders",
+          "is_correct": false
+        },
+        {
+          "answer": "I travel more often",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "When other sentence elements imply a cut-off, which verb form is used with seit/seitdem?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Perfect phrase",
+          "is_correct": true
+        },
+        {
+          "answer": "Present tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Infinitive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The words seit and seitdem \"since\"\nIn Unit 12 we noted that past time continuing in the present can be indicated by a present tense form of the verb together with the word seit and an adverb or dative phrase.\nIn this unit we have encountered the word seitdem as a clause introducer, or subordinating conjunction:\nSeitdem ich einen Wagen habe, fahre ich diese Strecke öfter.\nSince I have had a car, I have been traveling this route frequently.\nSeitdem, like seit, together with present tense forms of the verb signals past time continuing in the present, both in the clause it introduces and in the main clause.\nHere is another example:\nSeitdem wir in München wohnen, gehen wir jeden Monat ins Theater.\nSince we've been living in Munich we've been going to the theater every month.\nBoth seit and seitdem may occur in sentences with forms of the past tense or perfect phrase, however:\nSeit ihrem letzten Besuch hat sie uns nicht mehr angerufen.\nIch war seit 1936 nicht mehr in der Lüneburger Heide.\nSeit vorigem Monat hat er uns erst zweimal angerufen.\nSeitdem man angefangen hat, die Gebäude wiederaufzubauen, sind viele Schwierigkeiten eingetreten.\nShe hasn't called us since her last visit.\nI haven't been in the Lüneburger Heide since 1936.\nSince last month he has only called us twice.\nSince they began to rebuild the buildings many difficulties have arisen.\nNotice that in these examples reference is to a specific event, or events, which did or did not occur within a period of time beginning in the past and continuing up to the present.\nIn this case it is the period of time, whose beginning point is established by the phrase with seit or the clause with seitdem, which has continuing relevance in the present, not necessarily the action or event.\nIn a few cases seit or seitdem may occur either with a present tense or a perfect phrase:\nSeit letztem Sonnabend ruft er mich jeden Tag an.\nSeit letztem Sonnabend hat er mich jeden Tag angerufen.\nWithout further qualification by a following statement, both verb forms may imply exactly the same thing, the continuation of past time in the present with the expectation of continuation beyond the present.\nWhere other sentence elements imply a cut-off, however, only the perfect phrase is used:\nHier hat es seit Tagen geregnet, und heute regnet es immer noch.\nHier regnet es seit Tagen, und heute regnet es immer noch.\nHier hat es seit Tagen geregnet, aber heute scheint die Sonne wieder.\nIt's been raining here for days, and it's still raining today.\nIt's been raining here for days, and it's still raining today.\nIt's been raining here for days, but today the sun is shining again.\nVery frequently both present and past tense or perfect phrase forms of the verb occur in sentences with seitdem:\nWir sind erst einmal im Museum gewesen, seitdem wir hier wohnen.\nSeitdem er einen Artikel über zollfreie Spirituosen las, will er nach Helgoland fahren.\nSeitdem ich diese Aufträge bekommen habe, habe ich keine Zeit mehr für private Interessen.\nWe've only been in the museum once since we've been living here.\nEver since he read an article on duty-free alcoholic beverages he has been wanting to go to Helgoland.\nSince I received these orders I haven't had any time for my own private interests.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

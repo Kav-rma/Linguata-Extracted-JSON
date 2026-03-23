@@ -1,0 +1,288 @@
+[
+  {
+    "title": "unit16_situation3",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "From which island do you travel by steamer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Norderney",
+            "is_correct": true
+          },
+          {
+            "answer": "Helgoland",
+            "is_correct": false
+          },
+          {
+            "answer": "Sylt",
+            "is_correct": false
+          },
+          {
+            "answer": "Rügen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "To which destination are you traveling?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Helgoland",
+            "is_correct": true
+          },
+          {
+            "answer": "Norderney",
+            "is_correct": false
+          },
+          {
+            "answer": "Kiel",
+            "is_correct": false
+          },
+          {
+            "answer": "Hamburg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What kind of vessel do you take?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "a steamer",
+            "is_correct": true
+          },
+          {
+            "answer": "a train",
+            "is_correct": false
+          },
+          {
+            "answer": "a bus",
+            "is_correct": false
+          },
+          {
+            "answer": "an airplane",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What topic do you mention as your interest?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "fishing",
+            "is_correct": true
+          },
+          {
+            "answer": "skiing",
+            "is_correct": false
+          },
+          {
+            "answer": "museums",
+            "is_correct": false
+          },
+          {
+            "answer": "cooking",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What have you done regarding Helgoland?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "read a lot about it",
+            "is_correct": true
+          },
+          {
+            "answer": "visited many times",
+            "is_correct": false
+          },
+          {
+            "answer": "never heard of it",
+            "is_correct": false
+          },
+          {
+            "answer": "studied its language",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Where has the man recently been?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "America",
+            "is_correct": true
+          },
+          {
+            "answer": "Russia",
+            "is_correct": false
+          },
+          {
+            "answer": "Australia",
+            "is_correct": false
+          },
+          {
+            "answer": "South Africa",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Which regatta did he see in Washington?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "a sailing regatta on the Potomac",
+            "is_correct": true
+          },
+          {
+            "answer": "a car race",
+            "is_correct": false
+          },
+          {
+            "answer": "a cycling race",
+            "is_correct": false
+          },
+          {
+            "answer": "a football match",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Where does he say you can see a regatta in Germany?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "on the North Sea or Baltic Sea",
+            "is_correct": true
+          },
+          {
+            "answer": "on the Rhine",
+            "is_correct": false
+          },
+          {
+            "answer": "in the mountains",
+            "is_correct": false
+          },
+          {
+            "answer": "at Munich",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What surprising fact do you mention about Helgoland?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "everything is duty-free",
+            "is_correct": true
+          },
+          {
+            "answer": "there are no cars",
+            "is_correct": false
+          },
+          {
+            "answer": "it has no taxes",
+            "is_correct": false
+          },
+          {
+            "answer": "it is uninhabited",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What do you plan to do because of the duty-free status?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "buy some items there",
+            "is_correct": true
+          },
+          {
+            "answer": "avoid visiting",
+            "is_correct": false
+          },
+          {
+            "answer": "complain",
+            "is_correct": false
+          },
+          {
+            "answer": "write a letter",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Sie machen einen Ausflug mit einem Dampfer von Norderney nach Helgoland."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Sie unterhalten sich mit einem Herrn, der neben Ihnen sitzt."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Sie sagen ihm, dass die Fischerei Sie interessiert und dass Sie schon viel über Helgoland gelesen haben."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Der Herr stellt sich Ihnen vor und erzählt Ihnen, dass er vor kurzem in Amerika gewesen ist."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Er war auch in Washington und hat dort eine Segelregatta auf dem Potomac gesehen."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Sie fragen ihn, wo man in Deutschland eine Regatta sehen kann und er erzählt Ihnen, dass man dazu am besten an die Nord- oder Ostsee fährt."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Dann fragen Sie den Herrn, ob Sie wissen, dass man in Helgoland alles zollfrei bekommen kann."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Davon haben Sie schon gehört und Sie planen, sich dort einige Sachen zu besorgen."
+      }
+    ],
+    "metadata": {
+      "page_start": 30,
+      "page_end": 30,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

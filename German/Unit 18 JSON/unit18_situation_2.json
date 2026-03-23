@@ -1,0 +1,168 @@
+[
+  {
+    "title": "unit18_situation_2",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What is the scenario described in this situation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Coming to Germany as a diplomat without bringing furniture.",
+            "is_correct": true
+          },
+          {
+            "answer": "Going to a concert.",
+            "is_correct": false
+          },
+          {
+            "answer": "Visiting a doctor in Berlin.",
+            "is_correct": false
+          },
+          {
+            "answer": "Attending a language class in Munich.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What item did you not bring to Germany?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Furniture.",
+            "is_correct": true
+          },
+          {
+            "answer": "Books.",
+            "is_correct": false
+          },
+          {
+            "answer": "Food.",
+            "is_correct": false
+          },
+          {
+            "answer": "Clothing.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What should you consider if you have very little money?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "What you can afford to buy.",
+            "is_correct": true
+          },
+          {
+            "answer": "Which theater to visit.",
+            "is_correct": false
+          },
+          {
+            "answer": "Which doctor to call.",
+            "is_correct": false
+          },
+          {
+            "answer": "Where to park your car.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "What might you like to buy if you could borrow money from the bank?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Additional items you want.",
+            "is_correct": true
+          },
+          {
+            "answer": "A ticket to a concert.",
+            "is_correct": false
+          },
+          {
+            "answer": "A car wash.",
+            "is_correct": false
+          },
+          {
+            "answer": "A haircut.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "In which country does this situation take place?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Germany.",
+            "is_correct": true
+          },
+          {
+            "answer": "France.",
+            "is_correct": false
+          },
+          {
+            "answer": "Spain.",
+            "is_correct": false
+          },
+          {
+            "answer": "Italy.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What role are you assuming in this scenario?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A diplomat moving to Germany.",
+            "is_correct": true
+          },
+          {
+            "answer": "A student in Paris.",
+            "is_correct": false
+          },
+          {
+            "answer": "A tourist in Spain.",
+            "is_correct": false
+          },
+          {
+            "answer": "A chef in Italy.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Wenn Sie als Diplomant nach Deutschland kommen würden, ohne Möbel mitzunehmen, was würden Sie sich dort kaufen?"
+      },
+      {
+        "sequence_id": 2,
+        "text": "Überlegen Sie was Sie sich leisten könnten, wenn Sie nur sehr wenig Geld hätten, was Sie am liebsten noch dazu kaufen würden, wenn Sie sich von der Bank Geld leihen könnten, usw."
+      }
+    ],
+    "metadata": {
+      "page_start": 35,
+      "page_end": 35,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]
