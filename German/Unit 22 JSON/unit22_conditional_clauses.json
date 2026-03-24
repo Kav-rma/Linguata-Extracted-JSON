@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit22_conditional_clauses",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What kind of clauses does the article discuss?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Relative clauses",
+            "is_correct": false
+          },
+          {
+            "answer": "Conditional clauses",
+            "is_correct": true
+          },
+          {
+            "answer": "Direct clauses",
+            "is_correct": false
+          },
+          {
+            "answer": "Adverbial clauses",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "In units 18 ff., which conjunctions introduced conditional clauses?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "aber",
+            "is_correct": false
+          },
+          {
+            "answer": "als ob or wenn",
+            "is_correct": true
+          },
+          {
+            "answer": "und",
+            "is_correct": false
+          },
+          {
+            "answer": "oder",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "According to the article, what kind of verbs are used with 'würden' to form unreal conditions?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Infinitives of haben, sein, the modals",
+            "is_correct": true
+          },
+          {
+            "answer": "Past participles",
+            "is_correct": false
+          },
+          {
+            "answer": "Present indicative",
+            "is_correct": false
+          },
+          {
+            "answer": "Imperative",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which example shows the use of 'würden' to express an unreal condition?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Es wäre gut, wenn er eine Tetanusspritze bekäme.",
+            "is_correct": false
+          },
+          {
+            "answer": "Wenn er nicht schon ein Wörterbuch hätte, würde er dieses kaufen.",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich dachte, er ginge.",
+            "is_correct": false
+          },
+          {
+            "answer": "Es wurde ihm vorgeworfen, er hätte sich distanziert.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "The article presents another way of expressing unreal conditions using what?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The present tense",
+            "is_correct": false
+          },
+          {
+            "answer": "A subjunctive form of the main verb instead of 'würden' + infinitive",
+            "is_correct": true
+          },
+          {
+            "answer": "A future tense",
+            "is_correct": false
+          },
+          {
+            "answer": "The imperative",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "In the subjunctive summary for strong verbs, which pronoun forms are identical?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "du- and wir- forms",
+            "is_correct": false
+          },
+          {
+            "answer": "ich- and er- forms",
+            "is_correct": true
+          },
+          {
+            "answer": "wir- and ihr- forms",
+            "is_correct": false
+          },
+          {
+            "answer": "sie- and du- forms",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What happens to the stem vowels a, o, u in strong verbs when forming the subjunctive?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They remain the same",
+            "is_correct": false
+          },
+          {
+            "answer": "They take umlauts ä, ö, ü",
+            "is_correct": true
+          },
+          {
+            "answer": "They change to e",
+            "is_correct": false
+          },
+          {
+            "answer": "They drop",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which pair of verbs have two acceptable subjunctive forms according to the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "helfen and schwimmen",
+            "is_correct": false
+          },
+          {
+            "answer": "stehen and gelten",
+            "is_correct": true
+          },
+          {
+            "answer": "nennen and vorwerfen",
+            "is_correct": false
+          },
+          {
+            "answer": "sagen and machen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "How do weak verbs achieve their subjunctive identity according to the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They change their stems",
+            "is_correct": false
+          },
+          {
+            "answer": "Through their environment or context",
+            "is_correct": true
+          },
+          {
+            "answer": "By adding umlauts",
+            "is_correct": false
+          },
+          {
+            "answer": "They use 'würden' always",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Why is it important to learn usage by exposure, as mentioned in the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Because the forms can always be used interchangeably",
+            "is_correct": false
+          },
+          {
+            "answer": "Because one cannot always use these forms and must learn usage",
+            "is_correct": true
+          },
+          {
+            "answer": "Because subjunctive forms are rare",
+            "is_correct": false
+          },
+          {
+            "answer": "Because the modals are irregular",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A. CONDITIONAL CLAUSES\n\nI. In Units 18 ff. we encountered conditional clauses introduced by als ob or wenn and special conditional clauses standing without these:\nEs wäre kein Problem, das neue Auto zu kaufen, wenn wir mehr Geld hätten.\nHätten wir mehr Geld, wäre es kein Problem, das neue Auto zu kaufen.\n\nMost of the examples of unreal conditions in the present and future have been formed with subjunctives of haben, sein, the modals and würden with the infinitive:\nEs wäre gut, wenn er eine Tetanusspritze bekommen würde.\nWenn er nicht schon ein Wörterbuch hätte, würde er dieses kaufen.\nWenn Sie mir den Brief jetzt diktieren würden, könnte ich ihn nachher zur Post mitnehmen.\n\nII. There is another possibility for expressing unreal conditions or possibilities in the present and future. For this one uses a subjunctive form of the main verb instead of würden plus the infinitive:\nEs wäre gut, wenn er eine Tetanusspritze bekäme.\nWenn er nicht schon ein Wörterbuch hätte, kaufte er dieses.\nWenn Sie mir den Brief jetzt diktierten, könnte ich ihn nachher zur Post mitnehmen.\n\nThis subjunctive is obviously based on the past form of the verb. A representative summary of forms is given below. As in the past tense, ich- and er- forms are identical, likewise wir- and sie- forms.\n\nStrong verbs:\nich-/er-form: käme, zöge, führe, ließe, sagte\nwir-form: kämen, zögen, führten, ließen, sagten\ndu-form: kämest, zögest, führest, ließest, sagtest\nihr-form: kämet, zöget, führet, ließet, sagtet\n\nNote that the strong verbs with vowel stems a, o, u take ä, ö, ü in the subjunctive. However, certain strong verbs that one would expect to have an umlaut for the past stem vowel in the subjunctive do not or have variant forms which are preferred usage:\nInfinitive – Subjunctive\nbeginnen – begönne\nempfehlen – empföhle\nhelfen – hülfe\nkennen – kennte\nnennen – nennte\nschwimmen – schwömme\nvorwerfen – vorwürfe\n\nThere are also some verbs which have two equally acceptable forms:\nInfinitive – Subjunctive\nstehen – stände, stünde\ngelten – gälte, gölte\n\nThe weak verbs, being identical with their indicative counterparts in the past tense, achieve their subjunctive identity through their environment or context: Ich gäbe sie nur, wenn die Richtungsanzeiger nicht funktionierten.\nAn important fact to remember is that one cannot always use these forms. Usage determines what is usable. You will learn usage by exposure to the spoken language."
+      }
+    ],
+    "metadata": {
+      "page_start": 7,
+      "page_end": 8,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

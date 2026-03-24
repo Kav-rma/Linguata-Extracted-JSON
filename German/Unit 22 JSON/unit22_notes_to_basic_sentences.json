@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit22_notes_to_basic_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What does atü (Atmosphärenüberdruck) represent?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A unit of weight used for measuring gas volume",
+            "is_correct": false
+          },
+          {
+            "answer": "The decimal fraction of atmospheric pressure that exceeds ambient atmospheric pressure",
+            "is_correct": true
+          },
+          {
+            "answer": "A temperature scale for automotive engines",
+            "is_correct": false
+          },
+          {
+            "answer": "The level of humidity in the air",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "What is the approximate atmospheric pressure at sea level according to the note?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "14.7 psi",
+            "is_correct": true
+          },
+          {
+            "answer": "23.5 psi",
+            "is_correct": false
+          },
+          {
+            "answer": "36.75 psi",
+            "is_correct": false
+          },
+          {
+            "answer": "32.3 psi",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How is the value of atü in psi determined?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "By multiplying the atü value by 32.3 and adding 23.5",
+            "is_correct": false
+          },
+          {
+            "answer": "By subtracting the atü decimal fraction from 14.7 psi",
+            "is_correct": false
+          },
+          {
+            "answer": "By adding 14.7 psi to the product of 14.7 psi and the given decimal fraction",
+            "is_correct": true
+          },
+          {
+            "answer": "By dividing the atü decimal fraction by 14.7",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "According to the article, what is 1,5 atü equal to in psi?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "23.5 psi",
+            "is_correct": false
+          },
+          {
+            "answer": "36.75 psi",
+            "is_correct": true
+          },
+          {
+            "answer": "32.3 psi",
+            "is_correct": false
+          },
+          {
+            "answer": "14.7 psi",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is the typical range of normal automobile tire pressures in atü mentioned?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "0.5–1.0 atü",
+            "is_correct": false
+          },
+          {
+            "answer": "0.3–0.8 atü",
+            "is_correct": false
+          },
+          {
+            "answer": "0.6–1.2 atü",
+            "is_correct": true
+          },
+          {
+            "answer": "1.5–2.5 atü",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which formula converts atü to psi?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "N atü = 14.7 × (1 + N)",
+            "is_correct": true
+          },
+          {
+            "answer": "N atü = 14.7 ÷ (N psi + 14.7)",
+            "is_correct": false
+          },
+          {
+            "answer": "(N psi – 14.7) ÷ 14.7 = atü",
+            "is_correct": false
+          },
+          {
+            "answer": "14.7 × 14.7 = N atü",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What is the formula given to convert psi to atü?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "N atü = 14.7 × (1 + N)",
+            "is_correct": false
+          },
+          {
+            "answer": "(N psi – 14.7) ÷ 14.7 = atü",
+            "is_correct": true
+          },
+          {
+            "answer": "14.7 ÷ (N psi – 14.7) = atü",
+            "is_correct": false
+          },
+          {
+            "answer": "14.7 × N psi – 14.7 = atü",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "If a tire pressure is 1.2 atü, approximately what is it in psi according to the note?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "23.5 psi",
+            "is_correct": false
+          },
+          {
+            "answer": "32.3 psi",
+            "is_correct": true
+          },
+          {
+            "answer": "36.75 psi",
+            "is_correct": false
+          },
+          {
+            "answer": "14.7 psi",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What is the atü value at which the air pressure equals the atmospheric pressure at sea level?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "0 atü",
+            "is_correct": true
+          },
+          {
+            "answer": "1 atü",
+            "is_correct": false
+          },
+          {
+            "answer": "14.7 atü",
+            "is_correct": false
+          },
+          {
+            "answer": "0.6 atü",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What does the decimal fraction in an atü value represent?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The fraction of total volume occupied by gas",
+            "is_correct": false
+          },
+          {
+            "answer": "The multiple of the base atmospheric pressure above 14.7 psi",
+            "is_correct": true
+          },
+          {
+            "answer": "The portion of the atmosphere that has been removed",
+            "is_correct": false
+          },
+          {
+            "answer": "The temperature difference from sea level",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "1 atü - Atmosphärenüberdruck is the pressure expressed in decimal fractions of 1 atmosphere by which a given body of gas or air exceeds the pressure of the atmosphere. Since at sea level the pressure of the atmosphere is approximately 14.7 psi, atü always equals 14.7 psi plus the given decimal fraction. 1,5 atü thus is equal to 14.7 plus 1.5 times 14.7, or 36.75 psi. Normal automobile tire pressures today run from about 0,6 atü or 23.5 psi to about 1,2 atü or 32.3 psi. A conversion formula: N atü = 14.7 times (1 + N). To convert psi to atü: (N psi - 14.7) divided by 14.7 = atü."
+      }
+    ],
+    "metadata": {
+      "page_start": 6,
+      "page_end": 6,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

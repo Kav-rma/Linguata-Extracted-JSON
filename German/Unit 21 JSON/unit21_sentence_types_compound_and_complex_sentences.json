@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit21_sentence_types_compound_and_complex_sentences",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What do writing conventions require a sentence to begin and end with?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A small letter and a comma",
+            "is_correct": false
+          },
+          {
+            "answer": "A capital letter and a period",
+            "is_correct": true
+          },
+          {
+            "answer": "A clause introducer and a verb",
+            "is_correct": false
+          },
+          {
+            "answer": "A semicolon and a colon",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "In a compound sentence, what type of conjunctions join the independent parts?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Clause introducers",
+            "is_correct": false
+          },
+          {
+            "answer": "Co-ordinating conjunctions",
+            "is_correct": true
+          },
+          {
+            "answer": "Question words",
+            "is_correct": false
+          },
+          {
+            "answer": "Relative pronouns",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "According to the article, what is a compound sentence made of?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "One independent clause and one subordinate clause",
+            "is_correct": false
+          },
+          {
+            "answer": "Two or more independent sentences grouped together",
+            "is_correct": true
+          },
+          {
+            "answer": "A phrase and a word",
+            "is_correct": false
+          },
+          {
+            "answer": "Many subordinate clauses only",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "In the examples of compound sentences, what can be omitted without changing meaning?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The subject",
+            "is_correct": false
+          },
+          {
+            "answer": "The conjunction",
+            "is_correct": true
+          },
+          {
+            "answer": "The verb",
+            "is_correct": false
+          },
+          {
+            "answer": "The clause introducer",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is the term for sentences where one or more parts are dependent on or subordinate to another part?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Compound sentences",
+            "is_correct": false
+          },
+          {
+            "answer": "Complex sentences",
+            "is_correct": true
+          },
+          {
+            "answer": "Simple sentences",
+            "is_correct": false
+          },
+          {
+            "answer": "Declarative sentences",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What usually introduces the subordinate part of a complex sentence?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A verb",
+            "is_correct": false
+          },
+          {
+            "answer": "A clause introducer such as a subordinating conjunction, relative pronoun, or question word",
+            "is_correct": true
+          },
+          {
+            "answer": "A conjunction with comma",
+            "is_correct": false
+          },
+          {
+            "answer": "A period",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What cannot be omitted in complex sentences without changing meaning?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Proper names",
+            "is_correct": false
+          },
+          {
+            "answer": "Clause introducers",
+            "is_correct": true
+          },
+          {
+            "answer": "Commas",
+            "is_correct": false
+          },
+          {
+            "answer": "Semicolons",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What is the part of a complex sentence that can stand alone called?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Subordinate clause",
+            "is_correct": false
+          },
+          {
+            "answer": "Independent clause or main clause",
+            "is_correct": true
+          },
+          {
+            "answer": "Dependent clause",
+            "is_correct": false
+          },
+          {
+            "answer": "Coordinating clause",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of the following is an example of a complex sentence mentioned in the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ich werde unsere Sachen an der Garderobe abgeben, und Sie könnten inzwischen die belegten Brötchen holen.",
+            "is_correct": false
+          },
+          {
+            "answer": "Bevor Sie Ihr Visum bekommen, werden Sie im Generalkonsulat untersucht und geröntgt.",
+            "is_correct": true
+          },
+          {
+            "answer": "Es war nicht nur der Film zu entwickeln, sondern meine Vergrösserungen müssten auch fertig sein.",
+            "is_correct": false
+          },
+          {
+            "answer": "Das werde ich bald tun, denn bei unserer grossen Familie ist alle Augenblicke einer krank.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Longer sentences joined by sentence connectors and where each part can stand alone are called what?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Complex sentences",
+            "is_correct": false
+          },
+          {
+            "answer": "Compound sentences",
+            "is_correct": true
+          },
+          {
+            "answer": "Indirect quotations",
+            "is_correct": false
+          },
+          {
+            "answer": "Subordinate clauses",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "A. SENTENCE TYPES - COMPOUND AND COMPLEX SENTENCES\n\nI. The conventions of writing require that a SENTENCE begin with a capital letter and end with a period. In terms of its grammatical elements a SENTENCE usually also contains at least a subject and a verb. Sometimes two or more independent sentences are grouped together into a longer sentence, with each part still having its own subject and verb, each part capable of standing alone but associated in this way with the others because of common subject matter or because they express closely associated thoughts. Writing conventions and variations of style allow a comma or a semi-colon or a colon between the parts of a longer sentence like this, but in speech we are not usually aware of the association or grouping together unless the separate parts of a longer sentence are joined by SENTENCE CONNECTORS, or co-ordinating conjunctions, as they are more traditionally called. Here are some examples from our recent units:\n\nIch werde unsere Sachen an der Garderobe abgeben, und Sie könnten inzwischen die belegten Brötchen holen.\nEs war nicht nur der Film zu entwickeln, sondern meine Vergrösserungen müssten auch fertig sein.\nDas werde ich bald tun, denn bei unserer grossen Familie ist alle Augenblicke einer krank.\n\nNotice that in each example the conjunction could be omitted with no change in meaning. We would simply end up in each case with two shorter sentences. Note also that normal word order occurs in all parts of these sentences. Longer sentences of this type are traditionally called COMPOUND SENTENCES.\n\nII. There is another class of longer sentences consisting of two or more parts, each with its own subject and verb, however. In such sentences one or more of the separate parts is actually dependent on or subordinate to another part. Often, but not always, the subordinate or dependent part of the sentence is introduced by a CLAUSE INTRODUCER, i.e. a subordinating conjunction, relative pronoun or question word. We have had several examples of longer sentences of this type in recent units:\n\nBevor Sie Ihr Visum bekommen, werden Sie im Generalkonsulat untersucht und geröntgt.\nIch wollte, ich wäre nicht Kandidat geworden.\nWas wurde aus der Geschäftsreise nach Bayreuth, die Sie nicht gerne machen wollten?\nIch bin überzeugt, dass seine Partei schon einen Posten für ihn vorgesehen hat, falls er wirklich aus dem Kabinett ausscheiden sollte.\n\nNotice that in each of these examples at most only one part can stand alone and be given as a sentence by itself. The other parts are dependent on it or subordinate to it. Note also that clause introducers, where they occur, cannot be omitted unless other, substantial changes are made in the sentence, in which case the meaning may also be different. Note finally that clause word order occurs everywhere after clause introducers. Longer sentences of this type are traditionally called COMPLEX SENTENCES. The part of a COMPLEX SENTENCE which can stand alone and be given as a sentence by itself is traditionally called the MAIN or INDEPENDENT CLAUSE. The dependent or subordinate parts are called DEPENDENT or SUBORDINATE CLAUSES."
+      }
+    ],
+    "metadata": {
+      "page_start": 6,
+      "page_end": 6,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit22_indirect_discourse",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "The subjunctive forms based on which tense are often used in indirect discourse?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Present",
+            "is_correct": false
+          },
+          {
+            "answer": "Past",
+            "is_correct": true
+          },
+          {
+            "answer": "Future",
+            "is_correct": false
+          },
+          {
+            "answer": "Imperative",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "In indirect discourse, using the subjunctive can indicate what about the speaker's attitude?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Endorsement",
+            "is_correct": false
+          },
+          {
+            "answer": "Neutrality",
+            "is_correct": false
+          },
+          {
+            "answer": "Divorce from the views or quoting another",
+            "is_correct": true
+          },
+          {
+            "answer": "Insistence on truth",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which sentence from the article is an example of indicating hearsay with a subjunctive?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Der Arzt glaubt, dass ich krank bin.",
+            "is_correct": false
+          },
+          {
+            "answer": "Er sagt, der Konsul käme morgen zurück",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich habe immer gedacht, dass er es wüsste.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich gäbe sie nur, wenn die Richtungsanzeiger nicht funktionierten.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "When the speaker wishes to endorse the views or words of another in indirect discourse, which mood is used?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Subjunctive",
+            "is_correct": false
+          },
+          {
+            "answer": "Imperative",
+            "is_correct": false
+          },
+          {
+            "answer": "Indicative",
+            "is_correct": true
+          },
+          {
+            "answer": "Infinitive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "The article states that the subjunctive may be used for one's own views for what reason?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To state them indirectly",
+            "is_correct": true
+          },
+          {
+            "answer": "To show certainty",
+            "is_correct": false
+          },
+          {
+            "answer": "To emphasise the main clause",
+            "is_correct": false
+          },
+          {
+            "answer": "To avoid repetition",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Which example illustrates using the subjunctive to paraphrase another's thought?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ich dachte, er ginge",
+            "is_correct": true
+          },
+          {
+            "answer": "Der Arzt glaubt, dass ich krank bin.",
+            "is_correct": false
+          },
+          {
+            "answer": "Er glaubt, der Mond bestünde aus grünem Käse.",
+            "is_correct": false
+          },
+          {
+            "answer": "Es wäre kein Problem, das neue Auto zu kaufen",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What does the example 'Er glaubt, der Mond bestünde aus grünem Käse' show?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A literal fact",
+            "is_correct": false
+          },
+          {
+            "answer": "The use of the subjunctive to distance from views",
+            "is_correct": true
+          },
+          {
+            "answer": "The indicative",
+            "is_correct": false
+          },
+          {
+            "answer": "A conditional clause",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which clause shows a report of a fact without expressing doubt?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Er sagt, der Konsul käme morgen zurück",
+            "is_correct": true
+          },
+          {
+            "answer": "Ich dachte, er ginge",
+            "is_correct": false
+          },
+          {
+            "answer": "Der Arzt glaubt, dass ich krank bin.",
+            "is_correct": false
+          },
+          {
+            "answer": "Es wäre gut, wenn er eine Tetanusspritze bekäme",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which mood is used in the clause 'Der Arzt glaubt, dass ich krank bin'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Subjunctive",
+            "is_correct": false
+          },
+          {
+            "answer": "Indicative",
+            "is_correct": true
+          },
+          {
+            "answer": "Imperative",
+            "is_correct": false
+          },
+          {
+            "answer": "Conditional",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "The article suggests that the forms of the subjunctive in indirect discourse are used to:",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Underline the fact they are the speaker's own views",
+            "is_correct": false
+          },
+          {
+            "answer": "Underline they are the views of another",
+            "is_correct": true
+          },
+          {
+            "answer": "Avoid using modal verbs",
+            "is_correct": false
+          },
+          {
+            "answer": "Form conditional clauses",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "B. INDIRECT DISCOURSE\n\nI. The forms of the subjunctive based on the Past Tense are often used in Indirect Discourse situations.\nEr sagte, ich bekäme den Führerschein.\nIch hörte, es ließe sich leicht machen.\n\nIn Indirect Discourse one can state the content of another's words, thoughts or wishes with the subjunctive and thus underline the fact that those are the views of another. It may be evident from the statement that one wishes to divorce himself from the views: Er glaubt, der Mond bestünde aus grünem Käse. Or one may simply be reporting a fact: Er sagt, der Konsul käme morgen zurück.\n\nIf one wishes to endorse the views or words of another, one uses the indicative: Der Arzt glaubt, dass ich krank bin.\nOne may mark the subjective nature of his own views by the use of the subjunctive or simply use the subjunctive in stating his own views because one wishes to state them indirectly.\nIch dachte, er ginge.\nIch habe immer gedacht, dass er es wüsste."
+      }
+    ],
+    "metadata": {
+      "page_start": 8,
+      "page_end": 8,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

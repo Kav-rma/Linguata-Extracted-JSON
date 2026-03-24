@@ -1,0 +1,282 @@
+{
+  "title": "unit22_narrative",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why was the drunk person questioned by the police?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He caused a traffic accident.",
+          "is_correct": true
+        },
+        {
+          "answer": "He was not wearing a seatbelt.",
+          "is_correct": false
+        },
+        {
+          "answer": "He was speeding.",
+          "is_correct": false
+        },
+        {
+          "answer": "He stole a car.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Why did the drunk person say he didn’t think he was drunk?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He was too distracted by his car.",
+          "is_correct": false
+        },
+        {
+          "answer": "He was not sober and didn’t think about being drunk.",
+          "is_correct": true
+        },
+        {
+          "answer": "The police told him he was sober.",
+          "is_correct": false
+        },
+        {
+          "answer": "He had been drinking coffee.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What would the drunk person have known if he had been sober?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That he should eat before driving.",
+          "is_correct": false
+        },
+        {
+          "answer": "That he could drive faster.",
+          "is_correct": false
+        },
+        {
+          "answer": "That he would not be allowed to drive as a drunk person.",
+          "is_correct": true
+        },
+        {
+          "answer": "That he needed to refill fuel.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What caused the narrative event described?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The man went to a bar.",
+          "is_correct": false
+        },
+        {
+          "answer": "He drove while drunk and caused an accident.",
+          "is_correct": true
+        },
+        {
+          "answer": "He robbed a bank.",
+          "is_correct": false
+        },
+        {
+          "answer": "He walked home.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the word ‘nüchtern’ mean in this context?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Drunk",
+          "is_correct": false
+        },
+        {
+          "answer": "Awake",
+          "is_correct": false
+        },
+        {
+          "answer": "Sober",
+          "is_correct": true
+        },
+        {
+          "answer": "Tired",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What did the woman say she would give the man if he were her husband?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A kiss",
+          "is_correct": false
+        },
+        {
+          "answer": "A car",
+          "is_correct": false
+        },
+        {
+          "answer": "Poison",
+          "is_correct": true
+        },
+        {
+          "answer": "A gift",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How did the man respond to the woman’s statement about giving him poison?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He refused to speak.",
+          "is_correct": false
+        },
+        {
+          "answer": "He said he would take it if she were his wife.",
+          "is_correct": true
+        },
+        {
+          "answer": "He asked for water.",
+          "is_correct": false
+        },
+        {
+          "answer": "He laughed and left.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "According to the vocabulary list, what does ‘verursachen’ mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To celebrate",
+          "is_correct": false
+        },
+        {
+          "answer": "To cause",
+          "is_correct": true
+        },
+        {
+          "answer": "To avoid",
+          "is_correct": false
+        },
+        {
+          "answer": "To forget",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is a ‘Verkehrsunfall’ as listed in the vocabulary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Traffic accident",
+          "is_correct": true
+        },
+        {
+          "answer": "Birthday party",
+          "is_correct": false
+        },
+        {
+          "answer": "Construction site",
+          "is_correct": false
+        },
+        {
+          "answer": "Bus stop",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What did the police do to the drunk person according to the narrative?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They arrested him immediately.",
+          "is_correct": false
+        },
+        {
+          "answer": "They called his family.",
+          "is_correct": false
+        },
+        {
+          "answer": "They cross‑examined him about the accident.",
+          "is_correct": true
+        },
+        {
+          "answer": "They let him go without questions.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Ein Betrunkener wurde wegen eines Verkehrsunfalls, den er verursacht hatte, von der Polizei vernommen."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Auf die Frage, ob er denn nicht wüsste, dass ein Betrunkener nicht fahren durfte, antwortete er:"
+    },
+    {
+      "sequence_id": 3,
+      "text": "\"Da ich nicht nüchtern war, kam mir nicht der Gedanke, dass ich ein Betrunkener wäre, also nicht fahren dürfte."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Wäre ich nüchtern gewesen, hätte ich natürlich gewusst, dass ich als Betrunkener nicht fahren durfte.\""
+    },
+    {
+      "sequence_id": 5,
+      "text": "sie: Wären Sie mein Mann, gäbe ich Ihnen Gift."
+    },
+    {
+      "sequence_id": 6,
+      "text": "er: Hätte ich Sie zur Frau, nähme ich es."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Da ich nicht nüchtern war, kam mir nicht der Gedanke, dass ich ein Betrunkener wäre, also nicht fahren dürfte. Wäre ich nüchtern gewesen, hätte ich natürlich gewusst, dass ich als Betrunkener nicht fahren durfte."
+    }
+  ],
+  "metadata": {
+    "page_start": 18,
+    "page_end": 18,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

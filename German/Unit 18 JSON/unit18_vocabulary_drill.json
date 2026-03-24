@@ -5,6 +5,18 @@
     "questions_and_answers": [
       {
         "sequence_id": 1,
+        "question_text": "ausser + Dative",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "besides, in addition to, aside from",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
         "question_text": "Sie müssen ausser den Tropfen auch noch Tabletten einnehmen.",
         "has_answer": true,
         "type": "short_answer",
@@ -16,7 +28,7 @@
         ]
       },
       {
-        "sequence_id": 2,
+        "sequence_id": 3,
         "question_text": "Ausser diesem Formular müssen Sie noch zwei andere ausfüllen.",
         "has_answer": true,
         "type": "short_answer",
@@ -28,7 +40,7 @@
         ]
       },
       {
-        "sequence_id": 3,
+        "sequence_id": 4,
         "question_text": "Wir haben ausser den beiden Büchern auch noch ein Bild bestellt.",
         "has_answer": true,
         "type": "short_answer",
@@ -40,7 +52,7 @@
         ]
       },
       {
-        "sequence_id": 4,
+        "sequence_id": 5,
         "question_text": "Ausser der Werft interessiert mich auch die Fischerei.",
         "has_answer": true,
         "type": "short_answer",
@@ -52,7 +64,7 @@
         ]
       },
       {
-        "sequence_id": 5,
+        "sequence_id": 6,
         "question_text": "Ausser mir war niemand da.",
         "has_answer": true,
         "type": "short_answer",
@@ -64,7 +76,19 @@
         ]
       },
       {
-        "sequence_id": 6,
+        "sequence_id": 7,
+        "question_text": "statt + Genitive",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "instead of",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
         "question_text": "Unser Hausarzt schlug mir vor, statt des vielen Kaffees Fruchtsäfte zu trinken.",
         "has_answer": true,
         "type": "short_answer",
@@ -76,7 +100,7 @@
         ]
       },
       {
-        "sequence_id": 7,
+        "sequence_id": 9,
         "question_text": "Statt der Tabletten muss mein Vater jetzt Tropfen einnehmen.",
         "has_answer": true,
         "type": "short_answer",
@@ -88,7 +112,7 @@
         ]
       },
       {
-        "sequence_id": 8,
+        "sequence_id": 10,
         "question_text": "Ich will mir ein Tonbandgerät statt eines Plattenspielers kaufen.",
         "has_answer": true,
         "type": "short_answer",
@@ -100,7 +124,7 @@
         ]
       },
       {
-        "sequence_id": 9,
+        "sequence_id": 11,
         "question_text": "Herr Ober, wir möchten statt der Kalbsleber Rumpsteak haben.",
         "has_answer": true,
         "type": "short_answer",
@@ -112,7 +136,19 @@
         ]
       },
       {
-        "sequence_id": 10,
+        "sequence_id": 12,
+        "question_text": "trotz + Genitive",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "in spite of, despite",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
         "question_text": "Wir sind trotz des beschädigten Wagens nach Italien gekommen.",
         "has_answer": true,
         "type": "short_answer",
@@ -124,7 +160,7 @@
         ]
       },
       {
-        "sequence_id": 11,
+        "sequence_id": 14,
         "question_text": "Trotz des schlechten Wetters ging er heute zu Fuß ins Büro.",
         "has_answer": true,
         "type": "short_answer",
@@ -136,7 +172,7 @@
         ]
       },
       {
-        "sequence_id": 12,
+        "sequence_id": 15,
         "question_text": "Meiner Frau geht es trotz der Kur immer noch nicht gut.",
         "has_answer": true,
         "type": "short_answer",
@@ -148,7 +184,7 @@
         ]
       },
       {
-        "sequence_id": 13,
+        "sequence_id": 16,
         "question_text": "Sie waren trotz der vielen Verhandlungen mit dem Ergebnis nicht zufrieden.",
         "has_answer": true,
         "type": "short_answer",
@@ -160,7 +196,7 @@
         ]
       },
       {
-        "sequence_id": 14,
+        "sequence_id": 17,
         "question_text": "Unser Junge geht trotz der Wunde am Knie schon wieder in die Schule.",
         "has_answer": true,
         "type": "short_answer",
@@ -172,7 +208,19 @@
         ]
       },
       {
-        "sequence_id": 15,
+        "sequence_id": 18,
+        "question_text": "wegen + Genitive",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "on account of, because of; about, concerning",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
         "question_text": "Wegen meiner Mittelohrentzündung durfte ich lange nicht schwimmen gehen.",
         "has_answer": true,
         "type": "short_answer",
@@ -184,7 +232,7 @@
         ]
       },
       {
-        "sequence_id": 16,
+        "sequence_id": 20,
         "question_text": "Wir konnten des schlechten Wetters wegen nicht in die Berge fahren.",
         "has_answer": true,
         "type": "short_answer",
@@ -196,7 +244,7 @@
         ]
       },
       {
-        "sequence_id": 17,
+        "sequence_id": 21,
         "question_text": "Du musst heute noch den Klempner wegen des Wasserhahns anrufen.",
         "has_answer": true,
         "type": "short_answer",
@@ -208,7 +256,7 @@
         ]
       },
       {
-        "sequence_id": 18,
+        "sequence_id": 22,
         "question_text": "Mein Bruder muss wegen einer dringenden Angelegenheit seine Abreise aufschieben.",
         "has_answer": true,
         "type": "short_answer",
@@ -220,7 +268,7 @@
         ]
       },
       {
-        "sequence_id": 19,
+        "sequence_id": 23,
         "question_text": "Herr Becker fuhr seiner Herzbeschwerden wegen zur Kur nach Bad Nauheim.",
         "has_answer": true,
         "type": "short_answer",
@@ -232,7 +280,19 @@
         ]
       },
       {
-        "sequence_id": 20,
+        "sequence_id": 24,
+        "question_text": "untersuchen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "examine, investigate",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
         "question_text": "Meine Frau hat sich jetzt endlich von einem Facharzt untersuchen lassen.",
         "has_answer": true,
         "type": "short_answer",
@@ -244,7 +304,7 @@
         ]
       },
       {
-        "sequence_id": 21,
+        "sequence_id": 26,
         "question_text": "Dr. Buchner hat mein Herz untersucht.",
         "has_answer": true,
         "type": "short_answer",
@@ -256,7 +316,7 @@
         ]
       },
       {
-        "sequence_id": 22,
+        "sequence_id": 27,
         "question_text": "Beim Zoll wurde mein ganzes Gepäck untersucht.",
         "has_answer": true,
         "type": "short_answer",
@@ -268,7 +328,7 @@
         ]
       },
       {
-        "sequence_id": 23,
+        "sequence_id": 28,
         "question_text": "Nach dem Unfall haben die Polizisten den Wagen untersucht.",
         "has_answer": true,
         "type": "short_answer",
@@ -280,7 +340,7 @@
         ]
       },
       {
-        "sequence_id": 24,
+        "sequence_id": 29,
         "question_text": "Ehe er anfing bei der Werft zu arbeiten, musste er sich vom Arzt untersuchen lassen.",
         "has_answer": true,
         "type": "short_answer",
@@ -292,7 +352,19 @@
         ]
       },
       {
-        "sequence_id": 25,
+        "sequence_id": 30,
+        "question_text": "krank",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "sick, ill",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
         "question_text": "Bei diesem feuchten Klima werden unsere Kinder leicht krank.",
         "has_answer": true,
         "type": "short_answer",
@@ -304,7 +376,7 @@
         ]
       },
       {
-        "sequence_id": 26,
+        "sequence_id": 32,
         "question_text": "Wie lange ist Frau Allen schon krank?",
         "has_answer": true,
         "type": "short_answer",
@@ -316,7 +388,7 @@
         ]
       },
       {
-        "sequence_id": 27,
+        "sequence_id": 33,
         "question_text": "Wenn Herr Keller nicht krank wäre, würde er mit uns zur Industriemesse fahren.",
         "has_answer": true,
         "type": "short_answer",
@@ -328,7 +400,7 @@
         ]
       },
       {
-        "sequence_id": 28,
+        "sequence_id": 34,
         "question_text": "Im Betrieb waren letzte Woche zwei Kollegen von mir krank.",
         "has_answer": true,
         "type": "short_answer",
@@ -340,7 +412,19 @@
         ]
       },
       {
-        "sequence_id": 29,
+        "sequence_id": 35,
+        "question_text": "empfehlen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "recommend",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
         "question_text": "Können Sie mir einen guten Arzt empfehlen?",
         "has_answer": true,
         "type": "short_answer",
@@ -352,7 +436,7 @@
         ]
       },
       {
-        "sequence_id": 30,
+        "sequence_id": 37,
         "question_text": "Was für ein Tonbandgerät würden Sie mir empfehlen?",
         "has_answer": true,
         "type": "short_answer",
@@ -364,7 +448,7 @@
         ]
       },
       {
-        "sequence_id": 31,
+        "sequence_id": 38,
         "question_text": "Der Ober empfahl uns, Hummer zu bestellen.",
         "has_answer": true,
         "type": "short_answer",
@@ -376,7 +460,7 @@
         ]
       },
       {
-        "sequence_id": 32,
+        "sequence_id": 39,
         "question_text": "Diese Buchhandlung ist mir sehr empfohlen worden.",
         "has_answer": true,
         "type": "short_answer",
@@ -388,7 +472,7 @@
         ]
       },
       {
-        "sequence_id": 33,
+        "sequence_id": 40,
         "question_text": "Unser Arzt empfiehlt mir sogar, starken Kaffee zu trinken.",
         "has_answer": true,
         "type": "short_answer",
@@ -400,31 +484,43 @@
         ]
       },
       {
-        "sequence_id": 34,
+        "sequence_id": 41,
+        "question_text": "das Medikament / die Medizin",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "medicine",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
         "question_text": "Hat Ihnen die Medizin, die ich Ihnen verschrieb, schon geholfen?",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
           {
-            "answer_text": "Has the medicine which I prescribed for you been of any help to you yet?",
+            "answer_text": "Has the medicine which I prescribed been of any help to you yet?",
             "is_correct": true
           }
         ]
       },
       {
-        "sequence_id": 35,
+        "sequence_id": 43,
         "question_text": "Hat Ihnen das Medikament, das ich Ihnen verschrieb, schon geholfen?",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
           {
-            "answer_text": "Has the medicine which I prescribed for you been of any help to you yet?",
+            "answer_text": "Has the preparation which I prescribed been of any help to you yet?",
             "is_correct": true
           }
         ]
       },
       {
-        "sequence_id": 36,
+        "sequence_id": 44,
         "question_text": "Hat Ihnen der Facharzt ein anderes Medikament verschrieben?",
         "has_answer": true,
         "type": "short_answer",
@@ -436,7 +532,7 @@
         ]
       },
       {
-        "sequence_id": 37,
+        "sequence_id": 45,
         "question_text": "Von dieser Medizin musst du täglich dreimal je zehn Tropfen nehmen.",
         "has_answer": true,
         "type": "short_answer",
@@ -448,7 +544,7 @@
         ]
       },
       {
-        "sequence_id": 38,
+        "sequence_id": 46,
         "question_text": "Dr. Meyer verschrieb mir ein ganz neues Medikament.",
         "has_answer": true,
         "type": "short_answer",
@@ -460,7 +556,7 @@
         ]
       },
       {
-        "sequence_id": 39,
+        "sequence_id": 47,
         "question_text": "Meine Frau vergass heute früh ihre Medizin einzunehmen.",
         "has_answer": true,
         "type": "short_answer",
@@ -472,7 +568,19 @@
         ]
       },
       {
-        "sequence_id": 40,
+        "sequence_id": 48,
+        "question_text": "verschreiben",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "prescribe (write out a prescription)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
         "question_text": "Sie sollten die Tropfen, die ich Ihnen verschrieben habe, nicht nur zweimal, sondern fünfmal täglich nehmen.",
         "has_answer": true,
         "type": "short_answer",
@@ -484,7 +592,7 @@
         ]
       },
       {
-        "sequence_id": 41,
+        "sequence_id": 50,
         "question_text": "Könnten Sie mir diese Medizin noch einmal verschreiben?",
         "has_answer": true,
         "type": "short_answer",
@@ -496,7 +604,7 @@
         ]
       },
       {
-        "sequence_id": 42,
+        "sequence_id": 51,
         "question_text": "Jetzt weiss ich nicht, welche Tropfen er mir fürs Herz verschrieben hat und welche fürs Ohr.",
         "has_answer": true,
         "type": "short_answer",
@@ -508,7 +616,7 @@
         ]
       },
       {
-        "sequence_id": 43,
+        "sequence_id": 52,
         "question_text": "Du musst dir wieder die Tabletten verschreiben lassen.",
         "has_answer": true,
         "type": "short_answer",
@@ -520,7 +628,7 @@
         ]
       },
       {
-        "sequence_id": 44,
+        "sequence_id": 53,
         "question_text": "Von dem Medikament, das Sie mir verschrieben haben, bin ich ganz schwindlig geworden.",
         "has_answer": true,
         "type": "short_answer",
@@ -532,7 +640,19 @@
         ]
       },
       {
-        "sequence_id": 45,
+        "sequence_id": 54,
+        "question_text": "je",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "each, every time, in every case, at a time",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
         "question_text": "Nehmen Sie dreimal täglich je zwei Tabletten.",
         "has_answer": true,
         "type": "short_answer",
@@ -544,19 +664,19 @@
         ]
       },
       {
-        "sequence_id": 46,
+        "sequence_id": 56,
         "question_text": "Sie müssen zweimal in der Woche je eine halbe Stunde zu dieser Behandlung kommen.",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
           {
-            "answer_text": "You must come for this treatment twice a week for a half an hour each time.",
+            "answer_text": "You must come for this treatment twice a week for half an hour.",
             "is_correct": true
           }
         ]
       },
       {
-        "sequence_id": 47,
+        "sequence_id": 57,
         "question_text": "Können Sie mir von diesen zwei Kisten je zehn Zigarren geben?",
         "has_answer": true,
         "type": "short_answer",
@@ -568,7 +688,7 @@
         ]
       },
       {
-        "sequence_id": 48,
+        "sequence_id": 58,
         "question_text": "Er wollte von den Negativen je einen Abzug machen lassen.",
         "has_answer": true,
         "type": "short_answer",
@@ -580,7 +700,7 @@
         ]
       },
       {
-        "sequence_id": 49,
+        "sequence_id": 59,
         "question_text": "Wollten Sie nicht je eine Vergrösserung von Ihren Aufnahmen haben?",
         "has_answer": true,
         "type": "short_answer",
@@ -592,7 +712,19 @@
         ]
       },
       {
-        "sequence_id": 50,
+        "sequence_id": 60,
+        "question_text": "bestellt werden/sein",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "to have an appointment with/for",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
         "question_text": "Ich bin nächsten Montag zum Zahnarzt bestellt.",
         "has_answer": true,
         "type": "short_answer",
@@ -604,7 +736,7 @@
         ]
       },
       {
-        "sequence_id": 51,
+        "sequence_id": 62,
         "question_text": "Frau Wilson wurde zur Behandlung ins Krankenhaus bestellt.",
         "has_answer": true,
         "type": "short_answer",
@@ -616,7 +748,7 @@
         ]
       },
       {
-        "sequence_id": 52,
+        "sequence_id": 63,
         "question_text": "Herr Allen wurde wegen seines hohen Blutdrucks nochmal zum Arzt bestellt.",
         "has_answer": true,
         "type": "short_answer",
@@ -628,7 +760,7 @@
         ]
       },
       {
-        "sequence_id": 53,
+        "sequence_id": 64,
         "question_text": "Ich bin heute zur Lehrerin meiner Tochter bestellt.",
         "has_answer": true,
         "type": "short_answer",
@@ -640,7 +772,7 @@
         ]
       },
       {
-        "sequence_id": 54,
+        "sequence_id": 65,
         "question_text": "Er war um drei Uhr zu ihr ins Büro bestellt.",
         "has_answer": true,
         "type": "short_answer",
@@ -652,19 +784,31 @@
         ]
       },
       {
-        "sequence_id": 55,
+        "sequence_id": 66,
         "question_text": "Wenn ich nicht zum Arzt bestellt wäre, würde ich mit euch in die Stadt fahren.",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
           {
-            "answer_text": "If I didn't have an appointment with the doctor I'd go down town with you.",
+            "answer_text": "If I didn't have an appointment with the doctor I'd go downtown with you.",
             "is_correct": true
           }
         ]
       },
       {
-        "sequence_id": 56,
+        "sequence_id": 67,
+        "question_text": "die Sprechstunde",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "office (hours)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 68,
         "question_text": "Solltest du nicht heute zu Dr. Buchner in die Sprechstunde kommen?",
         "has_answer": true,
         "type": "short_answer",
@@ -676,7 +820,7 @@
         ]
       },
       {
-        "sequence_id": 57,
+        "sequence_id": 69,
         "question_text": "Wann hat euer Zahnarzt Sprechstunde?",
         "has_answer": true,
         "type": "short_answer",
@@ -688,7 +832,7 @@
         ]
       },
       {
-        "sequence_id": 58,
+        "sequence_id": 70,
         "question_text": "Wenn Dr. Meyer in Urlaub fährt, müssen seine Patienten zu Dr. Keller in die Sprechstunde gehen.",
         "has_answer": true,
         "type": "short_answer",
@@ -700,7 +844,7 @@
         ]
       },
       {
-        "sequence_id": 59,
+        "sequence_id": 71,
         "question_text": "Dr. Wilhelmy hat sonnabends keine Sprechstunde.",
         "has_answer": true,
         "type": "short_answer",
@@ -712,7 +856,19 @@
         ]
       },
       {
-        "sequence_id": 60,
+        "sequence_id": 72,
+        "question_text": "stark",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "strong, hard, severe",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 73,
         "question_text": "Wir trinken gern starken Tee.",
         "has_answer": true,
         "type": "short_answer",
@@ -724,7 +880,7 @@
         ]
       },
       {
-        "sequence_id": 61,
+        "sequence_id": 74,
         "question_text": "Wir fuhren erst mittags ab, weil es am Morgen stark regnete.",
         "has_answer": true,
         "type": "short_answer",
@@ -736,31 +892,31 @@
         ]
       },
       {
-        "sequence_id": 62,
-        "question_text": "Die Sonne scheint jetzt zu stark, um im Garten zu sitzen.",
+        "sequence_id": 75,
+        "question_text": "Die Sonne scheint jetzt zu stark um im Garten zu sitzen.",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
           {
-            "answer_text": "The sun is too strong now to sit in the yard.",
+            "answer_text": "The sun is too strong now to sit in the garden.",
             "is_correct": true
           }
         ]
       },
       {
-        "sequence_id": 63,
+        "sequence_id": 76,
         "question_text": "Er hatte starke Schmerzen, als wir ihn ins Krankenhaus brachten.",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
           {
-            "answer_text": "He was having severe pains when we took him to the hospital.",
+            "answer_text": "He was having severe pain when we took him to the hospital.",
             "is_correct": true
           }
         ]
       },
       {
-        "sequence_id": 64,
+        "sequence_id": 77,
         "question_text": "Ist das Bier in Deutschland nicht stärker als in Amerika?",
         "has_answer": true,
         "type": "short_answer",
@@ -772,7 +928,19 @@
         ]
       },
       {
-        "sequence_id": 65,
+        "sequence_id": 78,
+        "question_text": "leicht",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "easy, easily; slight, slightly",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 79,
         "question_text": "Es war keine leichte Arbeit, diesen Artikel zu übersetzen.",
         "has_answer": true,
         "type": "short_answer",
@@ -784,7 +952,7 @@
         ]
       },
       {
-        "sequence_id": 66,
+        "sequence_id": 80,
         "question_text": "Klempner ist auch kein leichter Beruf.",
         "has_answer": true,
         "type": "short_answer",
@@ -796,7 +964,7 @@
         ]
       },
       {
-        "sequence_id": 67,
+        "sequence_id": 81,
         "question_text": "Heutzutage einen Handwerker zu bekommen ist nicht so leicht.",
         "has_answer": true,
         "type": "short_answer",
@@ -808,7 +976,7 @@
         ]
       },
       {
-        "sequence_id": 68,
+        "sequence_id": 82,
         "question_text": "Bei Bergtouren werde ich leicht schwindlig.",
         "has_answer": true,
         "type": "short_answer",
@@ -820,7 +988,7 @@
         ]
       },
       {
-        "sequence_id": 69,
+        "sequence_id": 83,
         "question_text": "Sein Wagen wurde durch den Unfall leicht beschädigt.",
         "has_answer": true,
         "type": "short_answer",
@@ -832,7 +1000,19 @@
         ]
       },
       {
-        "sequence_id": 70,
+        "sequence_id": 84,
+        "question_text": "verletzen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "injure, hurt",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 85,
         "question_text": "Haben Sie sich beim Skilaufen das Knie verletzt?",
         "has_answer": true,
         "type": "short_answer",
@@ -844,7 +1024,7 @@
         ]
       },
       {
-        "sequence_id": 71,
+        "sequence_id": 86,
         "question_text": "Als Fräulein Schulze mit dem Fahrrad stürzte, hat sie sich die Hand verletzt.",
         "has_answer": true,
         "type": "short_answer",
@@ -856,7 +1036,7 @@
         ]
       },
       {
-        "sequence_id": 72,
+        "sequence_id": 87,
         "question_text": "Wo hat er sich verletzt?",
         "has_answer": true,
         "type": "short_answer",
@@ -868,7 +1048,7 @@
         ]
       },
       {
-        "sequence_id": 73,
+        "sequence_id": 88,
         "question_text": "Bei dem Unfall wurde glücklicherweise niemand verletzt.",
         "has_answer": true,
         "type": "short_answer",
@@ -880,7 +1060,7 @@
         ]
       },
       {
-        "sequence_id": 74,
+        "sequence_id": 89,
         "question_text": "Auch Worte können verletzen.",
         "has_answer": true,
         "type": "short_answer",
@@ -892,7 +1072,19 @@
         ]
       },
       {
-        "sequence_id": 75,
+        "sequence_id": 90,
+        "question_text": "schaden + Dative",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "harm, hurt",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 91,
         "question_text": "Kann es dem Jungen schaden, wenn er mit dem verletzten Knie schwimmen geht?",
         "has_answer": true,
         "type": "short_answer",
@@ -904,7 +1096,7 @@
         ]
       },
       {
-        "sequence_id": 76,
+        "sequence_id": 92,
         "question_text": "Würde es meiner Frau schaden, wenn sie jeden Tag kurze Spaziergänge machen würde?",
         "has_answer": true,
         "type": "short_answer",
@@ -916,7 +1108,7 @@
         ]
       },
       {
-        "sequence_id": 77,
+        "sequence_id": 93,
         "question_text": "Ich fürchte, diese Arbeit würde Ihrer Gesundheit schaden.",
         "has_answer": true,
         "type": "short_answer",
@@ -928,7 +1120,7 @@
         ]
       },
       {
-        "sequence_id": 78,
+        "sequence_id": 94,
         "question_text": "Es wird Ihnen bestimmt schaden, wenn Sie weiterhin soviel rauchen.",
         "has_answer": true,
         "type": "short_answer",
@@ -940,7 +1132,19 @@
         ]
       },
       {
-        "sequence_id": 79,
+        "sequence_id": 95,
+        "question_text": "anstrengen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "fatigue, tire (out), be tiring for, be a strain for",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 96,
         "question_text": "Die lange Autofahrt hat uns sehr angestrengt.",
         "has_answer": true,
         "type": "short_answer",
@@ -952,7 +1156,7 @@
         ]
       },
       {
-        "sequence_id": 80,
+        "sequence_id": 97,
         "question_text": "Wenn Sie das Schwimmen so sehr anstrengt, müssen Sie mal zum Arzt gehen.",
         "has_answer": true,
         "type": "short_answer",
@@ -964,7 +1168,7 @@
         ]
       },
       {
-        "sequence_id": 81,
+        "sequence_id": 98,
         "question_text": "Die Geschäftsreise hat Herrn Becker sehr angestrengt.",
         "has_answer": true,
         "type": "short_answer",
@@ -976,7 +1180,7 @@
         ]
       },
       {
-        "sequence_id": 82,
+        "sequence_id": 99,
         "question_text": "Die Behandlung strengte den Patienten sehr an.",
         "has_answer": true,
         "type": "short_answer",
@@ -988,7 +1192,19 @@
         ]
       },
       {
-        "sequence_id": 83,
+        "sequence_id": 100,
+        "question_text": "einhalten",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "stick to, keep (to)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 101,
         "question_text": "Wenn du deine Diät einhältst, wird es dir bald besser gehen.",
         "has_answer": true,
         "type": "short_answer",
@@ -1000,19 +1216,19 @@
         ]
       },
       {
-        "sequence_id": 84,
+        "sequence_id": 102,
         "question_text": "Wir haben nur zwei Wochen Urlaub und müssen deshalb den Plan für unsere Reise genau einhalten.",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
           {
-            "answer_text": "We only have two weeks leave and for that reason have to stick to the plan for our trip exactly.",
+            "answer_text": "We only have two weeks leave and have to stick to the plan for our trip exactly.",
             "is_correct": true
           }
         ]
       },
       {
-        "sequence_id": 85,
+        "sequence_id": 103,
         "question_text": "Dr. Keller kann die Verabredung mit Herrn Bauer leider nicht einhalten.",
         "has_answer": true,
         "type": "short_answer",
@@ -1024,7 +1240,7 @@
         ]
       },
       {
-        "sequence_id": 86,
+        "sequence_id": 104,
         "question_text": "Wenn Sie zum Zahnarzt gehen, müssen Sie die festgelegte Zeit genau einhalten.",
         "has_answer": true,
         "type": "short_answer",
@@ -1036,8 +1252,20 @@
         ]
       },
       {
-        "sequence_id": 87,
-        "question_text": "Wissen Sie, wohin diese Straße führt?",
+        "sequence_id": 105,
+        "question_text": "führen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "lead, take, bring",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 106,
+        "question_text": "Wissen Sie wohin diese Straße führt?",
         "has_answer": true,
         "type": "short_answer",
         "answers": [
@@ -1048,7 +1276,7 @@
         ]
       },
       {
-        "sequence_id": 88,
+        "sequence_id": 107,
         "question_text": "Ein Kollege meines Mannes führte uns durch die Ausstellung.",
         "has_answer": true,
         "type": "short_answer",
@@ -1060,7 +1288,7 @@
         ]
       },
       {
-        "sequence_id": 89,
+        "sequence_id": 108,
         "question_text": "Wohin soll das führen?",
         "has_answer": true,
         "type": "short_answer",
@@ -1072,7 +1300,7 @@
         ]
       },
       {
-        "sequence_id": 90,
+        "sequence_id": 109,
         "question_text": "Was hat zu diesem Ergebnis geführt?",
         "has_answer": true,
         "type": "short_answer",

@@ -1,0 +1,260 @@
+[
+  {
+    "title": "unit21_unreal_or_subjunctive_in_indirect_discourse",
+    "type": "grammar",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "According to the article, what grammatical forms frequently appear in indirect quotations?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Present indicative forms",
+            "is_correct": false
+          },
+          {
+            "answer": "Imperative forms",
+            "is_correct": false
+          },
+          {
+            "answer": "Unreal or subjunctive forms",
+            "is_correct": true
+          },
+          {
+            "answer": "Infinitive forms",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Which sentence reports that the Foreign Minister is still away using an unreal form?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Ich dachte, Sie wären noch im Urlaub.",
+            "is_correct": false
+          },
+          {
+            "answer": "Die Sekretärin sagte mir, der Herr Bundesminister des Auswärtigen wäre noch nicht von seiner Reise zurück.",
+            "is_correct": true
+          },
+          {
+            "answer": "Man spricht davon, der Innenminister hatte sein Rücktrittsgesuch eingereicht.",
+            "is_correct": false
+          },
+          {
+            "answer": "Es wurde ihm vorgeworfen, er hätte sich zu stark distanziert.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "What does the article say about the frequency of unreal/subjunctive forms in indirect discourse?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are rarely used",
+            "is_correct": false
+          },
+          {
+            "answer": "They occur with a high degree of frequency",
+            "is_correct": true
+          },
+          {
+            "answer": "They are used only with indirect questions",
+            "is_correct": false
+          },
+          {
+            "answer": "They are mandatory in English only",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which English structure often corresponds to the German unreal form in indirect discourse according to the article?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A verb in the present perfect",
+            "is_correct": false
+          },
+          {
+            "answer": "Past tense or a phrase with 'would'",
+            "is_correct": true
+          },
+          {
+            "answer": "The gerund",
+            "is_correct": false
+          },
+          {
+            "answer": "The imperative mood",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What does the article note about the necessity of clause introducers in German indirect quotations?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "They are always required",
+            "is_correct": false
+          },
+          {
+            "answer": "They are not obligatory and may be omitted",
+            "is_correct": true
+          },
+          {
+            "answer": "They are only used in written language",
+            "is_correct": false
+          },
+          {
+            "answer": "They must be used with the subjunctive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "How can the sentence 'Man spricht davon, der Innenminister hatte sein Rücktrittsgesuch eingereicht' be recast with a clause introducer?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Man spricht davon, ob der Innenminister sein Rücktrittsgesuch eingereicht hat.",
+            "is_correct": false
+          },
+          {
+            "answer": "Man spricht davon, dass der Innenminister sein Rücktrittsgesuch eingereicht hätte.",
+            "is_correct": true
+          },
+          {
+            "answer": "Man spricht davon, wie der Innenminister sein Rücktrittsgesuch eingereicht hat.",
+            "is_correct": false
+          },
+          {
+            "answer": "Man spricht davon, der Innenminister würde sein Rücktrittsgesuch einreichen.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What example shows hearsay from colleagues with an unreal form in the main clause?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Man stellt schon Spekulationen darüber an, wie sich der Rücktritt auf die Wahlen auswirken könnte.",
+            "is_correct": false
+          },
+          {
+            "answer": "Es wurde ihm von seinen Kollegen vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.",
+            "is_correct": true
+          },
+          {
+            "answer": "Sie sagten gestern abend auf der Wahlkundgebung, Sie würden für eine weitere Verkürzung der Arbeitszeit eintreten.",
+            "is_correct": false
+          },
+          {
+            "answer": "Ich habe immer betont, dass es zu einer konstruktiven Zusammenarbeit kommen muss.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "According to the article, what is the usual form of the verb in indirect discourse in German?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Past tense",
+            "is_correct": false
+          },
+          {
+            "answer": "Present indicative",
+            "is_correct": false
+          },
+          {
+            "answer": "Unreal or subjunctive",
+            "is_correct": true
+          },
+          {
+            "answer": "Imperative",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which sentence reports a statement made at the election rally using 'würden'?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Die Sekretärin sagte mir, dass der Herr Bundesminister des Auswärtigen noch nicht von seiner Reise zurück wäre.",
+            "is_correct": false
+          },
+          {
+            "answer": "Sie sagten gestern abend auf der Wahlkundgebung, dass Sie für eine weitere Verkürzung der Arbeitszeit eintreten würden.",
+            "is_correct": true
+          },
+          {
+            "answer": "Man spricht davon, dass der Innenminister sein Rücktrittsgesuch eingereicht hätte.",
+            "is_correct": false
+          },
+          {
+            "answer": "Es wurde ihm vorgeworfen, er hätte sich zu stark distanziert.",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "How does the article summarise the alternation between use and omission of clause introducers in indirect quotations?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Indirect quotations must use clause introducers",
+            "is_correct": false
+          },
+          {
+            "answer": "Clause introducers can be omitted or used interchangeably",
+            "is_correct": true
+          },
+          {
+            "answer": "Clause introducers are only used in English",
+            "is_correct": false
+          },
+          {
+            "answer": "Clause introducers are required with the subjunctive",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "C. THE UNREAL or SUBJUNCTIVE IN INDIRECT DISCOURSE\n\nI. In two of the three examples above (B.II.) you have seen that an UNREAL or SUBJUNCTIVE form occurs in the INDIRECT QUOTATION. Let us look at some more examples of INDIRECT DISCOURSE from the current unit:\n\nDie Sekretärin sagte mir, der Herr Bundesminister des Auswärtigen wäre noch nicht von seiner Reise zurück.\nMan spricht davon, der Innenminister hatte sein Rücktrittsgesuch eingereicht.\nSie sagten gestern abend auf der Wahlkundgebung, Sie würden für eine weitere Verkürzung der Arbeitszeit eintreten.\nIch habe immer betont, dass es zu einer konstruktiven Zusammenarbeit beider Sozialpartner kommen muss.\n\nThe secretary told me the Foreign Minister wasn't back from his trip yet.\nPeople are saying the Minister of the Interior has handed in his resignation.\nYou said at the election rally last night that you would work toward a further reduction of working hours.\nI have always insisted that cooperation of both partners in the social order must come about.\n\nWhile not occurring everywhere to the exclusion of all other forms in INDIRECT DISCOURSE, UNREAL or SUBJUNCTIVE forms do occur with a high degree of frequency in this type of sentence. We can say that the UNREAL or SUBJUNCTIVE is the usual form of the verb in INDIRECT DISCOURSE.\n\n1. If we examine the examples above once more two points can be noted. First, compare the German sentences with their English equivalents and note that in English either a form of the verb in Past Time or a phrase with \"would\" has occurred in order to reproduce what has been said or thought so as to express the words or thoughts of another person in INDIRECT QUOTATION. English does not have a particular UNREAL form which is used here. Second, note that the INDIRECT QUOTATIONS sometimes are introduced by a clause introducer, sometimes not. The clause introducer is not obligatory in either language, but when it does occur in German it is followed by clause word order. Actually, all the sentences above could have been given either with or without the clause introducer:\n\nDie Sekretärin sagte mir, dass der Herr Bundesminister des Auswärtigen noch nicht von seiner Reise zurück wäre.\nMan spricht davon, dass der Innenminister sein Rücktrittsgesuch eingereicht hätte.\nSie sagten gestern abend auf der Wahlkundgebung, dass Sie für eine weitere Verkürzung der Arbeitszeit eintreten würden.\n\nWe may then say that INDIRECT QUOTATIONS in German occur interchangeably either with or without clause introducers.\n\n2. A variety of verbs and verb phrases occur in the main clauses of sentences in INDIRECT DISCOURSE. We have encountered the following additional examples in the recent unit:\n\nEs wurde ihm von seinen Kollegen vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.\nMan stellt schon Spekulationen darüber an, wie sich der Rücktritt auf die Wahlen auswirken könnte."
+      }
+    ],
+    "metadata": {
+      "page_start": 7,
+      "page_end": 8,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

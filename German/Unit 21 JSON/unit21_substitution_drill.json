@@ -1,0 +1,793 @@
+{
+  "title": "unit21_substitution_drill",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'der Herr Professor'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, der Herr Professor wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'Herr Konsul Wilson'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, Herr Konsul Wilson wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'Herr Dr. Buchner'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, Herr Dr. Buchner wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'der Herr Fraktionsvorsitzende'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, der Herr Fraktionsvorsitzende wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'der Herr Innenminister'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, der Herr Innenminister wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'der Herr Bundeskanzler'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, der Herr Bundeskanzler wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'Frau von Rothenburg'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, Frau von Rothenburg wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Use the pattern 'Die Sekretärin sagte mir, der Herr Bundesminister wäre noch nicht von seiner Reise zurück.' and replace 'der Herr Bundesminister' with 'Fräulein Doktor'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Die Sekretärin sagte mir, Fräulein Doktor wäre noch nicht von seiner Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Use the pattern 'Haben Sie die Fraktionsvorsitzenden der CDU und der SPD erreicht?' and replace the object with 'das Sekretariat des Bundesministers'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Haben Sie das Sekretariat des Bundesministers erreicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Use the pattern 'Haben Sie die Fraktionsvorsitzenden der CDU und der SPD erreicht?' and replace the object with 'den Herrn Minister'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Haben Sie den Herrn Minister erreicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Use the pattern 'Haben Sie die Fraktionsvorsitzenden der CDU und der SPD erreicht?' and replace the object with 'Dr. Buchner'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Haben Sie Dr. Buchner erreicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Use the pattern 'Haben Sie die Fraktionsvorsitzenden der CDU und der SPD erreicht?' and replace the object with 'den Arzt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Haben Sie den Arzt erreicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Use the pattern 'Haben Sie die Fraktionsvorsitzenden der CDU und der SPD erreicht?' and replace the object with 'den Klempner'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Haben Sie den Klempner erreicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Use the pattern 'Haben Sie die Fraktionsvorsitzenden der CDU und der SPD erreicht?' and replace the object with 'das Wirtschaftsministerium'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Haben Sie das Wirtschaftsministerium erreicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Use the pattern 'Haben Sie die Fraktionsvorsitzenden der CDU und der SPD erreicht?' and replace the object with 'das Auswärtige Amt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Haben Sie das Auswärtige Amt erreicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Use the pattern 'Sie bereiten sich auf die Aussenpolitische Debatte vor.' and replace 'die Aussenpolitische Debatte' with 'die Wahl'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie bereiten sich auf die Wahl vor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Use the pattern 'Sie bereiten sich auf die Aussenpolitische Debatte vor.' and replace 'die Aussenpolitische Debatte' with 'die Verhandlung'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie bereiten sich auf die Verhandlung vor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Use the pattern 'Sie bereiten sich auf die Aussenpolitische Debatte vor.' and replace 'die Aussenpolitische Debatte' with 'die Kundgebung'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie bereiten sich auf die Kundgebung vor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Use the pattern 'Sie bereiten sich auf die Aussenpolitische Debatte vor.' and replace 'die Aussenpolitische Debatte' with 'die Sitzung'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie bereiten sich auf die Sitzung vor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Use the pattern 'Sie bereiten sich auf die Aussenpolitische Debatte vor.' and replace 'die Aussenpolitische Debatte' with 'die Wahlreden'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sie bereiten sich auf die Wahlreden vor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Use the pattern 'Es sieht so aus, als müssten wir mit unserem Bericht bis nach der Debatte warten.' and replace the subordinate clause with 'wäre er noch nicht von der Reise zurück.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es sieht so aus, als wäre er noch nicht von der Reise zurück.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Use the pattern 'Es sieht so aus, als müssten wir mit unserem Bericht bis nach der Debatte warten.' and replace the subordinate clause with 'wäre er von allen Seiten unter Druck gesetzt worden.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es sieht so aus, als wäre er von allen Seiten unter Druck gesetzt worden.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Use the pattern 'Es sieht so aus, als müssten wir mit unserem Bericht bis nach der Debatte warten.' and replace the subordinate clause with 'wäre er für die Verkürzung der Arbeitszeit eingetreten.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es sieht so aus, als wäre er für die Verkürzung der Arbeitszeit eingetreten.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Use the pattern 'Es sieht so aus, als müssten wir mit unserem Bericht bis nach der Debatte warten.' and replace the subordinate clause with 'hätte er den Antrag zurückgezogen.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es sieht so aus, als hätte er den Antrag zurückgezogen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Use the pattern 'Wann hat er sein Rücktrittsgesuch eingereicht?' and replace 'sein Rücktrittsgesuch' with 'seinen Antrag'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wann hat er seinen Antrag eingereicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Use the pattern 'Wann hat er sein Rücktrittsgesuch eingereicht?' and replace 'sein Rücktrittsgesuch' with 'seinen Plan'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wann hat er seinen Plan eingereicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Use the pattern 'Wann hat er sein Rücktrittsgesuch eingereicht?' and replace 'sein Rücktrittsgesuch' with 'seine Papiere'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wann hat er seine Papiere eingereicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "Use the pattern 'Wann hat er sein Rücktrittsgesuch eingereicht?' and replace 'sein Rücktrittsgesuch' with 'seine Unterlagen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wann hat er seine Unterlagen eingereicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Use the pattern 'Wann hat er sein Rücktrittsgesuch eingereicht?' and replace 'sein Rücktrittsgesuch' with 'seinen Vorschlag'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wann hat er seinen Vorschlag eingereicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Use the pattern 'Wann hat er sein Rücktrittsgesuch eingereicht?' and replace 'sein Rücktrittsgesuch' with 'seine Personalien'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wann hat er seine Personalien eingereicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Use the pattern 'Wann hat er sein Rücktrittsgesuch eingereicht?' and replace 'sein Rücktrittsgesuch' with 'seine Urkunden'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wann hat er seine Urkunden eingereicht?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Use the pattern 'Ob es wirklich zu seinem Rücktritt kommt?' and replace 'seinem Rücktritt' with 'den Verhandlungen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ob es wirklich zu den Verhandlungen kommt?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Use the pattern 'Ob es wirklich zu seinem Rücktritt kommt?' and replace 'seinem Rücktritt' with 'der Debatte'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ob es wirklich zu der Debatte kommt?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Use the pattern 'Ob es wirklich zu seinem Rücktritt kommt?' and replace 'seinem Rücktritt' with 'dem Interview'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ob es wirklich zu dem Interview kommt?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Use the pattern 'Ob es wirklich zu seinem Rücktritt kommt?' and replace 'seinem Rücktritt' with 'einer Kundgebung'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ob es wirklich zu einer Kundgebung kommt?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Use the pattern 'Ob es wirklich zu seinem Rücktritt kommt?' and replace 'seinem Rücktritt' with 'der Verkürzung der Arbeitszeit'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ob es wirklich zu der Verkürzung der Arbeitszeit kommt?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Use the pattern 'Ob es wirklich zu seinem Rücktritt kommt?' and replace 'seinem Rücktritt' with 'einer Diskussion'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ob es wirklich zu einer Diskussion kommt?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "Use the pattern 'Ob es wirklich zu seinem Rücktritt kommt?' and replace 'seinem Rücktritt' with 'Lohnausfällen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ob es wirklich zu Lohnausfällen kommt?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Use the pattern 'Es wurde ihm vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.' and replace the subordinate clause with 'er hätte zu lange gesprochen.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es wurde ihm vorgeworfen, er hätte zu lange gesprochen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Use the pattern 'Es wurde ihm vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.' and replace the subordinate clause with 'er hätte den Antrag zu spät eingereicht.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es wurde ihm vorgeworfen, er hätte den Antrag zu spät eingereicht.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Use the pattern 'Es wurde ihm vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.' and replace the subordinate clause with 'er hätte sich zu früh aus der Politik zurückgezogen.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es wurde ihm vorgeworfen, er hätte sich zu früh aus der Politik zurückgezogen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "Use the pattern 'Es wurde ihm vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.' and replace the subordinate clause with 'er wäre zu schnell gefahren.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es wurde ihm vorgeworfen, er wäre zu schnell gefahren.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Use the pattern 'Es wurde ihm vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.' and replace the subordinate clause with 'er hätte den Bundesminister angegriffen.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es wurde ihm vorgeworfen, er hätte den Bundesminister angegriffen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "Use the pattern 'Es wurde ihm vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.' and replace the subordinate clause with 'er hätte sich nicht um diese Angelegenheit gekümmert.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es wurde ihm vorgeworfen, er hätte sich nicht um diese Angelegenheit gekümmert.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "Use the pattern 'Es wurde ihm vorgeworfen, er hätte sich zu stark vom Standpunkt der Regierung distanziert.' and replace the subordinate clause with 'er wäre für eine Verkürzung der Arbeitszeit eingetreten.'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Es wurde ihm vorgeworfen, er wäre für eine Verkürzung der Arbeitszeit eingetreten.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "Use the pattern 'Weder die Arbeitgeber noch die Arbeitnehmer waren von seinem Vorschlag entzückt.' and replace 'die Arbeitgeber noch die Arbeitnehmer' with 'der Kanzler noch der Innenminister'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Weder der Kanzler noch der Innenminister waren von seinem Vorschlag entzückt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Use the pattern 'Weder die Arbeitgeber noch die Arbeitnehmer waren von seinem Vorschlag entzückt.' and replace 'die Arbeitgeber noch die Arbeitnehmer' with 'die eine noch die andere Seite'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Weder die eine noch die andere Seite waren von seinem Vorschlag entzückt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "Use the pattern 'Weder die Arbeitgeber noch die Arbeitnehmer waren von seinem Vorschlag entzückt.' and replace 'die Arbeitgeber noch die Arbeitnehmer' with 'sein Sohn noch seine Tochter'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Weder sein Sohn noch seine Tochter waren von seinem Vorschlag entzückt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "Use the pattern 'Weder die Arbeitgeber noch die Arbeitnehmer waren von seinem Vorschlag entzückt.' and replace 'die Arbeitgeber noch die Arbeitnehmer' with 'Herr Becker noch Dr. Buchner'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Weder Herr Becker noch Dr. Buchner waren von seinem Vorschlag entzückt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "Use the pattern 'Weder die Arbeitgeber noch die Arbeitnehmer waren von seinem Vorschlag entzückt.' and replace 'die Arbeitgeber noch die Arbeitnehmer' with 'seine Kinder noch seine Enkel'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Weder seine Kinder noch seine Enkel waren von seinem Vorschlag entzückt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "Use the pattern 'Weder die Arbeitgeber noch die Arbeitnehmer waren von seinem Vorschlag entzückt.' and replace 'die Arbeitgeber noch die Arbeitnehmer' with 'der Klempner noch der Installateur'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Weder der Klempner noch der Installateur waren von seinem Vorschlag entzückt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Use the pattern 'Weder die Arbeitgeber noch die Arbeitnehmer waren von seinem Vorschlag entzückt.' and replace 'die Arbeitgeber noch die Arbeitnehmer' with 'der Vater noch die Mutter'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Weder der Vater noch die Mutter waren von seinem Vorschlag entzückt.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'beider sozialpartner'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht beider sozialpartner.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'aller Fraktionsvorsitzenden'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht aller Fraktionsvorsitzenden.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'einiger Arbeitgeber'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht einiger Arbeitgeber.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'ihrer Eltern'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht ihrer Eltern.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'beider Parteien'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht beider Parteien.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'aller Arbeitnehmer'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht aller Arbeitnehmer.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'vieler Betriebsleiter'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht vieler Betriebsleiter.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "Use the pattern 'Das ist auch die Ansicht anderer Kabinettsmitglieder.' and replace 'anderer Kabinettsmitglieder' with 'unserer Kollegen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Das ist auch die Ansicht unserer Kollegen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "Use the pattern 'Würde die Durchführung Ihrer Vorschläge nicht zu Lohnausfällen führen?' and replace 'zu Lohnausfällen' with 'zum Absinken der Lebenshaltung'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Würde die Durchführung Ihrer Vorschläge nicht zum Absinken der Lebenshaltung führen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "Use the pattern 'Würde die Durchführung Ihrer Vorschläge nicht zu Lohnausfällen führen?' and replace 'zu Lohnausfällen' with 'zu seinem Rücktritt'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Würde die Durchführung Ihrer Vorschläge nicht zu seinem Rücktritt führen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 63,
+      "question_text": "Use the pattern 'Würde die Durchführung Ihrer Vorschläge nicht zu Lohnausfällen führen?' and replace 'zu Lohnausfällen' with 'zu einer Verkürzung der Arbeitszeit'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Würde die Durchführung Ihrer Vorschläge nicht zu einer Verkürzung der Arbeitszeit führen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 64,
+      "question_text": "Use the pattern 'Würde die Durchführung Ihrer Vorschläge nicht zu Lohnausfällen führen?' and replace 'zu Lohnausfällen' with 'zu langen Diskussionen'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Würde die Durchführung Ihrer Vorschläge nicht zu langen Diskussionen führen?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 65,
+      "question_text": "Use the pattern 'Würde die Durchführung Ihrer Vorschläge nicht zu Lohnausfällen führen?' and replace 'zu Lohnausfällen' with 'zu grossen Schwierigkeiten'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Würde die Durchführung Ihrer Vorschläge nicht zu grossen Schwierigkeiten führen?",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,999 @@
+[
+  {
+    "title": "unit21_finder_list",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "das Absinken",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "drop",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "allerdings",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "of course, to be sure",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "als wenn, als ob",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "as if, as though",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "angreifen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "attack, make an attack on",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "die Ansicht",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "view, opinion",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "der Arbeitgeber",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "employer, (pl) management",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "der Arbeitnehmer",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "employee, worker, (pl) labor",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "der Ausfall",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "loss",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 9,
+        "question_text": "ausscheiden",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "drop out of, withdraw from",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 10,
+        "question_text": "der Aussenminister",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "the foreign minister, secretary of state",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 11,
+        "question_text": "aussenpolitisch",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "(concerning) foreign policy",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 12,
+        "question_text": "auswärtig",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "foreign",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 13,
+        "question_text": "sich auswirken",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "have an effect (on)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 14,
+        "question_text": "betonen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "emphasize, insist",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 15,
+        "question_text": "der Bund",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "confederation, league, alliance",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 16,
+        "question_text": "der Bundesminister des Auswärtigen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "(German Federal) foreign minister",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 17,
+        "question_text": "der Bundestag",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "(German) Lower House, Chamber of Deputies",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 18,
+        "question_text": "die CDU (Christlich-Demokratische Union)",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Christian Democratic Union",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 19,
+        "question_text": "die Debatte",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "debate",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 20,
+        "question_text": "derzeitig",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "present, incumbent",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 21,
+        "question_text": "sich distanzieren von",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "take a position at odds with, divorce oneself from",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 22,
+        "question_text": "der Druck",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "pressure",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 23,
+        "question_text": "unter Druck setzen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "put pressure on, put the heat on",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 24,
+        "question_text": "die Durchführung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "carrying out",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 25,
+        "question_text": "durchführen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "carry out, put into practice",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 26,
+        "question_text": "einreichen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "submit, hand in",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 27,
+        "question_text": "eintreten für",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "stand up for, work toward, in behalf of",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 28,
+        "question_text": "entzückt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "overjoyed, delighted, charmed",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 29,
+        "question_text": "erstaunen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "astonish, surprise",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 30,
+        "question_text": "meines Erachtens",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "in my opinion",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 31,
+        "question_text": "die Europäische Wirtschaftsgemeinschaft (EWG)",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "European Economic Community (EEC)",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 32,
+        "question_text": "falls",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "in case, if",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 33,
+        "question_text": "die Fraktion",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "the (parliamentary) party",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 34,
+        "question_text": "der Fraktionsvorsitzende",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "parliamentary party leader, \"whip\"",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 35,
+        "question_text": "ganz schön",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "certainly, all right",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 36,
+        "question_text": "das Gesuch",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "application, request",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 37,
+        "question_text": "heftig",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "violent, severe, vehement",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 38,
+        "question_text": "der Innenminister",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Minister of the Interior",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 39,
+        "question_text": "das Interview",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "(journalistic) interview",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 40,
+        "question_text": "das Kabinett",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "cabinet",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 41,
+        "question_text": "der Kanzler",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "chancellor",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 42,
+        "question_text": "es kommt zu",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "things go as far as",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 43,
+        "question_text": "konstruktiv",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "constructive",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 44,
+        "question_text": "der Kreis",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "circle",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 45,
+        "question_text": "kritisieren",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "criticize",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 46,
+        "question_text": "die Kundgebung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "rally",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 47,
+        "question_text": "die Lebenshaltung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "standard of living",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 48,
+        "question_text": "der Lohn",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "wage(s), income",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 49,
+        "question_text": "der Minister",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "minister, secretary",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 50,
+        "question_text": "nun",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "well",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 51,
+        "question_text": "der Partner",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "partner",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 52,
+        "question_text": "die Presse",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "press",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 53,
+        "question_text": "die Rede",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "speech",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 54,
+        "question_text": "die Regierung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "government",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 55,
+        "question_text": "der Rücktritt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "retirement, resignation",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 56,
+        "question_text": "das Rücktrittsgesuch",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "letter of resignation",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 57,
+        "question_text": "der Schaden",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "harm, damage",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 58,
+        "question_text": "scheinen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "seem, appear",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 59,
+        "question_text": "die Seite",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "side",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 60,
+        "question_text": "das Sekretariat",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "secretariat, office of the secretary",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 61,
+        "question_text": "die Sitzung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "meeting",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 62,
+        "question_text": "sozial",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "social",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 63,
+        "question_text": "die SPD (Sozial-Demokratische Partei Deutschlands)",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Social Democratic Party",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 64,
+        "question_text": "die Spekulation",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "speculation",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 65,
+        "question_text": "Spekulationen über etwas anstellen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "speculate, wonder about something",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 66,
+        "question_text": "der Standpunkt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "point of view, position",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 67,
+        "question_text": "überhaupt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "altogether, entirely, at all",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 68,
+        "question_text": "überzeugt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "convinced, positive",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 69,
+        "question_text": "die Unterredung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "conversation, (private) conference",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 70,
+        "question_text": "die Verkürzung",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "shortening, reduction",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 71,
+        "question_text": "der Vertreter",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "representative",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 72,
+        "question_text": "sich vorbereiten auf",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "prepare for",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 73,
+        "question_text": "vorsehen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "make provisions for",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 74,
+        "question_text": "der Vorsitzende",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "chairman",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 75,
+        "question_text": "vorwerfen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "accuse, blame",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 76,
+        "question_text": "die Wahl",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "election",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 77,
+        "question_text": "weder ... noch",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "neither ... nor",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 78,
+        "question_text": "zeitigen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "effect, produce",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 79,
+        "question_text": "zuletzt",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "last, least",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 80,
+        "question_text": "sich zurückziehen",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "withdraw, retire",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 81,
+        "question_text": "die Zusammenarbeit",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "cooperation",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 82,
+        "question_text": "zweistündig",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "two-hour",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 23,
+      "page_end": 24,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "title": "unit23_narrative",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What is the Bundestag described as?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The executive branch",
+            "is_correct": false
+          },
+          {
+            "answer": "The most important federal organ elected by the people to enact laws",
+            "is_correct": true
+          },
+          {
+            "answer": "A court",
+            "is_correct": false
+          },
+          {
+            "answer": "A military body",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "How are laws typically adopted in the Bundestag?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "By referendum",
+            "is_correct": false
+          },
+          {
+            "answer": "With a two-thirds majority after one reading",
+            "is_correct": false
+          },
+          {
+            "answer": "With a simple majority after three readings",
+            "is_correct": true
+          },
+          {
+            "answer": "By unanimous vote",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which rights and principles cannot be changed by any law, according to the narrative?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Tax laws",
+            "is_correct": false
+          },
+          {
+            "answer": "The Grundrechte, principle of separation of powers, and federal structure",
+            "is_correct": true
+          },
+          {
+            "answer": "Trade policies",
+            "is_correct": false
+          },
+          {
+            "answer": "Education policies",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "How are members of the Bundesrat chosen?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "By direct election by the people",
+            "is_correct": false
+          },
+          {
+            "answer": "Appointed by the federal president",
+            "is_correct": false
+          },
+          {
+            "answer": "Delegated by the state governments and bound by their instructions",
+            "is_correct": true
+          },
+          {
+            "answer": "Chosen by random selection",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is required for a law to come into effect?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Approval from the Bundestag only",
+            "is_correct": false
+          },
+          {
+            "answer": "Approval from the Bundesrat only",
+            "is_correct": false
+          },
+          {
+            "answer": "Agreement between the Bundestag and Bundesrat",
+            "is_correct": true
+          },
+          {
+            "answer": "Approval from the Supreme Court",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What can the Bundesrat do if it wants to achieve changes to a bill?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Reject the bill outright",
+            "is_correct": false
+          },
+          {
+            "answer": "Call the Vermittlungsausschuss (mediation committee) between the Bundestag and Bundesrat",
+            "is_correct": true
+          },
+          {
+            "answer": "Refer it to a public referendum",
+            "is_correct": false
+          },
+          {
+            "answer": "Submit it to the president",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Who signs and publishes a law after it has been passed by both the Bundestag and Bundesrat?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The Chancellor only",
+            "is_correct": false
+          },
+          {
+            "answer": "The Federal President and countersigned by the Chancellor or competent minister",
+            "is_correct": true
+          },
+          {
+            "answer": "The Head of the Constitutional Court",
+            "is_correct": false
+          },
+          {
+            "answer": "The Governor of each state",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Which body has the authority to decide constitutional disputes and review laws for constitutionality?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The Bundestag",
+            "is_correct": false
+          },
+          {
+            "answer": "The Bundesrat",
+            "is_correct": false
+          },
+          {
+            "answer": "The Bundesverfassungsgericht (Federal Constitutional Court)",
+            "is_correct": true
+          },
+          {
+            "answer": "The European Court of Justice",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "What does the narrative describe the Bundesrat as representing?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "The people",
+            "is_correct": false
+          },
+          {
+            "answer": "The Länder and thus a second chamber",
+            "is_correct": true
+          },
+          {
+            "answer": "The executive branch",
+            "is_correct": false
+          },
+          {
+            "answer": "The judiciary",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "What personal advice does the writer give to Kurt at the end of the narrative?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To submit his essay immediately",
+            "is_correct": false
+          },
+          {
+            "answer": "To write his essay in his own style",
+            "is_correct": true
+          },
+          {
+            "answer": "To join the army",
+            "is_correct": false
+          },
+          {
+            "answer": "To ignore the information provided",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Das bedeutendste Bundesorgan ist der Bundestag, der vom gesamten Volk in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl mit vierjähriger Amtszeit gewählt wird."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Der Bundestag beschliesst die Gesetze und stellt somit die Legislative dar."
+      },
+      {
+        "sequence_id": 3,
+        "text": "Zugleich hat er die Aufsicht über die Exekutive."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Gesetze werden im Plenum nach dreimaliger Lesung (Beratung und Abstimmung) mit einfacher Mehrheit angenommen."
+      },
+      {
+        "sequence_id": 5,
+        "text": "Gesetze zur Änderung oder Ergänzung des Grundgesetzes bedürfen jedoch der Zustimmung von zwei Dritteln der Mitglieder des Bundestages und des Bundesrates."
+      },
+      {
+        "sequence_id": 6,
+        "text": "Die Grundrechte, das Prinzip der Gewaltenteilung und der föderative Aufbau des Bundes können aber durch kein Gesetz geändert werden."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Als Vertretung der Länder ist der Bundesrat geschaffen worden."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Er hat die Aufgabe, die Mitwirkung der Länder bei der Gesetzgebung und der Verwaltung des Bundes sicherzustellen und er stellt insoweit eine Zweite Kammer dar."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Die Mitglieder des Bundesrates (dazu die Vertreter von Berlin [West], die nur beratende Stimme haben) werden nicht vom Volk gewählt, sondern von den Länderregierungen, denen sie angehören, ernannt und sind an deren Weisungen gebunden."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Die Ländervertreter im Bundesrat haben also nicht das Recht der persönlichen Entscheidung, wie beispielsweise die Mitglieder des amerikanischen Senats."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Da zum Zustandekommen eines Gesetzesbeschlusses Übereinstimmung von Bundesrat und Bundestag erforderlich ist, kann man jedenfalls in dieser Hinsicht von einem \"Zweikammersystem\" sprechen."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Vom Bundestag beschlossene Gesetze gehen an den Bundesrat."
+      },
+      {
+        "sequence_id": 13,
+        "text": "Dieser kann den Entwürfen zustimmen, er kann aber auch, um Änderungen zu erreichen, den \"Vermittlungsausschuss\" zwischen Bundestag und Bundesrat anrufen, der aus je zehn Mitgliedern beider Parlamente besteht."
+      },
+      {
+        "sequence_id": 14,
+        "text": "Ändert der Vermittlungsausschuss den Entwurf, so treten beide an der Gesetzgebung beteiligten Körperschaften in eine neue Beratung ein."
+      },
+      {
+        "sequence_id": 15,
+        "text": "Ist ein Gesetz vom Bundestag und Bundesrat beschlossen, so wird es vom Bundespräsidenten ausgefertigt, vom Bundeskanzler oder dem zuständigen Fachminister gegengezeichnet und im Bundesgesetzblatt verkündet."
+      },
+      {
+        "sequence_id": 16,
+        "text": "Die Kompetenz, über Verfassungsstreitigkeiten zu entscheiden und die Gesetze auf ihre Verfassungsmässigkeit zu überprüfen, obliegt dem Bundesverfassungsgericht, das seinen Sitz in Karlsruhe hat."
+      },
+      {
+        "sequence_id": 17,
+        "text": "In ihm hat die dritte Gewalt, die Rechtsprechung, ihre höchste Form gefunden."
+      },
+      {
+        "sequence_id": 18,
+        "text": "Damit, lieber Kurt, hättest Du die gewünschten Angaben."
+      },
+      {
+        "sequence_id": 19,
+        "text": "M.E. wäre es ratsam, dass Du sie für Deinen Aufsatz in Deinem eigenen Stil verwenden würdest."
+      },
+      {
+        "sequence_id": 20,
+        "text": "Grüsse bitte Deine lieben Eltern von mir, wenn Du sie besuchst."
+      },
+      {
+        "sequence_id": 21,
+        "text": "Mit den besten Wünschen für ein frohes Weihnachtsfest und ein glückliches und gesundes neues Jahr."
+      }
+    ],
+    "metadata": {
+      "page_start": 16,
+      "page_end": 16,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]
