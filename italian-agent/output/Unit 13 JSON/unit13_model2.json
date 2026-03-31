@@ -1,0 +1,86 @@
+{
+  "title": "unit13_model2",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Si vede la via principale?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh sì, l'appartamento dà sulla via principale.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Si vede il Corso?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh sì, l'appartamento dà sul Corso.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Si vede il cortile (courtyard)?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh sì, l'appartamento dà sul cortile.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Si vede Via Roma?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh sì, Ilappartamento dà su Via Roma.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Si vede la strada?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh sì, Ilappartamento dà sulla strada.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Si vede il porto (harbor)?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh sì, Il appartamento dà sul porto.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 2]",
+    "page_end": "[PAGE 2]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode! 2 Q: Si vede la piazza?\nA: Oh sì, l'appartamento dà sulla piazza."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "unit13_model6",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Le piace questo spinato?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, mi piace.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Le piacciono i pantaloni?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, mi piacciono.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Lei sa se mi piace questa tinta?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, Le piace.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Lei sa se mi piacciono queste giacche sportive?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, Le piacciono.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Vi piace questa giacca?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, ci piace.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Vi piacciono queste giacche sportive?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, ci piacciono.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Lei sa se ci piacciono i pantaloni?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vi piacciono.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Lei sa se ci piace questa tinta?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vi piace.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 4]",
+    "page_end": "[PAGE 4]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/6 Q: Le piace questa tinta?\nA: Sì, mi piace."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "unit12_model3",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Si trova bene a Milano, la signora Chiari?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh, sì, è contenta di essere a Milano.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Si trova bene a Verona il signor Druso?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh, sì, è contento di essere a Verona.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Vi trovate bene a Fi renze?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh, sì, siamo contentile di essere a Firenze.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Si trovano bene a Napoli le signorine?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh, sì, sono contente di essere a Napoli.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Si trova bene a Vicenza Lei?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh, sì, sono contentola di essere a Vicenza.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Si trovano bene a Palermo, i signori Williams?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh, sì, sono contenti di essere a Palermo.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 2]",
+    "page_end": "[PAGE 2]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/3 Q: Vi trovate bene a Palermo?\nA: Oh, sì, siamo contenti/e di essere a Palermo."
+  }
+}

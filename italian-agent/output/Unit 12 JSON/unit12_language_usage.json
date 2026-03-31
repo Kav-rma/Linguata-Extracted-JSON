@@ -1,0 +1,258 @@
+{
+  "title": "unit12_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How is age normally expressed in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "With the verb avere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "With the verb essere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With the verb fare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With the verb stare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does \"Quanti anni hanno?\" mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "How old are they?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "How many children do they have?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Where are they from?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "What time do they arrive?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does \"far vedere qualcosa a qualcuno\" mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To show someone something",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To give someone something",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To ask someone something",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To buy someone something",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does \"non vedere l'ora di\" express?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Not to be able to wait to",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Not to know how to",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Not to want to",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Not to need to",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which verb form is \"vi troviate\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Present subjunctive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Present indicative",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Future tense",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Past participle",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "When is the present subjunctive used after \"sperare\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When the subject of sperare is different from the subject of the subjunctive verb",
+          "is_correct": true
+        },
+        {
+          "answer_text": "When both subjects are the same",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in negative sentences",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in questions",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is used if the subjects are the same after \"sperare\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "di + infinitive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "che + indicative",
+          "is_correct": false
+        },
+        {
+          "answer_text": "per + infinitive",
+          "is_correct": false
+        },
+        {
+          "answer_text": "a + infinitive",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What can the future tense indicate besides future time?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A present conjecture or probability",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A past habit",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A completed action",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A command",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "How is the future tense normally formed for most verbs?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Infinitive minus -e plus future endings",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Past participle plus avere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Infinitive plus present endings",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Stem plus imperfect endings",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What preposition does a form of \"contento\" require before an infinitive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "di",
+          "is_correct": true
+        },
+        {
+          "answer_text": "a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "per",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Age-asking or age-giving is expressed in Italian by using the verb avere Uto\nhave. U Thus:\nQuanti anni hanno?\nMarcello ha 11 anni.\nArianna ne ha 9. How old are they?\nlit., How many years do they have?\nMarcello is 11 years o/d.\nlit., Marcello has 11 years.\nArianna is 9.\nlit., Arianna has 9 of them.\n2. The dia/og contains several interesting expressions to be learned:\na) far vedere qualcosa a qualcuno to show someone something\nex: Le faccio vedere il Suo ufficio.\nl'II show you youroffice.\nb) dare su qualcosa to face, look out over something\nex: Le finestre danno sulla piazza.\nThe windows face the square.\nc) non vedere l'ora di ( + infinitive) not to be able to wait to\nex: Non vedo l'ora di cominciare.\nJ can't wait to begin.\nd) trovarsi bene to be comfortable, like it\nex: Spero proprio che vi troviate bene nell'albergo.\nI real/y hope that you're comfortable at the hotel.\n3. The form vi troviate is a special verb form cal/ed present subjunctive. For ali\nverbs it is formed as follows:\nmi trovi io farm identical to ~ Lei request farm\nsi trovi Lei farm identical to\nci troviamo noi farm identical ta ... noi request form\nvi troviate voi farm identical to ... noi request form\nbut with -te in piace\naf-mo\nsi trovino loro form identical to ... loro request form\nExamples of the present subjunctive for the three classes of regu/ar verbs\nare:\nparlare credere\n(io) parli\n(lei) parli (noi) parliamo\n(voi) parliate\n(loro) parlino (io) creda\n(lei) creda (noi) crediamo\n(voi) crediate\n(loro) credano\npreferire\n(io) preferisca\n(lei) preferisca (noi) preferiamo\n(voi) preferiate\n(loro) preferiscano\nThe present subjunctive is found in certain constructions which will be\npointed out as they occur. The one in the dia/og is:\nsperare ... + che ... + present subjunctive\nin· which the subject of sperare differs from the subject of the present\nsubjunctive verbo If the subjects are the same, di + infinitive is used. Thus:\nSpero che vi troviate bene nell'albergo.\nSpero di trovarmi bene nell'albergo.\n4. The future tense form of a verb is frequent/y used to indicate a present\nconjecture or probability. Thus:\nAndranno a scuola, allora.\nThey probab/y go to schoo/, then.\nThey must go to school, then.\nThey more than likely go to schoo/, then.\n5. The future tense is normal/y formed as follows:\n(stem) (ending)\nio form: .. ò noi form: -emo\ninfinitive minus-e ~ +--... voi farm: -ete\n(io) crederò\n(lei) crederà credere\n(noi) crederemo\n(voi) crederete\n(loro) crederanno lei form: .. à loro form: -anno\npreferire\n(io) preferirò\n(lei) preferirà (noi) preferiremo\n(voi) preferirete\n(loro) preferiranno\nExcept for dare, fare, stare, and their compounds (like rifare \"to redo \"), the\n.. a of .. are verbs is ehanged to -e. Thus:\n(io) parlerò\n(lei) parlerà parlare\n(noi) parleremo\n(voi) parlerete\n(loro) parleranno (io) darò\n(lei) darà dare\n(noi) daremo\n{voi} darete\n(loro) daranno\nIrregu/ar verb forms (like andranno) are on/y irregular in their stem, never in\ntheir endings. Such verbs will be pointed out as they oeeur.\n(io) andrò\n(lei) andrà andare\n(noi) andremo\n(voi) andrete\n(loro) andranno\n6. A form of contento Iike (lieto) requires di before an infinitive. Thus:\nSiete contenti di essere a Roma?\nAre you happy to be in Rome?"
+    }
+  ],
+  "metadata": {
+    "page_start": "[PAGE 1]",
+    "page_end": "[PAGE 5]",
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

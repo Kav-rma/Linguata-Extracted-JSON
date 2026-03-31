@@ -1,0 +1,86 @@
+{
+  "title": "unit14_model8",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Lei desidera richiamare Roma?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, richiamo Roma.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Voi desiderate lasciare i documenti qui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, lasciamo i documenti qui.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Lei desidera ordinare la prima colazione?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, ordino la prima colazione.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Angelo desidera rimanere qui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, rimane qui.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Loro desiderano finire il lavoro?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, finiscono il lavoro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "La signora desidera mettere le valigie qui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, mette le valigie qui.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 4]",
+    "page_end": "[PAGE 5]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/B Q: Lei desidera aspettare qui?\nA: Sì, aspetto qui."
+  }
+}

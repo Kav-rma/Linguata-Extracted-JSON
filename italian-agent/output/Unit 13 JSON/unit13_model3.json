@@ -1,0 +1,86 @@
+{
+  "title": "unit13_model3",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Quando cominciano i signori?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Domani, e non vedono Ilora di cominciare.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Quando comincia Maria?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nel pomeriggio, e non vede l'ora di cominciare.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Quando comincia Lei?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Domani, e non vedo l'ora di cominciare.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Quando comincia lui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sabato, e non vede l'ora di cominciare.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Quando cominciate voi?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lunedì, e non vediamo l'ora di cominciare.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Quando cominciano loro?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Domani mattina, e non vedono l'ora di cominciare.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 2]",
+    "page_end": "[PAGE 3]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/3 o: Quando comincia Lei?\nA: Domani, e non vedo Ilora di cominciare."
+  }
+}

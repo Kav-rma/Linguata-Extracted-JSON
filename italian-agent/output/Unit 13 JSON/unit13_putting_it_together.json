@@ -1,0 +1,406 @@
+{
+  "title": "unit13_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What clothing item is described as a classic and very elegant?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A pin-striped suit",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A blue sports jacket",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Short pants",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A double-breasted coat",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What two color choices are offered to the customer?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Light shades or dark shades",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Red shades or green shades",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bright shades or pastel shades",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Blue shades or yellow shades",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "When are the pants and jacket set for fitting in one line of the dialogue?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Next Tuesday at three",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tomorrow morning at eleven",
+          "is_correct": false
+        },
+        {
+          "answer_text": "This evening at six",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Next Monday at noon",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does the speaker say about the color in one response?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is too dark",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is too bright",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is too expensive",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is too old-fashioned",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which suit does the customer prefer in one possible response?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The pin-striped one",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The plain black one",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The gray wool one",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The linen one",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does the customer want to try on in the role-play?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A blue double-breasted jacket and a brown suit",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A black coat and white trousers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A green sweater and a blue suit",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A brown hat and a gray jacket",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What problem is mentioned about the pants?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They are loose at the waist",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They are too short",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are too dark",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are too tight in the legs",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What problem is mentioned about the sleeves?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They are a little short",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They are too wide",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are too long",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are torn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What problem is mentioned about the jacket?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is a little big in the shoulders",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is too tight at the waist",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is too short overall",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is missing buttons",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "When does the speaker say everything will be ready after the needed alterations?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tomorrow morning at 11:00",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Next Tuesday at 3:00",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tomorrow afternoon at 4:00",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tonight at 8:00",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Mi sta bene il completo?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Gli sta bene la giacca sportiva?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Le stanno bene i pantaloni? Sì, Le sta molto bene."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Sì, gli sta molto bene."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Sì, le stanno molto bene."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Sì, vi stanno molto bene."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sì, ci stanno molto bene. Ci stanno bene le giacche blu?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Vi stanno bene i pantaloni corti?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Variants PUrr/NG IT TOGETHER"
+    },
+    {
+      "sequence_id": 10,
+      "text": "I"
+    },
+    {
+      "sequence_id": 11,
+      "text": "fine 5 -Vuoi vedere tinte chiare o tinte scure?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "fine 9 -Provi questo completo a righe (pin stripes), è un"
+    },
+    {
+      "sequence_id": 13,
+      "text": "classico molto elegante."
+    },
+    {
+      "sequence_id": 14,
+      "text": "fine 12 -Le metto in prova pantalon i e giacca per"
+    },
+    {
+      "sequence_id": 15,
+      "text": "martedì prossimo alle tre, va bene?"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 17,
+      "text": "fine 7 -Ecco, signor(in)a/signore, Le ho portato queste"
+    },
+    {
+      "sequence_id": 18,
+      "text": "giacche e questi completi."
+    },
+    {
+      "sequence_id": 19,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 20,
+      "text": "-Questo colore è troppo scuro, non mi piace, ma"
+    },
+    {
+      "sequence_id": 21,
+      "text": "questo va bene."
+    },
+    {
+      "sequence_id": 22,
+      "text": "-Questo completo è troppo chiaro, preferisco"
+    },
+    {
+      "sequence_id": 23,
+      "text": "quello a righe."
+    },
+    {
+      "sequence_id": 24,
+      "text": "RolePlay ITALIAN FAST"
+    },
+    {
+      "sequence_id": 25,
+      "text": "-Vorrei provare quella giacca doppio petto blu e"
+    },
+    {
+      "sequence_id": 26,
+      "text": "quel completo marrone."
+    },
+    {
+      "sequence_id": 27,
+      "text": "line 9 -Questa tinta Le sta molto bene."
+    },
+    {
+      "sequence_id": 28,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 29,
+      "text": "-Sì, ma i pantaloni sono larghi alla vita."
+    },
+    {
+      "sequence_id": 30,
+      "text": "-Sì, ma le maniche sono un pOi corte."
+    },
+    {
+      "sequence_id": 31,
+      "text": "-Sì, ma la giacca è un pOi grande di spalle."
+    },
+    {
+      "sequence_id": 32,
+      "text": "line 12 -Le faccio tutte le modifiche necessarie, e metto"
+    },
+    {
+      "sequence_id": 33,
+      "text": "in prova tutto per domani mattina alle 11.00, se"
+    },
+    {
+      "sequence_id": 34,
+      "text": "per Lei va bene."
+    },
+    {
+      "sequence_id": 35,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 36,
+      "text": "-Va bene, ritorno domani mattina, allora. Alle"
+    },
+    {
+      "sequence_id": 37,
+      "text": "11.00 ha detto, no?"
+    },
+    {
+      "sequence_id": 38,
+      "text": "-Per domani alle 11.00, va benissimo."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "title": "unit15_intro",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How many meals a day do Italians generally eat?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Three",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Two",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Four",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Five",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does breakfast usually consist of?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A cup of coffee and possibly a roll or croissant",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Soup and bread",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Meat and vegetables",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Wine and fruit",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What is traditionally the main meal of the day for most Italians?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lunch",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Breakfast",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Afternoon snack",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Supper",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What do Italians generally drink during the main meal?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wine and/or water",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Soft drinks and tea",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Milk and juice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Coffee only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is a relatively inexpensive family-run restaurant called?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A trattoria or osteria",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A ristorante di lusso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A pizzeria americana",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A pasticceria",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is the cover charge in a restaurant called?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Coperto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Servizio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ricevuta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Porzione",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How are pasta dishes viewed in Italy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "As a first course rather than a complete meal",
+          "is_correct": true
+        },
+        {
+          "answer_text": "As a side dish only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "As a dessert",
+          "is_correct": false
+        },
+        {
+          "answer_text": "As street food only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What is usually added to a service-included bill?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A 12% to 15% service charge",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A fixed breakfast fee",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A tax on bread only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A charge for bottled water only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What is a tavola calda or rosticceria good for?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A quick midday meal",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Formal evening banquets",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Buying kitchen utensils",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ordering luxury seafood only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What should Americans not confuse with pepperoni in Italy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Peperoni, which are peppers",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Parmigiano, which is cheese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prosciutto, which is ham",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Panini, which are sandwiches",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LESSONXV"
+    },
+    {
+      "sequence_id": 2,
+      "text": "CUL TURAL NOTES"
+    },
+    {
+      "sequence_id": 3,
+      "text": "MEALS"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Italians general/y eat three meals a day."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Breakfast usual/y consists of a cup of coffee (occasional/y, tea or choco/ate) with possib/ya roll with butter and jam, or a croissant."
+    },
+    {
+      "sequence_id": 6,
+      "text": "However, it is not unusua/ for Italians (especial/y working people) to leave the house without any breakfast at ali and to stop for a quick cappuccino on the way to work."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Lunch is traditional/y the main mea/ of the day for most Italians, and it usual/y includes three courses: 1) some kind of pasta, rice or soup; 2) meat or fish with vegetab/es; and 3) fruit."
+    },
+    {
+      "sequence_id": 8,
+      "text": "The evening meal is general/y lighter than the midday mea/ and it usual/y includes on/y two courses: 1) meat or fish with vegetab/es, and 2) fruit."
+    },
+    {
+      "sequence_id": 9,
+      "text": "During the main mea/, Italians general/y drink wine and/or water (almost never soft drinks or tea)."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Wine is often used for cooking."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Here are the Italian names for mea/s, together with normal mea/ times:"
+    },
+    {
+      "sequence_id": 12,
+      "text": "(prima) colazione breakfast about 7 a.m."
+    },
+    {
+      "sequence_id": 13,
+      "text": "(seconda) colazione lunch between 1 and 3 p.m."
+    },
+    {
+      "sequence_id": 14,
+      "text": "pranzo main meal, dinner either between 1 and 3 p.m."
+    },
+    {
+      "sequence_id": 15,
+      "text": "or"
+    },
+    {
+      "sequence_id": 16,
+      "text": "cena evening mea/, supper"
+    },
+    {
+      "sequence_id": 17,
+      "text": "between 7:30 and 9 p.m. *"
+    },
+    {
+      "sequence_id": 18,
+      "text": "between 7:30 and 9 p.m."
+    },
+    {
+      "sequence_id": 19,
+      "text": "*Many Northen Italians have their main mea/ in the evening, and as a ru/e their mealtimes are earlier than those of Southern Italians."
+    },
+    {
+      "sequence_id": 20,
+      "text": "EATING PLACES"
+    },
+    {
+      "sequence_id": 21,
+      "text": "A relatively inexpensive fami/y-run restaurant is called a trattoria or osteria."
+    },
+    {
+      "sequence_id": 22,
+      "text": "The word ristorante usual/y refers to a restaurant that is more e/egant and expensive than a trattoria."
+    },
+    {
+      "sequence_id": 23,
+      "text": "The ristorante usual/y has a longer menu, a wine list, and a more formaI atmosphere."
+    },
+    {
+      "sequence_id": 24,
+      "text": "80th the ristorante and the trattoria/osteria have a cover charge (coperto) for the tab/ecloth, the p/ace setting, and the bread."
+    },
+    {
+      "sequence_id": 25,
+      "text": "This charge is usually the first item on the bili."
+    },
+    {
+      "sequence_id": 26,
+      "text": "In Italian restaurants, you may either be seated by the waiter or se/ect your own tab/e, provided it is not already reserved (riservato)."
+    },
+    {
+      "sequence_id": 27,
+      "text": "When ordering a meal, you may order the complete mea/ ali at once or one course at a time."
+    },
+    {
+      "sequence_id": 28,
+      "text": "/t is important to realize that Italians consider any pasta dish (spaghetti, macaroni, noodles) a first course, very much Iike soup; it does not constitute a mea/ by itself."
+    },
+    {
+      "sequence_id": 29,
+      "text": "When Italians simp/y want to samp/e some pasta, they usually ask for half a serving (mezza porzione)."
+    },
+    {
+      "sequence_id": 30,
+      "text": "Pasta dishes are never served as side dishes in Ita/y."
+    },
+    {
+      "sequence_id": 31,
+      "text": "Water and wine are served in pitchers or bott/es, never in glasses."
+    },
+    {
+      "sequence_id": 32,
+      "text": "Butter is served on/y in formai restaurants, usually those frequented by Americans."
+    },
+    {
+      "sequence_id": 33,
+      "text": "A service charge of 12 % to 15 % is usual/y added to the uservice-includedu (servizio compreso) bili."
+    },
+    {
+      "sequence_id": 34,
+      "text": "If the service was exceptionally good, it is customary to leave an additiona/10 % tipo A recent /aw has established that ali restaurants must give patrons an itemized bili (ricevuta fiscale)."
+    },
+    {
+      "sequence_id": 35,
+      "text": "The ricevuta is for the restaurant's fiscal bookkeeping."
+    },
+    {
+      "sequence_id": 36,
+      "text": "Patrons are required to show the ricevuta fiscale upon request to tax inspectors who run spot checks at restaurant exits."
+    },
+    {
+      "sequence_id": 37,
+      "text": "It is advisable to remind the waiter that you want it."
+    },
+    {
+      "sequence_id": 38,
+      "text": "For the midday mea/ when you are in a hurry, a tavola calda (cafeteria) or rosticceria (snack bar and carry out) is the best bet."
+    },
+    {
+      "sequence_id": 39,
+      "text": "Here you can get sandwich es, small pizzas, ready-made pasta dishes, and ali kinds of drinks from beer to soft drinks."
+    },
+    {
+      "sequence_id": 40,
+      "text": "Triangu/ar shaped tramezzini fil/ed with chicken, sa/mon, mushrooms and other delicacies are excellent sandwiches for a quick /unch."
+    },
+    {
+      "sequence_id": 41,
+      "text": "A/so excellent are the supplì (large rice croquettes fil/ed with mozzarella cheese and bits of ground meat, chicken gib/ets, mushrooms, etc., dipped in a batter of eggs and bread crumbs and deep fried in oil)."
+    },
+    {
+      "sequence_id": 42,
+      "text": "Supplì are a/so referred to as supplì al filo or supplì al telefono, since the long strings of mozzarella cheese look like a telephone cord (filo)."
+    },
+    {
+      "sequence_id": 43,
+      "text": "In Ita/y, a pizzeria is a restaurant with a Iimited menu but a variety of pizzas."
+    },
+    {
+      "sequence_id": 44,
+      "text": "Pizzas, un/ike those in the United States, are as /arge as a normal p/ate and are not served precut."
+    },
+    {
+      "sequence_id": 45,
+      "text": "Americans shou/d know that pepperoni does not exist in Ita/y and they should not confuse it with peperoni, which are peppers."
+    },
+    {
+      "sequence_id": 46,
+      "text": "trattoria veneta"
+    },
+    {
+      "sequence_id": 47,
+      "text": "menù"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

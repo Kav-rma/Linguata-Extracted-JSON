@@ -1,0 +1,258 @@
+{
+  "title": "unit17_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the expression often used to show readiness to listen to what another person has to say?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Dica pure",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arrivederci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ce l'ho io",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Parla di",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which preposition is most Italians' usual choice before via or piazza to express location or movement?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "in",
+          "is_correct": true
+        },
+        {
+          "answer_text": "a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "di",
+          "is_correct": false
+        },
+        {
+          "answer_text": "da",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In Rome, which preposition is frequently heard before via or piazza in these cases?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "per",
+          "is_correct": false
+        },
+        {
+          "answer_text": "con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does the word locale mean in ads?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Room",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Balcony",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Building",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "In some regions of Italy, what does servizi refer to when describing a home?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Only the bathroom",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only the bedroom",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only the dining room",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only the balcony",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "How are expressions like stanza da letto and sala da pranzo made plural?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "By changing the first word only",
+          "is_correct": true
+        },
+        {
+          "answer_text": "By changing every word",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By changing the last word only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They do not change in the plural",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "For things normally thought of as owned or belonging somewhere, what does Italian generally use before the noun?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The definite article",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No article at all",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only an indefinite article",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A possessive adjective",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "When an Italian says quinto piano, which American floor does it refer to?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sixth floor",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Fifth floor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fourth floor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Seventh floor",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which form is used to say goodbye to one person in a formal situation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Arrivederla",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arrivederci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dica pure",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Buongiorno",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Why does colloquial Italian often use ce before l' with forms of avere?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To avoid misinterpretations such as l'ho for lo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To make the sentence more formal",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To indicate future tense",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To form the plural",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \nl. Dica pure is an expression frequent/y used to indicate that someone is ready \nto listen to what the other person has to say. \n2. Notice that prepositions may have various trans/ations, depending on how \ntheyare used. Learn the following: \n(a) telefonare per \n(b) appartamento da affittare \n(c) in che via \n(d) a che piano \n(e) parla di \n(f) stanza/camera da letto \n(g) sala da pranzo \n(h) a domani pomeriggio to cali about \napartment for rent \non what street \non what f/oor \nta/ks about, mentions \nbedroom \ndining room \nunti! tomorrow afternoon \n3. Before the words via or piazza, most Italians use the preposition in to \nexpress /ocation in or at or movement to. In Rome, however, you will \nfrequent/y hear a in these cases. \n4. Locale is the word for IIroom Il used in ads. \n5. In some regions of Italy the word servizi, used in describing a home, refers \nonly to the bathroom. In other regions of Ita/y it may a/so include the \nkitchen. It is a/ways best to ask for c1arification. \n6. Stanza da letto and camera da letto have the same meaning. \n7. Expressions Iike stanza da letto, camera da letto, sala da pranzo are made \np/ural by changing the first word only. Thus: stanze da letto, camere da \nletto, sale da pranzo. \nXVII-417 \nHosted for free on livelingua.com\n\n8. For items that are normally thought of as owned or belonging somewhere, \nItalian general/y uses ii/Io/I' or la before the noun, while the corresponding \nEnglish normal/y has ~ or an. \nCi sono due belle grandi camere da letto, il salotto, la sala da pranzo con \nun grande balcone* e la cucina. \nThere are two beautiful big bedrooms, ~ living room, ~ dining room with \na large balcony, and ~ kitchen . \n. . . ha anche l'impianto per la lavatrice \n... there is even ~ hook-up for the washer \n*Jf the word grande had been omitted here, un grande balcone would \nnormal/y have become il balcone. \n9. You have had several ordinaI numerals so far. Here is a list of the first \ntwelve. They are ali four-form words. \nprimo first \nsecondo second \nterzo third \nquarto fourth \nquinto fifth \nsesto sixth \nsettimo seventh \nottavo eighth \nnono ninth \ndecimo tenth \nundicesimo eleventh \ndodicesimo twelfth \n10. When an Italian says quinto piano, the reference is to the American IIsixth \nfloorll (not the IIfifth floorll\n). See introductory section on addresses. \nXVII-418 \nHosted for free on livelingua.com\n\nITALlAN FAST \n11. Arrivederla is used to say goodbye to one person in a formaI situation. In \ninformaI situations, whether to one person or more than one person, the \ncorrect form of IIgoodbye Il is arrivederci. \nThe la in arrivederla is capitalized because it refers to a formaI \"you. Il The \nlitera/ meaning of arrivederla is Muntill see you again. Il \n12. In colloquia/Italian, ce often precedes l' before forms of avere. This avoids \nsuch misinterpretations as: \nl'ho for lo \nl'ha far la \nl'hanno far l'anno \nThus: l'ho io. I have it. (forma/) \nCe l'ho io. l've got it. (colloquiaI) \nAdditional Vocabulary \nAgenzia Immobiliare (f.) real estate agency \naiutare to help \nalquanto somewhat, rather \nascensore (m.) elevator \ncercare to look far \ncomunque anyway, anyhow \ndopodomani day after tomorrow \nDuomo (m.) cathedral \nelettrodomestico (m.) household appliance"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit14_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What verb is Ho visto an irregular past time phrase from?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "vedere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "avere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sentire",
+          "is_correct": false
+        },
+        {
+          "answer_text": "provare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When the first part of Ho visto uses a form of avere, what changes to agree with a preceding direct object?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The second part",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The subject pronoun",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The preposition",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The demonstrative adjective",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which form of the demonstrative adjective means \"that\" before s + consonant or z in masculine singular?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "quello",
+          "is_correct": true
+        },
+        {
+          "answer_text": "quel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quelli",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quei",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which demonstrative adjective form is used before a consonant in feminine singular?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "quella",
+          "is_correct": true
+        },
+        {
+          "answer_text": "quelle",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quegli",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quel",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is true about the word marrone in the phrase quei mocassini marrone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is invariable and has no special plural form.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It changes to marroni in the plural.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It must agree only with feminine nouns.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is used only in the singular.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does the construction vado a controllare express?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "An immediate future idea of motion",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A completed past action",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A habitual action",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A formal command",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "When is Vado ad aspettare lì appropriate instead of Aspetto qui?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When \"go\" refers to motion",
+          "is_correct": true
+        },
+        {
+          "answer_text": "When no motion is involved",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in the past tense",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only with plural subjects",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "In the phrase di colore neutro, what does the preposition di correspond to in English?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "in",
+          "is_correct": true
+        },
+        {
+          "answer_text": "for",
+          "is_correct": false
+        },
+        {
+          "answer_text": "with",
+          "is_correct": false
+        },
+        {
+          "answer_text": "from",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does che mean before descriptive words like morbido and comodo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "how",
+          "is_correct": true
+        },
+        {
+          "answer_text": "why",
+          "is_correct": false
+        },
+        {
+          "answer_text": "when",
+          "is_correct": false
+        },
+        {
+          "answer_text": "where",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does che mean when used with nouns, as in Che pelle è?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "what or what kind of",
+          "is_correct": true
+        },
+        {
+          "answer_text": "how much",
+          "is_correct": false
+        },
+        {
+          "answer_text": "whose",
+          "is_correct": false
+        },
+        {
+          "answer_text": "which one there",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. Ho visto is an irregular past time phrase from the verb vedere. (See lesson \nVI.) When the first part of this phrase uses a form of avere, the second part \nchanges to agree with a preceding direct object lo, la, li, le, La, Li, Le. (See \nexercises 3 and 4, pg. 338.) \n2. The demonstrative adjective for \"that/those\" has the following forms: \nm. sing. \nquello (before s + consonant, z) \nquelli (before a vowel) \nquel ( otherwise) \nf. sing. \nquella (before consonant ) \nquelli (before a vowel) \nexamp/es: \nquello studente \nquelli albergo \nquel mocassino \nquella giacca \nquelilambasciata m. pIo \nquegli (before a vowel, s \n+ consonant, z) \nquei ( otherwise) \nf. pl. \nquelle \nquegli studenti \nquegli alberghi \nquei mocassini \nquelle giacche \nquelle ambasciate \n3. Notice that although quei mocassini is in the plural, the word marrone has \nno special plural formo /t is invariable. \n4. The construction vado a controllare is not to be taken as a substitute for the \nfuture tense. Vado is a present tense form used to express an immediate \nfuture idea of motion (\"1'11 go \" ). (Se e lesson 1//.) It may be followed by a (or \nad before a vowel) + infinitive. \nCompare the following: \nl'm going to wait here. Aspetto qui. \n(no motion involved) \nl'm going to wait there. \nor Vado ad aspettare lì. \n(\" go\" refers to motion ) \nl'm going to go wait there. \n5. Notice the construction della Sua misura ci sono soltanto in nero, for which \nan appropriate translation wou/d be, \"in your size we on/y have b/ack.\" The \npreposition di is sometimes found in cases in which the corresponding \nEnglish has \"in, U as when ta/king about size or c%r. Another examp/e is di \ncolore neutro \"in a neutral color. U Ci sono is p/ura/, agreeing with \nmocassini. \n6. The word che is used before descriptive words Iike morbido, comodo, with \nthe force of \"how.\" Thus: \nChe morbida! \nChe comodi! \nChe alto! Howsoft! \n(referring to pelle) \nHow comfortable! \n(referring to mocassini) \nHowhigh! \n7. The word che used with nouns has the force of \"what\" or \"what kind of. U \nThus: \nChe pelle è? \nChe misura porta? What kind of leather is it? \nWhat size do you wear? \n8. The phrase molto gentile is often used when someone has done or is going \nto do you a favore"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

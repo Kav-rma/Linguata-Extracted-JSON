@@ -1,0 +1,586 @@
+{
+  "title": "unit16_intro",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How long is the waiting list for a new telephone in large Italian cities?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "4 to 5 months",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1 to 2 weeks",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2 to 3 years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "10 to 12 days",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which telephone line is shared with another customer?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Duplex",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Simplex",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Interurbana",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How are direct-dial long-distance calls recorded in Italy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "By number of scatti",
+          "is_correct": true
+        },
+        {
+          "answer_text": "By number of operators involved",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By number of spoken minutes only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By city population",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Where can a customer check the date, location, and numbers called?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At the S.I.P. office",
+          "is_correct": true
+        },
+        {
+          "answer_text": "At any café",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the post office",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the hotel desk",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which service is mentioned as being provided by the telephone company?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "English lessons",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Passport renewal",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Train ticket booking only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bank transfers",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does the telephone company do if the person called does not have a telephone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It sends a messenger to confirm availability",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It installs a temporary phone immediately",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It cancels the call automatically",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It forwards the call to a hotel",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is a chiamata con prenotazione?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A prearranged call with advance notice",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A free emergency call",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A call made only from abroad",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A call limited to business offices",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What must you insert first to place a local call from a public telephone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A token after hearing the dial tone",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A written address",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A hotel key",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An international form",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "How many digits do most Italian phone numbers now have?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Seven",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Five",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Six",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Nine",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "How do Italians often express an even-digit phone number?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In pairs",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Backwards",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only as single digits",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By using only Roman numerals",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "IT ALiAN FAST"
+    },
+    {
+      "sequence_id": 2,
+      "text": "LESSONXVI"
+    },
+    {
+      "sequence_id": 3,
+      "text": "CULTURAL NOTES"
+    },
+    {
+      "sequence_id": 4,
+      "text": "TELEPHONES"
+    },
+    {
+      "sequence_id": 5,
+      "text": "It is not easy to obtain a new te/ephone in Ita/y."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Large cities have long waiting lists of 4 to 5 months."
+    },
+    {
+      "sequence_id": 7,
+      "text": "However, people who need a telephone for official purposes, such as embassy and consu/ate personne/, are usual/y put on a priority list and can obtain one in approximately a month."
+    },
+    {
+      "sequence_id": 8,
+      "text": "There are two types of lines that can be rented, a private fine (simplex) and a party line (duplex)."
+    },
+    {
+      "sequence_id": 9,
+      "text": "With the duplex, you share the line (not the number) with another customer."
+    },
+    {
+      "sequence_id": 10,
+      "text": "This means that sometimes your fine wil/ be used by a co-user, but neither of you can intervene in the other's conversations."
+    },
+    {
+      "sequence_id": 11,
+      "text": "The duplex usual/y costs half the price of the simplex."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Services are billed every three months."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Long-distance calls can be placed through the operator or dia/ed direct (teleselezione), using an area code."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Direct-dia/long-distance calls are recorded by number of clicks (scatti), registering units of time and distance."
+    },
+    {
+      "sequence_id": 15,
+      "text": "As a result, bil/s will show the number of scatti used rather than the number of calls or the location."
+    },
+    {
+      "sequence_id": 16,
+      "text": "The customer can check the date, location, and numbers called on/y by going to the S.I.P. (Società Italiana per l'Esercizio Telefonico) office."
+    },
+    {
+      "sequence_id": 17,
+      "text": "When you cali through the operator, you can request a record of the cali."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Overseas phone cal/s can be made by dialing direct from most Italian cities."
+    },
+    {
+      "sequence_id": 19,
+      "text": "However, from some places they have to be made through the local international operator, who in turn wil/ connect you with an overseas operator."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Col/ect cal/s can be made both from Italy to the United States and vice-versa."
+    },
+    {
+      "sequence_id": 21,
+      "text": "The rate is cheaper for col/ect calls placed in Italy and paid for in the United States."
+    },
+    {
+      "sequence_id": 22,
+      "text": "The te/ephone company a/so provides other services, such as the weather forecast, exact time, road conditions, latest radio news report, wake-up cal/s, and even English lessons!"
+    },
+    {
+      "sequence_id": 23,
+      "text": "Most Italians, nowadays, have a telephone in their permanent residences, but not in seasonal cottages or on small rural farms."
+    },
+    {
+      "sequence_id": 24,
+      "text": "If you wish to cali a person who does not have a telephone, you cali the operator, give the name and address of the person you wish to talk to, and a specific time when the person is likely to be available."
+    },
+    {
+      "sequence_id": 25,
+      "text": "The telephone company then sends a messenger to confirm whether the person is available, and s/he then takes the cali at the nearest public te/ephone."
+    },
+    {
+      "sequence_id": 26,
+      "text": "Another service offered by the telephone company is the chiamata con prenotazione (a prearranged cali, with advance notice to the person cal/ed)."
+    },
+    {
+      "sequence_id": 27,
+      "text": "It is frequently used to get in touch with somebody who lives in a hotel, works at odd hours, or is often away on short business trips."
+    },
+    {
+      "sequence_id": 28,
+      "text": "Public telephones are located in cafés, tobacco shops, subway stations, and at ali branches of the telephone company."
+    },
+    {
+      "sequence_id": 29,
+      "text": "They are operated by tokens (gettoni), coins, and magnetic cards (schede magnetiche)."
+    },
+    {
+      "sequence_id": 30,
+      "text": "The tokens are available from vending machines often found next to a pay telephone."
+    },
+    {
+      "sequence_id": 31,
+      "text": "To piace a local cali, lift the receiver, wait for the dial tone, then insert the token and dial the number."
+    },
+    {
+      "sequence_id": 32,
+      "text": "If there is no answer or the fine is busy, you can retrieve the token by pushing the red knob on the telephone."
+    },
+    {
+      "sequence_id": 33,
+      "text": "For long-distance calls, look for a pay telephone with the word interurbana marked on top, then lift the receiver and insert at least eight tokens to obtain a line."
+    },
+    {
+      "sequence_id": 34,
+      "text": "If the /ocation cal/ed is far away, or if the conversation is long, you will have to insert more tokens, but the operator will not intervene to inform you that allotted time is up."
+    },
+    {
+      "sequence_id": 35,
+      "text": "It is therefore advisable to insert a good number of tokens (at least fifteen or more) before starting a conversation."
+    },
+    {
+      "sequence_id": 36,
+      "text": "You can retrieve any unused tokens at the end of the conversation by pushing the red knob."
+    },
+    {
+      "sequence_id": 37,
+      "text": "In addition, there is now a new kind of public telephone which operates with a magnetic card (scheda magnetica, as mentioned above)."
+    },
+    {
+      "sequence_id": 38,
+      "text": "The card has the value of a certain number of scatti, and the cost of each phone cali is automatically subtracted on the card."
+    },
+    {
+      "sequence_id": 39,
+      "text": "1. fessura per gettone"
+    },
+    {
+      "sequence_id": 40,
+      "text": "apparecchio a gettoni e monete"
+    },
+    {
+      "sequence_id": 41,
+      "text": "2. finestrella per la restituzione dei gettoni"
+    },
+    {
+      "sequence_id": 42,
+      "text": "1. apparecchio telefonico"
+    },
+    {
+      "sequence_id": 43,
+      "text": "2. gettoniera"
+    },
+    {
+      "sequence_id": 44,
+      "text": "apparecchio a scheda magnetica"
+    },
+    {
+      "sequence_id": 45,
+      "text": "gettone"
+    },
+    {
+      "sequence_id": 46,
+      "text": "scheda magnetica"
+    },
+    {
+      "sequence_id": 47,
+      "text": "Most Italian phone numbers are now seven digits long."
+    },
+    {
+      "sequence_id": 48,
+      "text": "When giving an even-digit number, Italians tend to express it in pairs (46-29-46: quarantasei-ventinove-quarantasei)."
+    },
+    {
+      "sequence_id": 49,
+      "text": "When giving an odd-digit number, most Italians will say each digit individually (679-0866: sei-sette-nove-zero-otto-sei-sei-)."
+    },
+    {
+      "sequence_id": 50,
+      "text": "Some, however, will break up the number in pairs and group the first digit with the first pair (67-90-866: sessantasette-novanta-ottocentosessantasei)."
+    },
+    {
+      "sequence_id": 51,
+      "text": "1. forcella"
+    },
+    {
+      "sequence_id": 52,
+      "text": "2. finestrella"
+    },
+    {
+      "sequence_id": 53,
+      "text": "3. disco combinatorio"
+    },
+    {
+      "sequence_id": 54,
+      "text": "4. auricolare"
+    },
+    {
+      "sequence_id": 55,
+      "text": "5. cassa"
+    },
+    {
+      "sequence_id": 56,
+      "text": "6. cordone"
+    },
+    {
+      "sequence_id": 57,
+      "text": "7. imboccatura"
+    },
+    {
+      "sequence_id": 58,
+      "text": "8. microtelefono"
+    },
+    {
+      "sequence_id": 59,
+      "text": "9. spina e presa"
+    },
+    {
+      "sequence_id": 60,
+      "text": "scheda magnetica"
+    },
+    {
+      "sequence_id": 61,
+      "text": "IT ALiAN FAST"
+    },
+    {
+      "sequence_id": 62,
+      "text": "Useful Vocabulary"
+    },
+    {
+      "sequence_id": 63,
+      "text": "bollGttino dGlla neve (m.) — report of snow conditions"
+    },
+    {
+      "sequence_id": 64,
+      "text": "bollettino stradale (m.) — report of road conditions"
+    },
+    {
+      "sequence_id": 65,
+      "text": "centralinista (m. + f.) — telephone operator"
+    },
+    {
+      "sequence_id": 66,
+      "text": "centralino (m.) — switchboard"
+    },
+    {
+      "sequence_id": 67,
+      "text": "centralino intercontinentale (m.) — overseas operator"
+    },
+    {
+      "sequence_id": 68,
+      "text": "centralino internazionale (m.) — international operator"
+    },
+    {
+      "sequence_id": 69,
+      "text": "chiamata a pagamento reversibile (f.) — col/ect cal/"
+    },
+    {
+      "sequence_id": 70,
+      "text": "chiamata intercontinentale (f.) — overseas cali"
+    },
+    {
+      "sequence_id": 71,
+      "text": "chiamata internazionale (f.) — international cali (but within the continent)"
+    },
+    {
+      "sequence_id": 72,
+      "text": "chiamata interurbana (f.) — long-distance cali"
+    },
+    {
+      "sequence_id": 73,
+      "text": "duplex (m.) — party line"
+    },
+    {
+      "sequence_id": 74,
+      "text": "gettone (m.) — token"
+    },
+    {
+      "sequence_id": 75,
+      "text": "giornale radio (m.) — radio news report"
+    },
+    {
+      "sequence_id": 76,
+      "text": "ora esatta (f.) — exact time"
+    },
+    {
+      "sequence_id": 77,
+      "text": "prefisso (m.) — area code"
+    },
+    {
+      "sequence_id": 78,
+      "text": "previsioni del tempo (f.pl.) — weather forecast"
+    },
+    {
+      "sequence_id": 79,
+      "text": "scheda magnetica (f.) — magnetic card"
+    },
+    {
+      "sequence_id": 80,
+      "text": "simplex (m.) — private line"
+    },
+    {
+      "sequence_id": 81,
+      "text": "sveglia telefonica (f.) — wake-up cali"
+    },
+    {
+      "sequence_id": 82,
+      "text": "teleselezione (f.) — direct dialing"
+    },
+    {
+      "sequence_id": 83,
+      "text": "utente (m.) — telephone user"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit5_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is an acceptable written form of the Italian expression for \"good morning\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "buongiorno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "buona mattina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "giorno buono",
+          "is_correct": false
+        },
+        {
+          "answer_text": "buona giornata",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does desiderano come from?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The verb desiderare, meaning \"to want, wish\"",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The verb decidere, meaning \"to decide\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The noun desiderio, meaning \"desire\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The verb chiedere, meaning \"to ask\"",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which Italian word is the generic name for any room?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "stanza",
+          "is_correct": true
+        },
+        {
+          "answer_text": "camera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "salone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ufficio",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "After which kinds of words may noi occur?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Prepositions like a, con, da, di, in, and per",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only articles",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only verbs",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only adjectives",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What can glieli mean when used with a verb?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"them to you,\" \"them to him,\" \"them to her,\" or \"them to them\"",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only \"them to us\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only \"it to him\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only \"you to them\"",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Where do Italian descriptive adjectives normally appear?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "After their noun",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Before their noun",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only at the end of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They never follow a fixed position",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is nel a contraction of?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "in + il",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ne + il",
+          "is_correct": false
+        },
+        {
+          "answer_text": "in + lo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "di + il",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "How is the present indicative often used in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To express an idea in the immediate or not distant future",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only to describe habits in the past",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only for commands",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To replace all subjunctive forms",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What can the \"they\" form of the verb express in a somewhat formal manner?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A plural \"you\"",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A singular \"I\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A feminine singular noun",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A past action",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is always true about the Italian \"we\" form of the verb?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It always ends in -mo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It always ends in -re",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It always ends in -no",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It always begins with s-",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. The expression for \"good morning N may be written as one word or two, i.e., \nbuongiorno (a/so bongiorno) orbuon giorno. \n2. The word desiderano, from the verb desiderare \"to want, wish, N is used in \nthe dia/og as a shortened version of Che desiderano? \n3. The generic name for any room is stanza. The word camera is usual/y \nreserved for a room used to s/eep in. \n4. The word noi may occur after prepositions like a, con, da, di, in, and per. \n5. The expression glieli, always used with a verb, may have the farce of \"them \nto you, \" \"them to him, \" \"them to her, \" or \"them to them. \" \n6. Italian descriptive adjectives normal/y follow their noun. Thus: Ambasciata \nAmericana, stanza matrimoniale. \n7. Nel is a contraction of in + il. Other such contractions will be noted as they \no eeu r. \n8. The present indicative is often used to express an idea in the immediate or \nnot distant future. \nThus: Glieli restituisco più tardi. l'II return them to you later. \nFaccio portare subito le valigie. l'II have someone bring the bags \nrightaway. \n9. The \"they\" form of the verb is a/so used to express the idea of \"you\" (pl.) in \na somewhat formai manner. Thus the forms desiderano, possono, hanno, \nand vogliono ali refer to a p/ura/ \"you. \" \n10. The \"we\" form of the verb a/ways ends in -mo, but eertain stems are on/y \nlearned by memorizing them. \nThus: vediamo we see abbiamo wehave \n\n\". The \"we\" form may be used as a present indicative or as a request. \nThus: vediamo \nwe see -present indicative \nlet's see -request"
+    }
+  ],
+  "metadata": {
+    "page_start": "[PAGE 1]",
+    "page_end": "[PAGE 3]",
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

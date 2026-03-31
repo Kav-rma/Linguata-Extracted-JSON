@@ -1,0 +1,310 @@
+{
+  "title": "unit8_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Veneto?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Venezia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Verona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Padova",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vicenza",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which mountain range is listed for Veneto?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Alpi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Appennini",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dolomiti Lucane",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Monti Sibillini",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which sea borders Veneto to the west?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mare Adriatico",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Tirreno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ligure",
+          "is_correct": false
+        },
+        {
+          "answer_text": "None; Mare Adriatico is to the east/north-east in the text",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which river is listed in Veneto?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adige",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ofanto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which of these is a provincial capital of Veneto?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bologna",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Perugia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Belluno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Trento",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does VE stand for in the car codes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Verona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Venezia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vicenza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Veneto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which agricultural product is listed for Veneto?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Olive",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Riso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tabacco",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Agrumi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which industry is mentioned for Veneto?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Cantieri navali",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vetrerie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Cartiere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ceramiche",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Who was the first woman graduate of Italy mentioned in the text?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Maria Montessori",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazia Deledda",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Elena Lucrezia Cornaro Piscopia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Rita Levi-Montalcini",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "In what subject was Elena Lucrezia Cornaro Piscopia proclaimed doctor?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Medicine",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Law",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Philosophy",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mathematics",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "VENETO"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Austria | Nord-Est: Friuli-Venezia Giulia, Mare Adriatico | Ovest: Lombardia, Trentino-Alto Adige | Sud: Emilia Romagna"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Alpi (Civetta, 3218 metri; Marmolada, 3342 metri)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Adige, Brenta, Piave, Livenza"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Capoluogo della regione: Venezia"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluoghi di provincia: Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sigle automobilistiche: VE = Venezia | BL = Belluno | PD = Padova | RO = Rovigo | VI = Vicenza | VR = Verona | TV = Treviso"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Prodotti agricoli: vini, tabacco, bietole da zucchero, canapa, frumento"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Industrie: pastifici, cotonifici, lanifici, stabilimenti siderurgici, vetrerie, alberghiere"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Curiosità: La prima donna laureata d'Italia: Elena Lucrezia Cornaro Piscopia, proclamata dottore in filosofia il 25 maggio 1678 a Padova"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Burano"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Padova"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Verona"
+    },
+    {
+      "sequence_id": 14,
+      "text": "Venezia"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

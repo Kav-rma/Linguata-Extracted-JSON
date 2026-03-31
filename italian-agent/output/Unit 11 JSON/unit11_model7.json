@@ -1,0 +1,134 @@
+{
+  "title": "unit11_model7",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "lo sono solo/a oggi.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lo sarò solo/a domani.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Voi vi trovate bene a New York.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Voi vi troverete bene a (Roma).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Lui è felice.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lui sarà felice domani.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Noi siamo stanchi/e ora.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Noi saremo stanchile più tardi.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Voi siete contenti/e oggi.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Voi sarete contenti/e domani.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "lo mi trovo bene a Washington.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lo mi troverò bene a (Milano).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Lei si trova bene qui.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lei si troverà bene a (Firenze).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Loro sono occu patile (busy) adesso.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Loro saranno occupati/e domani.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Noi ci troviamo bene ad Alessandria.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Noi ci troveremo bene a (Napoli).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Loro si trovano bene a Washington.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Loro si troveranno bene a (Roma).",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 5]",
+    "page_end": "[PAGE 5]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/7 o: lo sono lieto/a.\nA: lo sarò lieto/a domani."
+  }
+}

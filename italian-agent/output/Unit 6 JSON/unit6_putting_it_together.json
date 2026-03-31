@@ -1,0 +1,366 @@
+{
+  "title": "unit6_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Where should the suitcases be placed?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "On the luggage rack or on the small table",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Under the bed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "In the bathroom",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Outside the room",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Where can the speaker exchange them?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At the hotel office",
+          "is_correct": true
+        },
+        {
+          "answer_text": "At the train station",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the airport desk",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the restaurant",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Who answers with \"Servizio camere, dica!\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Room service",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The hotel manager",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The bellhop",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The cashier",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Where should there be a blanket?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In the closet",
+          "is_correct": true
+        },
+        {
+          "answer_text": "On the bed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "In the hallway",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the front desk",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Who will be notified about the issue?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The floor maid",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The chef",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The driver",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The porter",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What extra item does the guest ask for from the floor maid?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "More towels",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Another pillow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A suitcase key",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A lamp",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does not work in the room?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The television",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The shower",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The air conditioner",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The phone",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Who must be called about the television problem?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Room service",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The concierge",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Housekeeping only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The restaurant",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What number is given for the service?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Twenty-seven",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Three hundred eighteen",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ten",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Six",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is near the telephone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The telephone directory",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A city map",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A blanket",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A room key",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Variants IT ALiAN FAST"
+    },
+    {
+      "sequence_id": 2,
+      "text": "PUrr/NG ITTOGETHER"
+    },
+    {
+      "sequence_id": 3,
+      "text": "-Dove vuole che metta le valigie?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "-Queste valigie le metto sul portavaligie o sul tavolino?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "-Benissimo! Li posso cambiare all'ufficio dell' albergo."
+    },
+    {
+      "sequence_id": 6,
+      "text": "-Servizio camere, dica!"
+    },
+    {
+      "sequence_id": 7,
+      "text": "-Ci dovrebbe essere una coperta nell'armadio."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Le farò avere subito il resto."
+    },
+    {
+      "sequence_id": 9,
+      "text": "-Va bene, avvertirò la cameriera del piano."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Variants Requiring DiHerent Responses"
+    },
+    {
+      "sequence_id": 11,
+      "text": "-Sono la cameriera del piano, ha chiamato?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 13,
+      "text": "-Sì, signorina."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Potrei avere degli altri asciugamani?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "E guardi, il televisore non funziona."
+    },
+    {
+      "sequence_id": 16,
+      "text": "-(following the above) Le porto subito gli asciugamani."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Per il televisore, deve chiamare il servizio camere."
+    },
+    {
+      "sequence_id": 18,
+      "text": "le serve nient'altro?"
+    },
+    {
+      "sequence_id": 19,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 20,
+      "text": "-No, nient'altro."
+    },
+    {
+      "sequence_id": 21,
+      "text": "Qual'è il numero del servizio camere?"
+    },
+    {
+      "sequence_id": 22,
+      "text": "VI-137"
+    },
+    {
+      "sequence_id": 23,
+      "text": "Hosted for free on livelingua.com"
+    },
+    {
+      "sequence_id": 24,
+      "text": "RolePlay"
+    },
+    {
+      "sequence_id": 25,
+      "text": "Interpreter Situation"
+    },
+    {
+      "sequence_id": 26,
+      "text": "Pronto, desidera? ITALIAN FAST"
+    },
+    {
+      "sequence_id": 27,
+      "text": "-(following the above) È il ventisette."
+    },
+    {
+      "sequence_id": 28,
+      "text": "Vicino al telefono c'è la guida telefonica."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

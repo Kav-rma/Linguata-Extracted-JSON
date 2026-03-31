@@ -1,0 +1,418 @@
+{
+  "title": "unit11_intro",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which Italian given name is usually used in daily life when a person has more than one Christian name?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The first one",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The last one",
+          "is_correct": false
+        },
+        {
+          "answer_text": "All of them equally",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A nickname chosen by the family",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does the word \"in\" indicate in the legal form \"Maria Bianchi in Rossi\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wife of",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Born in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Daughter of",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Living in",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which name is Bianchi in the form \"Maria Bianchi in Rossi\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The maiden name",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The husband’s first name",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The married title",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The family’s town name",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How might legal documents identify a widow named Maria Bianchi whose husband was Rossi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Maria Bianchi vedova Rossi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mrs. George Rossi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Maria Rossi nata Bianchi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Signora George Rossi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What word precedes the name of a deceased person on legal documents?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "fu",
+          "is_correct": true
+        },
+        {
+          "answer_text": "vedova",
+          "is_correct": false
+        },
+        {
+          "answer_text": "in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "onorabile",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which Italian pronoun is used to show respect?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lei",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tu",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Noi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Voi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which title is commonly used for any male university graduate in Italy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "dottore",
+          "is_correct": true
+        },
+        {
+          "answer_text": "maestro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "geometra",
+          "is_correct": false
+        },
+        {
+          "answer_text": "onorevole",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "How is a woman with an academic title generally addressed in the workplace?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "dottoressa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "signorina always",
+          "is_correct": false
+        },
+        {
+          "answer_text": "maestra always",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cavaliera",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which title is used for all members of Parliament?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "onorevole",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Eminenza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Santità",
+          "is_correct": false
+        },
+        {
+          "answer_text": "geometra",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What happens to titles ending in -re when they are followed by a person’s last name?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They drop the final e",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They add an accent mark",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They change to the plural form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are replaced by signor",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LESSON XI"
+    },
+    {
+      "sequence_id": 2,
+      "text": "CULTURAL NOTES"
+    },
+    {
+      "sequence_id": 3,
+      "text": "NAMES"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Italians receive one or more Christian names at birth."
+    },
+    {
+      "sequence_id": 5,
+      "text": "However, only the first one is actually used, except on the birth certificate, where all the names appear that were registered at the town hall at the time of the person's birth."
+    },
+    {
+      "sequence_id": 6,
+      "text": "For legal and social purposes, women who marry may or may not assume their husband's last name."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Legal documents, however, will show both names as follows: Maria Bianchi in Rossi, where Bianchi is the maiden name and the in stands for \"wife of.\""
+    },
+    {
+      "sequence_id": 8,
+      "text": "There are also cases in which a married woman may use either both names or her maiden name."
+    },
+    {
+      "sequence_id": 9,
+      "text": "The latter is especially true if she is already known in her professional field by her maiden name."
+    },
+    {
+      "sequence_id": 10,
+      "text": "In no case does an Italian woman use the first and last names of her husband, as an American might do, calling herself \"Mrs. George Green,\" for example."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Although there are exceptions, widows generally keep their married name for all social purposes."
+    },
+    {
+      "sequence_id": 12,
+      "text": "However, all legal documents will show both names, as follows: Maria Bianchi vedova Rossi (\"Maria Bianchi, widow (of) Rossi\")."
+    },
+    {
+      "sequence_id": 13,
+      "text": "On legal documents, when a deceased person is mentioned, the name is preceded by fu, i.e., il fu Mario Rossi (\"the late Mario Rossi\")."
+    },
+    {
+      "sequence_id": 14,
+      "text": "TITLES"
+    },
+    {
+      "sequence_id": 15,
+      "text": "The use of the Italian pronoun Lei to show respect is said to be one of the legacies of the Spanish domination."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Another one seems to be the use of academic and honorific titles."
+    },
+    {
+      "sequence_id": 17,
+      "text": "When someone's title is known, it is good policy to follow the Italian custom of addressing the person with his or her title."
+    },
+    {
+      "sequence_id": 18,
+      "text": "This form of respect is so widely used that sometimes it is even abused and titles are used whether legally conferred or not."
+    },
+    {
+      "sequence_id": 19,
+      "text": "In this case an academic title like dottor ... or professor ... is added to the name."
+    },
+    {
+      "sequence_id": 20,
+      "text": "The title of dottore is very widespread and is used for any male individual who has obtained a university degree (and sometimes even when a university degree has not been obtained)."
+    },
+    {
+      "sequence_id": 21,
+      "text": "A woman is addressed as dottoressa (her academic title) in the workplace."
+    },
+    {
+      "sequence_id": 22,
+      "text": "However, in her non-professional life she is usually addressed as signora or signorina."
+    },
+    {
+      "sequence_id": 23,
+      "text": "An exception to this rule is generally made for a female high school teacher or university professor, who is addressed as professoressa even in her non-professional life."
+    },
+    {
+      "sequence_id": 24,
+      "text": "The following are some titles commonly used in Italy:"
+    },
+    {
+      "sequence_id": 25,
+      "text": "Santità (Holiness) — used for the Pope"
+    },
+    {
+      "sequence_id": 26,
+      "text": "Eccellenza (Excellency) — used for a high dignitary in public office, a bishop or archbishop"
+    },
+    {
+      "sequence_id": 27,
+      "text": "Eminenza — used for a cardinal"
+    },
+    {
+      "sequence_id": 28,
+      "text": "onorevole — used for all members of Parliament"
+    },
+    {
+      "sequence_id": 29,
+      "text": "ingegnere — used for a university graduate with a degree in engineering"
+    },
+    {
+      "sequence_id": 30,
+      "text": "avvocato — used for a university graduate with a degree in law"
+    },
+    {
+      "sequence_id": 31,
+      "text": "architetto — used for a university graduate with a degree in architecture"
+    },
+    {
+      "sequence_id": 32,
+      "text": "dottore/dottoressa — used for a university graduate with a degree in medicine or for any university graduate"
+    },
+    {
+      "sequence_id": 33,
+      "text": "professore/professoressa — used for a high school teacher or university professor, and for a physician who has published research"
+    },
+    {
+      "sequence_id": 34,
+      "text": "maestro/maestra (teacher) — used for an elementary school teacher"
+    },
+    {
+      "sequence_id": 35,
+      "text": "ragioniere (accountant) — used for a licensed accountant or auditor"
+    },
+    {
+      "sequence_id": 36,
+      "text": "geometra (land surveyor/draftsman) — used for someone with a non-university degree in engineering"
+    },
+    {
+      "sequence_id": 37,
+      "text": "ITALIAN FAST"
+    },
+    {
+      "sequence_id": 38,
+      "text": "Cavaliere/Commendatore — both of these are conferred by the President of the Republic for special merit in a person's work"
+    },
+    {
+      "sequence_id": 39,
+      "text": "The titles marked with an asterisk may be followed by a person's last name."
+    },
+    {
+      "sequence_id": 40,
+      "text": "Those ending in -re drop the e in such cases."
+    },
+    {
+      "sequence_id": 41,
+      "text": "For example, Dottor Rossi."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

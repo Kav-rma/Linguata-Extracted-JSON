@@ -1,0 +1,294 @@
+{
+  "title": "unit3_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Liguria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Genova",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Savona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "La Spezia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Imperia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which sea borders Liguria to the south?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mar Ligure",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mare Adriatico",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Tirreno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ionio",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which region borders Liguria to the north?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Piemonte",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Emilia-Romagna",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Toscana",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lombardia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which country borders Liguria to the west?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Francia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Svizzera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Austria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Slovenia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which mountain range is listed for Liguria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Appennino Ligure",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Alpi Marittime",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dolomiti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Appennino Tosco-Emiliano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which of these rivers is listed for Liguria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Magra",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Po",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which city is NOT listed as a provincial capital of Liguria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Torino",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Savona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Imperia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "La Spezia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which agricultural product is listed for Liguria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Olive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Barley",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grapes",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What kind of industries are mentioned in Liguria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Shipbuilding, metallurgical, and tourism industries",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Textile, chemical, and mining industries",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Automobile, aerospace, and pharmaceutical industries",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Paper, glass, and ceramic industries",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is the curiosity mentioned for Pontedassio?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It has a spaghetti museum with documents about the origin of pasta in Genoa in 1246",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It has the oldest port in Liguria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is famous for a Roman amphitheater",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It has a museum dedicated to olive oil only",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LIGURIA"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Piemonte | Sud: Mar Ligure | Est: Emilia-Romagna | Ovest: Francia"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Appennino Ligure"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Roia, Polcevera, Magra"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Capoluogo della regione: Genova"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluoghi di provincia: Genova, Imperia, La Spezia, Savona"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sigle automobilistiche: GE = Genova | SP = La Spezia | SV = Savona | IM = Imperia"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Prodotti agricoli: olive, frutta, ortaggi"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Industrie: navali, metallurgiche, turistiche"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Curiosità: A Pontedassio: il museo degli spaghetti, dove sono raccolti documenti comprovanti l'origine della pasta a Genova nel 1246"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

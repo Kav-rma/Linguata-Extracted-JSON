@@ -1,0 +1,86 @@
+{
+  "title": "unit17_model3",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "o: La stanza ha l'armadio, no?\nO: Grande?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A: Sì, ce l'ha.\nA: Sì, è un armadio grande.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Q: Il signor Facchetti ha il televisore, no?\nQ: Acolori?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A: Sì, ce l'ha.\nA: Sì, è un televisore a colori.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Q: L'appartamento ha il telefono, no?\nQ: Duplex?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A: Sì, ce l'ha.\nA: Sì, è un telefono duplex.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Q: Lei ha la casa, no?\nQ: Adue piani?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A: Sì, ce l'ho.\nA: Sì, è una casa a due piani.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Q: Seppe ha la macchina, no?\nQ: Tedesca?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A: Sì, ce l'ha.\nA: Sì, è una macchina tedesca.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Q: Il palazzo ha l'ascensore, no?\nQ: Moderno?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A: Sì, ce l'ha.\nA: Sì, è un ascensore moderno.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 2]",
+    "page_end": "[PAGE 3]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/3 Q: Lei ha la macchina, no?\nA: Sì, ce l'ho.\nQ: Italiana?\nA: Sì, è una macchina italiana."
+  }
+}

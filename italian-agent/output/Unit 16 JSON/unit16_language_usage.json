@@ -1,0 +1,258 @@
+{
+  "title": "unit16_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What tense form is 'era' in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A past tense form of essere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A future tense form of avere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A present tense form of andare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A conditional form of stare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which verb does 'era' come from?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Essere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Avere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Venire",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What is the Italian form for 'I was'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "ero",
+          "is_correct": true
+        },
+        {
+          "answer_text": "era",
+          "is_correct": false
+        },
+        {
+          "answer_text": "eravamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "erano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is the Italian form for 'we were'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "eravamo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "eravate",
+          "is_correct": false
+        },
+        {
+          "answer_text": "erano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ero",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is the Italian form for 'you all were'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "eravate",
+          "is_correct": true
+        },
+        {
+          "answer_text": "eravamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "era",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ero",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is the Italian form for 'they were'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "erano",
+          "is_correct": true
+        },
+        {
+          "answer_text": "era",
+          "is_correct": false
+        },
+        {
+          "answer_text": "eravate",
+          "is_correct": false
+        },
+        {
+          "answer_text": "eravamo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What idea does 'uno' or 'una' express when used with an adjective?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A ... one",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The only one",
+          "is_correct": false
+        },
+        {
+          "answer_text": "More than one",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No one",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which phrase means 'a decaffeinated one'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "uno decaffeinato",
+          "is_correct": true
+        },
+        {
+          "answer_text": "una decaffeinata",
+          "is_correct": false
+        },
+        {
+          "answer_text": "il decaffeinato",
+          "is_correct": false
+        },
+        {
+          "answer_text": "decaffeinato uno",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which subject pronoun is paired with 'era' in the notes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lei",
+          "is_correct": true
+        },
+        {
+          "answer_text": "voi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "noi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "loro",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What are learners told to do with the listed forms of essere for the time being?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Learn the following other forms",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Avoid using them in speech",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Translate them into English only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Memorize only the singular forms",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. Era is a past tense form of the verb essere. You willlearn more about this \ntense later. For the time being, learn the following other forms: \n(io) ero \n(lei) era (noi) eravamo \n(voi) eravate \n(loro) erano \n2. The word uno or una is used with an adjective to express the idea of \"a ... \none. H Thus: \nuno decaffeinato a decaffeinated one"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

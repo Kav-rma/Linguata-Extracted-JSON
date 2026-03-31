@@ -1,0 +1,258 @@
+{
+  "title": "unit7_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the phone use of the word 'pronto' in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is used to mean 'hello' on the phone",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is used to mean 'goodbye' on the phone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is used to mean 'please repeat' on the phone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is used to mean 'who is there?' on the phone",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which singular request form from dire is mentioned as irregular?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "dica",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dici",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dire",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How is 'this is room ...' expressed on the telephone in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "è la camera ...",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sono la camera ...",
+          "is_correct": false
+        },
+        {
+          "answer_text": "c'è la camera ...",
+          "is_correct": false
+        },
+        {
+          "answer_text": "questa è camera ...",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What happens to the final -e of an infinitive when object pronouns are attached?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The -e does not occur",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The -e changes to -i",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The -e is doubled",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The -e remains unchanged",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "How do you say 'at one o'clock' in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "all'una",
+          "is_correct": true
+        },
+        {
+          "answer_text": "a una",
+          "is_correct": false
+        },
+        {
+          "answer_text": "alle una",
+          "is_correct": false
+        },
+        {
+          "answer_text": "in una",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which expression specifically means 'breakfast' in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "prima colazione",
+          "is_correct": true
+        },
+        {
+          "answer_text": "seconda colazione",
+          "is_correct": false
+        },
+        {
+          "answer_text": "colazione lunga",
+          "is_correct": false
+        },
+        {
+          "answer_text": "piccola colazione",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which of the following can express 'what' in an Italian question?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "che cosa, che, or cosa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "quale only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "chi or cui",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quando or come",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which verb form is frequently used on the phone to ask or tell if someone is in?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A form of esserci",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A form of avere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A form of stare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A form of dovere",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "How is 'Would you like to leave a message?' usually expressed in Italian in this lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Vuoi lasciar detto qualcosa?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vuoi parlare con qualcuno?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Puoi scrivere qualcosa?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Devi dire qualcosa?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What subject pronoun goes with the verb form used to address two or more people?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "voi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "noi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "loro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lei",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. The word pronto is actual/y the four-form word for \"ready.\" However, it is \nused on the phone in the form ending in -o to express the idea of \"hel/o. \" \n2. One more singu/ar request form that occurs in the dia/og is: dica (irregu/ar, \nfrom dire). \n3. The te/ephone formula for \"this is room ... \"is: «è la camera ... » \n4. The infinitive, which normally ends in -re, sometimes ends in -r in certain \nkinds of constructions, /ike lasciar detto (Jesson VII) and far stirare and far \nlucidare (lesson VI). Whenever object pronouns are attached to the \ninfinitive, no -e occurs. Thus: svegliarmi and richiamarmi (Jesson VII), \nlasciarmi and accomodarsi (lesso n VI). \n5. \"At one o'c/ock,\" \"at two o'c/ock, \" etc., are expressed in Italian as all'una, \nalle due, etc. \n6. Either \"breakfast\" or \"/unch\" may be referred to as colazione. The \ndistinction is made by using prima colazione for \"breakfast\" and seconda \ncolazione for \"/unch. \" \n7. The word \"'what'\" in a question may be expressed in Italian as che cosa, che, \nor cosa. \n8. The word\" croissant\" is a French word and, as such, it is given a somewhat \nFrench pronunciation. \n9. A form of esserci is used frequent/y on the phone to ask or tell if someone is \nin. \nThus: \nC'è la signora Smith? \n10. Notice that where in English you might say on the phone: , \"This is Miss ... \" \nthe corresponding Italian has Sono la signorina ... (lit., \"/ am Miss ... \"). \n11. Vuoi lasciar detto qualcosa? is a usual way of asking, \"Wou/d you like to \n/eave a message?\" In this expression, as is the case before an infinitive, \nvuole normal/y drops its fina/-e. \n12. To tell (someone) to do something is expressed in /talian by \ndire + di + infinitive. \n13. The second te/ephone dia/og introduces a verb form that is used in \naddressing two or more peop/e, that is, the p/ura/ of Lei. This form a/ways \nends in -te. For most verbs it may be formed by simp/y changing the -re of \nthe infinitive to -te. Thus: cominciate, finite. The subject pronoun for \n\"you\" that goes with this form is voi. \n14. The various forms of the verb that you have had so far may from now on be \nconveniently referred to as: \nthe io form \nthe lei form \nthe noi form \nthevoi form \nthe loro form"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

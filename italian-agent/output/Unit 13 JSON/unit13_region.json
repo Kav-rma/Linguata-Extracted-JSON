@@ -1,0 +1,298 @@
+{
+  "title": "unit13_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Toscana?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Firenze",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pisa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Siena",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Livorno",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which region borders Toscana to the north?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Emilia-Romagna",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Lazio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Umbria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Liguria",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which sea lies to the west of Toscana?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mar Tirreno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mare Adriatico",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ligure",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ionio",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which mountain range is listed for Toscana?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Appennino Tosco-Emiliano",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Alpi Apuane",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dolomiti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Appennino Lucano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which of these is an island of Toscana?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Elba",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Procida",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lampedusa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pantelleria",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which river is listed in Toscana?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Arno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Po",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adige",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the car code for Firenze?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "FI",
+          "is_correct": true
+        },
+        {
+          "answer_text": "FR",
+          "is_correct": false
+        },
+        {
+          "answer_text": "FL",
+          "is_correct": false
+        },
+        {
+          "answer_text": "FN",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which agricultural product is listed for Toscana?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Vini",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Riso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Olive nere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Agrumi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which industry is listed for Toscana?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Navali",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Automobilistiche",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tessili della seta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Aeronautiche",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What notable object is mentioned in the Museo di Mineralogia di Firenze?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The largest precious stone in Europe, a topaz of 151 kilos",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A marble statue from the Renaissance",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A gold crown from Siena",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A silver ship model from Livorno",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "TOSCANA"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Emilia-Romagna | Sud: Lazio | Est: Marche, Umbria | Ovest: Liguria, Mar Tirreno"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Appennino Tosco-Emiliano"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Arno, Serchio, Cecina, Ombrone"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Isole: Elba, Capraia, Giglio, Montecristo"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluogo della regione: Firenze"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Capoluoghi di provincia: Arezzo, Grosseto, Firenze, Livorno, Lucca, Massa-Carrara, Pisa, Pistoia, Siena"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Sigle automobilistiche: AR = Arezzo | GR = Grosseto | FI = Firenze | LI = Livorno | LU = Lucca | MS = Massa-Carrara | PI = Pisa | PT = Pistoia | SI = Siena"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Prodotti agricoli: cereali, ortaggi, vini, frutta"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Industrie: navali, metallurgiche, chimiche, vinicole, farmaceutiche, alberghiere"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Curiosità: Al Museo di Mineralogia di Firenze: la pietra preziosa più grande d'Europa--un topazio di 151 chili (755 mila carati) | scuola di marmo | festival dei Maggerini a Castiglione della Pescaia"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

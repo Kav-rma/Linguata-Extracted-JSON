@@ -1,0 +1,334 @@
+{
+  "title": "unit10_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which bus numbers can the person take?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "56 or 58",
+          "is_correct": true
+        },
+        {
+          "answer_text": "12 or 14",
+          "is_correct": false
+        },
+        {
+          "answer_text": "22 or 24",
+          "is_correct": false
+        },
+        {
+          "answer_text": "6 or 8",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Where is the bus stop described as being?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Over there",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Inside the station",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Behind the church",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Across the bridge",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Where can the ticket be bought in the first dialogue?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At the newsstand",
+          "is_correct": true
+        },
+        {
+          "answer_text": "On the bus",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the hotel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the museum",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "On which streets can the rider get off?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Via Bissolati or Via Torino",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Via Roma or Via Milano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Napoli or Via Firenze",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Verdi or Via Dante",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is special about the stop on Via Torino?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is a request stop",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is closed on Sundays",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is only for tourists",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is the last stop",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What must the rider do to get off at Via Torino?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ring the bell",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Show a passport",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ask the driver for change",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Open the window",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What color is the button near the exit?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Red",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Blue",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Green",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Yellow",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What cannot be done on the bus in the alternate response?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buy the ticket",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ask for directions",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sit near the driver",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Look out the window",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Where should the traveler get off to go to Via Pascoli?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Via Miceli",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Via Torino",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Bissolati",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Pascoli station",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "When should the traveler get off for Via Pascoli?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At the next stop",
+          "is_correct": true
+        },
+        {
+          "answer_text": "At the final stop",
+          "is_correct": false
+        },
+        {
+          "answer_text": "After three more stops",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Before boarding the bus",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Variants ITALIAN FAST"
+    },
+    {
+      "sequence_id": 2,
+      "text": "PUTTING ITTOGETHER"
+    },
+    {
+      "sequence_id": 3,
+      "text": "line 2 -Può prendere il 56/58."
+    },
+    {
+      "sequence_id": 4,
+      "text": "La fermata è laggiù, vede?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Il biglietto lo può comprare dal giornalaio."
+    },
+    {
+      "sequence_id": 6,
+      "text": "line 9 -Può scendere sia in Via Bissolati che in Via Torino, ma la fermata di Via Torino è a richiesta e deve suonare il campanello."
+    },
+    {
+      "sequence_id": 7,
+      "text": "fine 11 -È quel bottone rosso vicino all'uscita."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 9,
+      "text": "fine 2 -Da qui può prendere sia il 56 che il 58."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Il biglietto, però, non si può acquistare sull'autobus."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Deve acquistarlo prima."
+    },
+    {
+      "sequence_id": 12,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 13,
+      "text": "-Dove posso acquistare i biglietti?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "-Dove sono le fermate di questi autobus?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "fine 9 -Per andare in Via Pascoli può scendere in Via Miceli, che è la prossima fermata."
+    },
+    {
+      "sequence_id": 16,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 17,
+      "text": "-Allora, scendo alla prossima, grazie."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Permesso ... permesso ..."
+    },
+    {
+      "sequence_id": 19,
+      "text": "x-234"
+    },
+    {
+      "sequence_id": 20,
+      "text": "Hosted for free on livelingua.com"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

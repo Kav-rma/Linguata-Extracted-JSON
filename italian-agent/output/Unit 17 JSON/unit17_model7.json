@@ -1,0 +1,86 @@
+{
+  "title": "unit17_model7",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Stasera alle 8.00, andrebbe bene?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va bene, a stasera alle 8.00, allora.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Martedì mattina alle 11.00, andrebbe bene?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va bene, a martedì mattina alle\n11.00, allora.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Dopodomani alle 12.00, andrebbe bene?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va bene, a dopodomani alle 12.00,\nallora.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Sabato pomeriggio alle 3.00, andrebbe bene?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va bene, a sabato pomeriggio alle\n3.00, allora.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Lunedì pomeriggio alle 2.00, andrebbe bene?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va bene, a lunedì pomeriggio alle\n2.00, allora.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Domani sera alle 9.00, andrebbe bene?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va bene, a domani sera alle 9.00,\nallora.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 4]",
+    "page_end": "[PAGE 5]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/7 Q: Domani pomeriggio alle 4.00, andrebbe bene?\nA: Va bene, a domani pomeriggio alle 4.00, allora."
+  }
+}

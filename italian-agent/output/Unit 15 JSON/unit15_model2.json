@@ -1,0 +1,98 @@
+{
+  "title": "unit15_model2",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Non è bello lucidare le scarpe adesso.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È vero, ma io le lucido ugualmente.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Non è bello dimenticare sempre.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È vero, ma io dimentico ugualmente.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Non è bello ordinare adesso.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È vero, ma io ordino ugualmente.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Non è bello accomodarsi adesso.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È vero, ma io mi accomodo ugualmente.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Non è bello preoccuparsi sempre.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È vero, ma io mi preoccupo ugualmente.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Non è bello desiderare molte cose.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È vero, ma io desidero molte cose ugualmente.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Non è bello arrivare in ritardo.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È vero, ma io arrivo in ritardo ugual­mente.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 2]",
+    "page_end": "[PAGE 2]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/2 Q: Non è bello ordinare adesso.\nA: È vero, ma io ordino ugualmente."
+  }
+}

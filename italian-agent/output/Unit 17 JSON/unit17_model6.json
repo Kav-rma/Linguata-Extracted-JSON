@@ -1,0 +1,86 @@
+{
+  "title": "unit17_model6",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Vuole sapere in che Stato è\ne in che città si trova?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vorrei sapere in che Stato è e in che\ncittà si trova.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Vuole sapere in che città è\ne in che piazza si trova?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vorrei sapere in che città è e in che\npiazza si trova.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Vuole sapere in che palazzo è\ne in che via si trova?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vorrei sapere in che palazzo è e in che\nvia si trova.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Vuole sapere in che ufficio è\ne a che pi~no si trova?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vorrei sapere in che ufficio è e a che\npiano si trova.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Vuole sapere in che regione è\ne in che provincia si trova?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vorrei sapere in che regione è e in che\nprovincia si trova.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Vuole sapere in che edificio è\ne in che ufficio si trova?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, vorrei sapere in che edificio è e in che\nufficio si trova.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 4]",
+    "page_end": "[PAGE 4]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/6 Q: Vuole sapere in che via è e a che piano si trova?\nA: Sì, vorrei sapere in che via è e a che piano si trova."
+  }
+}

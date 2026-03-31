@@ -1,0 +1,74 @@
+{
+  "title": "unit2_model1",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Scusi, lei è americano/a?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, sono americano/a., No, non sono americano/a.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Scusi, lei è dell'Ambasciata?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, sono dell'Ambasciata., No, non sono dell'Ambasciata.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Scusi, lei è italiano/a?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, sono italiano/a., No, non sono italiano/a.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Scusi, Lei è la signor(in)a (fast name)?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, sono io., No, non sono la signor(in)a (last name).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Scusi, lei è il signor (fast name)?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, sono io., No, non sono il signor (fast name).",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "13",
+    "page_end": "13",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/1 Q: Scusi, Lei è americano/a?\n(affirmative) A: Sì, sono americano/a.\n(negative) A: No, non sono americano/a."
+  }
+}

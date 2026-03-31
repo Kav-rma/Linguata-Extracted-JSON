@@ -1,0 +1,310 @@
+{
+  "title": "unit14_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Umbria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Perugia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Terni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Assisi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Orvieto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which mountain range is listed for Umbria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Appennini",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Alpi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dolomiti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Monti Sibillini only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which river is named as one of Umbria's rivers?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tevere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Po",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adige",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which lake is mentioned for Umbria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Trasimeno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Garda",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Maggiore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Como",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which region borders Umbria to the north-east?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Marche",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Toscana",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lazio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Abruzzo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which city code corresponds to Perugia?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "PG",
+          "is_correct": true
+        },
+        {
+          "answer_text": "TR",
+          "is_correct": false
+        },
+        {
+          "answer_text": "PE",
+          "is_correct": false
+        },
+        {
+          "answer_text": "PR",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which agricultural product is listed for Umbria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Olive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Citrus fruit",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which industry is mentioned for Umbria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Metallurgical",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Shipbuilding",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Textile",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Aerospace",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "In which city is the Basilica di Santa Maria degli Angeli mentioned?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Assisi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Gubbio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Orvieto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Terni",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What unusual feature do the roses at the Basilica cloister have?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They have no thorns",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They bloom only at night",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are blue",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They grow underwater",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "UMBRIA"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord-Est: Marche | Nord-Ovest: Toscana | Sud: Lazio"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Appennini (Monte Vettòre, 2478 metri; Monte Subasio, 1200 metri)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Tevere, Nera"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Laghi: Trasimeno"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluogo della regione: Perugia"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Capoluoghi di provincia: Perugia, Terni"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Sigle automobilistiche: PG = Perugia | TR = Terni"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Prodotti agricoli: olive, vini, cereali, tabacco"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Industrie: siderurgiche, metallurgiche, dolciarie, chimiche"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Curiosità: Ad Assisi (Perugia): nel chiostro della Basilica di Santa Maria degli Angeli, crescono cespugli di rose senza spine"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Assisi"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Gubbio"
+    },
+    {
+      "sequence_id": 14,
+      "text": "Orvieto"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "unit5_speaking2",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "CLERK: Buongiorno, signor(in)a/signore, in che posso esserle utile?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "CLERK: Good morning, ma'am/sir, how may I help you?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "GUEST: Vorrei una camera doppia con bagno."
+    },
+    {
+      "sequence_id": 4,
+      "text": "GUEST: I would like a double room with bath."
+    },
+    {
+      "sequence_id": 5,
+      "text": "CLERK: Ha una prenotazione?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "CLERK: Do you have a reservation?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "GUEST: Purtroppo no. Mi può aiutare?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "GUEST: Unfortunately, no. Can you help me?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "CLERK: Mi dispiace, ho soltanto una singola con bagno. Le va bene?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "CLERK: I'm sorry, I only have a single room with bath. Is that all right with you?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "GUEST: Va bene. Rimango solo un giorno."
+    },
+    {
+      "sequence_id": 12,
+      "text": "GUEST: That's OK. I'm only staying a day."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 2,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

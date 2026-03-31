@@ -1,0 +1,258 @@
+{
+  "title": "unit6_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What can the capitalized Italian pronoun 'Le' mean in this lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To you (singular indirect object)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Them (masculine plural direct object)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The feminine singular article",
+          "is_correct": false
+        },
+        {
+          "answer_text": "We",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How can the present tense be used in a question like 'Dove le metto?'",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To express 'shall ... ?'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To express a past action",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To express a condition",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To express a command to many people",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What ending do regular singular request forms of verbs in -are take?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "-i",
+          "is_correct": true
+        },
+        {
+          "answer_text": "-a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "-o",
+          "is_correct": false
+        },
+        {
+          "answer_text": "-e",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What ending do regular singular request forms of verbs in -ere or -ire take?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "-a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "-i",
+          "is_correct": false
+        },
+        {
+          "answer_text": "-o",
+          "is_correct": false
+        },
+        {
+          "answer_text": "-e",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which verb can express need in the sense of 'to be needed'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "occorrere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "volere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mettere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sapere",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which expression is another way to say 'to need' in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "avere bisogno di",
+          "is_correct": true
+        },
+        {
+          "answer_text": "fare bisogno da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "essere bisogno di",
+          "is_correct": false
+        },
+        {
+          "answer_text": "avere voglia a",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "When a past verb phrase uses a form of essere, what must the second verb form do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Agree in gender and number with the subject",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Stay unchanged in every context",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Agree only with the object",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Change only for tense, not gender",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What is 'benissimo' in relation to 'bene'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Its superlative",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Its plural form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Its feminine form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Its past participle",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What idea is commonly expressed by a form of 'fare' plus an infinitive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Having something done or having someone do something",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Describing future plans only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Expressing doubt",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Giving negative commands",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Where does 'anche' normally appear in relation to the word(s) it refers to?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Before the word or words it refers to",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Always at the end of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only after the verb",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only before nouns in the plural",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. There are three kinds of le used in this dialog. One is the feminine plural \narticle, as in le valigie on fine 1. Another is the direct object for \"them\" \nreferring to something feminine p/ura/like valigie. This is the le used on fine \n2. The other le is usually capitalized and stands for the singular indirect \nobject, Irto you.\" This is the Le used on lines 3, 8, and 10. 80th the second le \nand the third le are unstressed e/ements that a/wavs occur with verbs. \n2. The present tense may be used in a question to express the idea of \"shall ... ?\" \nThus: Dove le metto? \"Where shalll put them?\" \n3. Metta on fine 2 is a singular request form of the verb mettere. 50 far you \nhave had four such request forms (passi, scusi, venga, and metta). Regular \nsingular request forms of verbs with infinitives in -are end in -i (passi, scusi). \nRegular singu/ar request forms of verbs with infinitives in -ere or-ire end in \n-a (metta, venga). \n4. A common way of expressing need is with the verb occorrere Irto be \nneeded. \" \nThus: Le occorre altro? Do you need anything else? (lit., Is \nanything else needed by you?) \nAnother way is with the expression avere bisogno di. \nThus: Ha bisogno d'altro? Do you need anything else? (lit., \nDo you have need of anything \nelse?) \n5. In an affirmative question, the following expressions are interchangeable: \naltro \nnient'altro \nqualcos'altro } something else, anything else \nVI-129 \nHosted for free on livelingua.com\n\n6. You have had a few examples now of the two-word verb phrase that is used \nfor the past idea expressed in English by \"have (verb) -ed, Il or a one-word \npast like \"arrived. Il \nlesson V -ha prenotato \nlesson VI -sono arrivatola \nThis phrase consists of: (from the verb prenotare \"to reserve\") \n(from the verb arrivare \"to arrive Il) \na form of avere or essere + a seeond verb form (usual/y ending in \n-to or-so) \nMost verb phrases of this kind use a form of avere. Those that use a form of \nessere wil/ be pointed out as they oeeur. \nWhen a form of essere is used, the seeond verb form agrees in gender and \nnumber with the subject of the verbo Thus: \nSono arrivata. (for a female) \nSono arrivato. (fora male) Siamo arrivate. (far fema/es) \nSiamo arrivati. (for ma/es or a \nmixed group) \nHere are the second verb forms far some of the infinitives that have \nappeared so far. \n(infinitive) \nandato andare \ndato dare \nmandato mandare \ndichiarato dichiarare \navuto avere \ncreduto credere \npotuto potere \nmesso (irregu/ar) mettere \nvenuto (irregular) venire \nVI-130 \nHosted for free on livelingua.com\n\n7. Benissimo is the superlative of bene. The suffix -issimo may be used with \nother words, Iike: buono \"good\" (referring to a noun); buonissimo \"very \ngood. \" \n8. The eonstrudion consisting of a form of fare + infinitive is a eommon one, \nused to express the idea of \"having something done\" or \"having someone \ndo something.\" Thus: Vorrei far stirare tre vestiti e far lucidare un paio di \nscarpe. \nNote: The loss of the final-e of eertain words (like fare above) is a eommon \noeeurrenee in frequent/y heard constructions. \n9. The word anche normal/y preeedes the word(s) to whieh it refers. \nThus: \nVorrei degli attaccapanni. \nVorrei anche un'altra coperta. \nLei vuole un'altra coperta. \nAnch'io vorrei un'altra coperta. / would like some hangers. \n/'d like another b/anket, too. \nShe wants another blanket. \n['d like another b/anket, too. \n10. Nell' is a contraction of in + l'. Other such eontractions will be noted as they \noeeur. [See appendix Al \nIl. The word for paio \"pair\" is masculine only in the singu/ar. The p/ura/ form is \nfeminine: le paia \"pairs.\" \n12. The idea of IIsome Il before a noun is expressed as follows: \nsing. masculine \ndel/dell'ID/ dello@ \ndei/degli ID @ \n(!) before a vowel \n® before z or before s + consonant \nVI-131 feminine \ndella/dell' ID \ndelle\n\nThus: \ndel vino wine \ndell' olio oi! \ndello zucchero sugar \ndei dollari \ndegli attaccapanni \ndegli studenti \nAdditional Vocabulary \nasciugamano Cm.) \ncarta Cf.) igienica \ncuscino Cm.) \nfunziona \nguanciale Cm.) \nlampada Cf.) \nlampadina Cf.) \nsapone Cm.) \nsaponetta Cf.) \ntelevisione (f.) \ntelevisore (m.) \nVI -132 della carta paper \ndell'acqua water \ndelle lire \ntowel \ntoi/et paper \npillow, cushion \nit works \np ilio w \nlamp \nlight bulb \nsoap \nbar of soap (toi/et soap) \ntelevision \nT. V. set \nHosted for free on livelingua.com"
+    }
+  ],
+  "metadata": {
+    "page_start": "[PAGE 1]",
+    "page_end": "[PAGE 4]",
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

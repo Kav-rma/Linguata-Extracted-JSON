@@ -1,0 +1,294 @@
+{
+  "title": "unit9_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Abruzzo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "L'Aquila",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pescara",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chieti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Teramo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which sea borders Abruzzo to the east?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mare Adriatico",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mar Tirreno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ionio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ligure",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which mountain range is listed for Abruzzo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Appennini",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Alpi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dolomiti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Monti Sibillini",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is the highest mountain named in Abruzzo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Gran Sasso d'Italia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Monte Bianco",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Monte Cimone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Etna",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which of these is a province capital of Abruzzo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Pescara",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Perugia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ancona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Campobasso",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is the car code for Teramo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "TE",
+          "is_correct": true
+        },
+        {
+          "answer_text": "TR",
+          "is_correct": false
+        },
+        {
+          "answer_text": "TM",
+          "is_correct": false
+        },
+        {
+          "answer_text": "TA",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which agricultural product is listed for Abruzzo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Zafferano",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Riso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Cacao",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Caffè",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which craft is mentioned for Abruzzo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ceramiche",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vetro di Murano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Merletto veneziano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mosaici bizantini",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "In which month is the traditional food festival in Villa Santa Maria held?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "October",
+          "is_correct": true
+        },
+        {
+          "answer_text": "June",
+          "is_correct": false
+        },
+        {
+          "answer_text": "August",
+          "is_correct": false
+        },
+        {
+          "answer_text": "December",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which region borders Abruzzo to the north?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Marche",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Lazio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Molise",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Umbria",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "ABRUZZO"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Marche | Sud: Lazio, Molise | Est: Mare Adriatico | Ovest: Lazio"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Appennini (Gran Sasso d'Italia, 2914 metri)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Aterno-Pescara, Sangro, Trigno"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Capoluogo della regione: L'Aquila"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluoghi di provincia: Chieti, L'Aquila, Pescara, Teramo"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sigle automobilistiche: AQ = L'Aquila | CH = Chieti | PE = Pescara | TE = Teramo"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Prodotti agricoli: grano, patate, ortaggi, zafferano, tabacco, olive, frutta"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Artigianato: ferro battuto, ceramiche"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Curiosità: A Villa Santa Maria (Chieti): in ottobre, tradizionale sagra gastronomica"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

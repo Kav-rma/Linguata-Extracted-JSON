@@ -1,0 +1,258 @@
+{
+  "title": "unit3_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which Italian tense can be used to express an immediate future idea?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The present tense",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The imperfect tense",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The passato prossimo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The future perfect",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What kind of form is 'vorrei'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A present conditional form of volere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A present indicative form of volere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An imperative form of volere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A past participle of volere",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In Italian, where does 'mi' usually appear in relation to the verb?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Before the verb form",
+          "is_correct": true
+        },
+        {
+          "answer_text": "After the verb form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the end of the sentence only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Between the subject and noun only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is the usual plural ending for most Italian nouns mentioned in the note?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Unstressed -i",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Unstressed -a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Unstressed -o",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Unstressed -u",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is the plural of a feminine singular noun ending in unstressed '-a'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It ends in unstressed -e",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It ends in unstressed -i",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It stays unchanged",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It ends in unstressed -o",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which masculine singular definite article is used before z or s + consonant?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "il",
+          "is_correct": false
+        },
+        {
+          "answer_text": "l'",
+          "is_correct": false
+        },
+        {
+          "answer_text": "i",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the combined form of 'a' + 'il'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "al",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ai",
+          "is_correct": false
+        },
+        {
+          "answer_text": "alla",
+          "is_correct": false
+        },
+        {
+          "answer_text": "agli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "How many forms do many Italian adjectives usually have according to the note?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Either four forms or two forms",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only one form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Exactly three forms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Exactly five forms",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What happens to 'mille' in multiples?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It becomes 'mila' and is usually written as one word with its multiple",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It becomes 'millea' and is written separately",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It stays unchanged in all cases",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It becomes 'milli' and takes an article",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "How does Italian write decimal points and thousands separators compared with English?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Italian uses commas for decimals and periods for thousands",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Italian uses periods for decimals and commas for thousands",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Italian uses spaces for decimals and commas for thousands",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Italian uses colons for decimals and periods for thousands",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. The present tense may be used to express an immediate future idea. \nExample: Cambio cento dollari. \"1'11 change $100.\" \n2. Vorrei is a special \"/\" form of volere. It is not a present indicative form but \nrather a form of the present conditional. [See Appendix A] \n3. This dialog gives you two other infinitive constructions: \na form ofvolere + infinitive (vorrei cambiare) \na form of potere + infinitive (possiamo andare) \n4. Note the position of mi before dia. With some exceptions, mi precedes verb \nforms. \n5. As a ru/e, plura/s of nouns end in unstressed -i except for feminine singular \nnouns that have a singu/ar form ending in unstressed -a. The latter end in \nunstressed -e in the plural. \nThus: dollaro (sg.) dollari (p/.); lira (sg.) lire (pl.). \n6. The word for IIthe Il definite artide has various forms. Theyare: \nmasculine feminine \nsg. pIo sg. pia \nl' gli (before vowe/s) l' le (before \nvowe/s) \nlo gli (before z or before s la le (else wh ere) \n+ consonant) \ni I i (elsewhere) \n\nExamples: \nl'aeroporto gli aeroporti l'ambasciata le ambasciate \nlo scontrino gli scontrini la dogana le dogane \nlo zero gli zeri \nil dollaro i dollari \n7. The word a combines with the definite article as follows: \nmascu/ine feminine \nal (cambio) alla (dogana) \nallo (scontrino) \nall' (aeroporto) all' (ambasciata) \nai (dollari) alle (ambasciate) \nagli (aeroporti) \n8. Words used to describe or qualify have forms that change according to their \nreferent. They usual/y have either four forms: -o (m. sg.), -a (f. sg.), -; (m.pl.), \n-e (f.pl.) or two forms -e (5g.), -i (pl.). Such words are cal/ed adjectives. \nAn example of the former is quanto*: quanto, quanta, quanti, quante. \nAn example of the latter i5 quale: quale, quali. \n*Note the contraction ofquanto + è to quant'è, e.g.: Quant'è il cambio? \n\nNote: Beginning with the next lesson, adjectives will be listed under their \nsingular form followed by a number indicating the number of forms. \n9. Cento and mille are never preceded by the word for \"0 n e_ \" Thus: \ncento dollari one hundred dollars \nmille lire one thousand lire \n10. Although the word mille remains invariable in: \nmille dollari \nmille lire \nin multiples it appears as mila and is usual/y written as one word with its \nmultiple. Thus: \ncentomila lire \nIl. Multiples of cento go as far as 9 (novecento). Ten hundred, eleven hundred, \netc., are expressed by mille, millecento, etc. \n12. Italian uses commas for English decimai points, and periods to mark off \nthousands, millions, etc. Thus: \nIta Iia n \n4,6 \n1.000.000 = \n= \n111-64 English \n4.6 \n1,000,000"
+    }
+  ],
+  "metadata": {
+    "page_start": "[PAGE 1]",
+    "page_end": "[PAGE 3]",
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

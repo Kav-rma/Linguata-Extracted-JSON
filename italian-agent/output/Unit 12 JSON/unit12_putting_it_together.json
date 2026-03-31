@@ -1,0 +1,374 @@
+{
+  "title": "unit12_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How is the office described?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is a little small but has a beautiful view.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is large and dark.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is old but comfortable.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is expensive and noisy.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What is said about the children in line 8?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They are small.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They are tired.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are loud.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are hungry.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In which city might the children attend school?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Rome",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Milan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Florence",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Naples",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How many little girls does one possible response mention?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Two",
+          "is_correct": true
+        },
+        {
+          "answer_text": "One",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Four",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What family combination is given in one response about three children?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Two boys and one girl",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Three girls",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One boy and two girls",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three boys",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which child does not go to school yet in one response?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The youngest little girl",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The oldest boy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The two older children",
+          "is_correct": false
+        },
+        {
+          "answer_text": "All of them",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is one possible answer about attending an Italian school?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "We are thinking about it.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They already graduated.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They refuse to study.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They only want private tutors.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why is the French school presented as a possibility?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Many diplomats' children go there and French is useful.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is the cheapest school in town.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is next door to their home.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It only accepts twins.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What was the wife or husband sorry to leave?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Washington or another city",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A school in Rome",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A family farm",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A hotel by the sea",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What had to be left behind in one possible response?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "An interesting job",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A car",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A dog",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A language course",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Variants PUTTING IT TOGETHER"
+    },
+    {
+      "sequence_id": 2,
+      "text": "line 3 -Ecco il Suo ufficio! È un po' piccolo, ma ha una bella vista (view)."
+    },
+    {
+      "sequence_id": 3,
+      "text": "line 8 -Sono piccoli, vero?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "line 10 -Frequenteranno una scuola qui a Roma?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "fine 12 -Alla sua famiglia piace Roma?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 7,
+      "text": "line 8 -Lei ha due bambine, vero?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "-Lei ha tre figli, no?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 10,
+      "text": "-Sì, ho due bambine, molto piccole."
+    },
+    {
+      "sequence_id": 11,
+      "text": "-No, ho due figli."
+    },
+    {
+      "sequence_id": 12,
+      "text": "-Sì, ho tre figli. Due maschi e una femmina."
+    },
+    {
+      "sequence_id": 13,
+      "text": "fine 10 -(following the above) Vanno a scuola?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 15,
+      "text": "-I due più grandi sì, la piccola non ancora."
+    },
+    {
+      "sequence_id": 16,
+      "text": "-I due ragazzi sì, la bambina va all' asilo."
+    },
+    {
+      "sequence_id": 17,
+      "text": "-Soltanto il più grande ci va, il più piccolo ancora no."
+    },
+    {
+      "sequence_id": 18,
+      "text": "line 10 -Frequenteranno una scuola italiana?"
+    },
+    {
+      "sequence_id": 19,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 20,
+      "text": "-Ci stiamo pensando."
+    },
+    {
+      "sequence_id": 21,
+      "text": "-Non abbiamo ancora deciso."
+    },
+    {
+      "sequence_id": 22,
+      "text": "-Forse la scuola francese. Ci vanno molti figli di diplomatici, e il francese è una lingua utile."
+    },
+    {
+      "sequence_id": 23,
+      "text": "line 12 -A Sua moglie/Suo marito è dispiaciuto lasciare Washington (or other city)?"
+    },
+    {
+      "sequence_id": 24,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 25,
+      "text": "-Sì, un po', ha dovuto lasciare un lavoro interessante."
+    },
+    {
+      "sequence_id": 26,
+      "text": "Role Play"
+    },
+    {
+      "sequence_id": 27,
+      "text": "Interpreter Situation"
+    },
+    {
+      "sequence_id": 28,
+      "text": "Lei ha dei bambini?"
+    },
+    {
+      "sequence_id": 29,
+      "text": "Tutti maschi?"
+    },
+    {
+      "sequence_id": 30,
+      "text": "Vanno già a scuola?"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

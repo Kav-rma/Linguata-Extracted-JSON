@@ -1,0 +1,306 @@
+{
+  "title": "unit17_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Campania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Napoli",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Salerno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Caserta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Benevento",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which sea borders Campania to the south?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mar Tirreno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mare Adriatico",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ionio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ligure",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which of these is listed as an island of Campania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Capri",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Elba",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sardegna",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lampedusa",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which river is mentioned in Campania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Volturno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Po",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which mountain is named in the Campania section?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Monte Miletto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Monte Bianco",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Gran Sasso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Etna",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which province capital is listed for Campania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Avellino",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Taranto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Foggia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Matera",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What agricultural product is listed for Campania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Olive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tea",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Cotton",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What craft product is mentioned in Campania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ceramiche di Capodimonte",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Glass of Murano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Leather bags",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Silk scarves",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which place of interest is listed in Campania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Pompei",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Cinque Terre",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Assisi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "San Marino",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is the curiosity mentioned in Naples?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The doll hospital in Via San Biagio dei Librai n° 81",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A medieval tower in the city center",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A Roman circus near the port",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A glass museum on the hill",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "CAMPANIA"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Molise | Sud: Mar Tirreno | Est: Puglia, Basilicata | Ovest: Mare Tirreno, Lazio"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Appennini (Monte Miletto, 2050 metri; Monte Cervialto, 1809 metri; Monte Panormo, 1742 metri; Monte Cerreto, 1316 metri; Monte Somma, 1132 metri); Vesuvio"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Garigliano, Volturno, Sele"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Isole: Ponza, Capri, Ischia, Procida"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluogo della regione: Napoli"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Capoluoghi di provincia: Avellino, Benevento, Caserta, Napoli, Salerno"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Sigle automobilistiche: NA = Napoli | BN = Benevento | CE = Caserta | AV = Avellino | SA = Salerno"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Prodotti agricoli: cereali, ortaggi, vini, olive, castagne, nocciole, fichi, mandorle, canapa"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Artigianato: ceramiche (piastrelle), ceramiche di Capodimonte"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Industrie: alimentari, siderurgiche, canapifici, alberghiere"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Luoghi d'interesse: Pompei, Ercolano, Capri, Ischia, Amalfi"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Curiosità: A Napoli: ospedale delle bambole, in Via San Biagio dei Librai n° 81"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

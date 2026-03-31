@@ -1,0 +1,86 @@
+{
+  "title": "unit11_model9",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Hanno lavorato sempre nella Sezione\nConsolare, loro?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, hanno lavorato tre anni nella\nSezione Politica.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Hanno lavorato sempre qui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, hanno lavorato un anno alla NATO.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Ha lavorato sempre al Dipartimento\ndi Stato, lui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, ha lavorato due anni\nal Dipartimento della Difesa (DoD).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Avete lavorato sempre al Ministero\ndegli Esteri (Foreign Ministry)?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, abbiamo lavorato due anni\nall'ONU (Organizzazione delle Nazioni\nUnite).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Ha lavorato sempre nella Sezione\nPolitica, lui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, ha lavorato un anno nella Sezione\nAmministrativa.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Ha lavorato sempre nella Sezione\nEconomica, lei?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, ho lavorato due anni nella\nSezione Politica.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "[PAGE 6]",
+    "page_end": "[PAGE 6]",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/9 Q: Ha lavorato sempre in questa Sezione?\nA: No, ho lavorato 2 anni nella Sezione Consolare."
+  }
+}

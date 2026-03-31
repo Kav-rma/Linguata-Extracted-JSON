@@ -1,0 +1,258 @@
+{
+  "title": "unit9_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is sometimes heard in place of tassì?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "taxi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "treno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "autobus",
+          "is_correct": false
+        },
+        {
+          "answer_text": "macchina",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does the expression eccoci mean in force?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Look at us",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Here you are",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Please sit down",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does the full expression eccoci arrivati indicate?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The speaker and someone else have reached their destination",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The speaker is leaving alone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Someone is waiting outside",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The trip will start soon",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What kind of verb is accomodarsi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Reflexive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Irregular past",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Modal",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Impersonal",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which pronoun do reflexive verbs use for the Lei form?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "si",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ne",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "How is the word gente treated grammatically?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Feminine singular",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Masculine singular",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Feminine plural",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Masculine plural",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Why does molta appear in c'è molta gente?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Because gente is grammatically feminine singular",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Because gente is masculine plural",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Because c'è requires a feminine adjective",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Because molta refers to a plural noun",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "When does the preposition da occur before an infinitive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "As a connector between the infinitive and a preceding noun or pronoun",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only after verbs of motion",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in negative commands",
+          "is_correct": false
+        },
+        {
+          "answer_text": "As a replacement for di in all cases",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "How does the voi request form usually compare to the present tense voi form?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is identical, except for four irregular verbs",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is always completely different",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It uses the infinitive form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is identical only for reflexive verbs",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which verb is an exception in the voi request form list?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "essere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "parlare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "finire",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ripetere",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. The word taxi is sometimes heard in pIace oftassì. \n2. The expression eccoci has the force of \"/ook at us.\" When the word arrivati \nis added, the entire expression is used to indicate that the person speaking \nand someone else have reached their destination point. \n3. The expression si accomodi is a singular request form of the verb \naccomodarsi rIto have a seat.\" Infinitives ending in -si are referred to as \n\"ref/exive.\" Ref/exive verbs use si for the Lei formo \n4. The word gente is grammatical/y feminine singu/ar. Therefore, the verb it \ngoverns is singu/ar and the feminine form molta appears in c'è molta gente. \ns. The preposition da occurs before an infinitive as a connector between it and \na preceding noun orpronoun. \nThus: \nmolto da fare \nqualcosa da fare \nniente da fare \nun vestito da stirare \ndue cose da comprare a lotto do \nsomething to do \nnothing to do \na su it to press \ntwo things to buy \nA verbal expression like c'è or ci sono may occur before expressions like the \npreceding. \nThus: \nc'è molto da fare there's a lot to do \nci sono due cose da comprare there are two things to buy \nIn the case of a question word like the pronoun quanto, it precedes c'è. \nThus: \nQuanto c'è da aspettare? lit., How much (time) is there \nto wait? \n6. The voi request form, with four exceptions, is identical to the present tense \nvoi formo Thus: \nAspettate! \nRipetete! \nUscite! Wait! \nRepeat! \nGo out! \nThe four irregular verbs that form the exceptions are: \nessere Siate puntuali! Be punctual! \navere Abbiate pazienza! Have patience! \nsapere Sappiate la verità! Know the truth! \nvolere Vogliate bene a tutti!* Love everyone! \n*voler bene a to love (someone)"
+    }
+  ],
+  "metadata": {
+    "page_start": "[PAGE 1]",
+    "page_end": "[PAGE 2]",
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

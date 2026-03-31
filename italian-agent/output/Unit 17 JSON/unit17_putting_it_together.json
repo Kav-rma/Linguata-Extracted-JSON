@@ -1,0 +1,466 @@
+{
+  "title": "unit17_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Who is not available this week?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The owner",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The tenant",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The interpreter",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The neighbor",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Where is the apartment located?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In Piazza San Francesco",
+          "is_correct": true
+        },
+        {
+          "answer_text": "In Via Roma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Near the train station",
+          "is_correct": false
+        },
+        {
+          "answer_text": "On Corso Italia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "On which floor is the apartment?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Third floor",
+          "is_correct": true
+        },
+        {
+          "answer_text": "First floor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Second floor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fifth floor",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is directly below the apartment?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The S.I.P. offices",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A bakery",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A school",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "When should the caller phone again?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tomorrow afternoon around four o'clock",
+          "is_correct": true
+        },
+        {
+          "answer_text": "This evening at eight",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Next Monday morning",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tonight after dinner",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "For how long does one sample response say they want to rent the apartment?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "For two years, maybe three",
+          "is_correct": true
+        },
+        {
+          "answer_text": "For six months",
+          "is_correct": false
+        },
+        {
+          "answer_text": "For one year exactly",
+          "is_correct": false
+        },
+        {
+          "answer_text": "For five years",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How many rooms are there in total?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Six",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Four",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Seven",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Eight",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which room is described as fairly large?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The living room",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The kitchen",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The study",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The bathroom",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What is missing from the apartment?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Appliances",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Bathrooms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bedrooms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Windows",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What new meeting time is suggested because fifteen hundred is too early?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "17:30",
+          "is_correct": true
+        },
+        {
+          "answer_text": "14:00",
+          "is_correct": false
+        },
+        {
+          "answer_text": "16:00",
+          "is_correct": false
+        },
+        {
+          "answer_text": "19:00",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Variants PUTTINGITTOGETHER"
+    },
+    {
+      "sequence_id": 2,
+      "text": "-Adesso la proprietaria non c'è, ma se posso aiutarla ..."
+    },
+    {
+      "sequence_id": 3,
+      "text": "-È in piazza San Francesco, al terzo piano,"
+    },
+    {
+      "sequence_id": 4,
+      "text": "proprio sopra gli uffici della S.I.P."
+    },
+    {
+      "sequence_id": 5,
+      "text": "-Questa settimana non è possibile perché la"
+    },
+    {
+      "sequence_id": 6,
+      "text": "proprietaria non c'è, ma se telefona domani"
+    },
+    {
+      "sequence_id": 7,
+      "text": "pomeriggio verso le quattro potrò dirle quando"
+    },
+    {
+      "sequence_id": 8,
+      "text": "sarà possibile."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 10,
+      "text": "-È per lei l'appartamento?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 12,
+      "text": "-Sì, per me e la mia famiglia."
+    },
+    {
+      "sequence_id": 13,
+      "text": "-(following the aboveJ Per quanto tempo lo"
+    },
+    {
+      "sequence_id": 14,
+      "text": "vuole?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "-(following the above) Per quanti anni vorrebbe"
+    },
+    {
+      "sequence_id": 16,
+      "text": "affitta rl o?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 18,
+      "text": "-Vorrei affittarlo per due anni, forse tre."
+    },
+    {
+      "sequence_id": 19,
+      "text": "-Vorremmo affittarlo per due anni, forse tre."
+    },
+    {
+      "sequence_id": 20,
+      "text": "-Siamo diplomatici americani e siamo qui"
+    },
+    {
+      "sequence_id": 21,
+      "text": "soltanto per tre anni."
+    },
+    {
+      "sequence_id": 22,
+      "text": "-(following the above) lo sono la proprietaria/il"
+    },
+    {
+      "sequence_id": 23,
+      "text": "pr0!dietario. Se vuoi avere più informazioni,"
+    },
+    {
+      "sequence_id": 24,
+      "text": "chie a pure."
+    },
+    {
+      "sequence_id": 25,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 26,
+      "text": "-Vorrei sapere quante stanze ci sono."
+    },
+    {
+      "sequence_id": 27,
+      "text": "-(following the above) In tutto ci sono sei vani"
+    },
+    {
+      "sequence_id": 28,
+      "text": "(rooms). E sono suddivisi così: tre camerecra"
+    },
+    {
+      "sequence_id": 29,
+      "text": "letto, il salone alquanto grande, uno studiolo, la"
+    },
+    {
+      "sequence_id": 30,
+      "text": "cucina, e i servizi naturalmente."
+    },
+    {
+      "sequence_id": 31,
+      "text": "Cioè un bagno completo, e un altro dove al posto della vasca da"
+    },
+    {
+      "sequence_id": 32,
+      "text": "bagno c'è /a doccia, e in quest'ultimo c'è"
+    },
+    {
+      "sequence_id": 33,
+      "text": "l'impianto per la lavatrice."
+    },
+    {
+      "sequence_id": 34,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 35,
+      "text": "-C'è la lavatrice?"
+    },
+    {
+      "sequence_id": 36,
+      "text": "-(following the above) No signor(in)a/signore,"
+    },
+    {
+      "sequence_id": 37,
+      "text": "nell'appartamento non c'è nessun elettrodo­"
+    },
+    {
+      "sequence_id": 38,
+      "text": "mestico."
+    },
+    {
+      "sequence_id": 39,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 40,
+      "text": "-Quando potremmo veder/o?"
+    },
+    {
+      "sequence_id": 41,
+      "text": "-(following the above) Dopodomani pomeriggio"
+    },
+    {
+      "sequence_id": 42,
+      "text": "alle quindici, andrebbe bene?"
+    },
+    {
+      "sequence_id": 43,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 44,
+      "text": "-Veramente alle quindici sono ancora in ufficio,"
+    },
+    {
+      "sequence_id": 45,
+      "text": "potremmo fare per le diciassette e trenta?"
+    },
+    {
+      "sequence_id": 46,
+      "text": "-(following the above) Va bene, signor(jn)a/-"
+    },
+    {
+      "sequence_id": 47,
+      "text": "signore, a dopodomani alle diciassette e trenta,"
+    },
+    {
+      "sequence_id": 48,
+      "text": "e Lei ha detto che si chiama ... ?"
+    },
+    {
+      "sequence_id": 49,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 50,
+      "text": "Role Play"
+    },
+    {
+      "sequence_id": 51,
+      "text": "Interpreter Situation"
+    },
+    {
+      "sequence_id": 52,
+      "text": "1. Pronto? -(last name), sono la signor(jn)a/il signor (last"
+    },
+    {
+      "sequence_id": 53,
+      "text": "name)."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "title": "unit16_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What region is described in this lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Calabria",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Basilicata",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sicilia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Puglia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which region borders Calabria to the north?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Basilicata",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Campania",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Puglia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sicilia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which sea lies to the west of Calabria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mare Tirreno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mare Adriatico",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mare Ligure",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Ionio settentrionale",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is the capital of Calabria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Catanzaro",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Cosenza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Reggio Calabria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Palmi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which mountain area is listed for Calabria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Appennino Calabro",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dolomiti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Alpi Cozie",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Appennino Tosco-Emiliano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which of these rivers is listed for Calabria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Crati",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Brenta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which agricultural product is mentioned for Calabria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bergamotto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Riso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Castagne",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mele",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What type of industry is mentioned for Calabria?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chemical industries",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Textile industries",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Shipbuilding industries",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Steel industries",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which province capital is listed among Calabria's provinces?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Cosenza",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Napoli",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Taranto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Salerno",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "In which town is the chess match between farmers and fishermen mentioned?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Amantea",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Palmi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Catanzaro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Crotone",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "CALABRIA"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Basilicata | Sud: Mare Ionio | Est: Mare Ionio | Ovest: Mare Tirreno"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Appennino Calabro (Monte Pecoraro, 1420 metri; Aspromonte, 1956 metri)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Amato, Mesima, Neto, Crati"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Capoluogo della regione: Catanzaro"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluoghi di provincia: Catanzaro, Cosenza, Reggio Calabria"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sigle automobilistiche: CZ = Catanzaro | RE = Reggio Calabria | CS = Cosenza"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Prodotti agricoli: bergamotto, fichi, vino, olive, arance, limoni"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Industrie: chimiche"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Curiosità: Ad Amantea (Cosenza): partita di scacchi tra contadini e pescatori | Pente Dattilo | Palmi"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

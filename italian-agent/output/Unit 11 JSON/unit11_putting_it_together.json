@@ -1,0 +1,334 @@
+{
+  "title": "unit11_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What city is mentioned in the greeting?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Rome",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Milan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Naples",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Florence",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How long does one speaker say they have worked there?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nine years",
+          "is_correct": true
+        },
+        {
+          "answer_text": "One month",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ten years",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What is the alternative length of employment given in the dialogue?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "One year",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Two years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Five years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Six months",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does one speaker promise to do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Do their best",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Return tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Call the family",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Leave immediately",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Who is introduced from the Consular Section?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Doctor Giacometti",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Signora Linosa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Marisa Catalano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Paola Contini",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Who is introduced from Administration?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Signora Linosa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Doctor Giacometti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tonino",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arianna",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does the visitor say when arriving at the office?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Good morning, I am [first and last name]",
+          "is_correct": true
+        },
+        {
+          "answer_text": "I am here to resign",
+          "is_correct": false
+        },
+        {
+          "answer_text": "I am looking for the train station",
+          "is_correct": false
+        },
+        {
+          "answer_text": "I forgot my documents at home",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Who is Marisa Catalano identified as?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The assistant",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The director",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A family member",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A student",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Why does one speaker say they came to the office today?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They were in the area and came to take a look",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They had an emergency meeting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They needed to collect a package",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They were starting work that day",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does the final speaker offer?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Please have a seat, can I help you?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Please come back next week",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Please sign these papers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Please wait outside",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Buongiorno, signorOn)a/signore .... Ma Lei è il signor la signora la signorina (+ fast name), se non erro, no?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "lo sono Paola Contini."
+    },
+    {
+      "sequence_id": 3,
+      "text": "II piacere è tutto mio."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Bene arrivatola a Roma."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Sì, ci lavoro da nove anni."
+    },
+    {
+      "sequence_id": 6,
+      "text": "No, lavoro qui da un anno."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Farò del mio meglio."
+    },
+    {
+      "sequence_id": 8,
+      "text": "È venuto/a insieme alla Sua famiglia?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Se permette Le presento il dottor Giacometti della Sezione Consolare, e la signora Linosa dell'Amministrazione."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Buongiorno,desidera?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Buongiorno, sono (first + fast name)."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei è la signora Marisa Catalano, immagino!"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Sì, sono io, sono la Sua assistente."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Piacere di conoscerla."
+    },
+    {
+      "sequence_id": 15,
+      "text": "II piacere è tutto mio."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Ho sentito parlare tanto bene di Lei."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei è veramente molto gentile, ma come mai è venuta/o in ufficio oggi?"
+    },
+    {
+      "sequence_id": 18,
+      "text": "Se non sbaglio, avrebbe dovuto cominciare lunedì, no?"
+    },
+    {
+      "sequence_id": 19,
+      "text": "Mi trovavo da queste parti e sono venuto/a a dare un'occhiata."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Ma prego si accomod i, posso esserle utile?"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

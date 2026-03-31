@@ -1,0 +1,510 @@
+{
+  "title": "unit1_at_the_airport",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Buongiorno. ________ , prego.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Passaporto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Carrello",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ambasciata",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bagagli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Ah, Lei ha un passaporto _________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "diplomatico",
+          "is_correct": true
+        },
+        {
+          "answer_text": "americano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "italiano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scaduto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Quanto _________ rimane in ? ------------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "tempo, Italia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "anni, Roma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "giorni, Europa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "spesso, albergo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Due ________ tre _________ , credo.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "o, anni",
+          "is_correct": true
+        },
+        {
+          "answer_text": "e, mesi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "per, giorni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fra, settimane",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Quale ________ il Suo indirizzo --------- ------------ Italia? -----------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sarà, in",
+          "is_correct": true
+        },
+        {
+          "answer_text": "è, a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "diventa, per",
+          "is_correct": false
+        },
+        {
+          "answer_text": "trova, da",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "__________ Americana, ------------ ---------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ambasciata, Roma",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Università, Milano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Stazione, Firenze",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Questura, Napoli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Grazie, _________ pure.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "passi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "entri",
+          "is_correct": false
+        },
+        {
+          "answer_text": "aspetti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vada",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Scusi, dove _________ trovare un _________ ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "posso, carrello",
+          "is_correct": true
+        },
+        {
+          "answer_text": "devo, passaporto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "voglio, biglietto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "riesco, taxi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "___________ , vicino al ________ bagagli.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lì, ritiro",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Qui, controllo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Là, deposito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Subito, nastro",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "________________ . Passaporto, ______________ __",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buongiorno, prego",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arrivederci, grazie",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi, subito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Salve, signora",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Ah, ha diplomatico. tempo rimane Italia?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "un passaporto, Quanto, in",
+          "is_correct": true
+        },
+        {
+          "answer_text": "il visto, Quando, a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "una valigia, Come, da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "un biglietto, Perché, per",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "o anni, credo.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Due, tre",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Uno, due",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tre, quattro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Cinque, sei",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "sarà Suo in ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Quale, indirizzo, Italia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dove, passaporto, Roma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quando, albergo, Europa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Perché, nome, aeroporto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Ambasciata I Roma.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Americana, a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Italiana, di",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Francese, in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Europea, per",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": ", passi",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Grazie, pure",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Prego, avanti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi, lì",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bene, dentro",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": ", dove posso carrello?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Scusi, trovare un",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pronto, comprare il",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Senta, lasciare il",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Buono, vedere un",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Lì, ritiro",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "vicino al, bagagli",
+          "is_correct": true
+        },
+        {
+          "answer_text": "davanti al, gate",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dietro il, controllo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "accanto al, taxi",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "AT THE AIRPORT I"
+    },
+    {
+      "sequence_id": 2,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 3,
+      "text": "You have just arrived at the airport, where you are going through the formalities of passport checkout."
+    },
+    {
+      "sequence_id": 4,
+      "text": "HEARINGIT"
+    },
+    {
+      "sequence_id": 5,
+      "text": "With books c/osed, listen to the dialogo Try to guess what is going ono"
+    },
+    {
+      "sequence_id": 6,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Look at the dia/og silent/y while listening to the tape."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Agente: 1. Buongiorno. Passaporto, prego."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lei: 2. Eccolo."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Agente: 3. Ah, lei ha un passaporto diplomatico. Quanto tempo rimane in Italia?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lei: 4. Due o tre anni, credo."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Agente: 5. Quale sarà il Suo indirizzo in Italia?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Lei: 6. Ambasciata Americana, Roma."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Agente: 7. Grazie, passi pure."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Lei: 8. Scusi, dove posso trovare un carrello?"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Passante: 9. Lì, vicino al ritiro bagagli."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 10. Grazie."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Fili in the Blanks 1"
+    },
+    {
+      "sequence_id": 19,
+      "text": "Listen to the dia/og once more and fili in the blanks with the missing words."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Check your words by /ooking at the printed dialogo"
+    },
+    {
+      "sequence_id": 21,
+      "text": "iill in thg Blanks l"
+    },
+    {
+      "sequence_id": 22,
+      "text": "Listen to the dia/og again and continue as in # 1."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

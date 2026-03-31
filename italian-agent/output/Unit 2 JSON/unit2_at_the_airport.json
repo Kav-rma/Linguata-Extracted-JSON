@@ -1,0 +1,686 @@
+{
+  "title": "unit2_at_the_airport",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Scusi, ________ è la signorina( + last name)?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lei",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Io",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lui",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Noi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Sì, ________ io.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sono",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sei",
+          "is_correct": false
+        },
+        {
+          "answer_text": "è",
+          "is_correct": false
+        },
+        {
+          "answer_text": "siamo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Buongiorno, __________ Luigi Borghi _______ _ Ambasciata.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sono, dell'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "hai, della",
+          "is_correct": false
+        },
+        {
+          "answer_text": "siamo, all'",
+          "is_correct": false
+        },
+        {
+          "answer_text": "è, nell'",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Ben -----------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "arrivato/a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "partito/a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "gentile",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pronto/a",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Se dà scontrini ---------- ---------- ----------- ritiro __________ bagagli.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "mi, gli, Le, i Suoi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ti, li, vi, i loro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ci, le, mi, i nostri",
+          "is_correct": false
+        },
+        {
+          "answer_text": "si, ne, gli, le Sue",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Gli _________ ? .. Ah _________ \" eccoli ____________ -', grazie, ________ gentile!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "scontrini, sì, qui, molto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "biglietti, no, là, poco",
+          "is_correct": false
+        },
+        {
+          "answer_text": "passaporti, forse, dentro, tanto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "documenti, certo, sopra, troppo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Ecco ________ valigie, signor (last name)/signor(in)a.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "le Sue",
+          "is_correct": true
+        },
+        {
+          "answer_text": "i Suoi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "la Sua",
+          "is_correct": false
+        },
+        {
+          "answer_text": "il Suo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "_________ da ________ parte, alla",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Venga, questa, andiamo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vado, quella, arriviamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Passi, ogni, torniamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vieni, mia, restiamo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Quali __________ le Sue ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sono valigie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "hanno dogane",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fanno borse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "danno cose",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Sono tre. ---------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "queste",
+          "is_correct": true
+        },
+        {
+          "answer_text": "quelli",
+          "is_correct": false
+        },
+        {
+          "answer_text": "loro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "qui",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Ha da ? ----------- ------------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "qualcosa, dichiarare",
+          "is_correct": true
+        },
+        {
+          "answer_text": "niente, mangiare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "molto, aspettare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "subito, partire",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "No, ho da ----------- --------------- ----------------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "non, niente, dichiarare",
+          "is_correct": true
+        },
+        {
+          "answer_text": "mai, tutto, comprare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "più, qualcosa, vedere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "già, molto, portare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Allora, ______________ pure'",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "passi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "venga",
+          "is_correct": false
+        },
+        {
+          "answer_text": "aspetti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "entri",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "____________ ~, Lei _______________ la signorina (+ last name)?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Scusi, è",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Grazie, ha",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prego, sono",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pronto, fa",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "___________ , sono ____________ _",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, io",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, lui",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Forse, lei",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie, noi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "_____________ ~, sono Luigi Borghi dell' ___________ __",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buongiorno, Ambasciata",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arrivederci, aeroporto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Salve, consolato",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi, biglietto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "arrivatola. -------------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ben",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Molto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Già",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sempre",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "__________ mi _____________ gli _____________ Le scontrini? . . . sì, ----------- -------------- ------------ qui, grazie, molto ___________ _",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Se, dà, ritiro, Ah, eccoli, gentile",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Quando, porto, lascio, No, domani, stanco",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Poi, vedo, chiedo, Forse, laggiù, tardi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mentre, trovo, compro, Bene, subito, piano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "____________ le __________ -\", signor (Jast name)/signor(in)a.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ecco, valigie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Porto, scarpe",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prendo, borse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lascio, chiavi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Venga questa , andiamo dogana.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "da, alla",
+          "is_correct": true
+        },
+        {
+          "answer_text": "con, nella",
+          "is_correct": false
+        },
+        {
+          "answer_text": "per, sopra",
+          "is_correct": false
+        },
+        {
+          "answer_text": "tra, verso",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "sono Sue valigie?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Quali le",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dove i",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quando le",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Perché le",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "queste",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sono tre",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ha due",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sono qui",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vado io",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "qualcosa dichiarare?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ha da",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sei per",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Andiamo a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Viene con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": ", non niente dichiarare.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, ho da",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sì, sono per",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Forse, vado a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bene, passo con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": ", passi",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Allora, pure",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Scusi, piano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dunque, subito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prego, dentro",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "At the airport, you are met byan Embassyemployee who offers to help you with your luggage."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Fin a I/y you go through customs."
+    },
+    {
+      "sequence_id": 4,
+      "text": "HEARINGIT"
+    },
+    {
+      "sequence_id": 5,
+      "text": "With books c1osed, liste n to the dialog. Try to guess what is going ono"
+    },
+    {
+      "sequence_id": 6,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Look at the dialog silently while Iistening ta the tape."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Borghi: 1. Scusi, Lei è la signorina( + last name)?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lei: 2. Sì, sono io."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Borghi: 3. Buongiorno, sono Luigi Borghi dell'Ambasciata. Ben arrivato/a. Se mi dà gli scontrini Le ritiro i bagagli."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lei: 4. Gli scontrini? ... Ah sì, eccoli qui, grazie, molto gentile!"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Borghi: 5. Ecco le valigie, signor {/ast name}/signor{in}a. Venga da questa parte, andiamo alla dogana."
+    },
+    {
+      "sequence_id": 13,
+      "text": "(at customs)"
+    },
+    {
+      "sequence_id": 14,
+      "text": "Guardia: 6. Quali sono le Sue valigie?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Lei: 7. Sono queste tre."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Guardia: 8. Ha qualcosa da dichiarare?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 9. No, non ho niente da dichiarare."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Guardia: 10. Allora, passi pure!"
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

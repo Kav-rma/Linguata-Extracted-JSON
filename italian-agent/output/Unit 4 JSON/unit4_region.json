@@ -1,0 +1,298 @@
+{
+  "title": "unit4_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Lombardy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Milano",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Brescia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bergamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pavia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which country borders Lombardy to the north?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Switzerland",
+          "is_correct": true
+        },
+        {
+          "answer_text": "France",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Austria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Slovenia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which river is listed for Lombardy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Adda",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adige",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which lake is listed for Lombardy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Como",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Trasimeno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bolsena",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bracciano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is one agricultural product of Lombardy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Rice",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Olives",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Oranges",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Almonds",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which industry is mentioned for Lombardy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Textile",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Shipbuilding",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mining",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Paper",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which province capital is listed in Lombardy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sondrio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Perugia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ancona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lucca",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What is the car code for Milano?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "MI",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ML",
+          "is_correct": false
+        },
+        {
+          "answer_text": "MN",
+          "is_correct": false
+        },
+        {
+          "answer_text": "MO",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which mountain is the highest among those listed for Lombardy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bernina, 4052 meters",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ortles, 3899 meters",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Cevedale, 3778 meters",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adamello, 3554 meters",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "In which town does the festival of the \"nasoni\" take place?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Gromo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Milano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Como",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mantova",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LOMBARDIA"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Svizzera | Sud: Emilia-Romagna | Est: Trentino-Alto Adige, Veneto | Ovest: Piemonte"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Alpi Lombarde (Adamello, 3554 metri; Grigna, 2400 metri; Concarena, 2500 metri; Pizzo Coca, 3052 metri; Cevedale, 3778 metri; Ortles, 3899 metri; Bernina, 4052 metri; Presolana, 2450 metri)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Po, Adda, Ticino, Oglio"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Laghi: Maggiore, Como, Garda, Iseo"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluogo della regione: Milano"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Capoluoghi di provincia: Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio, Varese"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Sigle automobilistiche: MI = Milano | BG = Bergamo | BS = Brescia | CO = Como | CR = Cremona | MN = Mantova | PV = Pavia | SO = Sondrio | VA = Varese"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Prodotti agricoli: grano, riso, frutta, vino"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Industrie: alimentari, chimiche, tessili, meccaniche, dolciarie, casearie, farmaceutiche"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Curiosità: A Gromo (Bergamo): il 28 luglio si svolge la sagra dei «nasoni»--un concorso a premi per persone con nasi lunghi o strani"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

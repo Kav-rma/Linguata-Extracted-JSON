@@ -1,0 +1,294 @@
+{
+  "title": "unit6_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which country borders Trentino-Alto Adige to the west?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Austria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Switzerland",
+          "is_correct": true
+        },
+        {
+          "answer_text": "France",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Slovenia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which country borders Trentino-Alto Adige to the north?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Austria",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Switzerland",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Germany",
+          "is_correct": false
+        },
+        {
+          "answer_text": "France",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which regions border Trentino-Alto Adige to the south?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lombardia and Piemonte",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Veneto and Friuli-Venezia Giulia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lombardia and Veneto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Emilia-Romagna and Veneto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What are the capitals of the region?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bolzano and Trento",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Bolzano and Verona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Trento and Verona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bolzano and Brescia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which rivers are listed for Trentino-Alto Adige?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Po and Adige",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adige and Brenta",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Brenta and Piave",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Po and Brenta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which mountain reaches 3342 meters?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Vetta d'Italia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Monte Bianco",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Marmolada",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Gran Sasso",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the automobile code for Bolzano?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "TN",
+          "is_correct": false
+        },
+        {
+          "answer_text": "BZ",
+          "is_correct": true
+        },
+        {
+          "answer_text": "BL",
+          "is_correct": false
+        },
+        {
+          "answer_text": "BO",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which agricultural product is listed for Trentino-Alto Adige?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Olives",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Apples",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Oranges",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which industry is listed for Trentino-Alto Adige?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Shipbuilding",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Textile",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Hotel industry",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Automotive",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is notable about San Antonio in Bolzano?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It has the oldest bridge in Italy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It has the longest funicular in Europe",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It has the largest cathedral in the region",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It has the deepest lake in the Alps",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "TRENTINO-ALTO ADIGE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Austria | Nord-Ovest: Svizzera | Sud: Lombardia, Veneto | Est: Veneto | Ovest: Lombardia"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Marmolada, 3342 metri; Vetta D'Italia, 2911 metri"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Adige, Brenta"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Capoluoghi della regione: Bolzano, Trento"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluoghi di provincia: Bolzano, Trento"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sigle automobilistiche: BZ = Bolzano | TN = Trento"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Prodotti agricoli: mele, prugne, uva, vino, grano, tabacco"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Industrie: alberghiera, elettrochimica, mineraria"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Curiosità: A San Antonio (Bolzano): la più lunga funicolare d'Europa, costruita nel 1902 sotto l'Impero Austro-Ungarico, tuttora funzionante"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

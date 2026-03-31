@@ -1,0 +1,258 @@
+{
+  "title": "unit2_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How are Italian verb families usually referred to?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "By their infinitive or dictionary form",
+          "is_correct": true
+        },
+        {
+          "answer_text": "By their past participle form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By their first-person singular form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By their imperative form",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which endings identify the three main classes of Italian infinitives mentioned in the notes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "-are, -ere, and -ire",
+          "is_correct": true
+        },
+        {
+          "answer_text": "-ato, -uto, and -ito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "-o, -a, and -e",
+          "is_correct": false
+        },
+        {
+          "answer_text": "-iamo, -ate, and -ano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which of these is listed as an irregular verb?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "essere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "trovare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scusare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "passare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What kind of forms are Passi, scusi, and venga?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Request forms",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Past tense forms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Plural noun forms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adjective forms",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What does Andiamo express in this lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A request form that includes the speaker, meaning “let's go”",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A formal greeting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A noun meaning “journey”",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A past action completed yesterday",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which construction with an infinitive appears in the dialog?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "qualcosa da + infinitive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "essere di + infinitive",
+          "is_correct": false
+        },
+        {
+          "answer_text": "avere per + infinitive",
+          "is_correct": false
+        },
+        {
+          "answer_text": "stare con + infinitive",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How are nouns classified in the notes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "As masculine or feminine according to certain articles that precede them",
+          "is_correct": true
+        },
+        {
+          "answer_text": "As singular or plural according to verb endings",
+          "is_correct": false
+        },
+        {
+          "answer_text": "As regular or irregular according to pronunciation",
+          "is_correct": false
+        },
+        {
+          "answer_text": "As formal or informal according to context",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which indefinite article is identified as feminine?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "una",
+          "is_correct": true
+        },
+        {
+          "answer_text": "un",
+          "is_correct": false
+        },
+        {
+          "answer_text": "uno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "il",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What happens to una before a vowel?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It appears as un'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It changes to uno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is omitted completely",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It becomes il",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "How is the word ecco described in the notes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A pointing word used either in pointing something out or in handing over something",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A masculine noun ending in -o",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An irregular verb meaning “to arrive”",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A feminine article used before vowels",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. Verb families are usual/y referred to by their infinitive, or dictionary, formo \nOne infinitive, dichiarare, appears in the dialog. Most infinitives end in -are, \n-ere, or -ire, this giving three verb classes or conjugations. [See appendix Al \n\n2. Here are the infinitives of the verbs that have appeared so far, together with \nsome of their present indicative forms. \nI-farm s/he, it, you (sg.J-form they-form \ndichiarare dichiaro dichiara dichiarano \npassare passo passa passano \nritirare ritiro ritira ritirano \nscusare scuso scusa scusano \ntrovare trovo trova trovano \ncredere credo crede credono \nirregular verbs \nandare vado va vanno \navere ho ha hanno \ndare do dà danno \nessere sono è sono \npotere posso può possono \nrimanere rimango rimane rimangono \nstare sto sta stanno \nvenire vengo viene vengono \n3. Passi, scusi, and venga are request forms. They are used to request that \nsomeone do something. Andiamo is a request form that includes the person \nspeaking; hence, the translation \"let's go. Il \n\n4. The dia/og in this /esson gives you one construction in which an infinitive can \noccur. \nqualcosa da + infinitive, e.g., qualcosa da dichiarare \n5. Nouns (words used to name things) are classified as masculine or feminine \naccording to certain articles that precede them. So far you have had the \nindefinite articles un and una. Un words are cal/ed masculine and una words \nare cal/ed feminine. Note that una appears as un' before a vowel. Here are \nthe nouns you have had so far, with their gender classifications. \nmasculine feminine \nanno ambasciata \ncarrello dogana \ngiorno signora \nindirizzo signorina \npassaporto valigia \nsignore \nagente \nNote that the masculine list primari/y contains nouns in -o and the feminine \nlist contains nouns in -a. However, there are feminine nouns that end in -o \nand masculine nouns that end in -a. These must be learned through \nobservation. \nN. B.: Beginning with the next lesson, nouns will be listed undertheirsingu­\nlar form and marked for gender. \n6. The word ecco is a pointing word, used either in pointing something out or \nin handing over something. It may be written with pronominal elements \nattached to it, as in lessons 1 and 2: Eccolo, eccoli."
+    }
+  ],
+  "metadata": {
+    "page_start": "9",
+    "page_end": "11",
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

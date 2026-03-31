@@ -1,0 +1,314 @@
+{
+  "title": "unit11_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Marche?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ancona",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Urbino",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Macerata",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pesaro",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which sea borders Marche to the east?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Adriatic Sea",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tyrrhenian Sea",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ionian Sea",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ligurian Sea",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which region borders Marche to the south?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Abruzzo and Lazio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tuscany and Umbria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Emilia-Romagna and Veneto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Molise and Puglia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What mountain range is listed for Marche?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Appennino Umbro-Marchigiano",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Alpi Apuane",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dolomiti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Appennino Tosco-Emiliano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which of these is a river in Marche?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Esino",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adige",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which city is listed as a provincial capital of Marche?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ascoli Piceno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Perugia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Rimini",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Siena",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does the car code AN stand for?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ancona",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arezzo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Anagni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ascoli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which agricultural product is mentioned for Marche?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Cereals",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Olives",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grapes",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which industry is mentioned for Marche?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Paper mills",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Shipbuilding",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Steelworks",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Oil refining",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is special about the museum in Cupra Marittima?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It has more than 5,000 shells of many sizes",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is dedicated to Roman statues",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It displays only local paintings",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It contains ancient coins from Marche",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "MARCHE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Repubblica di San Marino, Emilia-Romagna | Sud: Abruzzo, Lazio | Est: Mare Adriatico | Ovest: Toscana, Umbria"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Appennino Umbro-Marchigiano"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Metauro, Esino, Tronto"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Capoluogo della regione: Ancona"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluoghi di provincia: Ancona, Ascoli Piceno, Macerata, Pesaro-Urbino"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sigle automobilistiche: AN = Ancona | AP = Ascoli Piceno | MC = Macerata | PS = Pesaro-Urbino"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Urbino"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Loreto"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Prodotti agricoli: cereali, foraggi, alberi da frutta"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Prodotti ittici: ben sviluppata la pesca"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Industrie: setifici, ceramiche, cartiere, calzaturifici"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Curiosità: A Cupra Marittima (Ascoli Piceno): Museo Malacologico con più di 5000 (cinquemila) conchiglie di ogni grandezza--da meno di un millimetro ad un metro"
+    },
+    {
+      "sequence_id": 14,
+      "text": "Fano -(Pesaro)"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Passo del Furio"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

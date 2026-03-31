@@ -1,0 +1,258 @@
+{
+  "title": "unit10_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "When is the preposition 'per' obligatory before an infinitive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When it means 'in order to'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "When it means 'without'",
+          "is_correct": false
+        },
+        {
+          "answer_text": "When it means 'because of'",
+          "is_correct": false
+        },
+        {
+          "answer_text": "When it means 'despite'",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What usually determines whether Italian uses 'in' or 'a' for movement or location?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The word that follows",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The length of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Whether the speaker is formal",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The tense of the verb",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which sentence expresses movement to Rome?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va a Roma.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "È a Roma.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "È in Via Giovanni Pascoli.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lì/qui vicino.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which preposition ends the phrase 'di fronte a'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "di",
+          "is_correct": false
+        },
+        {
+          "answer_text": "in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "da",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What happens when 'qui' or 'lì' is placed before expressions like 'all'angolo di' or 'vicino a'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The final 'di' or 'a' is dropped",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The verb changes to the past tense",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The noun becomes plural",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The phrase becomes a question",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is typical of many present tense io forms of verbs ending in '-ire'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They end in '-isco'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They end in '-iamo'",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They end in '-ano'",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They end in '-ete'",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does 'dal tabaccaio' mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At the tobacco shop",
+          "is_correct": true
+        },
+        {
+          "answer_text": "From the train station",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Near the bus stop",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Inside the school",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What is required when a direct object noun precedes a verb for emphasis?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A corresponding direct object pronoun",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A reflexive pronoun",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A subjunctive verb",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An indirect object pronoun",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does 'il 58' indicate in this lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bus number 58",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Street number 58",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Page 58",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ticket price 58",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "In which situation is 'permesso' commonly used instead of 'scusi'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To make your way past someone",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To ask where a bus stop is",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To buy a ticket",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To describe a location",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. Note the use af per before an infinitive an line 1 af the dialog. It is \nobligatory when the meaning is \"in order to .... \" \n2. The prepositions in and a may be used to indicate either movement to or \nlocation in or at. The choice of in or a usual/y depends on the word that \nfollows. Learning which words take in and which take a must be done \nthrough observation. \nThus: \nÈ in Via Giovanni Pascoli. \nVa in Via Giovanni Pascoli. \nÈ a Roma. \nVa a Roma. \nA.T.M. \n, ~ > LINEE URBANE -UDINE ~ \nCORSA SEMPLICE : ______ a. \nConvalidare il biglietto all'inizio del viaggio e r' \nconservarlo per il controllo _ \nN0 9 O 9 6 O Serie 13 h:·:::::::): \nX-228 (location in) \n(movement to) \n(location in) \n(movement to) \n.. CONV ALIDA • \n- Il \nSERIE 0170118 AI \nQ ACT -TRIESTE \nBIGLIETTO PER \nUNA CORSA SU UNA TRAnA \nDEVE ESSERE CONVAlI~ATO IN VETTURA \nA MEZZO DiLLE APPOSITI OIUTERATlICI \nHosted for free on livelingua.com\n\n3. Some prepositional phrases end in di, as all'angolo di \"at the corner of.\" \nOthers end in a, as di fronte a \"in front of, \" accanto a \"next to, \" and vicino a \n\"near. \" \nThus: \nall'angolo di Via Messina at the corner of Messina Street \ndi fronte alla fermata in frontofthestop \naccanto alla porta next to the door \nvicino al campanello near the beli \nIn ali these cases, the word qui or lì may precede the expression with the \nfinal di or a dropped. This changes it into an adverbial phrase. \nlì/qui all'angolo on the corner (t)here \nlì/qui di fronte in front (t)here \nlì/qui accanto next to (t)here \nlì/qui vicino near (t)here \n4. The verb form capisco, from the verb capire, shows a present tense io form \nending in -isco. This is normal far most verbs with infinitives in -ire. \n5. The preposition da followed by a word indicating a person (e. g., il tabaccaio) \nis used to indicate movement to or location in or at the piace normal/y \nassociated with the person. Thus: dal tabaccaio\" at the tobacco shop. \" \nx-229 \nHosted for free on livelingua.com\n\n6. A direct object noun may precede a verb for emphasis. In such cases a direct \nobject pronoun corresponding to the noun is required with the verbo \nCompare: \nIl biglietto lo prende dal tabaccaio. You get the ticket at the tobacco shop. \n7. Note the use ofil 58 to indicate \"bus number 58. \" \n8. A bus stop may be obbligatoria \"mandatory\" or facoltativa/!. richiesta \n\"optional. Il A bus is expected to stop at ali mandatory stops. However l it \nonly stops at optional stops if a passenger rings the beli or if someone at the \nstop signals it. \n9. Do not confuse scusi with permesso. Two frequent uses of the latter are: 1) \nto edge or to make your way past someone and 2) to ask permission to \nenter. In most other cases scusi is used in situations in which English might \nuse Ilexcuse me. Il \nAdditional Vocabulary \nacquistare \nbottone (m.) \nconducente (m.-f.) \ncontrollore (m.) \ndall'altra parte della strada \ngiornalaio (m.) \nx-230 to bUYI purchase \nbutton \ndriver \nticket inspector \nacross the street \nnewspapervendo~newsboy \nHosted for free on livelingua.com"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

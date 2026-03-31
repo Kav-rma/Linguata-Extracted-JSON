@@ -1,0 +1,258 @@
+{
+  "title": "unit8_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does da indicate in expressions like \"spazzolino da denti\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "That an item is used for a specific purpose",
+          "is_correct": true
+        },
+        {
+          "answer_text": "That an item belongs to someone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "That an item is made of something",
+          "is_correct": false
+        },
+        {
+          "answer_text": "That an item comes from a place",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which direct object pronoun is masculine singular?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "la",
+          "is_correct": false
+        },
+        {
+          "answer_text": "li",
+          "is_correct": false
+        },
+        {
+          "answer_text": "le",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What can \"il posto più vicino\" mean in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Either \"the closer place\" or \"the closest place\"",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only \"the closest place\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only \"the nearby street\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Either \"the farthest place\" or \"the nearest place\"",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How is a formal plural request form usually derived?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "From the present tense loro form by changing -ano to -ino and -ono to -ano",
+          "is_correct": true
+        },
+        {
+          "answer_text": "From the infinitive by adding -ate",
+          "is_correct": false
+        },
+        {
+          "answer_text": "From the io form by adding -no",
+          "is_correct": false
+        },
+        {
+          "answer_text": "From the tu form by changing the final vowel",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is the singular Lei request form compared to the Loro form?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is identical except for the absence of final -no",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It adds -no to the end",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It uses the tu form instead",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is always irregular",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does \"parrucchiere\" commonly designate besides \"hairstylist\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The place associated with a hairdresser",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A barber's tools",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A shampoo product",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A style of haircut",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the plural of \"c'è\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "ci sono",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ce n'è",
+          "is_correct": false
+        },
+        {
+          "answer_text": "c'hanno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ci è",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What happens when the noun in a quantitative expression is omitted?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "ne is required and ci becomes ce",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ci is dropped completely",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The verb must become singular",
+          "is_correct": false
+        },
+        {
+          "answer_text": "da changes to di",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which word is usually used when referring to street names?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "via",
+          "is_correct": true
+        },
+        {
+          "answer_text": "strada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "piazza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "viale",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does the element \"ci\" refer to in the contraction of \"andare + ci\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A previously mentioned place",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A person being addressed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A past action",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A future event",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1, In fflQny expressions like spazzolino da denti, da is used to indicate that the \nItem is used far a speclTlc purpose. ThUS, in rhe roorhbrush example, the \nbrush is used IIforllthe teeth. \n2. Passaporto, prego! \nDove metto le valigie? \nMi dia la chiave, per favore. \nDove posso comprarli.?* \nLearn the following direct object pronouns: Eccolo. \nLe metta qui. \nEccola. \nmascu/ine feminine \nsingu/ar \np/ura/ lo \nli \n* Note the contraction of comprare + j!. la \nle \n3. The comparative expressed in English by II-erll and the superlative expressed \nin English by II-est Il are identical in Italian. Thus, il posto più vicino may be \nused far either IIthe c/oser p/ace Ilor IIthe c/osest piace. Il \n4. The dia/og introduces four more singu/ar request forms: giri, continui, \nprovi, vada. As a ru/e, such forms are easi/y derived from the present tense \nloro form of the verb, as follows: \na) Change the present tense loro form \ntram \ntrom \nexamp/es: \ntram \nfrom -ano \n-ono \nportano \nmettono to \nto \nto \nto \nVIII-177 -ino \n-ano \nportino \nmettano \nirregular are: \nessere \nstare \ndare \navere \nsapere \nfare \nandare ITALIAN FAST \nsiano \nstiano \ndiano \nabbiano \nsappiano \nfacciano \nvadano \nb) The resulting form is a highly formai plural request formo For example, \nScusino, signori. \nVengano domani, per favore. \nAbbiano pazienza! Excuse me, gentlemen. \nCome tomorrow, please. \nHave patience! \nc) The singular Lei request form is identical to the Loro form but for the \nabsence of fina/-no. \nThus: Scusi, signore. \nVenga domani, per favore. \nAbbia pazienza! \n5. The word parrucchiere is the word for IIhairsty/ist.\" It is a/so common/y used \nto designate the p/ace associated with a hairdresser for both men and \nwomen. \n6. Note that the Italian and the corresponding English word order are different \nin: qui vicino \"near h ere. \" Similar/y, lì vicino \"near there. Il \n7. The p/ura/ of c'è is ci sono. \nC'è un parrucchiere qui vicino. \nCi sono due parrucchieri qui vicino. \nIfthe noun referred to in a quantitative expression is omitted, ne is required \nand ci becomes ce. \nCe n'è uno. There is one. \nCe ne sono tanti qui vicino. There are so many near here. \n8. The words via and strada both stand for \"street.\" However, street names \nare usual/y referred to as via. \n9. Note the contraction of andare + ci. The ci is an e/ement used to refer to a \nprevious/y mentioned pIace, in this case, the hairsty/ist's. \n10. The prepositions a (see lesson III), di, in, da, and su combine with the definite \nartic/e as follows: \nil lo l' la i gli le \na al allo all' alla ai agli alle \nda dal dallo dall' dalla dai dagli dalle \nin nel nello nell' nella nei negli nelle \ndi del dello dell' della dei degli delle \nsu sul sullo sull' sulla sui sugli sulle"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

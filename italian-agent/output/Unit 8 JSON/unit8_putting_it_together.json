@@ -1,0 +1,438 @@
+{
+  "title": "unit8_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What place is mentioned as being next to La Rinascente?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A pharmacy or grocery store",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A train station",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A museum",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A school",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What should you do at the first intersection after leaving the hotel in one set of directions?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Turn left",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Turn right",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Go straight for two blocks",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Take a taxi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which bus number is recommended for going to Piazza Santa Chiara?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "12",
+          "is_correct": true
+        },
+        {
+          "answer_text": "5",
+          "is_correct": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct": false
+        },
+        {
+          "answer_text": "20",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Why is walking not recommended to reach the doctor?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is very far and a storm is coming",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The roads are closed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is too expensive",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The doctor is unavailable",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Where is the doctor said to be located?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Piazza Santa Chiara",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Via Trevi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Piazza Fiume",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the hotel",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is said to be in Piazza Fiume?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A pharmacy",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A hospital",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bookstore",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is available in the hotel?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A hairdresser or barber",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A pharmacy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bus stop",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A doctor’s office",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Whom should someone ask directly about making an appointment?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The hairdresser",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The bus driver",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The doctor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The hotel manager",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "After leaving the hotel and walking about one hundred meters in another set of directions, what should you do at the third intersection?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Turn left",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Turn right",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Take the bus",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Stop at the corner café",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "How is the nearby place in Via Trevi described in the interpreter situation?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is very close and can be reached on foot",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It requires a train ride",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is closed today",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is next to Piazza Santa Chiara",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Variants ITALIAN FAST"
+    },
+    {
+      "sequence_id": 2,
+      "text": "PUTTINGITTOGETHER"
+    },
+    {
+      "sequence_id": 3,
+      "text": "line 3 -In drogheria/farmacia."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Une 5 -Uscendo dall'albergo vada a destra."
+    },
+    {
+      "sequence_id": 5,
+      "text": "AI primo"
+    },
+    {
+      "sequence_id": 6,
+      "text": "\" incrocio giri a sinistra."
+    },
+    {
+      "sequence_id": 7,
+      "text": "La drogheria/farmacia è"
+    },
+    {
+      "sequence_id": 8,
+      "text": "subito vicino ai grandi magazzini la Rinascente."
+    },
+    {
+      "sequence_id": 9,
+      "text": "-Prenda \"l'autobus all'angolo, e scenda alla"
+    },
+    {
+      "sequence_id": 10,
+      "text": "seconda fermata."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Troverà una farmacia/"
+    },
+    {
+      "sequence_id": 12,
+      "text": "drogheria proprio lì accanto ai grandi magazzini"
+    },
+    {
+      "sequence_id": 13,
+      "text": "la Rinascente."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Une 7 -Sì."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Uscendo dall'albergo vada a destra per cento"
+    },
+    {
+      "sequence_id": 16,
+      "text": "metri circa."
+    },
+    {
+      "sequence_id": 17,
+      "text": "AI terzo incrocio giri a sinistra."
+    },
+    {
+      "sequence_id": 18,
+      "text": "La"
+    },
+    {
+      "sequence_id": 19,
+      "text": "farmacia/drogheria è proprio lì all'angolo."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Une 9 -Proprio qui vicino non ce ne sono, ma ce n'è uno"
+    },
+    {
+      "sequence_id": 21,
+      "text": "in Piazza Santa Chiara, molto lontano da qui."
+    },
+    {
+      "sequence_id": 22,
+      "text": "Une 11 -lo Le consiglierei di andare lì comunque"
+    },
+    {
+      "sequence_id": 23,
+      "text": "(anyway), è molto bravo."
+    },
+    {
+      "sequence_id": 24,
+      "text": "line 13 -Non può andarci a piedi, perché come Le dicevo"
+    },
+    {
+      "sequence_id": 25,
+      "text": "è molto lontano e tra l'altro sta arrivando un"
+    },
+    {
+      "sequence_id": 26,
+      "text": "temporale."
+    },
+    {
+      "sequence_id": 27,
+      "text": "Le consiglierei di prendere"
+    },
+    {
+      "sequence_id": 28,
+      "text": "l'autobus."
+    },
+    {
+      "sequence_id": 29,
+      "text": "Il 12 la porterà in Piazza Santa"
+    },
+    {
+      "sequence_id": 30,
+      "text": "Chiara."
+    },
+    {
+      "sequence_id": 31,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 32,
+      "text": "Une 3 -Proprio qui vicino non c'è niente."
+    },
+    {
+      "sequence_id": 33,
+      "text": "Però c'è una"
+    },
+    {
+      "sequence_id": 34,
+      "text": "farmacia in Piazza Fiume."
+    },
+    {
+      "sequence_id": 35,
+      "text": "VIII -188"
+    },
+    {
+      "sequence_id": 36,
+      "text": "Hosted for free on livelingua.com"
+    },
+    {
+      "sequence_id": 37,
+      "text": "RolePlay ITALIAN FAST"
+    },
+    {
+      "sequence_id": 38,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 39,
+      "text": "-Dov'è Piazza Fiume?"
+    },
+    {
+      "sequence_id": 40,
+      "text": "line 9 -Ce n'è uno qui in albergo."
+    },
+    {
+      "sequence_id": 41,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 42,
+      "text": "-Ah, bene!"
+    },
+    {
+      "sequence_id": 43,
+      "text": "Devo fissare un appuntamento?"
+    },
+    {
+      "sequence_id": 44,
+      "text": "line Il -(following the above) Non lo so."
+    },
+    {
+      "sequence_id": 45,
+      "text": "Provi a"
+    },
+    {
+      "sequence_id": 46,
+      "text": "chiedere direttamente alla parrucchiera."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 2,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

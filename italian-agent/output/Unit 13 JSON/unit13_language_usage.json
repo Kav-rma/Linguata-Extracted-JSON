@@ -1,0 +1,258 @@
+{
+  "title": "unit13_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "When is uno used instead of un before a masculine singular noun?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Before words beginning with z or s + consonant",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Before all masculine singular nouns",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Before words beginning with a vowel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Before feminine singular nouns",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which Italian phrase means \"Try on this gray jacket, it's very beautiful\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Provi questa giacca grigia, è molto bella.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Per la giacca Le prendo le misure.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "La giacca mi piace.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Si lavora molto qui.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What is the basic force of the verb piacere?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To be liked",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To wear",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To return",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To speak",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does \"La giacca mi piace\" mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I like the jacket",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The jacket fits me",
+          "is_correct": false
+        },
+        {
+          "answer_text": "I buy the jacket",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The jacket is gray",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which particle indicates the specific person who likes something with piacere?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A pronoun such as mi, le, gli, Le, ci, vi, gli",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only the definite article",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A past participle",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An infinitive ending",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does the si in \"i pantaloni si possono accorciare\" indicate?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "An impersonal construction",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A reflexive action only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A future tense form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A possessive form",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How is \"Si parla inglese qui\" translated?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "English is spoken here",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He speaks English here",
+          "is_correct": false
+        },
+        {
+          "answer_text": "You speak English here",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They will speak English here",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why is the verb plural in \"Si parlano tre lingue qui\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Because tre lingue is plural",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Because si always requires a plural verb",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Because qui is plural",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Because parlano is the infinitive",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What is true about tornare and ritornare?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They can be used interchangeably",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They have opposite meanings",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One is only formal and the other only informal",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are used only in the past tense",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "When is the possessive form often avoided in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Especially when an indirect object indicates the possessor",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only with plural nouns",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in written Italian",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Whenever colors are mentioned",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes ITALIAN FAST\n1. Notice the use of uno (rather than un) before spinato. This is norma/ with \nmasculine singu/ar words beginning with -z or with -s p/us consonant. Thus: \nun grigio scuro but uno spinato \n2. By now you have probab/y noticed that Italian punctuation differs from \nEnglish punctuation in severa/ respects. Commas, for examp/e, are not \na/ways used in the same way in the two /anguages. \nCompare: \n\nIta lia n \nProvi questa giacca grigia, \nè molto bella. \nPer la giacca Le prendo le misure. Eng/ish \nTry on this gray jacket. It's \nbeautifu/. \nFor the jacket, l'II take your \nmeasurements. \n3. The verb piacere has the force of Uto be liked. N Some of its forms are \nirregu/ar. Thus: \nI piaccio \nI piace \npiacciamo \npiacete \npiacciono ITALIAN FAST \n\"I am liked. Il Hence, IISomeone likes me. Il \n\"lt/He/She is liked. Il (or) lIyou are Iiked. Il Hence, \nIISomeone likes you. Il \n\"We are liked. Il Hence, IISomeone likes uso Il \nIl You are liked. H Hence, IISomeone likes you. H \nIl They are Iiked. H Hence, IISomeone likes them. Il \nUsual/y this verb is used together with mi, le, gli, Le, ci, vi, gli. The particle \nindicates the specific person who likes something. Thus: \nLa giacca mi piace. (or) Mi piace la giacca. \nllike the jacket. (lit., The jacket is liked by me.) \nI pantaloni mi piacciono. (or) Mi piacciono i pantaloni. \nllike the pants. \nLe piace il completo? (or) Il completo Le piace? \nDo you like the suit? \n4. The si in i pantaloni si possono accorciare indicates an impersonai \nconstruction, as in the following examples: \nSi lavora molto qui. \nOne works a lot here. \nPeople work a lot here. \nSi parla inglese qui. \nOne speaks English here. \nEnglish is spoken here. \nSi parlano tre lingue qui. \nThree languages are spoken here. \n(Notice that the verb is plural because tre lingue is plural. Compare the \ndia/og example.) \n5. Tornare and ritornare (Ilto return Il) can be used interchangeab/y. \n6. The possessive form is often avoided in Italian, especial/y when an indirect \nobject indicates the possessor. Thus: \nLe prendo le misure. \nl'II take your measurements."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
