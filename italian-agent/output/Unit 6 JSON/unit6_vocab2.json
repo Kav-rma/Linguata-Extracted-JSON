@@ -4,7 +4,7 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "asciugamano",
+      "question_text": "asciugamano (m.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -16,7 +16,7 @@
     },
     {
       "sequence_id": 2,
-      "question_text": "carta igienica",
+      "question_text": "carta (f.) igienica",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -28,7 +28,7 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "cuscino",
+      "question_text": "cuscino (m.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -52,7 +52,7 @@
     },
     {
       "sequence_id": 5,
-      "question_text": "guanciale",
+      "question_text": "guanciale (m.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -64,7 +64,7 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "lampada",
+      "question_text": "lampada (f.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -76,7 +76,7 @@
     },
     {
       "sequence_id": 7,
-      "question_text": "lampadina",
+      "question_text": "lampadina (f.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -88,7 +88,7 @@
     },
     {
       "sequence_id": 8,
-      "question_text": "sapone",
+      "question_text": "sapone (m.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -100,7 +100,7 @@
     },
     {
       "sequence_id": 9,
-      "question_text": "saponetta",
+      "question_text": "saponetta (f.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -112,7 +112,7 @@
     },
     {
       "sequence_id": 10,
-      "question_text": "televisione",
+      "question_text": "televisione (f.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -124,7 +124,7 @@
     },
     {
       "sequence_id": 11,
-      "question_text": "televisore",
+      "question_text": "televisore (m.)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -137,8 +137,8 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": 1,
-    "page_end": 1,
+    "page_start": 9,
+    "page_end": 9,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }

@@ -4,96 +4,72 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "C'è una doccia o un bagno?",
+      "question_text": "Ritiriamo il passaporto o i bagagli?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "C'è un bagno.",
+          "answer_text": "Ritiriamo i bagagli.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "C'è un treno o una macchina?",
+      "question_text": "Cambiamo cento o duecento dollari?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "C'è una macchina.",
+          "answer_text": "Cambiamo 200 dollari.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "C'è un beauty case o una valigia?",
+      "question_text": "Arriviamo alle otto o alle nove?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "C'è una valigia.",
+          "answer_text": "Arriviamo alle otto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "C'è una scala (staircase) o un ascensore?",
+      "question_text": "Vediamo il signor Curti o la signora Curti?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "C'è un ascensore.",
+          "answer_text": "Vediamo la signora Curti.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "C'è un documento o un passaporto?",
+      "question_text": "Dichiariamo qualcosa o non dichiariamo niente?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "C'è un passaporto.",
+          "answer_text": "Non dichiariamo niente.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "C'è un'agenzia di viaggi o un ufficio cambi?",
+      "question_text": "Rimaniamo a Roma tre o quattro giorni?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "C'è un ufficio cambi.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 7,
-      "question_text": "C'è una pensione o un albergo?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "C'è un albergo.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 8,
-      "question_text": "C'è un ufficio oggetti smarriti o un ritiro bagagli?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "C'è un ritiro bagagli.",
+          "answer_text": "Rimaniamo tre giorni.",
           "is_correct": true
         }
       ]
@@ -101,10 +77,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 2]",
-    "page_end": "[PAGE 2]",
+    "page_start": 12,
+    "page_end": 12,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode! 1 (b) o: C'è un treno o una macchina?\nA: C'è una macchina."
+    "model_conversation": "Q: Andiamo a casa o in ufficio? A: Andiamo a casa."
   }
 }

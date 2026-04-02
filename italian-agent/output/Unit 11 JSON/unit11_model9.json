@@ -4,12 +4,12 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Hanno lavorato sempre nella Sezione\nConsolare, loro?",
+      "question_text": "Hanno lavorato sempre nella Sezione Consolare, loro?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, hanno lavorato tre anni nella\nSezione Politica.",
+          "answer_text": "No, hanno lavorato tre anni nella Sezione Politica.",
           "is_correct": true
         }
       ]
@@ -28,48 +28,48 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "Ha lavorato sempre al Dipartimento\ndi Stato, lui?",
+      "question_text": "Ha lavorato sempre al Dipartimento di Stato, lui?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, ha lavorato due anni\nal Dipartimento della Difesa (DoD).",
+          "answer_text": "No, ha lavorato due anni al Dipartimento della Difesa (DoD).",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Avete lavorato sempre al Ministero\ndegli Esteri (Foreign Ministry)?",
+      "question_text": "Avete lavorato sempre al Ministero degli Esteri?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, abbiamo lavorato due anni\nall'ONU (Organizzazione delle Nazioni\nUnite).",
+          "answer_text": "No, abbiamo lavorato due anni all'ONU (Organizzazione delle Nazioni Unite).",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Ha lavorato sempre nella Sezione\nPolitica, lui?",
+      "question_text": "Ha lavorato sempre nella Sezione Politica, lui?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, ha lavorato un anno nella Sezione\nAmministrativa.",
+          "answer_text": "No, ha lavorato un anno nella Sezione Amministrativa.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "Ha lavorato sempre nella Sezione\nEconomica, lei?",
+      "question_text": "Ha lavorato sempre nella Sezione Economica, lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, ho lavorato due anni nella\nSezione Politica.",
+          "answer_text": "No, ho lavorato due anni nella Sezione Politica.",
           "is_correct": true
         }
       ]
@@ -77,10 +77,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 6]",
-    "page_end": "[PAGE 6]",
+    "page_start": 19,
+    "page_end": 19,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/9 Q: Ha lavorato sempre in questa Sezione?\nA: No, ho lavorato 2 anni nella Sezione Consolare."
+    "model_conversation": "Q: Ha lavorato sempre in questa Sezione? A: No, ho lavorato 2 anni nella Sezione Consolare."
   }
 }

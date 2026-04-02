@@ -28,7 +28,7 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "Dov' è l'uscita?",
+      "question_text": "Dov'è l'uscita?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -113,10 +113,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 2]",
-    "page_end": "[PAGE 3]",
+    "page_start": 14,
+    "page_end": 15,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Model4\nQ: Dov'è la dogana?\nA: Ecco la dogana."
+    "model_conversation": "Q: Dov'è la dogana? A: Ecco la dogana."
   }
 }

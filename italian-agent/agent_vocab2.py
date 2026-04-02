@@ -1,7 +1,7 @@
 """
 Agent: Vocabulary 2 (additional vocabulary block in TAKING IT APART)
 Type: vocabulary
-Usage: python agent_vocab2.py --pdf "PDF's/unit1_vocab2.pdf" --unit 1
+Usage: python agent_vocab2.py --pdf "PDF's/Unit2/unit2_vocab2.pdf" --unit 2
 """
 
 from agents import Agent
@@ -60,5 +60,5 @@ Return ONLY valid JSON. No markdown, no explanations.
 )
 
 if __name__ == "__main__":
-    args = make_arg_parser("Extract vocab2 vocabulary lesson from Italian unit PDF").parse_args()
+    args = make_arg_parser("Extract vocab2 Additional vocabulary lesson from Italian unit PDF").parse_args()
     run_from_args(agent, args)

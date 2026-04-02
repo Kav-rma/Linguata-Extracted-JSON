@@ -4,108 +4,168 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "camera doppia",
+      "question_text": "consolato",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "double room",
+          "answer_text": "consulate",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "camera singola",
+      "question_text": "destra",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "single room",
+          "answer_text": "right",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "carta d'identità",
+      "question_text": "dogana",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "identity card, I.D.",
+          "answer_text": "customs (area, agency)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "doccia",
+      "question_text": "di fianco",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "shower",
+          "answer_text": "next to",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "direttore",
+      "question_text": "giorno",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "manager",
+          "answer_text": "day",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "fattorino",
+      "question_text": "giorni",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "bellboy",
+          "answer_text": "days",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "patente internazionale",
+      "question_text": "mese",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "international driver's license",
+          "answer_text": "month",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "portiere",
+      "question_text": "mesi",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "doorman, receptionist (male)",
+          "answer_text": "months",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "prenotazione",
+      "question_text": "presso",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "reservation",
+          "answer_text": "in care of",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "nei pressi",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "in the vicinity",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "presso la Santa Sede",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "in care of the Holy See",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "rappresentare",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to represent",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "sinistra",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "left",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "turista",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "tourist",
           "is_correct": true
         }
       ]
@@ -113,8 +173,8 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": 1,
-    "page_end": 1,
+    "page_start": 8,
+    "page_end": 8,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }

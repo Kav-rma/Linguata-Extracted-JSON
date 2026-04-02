@@ -1,0 +1,406 @@
+{
+  "title": "unit10_getting_around",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Scusi, ________, che autobus posso prendere per andare in Via Giovanni Pascoli?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "che",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dove",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quando",
+          "is_correct": false
+        },
+        {
+          "answer_text": "perché",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Deve prendere il ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "58",
+          "is_correct": true
+        },
+        {
+          "answer_text": "28",
+          "is_correct": false
+        },
+        {
+          "answer_text": "68",
+          "is_correct": false
+        },
+        {
+          "answer_text": "85",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "La fermata dell'autobus è qui nella ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "piazza",
+          "is_correct": true
+        },
+        {
+          "answer_text": "stazione",
+          "is_correct": false
+        },
+        {
+          "answer_text": "strada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scuola",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Il biglietto lo prende dal ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "tabaccaio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "giornalaio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cameriere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "farmacista",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Scusi, non capisco. Può parlare più ________, per favore?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "adagio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "forte",
+          "is_correct": false
+        },
+        {
+          "answer_text": "piano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "veloce",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Certamente. Prenda il 58. La fermata dell'autobus è proprio qui di ________, nella piazza.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "fronte",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dietro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lato",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sotto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Ah! Grazie ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "mille",
+          "is_correct": true
+        },
+        {
+          "answer_text": "tante",
+          "is_correct": false
+        },
+        {
+          "answer_text": "molto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "assai",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Un biglietto per l'autobus, per favore. Sono ________ (lire).",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "settecento",
+          "is_correct": true
+        },
+        {
+          "answer_text": "cinquecento",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mille",
+          "is_correct": false
+        },
+        {
+          "answer_text": "duecento",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Scusi, per andare in Via Giovanni Pascoli, dove devo ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "scendere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "salire",
+          "is_correct": false
+        },
+        {
+          "answer_text": "partire",
+          "is_correct": false
+        },
+        {
+          "answer_text": "camminare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Deve scendere all'angolo di Via Messina. È la prossima ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "fermata",
+          "is_correct": true
+        },
+        {
+          "answer_text": "piazza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "via",
+          "is_correct": false
+        },
+        {
+          "answer_text": "porta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Suoni il campanello perché è una fermata a ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "richiesta",
+          "is_correct": true
+        },
+        {
+          "answer_text": "destra",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sinistra",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fronte",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Quale campanello? Dov'________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "è",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ha",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "va",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "È accanto alla porta, a ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "destra",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sinistra",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fronte",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dietro",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Grazie. Permesso ... permesso ... scendo alla ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "prossima",
+          "is_correct": true
+        },
+        {
+          "answer_text": "piazza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "porta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "strada",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "You are supposed to meet a friend in town, and since it would be too far to walk, you decide to take a bus. You stop a passerby ..."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Lei: 1. Scusi, che autobus posso prendere per andare in Via Giovanni Pascoli?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Passante: 2. Deve prendere il 58. La fermata dell'autobus è qui nella piazza. Il biglietto lo prende dal tabaccaio."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Lei: 3. Scusi, non capisco. Può parlare più adagio, per favore?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Passante: 4. Certamente. Prenda il 58. La fermata dell'autobus è proprio qui di fronte, nella piazza."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Lei: 5. Ah! Grazie mille."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Lei: 6. Un biglietto per l'autobus, per favore."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Tabac: 7. Sono settecento (lire). Grazie."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lei: 8. Scusi, per andare in Via Giovanni Pascoli, dove devo scendere?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Signora/e: 9. Deve scendere all'angolo di Via Messina. È la prossima fermata. Suoni il campanello perché è una fermata a richiesta."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lei: 10. Quale campanello? Dov'è?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Signora/e: 11. È accanto alla porta, a destra."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Lei: 12. Grazie. Permesso ... permesso ... scendo alla prossima."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Tabac: Tabaccaio/a"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

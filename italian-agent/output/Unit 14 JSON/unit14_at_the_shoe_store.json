@@ -1,0 +1,390 @@
+{
+  "title": "unit14_at_the_shoe_store",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Buongiorno, signor(in)a/signore, ________ ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "desidera",
+          "is_correct": true
+        },
+        {
+          "answer_text": "cammina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "aspetta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mangia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "________ , ho ________ in ________ un paio di mocassini, c'è la misura 40?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buongiorno, visto, vetrina",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arrivederci, preso, scatola",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi, trovato, strada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie, messo, borsa",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "________ so, signor(in)a/signore, mi faccia vedere il ________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Non, modello",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Già, prezzo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Forse, colore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mai, numero",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Ecco, ________ , sono quei mocassini marrone lì ________ alto, a ________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "vede, in, destra",
+          "is_correct": true
+        },
+        {
+          "answer_text": "senta, su, sinistra",
+          "is_correct": false
+        },
+        {
+          "answer_text": "guardi, da, porta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ascolti, per, vetrina",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "________ , vedo. Si accomodi in negozio, vado a controllare.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Forse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mai",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Signor(in)a/signore, della Sua misura ci sono soltanto in nero. Vuole ________ ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "provarli",
+          "is_correct": true
+        },
+        {
+          "answer_text": "comprarli",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cambiarli",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lasciarli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Sì, li provo. Sono molto comodi, che pelle ________ ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "è",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ha",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vuole",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "È pelle di vitello, sente che morbida? La suola naturalmente è di vero ________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "cuoio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ferro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "plastica",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cotone",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Quanto ________ ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "costano",
+          "is_correct": true
+        },
+        {
+          "answer_text": "valgono",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pesano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "misurano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "95.000 lire, ma c'è lo sconto di fine stagione del ________ %.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "10",
+          "is_correct": true
+        },
+        {
+          "answer_text": "5",
+          "is_correct": false
+        },
+        {
+          "answer_text": "15",
+          "is_correct": false
+        },
+        {
+          "answer_text": "20",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Va bene, li prendo. Mi dia anche un lucido da scarpe di colore neutro, per ________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "piacere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "subito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "favore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "caso",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Bene, signor(in)a/signore. Fa 85.500. Il lucido è un ________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "omaggio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "problema",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ordine",
+          "is_correct": false
+        },
+        {
+          "answer_text": "errore",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Grazie, molto ________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "gentile",
+          "is_correct": true
+        },
+        {
+          "answer_text": "costoso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "veloce",
+          "is_correct": false
+        },
+        {
+          "answer_text": "grande",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Continuing your shopping, you walk by a shoe store."
+    },
+    {
+      "sequence_id": 2,
+      "text": "The store window has on display a large selection of all kinds of shoes and you see one style that really interests you."
+    },
+    {
+      "sequence_id": 3,
+      "text": "You go inside and find out whether they have your size."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Comm.: 1. Buongiorno, signor(in)a/signore, desidera?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Lei: 2. Buongiorno, ho visto in vetrina un paio di mocassini, c'è la misura 40?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Comm.: 3. Non so, signor(in)a/signore, mi faccia vedere il modello."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Lei: 4. Ecco, vede, sono quei mocassini marrone lì in alto, a destra."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Comm.: 5. Sì, vedo. Si accomodi in negozio, vado a controllare."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Comm.: 6. Signor(in)a/signore, della Sua misura ci sono soltanto in nero. Vuole provarli?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 7. Sì, li provo. Sono molto comodi, che pelle è?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Comm.: 8. È pelle di vitello, sente che morbida? La suola naturalmente è di vero cuoio."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei: 9. Quanto costano?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Comm.: 10. 95.000 lire, ma c'è lo sconto di fine stagione del 10%."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: 11. Va bene, li prendo. Mi dia anche un lucido da scarpe di colore neutro, per piacere."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Comm.: 12. Bene, signor(in)a/signore. Fa 85.500. Il lucido è un omaggio."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Lei: 13. Grazie, molto gentile."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

@@ -4,84 +4,60 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Che giorno era ieri?",
+      "question_text": "Che giorno era avantieri?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Ieri era ... (domenica).",
+          "answer_text": "Avantieri era sabato.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Che giorno sarà domani?",
+      "question_text": "Che giorno sarà dopodomani?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Domani sarà ... (martedì).",
+          "answer_text": "Dopodomani sarà mercoledì.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Che giorno era avantieri?",
+      "question_text": "Che giorno sarà fra due giorni?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Avantieri era ... (sabato).",
+          "answer_text": "Fra due giorni sarà mercoledì.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Che giorno sarà dopodomani?",
+      "question_text": "Che giorno sarà fra tre giorni?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Dopodomani sarà ... (mercoledì).",
+          "answer_text": "Fra tre giorni sarà giovedì.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Che giorno sarà fra due giorni?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Fra due giorni sarà ... (mercoledì).",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question_text": "Che giorno sarà fra tre giorni?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Fra tre giorni sarà ... (giovedì).",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 7,
       "question_text": "Che giorno sarà otto giorni oggi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Otto giorni oggi sarà ... (lunedì).",
+          "answer_text": "Otto giorni oggi sarà lunedì.",
           "is_correct": true
         }
       ]
@@ -89,10 +65,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 5]",
-    "page_end": "[PAGE 5]",
+    "page_start": 18,
+    "page_end": 18,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/B O: Che giorno è oggi?"
+    "model_conversation": "Q: Che giorno è oggi? Q: Che giorno era ieri? A: Ieri era domenica. Q: Che giorno sarà domani? A: Domani sarà martedì."
   }
 }

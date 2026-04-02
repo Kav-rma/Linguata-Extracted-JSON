@@ -1,0 +1,162 @@
+{
+  "title": "unit4_reading_for_content",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Mr. Franchi is at the Embassy.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Mr. Franchi is asking for directions.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Mr. Franchi’s watch shows U.S. time.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "It’s 6 P.M. in Italy.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "It’s twelve noon in New York.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Between the Eastern part of the United States and Italy there is a six-hour time difference.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Mr. Franchi is going home.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Mr. Franchi is very tired.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In macchina, il signor Franchi chiede all’impiegato dell'Ambasciata: «Scusi, mi sa dire che ora è?»"
+    },
+    {
+      "sequence_id": 2,
+      "text": "In Italia è mezzogiorno, ma l’orologio del signor Franchi fa le sei del mattino."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Lui ha ancora l’ora americana."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fra l’est degli Stati Uniti e l’Italia c’è una differenza di sei ore."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Il signor Franchi va all’albergo perché è molto stanco."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

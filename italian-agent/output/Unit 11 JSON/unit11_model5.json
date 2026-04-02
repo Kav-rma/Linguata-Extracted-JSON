@@ -9,7 +9,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "lavora all'Ambasciata da 2 mesi.",
+          "answer_text": "Lavora all'Ambasciata da 2 mesi.",
           "is_correct": true
         }
       ]
@@ -52,12 +52,12 @@
     },
     {
       "sequence_id": 5,
-      "question_text": "Da quanto tempo conosce la signorina\nMartorana, lui?",
+      "question_text": "Da quanto tempo conosce la signorina Martorana, lui?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Conosce la signorina Martorana\nda 15 anni.",
+          "answer_text": "Conosce la signorina Martorana da 15 anni.",
           "is_correct": true
         }
       ]
@@ -69,7 +69,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Siamo in questa stanza da 1\nsettimana.",
+          "answer_text": "Siamo in questa stanza da 1 settimana.",
           "is_correct": true
         }
       ]
@@ -77,10 +77,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 4]",
-    "page_end": "[PAGE 4]",
+    "page_start": 17,
+    "page_end": 17,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/5 Q: Da quanto tempo lavora qui Lei?\nA: lavoro qui da 3 anni."
+    "model_conversation": "Q: Da quanto tempo lavora qui Lei? A: Lavoro qui da 3 anni."
   }
 }

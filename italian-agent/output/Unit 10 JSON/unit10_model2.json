@@ -4,7 +4,7 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "È a Roma.",
+      "question_text": "È in Via Messina.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -16,7 +16,7 @@
     },
     {
       "sequence_id": 2,
-      "question_text": "È nella piazza.",
+      "question_text": "È a Roma.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -28,7 +28,7 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "È dal tabaccaio.",
+      "question_text": "È nella piazza.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -40,7 +40,7 @@
     },
     {
       "sequence_id": 4,
-      "question_text": "È lì di fronte.",
+      "question_text": "È dal tabaccaio.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -52,7 +52,7 @@
     },
     {
       "sequence_id": 5,
-      "question_text": "È a Milano.",
+      "question_text": "È lì di fronte.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -64,7 +64,7 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "È dal console.",
+      "question_text": "È a Milano.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -76,7 +76,7 @@
     },
     {
       "sequence_id": 7,
-      "question_text": "È di fronte all'albergo.",
+      "question_text": "È dal console.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -85,14 +85,26 @@
           "is_correct": true
         }
       ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "È di fronte all’albergo.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Dobbiamo andare di fronte all’albergo, allora.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 2]",
-    "page_end": "[PAGE 2]",
+    "page_start": 14,
+    "page_end": 14,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Model2\nStatement: È in Via Giovanni Pascoli.\nResponse: Dobbiamo andare in Via Giovanni Pascoli, allora."
+    "model_conversation": "Statement: È in Via Giovanni Pascoli. Response: Dobbiamo andare in Via Giovanni Pascoli, allora."
   }
 }

@@ -16,7 +16,7 @@
     },
     {
       "sequence_id": 2,
-      "question_text": "E voi?",
+      "question_text": "E noi (io e lui)?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -28,7 +28,7 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "E Paolo?",
+      "question_text": "E voi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -40,7 +40,7 @@
     },
     {
       "sequence_id": 4,
-      "question_text": "E loro?",
+      "question_text": "E Paolo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -52,7 +52,7 @@
     },
     {
       "sequence_id": 5,
-      "question_text": "E Lei?",
+      "question_text": "E loro?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -64,19 +64,19 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "E noi (io e Lei)?",
+      "question_text": "E Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "lo ne ho avute tre.",
+          "answer_text": "Io ne ho avute tre.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "E lui?",
+      "question_text": "E noi (io e Lei)?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -85,14 +85,26 @@
           "is_correct": true
         }
       ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "E lui?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lui ne ha avute due.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 4]",
-    "page_end": "[PAGE 5]",
+    "page_start": 17,
+    "page_end": 18,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/7\no: lo ho avuto due case in vita mia, e Lei?\nA: lo ne ho avute tre. *\n(*stUc:lents may choose any number above one)"
+    "model_conversation": "Q: Io ho avuto due case in vita mia, e Lei? A: Io ne ho avute tre."
   }
 }

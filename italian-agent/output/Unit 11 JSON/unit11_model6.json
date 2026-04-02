@@ -9,7 +9,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche noi saremo ben lietile di aiutarvi.",
+          "answer_text": "Anche noi saremo ben lieti/e di aiutarvi.",
           "is_correct": true
         }
       ]
@@ -21,7 +21,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche Marisa sarà ben lieta di aiutarli.",
+          "answer_text": "Anche Ugo sarà ben lieto di aiutarli.",
           "is_correct": true
         }
       ]
@@ -45,14 +45,14 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche noi saremo ben lietile di aiutarli.",
+          "answer_text": "Anche noi saremo ben lieti/e di aiutarli.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "loro saranno ben lieti/e di aiutarci.",
+      "question_text": "Loro saranno ben lieti/e di aiutarci.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -64,7 +64,7 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "loro saranno ben lieti/e di aiutarvi.",
+      "question_text": "Loro saranno ben lieti/e di aiutarvi.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -76,7 +76,7 @@
     },
     {
       "sequence_id": 7,
-      "question_text": "lo sarò ben lieto/a di aiutarla.",
+      "question_text": "Io sarò ben lieto/a di aiutarla.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -93,7 +93,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche Giorgio sarà ben lieto di aiutarmi.",
+          "answer_text": "Anche Mariolina sarà ben lieta di aiutarmi.",
           "is_correct": true
         }
       ]
@@ -105,7 +105,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche Francesca sarà ben lieta di aiutarle.",
+          "answer_text": "Anche Maurizio sarà ben lieto di aiutarle.",
           "is_correct": true
         }
       ]
@@ -113,10 +113,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 4]",
-    "page_end": "[PAGE 4]",
+    "page_start": 17,
+    "page_end": 17,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/6 Q: lo sarò ben lieto/a di aiutarla.\nA: Anch'io sarò ben lieto/a di aiutarla."
+    "model_conversation": "Q: Io sarò ben lieto/a di aiutarla. A: Anch'io sarò ben lieto/a di aiutarla."
   }
 }

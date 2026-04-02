@@ -4,228 +4,120 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Che cosa cambiate?",
+      "question_text": "Pronto, c'è la signora Ferri?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Cambiamo ... (dei dollari)",
+          "answer_text": "No, mi dispiace, la signora Ferri non c'è. Le dica di richiamarmi alle una, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Che cosa desiderate?",
+      "question_text": "Pronto, c'è la cameriera?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Desideriamo ... (prenotare una stanza)",
+          "answer_text": "No, mi dispiace, la cameriera non c'è. Le dica di richiamarmi alle due, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Che cosa prenotate?",
+      "question_text": "Pronto, c'è la signora Rosso?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Prenotiamo ... (una singola con bagno)",
+          "answer_text": "No, mi dispiace, la signora Rosso non c'è. Le dica di richiamarmi alle tre, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Che cosa lasciate?",
+      "question_text": "Pronto, c'è la signorina?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Lasciamo ... (il passaporto)",
+          "answer_text": "No, mi dispiace, la signorina non c'è. Le dica di richiamarmi alle quattro, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Che cosa portate?",
+      "question_text": "Pronto, c'è Marinella?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Portiamo ... (le valigie)",
+          "answer_text": "No, mi dispiace, Marinella non c'è. Le dica di richiamarmi alle cinque, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "Che cosa stirate?",
+      "question_text": "Pronto, c'è la signora Licata?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Stiriamo ... (due vestiti)",
+          "answer_text": "No, mi dispiace, la signora Licata non c'è. Le dica di richiamarmi alle sei, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "Che cosa lucidate?",
+      "question_text": "Pronto, c'è l'autista?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Lucidiamo ... (un paio di scarpe)",
+          "answer_text": "No, mi dispiace, l'autista non c'è. Le dica di richiamarmi alle sette, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Che cosa mandate?",
+      "question_text": "Pronto, c'è Filippo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Mandiamo ... (una lettera)",
+          "answer_text": "No, mi dispiace, Filippo non c'è. Le dica di richiamarmi alle otto, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "Che cosa ordinate?",
+      "question_text": "Pronto, c'è la signora Zardi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Ordiniamo ... (la prima colazione)",
+          "answer_text": "No, mi dispiace, la signora Zardi non c'è. Le dica di richiamarmi alle nove, per favore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "Che cosa vedete?",
+      "question_text": "Pronto, c'è la signorina Melita?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Vediamo ... (l'ascensore)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 11,
-      "question_text": "Che cosa mettete lì?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Lì mettiamo ... (la valigia)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 12,
-      "question_text": "Che cosa servite?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Serviamo ... (la prima colazione)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 13,
-      "question_text": "Che cosa preferite fare?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Preferiamo ... (andare in albergo)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 14,
-      "question_text": "Che cosa restituite?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Restituiamo ... (la chiave)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 15,
-      "question_text": "Che cosa avete?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Abbiamo ... (il passaporto)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 16,
-      "question_text": "Che cosa dite?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Diciamo ... (tutto) (everything)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 17,
-      "question_text": "Che cosa volete?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Vogliamo ... (la chiave)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 18,
-      "question_text": "Che cosa date?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Diamo ... (la mancia) (tip)",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 19,
-      "question_text": "Che cosa fate?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Facciamo ... (i compiti) (homework)",
+          "answer_text": "No, mi dispiace, la signorina Melita non c'è. Le dica di richiamarmi alle dieci, per favore.",
           "is_correct": true
         }
       ]
@@ -233,10 +125,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 3]",
-    "page_end": "[PAGE 4]",
+    "page_start": 12,
+    "page_end": 12,
     "are_questions_english": false,
-    "are_questions_generated_by_llm": false,
-    "model_conversation": "Model 6\no: Che cosa dichiarate?\nA: Dichiariamo le si a rette.\nChe cosa ritirate?\nRitiriamo ... Ci passaporti)"
+    "are_questions_generated_by_llm": true,
+    "model_conversation": "Insegnante: Pronto, c'è la signora Ferri? Studente: No, mi dispiace, la signora non c'è. Vuol lasciar detto qualcosa? Insegnante: Le dica di richiamarmi all'una, per favore."
   }
 }

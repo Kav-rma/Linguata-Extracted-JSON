@@ -4,66 +4,6 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Il carrello?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, i carrelli.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 2,
-      "question_text": "Il dollaro?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, i dollari.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 3,
-      "question_text": "Il passaporto?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, i passaporti.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 4,
-      "question_text": "L'ambasciata?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, le ambasciate.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 5,
-      "question_text": "L'ufficio cambi?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, gli uffici cambi.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
       "question_text": "Lo scontrino?",
       "type": "writing",
       "has_answer": true,
@@ -75,19 +15,31 @@
       ]
     },
     {
-      "sequence_id": 7,
-      "question_text": "L'uscita?",
+      "sequence_id": 2,
+      "question_text": "Il passaporto?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, le uscite.",
+          "answer_text": "No, i passaporti.",
           "is_correct": true
         }
       ]
     },
     {
-      "sequence_id": 8,
+      "sequence_id": 3,
+      "question_text": "L'ufficio cambi?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, gli uffici cambi.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
       "question_text": "Il carrello?",
       "type": "writing",
       "has_answer": true,
@@ -99,43 +51,7 @@
       ]
     },
     {
-      "sequence_id": 9,
-      "question_text": "Il signore?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, i signori.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 10,
-      "question_text": "La dogana?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, le dogane.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 11,
-      "question_text": "La valigia?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, le valigie.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 12,
+      "sequence_id": 5,
       "question_text": "Il dollaro?",
       "type": "writing",
       "has_answer": true,
@@ -145,50 +61,14 @@
           "is_correct": true
         }
       ]
-    },
-    {
-      "sequence_id": 13,
-      "question_text": "La signora?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, le signore.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 14,
-      "question_text": "La banconota?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, le banconote.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 15,
-      "question_text": "Il consolato?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, i consolati.",
-          "is_correct": true
-        }
-      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 4]",
-    "page_end": "[PAGE 4]",
+    "page_start": 15,
+    "page_end": 16,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Model8\no: La signora?\nA: No, le signore."
+    "model_conversation": "Q: Il signore? A: No, i signori."
   }
 }

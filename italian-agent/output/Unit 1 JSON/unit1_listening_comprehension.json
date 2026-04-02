@@ -4,8 +4,7 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Based on what you have heard, do the following exercise, se/ecting only one of the four letters: a, b, c, d, aceording to whieh best reflects what is in the narrative.",
-      "type": "multiple_choice",
+      "question_text": "1)",
       "has_answer": true,
       "answers": [
         {
@@ -28,8 +27,7 @@
     },
     {
       "sequence_id": 2,
-      "question_text": "Based on what you have heard, do the following exercise, se/ecting only one of the four letters: a, b, c, d, aceording to whieh best reflects what is in the narrative.",
-      "type": "multiple_choice",
+      "question_text": "2)",
       "has_answer": true,
       "answers": [
         {
@@ -52,8 +50,7 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "Based on what you have heard, do the following exercise, se/ecting only one of the four letters: a, b, c, d, aceording to whieh best reflects what is in the narrative.",
-      "type": "multiple_choice",
+      "question_text": "3)",
       "has_answer": true,
       "answers": [
         {
@@ -76,8 +73,7 @@
     },
     {
       "sequence_id": 4,
-      "question_text": "Based on what you have heard, do the following exercise, se/ecting only one of the four letters: a, b, c, d, aceording to whieh best reflects what is in the narrative.",
-      "type": "multiple_choice",
+      "question_text": "4)",
       "has_answer": true,
       "answers": [
         {
@@ -100,8 +96,7 @@
     },
     {
       "sequence_id": 5,
-      "question_text": "Based on what you have heard, do the following exercise, se/ecting only one of the four letters: a, b, c, d, aceording to whieh best reflects what is in the narrative.",
-      "type": "multiple_choice",
+      "question_text": "5)",
       "has_answer": true,
       "answers": [
         {
@@ -125,8 +120,8 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 1]",
-    "page_end": "[PAGE 2]",
+    "page_start": 12,
+    "page_end": 13,
     "are_questions_english": true,
     "are_questions_generated_by_llm": false
   }

@@ -5,43 +5,43 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "CUSTOMER: I signori hanno chiamato?"
+      "text": "CUSTOMER: Cameriere, cameriere... per favore!"
     },
     {
       "sequence_id": 2,
-      "text": "CUSTOMER: Have you called us, sir?"
+      "text": "CUSTOMER: Waiter, waiter... please!"
     },
     {
       "sequence_id": 3,
-      "text": "WAITER: Grazie, il conto per favore!"
+      "text": "WAITER: Mi dica, signori."
     },
     {
       "sequence_id": 4,
-      "text": "WAITER: Thank you, the bill please!"
+      "text": "WAITER: Yes, how can I help you?"
     },
     {
       "sequence_id": 5,
-      "text": "CUSTOMER: We would like to see the menu to order dessert."
-    },
-    {
-      "sequence_id": 6,
       "text": "CUSTOMER: Vorremmo vedere il menù per ordinare il dolce."
     },
     {
+      "sequence_id": 6,
+      "text": "CUSTOMER: We would like to see the menu to order dessert."
+    },
+    {
       "sequence_id": 7,
-      "text": "WAITER: Eccolo, signori. Però se permettono consiglierei lo zuccotto."
+      "text": "WAITER: Eccolo, signori. Però, se permettono, consiglierei lo zuccotto."
     },
     {
       "sequence_id": 8,
-      "text": "WAITER: Here it is, ladies and gentlemen. But if you allow me, I would recommend the zuccotto."
+      "text": "WAITER: Here it is, ladies and gentlemen. However, if I may, I would recommend the zuccotto."
     },
     {
       "sequence_id": 9,
-      "text": "CUSTOMER: What's zuccotto?"
+      "text": "CUSTOMER: Che cos'è lo zuccotto?"
     },
     {
       "sequence_id": 10,
-      "text": "CUSTOMER: Che cos'è lo zuccotto?"
+      "text": "CUSTOMER: What's zuccotto?"
     },
     {
       "sequence_id": 11,
@@ -53,19 +53,19 @@
     },
     {
       "sequence_id": 13,
-      "text": "CUSTOMER: Hm, sounds good. Let's try it!"
+      "text": "CUSTOMER: Mmm, sembra buono. Proviamolo!"
     },
     {
       "sequence_id": 14,
-      "text": "CUSTOMER: Mmh, sembra buono. Proviamolo!"
+      "text": "CUSTOMER: Hm, sounds good. Let's try it!"
     },
     {
       "sequence_id": 15,
-      "text": "WAITER: Certamente, ve lo porto subito."
+      "text": "WAITER: Benissimo, signori."
     },
     {
       "sequence_id": 16,
-      "text": "WAITER: Certainly, I'll bring it to you right away."
+      "text": "WAITER: Very good, ladies and gentlemen."
     },
     {
       "sequence_id": 17,
@@ -77,11 +77,11 @@
     },
     {
       "sequence_id": 19,
-      "text": "CUSTOMER: Yes, thank you. Everything was very good."
+      "text": "CUSTOMER: Sì, grazie. Era tutto molto buono."
     },
     {
       "sequence_id": 20,
-      "text": "CUSTOMER: Sì, grazie. Era tutto molto buono."
+      "text": "CUSTOMER: Yes, thank you. Everything was very good."
     },
     {
       "sequence_id": 21,
@@ -93,16 +93,16 @@
     },
     {
       "sequence_id": 23,
-      "text": "CUSTOMER: No, thank you. The meal was excellent, but we've had enough."
+      "text": "CUSTOMER: No, grazie. Il pasto è stato eccellente, ma abbiamo mangiato abbastanza."
     },
     {
       "sequence_id": 24,
-      "text": "CUSTOMER: No, grazie. Il pasto era eccellente, ma ne abbiamo avuto abbastanza."
+      "text": "CUSTOMER: No, thank you. The meal was excellent, but we've had enough."
     }
   ],
   "metadata": {
-    "page_start": 1,
-    "page_end": 2,
+    "page_start": 20,
+    "page_end": 21,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }

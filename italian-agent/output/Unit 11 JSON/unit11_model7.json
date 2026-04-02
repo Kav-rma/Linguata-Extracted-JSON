@@ -4,12 +4,12 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "lo sono solo/a oggi.",
+      "question_text": "Io sono solo/a oggi.",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "lo sarò solo/a domani.",
+          "answer_text": "Io sarò solo/a domani.",
           "is_correct": true
         }
       ]
@@ -21,7 +21,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Voi vi troverete bene a (Roma).",
+          "answer_text": "Voi vi troverete bene a Roma.",
           "is_correct": true
         }
       ]
@@ -45,7 +45,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Noi saremo stanchile più tardi.",
+          "answer_text": "Noi saremo stanchi/e più tardi.",
           "is_correct": true
         }
       ]
@@ -64,12 +64,12 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "lo mi trovo bene a Washington.",
+      "question_text": "Io mi trovo bene a Washington.",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "lo mi troverò bene a (Milano).",
+          "answer_text": "Io mi troverò bene a Milano.",
           "is_correct": true
         }
       ]
@@ -81,14 +81,14 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Lei si troverà bene a (Firenze).",
+          "answer_text": "Lei si troverà bene a Firenze.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Loro sono occu patile (busy) adesso.",
+      "question_text": "Loro sono occupati/e adesso.",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -105,7 +105,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Noi ci troveremo bene a (Napoli).",
+          "answer_text": "Noi ci troveremo bene a Napoli.",
           "is_correct": true
         }
       ]
@@ -117,7 +117,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Loro si troveranno bene a (Roma).",
+          "answer_text": "Loro si troveranno bene a Roma.",
           "is_correct": true
         }
       ]
@@ -125,10 +125,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 5]",
-    "page_end": "[PAGE 5]",
+    "page_start": 18,
+    "page_end": 18,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/7 o: lo sono lieto/a.\nA: lo sarò lieto/a domani."
+    "model_conversation": "Q: Io sono lieto/a. A: Io sarò lieto/a domani. Q: Io mi trovo bene a Washington. A: Io mi troverò bene a Milano."
   }
 }

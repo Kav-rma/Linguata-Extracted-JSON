@@ -4,7 +4,7 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Le i sa tutto?",
+      "question_text": "Lei sa tutto?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -69,7 +69,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, non sappiamo dov'è il signor\nLevi.",
+          "answer_text": "No, non sappiamo dov'è il signor Levi.",
           "is_correct": true
         }
       ]
@@ -89,10 +89,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 3]",
-    "page_end": "[PAGE 3]",
+    "page_start": 16,
+    "page_end": 16,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/3 Q: Lei sa quando arriva il tassì?\nA: No, non so quando arriva il tassì."
+    "model_conversation": "Q: Lei sa quando arriva il tassì? A: No, non so quando arriva il tassì."
   }
 }

@@ -1,0 +1,198 @@
+{
+  "title": "unit16_reading_for_content",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Mr. Franchi went out to lunch today.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When Mr. Franchi returns to his hotel, the desk clerk gives him a telegram.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Something terrible has happened.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Mrs. Franchi has rented the house.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Mr. Franchi calls his wife. He gets a line right away.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "The children are not feeling well.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "The new tenants are close friends of her best girl friend.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "According to her girl friend, they will take good care of the house.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Before hanging up, Mrs. Franchi tells her husband that she can't wait to get to Rome.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Stasera, il signor Franchi è stato a cena fuori con dei colleghi."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Quando rientra in albergo, il portiere di notte gli porge un telegramma."
+    },
+    {
+      "sequence_id": 3,
+      "text": "È da parte della moglie."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Il signor Franchi pensa fra sé e sé (speriamo che non sia successo nulla di grave ... )."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Il signor Franchi apre il telegramma, e lo legge: «Affittato casa stop - chiamami stop - ti vogliamo bene stop»."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Appena arriva in camera, chiama subito la moglie, ma la linea è occupata."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Finalmente, dopo ben venti minuti, riesce ad avere la comunicazione."
+    },
+    {
+      "sequence_id": 8,
+      "text": "La signora Franchi prima di tutto lo rassicura dicendogli che stanno tutti bene; e poi con voce euforica comincia a parlargli dei nuovi inquilini."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Gli dice che è una giovane coppia con due bambini; aggiunge anche che è molto contenta perché i nuovi inquilini sono parenti della sua più cara amica, Elizabeth, e stando a quello che Elizabeth dice di loro avranno molta cura della casa."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Prima di concludere la telefonata, il signor Franchi le ricorda ancora una volta che non vede l'ora di avere lei ed i bambini a Roma, e che vuole loro molto bene."
+    }
+  ],
+  "metadata": {
+    "page_start": 21,
+    "page_end": 22,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

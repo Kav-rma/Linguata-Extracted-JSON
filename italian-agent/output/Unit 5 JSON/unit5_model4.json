@@ -4,108 +4,120 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Preferiscono Roma o Milano?",
+      "question_text": "Ha prenotato una camera per me?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Preferiamo Milano.",
+          "answer_text": "Sì, ha prenotato una camera per Lei.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Hanno la carta d'identità o il passaporto?",
+      "question_text": "Ha prenotato una camera per Loro?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Abbiamo il passaporto.",
+          "answer_text": "Sì, ha prenotato una camera per noi.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Sono italiani o americani?",
+      "question_text": "Ha prenotato una camera per lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Siamo americani.",
+          "answer_text": "Sì, ha prenotato una camera per lei.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Vogliono una stanza al Jolly Hotel o al Flora?",
+      "question_text": "Ha prenotato una camera per lui?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Vogliamo una stanza al Flora.",
+          "answer_text": "Sì, ha prenotato una camera per lui.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Rimangono due o tre giorni?",
+      "question_text": "Ha prenotato una camera per loro?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Rimaniamo tre giorni.",
+          "answer_text": "Sì, ha prenotato una camera per loro.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "Ritirano i bagagli più tardi o adesso?",
+      "question_text": "Ha prenotato una camera per voi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Ritiriamo i bagagli adesso.",
+          "answer_text": "Sì, ha prenotato una camera per noi.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "Vengono domani o stasera?",
+      "question_text": "Ha prenotato una camera per noi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Veniamo stasera.",
+          "answer_text": "Sì, ha prenotato una camera per voi.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Prenotano la stanza adesso o più tardi?",
+      "question_text": "Ha prenotato una camera per Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Prenotiamo la stanza più tardi.",
+          "answer_text": "Sì, ha prenotato una camera per me.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "Vedono il signor Curti oggi o domani?",
+      "question_text": "Ha prenotato una camera per Paolo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Vediamo il signor Curti domani.",
+          "answer_text": "Sì, ha prenotato una camera per Paolo.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Ha prenotato una camera per noi tutti?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, ha prenotato una camera per noi tutti.",
           "is_correct": true
         }
       ]
@@ -113,10 +125,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 3]",
-    "page_end": "[PAGE 3]",
+    "page_start": 13,
+    "page_end": 13,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/3 Q: Stanno bene o male?\nA: Stiamo bene."
+    "model_conversation": "Q: Ha prenotato una camera per Lei? A: Sì, ha prenotato una camera per me."
   }
 }

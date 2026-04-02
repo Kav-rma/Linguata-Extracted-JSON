@@ -35,6 +35,8 @@ RULES:
 - are_questions_english: false
 - are_questions_generated_by_llm: false
 - Use [PAGE X] markers for page_start and page_end
+- if it is starting from english part so translate accordingly. ex:- "1 would like to know if the apartment at 223 Viale Diaz is stili for rent." should be translated to italian first as costumor and then translated to english in the article text. and then left side text as waiter will be there.
+- if there are two interpreter situation so extract them as speaking2a and speaking2b 2 files.
 
 JSON FORMAT:
 {

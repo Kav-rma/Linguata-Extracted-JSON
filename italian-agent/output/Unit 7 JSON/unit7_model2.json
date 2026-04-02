@@ -4,132 +4,120 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Lei desidera far stirare il vestito?",
+      "question_text": "Pronto, c'è il signor Rosso?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei far ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Lei desidera dichiarare qualcosa?",
+      "question_text": "Pronto, c'è la signora Zardi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei dichiarare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Lei desidera lasciare la valigia qui?",
+      "question_text": "Pronto, c'è la cameriera del piano?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei lasciare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Lei desidera parlare con la signora?",
+      "question_text": "Pronto, c'è l'autista?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei parlare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Lei desidera parlare con il signor Druso?",
+      "question_text": "Pronto, c'è Fulvia?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei parlare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "Lei desidera far lucidare un paio di scarpe?",
+      "question_text": "Pronto, c'è la signora Licata?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei far lucidare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "Lei desidera cambiare dieci dollari?",
+      "question_text": "Pronto, c'è il signor Filippo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei cambiare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Lei desidera far portare le valigie in stanza?",
+      "question_text": "Pronto, c'è la signorina Melita?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei far portare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "Lei desidera rimanere ancora due giorni?",
+      "question_text": "Pronto, c'è la signora Rosso?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei rimanere ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "lei desidera fare qualcosa oggi?",
+      "question_text": "Pronto, c'è il signor Verdi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, vorrei fare ...",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 11,
-      "question_text": "lei desidera andare subito all'ambasciata?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Sì, vorrei andare ...",
+          "answer_text": "Sì, c'è.",
           "is_correct": true
         }
       ]
@@ -137,10 +125,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 3]",
-    "page_end": "[PAGE 3]",
+    "page_start": 11,
+    "page_end": 12,
     "are_questions_english": false,
-    "are_questions_generated_by_llm": false,
-    "model_conversation": "Model 5\nQ: lei desidera prenotare due stanze?\nA: Sì, vorrei prenotare due stanze."
+    "are_questions_generated_by_llm": true,
+    "model_conversation": "Insegnante: Pronto, c'è la signora Russo? Studente: Sì, c'è. Chi parla prego? Insegnante: Sono la signorina/il signor Crespi."
   }
 }

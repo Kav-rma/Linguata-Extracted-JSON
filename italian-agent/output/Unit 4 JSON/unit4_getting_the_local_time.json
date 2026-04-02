@@ -1,0 +1,538 @@
+{
+  "title": "unit4_getting_the_local_time",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Venga, signor(in)a/signore, ________ la macchina _______ _ all' ----------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "ho, parcheggiata, uscita",
+          "is_correct": true
+        },
+        {
+          "answer_text": "è, pronta, ambasciata",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cerco, ferma, albergo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "guido, nuova, strada",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Benissimo, sono ________ , andiamo!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "pronto/a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "stanco/a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "americano/a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "parcheggiato/a",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "_________ andare ________ albergo _______ _ all' ? ---------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Preferisce, in, Ambasciata",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vuole, da, uscita",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Deve, per, macchina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ama, con, Boston",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Preferisco in , sono _________ _ --------- --------- stanco/a.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "andare, albergo, molto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "restare, macchina, poco",
+          "is_correct": false
+        },
+        {
+          "answer_text": "partire, Ambasciata, troppo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "venire, Roma, appena",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "__________ dove _________ lei, da ________ _ signor (Jast name)/signor(in)a?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Da, arriva, Washington",
+          "is_correct": true
+        },
+        {
+          "answer_text": "In, parte, albergo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A, viene, Roma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Per, torna, Ambasciata",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "________ , da ________ \" A proposito, ora ? ---------- ---------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, Boston, che",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sì, Washington, quale",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Forse, Roma, quando",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bene, albergo, dove",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "__________ le ________ e _______ _",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sono, dieci, venti",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vedo, quattro, trenta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fanno, sei, ore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dice, due, minuti",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "________ , il _________ orologio _______ _ ancora __________ __ ora ________ __",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Grazie, mio, fa, l', americana",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Scusi, suo, dice, un', italiana",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prego, nostro, segna, la, locale",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bene, loro, cambia, un, nuova",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "________ ,' signor(in)a/signore, ho la _______ _ parcheggiata _________ uscita.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Venga, macchina, all'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Scusi, valigia, in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Aspetti, porta, per",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prego, strada, da",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "________ pronto/a, _______ _",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sono, andiamo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vado, partiamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Era, restiamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sia, torniamo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Preferisce ------------ o Ambasciata? --------------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "andare in albergo, all'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "venire da Boston, all'",
+          "is_correct": false
+        },
+        {
+          "answer_text": "restare in macchina, in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "partire per Roma, con l'",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "___________ andare _________ albergo, molto -------------- -----------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Preferisco, in, sono, stanco/a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Desidero, all', resto, pronto/a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Voglio, da, vado, americano/a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Posso, con, faccio, tardi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Da arriva ------------- -----------~ --------- Washington, signor {/ast name)/signor(in)a?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "dove, Lei, da",
+          "is_correct": true
+        },
+        {
+          "answer_text": "quando, loro, per",
+          "is_correct": false
+        },
+        {
+          "answer_text": "come, noi, con",
+          "is_correct": false
+        },
+        {
+          "answer_text": "perché, lui, verso",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "No, ______________ Boston. _________________________ _ che ___________ è?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "da, A proposito, ora",
+          "is_correct": true
+        },
+        {
+          "answer_text": "in, Per favore, tempo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "a, Dunque, giorno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "con, Senta, età",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Sono dieci venti. ------------- ----------",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "le, e",
+          "is_correct": true
+        },
+        {
+          "answer_text": "gli, ma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "i, di",
+          "is_correct": false
+        },
+        {
+          "answer_text": "la, con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Grazie, mio fa -------------- ----------- ------------- l' americana.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "il, orologio, ancora, ora",
+          "is_correct": true
+        },
+        {
+          "answer_text": "la, valigia, sempre, strada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "un, albergo, poco, macchina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lo, passaporto, mai, differenza",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Ah, ore adesso Boston?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "che sono a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dove vai in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quando parte da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quante valigie per",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Boston sono quattro venti mattino.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A, le, e, del",
+          "is_correct": true
+        },
+        {
+          "answer_text": "In, è, ma, alla",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Da, i, con, nel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Per, una, senza, sul",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": ",è Boston e c' una di ore!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Già, vero, tra, Roma, una differenza, sei",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, falso, per, Washington, due strade, tre",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Certo, bene, con, Milano, poca distanza, quattro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Forse, giusto, verso, Napoli, molta fretta, otto",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "While riding to your hotel, you and the driver compare local time with Boston time."
+    },
+    {
+      "sequence_id": 3,
+      "text": "HEARINGIT"
+    },
+    {
+      "sequence_id": 4,
+      "text": "With books closed, listen to the dialog. Try to guess what is going ono"
+    },
+    {
+      "sequence_id": 5,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Look at the dialog silently while listening to the tape."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Borghi: 1. Venga, signor(in)a/signore, ho la macchina parcheggiata all'uscita."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Lei: 2. Benissimo, sono pronto/a, andiamo!"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Borghi: 3. Preferisce andare in albergo o all'Ambasciata?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 4. Preferisco andare in albergo, sono molto stanco/a."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Borghi: 5. Da dove arriva Lei, da Washington, signor (Jast name)/signor(in)a?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei: 6. No, da Boston. A proposito, che ora è?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Borghi: 7. Sono le dieci e venti."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: 8. Grazie, il mio orologio fa ancora l'ora americana."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Borghi: 9. Ah, che ore sono adesso a Boston?"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Lei: 10. A Boston sono le quattro e venti del mattino."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Borghi: 11. Già, è vero, tra Boston e Roma c'è una differenza di sei ore!"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

@@ -250,7 +250,7 @@
     },
     {
       "sequence_id": 2,
-      "text": "fine 4 -Grazie. Vogliono ordinare i formaggi e la frutta"
+      "text": "line 4 -Grazie. Vogliono ordinare i formaggi e la frutta"
     },
     {
       "sequence_id": 3,
@@ -258,7 +258,7 @@
     },
     {
       "sequence_id": 4,
-      "text": "fine 6 -Oggi abbiamo una torta al cioccolato, delle"
+      "text": "line 6 -Oggi abbiamo una torta al cioccolato, delle"
     },
     {
       "sequence_id": 5,
@@ -266,11 +266,11 @@
     },
     {
       "sequence_id": 6,
-      "text": "fine 8 -Bene, signori, vogliono ordinare qualcos'altro?"
+      "text": "line 8 -Bene, signori, vogliono ordinare qualcos'altro?"
     },
     {
       "sequence_id": 7,
-      "text": "fine 10 -Sì, signor(in)a/signore, dietro quella porta a vetri"
+      "text": "line 10 -Sì, signor(in)a/signore, dietro quella porta a vetri"
     },
     {
       "sequence_id": 8,
@@ -290,7 +290,7 @@
     },
     {
       "sequence_id": 12,
-      "text": "fine 2 -I signori hanno chiamato?"
+      "text": "line 2 -I signori hanno chiamato?"
     },
     {
       "sequence_id": 13,
@@ -314,7 +314,7 @@
     },
     {
       "sequence_id": 18,
-      "text": "fine 4 -(following the above) Se permettono, sug­"
+      "text": "line 4 -(following the above) Se permettono, sug­"
     },
     {
       "sequence_id": 19,
@@ -334,7 +334,7 @@
     },
     {
       "sequence_id": 23,
-      "text": "fine 6 -(following the above) Basta così, o prendono"
+      "text": "line 6 -(following the above) Basta così, o prendono"
     },
     {
       "sequence_id": 24,
@@ -382,7 +382,7 @@
     },
     {
       "sequence_id": 35,
-      "text": "fine 10 -(following the above) Nel corridoio vicino"
+      "text": "line 10 -(following the above) Nel corridoio vicino"
     },
     {
       "sequence_id": 36,
@@ -394,20 +394,12 @@
     },
     {
       "sequence_id": 38,
-      "text": "Role Play"
-    },
-    {
-      "sequence_id": 39,
-      "text": "Interpreter Situation"
-    },
-    {
-      "sequence_id": 40,
-      "text": "I signori hanno chiamato? -Grazie, il conto per favore!"
+      "text": "-Grazie, il conto per favore!"
     }
   ],
   "metadata": {
-    "page_start": 1,
-    "page_end": 3,
+    "page_start": 18,
+    "page_end": 20,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

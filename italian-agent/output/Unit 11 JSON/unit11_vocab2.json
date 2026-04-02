@@ -76,7 +76,7 @@
     },
     {
       "sequence_id": 7,
-      "question_text": "Mi sono fermatola.",
+      "question_text": "Mi sono fermato/a.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
@@ -269,8 +269,8 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": 1,
-    "page_end": 1,
+    "page_start": 13,
+    "page_end": 13,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }

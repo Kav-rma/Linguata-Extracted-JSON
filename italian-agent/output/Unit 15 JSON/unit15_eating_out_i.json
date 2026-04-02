@@ -1,0 +1,434 @@
+{
+  "title": "unit15_eating_out_i",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Buonasera, ________, prego. Hanno una prenotazione?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "s'accomodino",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sbrigatevi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "aspettino",
+          "is_correct": false
+        },
+        {
+          "answer_text": "entrate",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Buonasera, veramente ________. Ci sono tavoli liberi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "no",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sì",
+          "is_correct": false
+        },
+        {
+          "answer_text": "forse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mai",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Sì. ________, signori, da questa parte. Va bene questo tavolo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Prego",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Scusi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Allora",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Possiamo avere quello d'________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "angolo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "albergo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ufficio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ingresso",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Ma certamente. Ecco il menù e la lista dei vini. Vogliono ordinare ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "adesso",
+          "is_correct": true
+        },
+        {
+          "answer_text": "domani",
+          "is_correct": false
+        },
+        {
+          "answer_text": "subito dopo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fuori",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Sì, ordiniamo adesso. Come sono fatti i bucatini all'________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "amatriciana",
+          "is_correct": true
+        },
+        {
+          "answer_text": "arrabbiata",
+          "is_correct": false
+        },
+        {
+          "answer_text": "carbonara",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pesto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Sono bucatini conditi con salsa di pomodoro e ________. Vogliono assaggiarli?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "pancetta",
+          "is_correct": true
+        },
+        {
+          "answer_text": "mozzarella",
+          "is_correct": false
+        },
+        {
+          "answer_text": "funghi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "basilico",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Sì, vogliamo assaggiarli; ce ne porti tre ________, per favore.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "porzioni",
+          "is_correct": true
+        },
+        {
+          "answer_text": "bicchieri",
+          "is_correct": false
+        },
+        {
+          "answer_text": "forchette",
+          "is_correct": false
+        },
+        {
+          "answer_text": "tavoli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "E da bere cosa porto? Vino bianco, rosso o vino della ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "casa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "tavola",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cantina",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Ci porti due bottiglie di vino rosso Regaleali e una bottiglia di acqua ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "minerale",
+          "is_correct": true
+        },
+        {
+          "answer_text": "calda",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dolce",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fredda",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Liscia o ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "gassata",
+          "is_correct": true
+        },
+        {
+          "answer_text": "salata",
+          "is_correct": false
+        },
+        {
+          "answer_text": "rossa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "amara",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Va bene. E per secondo? Lo chef oggi consiglia: trancio di pescespada ai ferri, fegato di vitello alla veneta, bocconcini di vitello con contorno di funghi, e filetto di ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "bue",
+          "is_correct": true
+        },
+        {
+          "answer_text": "pollo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "maiale",
+          "is_correct": false
+        },
+        {
+          "answer_text": "tacchino",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Bene. La signora prende un trancio di pescespada ai ferri, il signore prende un filetto di bue, ed io prendo i bocconcini di vitello con contorno di funghi, e poi porti dell'insalata mista per ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "tutti",
+          "is_correct": true
+        },
+        {
+          "answer_text": "nessuno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "voi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "domani",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Va bene, ritorno ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "subito",
+          "is_correct": true
+        },
+        {
+          "answer_text": "domani",
+          "is_correct": false
+        },
+        {
+          "answer_text": "tardi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fuori",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "You meet a group of friends and decide to dine together at a nearby restaurant."
+    },
+    {
+      "sequence_id": 3,
+      "text": "You don't have reservations, but as you walk in, you see plenty of tables available."
+    },
+    {
+      "sequence_id": 4,
+      "text": "The restaurant is attractive and the atmosphere is pleasant."
+    },
+    {
+      "sequence_id": 5,
+      "text": "You do the ordering for everyone at your table."
+    },
+    {
+      "sequence_id": 6,
+      "text": "SEEING IT"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Cameriere: 1. Buonasera, prego, s'accomodino. Hanno una prenotazione?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Lei: 2. Buonasera, veramente no. Ci sono tavoli liberi?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Cameriere: 3. Sì. Prego, signori, da questa parte. Va bene questo tavolo?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 4. Possiamo avere quello d'angolo?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Cameriere: 5. Ma certamente. Ecco il menù e la lista dei vini. Vogliono ordinare adesso?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei: 6. Sì, ordiniamo adesso. Come sono fatti i bucatini all'amatriciana?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Cameriere: 7. Sono bucatini conditi con salsa di pomodoro e pancetta. Vogliono assaggiarli?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: 8. Sì, vogliamo assaggiarli; ce ne porti tre porzioni, per favore."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Cameriere: 9. E da bere cosa porto? Vino bianco, rosso o vino della casa?"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Lei: 10. Ci porti due bottiglie di vino rosso Regaleali e una bottiglia di acqua minerale."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Cameriere: 11. Liscia o gassata?"
+    },
+    {
+      "sequence_id": 18,
+      "text": "Lei: 12. Liscia, per favore."
+    },
+    {
+      "sequence_id": 19,
+      "text": "Cameriere: 13. Va bene. E per secondo? Lo chef oggi consiglia: trancio di pescespada ai ferri, fegato di vitello alla veneta, bocconcini di vitello con contorno di funghi, e filetto di bue."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Lei: 14. Bene. La signora prende un trancio di pescespada ai ferri, il signore prende un filetto di bue, ed io prendo i bocconcini di vitello con contorno di funghi, e poi porti dell'insalata mista per tutti."
+    },
+    {
+      "sequence_id": 21,
+      "text": "Cameriere: 15. Va bene, ritorno subito."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

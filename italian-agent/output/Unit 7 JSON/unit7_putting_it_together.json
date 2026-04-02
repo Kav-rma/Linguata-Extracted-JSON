@@ -4,7 +4,7 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "What do the speakers say they serve only?",
+      "question_text": "What meal does the hotel serve only?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
@@ -21,62 +21,62 @@
           "is_correct": false
         },
         {
-          "answer_text": "Dessert",
+          "answer_text": "Snacks",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "What do the speakers say they do with homework?",
+      "question_text": "What does the speaker say they do with tips?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "They do it",
+          "answer_text": "They give them",
           "is_correct": true
         },
         {
-          "answer_text": "They sell it",
+          "answer_text": "They count them",
           "is_correct": false
         },
         {
-          "answer_text": "They forget it",
+          "answer_text": "They refuse them",
           "is_correct": false
         },
         {
-          "answer_text": "They correct it",
+          "answer_text": "They hide them",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "What do the speakers prefer to go to?",
+      "question_text": "Where do they prefer to go?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "The embassy",
+          "answer_text": "To the embassy",
           "is_correct": true
         },
         {
-          "answer_text": "The station",
+          "answer_text": "To the station",
           "is_correct": false
         },
         {
-          "answer_text": "The museum",
+          "answer_text": "To the museum",
           "is_correct": false
         },
         {
-          "answer_text": "The restaurant",
+          "answer_text": "To the airport",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "What do the speakers say they open?",
+      "question_text": "What does the speaker open?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
@@ -93,14 +93,14 @@
           "is_correct": false
         },
         {
-          "answer_text": "The books",
+          "answer_text": "The passports",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "How much money do the speakers say they have?",
+      "question_text": "How much money does the speaker say they have?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
@@ -124,55 +124,55 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "What are the passports returned in the exercise?",
+      "question_text": "What does the breakfast service ask about eggs?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "The passports",
+          "answer_text": "If the guest would also like soft-boiled eggs",
           "is_correct": true
         },
         {
-          "answer_text": "The tickets",
+          "answer_text": "If the guest wants fried eggs only",
           "is_correct": false
         },
         {
-          "answer_text": "The keys",
+          "answer_text": "If the guest can cook eggs",
           "is_correct": false
         },
         {
-          "answer_text": "The bags",
+          "answer_text": "If the guest dislikes eggs",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "What kind of eggs are offered?",
+      "question_text": "What does the hotel operator ask when the lady is not there?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Soft-boiled eggs",
+          "answer_text": "Who is speaking",
           "is_correct": true
         },
         {
-          "answer_text": "Fried eggs",
+          "answer_text": "What room is free",
           "is_correct": false
         },
         {
-          "answer_text": "Scrambled eggs",
+          "answer_text": "When breakfast is served",
           "is_correct": false
         },
         {
-          "answer_text": "Poached eggs",
+          "answer_text": "How much the call costs",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "What must be dialed first to make calls directly from the room?",
+      "question_text": "What number should be dialed first from the room for outside calls?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
@@ -185,18 +185,18 @@
           "is_correct": false
         },
         {
-          "answer_text": "Zero",
+          "answer_text": "Three",
           "is_correct": false
         },
         {
-          "answer_text": "One",
+          "answer_text": "Zero",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "What number should be called for breakfast in the room?",
+      "question_text": "What number should be called to get breakfast in the room?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
@@ -209,18 +209,18 @@
           "is_correct": false
         },
         {
-          "answer_text": "Twenty-four",
+          "answer_text": "Four",
           "is_correct": false
         },
         {
-          "answer_text": "Eight",
+          "answer_text": "Twenty-four",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "At what time is breakfast requested in the room?",
+      "question_text": "At what time does the guest want breakfast in the room?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
@@ -246,148 +246,112 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "Variants Che cosa servite?"
-    },
-    {
-      "sequence_id": 2,
-      "text": "Che cosa dite?"
-    },
-    {
-      "sequence_id": 3,
-      "text": "Che cosaiate1"
-    },
-    {
-      "sequence_id": 4,
-      "text": "Che cosa date?"
-    },
-    {
-      "sequence_id": 5,
-      "text": "Che cosa finite più tardi?"
-    },
-    {
-      "sequence_id": 6,
-      "text": "Che cosa preferite?"
-    },
-    {
-      "sequence_id": 7,
-      "text": "Che cosa aprite?"
-    },
-    {
-      "sequence_id": 8,
-      "text": "Che cosa avete?"
-    },
-    {
-      "sequence_id": 9,
-      "text": "Che cosa portate in stanza?"
-    },
-    {
-      "sequence_id": 10,
-      "text": "Che cosa restituite?"
-    },
-    {
-      "sequence_id": 11,
       "text": "line 12 -Desidera anche uova alla coque?"
     },
     {
-      "sequence_id": 12,
+      "sequence_id": 2,
       "text": "line 16 -La signora non c'è; ritorna fra poco."
     },
     {
-      "sequence_id": 13,
+      "sequence_id": 3,
       "text": "Chi parla prego?"
     },
     {
-      "sequence_id": 14,
+      "sequence_id": 4,
       "text": "Variants Requiring Different Responses"
     },
     {
-      "sequence_id": 15,
+      "sequence_id": 5,
       "text": "line 1 -Pronto, centralino!"
     },
     {
-      "sequence_id": 16,
+      "sequence_id": 6,
       "text": "possible response"
     },
     {
-      "sequence_id": 17,
+      "sequence_id": 7,
       "text": "-Vorrei chiamare un numero di Roma; cosa devo fare?"
     },
     {
-      "sequence_id": 18,
+      "sequence_id": 8,
       "text": "fine 3 -(following the above) Per le chiamate sia urbane che interurbane può chiamare Lei direttamente dalla Sua stanza."
     },
     {
-      "sequence_id": 19,
+      "sequence_id": 9,
       "text": "Faccia prima il nove e dopo il numero desiderato"
     },
     {
-      "sequence_id": 20,
+      "sequence_id": 10,
       "text": "possible response"
     },
     {
-      "sequence_id": 21,
-      "text": "-Grazie. Che numero devo chiamare per avere la colazione in camera?"
+      "sequence_id": 11,
+      "text": "-Grazie."
     },
     {
-      "sequence_id": 22,
+      "sequence_id": 12,
+      "text": "Che numero devo chiamare per avere la colazione in camera?"
+    },
+    {
+      "sequence_id": 13,
       "text": "line 5 -(following the above) Chiami il sette."
     },
     {
-      "sequence_id": 23,
+      "sequence_id": 14,
       "text": "Desidera altro?"
     },
     {
-      "sequence_id": 24,
+      "sequence_id": 15,
       "text": "possible response"
     },
     {
-      "sequence_id": 25,
+      "sequence_id": 16,
       "text": "-No, grazie."
     },
     {
-      "sequence_id": 26,
+      "sequence_id": 17,
       "text": "fine 7 -(following the above) Pronto, servizio camere."
     },
     {
-      "sequence_id": 27,
+      "sequence_id": 18,
       "text": "Desidera?"
     },
     {
-      "sequence_id": 28,
+      "sequence_id": 19,
       "text": "possible response"
     },
     {
-      "sequence_id": 29,
+      "sequence_id": 20,
       "text": "-Vorrei la prima colazione in camera alle otto meno un quarto."
     },
     {
-      "sequence_id": 30,
+      "sequence_id": 21,
       "text": "line 9 -(following the above) Prima colazione della lista del giorno o qualcos'altro?"
     },
     {
-      "sequence_id": 31,
+      "sequence_id": 22,
       "text": "possible responses"
     },
     {
-      "sequence_id": 32,
+      "sequence_id": 23,
       "text": "-Quello della lista del giorno va benissimo."
     },
     {
-      "sequence_id": 33,
+      "sequence_id": 24,
       "text": "Per due per favore, camera ventiquattro."
     },
     {
-      "sequence_id": 34,
+      "sequence_id": 25,
       "text": "-Vorrei un tè, uno yogurt, una fetta di pane tostato e un pompelmo."
     },
     {
-      "sequence_id": 35,
+      "sequence_id": 26,
       "text": "-Un caffè e latte e un cornetto, per favore."
     }
   ],
   "metadata": {
-    "page_start": 1,
-    "page_end": 2,
+    "page_start": 15,
+    "page_end": 16,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

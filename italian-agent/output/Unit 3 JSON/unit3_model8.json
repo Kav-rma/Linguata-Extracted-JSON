@@ -4,336 +4,156 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Vede una signora?",
+      "question_text": "Il passaporto?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due signore.",
+          "answer_text": "No, i passaporti.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Vede una tabella?",
+      "question_text": "L'ambasciata?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due tabelle.",
+          "answer_text": "No, le ambasciate.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Vede un'uscita?",
+      "question_text": "L'ufficio cambi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due uscite.",
+          "answer_text": "No, gli uffici cambi.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Ritira una valigia?",
+      "question_text": "Lo scontrino?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, ritiro due valigie.",
+          "answer_text": "No, gli scontrini.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Vede un'ambasciata?",
+      "question_text": "L'uscita?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due ambasciate.",
+          "answer_text": "No, le uscite.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "Dà una banconota da dieci?",
+      "question_text": "Il carrello?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, do due banconote da dieci.",
+          "answer_text": "No, i carrelli.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "Vede un consolato?",
+      "question_text": "Il signore?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due consolati.",
+          "answer_text": "No, i signori.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Ha un carrello?",
+      "question_text": "La dogana?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, ho due carrelli.",
+          "answer_text": "No, le dogane.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "Vede un ufficio cambi?",
+      "question_text": "La valigia?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due uffici cambi.",
+          "answer_text": "No, le valigie.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "Vede un signore?",
+      "question_text": "Il dollaro?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due signori.",
+          "answer_text": "No, i dollari.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 11,
-      "question_text": "Vede un americano?",
+      "question_text": "La signora?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, vedo due americani.",
+          "answer_text": "No, le signore.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 12,
-      "question_text": "Ritira un passaporto?",
+      "question_text": "La banconota?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, ritiro due passaporti.",
+          "answer_text": "No, le banconote.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 13,
-      "question_text": "Ha un indirizzo?",
+      "question_text": "Il consolato?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, ho due indirizzi.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 14,
-      "question_text": "Rimane un giorno?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, rimango due giorni.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 15,
-      "question_text": "Rimane un giorno?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, rimango due giorni.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 16,
-      "question_text": "Vede una signora?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, vedo due signore.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 17,
-      "question_text": "Ha un carrello?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, ho due carrelli.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 18,
-      "question_text": "Vede un'uscita?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, vedo due uscite.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 19,
-      "question_text": "Vede un americano?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, vedo due americani.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 20,
-      "question_text": "Vede un'ambasciata?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, vedo due ambasciate.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 21,
-      "question_text": "Rimane un mese?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, rimango due mesi.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 22,
-      "question_text": "Vede un albergo?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, vedo due alberghi.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 23,
-      "question_text": "Ritira un passaporto?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, riti ro due passa po rti.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 24,
-      "question_text": "Vede un signore?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, vedo due signori.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 25,
-      "question_text": "Dà una banconota da dieci?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, do due banconote da dieci.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 26,
-      "question_text": "Ha una lira?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, ho due lire.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 27,
-      "question_text": "Ha un indirizzo?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, ho due indirizzi.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 28,
-      "question_text": "Vede un ufficio cambi?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, vedo due uffici cambi.",
+          "answer_text": "No, i consolati.",
           "is_correct": true
         }
       ]
@@ -341,10 +161,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 4]",
-    "page_end": "[PAGE 6]",
+    "page_start": 16,
+    "page_end": 16,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Model9\no: Ha una valigia?\nA: No, ho due valigie.\nModel10\nQ: Dà un dollaro?\nA: No, do due dollari.\nModel11\nQ: Dà una lira?\nA: No, do due lire."
+    "model_conversation": "Q: La signora? A: No, le signore."
   }
 }

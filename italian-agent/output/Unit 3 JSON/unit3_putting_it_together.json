@@ -1,0 +1,366 @@
+{
+  "title": "unit3_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Where is the place indicated in line 2?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To the left, next to the exit",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To the right, near the station",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Straight ahead, beside the bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Behind the newsstand",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What nearby landmark is mentioned in one variant of line 2?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The newsstand",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The hotel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The restaurant",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The museum",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does the question \"Quanto Le occorre?\" ask?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "How much do you need?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Where are you going?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "What time is it?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How do you pay?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is being discussed in line 6?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Today's exchange rate",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A train schedule",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A hotel reservation",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A restaurant bill",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What amount of money is used as the example in line 8?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "One hundred dollars",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Fifty euros",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two hundred dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ten lire",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What choice is offered in the variant requiring a different response?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Currency or traveler's checks",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Cash or credit card",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bus or taxi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Breakfast or lunch",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which option has a slightly lower exchange rate?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Traveler's checks",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Currency",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Coins",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bank transfers",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does the speaker decide to exchange after hearing about the lower rate?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Currency",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Traveler's checks",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A passport",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Train tickets",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does \"Come li vuole?\" ask about?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "How the bills should be given",
+          "is_correct": true
+        },
+        {
+          "answer_text": "How much time is needed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Where the bank is located",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Why the rate changed",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is one possible response when asked how the money should be given?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Non importa.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Non capisco.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ho fame.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arrivederci.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "You will now hear variants of the Italian's lines."
+    },
+    {
+      "sequence_id": 2,
+      "text": "These variants differ in meaning from those of the base dialog lines."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Guess at their meaning with your instructor's help."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Now play the role of the American in a natural enactment with your instructor, who will be using these variants."
+    },
+    {
+      "sequence_id": 5,
+      "text": "line 2 -Lì a sinistra, accanto all'uscita."
+    },
+    {
+      "sequence_id": 6,
+      "text": "-Da quella parte, vicino all'edicola."
+    },
+    {
+      "sequence_id": 7,
+      "text": "line 4 -Quanto Le occorre?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "line 6 -II cambio di oggi è.:..:...: a uno per valuta."
+    },
+    {
+      "sequence_id": 9,
+      "text": "line 8 -Cento dollari a ... lire: sono.:..:...: lire."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Che tipo di banconote preferisce?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Variants Requiring Different Responses."
+    },
+    {
+      "sequence_id": 12,
+      "text": "You will now hear other variants of the Italian's lines."
+    },
+    {
+      "sequence_id": 13,
+      "text": "These variants require different responses."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Again guess at their meaning with your instructor's help."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Repeat the possible responses after your instructor."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Now play the role of the American in a natural enactment with your instructor, who will be using these variants."
+    },
+    {
+      "sequence_id": 17,
+      "text": "line 4 -Desidera cambiare valuta o traveler's checks?"
+    },
+    {
+      "sequence_id": 18,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 19,
+      "text": "-Traveler's checks."
+    },
+    {
+      "sequence_id": 20,
+      "text": "-Valuta."
+    },
+    {
+      "sequence_id": 21,
+      "text": "line 6 -II cambio per assegni viaggiatori, cioè per traveler's checks è un po' più basso di quello per valuta."
+    },
+    {
+      "sequence_id": 22,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 23,
+      "text": "-Allora preferisco cambiare valuta."
+    },
+    {
+      "sequence_id": 24,
+      "text": "Ecco cento dollari."
+    },
+    {
+      "sequence_id": 25,
+      "text": "line 8 -Come li vuole?"
+    },
+    {
+      "sequence_id": 26,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 27,
+      "text": "-:..:...:. da:..:..=. e ~ da ~ ."
+    },
+    {
+      "sequence_id": 28,
+      "text": "-Non importa."
+    }
+  ],
+  "metadata": {
+    "page_start": 18,
+    "page_end": 20,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

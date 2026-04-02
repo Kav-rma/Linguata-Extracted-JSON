@@ -64,7 +64,7 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "Non è alto (tali) questo signore?",
+      "question_text": "Non è alto (tall) questo signore?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -77,8 +77,8 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 5]",
-    "page_end": "[PAGE 5]",
+    "page_start": 14,
+    "page_end": 14,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
     "model_conversation": "Mode/lO Q: Non è morbida questa pelle?\nA: Oh sì, che morbida!"

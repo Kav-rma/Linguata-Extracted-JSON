@@ -1,0 +1,534 @@
+{
+  "title": "unit7_at_the_hotel_iii",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Pronto, servizio ________, mi dica!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sveglia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ristorante",
+          "is_correct": false
+        },
+        {
+          "answer_text": "taxi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "camera",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "È la camera trecentodiciotto. Può ________ domani mattina alle sette?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "svegliarmi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "richiamarmi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "servirmi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "portarmi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Va bene, signor(in)a/________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "signore",
+          "is_correct": true
+        },
+        {
+          "answer_text": "signora",
+          "is_correct": false
+        },
+        {
+          "answer_text": "colf",
+          "is_correct": false
+        },
+        {
+          "answer_text": "impiegato",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Pronto, servizio ________!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "ristorante",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sveglia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "taxi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "bar",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Scusi, a che ora cominciate a servire la prima ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "colazione",
+          "is_correct": true
+        },
+        {
+          "answer_text": "cena",
+          "is_correct": false
+        },
+        {
+          "answer_text": "camera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "stanza",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Cominciamo alle ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sette",
+          "is_correct": true
+        },
+        {
+          "answer_text": "otto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "nove",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dieci",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "E a che ora ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "finite",
+          "is_correct": true
+        },
+        {
+          "answer_text": "cominciate",
+          "is_correct": false
+        },
+        {
+          "answer_text": "servite",
+          "is_correct": false
+        },
+        {
+          "answer_text": "arrivate",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Finiamo alle ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "dieci",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sette",
+          "is_correct": false
+        },
+        {
+          "answer_text": "otto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "undici",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Vorrei ordinare la prima colazione per domani mattina alle sette e ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "trenta",
+          "is_correct": true
+        },
+        {
+          "answer_text": "quindici",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quaranta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cinquanta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Che cosa ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "desidera",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prende",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lascia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Caffè, latte, croissant, burro, marmellata e succo d'________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "arancia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "mela",
+          "is_correct": false
+        },
+        {
+          "answer_text": "uva",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pera",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Desidera ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "altro",
+          "is_correct": true
+        },
+        {
+          "answer_text": "subito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "camera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "conto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "No, ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "grazie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "prego",
+          "is_correct": false
+        },
+        {
+          "answer_text": "buongiorno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scusi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Mi dispiace, la signora Smith è ________. Chi parla prego?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "fuori",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dentro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "qui",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pronta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Sono la signorina ( + last name). Vuoi lasciar detto ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "qualcosa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "nessuno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "subito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "domani",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Sì, per favore le dica di ________ all'Hotel Ambasciatori, stanza trecentodiciotto.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "richiamarmi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "aspettarmi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "incontrarmi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vedermi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Senz'altro, signor(in)a/signore. ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buongiorno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Buonasera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arrivederci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Taking care of things by phone ... arranging for a wake-up call, ordering breakfast, leaving a message."
+    },
+    {
+      "sequence_id": 3,
+      "text": "SEEING IT"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Impieg: 1. Pronto, servizio sveglia, mi dica!"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Lei: 2. È la camera trecentodiciotto. Può svegliarmi domani mattina alle sette?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Impieg: 3. Va bene, signor(in)a/signore."
+    },
+    {
+      "sequence_id": 7,
+      "text": "(a few minutes later)"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Impieg: 4. Pronto, servizio ristorante!"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lei: 5. Scusi, a che ora cominciate a servire la prima colazione?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Impieg: 6. Cominciamo alle sette."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lei: 7. E a che ora finite?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Impieg: 8. Finiamo alle dieci."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Lei: 9. Va bene. Qui è la camera trecentodiciotto. Vorrei ordinare la prima colazione per domani mattina alle sette e trenta."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Impieg: 10. Che cosa desidera?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Lei: 11. Caffè, latte, croissant, burro, marmellata e succo d'arancia."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Impieg: 12. Desidera altro?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 13. No, grazie."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Impieg: 14. Pronto!"
+    },
+    {
+      "sequence_id": 19,
+      "text": "Colf:* 15. Pronto, c'è la signora Smith?"
+    },
+    {
+      "sequence_id": 20,
+      "text": "Lei: 16. Mi dispiace, la signora Smith è fuori. Chi parla prego?"
+    },
+    {
+      "sequence_id": 21,
+      "text": "{il signor"
+    },
+    {
+      "sequence_id": 22,
+      "text": "la signora"
+    },
+    {
+      "sequence_id": 23,
+      "text": "17. Sono la signorina (+ last name)."
+    },
+    {
+      "sequence_id": 24,
+      "text": "Lei: 18. Vuoi lasciar detto qualcosa?"
+    },
+    {
+      "sequence_id": 25,
+      "text": "Colf: 19. Sì, per favore le dica di richiamarmi all'Hotel Ambasciatori, stanza trecentodiciotto."
+    },
+    {
+      "sequence_id": 26,
+      "text": "Lei: 20. Senz'altro, signor(in)a/signore. Buongiorno."
+    },
+    {
+      "sequence_id": 27,
+      "text": "Colf: 21. Buongiorno."
+    },
+    {
+      "sequence_id": 28,
+      "text": "*Colf: abbreviation for collaboratrice familiare (maid)."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

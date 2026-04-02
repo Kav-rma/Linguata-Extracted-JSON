@@ -5,40 +5,40 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "ITALIAN SPEAKER: Sono le venti e dieci."
+      "text": "INTERPRETER: Sono le venti e dieci."
     },
     {
       "sequence_id": 2,
-      "text": "ITALIAN SPEAKER: It is 8:10 p.m."
+      "text": "INTERPRETER: It's 8:10 p.m."
     },
     {
       "sequence_id": 3,
-      "text": "ENGLISH SPEAKER: Che ora è in California?"
+      "text": "AMERICAN: My watch still shows Los Angeles time."
     },
     {
       "sequence_id": 4,
-      "text": "ENGLISH SPEAKER: What time is it in California?"
+      "text": "AMERICAN: Il mio orologio segna ancora l'ora di Los Angeles."
     },
     {
       "sequence_id": 5,
-      "text": "ENGLISH SPEAKER: My watch still shows Los Angeles time."
+      "text": "ITALIAN: Che ora è in California?"
     },
     {
       "sequence_id": 6,
-      "text": "ENGLISH SPEAKER: Il mio orologio segna ancora l'ora di Los Angeles."
+      "text": "ITALIAN: What time is it in California?"
     },
     {
       "sequence_id": 7,
-      "text": "ITALIAN SPEAKER: Sono le dodici e dieci."
+      "text": "AMERICAN: It's ten past 12:00 noon."
     },
     {
       "sequence_id": 8,
-      "text": "ITALIAN SPEAKER: It's ten past 12:00 noon."
+      "text": "AMERICAN: Sono le dodici e dieci."
     }
   ],
   "metadata": {
-    "page_start": 1,
-    "page_end": 1,
+    "page_start": "[PAGE 1]",
+    "page_end": "[PAGE 1]",
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }

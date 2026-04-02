@@ -19,8 +19,30 @@ STEPS:
 3. Extract all content as a READING lesson.
 4. Call save_extracted_lessons() with the JSON.
 
+TITLE NAMING RULE:
+- Read the main section heading from the PDF (e.g. "AT THE AIRPORT", "AT THE EXCHANGE OFFICE", "AT THE HOTEL I", "GOING BY TAXI", etc.)
+- Convert it to snake_case (all lowercase, spaces replaced with underscores, roman numerals kept as-is)
+- Title format: unit{N}_{snake_case_lesson_name}
+- Examples:
+    "AT THE AIRPORT I"         → unit1_at_the_airport_i
+    "AT THE AIRPORT II"        → unit1_at_the_airport_ii
+    "AT THE EXCHANGE OFFICE"   → unit3_at_the_exchange_office
+    "GETTING THE LOCAL TIME"   → unit4_getting_the_local_time
+    "AT THE HOTEL I"           → unit5_at_the_hotel_i
+    "AT THE HOTEL II"          → unit6_at_the_hotel_ii
+    "AT THE HOTEL III"         → unit7_at_the_hotel_iii
+    "AT THE HOTEL IV"          → unit8_at_the_hotel_iv
+    "GOING BY TAXI"            → unit9_going_by_taxi
+    "GETTING AROUND"           → unit10_getting_around
+    "AT THE EMBASSY I"         → unit11_at_the_embassy_i
+    "AT THE EMBASSY II"        → unit12_at_the_embassy_ii
+    "SHOPPING FOR CLOTHES"     → unit13_shopping_for_clothes
+    "AT THE SHOE STORE"        → unit14_at_the_shoe_store
+    "EATING OUT I"             → unit15_eating_out_i
+    "EATING OUT II"            → unit16_eating_out_ii
+    "PHONE CALL"               → unit17_phone_call
+
 RULES:
-- Title format: unit{N}_at_the_airport
 - Type: reading
 - Articles: each sentence or logical line = one article entry with sequential sequence_id
 - The PDF may contain Fill-in-the-Blank. For each:
@@ -40,7 +62,7 @@ RULES:
 
 JSON FORMAT:
 {
-  "title": "unit1_at_the_airport",
+  "title": "unit{N}_{snake_case_lesson_name}",
   "type": "reading",
   "questions_and_answers": [
     {

@@ -1,0 +1,478 @@
+{
+  "title": "unit13_shopping_for_clothes",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Buongiorno, signor(in)a/signore, vuoi ________ qualcosa?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "vedere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "comprare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "provare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prendere",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Buongiorno. Vorrei vedere una giacca sportiva e un ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "completo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "cappotto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "maglione",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vestito",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Prego, signor(in)a/signore, da questa parte. Che ________ porta?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "taglia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "misura",
+          "is_correct": false
+        },
+        {
+          "answer_text": "colore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "giacca",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "La 48, ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "credo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "penso",
+          "is_correct": false
+        },
+        {
+          "answer_text": "forse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "immagino",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Preferisce una tinta unita o ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "fantasia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "chiara",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scura",
+          "is_correct": false
+        },
+        {
+          "answer_text": "elegante",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Per la giacca uno spinato, per il completo un grigio ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "scuro",
+          "is_correct": true
+        },
+        {
+          "answer_text": "chiaro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lucido",
+          "is_correct": false
+        },
+        {
+          "answer_text": "forte",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Provi questa giacca grigia, è molto ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "bella",
+          "is_correct": true
+        },
+        {
+          "answer_text": "larga",
+          "is_correct": false
+        },
+        {
+          "answer_text": "nuova",
+          "is_correct": false
+        },
+        {
+          "answer_text": "stretta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Sì, mi piace, ma è un pò stretta sui ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "fianchi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "pantaloni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "polsi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "bottoni",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Non si preoccupi, chiamerò il sarto/la sarta per fare le ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "modifiche",
+          "is_correct": true
+        },
+        {
+          "answer_text": "misure",
+          "is_correct": false
+        },
+        {
+          "answer_text": "spese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prove",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Provi questo completo ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "adesso",
+          "is_correct": true
+        },
+        {
+          "answer_text": "subito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "domani",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prima",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Questo mi sta molto bene, ma i pantaloni sono troppo ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lunghi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "stretti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "corti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "larghi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "I pantaloni si possono accorciare facilmente. Per la giacca Le prendo le ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "misure",
+          "is_correct": true
+        },
+        {
+          "answer_text": "tasche",
+          "is_correct": false
+        },
+        {
+          "answer_text": "maniche",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scarpe",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Può ritornare giovedì per la ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "prova",
+          "is_correct": true
+        },
+        {
+          "answer_text": "vendita",
+          "is_correct": false
+        },
+        {
+          "answer_text": "giacca",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cassa",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Certo. Quanto viene in ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "tutto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "più",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cassa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lire",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Vediamo ... la giacca 120.000, il completo 230.000, più le modifiche 18.000 ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lire",
+          "is_correct": true
+        },
+        {
+          "answer_text": "euro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "soldi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "conti",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Si accomodi pure alla ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "cassa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "porta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sarta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prova",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "It has been a very busy week for you, getting sett/ed in your office,"
+    },
+    {
+      "sequence_id": 2,
+      "text": "becoming familiar with new things, and meeting new people. Now you begin to"
+    },
+    {
+      "sequence_id": 3,
+      "text": "feel more comfortable. It's a very nice day, and you decide to go shopping for"
+    },
+    {
+      "sequence_id": 4,
+      "text": "clothes right after work."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Comm.: 1. Buongiorno, signor(in)a/signore, vuoi vedere qualcosa?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Lei: 2. Buongiorno. Vorrei vedere una giacca sportiva e un completo."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Comm.: 3. Prego, signor(in)a/signore, da questa parte. Che taglia porta?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Lei: 4. La 48, credo."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Comm.: 5. Preferisce una tinta unita o fantasia?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 6. Per la giacca uno spinato, per il completo un grigio scuro."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Comm.: 7. Provi questa giacca grigia, è molto bella."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei: 8. Sì, mi piace, ma è un pò stretta sui fianchi."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Comm.: 9. Non si preoccupi, chiamerò il sarto/la sarta per fare le modifiche. Provi questo completo adesso."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: 10. Questo mi sta molto bene, ma i pantaloni sono troppo lunghi."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Comm.: 11. Ecco il sarto/la sarta signor(in)a/signore."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Sarto/a: 12. I pantaloni si possono accorciare facilmente. Per la giacca Le prendo le misure. Può ritornare giovedì per la prova?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 13. Certo. Quanto viene in tutto?"
+    },
+    {
+      "sequence_id": 18,
+      "text": "Comm.: 14. Vediamo ... la giacca 120.000, il completo 230.000, più le modifiche 18.000 lire. Si accomodi pure alla cassa."
+    },
+    {
+      "sequence_id": 19,
+      "text": "Lei: 15. Grazie."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Comm.: 16. Grazie a Lei."
+    }
+  ],
+  "metadata": {
+    "page_start": 2,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

@@ -4,120 +4,156 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Ha prenotato una camera per me?",
+      "question_text": "Io posso venire, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per Lei.",
+          "answer_text": "Anch'io posso venire.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Ha prenotato una camera per Loro?",
+      "question_text": "Io ho il passaporto, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per noi.",
+          "answer_text": "Anch'io ho il passaporto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Ha prenotato una camera per lei?",
+      "question_text": "Io ritiro i bagagli, e lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per lei.",
+          "answer_text": "Anch'io ritiro i bagagli.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Ha prenotato una camera per lui?",
+      "question_text": "Io cambio cento dollari, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per lui.",
+          "answer_text": "Anch'io cambio cento dollari.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Ha prenotato una camera per loro?",
+      "question_text": "Io dichiaro qualcosa, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per loro.",
+          "answer_text": "Anch'io dichiaro qualcosa.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "Ha prenotato una camera per voi?",
+      "question_text": "Io arrivo alle 10.00, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per noi.",
+          "answer_text": "Anch'io arrivo alle dieci.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "Ha prenotato una camera per noi?",
+      "question_text": "Io scuso la signora, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per voi.",
+          "answer_text": "Anch'io scuso la signora.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Ha prenotato una camera per Lei?",
+      "question_text": "Io sto bene, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per me.",
+          "answer_text": "Anch'io sto bene.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "Ha prenotato una camera per Paolo?",
+      "question_text": "Io sono americano/a, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per Paolo.",
+          "answer_text": "Anch'io sono americano/a.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "Ha prenotato una camera per noi tutti?",
+      "question_text": "Io preferisco Roma, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Sì, ha prenotato una camera per noi tutti.",
+          "answer_text": "Anch'io preferisco Roma.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Io voglio andare in ufficio, e Lei?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Anch'io voglio andare in ufficio.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Io vedo la signora Conti adesso, e Lei?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Anch'io vedo la signora Conti adesso.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Io voglio una stanza al Jolly Hotel, e lei?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Anch'io voglio una stanza al Jolly Hotel.",
           "is_correct": true
         }
       ]
@@ -125,10 +161,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 4]",
-    "page_end": "[PAGE 4]",
+    "page_start": 13,
+    "page_end": 13,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/4 Q: Ha prenotato una camera per Lei?\nA: Sì, ha prenotato una camera per me."
+    "model_conversation": "Q: Io rimango qui, e Lei? A: Anch'io rimango qui."
   }
 }

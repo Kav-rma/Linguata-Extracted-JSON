@@ -4,240 +4,240 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "What table is unavailable?",
+      "question_text": "Which table is reserved?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
-        {
-          "answer_text": "The one by the window",
-          "is_correct": false
-        },
         {
           "answer_text": "The corner table",
           "is_correct": true
         },
         {
-          "answer_text": "The outdoor table",
+          "answer_text": "The table by the window",
           "is_correct": false
         },
         {
-          "answer_text": "The large table",
+          "answer_text": "The largest table",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The outdoor table",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "What is offered along with the menu?",
+      "question_text": "What does the speaker offer instead of the reserved table?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "A dessert tray",
-          "is_correct": false
-        },
-        {
-          "answer_text": "A list of wines",
+          "answer_text": "A table near the window",
           "is_correct": true
         },
         {
-          "answer_text": "A bill",
+          "answer_text": "A table near the kitchen",
           "is_correct": false
         },
         {
-          "answer_text": "A map of Rome",
+          "answer_text": "A table outside",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A private room",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "What kind of dish are bucatini all'amatriciana described as?",
+      "question_text": "What items are given to the guests along with the table?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "A typical dish of Milan",
-          "is_correct": false
-        },
-        {
-          "answer_text": "A typical dish of Naples",
-          "is_correct": false
-        },
-        {
-          "answer_text": "A typical dish of Rome",
+          "answer_text": "The menu and the wine list",
           "is_correct": true
         },
         {
-          "answer_text": "A typical dish of Florence",
+          "answer_text": "The bill and the dessert menu",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The appetizer tray and water",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The daily special card and napkins",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "What sauce is used for bucatini all'amatriciana?",
+      "question_text": "What are the Roman specialty dish made with?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Cream sauce",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Tomato sauce",
+          "answer_text": "Tomato sauce and bacon",
           "is_correct": true
         },
         {
-          "answer_text": "Pesto sauce",
+          "answer_text": "Cream and mushrooms",
           "is_correct": false
         },
         {
-          "answer_text": "Mushroom sauce",
+          "answer_text": "Pesto and cheese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Butter and sage",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "What meat is mentioned with the sauce in bucatini all'amatriciana?",
+      "question_text": "What does the server ask the guests if they want before wine?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Beef",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Chicken",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Pancetta",
+          "answer_text": "An aperitif",
           "is_correct": true
         },
         {
-          "answer_text": "Sausage",
+          "answer_text": "Dessert",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Coffee",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bread",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "What can customers ask for while choosing?",
+      "question_text": "What appetizer does one sample response choose?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "A dessert",
-          "is_correct": false
-        },
-        {
-          "answer_text": "An aperitif",
+          "answer_text": "Prosciutto and melon",
           "is_correct": true
         },
         {
-          "answer_text": "The check",
+          "answer_text": "Bruschetta",
           "is_correct": false
         },
         {
-          "answer_text": "A taxi",
+          "answer_text": "Minestrone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Caprese salad",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "How are spaghetti alla carbonara described?",
+      "question_text": "Why does one diner choose trout for the second course?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "With tomato sauce and basil",
-          "is_correct": false
-        },
-        {
-          "answer_text": "With egg sauce and pancetta",
+          "answer_text": "Because they are tired of eating meat every day",
           "is_correct": true
         },
         {
-          "answer_text": "With seafood and garlic",
+          "answer_text": "Because trout is cheaper",
           "is_correct": false
         },
         {
-          "answer_text": "With butter and cheese",
+          "answer_text": "Because they do not like potatoes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Because the restaurant has no meat",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "What fish dish is ordered instead of meat?",
+      "question_text": "How are the spaghetti alla carbonara described?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Salmon with rice",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Trout with french fries",
+          "answer_text": "With an egg sauce and bacon",
           "is_correct": true
         },
         {
-          "answer_text": "Tuna with salad",
+          "answer_text": "With tomato sauce and basil",
           "is_correct": false
         },
         {
-          "answer_text": "Cod with spinach",
+          "answer_text": "With seafood and garlic",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With meat sauce and peas",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "How is the filet ordered?",
+      "question_text": "What wine do the guests order in the sample response?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Rare",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Medium",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Well done",
+          "answer_text": "Two bottles of Pinot grigio",
           "is_correct": true
         },
         {
-          "answer_text": "Cold",
+          "answer_text": "One bottle of Chianti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two bottles of Merlot",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One bottle of sparkling wine",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "What drinks are requested at the end?",
+      "question_text": "What kind of mineral water is ordered?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Two bottles of Pinot grigio and one sparkling mineral water",
+          "answer_text": "Sparkling mineral water",
           "is_correct": true
         },
         {
-          "answer_text": "One bottle of Chianti and two still waters",
+          "answer_text": "Still mineral water",
           "is_correct": false
         },
         {
-          "answer_text": "Two beers and one lemonade",
+          "answer_text": "Flavored mineral water",
           "is_correct": false
         },
         {
-          "answer_text": "One bottle of red wine and one coffee",
+          "answer_text": "Warm mineral water",
           "is_correct": false
         }
       ]
@@ -246,172 +246,164 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "Mi dispiace, quello d'angolo è riservato."
+      "text": "line5 - Mi dispiace, quello d'angolo è riservato (reserved); posso darvi quello vicino alla finestra."
     },
     {
       "sequence_id": 2,
-      "text": "Posso darvi quello vicino alla finestra."
-    },
-    {
-      "sequence_id": 3,
       "text": "Eccovi anche il menù e la lista dei vini."
     },
     {
-      "sequence_id": 4,
+      "sequence_id": 3,
       "text": "Volete ordinare subito?"
     },
     {
-      "sequence_id": 5,
-      "text": "È uno dei piatti tipici di Roma."
+      "sequence_id": 4,
+      "text": "line 7 - È uno dei piatti tipici di Roma."
     },
     {
-      "sequence_id": 6,
+      "sequence_id": 5,
       "text": "Sono fatti con salsa di pomodoro e pancetta."
     },
     {
-      "sequence_id": 7,
+      "sequence_id": 6,
       "text": "Li volete assaggiare?"
     },
     {
+      "sequence_id": 7,
+      "text": "line 9 - Volete un aperitivo o preferite ordinare il vino?"
+    },
+    {
       "sequence_id": 8,
-      "text": "Volete un aperitivo o preferite ordinare il vino?"
+      "text": "line 3 - Buongiorno signori."
     },
     {
       "sequence_id": 9,
-      "text": "Buongiorno signori."
-    },
-    {
-      "sequence_id": 10,
       "text": "Prego, va bene questo tavolo?"
     },
     {
+      "sequence_id": 10,
+      "text": "possible responses - Sì, va bene. Grazie."
+    },
+    {
       "sequence_id": 11,
-      "text": "Sì, va bene."
+      "text": "- Quello vicino alla finestra è riservato?"
     },
     {
       "sequence_id": 12,
-      "text": "Grazie."
+      "text": "line 5 - No, prego, si accomodino."
     },
     {
       "sequence_id": 13,
-      "text": "Quello vicino alla finestra è riservato?"
-    },
-    {
-      "sequence_id": 14,
-      "text": "No, prego, si accomodino."
-    },
-    {
-      "sequence_id": 15,
       "text": "Vogliono il menù?"
     },
     {
+      "sequence_id": 14,
+      "text": "possible responses - Sì, grazie."
+    },
+    {
+      "sequence_id": 15,
+      "text": "- Sì, grazie, e ci porti un aperitivo intanto che scegliamo."
+    },
+    {
       "sequence_id": 16,
-      "text": "Sì, grazie."
+      "text": "line 5 - (following the above) Cosa vogliono ordinare per cominciare?"
     },
     {
       "sequence_id": 17,
-      "text": "Sì, grazie, e ci porti un aperitivo intanto che scegliamo."
+      "text": "line 5 - (following the above) Ecco gli aperitivi, signori."
     },
     {
       "sequence_id": 18,
-      "text": "Cosa vogliono ordinare per cominciare?"
-    },
-    {
-      "sequence_id": 19,
-      "text": "Ecco gli aperitivi, signori."
-    },
-    {
-      "sequence_id": 20,
       "text": "Vogliono ordinare?"
     },
     {
-      "sequence_id": 21,
-      "text": "Sì."
+      "sequence_id": 19,
+      "text": "possible responses - Sì."
     },
     {
-      "sequence_id": 22,
+      "sequence_id": 20,
       "text": "Come sono fatti gli spaghetti alla carbonara?"
     },
     {
-      "sequence_id": 23,
-      "text": "Io prendo l'antipasto: prosciutto e melone."
+      "sequence_id": 21,
+      "text": "- Io prendo l'antipasto: prosciutto e melone."
     },
     {
-      "sequence_id": 24,
+      "sequence_id": 22,
       "text": "Per secondo ... uhm ... sono stufo/a della carne: la mangio ogni giorno."
     },
     {
-      "sequence_id": 25,
+      "sequence_id": 23,
       "text": "Mi porti la trota con contorno di patate fritte."
     },
     {
-      "sequence_id": 26,
-      "text": "Per noi, niente primo."
+      "sequence_id": 24,
+      "text": "- Per noi, niente primo."
     },
     {
-      "sequence_id": 27,
+      "sequence_id": 25,
       "text": "Prendiamo il secondo."
     },
     {
-      "sequence_id": 28,
+      "sequence_id": 26,
       "text": "Vediamo ... ci porti due bistecche ai ferri."
     },
     {
-      "sequence_id": 29,
+      "sequence_id": 27,
       "text": "Al sangue, per cortesia."
     },
     {
-      "sequence_id": 30,
-      "text": "Una mezza di lasagne, e per secondo piatto il filetto di bue, come contorno prendo le patate fritte."
+      "sequence_id": 28,
+      "text": "- Una mezza di lasagne, e per secondo piatto il filetto di bue, come contorno prendo le patate fritte."
     },
     {
-      "sequence_id": 31,
+      "sequence_id": 29,
       "text": "Il filetto ben cotto, per favore."
     },
     {
-      "sequence_id": 32,
-      "text": "Io salto l'antipasto, prendo i tortellini in brodo."
+      "sequence_id": 30,
+      "text": "- Io salto l'antipasto, prendo i tortellini in brodo."
     },
     {
-      "sequence_id": 33,
+      "sequence_id": 31,
       "text": "Posso ordinare il secondo piatto più tardi?"
     },
     {
-      "sequence_id": 34,
+      "sequence_id": 32,
       "text": "Sono ancora indeciso/a."
     },
     {
-      "sequence_id": 35,
-      "text": "Io prendo gli spaghetti al ragù."
+      "sequence_id": 33,
+      "text": "- Io prendo gli spaghetti al ragù."
     },
     {
-      "sequence_id": 36,
+      "sequence_id": 34,
       "text": "Al dente, mi raccomando!"
     },
     {
+      "sequence_id": 35,
+      "text": "line 7 - (following the above) Gli spaghetti alla carbonara sono conditi con una salsa d'uovo e pancetta."
+    },
+    {
+      "sequence_id": 36,
+      "text": "line 7 - (following the above) Può ordinare più tardi se è ancora indeciso/a."
+    },
+    {
       "sequence_id": 37,
-      "text": "Gli spaghetti alla carbonara sono conditi con una salsa d'uovo e pancetta."
+      "text": "line 9 - Da bere porto del vino?"
     },
     {
       "sequence_id": 38,
-      "text": "Può ordinare più tardi se è ancora indeciso/a."
+      "text": "possible response - Sì, due bottiglie di Pinot grigio, e una di acqua minerale gassata."
     },
     {
       "sequence_id": 39,
-      "text": "Da bere porto del vino?"
-    },
-    {
-      "sequence_id": 40,
-      "text": "Sì, due bottiglie di Pinot grigio, e una di acqua minerale gassata."
-    },
-    {
-      "sequence_id": 41,
-      "text": "Va bene, signori."
+      "text": "line 11 - (following the above) Va bene, signori."
     }
   ],
   "metadata": {
-    "page_start": 2,
-    "page_end": 3,
+    "page_start": 20,
+    "page_end": 22,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

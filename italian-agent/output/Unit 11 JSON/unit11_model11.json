@@ -9,7 +9,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, siete arrivatile in orario ieri.",
+          "answer_text": "No, siamo arrivati/e in orario ieri.",
           "is_correct": true
         }
       ]
@@ -21,7 +21,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, siamo arrivati/e in orario ieri.",
+          "answer_text": "No, è arrivata in ritardo ieri.",
           "is_correct": true
         }
       ]
@@ -33,14 +33,26 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, è arrivato in anticipo ieri.",
+          "answer_text": "No, siete arrivati/e in orario ieri.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "È arrivato sempre in anticipo (ear/y) Tonino?",
+      "question_text": "È arrivato sempre in anticipo Tonino?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, è arrivato in anticipo ieri.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Sono arrivati/e sempre in orario, loro?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -51,25 +63,13 @@
       ]
     },
     {
-      "sequence_id": 5,
-      "question_text": "Sono arrivatile sempre in orario, loro?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "No, è arrivatola in orario ieri.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
       "sequence_id": 6,
-      "question_text": "Sono arrivatola sempre in orario, io?",
+      "question_text": "Sono arrivato/a sempre in orario, io?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, è arrivata in ritardo ieri.",
+          "answer_text": "No, sono arrivato/a in orario ieri.",
           "is_correct": true
         }
       ]
@@ -77,10 +77,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 7]",
-    "page_end": "[PAGE 7]",
+    "page_start": 20,
+    "page_end": 20,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/11 o: È sempre arrivatola in ritardo, Lei?\nA: No, sono arrivatola in ritardo ieri."
+    "model_conversation": "Q: È sempre arrivato/a in ritardo, Lei? A: No, sono arrivato/a in ritardo ieri."
   }
 }

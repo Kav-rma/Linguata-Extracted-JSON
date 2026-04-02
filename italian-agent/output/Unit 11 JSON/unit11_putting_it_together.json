@@ -4,96 +4,96 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "What city is mentioned in the greeting?",
+      "question_text": "What is the name given in the self-introduction?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Rome",
+          "answer_text": "Paola Contini",
           "is_correct": true
         },
         {
-          "answer_text": "Milan",
+          "answer_text": "Marisa Catalano",
           "is_correct": false
         },
         {
-          "answer_text": "Naples",
+          "answer_text": "Arianna Giacometti",
           "is_correct": false
         },
         {
-          "answer_text": "Florence",
+          "answer_text": "Linosa Contini",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "How long does one speaker say they have worked there?",
+      "question_text": "How long has the speaker worked there in one response?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Nine years",
+          "answer_text": "For nine years",
           "is_correct": true
         },
         {
-          "answer_text": "One month",
+          "answer_text": "For three years",
           "is_correct": false
         },
         {
-          "answer_text": "Three years",
+          "answer_text": "For one month",
           "is_correct": false
         },
         {
-          "answer_text": "Ten years",
+          "answer_text": "For fifteen years",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "What is the alternative length of employment given in the dialogue?",
+      "question_text": "What is the alternate length of employment mentioned?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "One year",
+          "answer_text": "For one year",
           "is_correct": true
         },
         {
-          "answer_text": "Two years",
+          "answer_text": "For two years",
           "is_correct": false
         },
         {
-          "answer_text": "Five years",
+          "answer_text": "For six months",
           "is_correct": false
         },
         {
-          "answer_text": "Six months",
+          "answer_text": "For ten years",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "What does one speaker promise to do?",
+      "question_text": "What does the speaker ask about the visitor's effort?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Do their best",
+          "answer_text": "They say they will do their best",
           "is_correct": true
         },
         {
-          "answer_text": "Return tomorrow",
+          "answer_text": "They say they are tired",
           "is_correct": false
         },
         {
-          "answer_text": "Call the family",
+          "answer_text": "They say they will leave soon",
           "is_correct": false
         },
         {
-          "answer_text": "Leave immediately",
+          "answer_text": "They say they are unavailable",
           "is_correct": false
         }
       ]
@@ -113,11 +113,11 @@
           "is_correct": false
         },
         {
-          "answer_text": "Marisa Catalano",
+          "answer_text": "Paola Contini",
           "is_correct": false
         },
         {
-          "answer_text": "Paola Contini",
+          "answer_text": "Marisa Catalano",
           "is_correct": false
         }
       ]
@@ -137,42 +137,42 @@
           "is_correct": false
         },
         {
-          "answer_text": "Tonino",
+          "answer_text": "Paola Contini",
           "is_correct": false
         },
         {
-          "answer_text": "Arianna",
+          "answer_text": "The visitor's family",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "What does the visitor say when arriving at the office?",
+      "question_text": "What does the receptionist ask first in the alternate responses section?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Good morning, I am [first and last name]",
+          "answer_text": "Good morning, may I help you?",
           "is_correct": true
         },
         {
-          "answer_text": "I am here to resign",
+          "answer_text": "Where are you from?",
           "is_correct": false
         },
         {
-          "answer_text": "I am looking for the train station",
+          "answer_text": "Did you come with your family?",
           "is_correct": false
         },
         {
-          "answer_text": "I forgot my documents at home",
+          "answer_text": "Why are you late?",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Who is Marisa Catalano identified as?",
+      "question_text": "Who is Marisa Catalano described as being?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
@@ -196,48 +196,48 @@
     },
     {
       "sequence_id": 9,
-      "question_text": "Why does one speaker say they came to the office today?",
+      "question_text": "Why does the visitor say they came to the office today?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "They were in the area and came to take a look",
+          "answer_text": "They were nearby and came to take a look",
           "is_correct": true
         },
         {
-          "answer_text": "They had an emergency meeting",
+          "answer_text": "They had an urgent meeting",
           "is_correct": false
         },
         {
-          "answer_text": "They needed to collect a package",
+          "answer_text": "They got lost",
           "is_correct": false
         },
         {
-          "answer_text": "They were starting work that day",
+          "answer_text": "They were delivering documents",
           "is_correct": false
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "What does the final speaker offer?",
+      "question_text": "What does the final speaker offer after inviting the visitor to sit down?",
       "type": "multiple_choice",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Please have a seat, can I help you?",
+          "answer_text": "Help",
           "is_correct": true
         },
         {
-          "answer_text": "Please come back next week",
+          "answer_text": "Coffee",
           "is_correct": false
         },
         {
-          "answer_text": "Please sign these papers",
+          "answer_text": "A tour",
           "is_correct": false
         },
         {
-          "answer_text": "Please wait outside",
+          "answer_text": "A job contract",
           "is_correct": false
         }
       ]
@@ -246,88 +246,64 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "Buongiorno, signorOn)a/signore .... Ma Lei è il signor la signora la signorina (+ fast name), se non erro, no?"
+      "text": "line 1 -Buongiorno, signorOn)a/signore .... Ma Lei è il signor la signora la signorina (+ fast name), se non erro, no? lo sono Paola Contini."
     },
     {
       "sequence_id": 2,
-      "text": "lo sono Paola Contini."
+      "text": "line 3 -II piacere è tutto mio. Bene arrivatola a Roma."
     },
     {
       "sequence_id": 3,
-      "text": "II piacere è tutto mio."
+      "text": "line 5 -Sì, ci lavoro da nove anni."
     },
     {
       "sequence_id": 4,
-      "text": "Bene arrivatola a Roma."
+      "text": "-No, lavoro qui da un anno."
     },
     {
       "sequence_id": 5,
-      "text": "Sì, ci lavoro da nove anni."
+      "text": "line 7 -Farò del mio meglio. È venuto/a insieme alla Sua famiglia?"
     },
     {
       "sequence_id": 6,
-      "text": "No, lavoro qui da un anno."
+      "text": "line 9 -Se permette Le presento il dottor Giacometti della Sezione Consolare, e la signora Linosa dell'Amministrazione."
     },
     {
       "sequence_id": 7,
-      "text": "Farò del mio meglio."
+      "text": "Variants Requiring Different Responses"
     },
     {
       "sequence_id": 8,
-      "text": "È venuto/a insieme alla Sua famiglia?"
+      "text": "line 1 -Buongiorno,desidera?"
     },
     {
       "sequence_id": 9,
-      "text": "Se permette Le presento il dottor Giacometti della Sezione Consolare, e la signora Linosa dell'Amministrazione."
+      "text": "possible ,esponse -Buongiorno, sono (first + fast name). Lei è la signora Marisa Catalano, immagino!"
     },
     {
       "sequence_id": 10,
-      "text": "Buongiorno,desidera?"
+      "text": "line 3 -(fol/owing the above) Sì, sono io, sono la Sua assistente. Piacere di conoscerla."
     },
     {
       "sequence_id": 11,
-      "text": "Buongiorno, sono (first + fast name)."
+      "text": "possible ,esponse -II piacere è tutto mio. Ho sentito parlare tanto bene di Lei."
     },
     {
       "sequence_id": 12,
-      "text": "Lei è la signora Marisa Catalano, immagino!"
+      "text": "line 5 -(following the above) Lei è veramente molto gentile, ma come mai è venuta/o in ufficio oggi? Se non sbaglio, avrebbe dovuto cominciare lunedì, no?"
     },
     {
       "sequence_id": 13,
-      "text": "Sì, sono io, sono la Sua assistente."
+      "text": "possible ,esponse -Mi trovavo da queste parti e sono venuto/a a dare un'occhiata."
     },
     {
       "sequence_id": 14,
-      "text": "Piacere di conoscerla."
-    },
-    {
-      "sequence_id": 15,
-      "text": "II piacere è tutto mio."
-    },
-    {
-      "sequence_id": 16,
-      "text": "Ho sentito parlare tanto bene di Lei."
-    },
-    {
-      "sequence_id": 17,
-      "text": "Lei è veramente molto gentile, ma come mai è venuta/o in ufficio oggi?"
-    },
-    {
-      "sequence_id": 18,
-      "text": "Se non sbaglio, avrebbe dovuto cominciare lunedì, no?"
-    },
-    {
-      "sequence_id": 19,
-      "text": "Mi trovavo da queste parti e sono venuto/a a dare un'occhiata."
-    },
-    {
-      "sequence_id": 20,
-      "text": "Ma prego si accomod i, posso esserle utile?"
+      "text": "line 7 -(following the aboveJ Ma prego si accomod i, posso esserle utile?"
     }
   ],
   "metadata": {
-    "page_start": 1,
-    "page_end": 2,
+    "page_start": 20,
+    "page_end": 21,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

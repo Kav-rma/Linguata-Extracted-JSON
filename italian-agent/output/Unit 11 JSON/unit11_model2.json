@@ -4,7 +4,7 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "lei conosce Napoli?",
+      "question_text": "Lei conosce Napoli?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -16,7 +16,7 @@
     },
     {
       "sequence_id": 2,
-      "question_text": "lui conosce la signorina Rizzo?",
+      "question_text": "Lui conosce la signorina Rizzo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -33,7 +33,7 @@
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "No, non conosciamo l' Hotel Serena.",
+          "answer_text": "No, non conosciamo l'Hotel Serena.",
           "is_correct": true
         }
       ]
@@ -52,7 +52,7 @@
     },
     {
       "sequence_id": 5,
-      "question_text": "loro conoscono bene la città?",
+      "question_text": "Loro conoscono bene la città?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -64,7 +64,7 @@
     },
     {
       "sequence_id": 6,
-      "question_text": "lei conosce Valentino?",
+      "question_text": "Lei conosce Valentino?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -77,10 +77,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 2]",
-    "page_end": "[PAGE 2]",
+    "page_start": 15,
+    "page_end": 15,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/2 Q: lei conosce la signora Mannini?\nA: No, non conosco la signora Mannini."
+    "model_conversation": "Q: Lei conosce la signora Mannini? A: No, non conosco la signora Mannini."
   }
 }

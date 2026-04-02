@@ -1,75 +1,63 @@
 {
-  "title": "unit6_model1",
+  "title": "unit11_model1",
   "type": "writing",
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Dove metto le matite (pencilsJ)?",
+      "question_text": "Vorrei conoscere il signore.",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Le metta sul tavolo (table).",
+          "answer_text": "Piacere.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Dove metto le penne (pens)?",
+      "question_text": "Vorrei conoscere la signora.",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Le metta lì.",
+          "answer_text": "Molto piacere.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Dove metto le sigarette?",
+      "question_text": "Vorrei conoscere il dottore.",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Le metta nel cassetto (drawer).",
+          "answer_text": "Piacere di conoscerla.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Dove metto le coperte?",
+      "question_text": "Vorrei conoscere la dottoressa.",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Le metta sul letto (bedJ.",
+          "answer_text": "Molto lieto/a.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Dove metto le scarpe?",
+      "question_text": "Vorrei conoscere il signor Rossi.",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Le metta nell'armadio.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question_text": "Dove metto le patenti?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Le metta nel cassetto.",
+          "answer_text": "Piacere.",
           "is_correct": true
         }
       ]
@@ -77,10 +65,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 1]",
-    "page_end": "[PAGE 1]",
+    "page_start": 15,
+    "page_end": 15,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Model 1\n(a) Q: Dove metto le valigie?\nA: Le metta S!!.L."
+    "model_conversation": "I: Vorrei conoscere il signore.\nSb: Piacere.\nMolto piacere.\nPiacere di conoscerla.\nMolto lieto/a."
   }
 }

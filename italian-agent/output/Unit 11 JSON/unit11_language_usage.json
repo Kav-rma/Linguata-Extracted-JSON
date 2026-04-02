@@ -1,0 +1,258 @@
+{
+  "title": "unit11_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How can an Italian statement be turned into a question?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "By adding no? or vero? to it",
+          "is_correct": true
+        },
+        {
+          "answer_text": "By reversing the word order",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By adding non at the beginning",
+          "is_correct": false
+        },
+        {
+          "answer_text": "By changing the verb to the future tense",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which expression means 'Pleased to meet you'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Piacere di conoscerla.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "So tutto.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lei è la signora Contini, vero?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lavoro in questa sezione da quattro anni.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which verb is primarily used for knowing or being acquainted with people or places?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "conoscere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sapere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "essere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "trovare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does a present verb form used with da plus a period of time indicate?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "How long something has been going on",
+          "is_correct": true
+        },
+        {
+          "answer_text": "What will happen in the future",
+          "is_correct": false
+        },
+        {
+          "answer_text": "What happened only once in the past",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A command to do something",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is the normal situation with possessives in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They are expressed with the definite article",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They never use articles",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They only appear after nouns",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are always plural",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which form means 'my claim tickets'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "i miei scontrini",
+          "is_correct": true
+        },
+        {
+          "answer_text": "il mio scontrino",
+          "is_correct": false
+        },
+        {
+          "answer_text": "le mie valigie",
+          "is_correct": false
+        },
+        {
+          "answer_text": "i Suoi biglietti",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the future form of io essere given in the text?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sarò",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sarà",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sarete",
+          "is_correct": false
+        },
+        {
+          "answer_text": "saranno",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which preposition connects certain nouns or adjectives to a following infinitive in the examples given?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "di",
+          "is_correct": true
+        },
+        {
+          "answer_text": "a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does the capitalized La attached to an infinitive stand for?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A formal singular direct object you",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A feminine plural subject",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A definite article for masculine nouns",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An informal plural object",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which day of the week is feminine?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "domenica",
+          "is_correct": true
+        },
+        {
+          "answer_text": "lunedì",
+          "is_correct": false
+        },
+        {
+          "answer_text": "martedì",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sabato",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes\n1. Any statement may be turned into a question byadding no? or vero? to it.\nThus:\nLei è la signora Contini, no?\nYou are Mrs. Contini, aren 't you?\nLei è la signora Contini, vero?\nYou are Mrs. Contini, aren 't you?\n2. The expressions commonly used in introductions are:\nPiacere.\nMolto piacere.\nPiacere di conoscerla. How do you do?\n(or)\nPleased to meet you.\n3. You have had two verbs for to know--conoscere and sapere. The former\nis primari/y used to express the idea of knowing or being acquainted with\npeople or places. The latter is used for most other kinds of knowing.\nsapere ---------..~ So tutto. I know everything.\n4. A present verb form used with da (+ period of time) refers to how long\nsomething has been going ono Thus, note the translations:\nXI-253\nHosted for free on livelingua.com\nIT ALiAN FAST\nLei lavora all·Ambasciata da molto tempo.\nYou have been working at the Embassy for a long time.\nLavoro in questa sezione da quattro anni.\nl've been working in this section for the past four years.\n5. You have had several examples of p ossessi ves (for my or your) being\nexpressed with the definite article (il, la, i, etc.). This is the normal situation\nwith p ossessi ves in Italian. Exceptions ta this rule are to be learned as they\no ccu r. Here are the four forms of mio (my) and Suo (your), together\nwith their definite articles. Notice the irregular masculine plural forms.\nil mio scontrino\ni miei scontrini\nla mia valigia\nle mie valigie\nil Suo biglietto\ni Suoi biglietti\nla Sua conoscenza\nle Sue conoscenze my claim ticket\nmy claim tickets\nmysuitcase\nmy suitcases\nyourticket\nyour tickets\nyourknowledge\nyour areas af knowledge\n6. Notice the future farms sarò (1 will be) and sarà (you, she, he, it will be,)\nas well as mi troverò (1 will find myself.). Future farms af these verbs are:\n(io) sarò mi troverò\n(lei) sarà si troverà\n{noi} saremo ci troveremo\n(voi) sarete vi troverete\n(loro) saranno si troveranno\nXI-254\nHosted for free on livelingua.com\n7. Certa in nouns or adjectives are connected to a following infinitive by a\npreposition. You have two examples of this in the dia/og.\npiacere di conoscerla\nlieta di aiutarla\n8. Note the capitalized La attached to the infinitive less fina/ -e (conoscerla,\naiutarLa--compare arrivederla). The form la stands for a formaI singular\ndirect object you.\n9. Normally the word sempre immediate/y follows a verb. With the past time\nphrase, it may a/so come between the two parts of the phrase. Thus:\n10. Ha lavorato sempre in questa sezione?\n(or)\nHa sempre lavorato in questa sezione?\nThe days of the week are:\nlunedì Monday\nmartedì Tuesday\nmercoledì Wednesday\ngiovedì Thursday\nvenerdì Friday\nsabato Saturday\ndomenica Sunday\nThey are ali masculine except fordomenica, which is feminine."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

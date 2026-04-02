@@ -1,0 +1,138 @@
+{
+  "title": "unit12_reading_and_translation",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Che cosa fa il signor Soldani dopo le presentazioni?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Dopo le presentazioni, telefona al bar e ordina dei caffè per tutti i presenti.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Ordina caffè per tutti i presenti?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sì, ordina caffè per tutti i presenti.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Che cosa chiede uno dei signori al signor Franchi?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Gli chiede se gli piace l'albergo che gli hanno prenotato.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Perché non fa in tempo a rispondere il signor Franchi?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Perché arriva il ragazzino del bar proprio in quel momento.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Di chi era l'ultima frase?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Era del signor Soldani.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Quale sezione mostra il signor Soldani al signor Franchi?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Gli mostra tutta la Sezione Consolare.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Quando?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Dopo aver finito di bere il caffè.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Com'è l'ufficio del signor Franchi?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "È una stanza d'angolo con due finestre (una su Via Veneto e l'altra su una via secondaria); anche se non è grande, il soffitto alto lo fa sembrare spazioso.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Dopo le presentazioni, il signor Soldani telefona al bar, e ordina dei caffè per tutti i presenti."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Durante la conversazione, uno dei signori chiede al signor Franchi: «Le piace l'albergo che Le abbiamo prenotato?»"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Il signor Franchi non fa in tempo a rispondere, perché proprio in quel momento, è arrivato il ragazzino del bar; ... e con gran stupore da parte del signor Franchi, i signori, quasi in coro, cominciano a dire: «Offro, io!» «No, no, lasci, offro io!» «No, no. Pago io. Lei ha pagato proprio ieri!»"
+    },
+    {
+      "sequence_id": 4,
+      "text": "L'ultima frase era quella del signor Soldani."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Dopo aver finito di bere il caffè, il signor Soldani mostra al signor Franchi il suo nuovo ufficio, e tutta la Sezione Consolare."
+    },
+    {
+      "sequence_id": 6,
+      "text": "L'ufficio del signor Franchi è una stanza d'angolo; ci sono due finestre: una dà su Via Veneto, e l'altra su una via secondaria."
+    },
+    {
+      "sequence_id": 7,
+      "text": "L'ufficio non è grande, ma siccome il soffitto della stanza è molto alto, sembra molto spazioso."
+    }
+  ],
+  "metadata": {
+    "page_start": 22,
+    "page_end": 22,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

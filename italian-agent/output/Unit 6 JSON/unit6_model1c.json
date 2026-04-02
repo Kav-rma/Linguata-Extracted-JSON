@@ -1,159 +1,147 @@
 {
-  "title": "unit5_model6",
+  "title": "unit6_model1c",
   "type": "writing",
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "lo posso venire, e Lei?",
+      "question_text": "Dove metto la matita?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io posso venire.",
+          "answer_text": "La metta sul tavolo.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "lo ho il passaporto, e Lei?",
+      "question_text": "Dove metto le patenti?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io ho il passaporto.",
+          "answer_text": "Le metta nel cassetto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "lo ritiro i bagagli, e lei?",
+      "question_text": "Dove metto le scarpe?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io ritiro i bagagli.",
+          "answer_text": "Le metta nell'armadio.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "lo cambio cento dollari, e Lei?",
+      "question_text": "Dove metto la penna?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io cambio cento dollari.",
+          "answer_text": "La metta lì.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "lo dichiaro qualcosa, e Lei?",
+      "question_text": "Dove metto le coperte?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io dichiaro qualcosa.",
+          "answer_text": "Le metta sul Ietto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "lo arrivo alle 10.00, e Lei?",
+      "question_text": "Dove metto la sigaretta?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io arrivo alle dieci.",
+          "answer_text": "La metta nel cassetto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "lo scuso la signora, e Lei?",
+      "question_text": "Dove metto la patente?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io scuso la signora.",
+          "answer_text": "La metta nel cassetto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "lo sto bene, e Lei?",
+      "question_text": "Dove metto le sigarette?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io sto bene.",
+          "answer_text": "Le metta nel cassetto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "lo sono americano/a, e Lei?",
+      "question_text": "Dove metto la coperta?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io sono americano/a.",
+          "answer_text": "La metta sul Ietto.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "lo preferisco Roma, e Lei?",
+      "question_text": "Dove metto le penne?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io preferisco Roma.",
+          "answer_text": "Le metta lì.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 11,
-      "question_text": "lo voglio andare in ufficio, e Lei?",
+      "question_text": "Dove metto la scarpa?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io voglio andare in ufficio.",
+          "answer_text": "La metta nell'armadio.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 12,
-      "question_text": "lo vedo la signora Conti adesso, e Lei?",
+      "question_text": "Dove metto le matite?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io vedo la signora Conti adesso.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 13,
-      "question_text": "lo voglio una stanza al Jolly Hotel, e lei?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Anch'io voglio una stanza al Jolly Hotel.",
+          "answer_text": "Le metta sul tavolo.",
           "is_correct": true
         }
       ]
@@ -161,10 +149,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 4]",
-    "page_end": "[PAGE 4]",
+    "page_start": 11,
+    "page_end": 11,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/5 Q: lo rimango qui, e Lei?\nA: Anch'io rimango qui."
+    "model_conversation": "Model 1(c)\nQ: Dove metto la valigia?\nA: La metta ID!!:."
   }
 }

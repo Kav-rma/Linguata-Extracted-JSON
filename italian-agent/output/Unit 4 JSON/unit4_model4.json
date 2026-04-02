@@ -4,84 +4,60 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "lo sono pronto/a, e Lei?",
+      "question_text": "Noi preferiamo arrivare da Washington, e voi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anch'io sono pronto/a.",
+          "answer_text": "Noi preferiamo arrivare da N.V.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Loro sono pronti/e, e le signore?",
+      "question_text": "Voi preferite rimanere a Roma, e noi?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche le signore sono pronte.",
+          "answer_text": "Voi preferite rimanere a Milano.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Noi tutti siamo pronti/e, e voi?",
+      "question_text": "Lui preferisce rimanere un giorno, e lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche noi siamo pronti/e.",
+          "answer_text": "Lei preferisce rimanere 2 giorni.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Voi siete pronti/e, ed io e Giulia?",
+      "question_text": "lo preferisco andare in albergo, e Lei?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche voi siete pronti/e.",
+          "answer_text": "lo preferisco andare all' Amba­sciata.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Roberto è pronto, e Bruno?",
+      "question_text": "Loro preferiscono cambiare 100 dollari, e loro?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Anche Bruno è pronto.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question_text": "Giuliana è pronta, e Chiara?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Anche Chiara è pronta.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 7,
-      "question_text": "I bagagli sono pronti, e i signori?",
-      "type": "writing",
-      "has_answer": true,
-      "answers": [
-        {
-          "answer_text": "Anche i signori sono pronti.",
+          "answer_text": "Loro preferiscono cambiare 200 dollari.",
           "is_correct": true
         }
       ]
@@ -89,10 +65,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 3]",
-    "page_end": "[PAGE 3]",
+    "page_start": 9,
+    "page_end": 9,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/5 Q: Giuseppe è pronto, e Marinella?\nA: Anche Marinella è pronta."
+    "model_conversation": "Mode/4 Q: lo preferisco andare all'ufficio cambi, e Lei?\nA: lo preferisco andare all'hotel.\n(student's choiceJ"
   }
 }

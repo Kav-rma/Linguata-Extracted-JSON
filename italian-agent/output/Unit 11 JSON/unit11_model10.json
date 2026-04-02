@@ -28,19 +28,19 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "Dormite in questa stanza da molto\ntempo?",
+      "question_text": "Dormite in questa stanza da molto tempo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
         {
-          "answer_text": "Abbiamo sempre dormito in questa\nstanza.",
+          "answer_text": "Abbiamo sempre dormito in questa stanza.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Fate la spesa (grocery shopping) qui\nda molto tempo?",
+      "question_text": "Fate la spesa qui da molto tempo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -52,7 +52,7 @@
     },
     {
       "sequence_id": 5,
-      "question_text": "Luca prende quest'autobus da molto\ntempo?",
+      "question_text": "Luca prende quest'autobus da molto tempo?",
       "type": "writing",
       "has_answer": true,
       "answers": [
@@ -77,10 +77,10 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": "[PAGE 6]",
-    "page_end": "[PAGE 7]",
+    "page_start": 19,
+    "page_end": 20,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "model_conversation": "Mode/10 o: Lei lavora qui da molto tempo?\nA: Ho sempre lavorato qui."
+    "model_conversation": "Q: Lei lavora qui da molto tempo? A: Ho sempre lavorato qui."
   }
 }

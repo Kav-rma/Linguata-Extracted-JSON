@@ -1,0 +1,382 @@
+{
+  "title": "unit17_phone_call",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Pronto, casa ________, chi parla?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Curti",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Lombardia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "signorina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "giardino",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Buongiorno, sono la signorina (+ last name), telefono per l'appartamento da _________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "affittare",
+          "is_correct": true
+        },
+        {
+          "answer_text": "vendere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "comprare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "visitare",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Ha bisogno d'__________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "informazioni",
+          "is_correct": true
+        },
+        {
+          "answer_text": "indirizzi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "camere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "finestre",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Dica pure, sono il _____________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "proprietario",
+          "is_correct": true
+        },
+        {
+          "answer_text": "portiere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vicino",
+          "is_correct": false
+        },
+        {
+          "answer_text": "custode",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Bene, l'annuncio parla di cinque locali più servizi; come sono ___________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "suddivisi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "arredati",
+          "is_correct": false
+        },
+        {
+          "answer_text": "puliti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "venduti",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Ci sono due belle grandi camere da letto, il salotto, la sala da pranzo con un grande _________ e la cucina.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "balcone",
+          "is_correct": true
+        },
+        {
+          "answer_text": "garage",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ascensore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "corridoio",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "La cucina è grande? Abbastanza grande, c'è anche lo spazio per il tavolo e le _________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sedie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "porte",
+          "is_correct": false
+        },
+        {
+          "answer_text": "finestre",
+          "is_correct": false
+        },
+        {
+          "answer_text": "stanze",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "C'è un bagno completo nella zona notte; il secondo che è nella zona giorno ha anche l'impianto per la _____________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "lavatrice",
+          "is_correct": true
+        },
+        {
+          "answer_text": "doccia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cucina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "televisione",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "È in via Lombardia 2, al _________ piano.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "quinto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "secondo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "terzo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "quarto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "È molto luminoso perché non ci sono palazzi davanti e molte finestre danno su un giardino _____________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "pubblico",
+          "is_correct": true
+        },
+        {
+          "answer_text": "privato",
+          "is_correct": false
+        },
+        {
+          "answer_text": "piccolo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "chiuso",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Domani pomeriggio alle quattro, andrebbe _________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "bene",
+          "is_correct": true
+        },
+        {
+          "answer_text": "subito",
+          "is_correct": false
+        },
+        {
+          "answer_text": "domani",
+          "is_correct": false
+        },
+        {
+          "answer_text": "presto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Va bene, signor Curti. A domani pomeriggio alle quattro allora, _______________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "arrivederla",
+          "is_correct": true
+        },
+        {
+          "answer_text": "buonasera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "grazie",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pronto",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "You read an advertisement for an apartment for rent, and you cali to find out more about it."
+    },
+    {
+      "sequence_id": 3,
+      "text": "The person who answers the phone is the owner; he describes the apartment and its location to you."
+    },
+    {
+      "sequence_id": 4,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Sig. Curti: 1. Pronto, casa Curti, chi parla?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Lei: 2. Buongiorno, sono la signorina (+ last name), telefono per l'appartamento da affittare."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Sig. Curti: 3. Ha bisogno d'informazioni? Dica pure, sono il proprietario."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Lei: 4. Bene, l'annuncio parla di cinque locali più servizi; come sono suddivisi?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Sig. Curti: 5. Ci sono due belle grandi camere da letto, il salotto, la sala da pranzo con un grande balcone e la cucina."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 6. La cucina è grande?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Sig. Curti: 7. Abbastanza grande, c'è anche lo spazio per il tavolo e le sedie."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei: 8. Come sono i servizi?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Sig. Curti: 9. C'è un bagno completo nella zona notte; il secondo che è nella zona giorno ha anche l'impianto per la lavatrice."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: 10. Vorrei sapere in che via è e a che piano si trova."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Sig. Curti: 11. È in via Lombardia 2, al quinto piano."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Sig. Curti: 11. È molto luminoso perché non ci sono palazzi davanti e molte finestre danno su un giardino pubblico."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 12. Bene! Quando potrei vederlo?"
+    },
+    {
+      "sequence_id": 18,
+      "text": "Sig. Curti: 13. Domani pomeriggio alle quattro, andrebbe bene?"
+    },
+    {
+      "sequence_id": 19,
+      "text": "Lei: 14. Va bene, signor Curti. A domani pomeriggio alle quattro allora, arrivederla."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Sig. Curti: 15. Arrivederla!"
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

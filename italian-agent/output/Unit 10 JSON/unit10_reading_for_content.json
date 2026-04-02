@@ -1,0 +1,150 @@
+{
+  "title": "unit10_reading_for_content",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Mr. Franchi is going downtown by taxi.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "The street is crowded.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Many of the people on the street appear to be students.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Mr. Franchi has to meet a colleague of his.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "The Embassy is not far from where he is.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Mr. Franchi asks a passerby which bus he can take to get to the Embassy.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "The passerby tells him that it's not very easy to get a bus because the bus stop is so far away.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Il signor Franchi, dopo l’esperienza del tassi, decide di fare un giro a piedi."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Si avvia così, verso il centro."
+    },
+    {
+      "sequence_id": 3,
+      "text": "La strada che sta percorrendo, è affollata; ci sono molti giovani, forse studenti, perché lì vicino c’è un’università."
+    },
+    {
+      "sequence_id": 4,
+      "text": "A mezzogiorno, ha un appuntamento con un collega all’Ambasciata."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Il signor Franchi sa che l’Ambasciata è lontana da dove si trova lui, e non sa come arrivarci; quindi ferma un passante, e gli chiede che autobus può prendere per andare all’Ambasciata Americana."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Il signore gli risponde che deve prendere il 13, e che la fermata dell'autobus è all’angolo di Via Vittorio Emanuele e Via Torino."
+    }
+  ],
+  "metadata": {
+    "page_start": 19,
+    "page_end": 19,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "title": "unit16_eating_out_ii",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Eccomi. ________ tutto bene?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Va",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ha",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Sì, ________, tutto buonissimo.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "benissimo, era",
+          "is_correct": true
+        },
+        {
+          "answer_text": "malissimo, era",
+          "is_correct": false
+        },
+        {
+          "answer_text": "benissimo, sarà",
+          "is_correct": false
+        },
+        {
+          "answer_text": "così così, fu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Grazie, ________. Sono pronti per ordinare il dolce o preferiscono formaggi e un po' di frutta?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "signori",
+          "is_correct": true
+        },
+        {
+          "answer_text": "signore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "amici",
+          "is_correct": false
+        },
+        {
+          "answer_text": "camerieri",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "No, niente formaggi. ________ porti il dolce, per favore.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ci",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Le",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "________, signori. Abbiamo babà al rum, crostata di frutta, gelati misti, paste assortite e macedonia di frutta.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bene",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pronto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Porti, per favore, della macedonia di frutta per i signori, e per me ________ assortite.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "delle paste",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dei formaggi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "del gelato",
+          "is_correct": false
+        },
+        {
+          "answer_text": "della torta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Va bene. Per finire prendono caffè e ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "digestivo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "colazione",
+          "is_correct": false
+        },
+        {
+          "answer_text": "biglietto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "menu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Prendiamo solo il caffè, uno decaffeinato e il conto per favore. Scusi, c'è un telefono ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "pubblico",
+          "is_correct": true
+        },
+        {
+          "answer_text": "privato",
+          "is_correct": false
+        },
+        {
+          "answer_text": "moderno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "spento",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Sì, in fondo alla sala c'è il telefono a ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "gettoni",
+          "is_correct": true
+        },
+        {
+          "answer_text": "carte",
+          "is_correct": false
+        },
+        {
+          "answer_text": "monete d'oro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "francobolli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Per chiamare deve comprare i gettoni alla cassa; costano ________ lire ciascuno.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "duecento",
+          "is_correct": true
+        },
+        {
+          "answer_text": "cento",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mille",
+          "is_correct": false
+        },
+        {
+          "answer_text": "cinquanta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Bene, ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "grazie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "arrivederci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prego",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scusi",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "When you cali the waiter, he comes to your table to see if everything's ali right and if you are ready to order cheese and dessert."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Later on, after you 've finished your meal, you ask if there is a phone you can use."
+    },
+    {
+      "sequence_id": 4,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Lei: 1. Cameriere!"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Cam.: 2. Eccomi. Va tutto bene?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Lei: 3. Sì, benissimo, tutto era buonissimo."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Cam.: 4. Grazie, signori. Sono pronti per ordinare il dolce o preferiscono formaggi e un po' di frutta?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lei: 5. No, niente formaggi. Ci porti il dolce, per favore."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Cam.: 6. Bene, signori. Abbiamo babà al rum, crostata di frutta, gelati misti, paste assortite e macedonia di frutta."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lei: 7. Porti, per favore, della macedonia di frutta per i signori, e per me delle paste assortite."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Cam.: 8. Va bene. Per finire prendono caffè e digestivo?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Lei: Prendiamo solo il caffè, uno decaffeinato e il conto per favore."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: Scusi, c'è un telefono pubblico?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Cameriere: Sì, in fondo alla sala c'è il telefono a gettoni."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Lei: A gettoni? Non capisco."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Cameriere: Per chiamare deve comprare i gettoni alla cassa; costano duecento lire ciascuno."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Lei: Bene, grazie."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

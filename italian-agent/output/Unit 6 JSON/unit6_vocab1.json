@@ -361,12 +361,24 @@
           "is_correct": true
         }
       ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "vestito",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "suit, dress, outfit",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": 1,
-    "page_end": 2,
+    "page_start": 4,
+    "page_end": 5,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
