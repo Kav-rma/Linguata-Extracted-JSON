@@ -1,0 +1,294 @@
+{
+  "title": "unit25_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which main ingredient is used in Pollo in fricò?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chicken",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Beef",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fish",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How many cloves of garlic are listed for Pollo in fricò?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct": true
+        },
+        {
+          "answer_text": "6",
+          "is_correct": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What herb is added to Pollo in fricò?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Basil",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Parsley",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Rosemary",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sage",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "About how long does Pollo in fricò cook before lemon juice is added?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "10-15 minutes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "20-25 minutes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "35-40 minutes",
+          "is_correct": true
+        },
+        {
+          "answer_text": "50-60 minutes",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is added at the end of cooking Pollo in fricò?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Milk",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lemon juice",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tomato sauce",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Butter",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is the main grain used in Torta di riso?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Corn",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Barley",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How much milk is used in Torta di riso?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "1 liter",
+          "is_correct": true
+        },
+        {
+          "answer_text": "500 ml",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2 liters",
+          "is_correct": false
+        },
+        {
+          "answer_text": "250 ml",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "How many eggs are used in Torta di riso?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct": true
+        },
+        {
+          "answer_text": "5",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What is grated and added to Torta di riso?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Orange peel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lemon zest",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Cheese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chocolate",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "At what temperature is Torta di riso baked?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "160°C",
+          "is_correct": false
+        },
+        {
+          "answer_text": "170°C",
+          "is_correct": false
+        },
+        {
+          "answer_text": "180°C",
+          "is_correct": true
+        },
+        {
+          "answer_text": "200°C",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Pollo in fricò"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Ingredienti: 1 pollo di media grandezza | olio, sale e pepe q.b. | 4 spicchi d'aglio | rosmarino | 2 limoni"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Preparazione: Mettere in una padella l'olio, il pollo tagliato a pezzi, aggiungere gli spicchi d'aglio tagliati a pezzi piuttosto grandi, quindi cospargere di rosmarino."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Cottura: Cuocere a fuoco molto forte per formare una crosta molto spessa, poi girare i pezzi di pollo e diminuire un po' il fuoco."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Finitura: Se necessario scolare l'eccesso di olio. A cottura ultimata, circa 35-40 minuti, aggiungere il succo di limone e servire."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Torta di riso"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Ingredienti: 1 litro di latte | 250 gr. di riso | 250 gr. di zucchero | 100 gr. di farina | 4 uova | 1 scorza di limone grattugiata"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Preparazione: Cuocere il riso nel latte con sale e lasciarlo raffreddare in una terrina."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Impasto: Quando il riso è freddo aggiungere il tuorlo delle uova e lo zucchero, mescolare bene, poi aggiungere la scorza di limone grattugiata e la farina."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Cottura: Aggiungere gli albumi montati, versare il tutto in una tortiera imburrata e infornare a 180°C."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

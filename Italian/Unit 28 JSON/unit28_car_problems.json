@@ -1,0 +1,550 @@
+{
+  "title": "unit28_car_problems",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "È ________ panne?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "in",
+          "is_correct": true
+        },
+        {
+          "answer_text": "a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "di",
+          "is_correct": false
+        },
+        {
+          "answer_text": "con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Sì, purtroppo. La mia macchina si è fermata improvvisamente e non capisco perché!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Full sentence as shown",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sì, per fortuna. La mia macchina va benissimo e capisco perché!",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No, purtroppo. La mia valigia si è fermata improvvisamente e non capisco dove!",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sì, purtroppo. La mia macchina è partita lentamente e non capisco quando!",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Ha ___________ a _________ in ________ ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "provato, rimettere, moto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "capito, andare, strada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "chiesto, mettere, ordine",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lasciato, tornare, città",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Sì, _________ provato _________ volte, ________ non ________ _.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "ho, parecchie, ma, parte",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sono, tante, e, corre",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ha, poche, ma, va",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ho, due, e, cammina",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Permetta ________ dia ________ occhiata.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "che, un'",
+          "is_correct": true
+        },
+        {
+          "answer_text": "di, una",
+          "is_correct": false
+        },
+        {
+          "answer_text": "se, la",
+          "is_correct": false
+        },
+        {
+          "answer_text": "a, quell'",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "________ , non _________ ne _________ molto, ________ non ________ sa _______ _",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Francamente, me, intendo, ma, si, mai",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sicuramente, ci, vedo, e, non, niente",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Purtroppo, lo, faccio, ma, non, sempre",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Francamente, la, conosco, e, non, bene",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "scusi, _________ può ________ essere che non ci sia più benzina, no?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "non, mica",
+          "is_correct": true
+        },
+        {
+          "answer_text": "lei, forse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "si, già",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ci, ancora",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Oh, ________________ ! Ho ________________ iI ______________ __",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "no, fatto, pieno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sì, preso, treno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "bene, messo, motore",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mai, visto, problema",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "ho ____________ fatto aggiungere dell' _____________ olio .... ____________ macchina ______________ alla ________ _.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "anche, altro, la, funzionava, perfezione",
+          "is_correct": true
+        },
+        {
+          "answer_text": "mai, poco, una, andava, casa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "già, nuovo, quella, correva, stazione",
+          "is_correct": false
+        },
+        {
+          "answer_text": "solo, buon, mia, tornava, notte",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Forse ___________ meglio ____________ chiami Servizio Soccorso Stradale.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "è, che, il",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ha, se, un",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fa, di, lo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "era, quando, quel",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "la riparazione è piccola gliela fanno subito anche sul posto;",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Se",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Però",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dopo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "La _____________ fino al più vicino meccanico. Lei è socio/a dell' _____________ ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "rimorchiano, A.C.I.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "portano, A.T.M.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lavano, A.N.A.S.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vendono, C.O.N.I.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Sì. Dell'Automobil Club d'Italia. È un'associazione di assistenza per gli automobilisti.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Full sentence as shown",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sì. Dell'Automobil Club di Roma. È un albergo per turisti.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No. Dell'Automobil Club d'Italia. È un ristorante per gli automobilisti.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sì. Dell'Aero Club d'Italia. È un'associazione per piloti.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Ah, _______________ . No, ______________ sono ______________ __",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "capisco, non, socio/a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "bene, io, pronto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "forse, lei, meccanico",
+          "is_correct": false
+        },
+        {
+          "answer_text": "allora, già, italiano",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Sa, ... ______________ qui da pochi _______________ e ________________ sono ______________ informato/a.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sono, mesi, non, bene",
+          "is_correct": true
+        },
+        {
+          "answer_text": "vivo, anni, già, molto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "resto, giorni, sempre, male",
+          "is_correct": false
+        },
+        {
+          "answer_text": "torno, minuti, io, poco",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Da dove posso chiamare per avere soccorso?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Full sentence as shown",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dove posso mangiare per avere benzina?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Da quando posso partire per avere una macchina?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Come devo guidare per avere aiuto?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Ci ______________ dei _______________ di ______________ lungo tutta l'autostrada.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sono, telefoni, emergenza",
+          "is_correct": true
+        },
+        {
+          "answer_text": "vedo, negozi, benzina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "restano, amici, assistenza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "hanno, meccanici, lavoro",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Il ________________ è a cinquecento ___________ .",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "prossimo, metri",
+          "is_correct": true
+        },
+        {
+          "answer_text": "telefono, passi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "servizio, chilometri",
+          "is_correct": false
+        },
+        {
+          "answer_text": "posto, ore",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Se ________________ , l' _______________ ; altrimenti telefono io per lei.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "vuole, accompagno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "può, aspetto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "deve, seguo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sa, chiamo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Grazie, lei è veramente molto gentile. Telefoni lei per me, per cortesia. Io rimango qui. Di nuovo, grazie e arrivederla.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Full sentence as shown",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Grazie, lei è poco gentile. Telefono io per lei. Io parto subito. Arrivederci.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prego, lei è veramente molto stanco. Telefoni domani per me. Io lavoro qui.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie, voi siete veramente molto gentili. Scriva lei per me. Io torno a casa.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "While traveling on the highway, your car sudden/y stops ..."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Aut.: 1. È in panne?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Lei: 2. Sì, purtroppo. La mia macchina si è fermata improvvisamente e non capisco perché!"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Aut.: 3. Ha provato a rimettere in moto?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Lei: 4. Sì, ho provato parecchie volte, ma non parte."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Aut.: 5. Permetta che dia un'occhiata. Francamente, non me ne intendo molto, ma non si sa mai ... scusi, non può mica essere che non ci sia più benzina, no?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Lei: 6. Oh, no! Ho fatto il pieno stamattina; ho anche fatto aggiungere dell'altro olio ... la macchina funzionava alla perfezione."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Aut.: 7. Forse è meglio che chiami il Servizio Soccorso Stradale. Se la riparazione è piccola gliela fanno subito anche sul posto; altrimenti la rimorchiano fino al più vicino meccanico. Lei è socio/a dell'A.C.I.?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lei: 8. Socio/a dell'A.C.I.?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Aut.: 9. Sì. Dell'Automobil Club d'Italia. È un'associazione di assistenza per gli automobilisti."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lei: 10. Ah, capisco. No, non sono socio/a. Sa, ... sono qui da pochi mesi e non sono bene informato/a. Da dove posso chiamare per avere soccorso?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Aut.: 11. Ci sono dei telefoni di emergenza lungo tutta l'autostrada. Il prossimo è a cinquecento metri. Se vuole, l'accompagno; altrimenti telefono io per lei."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Lei: 12. Grazie, lei è veramente molto gentile. Telefoni lei per me, per cortesia. Io rimango qui. Di nuovo, grazie e arrivederla."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Aut.: Automobilista: driver"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "title": "unit20_at_the_cafe",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Sono ________ andiamo al bar a prendere/i qualcosa?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "le undici",
+          "is_correct": true
+        },
+        {
+          "answer_text": "le cinque",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mezzogiorno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "le due",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Perché no, ________!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "andiamo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "restiamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "partiamo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "torniamo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Cosa ________, signor(in)a/signor (last name)?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "prende",
+          "is_correct": true
+        },
+        {
+          "answer_text": "mangia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vede",
+          "is_correct": false
+        },
+        {
+          "answer_text": "porta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Un bitter San Pellegrino, ma questa volta ________ io!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "offro",
+          "is_correct": true
+        },
+        {
+          "answer_text": "pago",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prendo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vado",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Lei, cosa ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "prende",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "abita",
+          "is_correct": false
+        },
+        {
+          "answer_text": "aspetta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Un Campari ________, grazie!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Soda",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Juice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Coffee",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tea",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Un Campari Soda e un bitter San Pellegrino. ________ lire.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "3.200",
+          "is_correct": true
+        },
+        {
+          "answer_text": "2.300",
+          "is_correct": false
+        },
+        {
+          "answer_text": "5.000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1.200",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "EccoLe lo scontrino, si accomodi al ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "banco",
+          "is_correct": true
+        },
+        {
+          "answer_text": "tavolo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ristorante",
+          "is_correct": false
+        },
+        {
+          "answer_text": "negozio",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Ci conosciamo da parecchio tempo, perché non ci diamo del ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "tu",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Lei",
+          "is_correct": false
+        },
+        {
+          "answer_text": "voi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "loro",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Con ________! Farò molti errori, ma proverò.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "piacere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "calma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "fretta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pazienza",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Vuoi prendere qualcos'altro? Una ________ ... un tramezzino ...",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "pasta",
+          "is_correct": true
+        },
+        {
+          "answer_text": "pizza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "zuppa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "carne",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "No, grazie. Fra due ore vado a pranzare a ________!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "casa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "scuola",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lavoro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ufficio",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Già, è vero! Tu vai a pranzare a ________.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "casa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "bar",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Roma",
+          "is_correct": false
+        },
+        {
+          "answer_text": "letto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Perché, tu non ci ________?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "vai",
+          "is_correct": true
+        },
+        {
+          "answer_text": "sei",
+          "is_correct": false
+        },
+        {
+          "answer_text": "prendi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "offri",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "No, perché abito fuori città, e con il traffico che c'è, non mi ________!",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "conviene",
+          "is_correct": true
+        },
+        {
+          "answer_text": "piace",
+          "is_correct": false
+        },
+        {
+          "answer_text": "serve",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sembra",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "It is e/even o'c/ock and one of your colleagues suggests going to a café."
+    },
+    {
+      "sequence_id": 3,
+      "text": "At the café, in the course of the conversation, your colleague suggests using the «tu» formo"
+    },
+    {
+      "sequence_id": 4,
+      "text": "SEEING IT"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Collega: 1. Sono le undici andiamo al bar a prendere/i qualcosa?"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Lei: 2. Perché no, andiamo!"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Collega: 3. Cosa prende, signor(in)a/signor (last name)?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Lei: 4. Un bitter San Pellegrino, ma questa volta offro io! Lei, cosa prende?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Collega: 5. Un Campari Soda, grazie!"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 6. Un Campari Soda e un bitter San Pellegrino."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Cassiera/e: 7. 3.200 lire. EccoLe lo scontrino, si accomodi al banco."
+    },
+    {
+      "sequence_id": 12,
+      "text": "Collega: 8. Ci conosciamo da parecchio tempo, perché non ci diamo del tu? ... Dopotutto siamo colleghi/e."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Lei: 9. Con piacere! Farò molti errori, ma proverò. Vuoi prendere ... vuoi prendere qualcos'altro? Una pasta ... un tramezzino ..."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Collega: 10. No, grazie. Fra due ore vado a pranzare a casa!"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Lei: 11. Già, è vero! Tu vai a pranzare a casa."
+    },
+    {
+      "sequence_id": 16,
+      "text": "Collega: 12. Perché, tu non ci vai?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 13. No, perché abito fuori città, e con il traffico che c'è, non mi conviene!"
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

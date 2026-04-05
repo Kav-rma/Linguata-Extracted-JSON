@@ -1,0 +1,258 @@
+{
+  "title": "unit23_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How is the negative tu request form made in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "With non + infinitive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "With non + present tense tu form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With non + past participle",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With non + subjunctive",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which verb form is used for affirmative tu requests of -are verbs?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The present tense lei form",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The present tense noi form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The infinitive form",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The present tense loro form",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which of the following is listed as an exception in the affirmative tu request form?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "sii",
+          "is_correct": true
+        },
+        {
+          "answer_text": "mangia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "bevi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "vieni",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Where do unstressed object pronouns go with lei or loro request forms?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Before the verb",
+          "is_correct": true
+        },
+        {
+          "answer_text": "After the verb and attached to it",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only at the end of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They may never be used",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What happens to unstressed object pronouns with affirmative tu, noi, and voi request forms?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They follow and attach to the verb",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They always precede the verb",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are omitted",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They go between subject and verb",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is noted about the tu form when the verb is monosyllabic?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The initial consonant of the pronoun is doubled in writing",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The final vowel is always dropped",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The pronoun must precede the verb",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The verb becomes plural",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the irregular present tense form of parere for io?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "paio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "paro",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "parisco",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What connector is required after credere, pensare, or parere when followed by sì or no?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "di",
+          "is_correct": true
+        },
+        {
+          "answer_text": "a",
+          "is_correct": false
+        },
+        {
+          "answer_text": "da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "How are last names treated in the plural in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "They are not pluralized",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They always add -i",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They always add -e",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They take an apostrophe",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which expression is commonly used for 'Have a nice weekend' in Italian?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buon fine settimana",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Bella settimana",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Felice weekendi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Buona fine settimanae",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. The tu request form in the negative is identical to the infinitive preceded by \nnon. In the affirmative, it is identical (with five exceptions: sii, abbi, di , \nsappi, vogli) to the present tense lei farm for -are verbs and to the present \ntense tu form for -ere and -ire verbs. \nXXIII-130 \nHosted for free on livelingua.com\n\nNon parlare! Don 't ta/k! \nNon venire! Don 't come! \nMangia! Eat! \nBevi! Drink! \nVieni! Come! \nSii gentile! Be nice! \nMonosyllabic request forms are normally written with an apostrophe (e.g., \ndaI, fai, sta', va', di'). \n2. a) With lei or loro request forms, unstressed object pronouns a/wavs \nprecede the verb. \nLo faccia! l \nLo facciano! Do it! \nb) With affirmative tu, noi, voi, request forms, unstressed object \npronouns always follow and are attached to the verb. \nFallo (tu)!* \nFacciamolo! \nFatelo (voi)! Do (sg.) it! \nLet's do it! \nDo (pl.) it! \n*/n the tu form, ifthe verb is monosy/labic, the initial consonant ofthe \npronoun is tense (strongly pronounced), and this is general/y reflected \nin the writing by a doubling of the consonant. \nDimmi ... \nfammi vedere \nVacci! \nDallo a Carlo! \nXXIII-131 Tell me ... \nlet me check \nGo there! \nGive it to Carlo! \nHosted for free on livelingua.com\n\nNo consonant letter is doubled in the case of gli, since the consonant \nsound is already tense. \nDigli tutto! Tel/ him everything! \nc) With negative tu, noi, voi request forms, unstressed object pronouns \nmay precede or follo w the verb. \nNon farlo!* \n(or) \nNon lo fare! l Don 't do it! \n*Note the absence ofthe infinitive ending -e. \n3. The verb parere is irregular in the present tense: \n(io) paio \n(tu) pari \n(lei) pare (noi) pariamo \n(voi) parete \n(loro) paiono \nWhen used with an indirect object, it has the force of credere or pensare. \nWhen followed by sì orno, such verbs require the connectordi. Thus: \nCredo l \nPenso \nMi pare \nCredo l \nPenso \nMi pare di sì. I think so. \ndina I don 't think so. \n4. Notice that ci saranno i Gimlin has the force of either \"there will be the \nGimlins (there)\" or \" the Gimlins will be there. Il \nXXIII -132 \nHosted for free on livelingua.com\n\n5. Last names are not pluralized in Italian. Thus: \ni Gimlin the Gimlins \n6. Notice that sentire uses a direct object in sentirLa \"to hear from you. \" \n7. In /esson X, the preposition da was introduced with the meaning of \"at the \np/ace of, \" as in dal tabaccaio. Notice that it can a/so be used followed by a \npronoun, as in the dia/og, to indicate \"at our home, at my home, \" etc. \nVengono a trascorrere la fine settimana da noi. \nThey're coming to spend the weekend with us ( = at our home). \n8. The word \"weekend\" may be expressed in Italian as week-end or fine \nsettimana. The first is grammatical/y masculine and invariab/e, whereas fine \nsettimana is grammatical/y feminine. However, the expression for \"Have a \nnice weekend\" is common/y Buon fine settimana or Buon week-end. \nAdditional Vocabulary \na casa mia \nbuffet (m.) freddo /cena (f.) in piedi \ndalle sette in poi \ndopo cena \nfesta (f.)/party (m.) \nimpegno (m.) \nPossiamo fare per venerdì? \nprendere un drink \nXXIII-133 atmyhouse \nbuffet dinner \nfrom seven o 'c/ock on \nafter dinner \nparty \ncommitment, engagement \nWhat about Friday? \nto have a drink \nHosted for free on livelingua.com"
+    }
+  ],
+  "metadata": {
+    "page_start": "[PAGE 1]",
+    "page_end": "[PAGE 4]",
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

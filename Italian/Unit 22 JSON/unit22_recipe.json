@@ -1,0 +1,274 @@
+{
+  "title": "unit22_recipe",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What dish is featured in this lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ossibuchi di vitello",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Risotto alla milanese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lasagne al forno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Polenta con funghi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How many people is the recipe intended to serve?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "2 people",
+          "is_correct": false
+        },
+        {
+          "answer_text": "4 people",
+          "is_correct": true
+        },
+        {
+          "answer_text": "6 people",
+          "is_correct": false
+        },
+        {
+          "answer_text": "8 people",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What should be done to the ossibuchi before cooking?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Boil them in salted water",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Marinate them overnight",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Remove the marrow and coat them with flour",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Grill them over high heat",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which ingredient is part of the pesto used to fill the hole?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Basil",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Midollo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tomato sauce",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Parmesan cream",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What liquid is added before serving?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Red wine",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lemon juice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "White wine",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Milk",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which Friulian wine is listed?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chianti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tocai di Lison",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Barolo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lambrusco",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which Marchigian wine is listed?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Verdicchio dei Castelli di Jesi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Soave",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Montepulciano d'Abruzzo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Frascati",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What is used with oil in the pan to brown the ossibuchi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Butter",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Cream",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vinegar",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Broth only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "How should the ossibuchi be browned?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Quickly over high heat with a lid on",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Slowly on both sides without ever covering them",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only on one side",
+          "is_correct": false
+        },
+        {
+          "answer_text": "In the oven uncovered",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is suggested as a side dish?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bread",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vegetables",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Polenta",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Ossibuchi di vitello"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Ingredienti (per 4 persone): 8 ossibuchi (non molto grandi), farina bianca, pasta d'acciughe, 1 bicchiere di vino bianco secco, dado, prezzemolo, aglio, burro, olio, sale e pepe q. b."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Preparazione: Togliere il midollo che si trova nel buco e infarinare gli ossibuchi. Preparare un pesto composto di midollo pestato, aglio, prezzemolo, pasta d'acciughe, e riempire il buco. Mettere nella padella l'olio e il burro e fare rosolare da entrambe le parti gli ossibuchi lentamente senza mai coprire. Aggiungere un po' d'acqua per non fare attaccare gli ossibuchi e sciogliervi un dado per insaporire, aggiustare di sale e pepe. Prima di servire spruzzare con il vino bianco e lasciarlo evaporare un po'. Servire con un contorno di verdure."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Alcuni vini friulani: Tocai di Lison | Merlot | Cabernet | Pinot grigio | Grave del Friuli | Collio Goriziano"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Alcuni vini marchigiani: Moscatello | Verdicchio dei Castelli di Jesi | Bianchello del Metauro | Vernaccia | Sangiovese dei colli Pesaresi"
+    }
+  ],
+  "metadata": {
+    "page_start": 21,
+    "page_end": 21,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

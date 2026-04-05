@@ -1,0 +1,598 @@
+{
+  "title": "unit18_intro",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Where has the speaker just started working?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At a new job",
+          "is_correct": true
+        },
+        {
+          "answer_text": "At a hotel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At a school",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At a hospital",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Who calls the office on the phone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mr. Bruni",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dr. Vinci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mr. Clow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The supervisor's assistant",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does the office worker ask Mr. Bruni to do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Stay on the line",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Call back tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Come to the office immediately",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Send a letter instead",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Why can't Mr. Clow speak on the phone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He is not in his office at the moment",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He is on vacation",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is talking to Dr. Vinci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He has gone home for the day",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What message does Mr. Bruni want delivered?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He called and wants to speak personally",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He is canceling the meeting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He sent some documents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He will arrive late",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Who arrives at the office after the phone call?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Dr. Vinci",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mr. Bruni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mr. Clow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A delivery person",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Whom does Dr. Vinci have an appointment with?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mr. Clow",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mr. Bruni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The receptionist",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Another doctor",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What is Mr. Clow doing when Dr. Vinci arrives?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He is busy",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He is eating lunch",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is making a phone call",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is leaving the building",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does Dr. Vinci ask about the wait?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Whether it will take long",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Whether he can leave a note",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Whether the office is closed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Whether Mr. Bruni is there",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What polite invitation is given to Dr. Vinci?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Please, have a seat",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Please, open the window",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Please, sign here",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Please, come back later",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LESSON XVIII"
+    },
+    {
+      "sequence_id": 2,
+      "text": "AT THE OFFICE I"
+    },
+    {
+      "sequence_id": 3,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 4,
+      "text": "You have just started your new job, and you get your first phone cali."
+    },
+    {
+      "sequence_id": 5,
+      "text": "A little later, you welcome a visitor who has an appointment with your supervisor."
+    },
+    {
+      "sequence_id": 6,
+      "text": "HEARINGIT"
+    },
+    {
+      "sequence_id": 7,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Lei: 1. Pronto, ufficio del signor Clow. Chi parla?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Bruni: 2. Sono il signor Bruni, vorrei parlare con il signor Clow."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 3. Un momento, resti in linea, vedo se c'è."
+    },
+    {
+      "sequence_id": 11,
+      "text": "(a few seconds later)"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei:"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Bruni: 4. Mi dispiace, il signor Clow non è nel suo ufficio ora. Devo riferire qualcosa?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "5. Sì, gli dica che ho chiamato e che vorrei parlargli personalmente."
+    },
+    {
+      "sequence_id": 15,
+      "text": "XVIII - 1"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Hosted for free on livelingua.com"
+    },
+    {
+      "sequence_id": 17,
+      "text": "IT ALiAN FAST"
+    },
+    {
+      "sequence_id": 18,
+      "text": "Lei: 6. Glielo dirò senz'altro."
+    },
+    {
+      "sequence_id": 19,
+      "text": "Bruni: 7. Grazie. Buongiorno."
+    },
+    {
+      "sequence_id": 20,
+      "text": "(someone wa/ks into your office)"
+    },
+    {
+      "sequence_id": 21,
+      "text": "Lei: 8. Buongiorno, signore."
+    },
+    {
+      "sequence_id": 22,
+      "text": "Dott. Vinci: 9. Buongiorno, sono il dottor Vinci. Ho un appuntamento con il signor Clow."
+    },
+    {
+      "sequence_id": 23,
+      "text": "Lei: 10. Oh, dottor Vinci, il signor Clow è occupato in questo momento."
+    },
+    {
+      "sequence_id": 24,
+      "text": "Può attendere qualche minuto?"
+    },
+    {
+      "sequence_id": 25,
+      "text": "Dott. Vinci: 11. Ne avrà per molto?"
+    },
+    {
+      "sequence_id": 26,
+      "text": "Lei: 12. No, prego, si accomodi."
+    },
+    {
+      "sequence_id": 27,
+      "text": "Fili in the Blanks 1"
+    },
+    {
+      "sequence_id": 28,
+      "text": "Pronto, del Clow."
+    },
+    {
+      "sequence_id": 29,
+      "text": "parla?"
+    },
+    {
+      "sequence_id": 30,
+      "text": "il Bruni,"
+    },
+    {
+      "sequence_id": 31,
+      "text": "parlare il Clow."
+    },
+    {
+      "sequence_id": 32,
+      "text": "momento, in"
+    },
+    {
+      "sequence_id": 33,
+      "text": "vedo c'è."
+    },
+    {
+      "sequence_id": 34,
+      "text": "dispiace, signor"
+    },
+    {
+      "sequence_id": 35,
+      "text": "non nel ufficio"
+    },
+    {
+      "sequence_id": 36,
+      "text": ". Devo qualcosa?"
+    },
+    {
+      "sequence_id": 37,
+      "text": ", gli che"
+    },
+    {
+      "sequence_id": 38,
+      "text": "XVIII-2"
+    },
+    {
+      "sequence_id": 39,
+      "text": "Hosted for free on livelingua.com"
+    },
+    {
+      "sequence_id": 40,
+      "text": "chiamato _________ che ________ parlargli"
+    },
+    {
+      "sequence_id": 41,
+      "text": "Glielo senz' --------- ----------------"
+    },
+    {
+      "sequence_id": 42,
+      "text": "Grazie. ------------"
+    },
+    {
+      "sequence_id": 43,
+      "text": "Buongiorno, ___________ _"
+    },
+    {
+      "sequence_id": 44,
+      "text": "Buongiorno, ___________ il ___________ Vinci."
+    },
+    {
+      "sequence_id": 45,
+      "text": "_________ un ______________ con ________ _"
+    },
+    {
+      "sequence_id": 46,
+      "text": "signor ________ _"
+    },
+    {
+      "sequence_id": 47,
+      "text": "Oh, ___________ __ Vinci, signor"
+    },
+    {
+      "sequence_id": 48,
+      "text": "è in momento."
+    },
+    {
+      "sequence_id": 49,
+      "text": "attendere minuto?"
+    },
+    {
+      "sequence_id": 50,
+      "text": "avrà molto?"
+    },
+    {
+      "sequence_id": 51,
+      "text": ", prego, accomodi."
+    },
+    {
+      "sequence_id": 52,
+      "text": "Fili in the Blanks 2"
+    },
+    {
+      "sequence_id": 53,
+      "text": ", ufficio signor"
+    },
+    {
+      "sequence_id": 54,
+      "text": "Chi ?"
+    },
+    {
+      "sequence_id": 55,
+      "text": "Sono signor , vorrei"
+    },
+    {
+      "sequence_id": 56,
+      "text": "con signor"
+    },
+    {
+      "sequence_id": 57,
+      "text": "Un , resti linea,"
+    },
+    {
+      "sequence_id": 58,
+      "text": "se"
+    },
+    {
+      "sequence_id": 59,
+      "text": "Mi I i I Clow"
+    },
+    {
+      "sequence_id": 60,
+      "text": "è suo ora."
+    },
+    {
+      "sequence_id": 61,
+      "text": "XVIII-3"
+    },
+    {
+      "sequence_id": 62,
+      "text": "Hosted for free on livelingua.com"
+    },
+    {
+      "sequence_id": 63,
+      "text": "riferire ?"
+    },
+    {
+      "sequence_id": 64,
+      "text": "Sì, dica ho e"
+    },
+    {
+      "sequence_id": 65,
+      "text": "vorrei personalmente."
+    },
+    {
+      "sequence_id": 66,
+      "text": "dirò altro ."
+    },
+    {
+      "sequence_id": 67,
+      "text": ". Buongiorno."
+    },
+    {
+      "sequence_id": 68,
+      "text": ", signore."
+    },
+    {
+      "sequence_id": 69,
+      "text": ",sono dottor"
+    },
+    {
+      "sequence_id": 70,
+      "text": "Ho appuntamento il"
+    },
+    {
+      "sequence_id": 71,
+      "text": "Clow."
+    },
+    {
+      "sequence_id": 72,
+      "text": ", dottor , i I Clow"
+    },
+    {
+      "sequence_id": 73,
+      "text": "occupato questo"
+    },
+    {
+      "sequence_id": 74,
+      "text": ". Può qualche ?"
+    },
+    {
+      "sequence_id": 75,
+      "text": "Ne per ?"
+    },
+    {
+      "sequence_id": 76,
+      "text": "No, , si"
+    },
+    {
+      "sequence_id": 77,
+      "text": "TAKING IT APART"
+    },
+    {
+      "sequence_id": 78,
+      "text": "Vocabulary"
+    },
+    {
+      "sequence_id": 79,
+      "text": "attendere 1 to wait, wait far"
+    },
+    {
+      "sequence_id": 80,
+      "text": "Può attendere? 2 Could you wait?"
+    },
+    {
+      "sequence_id": 81,
+      "text": "avrà (from avere) 3 s/he, it will have"
+    },
+    {
+      "sequence_id": 82,
+      "text": "gli 4 tohim"
+    },
+    {
+      "sequence_id": 83,
+      "text": "ho chiamato (from chiamare) 5 I cal/ed"
+    },
+    {
+      "sequence_id": 84,
+      "text": "Ne avrà per molto? (from avere) 6 Will s/he be tied up for long?"
+    },
+    {
+      "sequence_id": 85,
+      "text": "XVlfI-4"
+    },
+    {
+      "sequence_id": 86,
+      "text": "Hosted for free on livelingua.com"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

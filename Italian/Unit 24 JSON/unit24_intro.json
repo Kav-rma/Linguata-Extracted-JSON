@@ -1,0 +1,714 @@
+{
+  "title": "unit24_intro",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does the customer buy first at the fruit and vegetable store?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A lettuce",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A loaf of bread",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bottle of milk",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bag of rice",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How much of tomatoes does the customer ask for?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "500 grams",
+          "is_correct": true
+        },
+        {
+          "answer_text": "250 grams",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1 kilogram",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2 kilograms",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What are the tomatoes needed for?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Salad",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sauce",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Soup",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pizza",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What total price does the grocer say?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Quattromila e seicento",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Duemila e trecento",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Cinquemila",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Settemila e cento",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What free item does the grocer give the customer?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A small bunch of herbs",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A bag of apples",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bottle of oil",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A box of pasta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does home delivery allow the customer to do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Order groceries by phone and receive them at home",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Reserve a restaurant table",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pay bills online",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Send letters by mail",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does the customer want dry-cleaned?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A dress and trousers",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A coat and scarf",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A sweater and jeans",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A jacket and tie",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What stain is on the jacket lapel?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A fruit stain",
+          "is_correct": true
+        },
+        {
+          "answer_text": "An ink stain",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A wine stain",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A mud stain",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What stain is on the cuff of one shirt?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A coffee stain",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A tea stain",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A sauce stain",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A grass stain",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "When should the customer come back to pick everything up?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The day after tomorrow in the afternoon",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tomorrow morning",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tonight",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Next week",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LESSONXXIV"
+    },
+    {
+      "sequence_id": 2,
+      "text": "ERRANDS"
+    },
+    {
+      "sequence_id": 3,
+      "text": "AT THE FRUIT AND VEGETASLE STORE"
+    },
+    {
+      "sequence_id": 4,
+      "text": "SETT/NG THE SCENE"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Today you have to run some errands."
+    },
+    {
+      "sequence_id": 6,
+      "text": "First you go to the fruit and vegetable market and then to the dry cleaner's."
+    },
+    {
+      "sequence_id": 7,
+      "text": "HEARINGIT"
+    },
+    {
+      "sequence_id": 8,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Fruttiven.: 1. Buongiorno, signor{in)a/signore. Che Le do oggi?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 2. Mi dia una lattuga, mezzo chilo di pomodori e un chilo di ciliege."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Fruttiven.: 3. I pomodori Le servono per la salsa o per l'insalata?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei: 4. Per l'insalata; non me li dia troppo maturi, per favore."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Fruttiven.: 5. Altro, signor(in)a/signore?"
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: 6. No, grazie, è tutto. Quant'è?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Il mercato"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Fruttiven.: 7. Una lattuga, 500 grammi di pomodori e un chilo di ciliege ... fa ... quattromila e seicento."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 8. Ecco."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Fruttiven.: 9. Eccole in omaggio un mazzetto di odori, e questo è il nostro biglietto; facciamo consegna a domicilio adesso, sa?"
+    },
+    {
+      "sequence_id": 19,
+      "text": "Lei: 10. Grazie degli odori! Ma, mi scusi, cosa vuoi dire consegna a domicilio?"
+    },
+    {
+      "sequence_id": 20,
+      "text": "Fruttiven.: 11. VuOi dire che lei adesso può ordinare la spesa per telefono e noi gliela mandiamo a casa con il ragazzo che fa le consegne."
+    },
+    {
+      "sequence_id": 21,
+      "text": "Lei: 12. Molto bene. Me ne ricorderò. Arrivederla."
+    },
+    {
+      "sequence_id": 22,
+      "text": "Fruttiven.: 13. Arrivederla."
+    },
+    {
+      "sequence_id": 23,
+      "text": "Fruttiven.: Fruttivendolo/a: vegetable grocer"
+    },
+    {
+      "sequence_id": 24,
+      "text": "The odori are a standard entry on the list of fruit and vegetables of the typical Italian fami/y."
+    },
+    {
+      "sequence_id": 25,
+      "text": "They consist of prezzemolo (parsley), salvia (sage), origano (oregano), rosmarino (rosemary), menta (mint), and basilico (basil)."
+    },
+    {
+      "sequence_id": 26,
+      "text": "The odori are general/y used to enhance the taste of meat."
+    },
+    {
+      "sequence_id": 27,
+      "text": "They are sometimes offered to a regular customer free of charge."
+    },
+    {
+      "sequence_id": 28,
+      "text": "origano"
+    },
+    {
+      "sequence_id": 29,
+      "text": "rosmarino"
+    },
+    {
+      "sequence_id": 30,
+      "text": "basilico prezzemolo"
+    },
+    {
+      "sequence_id": 31,
+      "text": "erbe aromatiche"
+    },
+    {
+      "sequence_id": 32,
+      "text": "Il supermercato"
+    },
+    {
+      "sequence_id": 33,
+      "text": "AT THE DRY CLEANER'S"
+    },
+    {
+      "sequence_id": 34,
+      "text": "Signorina: 1. Buongiorno. la stanno servendo?"
+    },
+    {
+      "sequence_id": 35,
+      "text": "Lei: 2. No, veramente. Vorrei far pulire a secco questo vestito e questi pantaloni, mentre questa tovaglia con i tovaglioli e queste quattro camicie sono da lavare."
+    },
+    {
+      "sequence_id": 36,
+      "text": "Signorina: 3. Ci sono macchie particolari?"
+    },
+    {
+      "sequence_id": 37,
+      "text": "Lei: 4. Sì, ce n'è una di frutta sul risvolto della giacca, e una di grasso sui pantaloni."
+    },
+    {
+      "sequence_id": 38,
+      "text": "Signorina: 5. le camicie sono macchiate?"
+    },
+    {
+      "sequence_id": 39,
+      "text": "Lei: 6. Soltanto una. Ha una macchia di caffè sul polsino."
+    },
+    {
+      "sequence_id": 40,
+      "text": "Signorina: 7. Bene. Il Suo nome, per favore?"
+    },
+    {
+      "sequence_id": 41,
+      "text": "Lei: 8. (fast name). Quando posso ritirare il tutto?"
+    },
+    {
+      "sequence_id": 42,
+      "text": "Signorina: 9. Passi dopodomani nel pomeriggio. EccoLe la ricevuta."
+    },
+    {
+      "sequence_id": 43,
+      "text": "Lei: 10. Grazie. Arrivederla."
+    },
+    {
+      "sequence_id": 44,
+      "text": "Signorina: 11. Arrivederla."
+    },
+    {
+      "sequence_id": 45,
+      "text": "Fili in the Blanks 1"
+    },
+    {
+      "sequence_id": 46,
+      "text": "Buongiorno, signor(in)a/signore. ________ le _______ _ oggi?"
+    },
+    {
+      "sequence_id": 47,
+      "text": "________ dia ________ lattuga, _______ _ chilo ________ pomodori ________ un di -------- ---------"
+    },
+    {
+      "sequence_id": 48,
+      "text": "_________ le ________ per la _________ o l' ?"
+    },
+    {
+      "sequence_id": 49,
+      "text": "Per insalata; me dia maturi, favore."
+    },
+    {
+      "sequence_id": 50,
+      "text": ", signor{in}a/signore?"
+    },
+    {
+      "sequence_id": 51,
+      "text": ", grazie, tutto."
+    },
+    {
+      "sequence_id": 52,
+      "text": "'"
+    },
+    {
+      "sequence_id": 53,
+      "text": "e."
+    },
+    {
+      "sequence_id": 54,
+      "text": "lattuga, grammi pomodori un di ... fa ... e"
+    },
+    {
+      "sequence_id": 55,
+      "text": "Eccole omaggio mazzetto odori, questo il biglietto; consegna domicilio , sa?"
+    },
+    {
+      "sequence_id": 56,
+      "text": "Grazie odori! , mi , cosa dire a ?"
+    },
+    {
+      "sequence_id": 57,
+      "text": "Vuoi che adesso ordinare spesa telefono noi mandiamo casa il che le"
+    },
+    {
+      "sequence_id": 58,
+      "text": "Molto . Me ricorderò."
+    },
+    {
+      "sequence_id": 59,
+      "text": "Arrivederla."
+    },
+    {
+      "sequence_id": 60,
+      "text": "Buongiorno. stanno ?"
+    },
+    {
+      "sequence_id": 61,
+      "text": "No, .Vorrei pulire secco vestito questi , mentre tovaglia e quattro sono lavare."
+    },
+    {
+      "sequence_id": 62,
+      "text": "Ci macchie ?"
+    },
+    {
+      "sequence_id": 63,
+      "text": "Sì, n'è di sul della ,e di sui"
+    },
+    {
+      "sequence_id": 64,
+      "text": "le sono ?"
+    },
+    {
+      "sequence_id": 65,
+      "text": "Soltanto . Ha macchia caffè polsino."
+    },
+    {
+      "sequence_id": 66,
+      "text": ". Il nome, favore?"
+    },
+    {
+      "sequence_id": 67,
+      "text": "Oast name). posso il ?"
+    },
+    {
+      "sequence_id": 68,
+      "text": "Passi nel . Eccole ricevuta ."
+    },
+    {
+      "sequence_id": 69,
+      "text": ". Arrivederla."
+    },
+    {
+      "sequence_id": 70,
+      "text": "Arrivederla."
+    },
+    {
+      "sequence_id": 71,
+      "text": "Fili in the Blanks 2"
+    },
+    {
+      "sequence_id": 72,
+      "text": "I signor(in)a/signore. Che do ?"
+    },
+    {
+      "sequence_id": 73,
+      "text": "Mi una , mezzo di e chilo ciliege."
+    },
+    {
+      "sequence_id": 74,
+      "text": "pomodori servono la o l' ?"
+    },
+    {
+      "sequence_id": 75,
+      "text": "Per insalata; me dia maturi, favore."
+    },
+    {
+      "sequence_id": 76,
+      "text": "________ ,' signor(in)a/signore?"
+    },
+    {
+      "sequence_id": 77,
+      "text": "No, ______________ ~, è ________________ . Quanti _____________ ?"
+    },
+    {
+      "sequence_id": 78,
+      "text": "Una ,500 di _____________ e ______________ chilo ______________ ciliege ... ________ _ ... quattromila _____________ seicento."
+    },
+    {
+      "sequence_id": 79,
+      "text": "Ecco."
+    },
+    {
+      "sequence_id": 80,
+      "text": "•On di _________ _ ___________ un _____________ _,e è nostro ------------ -------------- ________ ; facciamo _______________ a _________ __ ade~o, ?"
+    },
+    {
+      "sequence_id": 81,
+      "text": "_________ degli ! Ma, _____________ _ scusi, ____________ vuoi _____________ consegna domicilio? ----------"
+    },
+    {
+      "sequence_id": 82,
+      "text": "dire lei può la per e gliela a con ragazzo fa consegne."
+    },
+    {
+      "sequence_id": 83,
+      "text": "bene. ne Arrivederla."
+    },
+    {
+      "sequence_id": 84,
+      "text": ". la servendo? ----------------- ----------------"
+    },
+    {
+      "sequence_id": 85,
+      "text": "No, veramente. far a ----------------- -------------- _________________ questo _______________ e ________________ _ pantaloni, _________________ questa _______________ con _________________ tovaglioli ______________ queste _______ _ camicie da ---------------"
+    },
+    {
+      "sequence_id": 86,
+      "text": "_________________ sono particolari?"
+    },
+    {
+      "sequence_id": 87,
+      "text": "_________________ \" ce una frutta risvolto ----------------- ----------------- giacca, ____________ una _______________ grasso ____________ pantaloni."
+    },
+    {
+      "sequence_id": 88,
+      "text": "camicie macchiate? -------------- ----------------"
+    },
+    {
+      "sequence_id": 89,
+      "text": "______________ una. una ______________ di sul --------------- ----------------"
+    },
+    {
+      "sequence_id": 90,
+      "text": "Bene. _____________ Suo _______________ , per ? ------------"
+    },
+    {
+      "sequence_id": 91,
+      "text": "(last name). Quando _______________ ritirare _________________ tutto?"
+    },
+    {
+      "sequence_id": 92,
+      "text": "________________ dopodoman i _______________ pomerigg io."
+    },
+    {
+      "sequence_id": 93,
+      "text": "________ la _______ _"
+    },
+    {
+      "sequence_id": 94,
+      "text": "Grazie."
+    },
+    {
+      "sequence_id": 95,
+      "text": "--------"
+    },
+    {
+      "sequence_id": 96,
+      "text": "Arrivederla."
+    },
+    {
+      "sequence_id": 97,
+      "text": "TAKING IT APART"
+    },
+    {
+      "sequence_id": 98,
+      "text": "Vocabulary"
+    },
+    {
+      "sequence_id": 99,
+      "text": "biglietto (m.) 1 card"
+    },
+    {
+      "sequence_id": 100,
+      "text": "camicia (f.) 2 shirt"
+    },
+    {
+      "sequence_id": 101,
+      "text": "ciliegia {f.} 3 cherry"
+    },
+    {
+      "sequence_id": 102,
+      "text": "Che Le do oggi? (from dare) 4 What can 1 do for you today?"
+    },
+    {
+      "sequence_id": 103,
+      "text": "chilo (m.) 5 kilogram"
+    },
+    {
+      "sequence_id": 104,
+      "text": "consegna (f.) 6 delivery"
+    },
+    {
+      "sequence_id": 105,
+      "text": "consegna (f.) a domicilio 7 home delivery"
+    },
+    {
+      "sequence_id": 106,
+      "text": "Cosa vuoi dire ... ? (from dire) 8 What does ... mean?"
+    },
+    {
+      "sequence_id": 107,
+      "text": "facciamo (from fare) 9 wedo, make"
+    },
+    {
+      "sequence_id": 108,
+      "text": "gliela 10 it (referring to shopping) to you"
+    },
+    {
+      "sequence_id": 109,
+      "text": "grammo (m.) 11 gram"
+    },
+    {
+      "sequence_id": 110,
+      "text": "grasso (m.) 12 grease"
+    },
+    {
+      "sequence_id": 111,
+      "text": "La stanno servendo? 13 Is somebody taking care of you?"
+    },
+    {
+      "sequence_id": 112,
+      "text": "lattuga (f.) 14 lettuce"
+    },
+    {
+      "sequence_id": 113,
+      "text": "macchia (f.) 15 spot"
+    },
+    {
+      "sequence_id": 114,
+      "text": "macchiato (4) 16 spotted"
+    },
+    {
+      "sequence_id": 115,
+      "text": "mandiamo (from mandare) 17 wesend"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

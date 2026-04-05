@@ -1,0 +1,340 @@
+[
+  {
+    "title": "unit24_recipe",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What type of meat is used in the recipe for \"Fegato alla veneziana\"?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Chicken",
+            "is_correct": false
+          },
+          {
+            "answer": "Veal liver",
+            "is_correct": true
+          },
+          {
+            "answer": "Pork tenderloin",
+            "is_correct": false
+          },
+          {
+            "answer": "Fish fillet",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "How many slices of veal liver are needed for four servings?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "2 slices",
+            "is_correct": false
+          },
+          {
+            "answer": "3 slices",
+            "is_correct": false
+          },
+          {
+            "answer": "4 slices",
+            "is_correct": true
+          },
+          {
+            "answer": "5 slices",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How much onion is required for the recipe?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "100 gr",
+            "is_correct": false
+          },
+          {
+            "answer": "200 gr",
+            "is_correct": true
+          },
+          {
+            "answer": "300 gr",
+            "is_correct": false
+          },
+          {
+            "answer": "500 gr",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which herb is added just before turning off the heat?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Basil",
+            "is_correct": false
+          },
+          {
+            "answer": "Rosemary",
+            "is_correct": false
+          },
+          {
+            "answer": "Parsley",
+            "is_correct": true
+          },
+          {
+            "answer": "Oregano",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What is recommended about the onion in the preparation?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Slice it thickly",
+            "is_correct": false
+          },
+          {
+            "answer": "Chop it coarsely",
+            "is_correct": false
+          },
+          {
+            "answer": "Slice it very thin",
+            "is_correct": true
+          },
+          {
+            "answer": "Grind it",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Why should you avoid prolonged cooking of the liver?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "It will burn the onions",
+            "is_correct": false
+          },
+          {
+            "answer": "It will toughen the liver",
+            "is_correct": true
+          },
+          {
+            "answer": "It will make the sauce too watery",
+            "is_correct": false
+          },
+          {
+            "answer": "It will boil off the wine",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What should you do during cooking to the liver?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Leave it undisturbed",
+            "is_correct": false
+          },
+          {
+            "answer": "Stir it",
+            "is_correct": true
+          },
+          {
+            "answer": "Cover it with a lid",
+            "is_correct": false
+          },
+          {
+            "answer": "Add sugar",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "What type of oil is used to cook the liver?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Sunflower oil",
+            "is_correct": false
+          },
+          {
+            "answer": "Vegetable oil",
+            "is_correct": false
+          },
+          {
+            "answer": "Olive oil",
+            "is_correct": true
+          },
+          {
+            "answer": "Butter only",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which of the following is a suggested wine from Sardinia to accompany the dish?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Chianti",
+            "is_correct": false
+          },
+          {
+            "answer": "Vernaccia di Oristano",
+            "is_correct": true
+          },
+          {
+            "answer": "Barolo",
+            "is_correct": false
+          },
+          {
+            "answer": "Lambrusco",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Which is NOT listed as a suggested Calabrian wine?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Cirò",
+            "is_correct": false
+          },
+          {
+            "answer": "Donnici Savuto",
+            "is_correct": false
+          },
+          {
+            "answer": "Pollino",
+            "is_correct": false
+          },
+          {
+            "answer": "Valpolicella",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Fegato alla veneziana"
+      },
+      {
+        "sequence_id": 2,
+        "text": "Ingredienti (per 4 persone):"
+      },
+      {
+        "sequence_id": 3,
+        "text": "4 fette sottili di fegato di vitello (400 gr.)"
+      },
+      {
+        "sequence_id": 4,
+        "text": "cipolle (200 gr.)"
+      },
+      {
+        "sequence_id": 5,
+        "text": "sale e pepe q. b."
+      },
+      {
+        "sequence_id": 6,
+        "text": "una manciata di prezzemolo"
+      },
+      {
+        "sequence_id": 7,
+        "text": "preparazione:"
+      },
+      {
+        "sequence_id": 8,
+        "text": "Mettere il fegato in una padella (preferibilmente con il manico lungo) con una cucchiaiata di olio d'oliva e la cipolla affettata sottilissima, salare e pepare."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Cuocere a fuoco ardente ed evitare una cottura prolungata che indurirebbe il fegato."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Prima di spegnere il fornello aggiungere il prezzemolo."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Ricordatevi di agitare il fegato durante la cottura."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Alcuni vini sardi"
+      },
+      {
+        "sequence_id": 13,
+        "text": "Girò di Cagliari"
+      },
+      {
+        "sequence_id": 14,
+        "text": "Vernaccia di Oristano"
+      },
+      {
+        "sequence_id": 15,
+        "text": "Monica di Sardegna"
+      },
+      {
+        "sequence_id": 16,
+        "text": "Vermentino di Gallura"
+      },
+      {
+        "sequence_id": 17,
+        "text": "Malvasia di Bosa"
+      },
+      {
+        "sequence_id": 18,
+        "text": "Alcuni vini calabresi"
+      },
+      {
+        "sequence_id": 19,
+        "text": "Cirò"
+      },
+      {
+        "sequence_id": 20,
+        "text": "Donnici Savuto"
+      },
+      {
+        "sequence_id": 21,
+        "text": "Pollino"
+      }
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

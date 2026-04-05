@@ -1,0 +1,478 @@
+{
+  "title": "unit23_an_invitation",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "________ , casa _______ _",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Pronto, Lauricella",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Buongiorno, Rizzo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ciao, agendina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi, invito",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Lucia? ... ________ , sono (first name), ________ va?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ciao, come",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pronto, dove",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi, quando",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie, quanto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "_________ , grazie ________ tu?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bene, e",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ciao, come",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusi, per",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pronto, con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "_________ , grazie. Di' un _________ , hai già _________ impegni per sabato sera? Pensavamo di organizzare una cena da noi.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bene, po', preso",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pronto, giorno, visto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ciao, attimo, dato",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Salve, poco, fatto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Mi pare di no, ma fammi vedere la mia agendina ... sabato 9, sì, sono libera. Verrò con piacere. A che ora?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mi pare di no, ma fammi vedere la mia agendina ... sabato 9, sì, sono libera. Verrò con piacere. A che ora?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mi sembra di sì, ma porto il dessert ... domenica 10, no, sono occupata. Verrò tardi. Dove andiamo?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Non credo, però chiamo mio marito ... lunedì 8, forse, sono fuori. Verrò domani. Con chi?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Va bene, ma devo lavorare ... venerdì 7, certo, sono libera. Verrete voi. A casa mia?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Alle ________ . Senti, ________ , ho _________ una _________ all'Extra Bar, puoi farmi la cortesia di ritirarla? Guarda che è già pagata.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "otto, Lucia, ordinato, crostata",
+          "is_correct": true
+        },
+        {
+          "answer_text": "nove, Maria, comprato, pizza",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sette, Carla, lasciato, borsa",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dieci, Anna, visto, torta",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Aspetta che me lo scrivo. Dimmi, chi ci sarà?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Aspetta che me lo scrivo. Dimmi, chi ci sarà?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Vieni subito e portalo qui. Dimmi, dove andiamo?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lascia stare, lo ricordo io. Dimmi, chi telefona?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Aspetta che te lo dico. Dimmi, quando si parte?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Ci saranno i Gimlin, Joan Williams dell'ufficio Amministrativo e pensavo di invitare anche una coppia di italiani, nostri vicini di casa.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ci saranno i Gimlin, Joan Williams dell'ufficio Amministrativo e pensavo di invitare anche una coppia di italiani, nostri vicini di casa.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ci saranno i Rizzo, Paolo Bianchi del consolato e pensavo di chiamare due amici americani del centro.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ci saranno solo i parenti, mia sorella dell'università e forse qualche collega dell'ufficio tecnico.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ci saranno i vicini francesi, Joan Smith della banca e una coppia di studenti italiani.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Grazie ancora dell'invito. Ci vediamo sabato sera, allora. Salutami tuo marito/tua moglie. Ciao.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Grazie ancora dell'invito. Ci vediamo sabato sera, allora. Salutami tuo marito, tua moglie. Ciao.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Grazie per il regalo. Ci sentiamo domenica mattina. Saluta i bambini. Arrivederci.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Molte grazie dell'aiuto. Ci vediamo lunedì pomeriggio. Salutami tua madre. Ciao.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie ancora della telefonata. Ci incontriamo venerdì sera. Saluta tuo fratello. Buonanotte.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Senz'altro. Non dimenticarti il dessert! ... Ciao.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Senz'altro. Non dimenticarti il dessert! ... Ciao.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Va bene. Non portare niente da bere! ... Arrivederci.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Certamente. Non telefonarmi domani! ... Buonasera.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "D'accordo. Non lasciare il biglietto! ... A presto.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "___________ , sono (first + last name), potrei parlare con la signor(in)a/il signor Rizzo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buongiorno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Buonasera",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scusate",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arrivederci",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Oh, signor(in)a/signor (last name), che piacere sentirLa, come sta?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Oh, signor(in)a/signor (last name), che piacere sentirLa, come sta?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Oh, signor(in)a/signor (last name), che sorpresa vederLa, dove va?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Oh, signor(in)a/signor (last name), che bello invitarLa, cosa prende?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Oh, signor(in)a/signor (last name), che gioia aspettarLa, quando arriva?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Bene, grazie. Signor(in)a/signor Rizzo, vorremmo invitarvi a cena sabato prossimo alle otto, siete liberi?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bene, grazie. Signor(in)a/signor Rizzo, vorremmo invitarvi a cena sabato prossimo alle otto, siete liberi?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Bene, grazie. Signor(in)a/signor Rizzo, dobbiamo vedervi in ufficio lunedì mattina, siete pronti?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Molto bene. Signor(in)a/signor Rizzo, possiamo accompagnarvi al cinema domani sera, siete occupati?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Così così. Signor(in)a/signor Rizzo, vogliamo trovarvi al bar stasera, siete a casa?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "La ringrazio, purtroppo non ci sarà possibile accettare il vostro invito; i miei suoceri vengono a trascorrere il fine settimana da noi.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "La ringrazio, purtroppo non ci sarà possibile accettare il vostro invito; i miei suoceri vengono a trascorrere il fine settimana da noi.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "La ringrazio, certamente ci farà piacere accettare il vostro invito; i miei genitori partono per il fine settimana.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Vi ringrazio, forse potremo venire dopo cena; i miei amici arrivano sabato mattina.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Grazie tante, non sappiamo ancora se restiamo in città; i nostri vicini vengono a pranzo da noi.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Peccato! Contavo sulla vostra presenza. Beh, sarà per un'altra volta. Buongiorno.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Peccato! Contavo sulla vostra presenza. Beh, sarà per un'altra volta. Buongiorno.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Che bello! Speravo nella vostra visita. Allora, a più tardi. Arrivederci.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Va bene! Pensavo alla vostra risposta. Dunque, sarà per domani sera. Buonasera.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pazienza! Contiamo sul vostro aiuto. Beh, sarà per il mese prossimo. Ciao.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Buongiorno, e, grazie del pensiero.",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Buongiorno, e, grazie del pensiero.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Arrivederci, e, scusi del ritardo.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Buonasera, e, grazie dell'invito accettato.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ciao, e, grazie del dessert.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 2,
+      "text": "You decide to give a small dinner party for some of your friends and acquaintances."
+    },
+    {
+      "sequence_id": 3,
+      "text": "You call them on the telephone and ask whether they are going to be available for that day."
+    },
+    {
+      "sequence_id": 4,
+      "text": "SEEING IT"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Lucia: 1. Pronto, casa Lauricella."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Lei: 2. Lucia? .. Ciao, sono (first name), come va?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Lucia: 3. Bene, grazie e tu?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Lei: 4. Bene, grazie. Di' un po', hai già preso impegni per sabato sera? Pensavamo di organizzare una cena da noi."
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lucia: 5. Mi pare di no, ma fammi vedere la mia agendina ... sabato 9, sì, sono libera. Verrò con piacere. A che ora?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Lei: 6. Alle otto. Senti, Lucia, ho ordinato una crostata all'Extra Bar, puoi farmi la cortesia di ritirarla? Guarda che è già pagata."
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lucia: 7. Aspetta che me lo scrivo. Dimmi, chi ci sarà?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Lei: 8. Ci saranno i Gimlin, Joan Williams dell'ufficio Amministrativo e pensavo di invitare anche una coppia di italiani, nostri vicini di casa."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Lucia: 9. Grazie ancora dell'invito. Ci vediamo sabato sera, allora. Salutami tuo marito/tua moglie. Ciao."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Lei: 10. Senz'altro. Non dimenticarti il dessert! ... Ciao."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Lei: 11. Buongiorno, sono (first + last name), potrei parlare con la signor(in)a/il signor Rizzo?"
+    },
+    {
+      "sequence_id": 16,
+      "text": "Rizzo: 12. Oh, signor(in)a/signor (last name), che piacere sentirLa, come sta?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "Lei: 13. Bene, grazie. Signor(in)a/signor Rizzo, vorremmo invitarvi a cena sabato prossimo alle otto, siete liberi?"
+    },
+    {
+      "sequence_id": 18,
+      "text": "Rizzo: 14. La ringrazio, purtroppo non ci sarà possibile accettare il vostro invito; i miei suoceri vengono a trascorrere la fine settimana da noi."
+    },
+    {
+      "sequence_id": 19,
+      "text": "Lei: 15. Peccato! Contavo sulla vostra presenza. Beh, sarà per un'altra volta. Buongiorno."
+    },
+    {
+      "sequence_id": 20,
+      "text": "Rizzo: 16. Buongiorno, e, grazie del pensiero."
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

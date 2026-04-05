@@ -1,0 +1,338 @@
+{
+  "title": "unit27_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Who answers the phone in the first scenario?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The fire department",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The police",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The landlord",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The hospital",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What emergency is reported in the building?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A gas leak",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A fire in the kitchen",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A power outage",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A broken elevator",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does the caller ask to be sent immediately?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Someone to help right away",
+          "is_correct": true
+        },
+        {
+          "answer_text": "An electrician tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A plumber next week",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A taxi to the bar",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does the responder ask for first in the gas leak case?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The address",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The caller's age",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The apartment number of a neighbor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The building owner's name",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What instruction is given about the electricity?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Turn it off if it has not been done yet",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Turn it on again",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ignore it completely",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Wait for the police to check it",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Where is the caller speaking from in the first scenario?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A bar",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A hospital",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A school",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A train station",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What problem is described in the second scenario?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A flooded cellar",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A stolen car",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A gas leak in the kitchen",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A collapsed roof",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "How high is the water in the second scenario?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Up to the caller's ankle",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Up to the caller's knee",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only a few drops on the floor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Up to the caller's waist",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What information is requested before sending help in the flood case?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "First name, last name, and address",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Passport number and job title",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Bank account and telephone code",
+          "is_correct": false
+        },
+        {
+          "answer_text": "License plate and insurance company",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "When will a team be sent in the second scenario?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When the first team returns",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Immediately by helicopter",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only the next morning",
+          "is_correct": false
+        },
+        {
+          "answer_text": "After the building is sold",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 2,
+      "text": "line 1 -Pronto, Vigili del Fuoco."
+    },
+    {
+      "sequence_id": 3,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 4,
+      "text": "-Nel mio palazzo c'è una perdita di gas; mandi qualcuno subito."
+    },
+    {
+      "sequence_id": 5,
+      "text": "line 3 -(following the above) Si~nora/signore, si calmi."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Prima di tutto, mi dia l'in irizzo."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Adesso ascolti bene: stacchi la corrente se non l'ha ancora fatto, ed esca."
+    },
+    {
+      "sequence_id": 8,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 9,
+      "text": "-Via Roma 12."
+    },
+    {
+      "sequence_id": 10,
+      "text": "Il portiere ha già staccato la corrente elettrica, ed ha fatto evacuare il palazzo."
+    },
+    {
+      "sequence_id": 11,
+      "text": "lo sto chiamando da un bar."
+    },
+    {
+      "sequence_id": 12,
+      "text": "line 5 -(following the aboveJ Bene, una squadra sarà lì fra poco."
+    },
+    {
+      "sequence_id": 13,
+      "text": "line 1 -Pronto, Vigili del Fuoco."
+    },
+    {
+      "sequence_id": 14,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 15,
+      "text": "-Pronto, può mandare qualcuno, mi si è allagata la cantina."
+    },
+    {
+      "sequence_id": 16,
+      "text": "line 3 -(following the above) Quanti centimetri d'acqua ci sono?"
+    },
+    {
+      "sequence_id": 17,
+      "text": "possible response"
+    },
+    {
+      "sequence_id": 18,
+      "text": "-Non saprei in centimetri."
+    },
+    {
+      "sequence_id": 19,
+      "text": "L'acqua mi arriva alla caviglia."
+    },
+    {
+      "sequence_id": 20,
+      "text": "line 5 -(following the above) Mi dia nome, cognome ed indirizzo."
+    },
+    {
+      "sequence_id": 21,
+      "text": "La prima squadra che rientra gliela mando."
+    }
+  ],
+  "metadata": {
+    "page_start": 18,
+    "page_end": 19,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

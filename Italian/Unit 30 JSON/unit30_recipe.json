@@ -1,0 +1,382 @@
+{
+  "title": "unit30_recipe",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the main meat component in the recipe 'Falsomagro'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pork",
+          "is_correct": false
+        },
+        {
+          "answer": "Beef",
+          "is_correct": true
+        },
+        {
+          "answer": "Chicken",
+          "is_correct": false
+        },
+        {
+          "answer": "Lamb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which type of wine is used in the Falsomagro recipe?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Dry, full-bodied red wine (Corvo)",
+          "is_correct": true
+        },
+        {
+          "answer": "Sweet white wine",
+          "is_correct": false
+        },
+        {
+          "answer": "Champagne",
+          "is_correct": false
+        },
+        {
+          "answer": "Rosé",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How many hard-boiled eggs are added to the stuffing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One",
+          "is_correct": false
+        },
+        {
+          "answer": "Two",
+          "is_correct": true
+        },
+        {
+          "answer": "Three",
+          "is_correct": false
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "After adding the ingredients to the beef slice, what is done next?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is left open",
+          "is_correct": false
+        },
+        {
+          "answer": "It is rolled and tied with strong thread",
+          "is_correct": true
+        },
+        {
+          "answer": "It is cut into pieces",
+          "is_correct": false
+        },
+        {
+          "answer": "It is cooked immediately",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What are the options for completing the cooking of Falsomagro?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Add water",
+          "is_correct": false
+        },
+        {
+          "answer": "Add 1 litre of broth or tomato sauce",
+          "is_correct": true
+        },
+        {
+          "answer": "Use cheese",
+          "is_correct": false
+        },
+        {
+          "answer": "Cook on high heat only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which of the following is a Sicilian wine listed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Chianti",
+          "is_correct": false
+        },
+        {
+          "answer": "Corvo di Salaparuta",
+          "is_correct": true
+        },
+        {
+          "answer": "Lambrusco di Castelvetro",
+          "is_correct": false
+        },
+        {
+          "answer": "Trebbiano Val Trebbia",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which region's wine list includes 'Lambrusco di Castelvetro'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sicily",
+          "is_correct": false
+        },
+        {
+          "answer": "Emilia and Romagna",
+          "is_correct": true
+        },
+        {
+          "answer": "Tuscany",
+          "is_correct": false
+        },
+        {
+          "answer": "Lazio",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What type of cheese is used in Falsomagro?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pecorino fresco a fette",
+          "is_correct": true
+        },
+        {
+          "answer": "Mozzarella",
+          "is_correct": false
+        },
+        {
+          "answer": "Parmesan",
+          "is_correct": false
+        },
+        {
+          "answer": "Ricotta",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which herb appears as an illustration on the page?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mint (menta)",
+          "is_correct": true
+        },
+        {
+          "answer": "Basil",
+          "is_correct": false
+        },
+        {
+          "answer": "Oregano",
+          "is_correct": false
+        },
+        {
+          "answer": "Bay leaf",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following wines is not Sicilian?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Marsala",
+          "is_correct": false
+        },
+        {
+          "answer": "Etna",
+          "is_correct": false
+        },
+        {
+          "answer": "Regaleali",
+          "is_correct": false
+        },
+        {
+          "answer": "Albana di Romagna",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Falsomagro"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Ingredienti:"
+    },
+    {
+      "sequence_id": 3,
+      "text": "1 larga fetta di manzo del peso di 800 gr."
+    },
+    {
+      "sequence_id": 4,
+      "text": "2 bicchieri di vino rosso secco e corposo (Corvo)"
+    },
+    {
+      "sequence_id": 5,
+      "text": "1 spicchio d'aglio"
+    },
+    {
+      "sequence_id": 6,
+      "text": "1 fetta di pancetta"
+    },
+    {
+      "sequence_id": 7,
+      "text": "2 uova sode"
+    },
+    {
+      "sequence_id": 8,
+      "text": "pecorino fresco a fette"
+    },
+    {
+      "sequence_id": 9,
+      "text": "250 gr. di trito di carne e salsiccia"
+    },
+    {
+      "sequence_id": 10,
+      "text": "2 cipolle"
+    },
+    {
+      "sequence_id": 11,
+      "text": "1 litro di brodo e/o l'equivalente di salsa di pomodoro"
+    },
+    {
+      "sequence_id": 12,
+      "text": "preparazione:"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Rosolare il trito di carne con la cipolla a fette."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Nel frattempo aprire la fetta di carne, metterci la fetta di pancetta, le uova sode affettate, le fette di pecorino, l'aglio tritato finemente e il trito di carne e un pizzico di sale e pepe."
+    },
+    {
+      "sequence_id": 15,
+      "text": "Arrotolare la fetta di carne, e legarla con filo resistente."
+    },
+    {
+      "sequence_id": 16,
+      "text": "In un tegame far soffriggere l'altra cipolla, far rosolare l'involtino di carne, versarvi quindi il vino, e lasciarlo evaporare."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Completare la cottura o aggiungendo 1 litro di brodo o della salsa di pomodoro."
+    },
+    {
+      "sequence_id": 18,
+      "text": "Alcuni vini siciliani"
+    },
+    {
+      "sequence_id": 19,
+      "text": "Corvo di Salaparuta"
+    },
+    {
+      "sequence_id": 20,
+      "text": "Moscato"
+    },
+    {
+      "sequence_id": 21,
+      "text": "Moscato Passito di Pantelleria"
+    },
+    {
+      "sequence_id": 22,
+      "text": "Malvasia delle Lipari"
+    },
+    {
+      "sequence_id": 23,
+      "text": "Regaleali"
+    },
+    {
+      "sequence_id": 24,
+      "text": "Marsala"
+    },
+    {
+      "sequence_id": 25,
+      "text": "Etna"
+    },
+    {
+      "sequence_id": 26,
+      "text": "Alcuni vini emiliani e romagnoli"
+    },
+    {
+      "sequence_id": 27,
+      "text": "Trebbiano Val Trebbia"
+    },
+    {
+      "sequence_id": 28,
+      "text": "Albana di Romagna"
+    },
+    {
+      "sequence_id": 29,
+      "text": "Trebbiano di Romagna"
+    },
+    {
+      "sequence_id": 30,
+      "text": "Oltrepo Pavese"
+    },
+    {
+      "sequence_id": 31,
+      "text": "Lambrusco di Castelvetro"
+    },
+    {
+      "sequence_id": 32,
+      "text": "Sangiovese di Romagna"
+    }
+  ],
+  "metadata": {
+    "page_start": 23,
+    "page_end": 23,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

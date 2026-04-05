@@ -1,0 +1,258 @@
+{
+  "title": "unit20_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does the definite article in 'al bar' indicate in this context?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A class name or symbolic public place, not a specific café",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A specific café already mentioned",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An unknown café chosen at random",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A café owned by the speaker",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What is the force of the verb form 'prenderci' in the lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To have or get for ourselves",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To leave something behind",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To bring someone along",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To understand clearly",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What preposition does 'andare' require before a following infinitive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "a",
+          "is_correct": true
+        },
+        {
+          "answer_text": "di",
+          "is_correct": false
+        },
+        {
+          "answer_text": "da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "con",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which expression is presented as a way to invite someone to do something?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Perché non andiamo?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Che facciamo?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dove andate?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quando partiamo?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "When are subject pronouns required in Italian according to the lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Whenever emphasis is involved",
+          "is_correct": true
+        },
+        {
+          "answer_text": "In every sentence",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in questions",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in the past tense",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "In short emphatic phrases, where do subject pronouns often appear?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "After the verb",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Before the article",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the very beginning only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the end of the paragraph",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Who is normally addressed with the pronoun 'tu'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A relative or someone considered a close friend or colleague",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Any stranger in a formal setting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only a teacher or professor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only children under ten",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "For the present subjunctive, the 'tu' form is identical to which forms?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The io and lei forms",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The noi and voi forms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The loro and voi forms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only the noi form",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does 'fra' followed by a time-period expression mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "From now",
+          "is_correct": true
+        },
+        {
+          "answer_text": "During a period of time",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Before a certain moment",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the same time as",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "In the sentence 'Perché tu non ci vai?', what does 'ci' refer back to?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "a casa",
+          "is_correct": true
+        },
+        {
+          "answer_text": "the speaker",
+          "is_correct": false
+        },
+        {
+          "answer_text": "the dinner",
+          "is_correct": false
+        },
+        {
+          "answer_text": "the pronoun tu",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \n1. The use of the definite artic/e in al bar (the first line of the dia/og) does not \nindicate any definite or specific café. It is normal for Italians to use the \ndefinite artic/e when referring to many items considered symbolical/y as \nc/ass names, such as public eating places, public /odging p/aces, means of \ntransportation, instruments, utensils, and il/ness. A un bar, on the other \nhand, could pIace the emphasis on the numerical meaning of un, making it \nsomething definite, specific (e.g., Uto a particular café U). Thus: \nAndiamo al bar o al ristorante? \nShal/ we go to a café or a restaurant? \nLei va all'albergo o alla pensione? \nAre you going to a hotel or a boarding house? \nSono venuto/a in bicicletta; non ho preso il tassì. \nI came by bike; I didn't take a cab. \nlo suono il pianoforte, mia moglie il violino. \nI play the piano, my wife (plays) the violin. \nQuesto si mangia con la forchetta, non con il cucchiaio. \nOne eats this with a fork, not a spoon. \nHo il raffreddore e la febbre. \nI have a co/d and a fever. \n2. The verb form prenderei is a contraction of prendere + ci. It has the force of \nIIhavelget for ourselves. Il Thus: \nAndiamo al bar a prenderei qualcosa? \nShall we go to a café and get (ourse/ves) something? \n3. The verb andare requires a before a following infinitive. (See note 4, /esson \nXIV). Thus: \nandiamo ... a prenderci \nvado a pranzare \n4. The dia/og contains two formu/as used to invite someone to do something. \nFor ali practical purposes, they are interchangeable. \n(p rese n t tense noi form) Andiamo al bar a prenderei qualcosa? \n(perché non + present tense noi form) Perché non ei diamo del tu? \nA third one would be: vogliamo + infinitive. Thus: \nVogliamo andare al bar? \nVogliamo darei del tu? \nThus, the following ali have the force of IIHow about going? Il \nAndiamo? \nPerché non andiamo? \nVogliamo andare? \n5. Subject pronouns are required in Italian whenever emphasis is invo/ved. In \nshort phrases, in such cases, they often follow the verbo Thus: \nMa questa volta offro io! \nBut this time t'm offering/buying! \n6. The pronoun tu and a special form of the verb are normal/y used in \naddressing a relative or someone who is considered a close friend or \ncolleague. See the Cultural Notes at the beginning of this lesson. \nThe tu form is derived as follows: \na) For the present subjunctive, it is identical to the io and lei forms. Thus: \nSpero che tu vada a Milano. \nI hope you go to Milan. \nb) For request forms of -are verbs, it is identical to the lei present tense \nformo Thus: \nParla! \nSpeak! \nc) For the other verb tenses you have had so far, it is general/y formed by \nadding -i to the lei form, less any final unstressed vowel. Thus: \nlei form tu form \n! 1 \nparla parli \nripete -. ripeti \nfinisce finisci (p rese n t) \nsta stai \nl l \n(past) era eri \nl l \n(future) sarà sarai \nExceptions to the preceding are: \n(present) \n(request forms) sei \nvuoi \nabbi \ndi' \nsii \nsappi \nvogli -from essere \nfrom volere \nfrom avere \nfrom dire \nfrom essere \nfrom sapere \nfrom volere \n7. The preposition fra followed by a time-period expression has the force \nof u••• from now. Il It is not to be confused with in. \nCompare: \nPranzerò fra due ore. \nl'II have dinner in two hours (= two hours trom now). \nPranzerò in due ore. \n/'1/ finish dinner in a two-hour period ( = It'l/ take me two \nhours to have dinner). \n8. The ei in ccPerché tu non ci vai'?» refers back to a casa. In other words, it is a \npIace rep/acer, not to be canfused with the ci af the first Une of the dia/og: \ncc... andiamo a prenderei... n."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "title": "unit18_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Who is speaking at the start of the section?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The secretary of Dr. Manzoni",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mr. Clow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dr. Vinci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mrs. Braum",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Who does Dr. Manzoni want to speak with?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mr. Clow",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dr. Vinci",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mrs. Braum",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mr. Payne",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What should be told to Mr. Clow?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "That Dr. Manzoni would like to speak with him",
+          "is_correct": true
+        },
+        {
+          "answer_text": "That the meeting is canceled forever",
+          "is_correct": false
+        },
+        {
+          "answer_text": "That the secretary is leaving the office",
+          "is_correct": false
+        },
+        {
+          "answer_text": "That Dr. Vinci has arrived early",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Who says he had an appointment with Mr. Clow at 16:30?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Dr. Vinci",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dr. Manzoni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The secretary",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mr. Payne",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Why is Dr. Vinci late?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He had an unexpected setback",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He missed the train to Milan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He forgot the appointment",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He was waiting in another office",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Where did Mr. Clow leave for suddenly?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Milan",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Rome",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Turin",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Florence",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What had the speaker tried to do for Dr. Vinci?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Warn him",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Send him to Monday's meeting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Reserve a hotel room",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Call Mr. Payne",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why had the speaker been unable to reach Dr. Vinci?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He had already left his office",
+          "is_correct": true
+        },
+        {
+          "answer_text": "His phone was disconnected",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He was in Milan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He was meeting Mrs. Braum",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "When will Mr. Clow return?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The day after tomorrow",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tomorrow morning",
+          "is_correct": false
+        },
+        {
+          "answer_text": "This evening",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Next week",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is one possible new appointment time offered?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Monday morning at 10:30",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sunday afternoon at 15:00",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Friday morning at 8:00",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Saturday evening at 20:00",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "line 2 -Sono la segretaria del dottor Manzoni."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Il dottor Manzoni vorrebbe parlare con il signor Clow."
+    },
+    {
+      "sequence_id": 3,
+      "text": "line 5 -Sì, gli dica che il dottor Manzoni vorrebbe parlargli."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Role Play line 9 -Buongiorno, sono il dottor Vinci, avevo un appuntamento con il signor Clow alle 16 e 30."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Purtroppo ho avuto un contrattempo e sono in ritardo."
+    },
+    {
+      "sequence_id": 6,
+      "text": "possible response -Dottor Vinci, mi dispiace, ma il signor Clow è partito improvvisamente per Milano."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Ho cercato di avvertirla ma lei era già uscito dal Suo ufficio."
+    },
+    {
+      "sequence_id": 8,
+      "text": "line 11 -(following the above) Quando ritornerà?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "line 11 -(following the above) Quando potrò vederlo?"
+    },
+    {
+      "sequence_id": 10,
+      "text": "possible responses -Ritornerà dopodomani."
+    },
+    {
+      "sequence_id": 11,
+      "text": "-Se per lei va bene, potrebbe vederlo lunedì mattina alle 10 e 30."
+    },
+    {
+      "sequence_id": 12,
+      "text": "-Potrebbe vederlo martedì pomeriggio alle quattordici."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

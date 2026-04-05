@@ -1,0 +1,258 @@
+{
+  "title": "unit19_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which Italian word is used for the office of a professional such as a doctor or lawyer?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "studio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ufficio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "pratica",
+          "is_correct": false
+        },
+        {
+          "answer_text": "centralino",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When is the verb 'sapere' preferred over 'potere'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When knowledge rather than physical ability is involved",
+          "is_correct": true
+        },
+        {
+          "answer_text": "When talking about future actions",
+          "is_correct": false
+        },
+        {
+          "answer_text": "When giving commands",
+          "is_correct": false
+        },
+        {
+          "answer_text": "When speaking formally",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does 'Mi sa dire ...' mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Can you tell me ...",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Do you know him ...",
+          "is_correct": false
+        },
+        {
+          "answer_text": "May I speak ...",
+          "is_correct": false
+        },
+        {
+          "answer_text": "I can say ...",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does 'Non sa parlare italiano' mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "S/he can't (doesn't know how to) speak Italian.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "S/he doesn't want to speak Italian.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "S/he is speaking Italian now.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "S/he shouldn't speak Italian.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What kind of 'si' appears in 'come si scrive'?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The impersonal si",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The reflexive si",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The reciprocal si",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The passive si only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "How is 'come si scrive' explained literally?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "How one writes it",
+          "is_correct": true
+        },
+        {
+          "answer_text": "How you say it",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How one reads it",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How it sounds",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which two Italian words meaning 'certainly' are used interchangeably?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "certamente and certo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ora and tempo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sapere and potere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "martedì and otto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which word is used in phrases indicating length of time?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "tempo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "ora",
+          "is_correct": false
+        },
+        {
+          "answer_text": "volta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "studio",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which word is used to indicate number of times or which time?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "volta",
+          "is_correct": true
+        },
+        {
+          "answer_text": "tempo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ora",
+          "is_correct": false
+        },
+        {
+          "answer_text": "certo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "How is 'Tuesday the eighth' expressed when the day of the week is stated?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "martedì 8 (otto)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "il martedì otto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "l'otto martedì",
+          "is_correct": false
+        },
+        {
+          "answer_text": "martedì l'otto",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Language -Usage Notes \nl. The word studio (not ufficio) is used to refer to the office of someone who \npractices a profession, such as a doctor or a lawyer. \n2. The verb sapere is sometimes found in contexts where you might expect the \nverb potere. This is because sapere is preferred whenever knowledge rather \nthan physical ability is involved. Thus: \nMi sa dire ... \nCan you tell me ... \nNon sa parlare italiano. \nS/he can't (doesn't know how to) speak Italian. \nbut: \nNon può parlare; ha la laringite. \nS/he can't talk; s/he has laryngitis. \n3. The si of come si scrive is the \"impersonal si \"that was introduced in lesson \nXIII. The expression eccome si scrive\" is literal/y \"how one writes (it).\" This \nexpression is commonly used for \"how it is spel/ed. \" \n4. The words certamente and certo (certain/y) are used interchangeab/y. \n5. The words ora, tempo, and volta may each occur in contexts in which the \nEnglish trans/ation is \"time. \" However, they are not interchangeable. Ora is \nused in time-tel/ing expressions, tempo is used in phrases indicating /ength \nof time, and volta is used to indicate number of times or which time. Thus: \nChe ora è? \nWhat time is it? \nQuanto tempo abbiamo ancora? \nHow much time do we have /eft? \nQuante volte l'ha letto? \nHow many times has s/he read it? \n6. Notice that \"Tuesday the eighth \" is expressed simp/y as martedì 8 (otto). In \nsuch expressions, when the day of the week is expressed, il or l' is not used \nand a cardinal number is required. \n7. Following is a list of city names that are used in telephone conversations for \nspelling purposes. \nEsempio: \nCome si scrive Dellizuani'? \nDellizuani, si scrive: D (di) come Domodossola, e (e) \ncome Empoli, doppia I (elle) come Livorno, i (i) come \nImola, z (zeta) come Zara, u (u) come Udine, a (a) come \nAncona, n (enne) come Napoli, i (i) come Imola. "
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

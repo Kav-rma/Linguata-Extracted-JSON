@@ -1,0 +1,372 @@
+[
+  {
+    "title": "unit23_recipe",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What type of flour is used to make the polenta in this recipe?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Farina di granoturco (cornmeal)",
+            "is_correct": true
+          },
+          {
+            "answer": "Farina di grano duro (semolina)",
+            "is_correct": false
+          },
+          {
+            "answer": "Farina di riso (rice flour)",
+            "is_correct": false
+          },
+          {
+            "answer": "Farina integrale (whole wheat flour)",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "How much water is required to prepare the polenta?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "1 liter",
+            "is_correct": false
+          },
+          {
+            "answer": "2 liters",
+            "is_correct": true
+          },
+          {
+            "answer": "500 milliliters",
+            "is_correct": false
+          },
+          {
+            "answer": "3 liters",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "How many grams of veal cubes are needed for the skewers for four people?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "400 grams",
+            "is_correct": false
+          },
+          {
+            "answer": "800 grams",
+            "is_correct": true
+          },
+          {
+            "answer": "1 kilogram",
+            "is_correct": false
+          },
+          {
+            "answer": "200 grams",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Which herb is threaded on the skewers along with veal cubes and pancetta?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Basilico (basil)",
+            "is_correct": false
+          },
+          {
+            "answer": "Salvia (sage)",
+            "is_correct": true
+          },
+          {
+            "answer": "Rosmarino (rosemary)",
+            "is_correct": false
+          },
+          {
+            "answer": "Prezzemolo (parsley)",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "What liquid is used to moisten the veal skewers during cooking?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Red wine",
+            "is_correct": false
+          },
+          {
+            "answer": "White wine",
+            "is_correct": true
+          },
+          {
+            "answer": "Broth",
+            "is_correct": false
+          },
+          {
+            "answer": "Milk",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "What can be added at the end to create a richer sauce for the polenta?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "A bit of heavy cream",
+            "is_correct": true
+          },
+          {
+            "answer": "Lemon juice",
+            "is_correct": false
+          },
+          {
+            "answer": "Tomato sauce",
+            "is_correct": false
+          },
+          {
+            "answer": "Soy sauce",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What kind of fat is used to brown the skewers?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Olive oil",
+            "is_correct": false
+          },
+          {
+            "answer": "Butter and oil",
+            "is_correct": true
+          },
+          {
+            "answer": "Sunflower oil only",
+            "is_correct": false
+          },
+          {
+            "answer": "Lard",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "How is the pancetta prepared before threading on the skewers?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Cut into thin strips of about 2 cm length",
+            "is_correct": true
+          },
+          {
+            "answer": "Minced finely",
+            "is_correct": false
+          },
+          {
+            "answer": "Left whole",
+            "is_correct": false
+          },
+          {
+            "answer": "Fried until crisp",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Which list of wines is suggested to accompany the dish?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Chianti, Barolo, Brunello di Montalcino",
+            "is_correct": false
+          },
+          {
+            "answer": "Soave, Bardolino, Tocai di San Martino della Battaglia",
+            "is_correct": true
+          },
+          {
+            "answer": "Merlot, Pinot Grigio, Lambrusco",
+            "is_correct": false
+          },
+          {
+            "answer": "Sangiovese, Nero d'Avola, Frascati",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "How long should the polenta mixture be cooked?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "15 to 20 minutes",
+            "is_correct": false
+          },
+          {
+            "answer": "45 to 50 minutes",
+            "is_correct": true
+          },
+          {
+            "answer": "10 minutes",
+            "is_correct": false
+          },
+          {
+            "answer": "One hour and a half",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Polenta e spiedini di vitello"
+      },
+      {
+        "sequence_id": 2,
+        "text": "Ingredienti per la polenta:"
+      },
+      {
+        "sequence_id": 3,
+        "text": "2 litri d'acqua"
+      },
+      {
+        "sequence_id": 4,
+        "text": "500 grammi di farina di granoturco"
+      },
+      {
+        "sequence_id": 5,
+        "text": "un cucchiaio di sale"
+      },
+      {
+        "sequence_id": 6,
+        "text": "preparazione:"
+      },
+      {
+        "sequence_id": 7,
+        "text": "Salare l'acqua e portarla all'ebollizione."
+      },
+      {
+        "sequence_id": 8,
+        "text": "Versare lentamente la farina nell'acqua mescolando e facendo attenzione a non formare grumi."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Mescolare continuamente rivoltando l'intero impasto spesso."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Cuocere per 45 o 50 minuti fino a cottura completa."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Ingredienti per gli spiedini di vitello (per 4 persone):"
+      },
+      {
+        "sequence_id": 12,
+        "text": "800 gr. di vitello tagliato a cubetti piuttosto grossi"
+      },
+      {
+        "sequence_id": 13,
+        "text": "6 fettine di pancetta affettata grossa"
+      },
+      {
+        "sequence_id": 14,
+        "text": "alcune foglie di salvia"
+      },
+      {
+        "sequence_id": 15,
+        "text": "sale, pepe"
+      },
+      {
+        "sequence_id": 16,
+        "text": "un bicchiere di vino bianco"
+      },
+      {
+        "sequence_id": 17,
+        "text": "preparazione:"
+      },
+      {
+        "sequence_id": 18,
+        "text": "Tagliare le fettine di pancetta a strisce della lunghezza di 2 cm. circa."
+      },
+      {
+        "sequence_id": 19,
+        "text": "Infilare negli spiedini i cubetti di carne alternandoli con le fettine di pancetta e una foglia di salvia e salare."
+      },
+      {
+        "sequence_id": 20,
+        "text": "Rosolare gli spiedini, ottenuti, in abbondante olio e burro."
+      },
+      {
+        "sequence_id": 21,
+        "text": "Dopo averli rosolati bagnarli un po' alla volta con il vino bianco tenendo la pentola aperta."
+      },
+      {
+        "sequence_id": 22,
+        "text": "Se necessario aggiungere un po' d'acqua fino a completa cottura della carne."
+      },
+      {
+        "sequence_id": 23,
+        "text": "Se si vuole ottenere un intingolo più ricco da accompagnare alla polenta si può, verso l'ultimo aggiungere un po' di panna da tavola."
+      },
+      {
+        "sequence_id": 24,
+        "text": "Alcuni vini veneti"
+      },
+      {
+        "sequence_id": 25,
+        "text": "Soave e Recioto di Soave"
+      },
+      {
+        "sequence_id": 26,
+        "text": "Bardolino"
+      },
+      {
+        "sequence_id": 27,
+        "text": "Tocai di San Martino della Battaglia"
+      },
+      {
+        "sequence_id": 28,
+        "text": "Valpolicella"
+      },
+      {
+        "sequence_id": 29,
+        "text": "Breganze Merlot e Cabernet di Pramaggiore"
+      }
+    ],
+    "metadata": {
+      "page_start": 24,
+      "page_end": 24,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

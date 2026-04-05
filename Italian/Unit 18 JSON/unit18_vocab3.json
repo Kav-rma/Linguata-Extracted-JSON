@@ -1,0 +1,111 @@
+[
+  {
+    "title": "unit18_vocab3",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "È occupata in questo momento.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "She's busy at the moment.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Resti in linea, prego.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hold on, please.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Devo riferire qualcosa?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Would you like to leave a message?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Prego, si accomodi.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Please have a seat.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Ne avranno per molto?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Will they be long?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Può attendere qualche minuto?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Can you wait a few minutes?",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 7,
+        "question_text": "Mi dispiace, il signor Payne non c’è ora.",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "I’m sorry. Mr. Payne isn’t in right now.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 8,
+        "question_text": "Pronto, c’è la signora Braum, per piacere?",
+        "type": "short_answer",
+        "has_answer": true,
+        "answers": [
+          {
+            "answer_text": "Hello. Is Mrs. Braum there, please?",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 11,
+      "page_end": 11,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

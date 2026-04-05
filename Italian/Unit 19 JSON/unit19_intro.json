@@ -1,0 +1,670 @@
+{
+  "title": "unit19_intro",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What phone number is given for avvocato Paolo Frua?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "4808154",
+          "is_correct": true
+        },
+        {
+          "answer_text": "4088154",
+          "is_correct": false
+        },
+        {
+          "answer_text": "4808514",
+          "is_correct": false
+        },
+        {
+          "answer_text": "4908154",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "On which street is avvocato Paolo Frua's office located?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Via Indipendenza",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Via Milano",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Salerno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Napoli",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does the caller want to arrange for Signor Simson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "An appointment",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A hotel room",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A train ticket",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A medical exam",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How is the first letter of Simson spelled out?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "S come Salerno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "S come Siena",
+          "is_correct": false
+        },
+        {
+          "answer_text": "S come Savona",
+          "is_correct": false
+        },
+        {
+          "answer_text": "S come Siracusa",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which city is used for the letter I in Simson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Imola",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ivrea",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Isernia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ischia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Why does Signor Simson need the appointment?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "For a legal matter",
+          "is_correct": true
+        },
+        {
+          "answer_text": "For a dental checkup",
+          "is_correct": false
+        },
+        {
+          "answer_text": "For a business lunch",
+          "is_correct": false
+        },
+        {
+          "answer_text": "For a school meeting",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Is Signor Simson coming for the first time?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, for the first time",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, he comes every week",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No, he has already come many times",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No, he canceled before",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What day is proposed for the appointment?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tuesday the eighth",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Monday the seventh",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Wednesday the ninth",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Thursday the tenth",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "At what time is the appointment set?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "11:30",
+          "is_correct": true
+        },
+        {
+          "answer_text": "10:30",
+          "is_correct": false
+        },
+        {
+          "answer_text": "12:30",
+          "is_correct": false
+        },
+        {
+          "answer_text": "11:00",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Who says \"Centralino, dica pure\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The operator",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The lawyer",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Signor Simson",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The supervisor",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LESSONXIX"
+    },
+    {
+      "sequence_id": 2,
+      "text": "AT THE OFFICE \""
+    },
+    {
+      "sequence_id": 3,
+      "text": "SETTING THE SCENE"
+    },
+    {
+      "sequence_id": 4,
+      "text": "This morning you have to make an appointment for your supervisor with"
+    },
+    {
+      "sequence_id": 5,
+      "text": "his/her lawyer."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Because the lawyer's number has recently changed, you first have to"
+    },
+    {
+      "sequence_id": 7,
+      "text": "get the new number."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Centr.:"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Lei:"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Centr.:"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Lei: HEARINGIT"
+    },
+    {
+      "sequence_id": 12,
+      "text": "SEEINGIT"
+    },
+    {
+      "sequence_id": 13,
+      "text": "1. Centralino, dica pure."
+    },
+    {
+      "sequence_id": 14,
+      "text": "2. Vorrei il numero di telefono dell'avvocato Paolo Frua, Via"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Indipendenza 69."
+    },
+    {
+      "sequence_id": 16,
+      "text": "3. Un momento per favore ... il numero è 4808154."
+    },
+    {
+      "sequence_id": 17,
+      "text": "4. Grazie, buongiorno."
+    },
+    {
+      "sequence_id": 18,
+      "text": "(a few minutes later, on the phone)"
+    },
+    {
+      "sequence_id": 19,
+      "text": "XIX -20"
+    },
+    {
+      "sequence_id": 20,
+      "text": "Hosted for free on livelingua.com"
+    },
+    {
+      "sequence_id": 21,
+      "text": "Segr.:"
+    },
+    {
+      "sequence_id": 22,
+      "text": "Lei:"
+    },
+    {
+      "sequence_id": 23,
+      "text": "Segr.:"
+    },
+    {
+      "sequence_id": 24,
+      "text": "Lei:"
+    },
+    {
+      "sequence_id": 25,
+      "text": "Segr.:"
+    },
+    {
+      "sequence_id": 26,
+      "text": "Lei:"
+    },
+    {
+      "sequence_id": 27,
+      "text": "Segr.:"
+    },
+    {
+      "sequence_id": 28,
+      "text": "Lei:"
+    },
+    {
+      "sequence_id": 29,
+      "text": "Segr.: IT AliAN FAST"
+    },
+    {
+      "sequence_id": 30,
+      "text": "5. Buongiorno, studio dell'avvocato Frua, desidera?"
+    },
+    {
+      "sequence_id": 31,
+      "text": "6. Vorrei fissare un appuntamento per la signor(in)a/il signor Simson."
+    },
+    {
+      "sequence_id": 32,
+      "text": "7. Mi sa dire come si scrive, per favore?"
+    },
+    {
+      "sequence_id": 33,
+      "text": "8. Certamente. Simson, S (esse) come Salerno, I (i) come Imola, M"
+    },
+    {
+      "sequence_id": 34,
+      "text": "(emme) come Milano, S (esse) come Salerno, O (o) come Otranto, N"
+    },
+    {
+      "sequence_id": 35,
+      "text": "(enne) come Napoli."
+    },
+    {
+      "sequence_id": 36,
+      "text": "9. Grazie. La signor(in)a/il signor Simson è già venuto/a altre volte?"
+    },
+    {
+      "sequence_id": 37,
+      "text": "10. No, viene per la prima volta. Ha bisogno di consultarsi per una"
+    },
+    {
+      "sequence_id": 38,
+      "text": "pratica legale."
+    },
+    {
+      "sequence_id": 39,
+      "text": "11. Martedì otto alle undici e trenta, va bene?"
+    },
+    {
+      "sequence_id": 40,
+      "text": "12. Martedì otto alle undici e trenta, sì, va bene. Grazie, buongiorno."
+    },
+    {
+      "sequence_id": 41,
+      "text": "13. Buongiorno."
+    },
+    {
+      "sequence_id": 42,
+      "text": "Centr.: Centralinista: operator"
+    },
+    {
+      "sequence_id": 43,
+      "text": "Segr.: Segretaria"
+    },
+    {
+      "sequence_id": 44,
+      "text": "Fili in the Blanks 1"
+    },
+    {
+      "sequence_id": 45,
+      "text": "Centralino, ________ pure."
+    },
+    {
+      "sequence_id": 46,
+      "text": "________ il ________ di ________ dell'"
+    },
+    {
+      "sequence_id": 47,
+      "text": "________ Paolo ________ , Via ________ 69."
+    },
+    {
+      "sequence_id": 48,
+      "text": "________ momento ________ favore ..."
+    },
+    {
+      "sequence_id": 49,
+      "text": "________ numero ________ 48 _______ _"
+    },
+    {
+      "sequence_id": 50,
+      "text": "154. ________ , buongiorno."
+    },
+    {
+      "sequence_id": 51,
+      "text": "________ , studio ________ avvocato"
+    },
+    {
+      "sequence_id": 52,
+      "text": "________ , desidera?"
+    },
+    {
+      "sequence_id": 53,
+      "text": "________ fissare ________ appuntamento"
+    },
+    {
+      "sequence_id": 54,
+      "text": "________ la signor(in)a/ilsignor Simson."
+    },
+    {
+      "sequence_id": 55,
+      "text": "XIX -21"
+    },
+    {
+      "sequence_id": 56,
+      "text": "Hosted for free on livelingua.com"
+    },
+    {
+      "sequence_id": 57,
+      "text": "sa come scrive,"
+    },
+    {
+      "sequence_id": 58,
+      "text": "favore?"
+    },
+    {
+      "sequence_id": 59,
+      "text": ". Simson, (esse)"
+    },
+    {
+      "sequence_id": 60,
+      "text": "Salerno, (i) Imola,"
+    },
+    {
+      "sequence_id": 61,
+      "text": "(emme) Milano,"
+    },
+    {
+      "sequence_id": 62,
+      "text": "(esse) Salerno,"
+    },
+    {
+      "sequence_id": 63,
+      "text": "(o) Otranto, (enne)"
+    },
+    {
+      "sequence_id": 64,
+      "text": "Napoli."
+    },
+    {
+      "sequence_id": 65,
+      "text": ". La signor{in}a/il signor è"
+    },
+    {
+      "sequence_id": 66,
+      "text": "venuto/a altre ?"
+    },
+    {
+      "sequence_id": 67,
+      "text": "No, per prima"
+    },
+    {
+      "sequence_id": 68,
+      "text": "Ha di per"
+    },
+    {
+      "sequence_id": 69,
+      "text": "pratica"
+    },
+    {
+      "sequence_id": 70,
+      "text": "Martedì alle e"
+    },
+    {
+      "sequence_id": 71,
+      "text": "va ?"
+    },
+    {
+      "sequence_id": 72,
+      "text": "Martedì alle e"
+    },
+    {
+      "sequence_id": 73,
+      "text": "sì, bene. , buong iorno."
+    },
+    {
+      "sequence_id": 74,
+      "text": "Fili in the Blanks 2"
+    },
+    {
+      "sequence_id": 75,
+      "text": "________ , dica _________ _"
+    },
+    {
+      "sequence_id": 76,
+      "text": "Vorrei numero telefono -------------- -----------"
+    },
+    {
+      "sequence_id": 77,
+      "text": "avvocato Frua, -------- --------------- ------------"
+    },
+    {
+      "sequence_id": 78,
+      "text": "Indipendenza ___________ _"
+    },
+    {
+      "sequence_id": 79,
+      "text": "Un ________ per _________ ... il _______ _"
+    },
+    {
+      "sequence_id": 80,
+      "text": "è 08 ----------"
+    },
+    {
+      "sequence_id": 81,
+      "text": "Grazie, ------------"
+    },
+    {
+      "sequence_id": 82,
+      "text": "Buongiorno, __________ dell' __________ Frua,"
+    },
+    {
+      "sequence_id": 83,
+      "text": "? ------------"
+    },
+    {
+      "sequence_id": 84,
+      "text": "Vorrei un la ----------- -----------"
+    },
+    {
+      "sequence_id": 85,
+      "text": "signorCin)a/il signor Simson."
+    },
+    {
+      "sequence_id": 86,
+      "text": "Mi dire si , per ----------- --------"
+    },
+    {
+      "sequence_id": 87,
+      "text": "? -----------"
+    },
+    {
+      "sequence_id": 88,
+      "text": "Certamente. ____________ , S ( ___________ ) come"
+    },
+    {
+      "sequence_id": 89,
+      "text": "____________ ,' I ( ______________ ) come _________ , M"
+    },
+    {
+      "sequence_id": 90,
+      "text": "( ______________ ) come , S ( _______________ )"
+    },
+    {
+      "sequence_id": 91,
+      "text": "come ________ , O ( ) come"
+    },
+    {
+      "sequence_id": 92,
+      "text": "__________ , N ( ________ ) come ________ _"
+    },
+    {
+      "sequence_id": 93,
+      "text": "Grazie. La signor(in)a/ilsignor è già ________ _"
+    },
+    {
+      "sequence_id": 94,
+      "text": "volte? ---------"
+    },
+    {
+      "sequence_id": 95,
+      "text": ", viene la volta. ----------- ---------- ---------"
+    },
+    {
+      "sequence_id": 96,
+      "text": "____________ bisogno ___________ consultarsi"
+    },
+    {
+      "sequence_id": 97,
+      "text": "_________ una legale."
+    },
+    {
+      "sequence_id": 98,
+      "text": "otto undici --------- ----------- --------"
+    },
+    {
+      "sequence_id": 99,
+      "text": "trenta, bene?"
+    },
+    {
+      "sequence_id": 100,
+      "text": "otto undici --------- ----------"
+    },
+    {
+      "sequence_id": 101,
+      "text": "trenta, ________ , va _________ . Grazie,"
+    },
+    {
+      "sequence_id": 102,
+      "text": "Buongiorno."
+    },
+    {
+      "sequence_id": 103,
+      "text": "XIX -23"
+    },
+    {
+      "sequence_id": 104,
+      "text": "Hosted for free on livelingua.com"
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
