@@ -1,0 +1,258 @@
+{
+  "title": "unit21_language_usage",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What pronouns are used with reflexive verbs for the io, tu, noi, voi, and lei/loro forms?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "mi, ti, ci, vi, si",
+          "is_correct": true
+        },
+        {
+          "answer_text": "lo, la, li, le, si",
+          "is_correct": false
+        },
+        {
+          "answer_text": "mi, ti, si, ci, vi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ne, ci, vi, si, mi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which verb is given as existing only in its reflexive form?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "conoscersi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "lagnarsi",
+          "is_correct": true
+        },
+        {
+          "answer_text": "parlarsi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "scriversi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In the plural, reflexive verbs can also convey which meaning?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Future intention",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Each other / one another",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Formal address",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Possession",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How is Ho conosciuto il dottore ieri. translated in this lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "I knew the doctor yesterday.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "I saw the doctor yesterday.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "I met the doctor yesterday.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "I called the doctor yesterday.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "In reflexive past constructions like Ci siamo conosciuti/e lunedì scorso., which auxiliary is used?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "avere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "stare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "essere",
+          "is_correct": true
+        },
+        {
+          "answer_text": "venire",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does sapere often mean in the two-word past construction described here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To teach",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To remember",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To find out",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To believe",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the Italian name of the tense with endings such as -vo, -vi, -va, -vamo, -vate, -vano?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "passato prossimo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "futuro semplice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "imperfetto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "condizionale",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which three verbs are listed as irregular in this tense?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "essere, dire, fare",
+          "is_correct": true
+        },
+        {
+          "answer_text": "avere, andare, stare",
+          "is_correct": false
+        },
+        {
+          "answer_text": "potere, volere, dovere",
+          "is_correct": false
+        },
+        {
+          "answer_text": "sapere, vedere, venire",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "After which verbs or prepositions can italiano appear without l' according to the lesson?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "After essere and con",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Immediately after parlare, and immediately after in or di",
+          "is_correct": true
+        },
+        {
+          "answer_text": "After avere and da",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only after con and per",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which expression means to be from a city or town in the sense of being born and raised there?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "venire da ...",
+          "is_correct": false
+        },
+        {
+          "answer_text": "essere di ...",
+          "is_correct": true
+        },
+        {
+          "answer_text": "andare a ...",
+          "is_correct": false
+        },
+        {
+          "answer_text": "stare in ...",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. a) Verbs with infinitives ending in -si are called ref/exive. Such verbs are a/ways used with mi (far the io form), ti (far the tu form), ci (for the noi form), vi (far the voi form), si (far the lei and loro forms). \nb) Mast reflexive verbs have non-reflexive counterparts. Compare the following ref/exive and non-reflexive forms ofconoscere: \nconosco /know mi conosco I know myself \nconosciamo we know ci conosciamo we know ourse/ves \nAn exception to the above is the reflexive verb lagnarsi (to comp/ain), which exists on/y in its reflexive formo Thus: \nmi lagno I complain \nc) In the plural, most reflexive verbs may a/so be used to convey the idea of \"(to) each other, (to) one another,\" as in: \nci conosciamo \nvi parlate \nsi scrivono we know each other, \nyou speak to each other, \nthey write to each other, we know one another \nyou speak to one another \nthey write to one another \nd) The verbs conoscere and conoscersi in the two-word past construction usual/y focus on a past beginning; in this case, the point at which a knowing or acquaintance began. Hence, the translation changes from \"know\" to \"met.\" Thus: \nHo conosciuto il dottore ieri. \nI met the doctor yesterday. \nAbbiamo conosciuto le ragazze sabato. \nWe met the girls Saturday. \nCi siamo conosciuti/e lunedì scorso. \nWe met (each other) last Monday. \nNotice that in a reflexive construction Iike that of the last example, a form of essere is used (siamo), and the secondary verb form (conosciuto) changes (to conosciuti or conosciute) to agree with the p/ural subject. \nSapere functions similar/y. The trans/ation changes from \"know\" to \"find out.\" Thus: \nHo saputo ieri che Maria era sposata. \nI found out yesterday that Mary was married. \n2. The dia/og gives five examp/es of a past tense that you first saw in /esson XVI. Except for some forms of essere, this tense has -v-in its endings. Thus: \nparlava \nparlavo \nBut: ero \npiaceva \navevo \nThis tense is normal/y used to focus on a past intermediate point of something. Thus: \nparlava (line 6) and parlavo (line 7) refer to what the person already spoke or was able to speak when he began studying in college (and continued to (be able to) speak after that point); \npiaceva (lines 10 & 11) and avevo (line 11) refer to an intermediate (unspecified) point during the speaker's stay in San Francisco; \nero (fine 13) refers to a time intermediate to the speaker's being at the Embassy in Paris when the trips to Italy took pIace. \nFor most verbs this tense is formed by changing the -re of the infinitive to the fo/lowing endings: \n(io) -vo \n(tu) -vi \n(lei» -va (noi) -vamo \n(voi) -vate \n(loro) -vano \nThere is a stress shjft in the noi and voi forms to the -va-sy/lable. \nHere is the verb parlare in this tense: \nparlavo \nparlavi \nparlava parlavamo \nparlavate \nparlavano \nThe Italian name of this tense is the imperfetto. \nThe following three verbs are irregular in this tense: \nessere dire fare \nero eravamo dicevo dicevamo facevo facevamo \neri eravate dicevi dicevate facevi facevate \nera erano diceva dicevano faceva facevano \n3. In most contexts, the word italiano is preceded by l'. Exceptions are: (1) (optional) immediately after a form of parlare (e.g., Parla italiano?); (2) immediate/y after in or di. Similar/y, il francese versus francese, lo spagnolo versus spagnolo, etc. \n4. The idea of ufrom U is expressed differently in the following expressions: essere di . .. Uta be from U and venire da . .. Uta come from.\" The first expression carries the connotation of \"having been born and raised in ... , Il and is followed by the name of the city or town. Thus: \nSono di Boston. \nl'm from Boston. (= I was born and raised in Boston.) \nVengo da Boston. \nI come from Boston. \nAn Italian born in one piace but raised elsewhere might say something like, \"Sono nato/a a ... ma sono cresciutola a ... ,\" or, if not wishing to elaborate, simp/y, \"Sono di ... ,\" picking the name of the city or town identified with most. The name of a country is not used after essere di and utterances like \"slhe is from Italy\" and \"s/he is trom France\" are expressed as \"è italiano/a\" and \"è francese, \" respectively. \n5. Notice the use of the present tense in: È la prima volta che viene in Italia? Uis this the first time you've come to Ita/y?U This is by analogy with those verbs in this construction which require the present, since the idea is that of something going on at the present time. For example: \nÈ la prima volta che vede il Colosseo? \nIs this the first time vou've seen the Coliseum? \nÈ la seconda volta che mi trovo in questa situazione. \nThis is the second time l've found myself in this situation."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

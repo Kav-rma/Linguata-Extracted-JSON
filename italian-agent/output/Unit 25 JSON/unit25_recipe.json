@@ -1,0 +1,360 @@
+[
+  {
+    "title": "unit25_recipe",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "What type of poultry is used in the recipe \"Pollo in fricò\"?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Chicken",
+            "is_correct": true
+          },
+          {
+            "answer": "Rabbit",
+            "is_correct": false
+          },
+          {
+            "answer": "Turkey",
+            "is_correct": false
+          },
+          {
+            "answer": "Duck",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "How many cloves of garlic are used in \"Pollo in fricò\"?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "2",
+            "is_correct": false
+          },
+          {
+            "answer": "3",
+            "is_correct": false
+          },
+          {
+            "answer": "4",
+            "is_correct": true
+          },
+          {
+            "answer": "5",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Which herb is sprinkled over the chicken in the recipe?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Basil",
+            "is_correct": false
+          },
+          {
+            "answer": "Rosemary",
+            "is_correct": true
+          },
+          {
+            "answer": "Thyme",
+            "is_correct": false
+          },
+          {
+            "answer": "Sage",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "When should you add lemon juice to the chicken?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Before cooking",
+            "is_correct": false
+          },
+          {
+            "answer": "After cooking is finished",
+            "is_correct": true
+          },
+          {
+            "answer": "During cooking halfway",
+            "is_correct": false
+          },
+          {
+            "answer": "There is no lemon",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "How much rice is needed for \"Torta di riso\"?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "100 g",
+            "is_correct": false
+          },
+          {
+            "answer": "250 g",
+            "is_correct": true
+          },
+          {
+            "answer": "500 g",
+            "is_correct": false
+          },
+          {
+            "answer": "1 kg",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "In \"Torta di riso\", what is added to the cooled rice along with sugar?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Egg yolks",
+            "is_correct": true
+          },
+          {
+            "answer": "Egg whites",
+            "is_correct": false
+          },
+          {
+            "answer": "Butter",
+            "is_correct": false
+          },
+          {
+            "answer": "Vanilla",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "What additional ingredient is grated into the rice mixture in \"Torta di riso\"?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "Grated chocolate",
+            "is_correct": false
+          },
+          {
+            "answer": "Grated lemon zest",
+            "is_correct": true
+          },
+          {
+            "answer": "Grated cheese",
+            "is_correct": false
+          },
+          {
+            "answer": "Grated orange peel",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "At what temperature should the rice cake be baked?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "150°C",
+            "is_correct": false
+          },
+          {
+            "answer": "180°C",
+            "is_correct": true
+          },
+          {
+            "answer": "200°C",
+            "is_correct": false
+          },
+          {
+            "answer": "220°C",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "How many eggs are required for \"Torta di riso\"?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "2",
+            "is_correct": false
+          },
+          {
+            "answer": "3",
+            "is_correct": false
+          },
+          {
+            "answer": "4",
+            "is_correct": true
+          },
+          {
+            "answer": "6",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 10,
+        "question": "Why should you turn the chicken pieces and lower the heat during cooking?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+            "answer": "To avoid burning the garlic",
+            "is_correct": false
+          },
+          {
+            "answer": "To make a thick crust and then cook through",
+            "is_correct": true
+          },
+          {
+            "answer": "To keep the chicken moist",
+            "is_correct": false
+          },
+          {
+            "answer": "To add herbs",
+            "is_correct": false
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Pollo in fricò"
+      },
+      {
+        "sequence_id": 2,
+        "text": "Ingredienti:"
+      },
+      {
+        "sequence_id": 3,
+        "text": "1 pollo di media grandezza"
+      },
+      {
+        "sequence_id": 4,
+        "text": "olio, sale e pepe q.b."
+      },
+      {
+        "sequence_id": 5,
+        "text": "4 spicchi d'aglio"
+      },
+      {
+        "sequence_id": 6,
+        "text": "rosmarino"
+      },
+      {
+        "sequence_id": 7,
+        "text": "2 limoni"
+      },
+      {
+        "sequence_id": 8,
+        "text": "preparazione:"
+      },
+      {
+        "sequence_id": 9,
+        "text": "Mettere in una padella l'olio, il pollo tagliato a pezzi, aggiungere gli spicchi d'aglio tagliati a pezzi piuttosto grandi, quindi cospargere di rosmarino."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Cuocere a fuoco molto forte (dovrà fare una crosta molto spessa), poi girare i pezzi di pollo e diminuire un po' il fuoco."
+      },
+      {
+        "sequence_id": 11,
+        "text": "Se necessario scolare l'eccesso di olio."
+      },
+      {
+        "sequence_id": 12,
+        "text": "A cottura ultimata circa 35-40 minuti aggiungere il succo di limone e servirlo."
+      },
+      {
+        "sequence_id": 13,
+        "text": "Torta di riso"
+      },
+      {
+        "sequence_id": 14,
+        "text": "Ingredienti:"
+      },
+      {
+        "sequence_id": 15,
+        "text": "1 litro di latte"
+      },
+      {
+        "sequence_id": 16,
+        "text": "250 gr. di riso"
+      },
+      {
+        "sequence_id": 17,
+        "text": "250 gr. di zucchero"
+      },
+      {
+        "sequence_id": 18,
+        "text": "100 gr. di farina"
+      },
+      {
+        "sequence_id": 19,
+        "text": "4 uova"
+      },
+      {
+        "sequence_id": 20,
+        "text": "1 scorza di limone grattugiata"
+      },
+      {
+        "sequence_id": 21,
+        "text": "preparazione:"
+      },
+      {
+        "sequence_id": 22,
+        "text": "Cuocere il riso nel latte con sale, e lasciarlo raffreddare in una terrina."
+      },
+      {
+        "sequence_id": 23,
+        "text": "Quando il riso è freddo aggiungere il tuorlo delle uova e lo zucchero."
+      },
+      {
+        "sequence_id": 24,
+        "text": "Mescolare bene."
+      },
+      {
+        "sequence_id": 25,
+        "text": "Aggiungere, ora la scorza di limone grattugiata e la farina, mescolare bene, poi aggiungere gli albumi montati e versare il tutto in una tortiera imburrata."
+      },
+      {
+        "sequence_id": 26,
+        "text": "Infornare a 180° C."
+      }
+    ],
+    "metadata": {
+      "page_start": 33,
+      "page_end": 33,
+      "are_questions_english": true,
+      "are_questions_generated_by_llm": true
+    }
+  }
+]

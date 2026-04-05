@@ -1,0 +1,86 @@
+{
+  "title": "unit21_model12",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Voi avete fatto questo lavoro altre volte?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, è la prima volta che lo\nfacciamo.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Lei ha mangiato il babà al rum altre volte?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, è la prima volta che lo mangio.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Loro hanno pranzato in questo ristorante\naltre volte?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, è la prima volta che pranzano\nin questo ristorante.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Voi avete studiato lingue straniere altre\nvolte?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, è la prima volta che studiamo\nuna lingua straniera.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Voi siete andati/e in Germania altre volte?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, è la prima volta che andiamo in\nGermania.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "lo e Lei ci siamo visti/e altre volte?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, è la prima volta che ci vediamo.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": "21",
+    "page_end": "21",
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/12 Q: Lei è venuto/a qui altre volte?\nA: No, è la prima volta che vengo qui."
+  }
+}

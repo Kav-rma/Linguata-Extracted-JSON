@@ -1,0 +1,310 @@
+{
+  "title": "unit21_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What kind of phrase is used in the section title?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "PUTTING IT TOGETHER",
+          "is_correct": true
+        },
+        {
+          "answer_text": "MAKING IT WORK",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ITALIAN GRAMMAR",
+          "is_correct": false
+        },
+        {
+          "answer_text": "FINAL REVIEW",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does \"Certo, si accomodi\" invite someone to do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Come in and make themselves comfortable",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Leave immediately",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Answer the phone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Open a window",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does the speaker ask after wondering if they have already met?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "If they met at someone’s house",
+          "is_correct": true
+        },
+        {
+          "answer_text": "If they work together",
+          "is_correct": false
+        },
+        {
+          "answer_text": "If they are related",
+          "is_correct": false
+        },
+        {
+          "answer_text": "If they live nearby",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How is the listener's Italian described?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Excellent",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Confusing",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Poor",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Limited",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What question follows the compliment about Italian ability?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Where it was studied",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Why it was forgotten",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Who teaches it now",
+          "is_correct": false
+        },
+        {
+          "answer_text": "When it became official",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What personal information is asked with \"Dove è nato/a Lei?\"",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Place of birth",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Current address",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Favorite city",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Job title",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which city is mentioned as being very beautiful?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "San Francisco",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Rome",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Milan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Venice",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does the speaker say has become late?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The time",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The train",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The meeting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The dinner",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does the speaker need to return to?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The office",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The hotel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The airport",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The restaurant",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which other language is mentioned in a possible response?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "German",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Spanish",
+          "is_correct": false
+        },
+        {
+          "answer_text": "French",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arabic",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "line 2 -Certo, si accomodi. Scusi, ma non ci siamo già conosciuti a casa di qualcuno?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "line 4 -Lo dicevo io. Il Suo italiano è eccellente! Dove l'ha studiato?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "line 8 -Dove è nato/a Lei?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "line 10 -San Francisco deve essere molto bella, Le piaceva?"
+    },
+    {
+      "sequence_id": 5,
+      "text": "line 14 -Si è fatto tardi, devo rientrare in ufficio. Ci vediamo."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Une 6 -Conosceva già altre lingue?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 9,
+      "text": "-Sì, parlavo il tedesco."
+    },
+    {
+      "sequence_id": 10,
+      "text": "-No, non conoscevo altre lingue."
+    },
+    {
+      "sequence_id": 11,
+      "text": "line 12 -È già stato/a in Italia?"
+    },
+    {
+      "sequence_id": 12,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 13,
+      "text": "-No, questa è la prima volta. Sono stato/a molti anni nel Medio Oriente."
+    },
+    {
+      "sequence_id": 14,
+      "text": "-Sì, due anni fa per una breve visita."
+    }
+  ],
+  "metadata": {
+    "page_start": 22,
+    "page_end": 22,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

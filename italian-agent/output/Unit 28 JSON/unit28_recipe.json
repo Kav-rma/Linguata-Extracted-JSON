@@ -1,0 +1,546 @@
+{
+  "title": "unit28_recipe",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the main ingredient of 'Gattò di riso'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Rice",
+          "is_correct": true
+        },
+        {
+          "answer": "Potatoes",
+          "is_correct": false
+        },
+        {
+          "answer": "Pasta",
+          "is_correct": false
+        },
+        {
+          "answer": "Fish",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following is used in the filling of the 'Gattò di riso'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Carrots",
+          "is_correct": false
+        },
+        {
+          "answer": "Veal stew meat",
+          "is_correct": true
+        },
+        {
+          "answer": "Chicken breast",
+          "is_correct": false
+        },
+        {
+          "answer": "Tomatoes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How many hard-boiled eggs are used in the 'Gattò di riso' recipe?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One",
+          "is_correct": false
+        },
+        {
+          "answer": "Two",
+          "is_correct": false
+        },
+        {
+          "answer": "Three",
+          "is_correct": true
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the final cooking temperature recommended for the 'Gattò di riso'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "180 °C",
+          "is_correct": false
+        },
+        {
+          "answer": "200 °C",
+          "is_correct": false
+        },
+        {
+          "answer": "250 °C",
+          "is_correct": true
+        },
+        {
+          "answer": "300 °C",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In preparing the béchamel sauce, when do you add the warm milk?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before adding flour",
+          "is_correct": false
+        },
+        {
+          "answer": "After heating it separately and adding gradually",
+          "is_correct": true
+        },
+        {
+          "answer": "After adding nutmeg",
+          "is_correct": false
+        },
+        {
+          "answer": "Only at the end",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The dish 'Riso e piselli' is also known as what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Risotto alla Milanese",
+          "is_correct": false
+        },
+        {
+          "answer": "Risi e bisi",
+          "is_correct": true
+        },
+        {
+          "answer": "Risotto ai funghi",
+          "is_correct": false
+        },
+        {
+          "answer": "Riso al forno",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What meat ingredient can be used in 'Riso e piselli'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Beef",
+          "is_correct": false
+        },
+        {
+          "answer": "Pancetta or prosciutto crudo",
+          "is_correct": true
+        },
+        {
+          "answer": "Chicken",
+          "is_correct": false
+        },
+        {
+          "answer": "Lamb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following is one of the wines from Tuscany listed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Prosecco",
+          "is_correct": false
+        },
+        {
+          "answer": "Chianti",
+          "is_correct": true
+        },
+        {
+          "answer": "Barolo",
+          "is_correct": false
+        },
+        {
+          "answer": "Lambrusco",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which region's wine list includes 'Primitivo di Manduria'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lazio",
+          "is_correct": false
+        },
+        {
+          "answer": "Puglia",
+          "is_correct": true
+        },
+        {
+          "answer": "Sicily",
+          "is_correct": false
+        },
+        {
+          "answer": "Veneto",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is one of the Lazio wines mentioned?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Frascati",
+          "is_correct": true
+        },
+        {
+          "answer": "Vernaccia di San Gimignano",
+          "is_correct": false
+        },
+        {
+          "answer": "Salice Salentino",
+          "is_correct": false
+        },
+        {
+          "answer": "Brunello di Montalcino",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Gattò di riso"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Ingredienti:"
+    },
+    {
+      "sequence_id": 3,
+      "text": "per il riso:"
+    },
+    {
+      "sequence_id": 4,
+      "text": "½ kg. di riso"
+    },
+    {
+      "sequence_id": 5,
+      "text": "2 uova"
+    },
+    {
+      "sequence_id": 6,
+      "text": "½ etto di burro"
+    },
+    {
+      "sequence_id": 7,
+      "text": "½ etto di parmigiano"
+    },
+    {
+      "sequence_id": 8,
+      "text": "sale q.b."
+    },
+    {
+      "sequence_id": 9,
+      "text": "per il ripieno:"
+    },
+    {
+      "sequence_id": 10,
+      "text": "carne di vitello per spezzatino 400 gr."
+    },
+    {
+      "sequence_id": 11,
+      "text": "besciamella"
+    },
+    {
+      "sequence_id": 12,
+      "text": "una cipollina"
+    },
+    {
+      "sequence_id": 13,
+      "text": "3 uova sode"
+    },
+    {
+      "sequence_id": 14,
+      "text": "200 gr. di pisellini"
+    },
+    {
+      "sequence_id": 15,
+      "text": "150 gr. di formaggio fresco"
+    },
+    {
+      "sequence_id": 16,
+      "text": "un bicchiere di vino bianco"
+    },
+    {
+      "sequence_id": 17,
+      "text": "per la besciamella:"
+    },
+    {
+      "sequence_id": 18,
+      "text": "½ l di latte"
+    },
+    {
+      "sequence_id": 19,
+      "text": "50 gr. di burro"
+    },
+    {
+      "sequence_id": 20,
+      "text": "2 cucchiai di farina"
+    },
+    {
+      "sequence_id": 21,
+      "text": "un pizzico di noce moscata"
+    },
+    {
+      "sequence_id": 22,
+      "text": "sale e pepe q.b."
+    },
+    {
+      "sequence_id": 23,
+      "text": "preparazione:"
+    },
+    {
+      "sequence_id": 24,
+      "text": "Cuocere il riso in acqua salata lasciandolo piuttosto al dente, scolarlo e unirvi tutti gli ingredienti."
+    },
+    {
+      "sequence_id": 25,
+      "text": "Con il riso così condito, foderare una teglia (già imburrata e spolverizzata con della mollica)."
+    },
+    {
+      "sequence_id": 26,
+      "text": "A parte fare imbiondire la cipollina, rosolare la carne tagliata a dadini e fare cuocere il tutto per qualche minuto a fuoco forte, versare quindi il bicchiere di vino, salare e pepare, aggiungervi i piselli, (cotti a parte) pochi minuti prima di spegnere il fuoco."
+    },
+    {
+      "sequence_id": 27,
+      "text": "Preparare la besciamella* (vedi sotto)."
+    },
+    {
+      "sequence_id": 28,
+      "text": "Adesso mettere nella teglia uno strato di riso, uno di carne con i piselli, uno di besciamella, le uova sode tagliate a fette, e il formaggio fresco; poi ancora uno di riso, uno di carne e così via fino ad esaurire tutti gli ingredienti."
+    },
+    {
+      "sequence_id": 29,
+      "text": "Mettere dei fiocchetti di burro e spolverizzare con dell'altra mollica."
+    },
+    {
+      "sequence_id": 30,
+      "text": "Infornare per un'ora circa alla temperatura di 250 gradi."
+    },
+    {
+      "sequence_id": 31,
+      "text": "*besciamella"
+    },
+    {
+      "sequence_id": 32,
+      "text": "preparazione:"
+    },
+    {
+      "sequence_id": 33,
+      "text": "In un pentolino fondere il burro, aggiungere la farina, mescolando sempre per evitare la formazione di grumi."
+    },
+    {
+      "sequence_id": 34,
+      "text": "In un altro pentolino, fare scaldare il latte, quando è caldo aggiungerlo un po' per volta all'impasto di burro e farina."
+    },
+    {
+      "sequence_id": 35,
+      "text": "Sempre mescolando, portare all'ebollizione."
+    },
+    {
+      "sequence_id": 36,
+      "text": "Aggiungere la noce moscata, e sale e pepe a piacere."
+    },
+    {
+      "sequence_id": 37,
+      "text": "Riso e piselli / Risi e bisi"
+    },
+    {
+      "sequence_id": 38,
+      "text": "Ingredienti (per 4 persone):"
+    },
+    {
+      "sequence_id": 39,
+      "text": "1 kg e ½ di piselli novelli"
+    },
+    {
+      "sequence_id": 40,
+      "text": "4 pugni di riso"
+    },
+    {
+      "sequence_id": 41,
+      "text": "1 cipolla"
+    },
+    {
+      "sequence_id": 42,
+      "text": "un po' di pancetta/ o prosciutto crudo"
+    },
+    {
+      "sequence_id": 43,
+      "text": "prezzemolo"
+    },
+    {
+      "sequence_id": 44,
+      "text": "preparazione:"
+    },
+    {
+      "sequence_id": 45,
+      "text": "Rosolare la cipolla in burro e olio con la pancetta a pezzetti o il prosciutto."
+    },
+    {
+      "sequence_id": 46,
+      "text": "Appena la cipolla diventa dorata aggiungere il riso e lasciare insaporire."
+    },
+    {
+      "sequence_id": 47,
+      "text": "Cuocere in acqua salata i piselli, scolarli."
+    },
+    {
+      "sequence_id": 48,
+      "text": "Usare l'acqua dei piselli per far cuocere il riso."
+    },
+    {
+      "sequence_id": 49,
+      "text": "A metà cottura del riso aggiungere i pisellini insieme a una manciata di prezzemolo tritato."
+    },
+    {
+      "sequence_id": 50,
+      "text": "Quando il riso è cotto, insaporire con un po' di burro e parmigiano grattugiato."
+    },
+    {
+      "sequence_id": 51,
+      "text": "Alcuni vini toscani"
+    },
+    {
+      "sequence_id": 52,
+      "text": "Chianti"
+    },
+    {
+      "sequence_id": 53,
+      "text": "Brunello di Montalcino"
+    },
+    {
+      "sequence_id": 54,
+      "text": "Nobile di Montepulciano"
+    },
+    {
+      "sequence_id": 55,
+      "text": "Vernaccia di San Gimignano"
+    },
+    {
+      "sequence_id": 56,
+      "text": "Rosso delle colline Lucchesi"
+    },
+    {
+      "sequence_id": 57,
+      "text": "Bianco Vergine Valdichiana"
+    },
+    {
+      "sequence_id": 58,
+      "text": "Alcuni vini pugliesi"
+    },
+    {
+      "sequence_id": 59,
+      "text": "San Severo"
+    },
+    {
+      "sequence_id": 60,
+      "text": "Aleatico di Puglia"
+    },
+    {
+      "sequence_id": 61,
+      "text": "Primitivo di Manduria"
+    },
+    {
+      "sequence_id": 62,
+      "text": "Salice Salentino"
+    },
+    {
+      "sequence_id": 63,
+      "text": "Moscato di Trani"
+    },
+    {
+      "sequence_id": 64,
+      "text": "Rosso di Cerignola"
+    },
+    {
+      "sequence_id": 65,
+      "text": "Locorotondo"
+    },
+    {
+      "sequence_id": 66,
+      "text": "Matino Ostuni"
+    },
+    {
+      "sequence_id": 67,
+      "text": "Cacc'e mmitte di Lucera"
+    },
+    {
+      "sequence_id": 68,
+      "text": "Castel del Monte"
+    },
+    {
+      "sequence_id": 69,
+      "text": "Alcuni vini laziali"
+    },
+    {
+      "sequence_id": 70,
+      "text": "Marino, Velletri, Frascati"
+    },
+    {
+      "sequence_id": 71,
+      "text": "Trebbiano e Merlot d'Aprilia"
+    },
+    {
+      "sequence_id": 72,
+      "text": "Zagarolo"
+    },
+    {
+      "sequence_id": 73,
+      "text": "Colli Albani"
+    }
+  ],
+  "metadata": {
+    "page_start": 20,
+    "page_end": 22,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -24,23 +24,36 @@ TITLE NAMING RULE:
 - Convert it to snake_case (all lowercase, spaces replaced with underscores, roman numerals kept as-is)
 - Title format: unit{N}_{snake_case_lesson_name}
 - Examples:
-    "AT THE AIRPORT I"         → unit1_at_the_airport_i
-    "AT THE AIRPORT II"        → unit1_at_the_airport_ii
-    "AT THE EXCHANGE OFFICE"   → unit3_at_the_exchange_office
-    "GETTING THE LOCAL TIME"   → unit4_getting_the_local_time
-    "AT THE HOTEL I"           → unit5_at_the_hotel_i
-    "AT THE HOTEL II"          → unit6_at_the_hotel_ii
-    "AT THE HOTEL III"         → unit7_at_the_hotel_iii
-    "AT THE HOTEL IV"          → unit8_at_the_hotel_iv
-    "GOING BY TAXI"            → unit9_going_by_taxi
-    "GETTING AROUND"           → unit10_getting_around
-    "AT THE EMBASSY I"         → unit11_at_the_embassy_i
-    "AT THE EMBASSY II"        → unit12_at_the_embassy_ii
-    "SHOPPING FOR CLOTHES"     → unit13_shopping_for_clothes
-    "AT THE SHOE STORE"        → unit14_at_the_shoe_store
-    "EATING OUT I"             → unit15_eating_out_i
-    "EATING OUT II"            → unit16_eating_out_ii
-    "PHONE CALL"               → unit17_phone_call
+    "AT THE AIRPORT I"                          → unit1_at_the_airport_i
+    "AT THE AIRPORT II"                         → unit1_at_the_airport_ii
+    "AT THE EXCHANGE OFFICE"                    → unit3_at_the_exchange_office
+    "GETTING THE LOCAL TIME"                    → unit4_getting_the_local_time
+    "AT THE HOTEL I"                            → unit5_at_the_hotel_i
+    "AT THE HOTEL II"                           → unit6_at_the_hotel_ii
+    "AT THE HOTEL III"                          → unit7_at_the_hotel_iii
+    "AT THE HOTEL IV"                           → unit8_at_the_hotel_iv
+    "GOING BY TAXI"                             → unit9_going_by_taxi
+    "GETTING AROUND"                            → unit10_getting_around
+    "AT THE EMBASSY I"                          → unit11_at_the_embassy_i
+    "AT THE EMBASSY II"                         → unit12_at_the_embassy_ii
+    "SHOPPING FOR CLOTHES"                      → unit13_shopping_for_clothes
+    "AT THE SHOE STORE"                         → unit14_at_the_shoe_store
+    "EATING OUT I"                              → unit15_eating_out_i
+    "EATING OUT II"                             → unit16_eating_out_ii
+    "PHONE CALL"                                → unit17_phone_call
+    "AT THE OFFICE I"                           → unit18_at_the_office_i
+    "AT THE OFFICE II"                          → unit19_at_the_office_ii
+    "AT THE CAFÉ"                               → unit20_at_the_cafe
+    "COFFEE BREAK AT THE EMBASSY"               → unit21_coffee_break_at_the_embassy
+    "DINING WITH AN ITALIAN FAMILY"             → unit22_dining_with_an_italian_family
+    "AN INVITATION"                             → unit23_an_invitation
+    "ERRANDS"                                   → unit24_errands
+    "HIRING HELP"                               → unit25_hiring_help
+    "TALKING ABOUT A TRIP"                      → unit26_talking_about_a_trip
+    "EMERGENCY CALLS"                           → unit27_emergency_calls
+    "CAR PROBLEMS"                              → unit28_car_problems
+    "RENTING A CAR/AT THE GAS STATION"          → unit29_renting_a_car_at_the_gas_station
+    "TALKING ABOUT SCHOOLS"                     → unit30_talking_about_schools
 
 RULES:
 - Type: reading

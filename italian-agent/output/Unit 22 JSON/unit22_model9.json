@@ -1,0 +1,86 @@
+{
+  "title": "unit22_model9",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Come vi siete trovati/e a Rio? Vi piaceva?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ci siamo trovati/e bene. Sì, ci piaceva.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Come si sono trovati i signori a Canberra? Gli piaceva?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Si sono trovati bene. Sì, gli piaceva.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Come si è trovata Chiara a Berlino? Le piaceva?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Si è trovata bene. Sì, le piaceva.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Come vi siete trovati/e a San Francisco? Vi piaceva?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ci siamo trovati/e bene. Sì, ci piaceva.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Come si è trovato Filippo negli Stati Uniti? Gli piaceva?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Si è trovato bene. Sì, gli piaceva.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Come ti sei trovato/a in Francia? Ti piaceva?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mi sono trovato/a bene. Sì, mi piaceva.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/9 Q: Come si ètrovato/a a Roma? Le piaceva?\nA: Mi sono trovato/a bene. Sì, mi piaceva."
+  }
+}

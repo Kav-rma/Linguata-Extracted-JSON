@@ -1,0 +1,176 @@
+[
+  {
+    "title": "unit24_reading_and_translation",
+    "type": "reading",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question": "Perché è uscita di buon'ora la signora?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Perché aveva una lunga lista di commissioni da fare per preparare la cena.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 2,
+        "question": "Dove ha comprato i cartoncini?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Li ha comprati in cartoleria.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 3,
+        "question": "Fra la roba che doveva ritirare, cosa c'era?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "C'era una tovaglia di lino bianca con dodici tovaglioli.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 4,
+        "question": "Cosa le aveva consigliato il marito?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Le aveva consigliato di andare all'Ufficio di collocamento per trovare una donna di servizio disponibile a lavorare la sera.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 5,
+        "question": "È stata aiutata?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "No, in quel momento non hanno potuto aiutarla.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 6,
+        "question": "Ha fatto un viaggio a vuoto?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sì, è stato un viaggio a vuoto.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 7,
+        "question": "Perché non si è fermata dal fruttivendolo?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Perché si era fatto tardi e doveva rincasare, così ha deciso di telefonare e ordinare la spesa poiché il fruttivendolo consegna a domicilio.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 8,
+        "question": "Chi ha incontrato rientrando?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Ha incontrato la portinaia.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      },
+      {
+        "sequence_id": 9,
+        "question": "Può aiutarla la portinaia?",
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "Sì, la portinaia ha detto che conosceva una signora che forse avrebbe fatto al caso suo e che gliela avrebbe mandata su.",
+            "is_correct": true
+          }
+        ],
+        "has_answer": true
+      }
+    ],
+    "articles": [
+      {
+        "sequence_id": 1,
+        "text": "Stamattina la signora Franchi è uscita di buon'ora."
+      },
+      {
+        "sequence_id": 2,
+        "text": "Ha una lunga lista di commissioni da fare in preparazione della cena."
+      },
+      {
+        "sequence_id": 3,
+        "text": "È andata in cartoleria a comprare i cartoncini per i biglietti di invito."
+      },
+      {
+        "sequence_id": 4,
+        "text": "Si è poi fermata in lavanderia a ritirare della roba, fra cui una tovaglia di lino bianca con dodici tovaglioli."
+      },
+      {
+        "sequence_id": 5,
+        "text": "È andata quindi, consigliata dal marito, all'Ufficio di collocamento per vedere se potevano aiutarla a trovare una donna di servizio che fosse disponibile a lavorare di sera, quando lei ne avesse avuto bisogno."
+      },
+      {
+        "sequence_id": 6,
+        "text": "L'impiegata non aveva nessuna domanda di lavoro."
+      },
+      {
+        "sequence_id": 7,
+        "text": "Un viaggio a vuoto!"
+      },
+      {
+        "sequence_id": 8,
+        "text": "Doveva andare anche dal fruttivendolo ma si era fatto tardi e doveva rincasare."
+      },
+      {
+        "sequence_id": 9,
+        "text": "Ha pensato di chiamare da casa e ordinare la spesa per telefono, dal momento che il fruttivendolo fa consegna a domicilio."
+      },
+      {
+        "sequence_id": 10,
+        "text": "Rientrando ha incontrato la portinaia."
+      },
+      {
+        "sequence_id": 11,
+        "text": "La signora Franchi le ha detto che cercava una donna di servizio per le serate in cui avrebbe avuto ospiti."
+      },
+      {
+        "sequence_id": 12,
+        "text": "Le ha anche detto che era già stata all'Ufficio di collocamento, e che in quel momento non potevano far nulla per lei."
+      },
+      {
+        "sequence_id": 13,
+        "text": "La portinaia le ha detto che conosceva una signora che forse avrebbe fatto al caso suo, e che gliela avrebbe mandata su in giornata."
+      }
+    ],
+    "metadata": {
+      "page_start": 22,
+      "page_end": 23,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

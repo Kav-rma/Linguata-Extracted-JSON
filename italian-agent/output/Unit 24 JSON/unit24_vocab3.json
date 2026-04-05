@@ -1,0 +1,87 @@
+[
+  {
+    "title": "unit24_vocab3",
+    "type": "vocabulary",
+    "questions_and_answers": [
+      {
+        "sequence_id": 1,
+        "question_text": "Vorrei far pulire a secco questo vestito.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I would like to have this suit dry cleaned.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 2,
+        "question_text": "Vorrei far lavare queste camicie.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I would like to have these shirts washed.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 3,
+        "question_text": "Vorrei far ritirare il tutto alle 4.00.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I would like to have everything picked up at 4:00.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 4,
+        "question_text": "Vorrei far stirare questo vestito.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I would like to have this dress pressed.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 5,
+        "question_text": "Vorrei far portar su le mie valigie.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I would like to have my suitcases brought up.",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "sequence_id": 6,
+        "question_text": "Vorrei far firmare questo contratto.",
+        "has_answer": true,
+        "type": "short_answer",
+        "answers": [
+          {
+            "answer_text": "I would like to have this contract signed.",
+            "is_correct": true
+          }
+        ]
+      }
+    ],
+    "articles": [],
+    "metadata": {
+      "page_start": 16,
+      "page_end": 16,
+      "are_questions_english": false,
+      "are_questions_generated_by_llm": false
+    }
+  }
+]

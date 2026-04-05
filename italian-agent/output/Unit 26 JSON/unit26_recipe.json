@@ -1,0 +1,354 @@
+{
+  "title": "unit26_recipe",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the main ingredient used in \"Melanzane al forno\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Eggplant (melanzane)",
+          "is_correct": true
+        },
+        {
+          "answer": "Zucchini",
+          "is_correct": false
+        },
+        {
+          "answer": "Potatoes",
+          "is_correct": false
+        },
+        {
+          "answer": "Peppers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which of the following is NOT listed as an ingredient for \"Melanzane al forno\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pancetta",
+          "is_correct": false
+        },
+        {
+          "answer": "Pecorino cheese",
+          "is_correct": false
+        },
+        {
+          "answer": "Tomatoes",
+          "is_correct": false
+        },
+        {
+          "answer": "Chicken",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What should be done after filling the eggplants in the recipe?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Put them on a plate",
+          "is_correct": false
+        },
+        {
+          "answer": "Bake them in the oven until cooked",
+          "is_correct": true
+        },
+        {
+          "answer": "Fry them in oil",
+          "is_correct": false
+        },
+        {
+          "answer": "Serve them raw",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which herb is finely chopped in the batter for \"Melanzane al forno\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Basil",
+          "is_correct": false
+        },
+        {
+          "answer": "Parsley (prezzemolo)",
+          "is_correct": true
+        },
+        {
+          "answer": "Rosemary",
+          "is_correct": false
+        },
+        {
+          "answer": "Sage",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How many bunches of parsley are suggested for the \"Bagnetto piemontese\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "1",
+          "is_correct": false
+        },
+        {
+          "answer": "2 or 3",
+          "is_correct": true
+        },
+        {
+          "answer": "4",
+          "is_correct": false
+        },
+        {
+          "answer": "5",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What protein ingredient is added to the \"Bagnetto piemontese\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A boiled egg (uovo sodo)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ham",
+          "is_correct": false
+        },
+        {
+          "answer": "Chicken",
+          "is_correct": false
+        },
+        {
+          "answer": "Fish",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What type of preparation is used for the capers and peppers in \"Bagnetto piemontese\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They are fried",
+          "is_correct": false
+        },
+        {
+          "answer": "They are finely chopped",
+          "is_correct": true
+        },
+        {
+          "answer": "They are boiled",
+          "is_correct": false
+        },
+        {
+          "answer": "They are roasted",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "For coloring the sauce, what ingredient is added in \"Bagnetto piemontese\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tomato paste (un po' di conserva)",
+          "is_correct": true
+        },
+        {
+          "answer": "Pepper flakes",
+          "is_correct": false
+        },
+        {
+          "answer": "Saffron",
+          "is_correct": false
+        },
+        {
+          "answer": "Turmeric",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How is the \"Bagnetto piemontese\" typically served?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "As a side sauce for boiled meat",
+          "is_correct": true
+        },
+        {
+          "answer": "As a salad dressing",
+          "is_correct": false
+        },
+        {
+          "answer": "As a drink",
+          "is_correct": false
+        },
+        {
+          "answer": "As a dessert topping",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What are the cooking instructions for \"Melanzane al forno\"?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Incise and stuff the eggplants, cover with batter, and bake until done",
+          "is_correct": true
+        },
+        {
+          "answer": "Boil the eggplants with spices",
+          "is_correct": false
+        },
+        {
+          "answer": "Grill the eggplants over flame",
+          "is_correct": false
+        },
+        {
+          "answer": "Fry the eggplants in olive oil",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Melanzane al forno"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Ingredienti:"
+    },
+    {
+      "sequence_id": 3,
+      "text": "3 melanzane tagliate a metà"
+    },
+    {
+      "sequence_id": 4,
+      "text": "50 gr. di pancetta"
+    },
+    {
+      "sequence_id": 5,
+      "text": "qualche spicchio d'aglio tritato"
+    },
+    {
+      "sequence_id": 6,
+      "text": "3 filetti di acciughe"
+    },
+    {
+      "sequence_id": 7,
+      "text": "pezzettini di formaggio pecorino"
+    },
+    {
+      "sequence_id": 8,
+      "text": "2 pomodori pelati"
+    },
+    {
+      "sequence_id": 9,
+      "text": "sale e pepe q.b."
+    },
+    {
+      "sequence_id": 10,
+      "text": "una pastella composta di: mollica, parmigiano grattugiato, prezzemolo tritato finemente e olio"
+    },
+    {
+      "sequence_id": 11,
+      "text": "preparazione:"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Incidere le melanzane e farcirle con gli ingredienti (pancetta, aglio, acciughe, pomodoro, pezzettini di formaggio, sale e pepe)."
+    },
+    {
+      "sequence_id": 13,
+      "text": "Metterle in una teglia ben oleata, coprirle con la pastella e infornarle nel forno caldo, fino a completa cottura."
+    },
+    {
+      "sequence_id": 14,
+      "text": "Bagnetto piemontese"
+    },
+    {
+      "sequence_id": 15,
+      "text": "Ingredienti:"
+    },
+    {
+      "sequence_id": 16,
+      "text": "2 o 3 mazzetti di prezzemolo"
+    },
+    {
+      "sequence_id": 17,
+      "text": "qualche cappero"
+    },
+    {
+      "sequence_id": 18,
+      "text": "qualche pezzetto di peperone"
+    },
+    {
+      "sequence_id": 19,
+      "text": "1 uovo sodo schiacciato con la forchetta"
+    },
+    {
+      "sequence_id": 20,
+      "text": "un po' di conserva e un po' di pasta di acciughe"
+    },
+    {
+      "sequence_id": 21,
+      "text": "preparazione:"
+    },
+    {
+      "sequence_id": 22,
+      "text": "Tritare finemente il prezzemolo, i capperi e il peperone."
+    },
+    {
+      "sequence_id": 23,
+      "text": "Mettere il tutto nella saliera ed aggiungere l'uovo e la pasta di acciughe e un po' di conserva per dare un po' di colore."
+    },
+    {
+      "sequence_id": 24,
+      "text": "Condire con sale, olio e aceto."
+    },
+    {
+      "sequence_id": 25,
+      "text": "È un buon contorno per il lesso."
+    }
+  ],
+  "metadata": {
+    "page_start": 24,
+    "page_end": 24,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

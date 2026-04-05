@@ -1,0 +1,302 @@
+{
+  "title": "unit20_region",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the capital of Sicily?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Palermo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Catania",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Messina",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Agrigento",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which sea borders Sicily to the east?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mare Ionio",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mar Tirreno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Mediterraneo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Canale di Sicilia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which body of water borders Sicily to the south?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Canale di Sicilia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mar Tirreno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mare Ionio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mar Adriatico",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is the highest mountain mentioned for Sicily?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Monte Etna, 3274 metri",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Monte Bianco, 4810 metri",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Gran Sasso, 2912 metri",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Monte Cimone, 2163 metri",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which of these is listed as a river in Sicily?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Simeto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Po",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arno",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tevere",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which of these islands is listed as part of Sicily?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Pantelleria",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Elba",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Capri",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sardinia",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the automobile code for Catania?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "CT",
+          "is_correct": true
+        },
+        {
+          "answer_text": "CA",
+          "is_correct": false
+        },
+        {
+          "answer_text": "CN",
+          "is_correct": false
+        },
+        {
+          "answer_text": "CS",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which agricultural product is listed for Sicily?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mandarini",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Rice",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chestnuts",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Apples",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which fishing activity is mentioned for Sicily?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Pesca del tonno",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Salmon fishing",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Cod fishing",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Trout fishing",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What notable site is mentioned in Palermo?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "San Giovanni degli Eremiti, an ancient Arab mosque",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The Leaning Tower",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Colosseum",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Duomo of Milan",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "SICILIA"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Confini: Nord: Mar Tirreno | Sud: Canale di Sicilia | Est: Mare Ionio | Ovest: Mar Mediterraneo"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Monti: Catene montuose (Nebrodi, Peloritani, Madonie, Erei, Iblei). Monte Etna, 3274 metri"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Fiumi: Simeto, Salso, Belice, Platani"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Isole: Eolie, Egadi, Ustica, Pantelleria, Lampedusa"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Capoluogo della regione: Palermo"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Capoluoghi di provincia: Agrigento, Caltanissetta, Catania, Enna, Messina, Palermo, Ragusa, Siracusa, Trapani"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Sigle automobilistiche: PA = Palermo | AG = Agrigento | CL = Caltanissetta | CT = Catania | EN = Enna | ME = Messina | RG = Ragusa | SR = Siracusa | TP = Trapani"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Prodotti agricoli: grano, legumi, olive, mandorle, carciofi, pomodori, arance, limoni, mandarini"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Prodotti ittici: pesca del tonno, le mattanze del pesce-spada"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Industrie: alimentari, chimiche, raffinerie, zolfifere"
+    },
+    {
+      "sequence_id": 12,
+      "text": "Curiosità: A Palermo: San Giovanni degli Eremiti - antica moschea araba | A Enna: uno dei Murali più grandi del mondo - 755 metri quadrati"
+    }
+  ],
+  "metadata": {
+    "page_start": 21,
+    "page_end": 25,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

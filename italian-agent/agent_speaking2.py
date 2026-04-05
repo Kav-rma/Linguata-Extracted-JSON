@@ -37,6 +37,40 @@ RULES:
 - Use [PAGE X] markers for page_start and page_end
 - if it is starting from english part so translate accordingly. ex:- "1 would like to know if the apartment at 223 Viale Diaz is stili for rent." should be translated to italian first as costumor and then translated to english in the article text. and then left side text as waiter will be there.
 - if there are two interpreter situation so extract them as speaking2a and speaking2b 2 files.
+For example in unit27.
+
+for unit27, there are three interpreter situations. So the first one will be unit27_speaking2a and the second one will be unit27_speaking2b and the third one will be unit27_speaking2c.
+1)
+Pronto, Polizia!
+                  Please send someone to 48 Modena
+                  Street; there has been a terrible
+                  accident.
+Un momento, per favore, mi dica a che punto di Via Modena.
+                  At the movie theater on the corner.
+Lei è coinvolto/a nell'incidente?
+                  No, l'm noto I saw the accidente It
+                  seems serious.
+Va bene, mandiamo subito una squadra.
+
+2)                         
+Ospedale Umberto I, Pronto Soccorso. Dica!
+                  I need an ambulance immediate/y ...
+                  please hurry.
+Mi dia il cognome e l'indirizzo, prego.
+                  My name is .... My address is 36 Diaz
+                  Avenue, third floor.
+Veniamo subito.
+
+3)
+Pronto, Vigili del Fuoco!
+                  There's smoke coming out of my
+                  neighbor's apartment, and nobody is
+                  home.
+Mi dica il Suo nome, per piacere, e poi mi dia l'indirizzo.
+                  I am last name) .... The address is 1
+                  Pergusa Street, second floor.
+Va bene. Per favore, avverta il portiere del palazzo. Una squadra è già partita,
+sa rà lì fra poco.
 
 JSON FORMAT:
 {

@@ -33,6 +33,7 @@ RULES:
 - are_questions_english: true
 - are_questions_generated_by_llm: true if generated, false if from book
 - Use [PAGE X] markers for page_start and page_end
+- even if there are some translation to some text or sentence extract that as well, don't skip that part. in short extract everything.
 
 JSON FORMAT:
 {

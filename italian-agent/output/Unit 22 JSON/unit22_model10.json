@@ -1,0 +1,86 @@
+{
+  "title": "unit22_model10",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Come vi troverete a Rio? Vi piacerà?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ci troveremo bene. Sì, ci piacerà senz' altro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Come si troveranno i signori a Canberra? Gli piacerà?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Si troveranno bene. Sì, gli piacerà senz' altro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Come si troverà Tony a Berlino? Gli piacerà?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Si troverà bene. Sì, gli piacerà senz' altro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Come vi troverete a San Francisco? Vi piacerà?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ci troveremo bene. Sì, ci piacerà senz'altro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Come si troverà Marcella in America? Le piacerà?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Si troverà bene. Sì, le piacerà senz' altro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Come ti troverai in Francia? Ti piacerà?",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mi troverò bene. Sì, mi piacerà senz'altro.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "model_conversation": "Mode/lO Q: Come si troverà in Italia? Le piacerà?\nA: Mi troverò bene. Mi piacerà senz' altro."
+  }
+}

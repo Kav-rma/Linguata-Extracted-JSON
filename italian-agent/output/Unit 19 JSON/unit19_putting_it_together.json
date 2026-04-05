@@ -1,0 +1,358 @@
+{
+  "title": "unit19_putting_it_together",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What phrase is used to ask someone to stay on the line?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Resti in linea, Le passo il servizio utenti.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ha consultato l'elenco telefonico?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Può portarla giovedì, domani siamo chiusi per turno.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Qual'è il numero della stanza?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which office is named in the passage?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Studio dell'avvocato Marzotto.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pensione Giannetti.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Officina Polito.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Servizio postale.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What polite request asks how to spell something?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Può dirmi come si scrive, per favore?",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ha consultato l'elenco telefonico?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quando potrei portarla?",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Qual'è il numero della stanza?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What is the new address of the law office?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Via Torino 143",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Via Indipendenza 69",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Umberto I",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Via Marzotto 8",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "When can the lawyer receive the client?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Martedì otto alle 11.30",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Domani mattina alle sette e mezzo",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Giovedì alle nove",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Oggi pomeriggio alle cinque",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What service is contacted at the start of the different responses section?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Servizio informazioni",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Servizio utenti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pensione Giannetti",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Studio dell'avvocato Marzotto",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which business phone number is given?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "21194",
+          "is_correct": true
+        },
+        {
+          "answer_text": "143",
+          "is_correct": false
+        },
+        {
+          "answer_text": "69",
+          "is_correct": false
+        },
+        {
+          "answer_text": "11.30",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What kind of vehicle service does the speaker mention?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "La messa a punto",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Il cambio dell'olio",
+          "is_correct": false
+        },
+        {
+          "answer_text": "La riparazione dei freni",
+          "is_correct": false
+        },
+        {
+          "answer_text": "La revisione annuale",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "At what time can the car be brought in the next morning?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Alle sette e mezzo",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Alle undici e trenta",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Alle otto in punto",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Alle sei e mezzo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Why might the car need to be brought on Thursday instead of tomorrow?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Perché domani siamo chiusi per turno.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Perché il numero non c'è.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Perché lo studio si è trasferito.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Perché la stanza non è disponibile.",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "line 3 -Resti in linea, Le passo il servizio utenti."
+    },
+    {
+      "sequence_id": 2,
+      "text": "line 5 -Studio dell'avvocato Marzotto. Mi dica!"
+    },
+    {
+      "sequence_id": 3,
+      "text": "line 7 -Può dirmi come si scrive, per favore?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "line 9 -Grazie, il nostro studio non è più in Via Indipendenza 69."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Ora siamo in Via Torino 143."
+    },
+    {
+      "sequence_id": 6,
+      "text": "L'avvocato può riceverlo/a l'8 alle 11.30, ossia martedì prossimo."
+    },
+    {
+      "sequence_id": 7,
+      "text": "La signor(in)a/il signor Simson è già un/una cliente?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "line 11 -D'accordo, allora martedì otto alle 11.30, va bene?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Variants Requiring Different Responses"
+    },
+    {
+      "sequence_id": 10,
+      "text": "line 1 -Servizio informazioni, dica!"
+    },
+    {
+      "sequence_id": 11,
+      "text": "possible response -Vorrei il numero di telefono dell'officina Polito in Via Umberto I (primo)."
+    },
+    {
+      "sequence_id": 12,
+      "text": "line 3 -Ha consultato l'elenco telefonico?"
+    },
+    {
+      "sequence_id": 13,
+      "text": "possible response -Sì, ma il numero dell'officina non c'è."
+    },
+    {
+      "sequence_id": 14,
+      "text": "line 5 -(following the above) Un attimo .... Il numero è 21194."
+    },
+    {
+      "sequence_id": 15,
+      "text": "possible response -Grazie, signorina."
+    },
+    {
+      "sequence_id": 16,
+      "text": "(a little later) Pronto buongiorno."
+    },
+    {
+      "sequence_id": 17,
+      "text": "Parlo con l'officina Polito?"
+    },
+    {
+      "sequence_id": 18,
+      "text": "line 7 -(following the above) Sì, buongiorno."
+    },
+    {
+      "sequence_id": 19,
+      "text": "possible response -Senta, la mia macchina avrebbe bisogno della messa a punto, quando potrei portarla?"
+    },
+    {
+      "sequence_id": 20,
+      "text": "line 9 -(following the above) La porti domani mattina alle sette e mezzo."
+    },
+    {
+      "sequence_id": 21,
+      "text": "line 9 -(following the above) Può portarla giovedì, domani siamo chiusi per turno."
+    },
+    {
+      "sequence_id": 22,
+      "text": "line 9 -(following the above) Signor(in)a/signore, se è soltanto per la messa a punto può portarla anche oggi."
+    },
+    {
+      "sequence_id": 23,
+      "text": "possible responses"
+    },
+    {
+      "sequence_id": 24,
+      "text": "Va bene. La porto domani mattina alle sette e mezzo."
+    },
+    {
+      "sequence_id": 25,
+      "text": "È solo per la messa a punto, ma oggi non posso"
+    },
+    {
+      "sequence_id": 26,
+      "text": "Va bene, la porto giovedì."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

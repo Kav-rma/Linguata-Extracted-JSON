@@ -30,7 +30,6 @@ RULES:
 - are_questions_generated_by_llm: true
 - Use [PAGE X] markers for page_start and page_end
 - If there is "PUTTING IT TOGETHER" heading, that is the sign that the putting it together section has started, so extract everything after that. If there is a "MAKING IT WORK" heading, that means the putting it together section has ended, so ignore everything after that.
-- extract it properly with all those tags like "line5-....."
 
 JSON FORMAT:
 {
