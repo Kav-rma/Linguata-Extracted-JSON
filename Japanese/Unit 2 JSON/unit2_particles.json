@@ -1,0 +1,259 @@
+{
+  "title": "unit2_particles",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How many particles are introduced in this lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two",
+          "is_correct": false
+        },
+        {
+          "answer": "Three",
+          "is_correct": true
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        },
+        {
+          "answer": "Five",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which particle marks the topic of a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ka",
+          "is_correct": false
+        },
+        {
+          "answer": "wa",
+          "is_correct": true
+        },
+        {
+          "answer": "yo",
+          "is_correct": false
+        },
+        {
+          "answer": "ne",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which particle indicates that the sentence preceding it is a question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "yo",
+          "is_correct": false
+        },
+        {
+          "answer": "ka",
+          "is_correct": true
+        },
+        {
+          "answer": "no",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which particle calls the hearer's attention to the contents of a statement?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "ka",
+          "is_correct": false
+        },
+        {
+          "answer": "yo",
+          "is_correct": true
+        },
+        {
+          "answer": "de",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the expression 'Watakushi wa (name) desu', what does the particle 'wa' indicate the speaker is talking about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Another person",
+          "is_correct": false
+        },
+        {
+          "answer": "Him/herself",
+          "is_correct": true
+        },
+        {
+          "answer": "A place",
+          "is_correct": false
+        },
+        {
+          "answer": "An object",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The particle 'yo' is often translated into English as which of the following?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'maybe' or 'perhaps'",
+          "is_correct": false
+        },
+        {
+          "answer": "'I tell you' or 'I assure you'",
+          "is_correct": true
+        },
+        {
+          "answer": "'please' or 'kindly'",
+          "is_correct": false
+        },
+        {
+          "answer": "'and' or 'but'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Where in a sentence do the particles 'ka' and 'yo' typically occur?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "In the middle",
+          "is_correct": false
+        },
+        {
+          "answer": "At the end",
+          "is_correct": true
+        },
+        {
+          "answer": "Just after the subject",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What do particles primarily indicate in Japanese sentences?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pronunciation",
+          "is_correct": false
+        },
+        {
+          "answer": "The relationships of words and the roles participants play in actions",
+          "is_correct": true
+        },
+        {
+          "answer": "Verb tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Politeness only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Does 'yo' change the basic meaning of a statement?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, completely",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it adds a subtle nuance without changing the basic meaning",
+          "is_correct": true
+        },
+        {
+          "answer": "It turns the statement into a question",
+          "is_correct": false
+        },
+        {
+          "answer": "It negates the statement",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the lesson advise learners to do regarding the use of 'yo' at present?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Use it as often as possible",
+          "is_correct": false
+        },
+        {
+          "answer": "Just try to understand its basic function when hearing it; don't feel you must use it",
+          "is_correct": true
+        },
+        {
+          "answer": "Avoid it entirely",
+          "is_correct": false
+        },
+        {
+          "answer": "Replace it with 'ka'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Particles\n\nIn Japanese, the roles participants play in actions and the relationships of words in sentences are usually indicated by markers called particles. In this lesson there are three particles, wa, ka and yo.\n\nThe particle wa is a marker that indicates that the preceding word(s) or phrase is the topic of the sentence, i.e., the thing(s) or person(s) being talked about. For example, in Lesson 1, we studied the expression\n\nWatakushi wa (name) desu.    I'm (name)\n\nThe particle wa here indicates that the speaker is talking about him/herself (watakushi 'I') and makes the statement about the topic (him/herself) that his/her name is X.\n\nAnother particle taken up in this lesson is the particle ka, which indicates that the sentence preceding it is a question. We will have more to say about this particle below.\n\nThe third particle yo, like ka, is a member of the small set of particles that occur at the end of a sentence. They express the speaker's attitude toward the contents of the preceding statement. The function of yo is to call the hearer's attention to the contents of the statement. Thus the word is often translated as 'I tell you' or 'I assure you.' This particle is frequently used. However, since it carries a subtle nuance without changing the basic meaning of the statement, it will take some time to really get a 'feeling' for how to use it. Therefore, at present, just try to understand the basic function of yo when you hear it, but don't feel you must be able to use it."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

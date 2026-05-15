@@ -1,0 +1,259 @@
+{
+  "title": "unit2_sumimasen",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Sumimasen' mean when addressing a stranger to elicit information?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuse me",
+          "is_correct": true
+        },
+        {
+          "answer": "Hello",
+          "is_correct": false
+        },
+        {
+          "answer": "You're welcome",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Can 'Sumimasen' be used to apologize?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, it is only used to greet people",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it can also be used to apologize",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only by children",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Besides 'excuse me' and 'I'm sorry', what other meaning can 'Sumimasen' have?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "Thank you (to show gratitude)",
+          "is_correct": true
+        },
+        {
+          "answer": "Good morning",
+          "is_correct": false
+        },
+        {
+          "answer": "Welcome",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which expression uses 'sumimasen' to show gratitude for a favor?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai, soo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo sumimasen.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yukkuri itte kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko wa doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Doomo sumimasen' literally express when used to show gratitude?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I am very busy",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm sorry for the trouble you took for me",
+          "is_correct": true
+        },
+        {
+          "answer": "Please come again",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't understand",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When might you use 'Sumimasen' in a store?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To pay for items",
+          "is_correct": false
+        },
+        {
+          "answer": "To get the attention of a clerk",
+          "is_correct": true
+        },
+        {
+          "answer": "To greet the cashier",
+          "is_correct": false
+        },
+        {
+          "answer": "To complain about a product",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Is 'Sumimasen' appropriate when you bump into a person on the street?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, you should say 'Doomo arigatoo'",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it can be used as an apology",
+          "is_correct": true
+        },
+        {
+          "answer": "Only if the person is older",
+          "is_correct": false
+        },
+        {
+          "answer": "Only if the person is younger",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which English expression is the closest equivalent to 'Sumimasen' before asking for directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hello",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuse me",
+          "is_correct": true
+        },
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "Please",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does the note say the gratitude usage of 'Sumimasen' is related to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Religious traditions",
+          "is_correct": false
+        },
+        {
+          "answer": "The way Japanese think",
+          "is_correct": true
+        },
+        {
+          "answer": "Formal business etiquette only",
+          "is_correct": false
+        },
+        {
+          "answer": "Children's speech",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of the following are listed as meanings of 'Sumimasen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hello, Goodbye, Welcome",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuse me, I'm sorry, Thank you",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, No, Maybe",
+          "is_correct": false
+        },
+        {
+          "answer": "Please, Help, Wait",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "7. Sumimasen  'Excuse me,' 'I'm sorry,' or 'Thank you'\n\nIn English, when you address a stranger in order to elicit some information (getting directions, for example), or when you want to get the attention of a clerk at a store, you first say 'Excuse me.' A comparable Japanese expression used for these purposes is Sumimasen. This expression can also be used when you want to apologize. For example, you can use it when you bump into a person on the street.\n\nAnother usage of this expression, which seems to be closely related to the way Japanese think, is to show gratitude. In Japanese, one way to show gratitude for a favor done for you is to say something like 'I'm sorry for the trouble you took for me,' Doomo sumimasen. We will study more about this usage in later lessons."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

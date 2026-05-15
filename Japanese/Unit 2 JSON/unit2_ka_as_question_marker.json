@@ -1,0 +1,259 @@
+{
+  "title": "unit2_ka_as_question_marker",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How is a question sentence formed in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By rearranging the word order",
+          "is_correct": false
+        },
+        {
+          "answer": "By adding the word 'ka' at the end of a statement",
+          "is_correct": true
+        },
+        {
+          "answer": "By adding 'wa' at the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "By changing the verb tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where is the question marker 'ka' placed in a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "In the middle",
+          "is_correct": false
+        },
+        {
+          "answer": "At the end",
+          "is_correct": true
+        },
+        {
+          "answer": "After the topic",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Kore wa Tokyo desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "This is Tokyo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Is this Tokyo?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is Tokyo?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo is here.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the word 'koko' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "There",
+          "is_correct": false
+        },
+        {
+          "answer": "This place / here",
+          "is_correct": true
+        },
+        {
+          "answer": "That direction",
+          "is_correct": false
+        },
+        {
+          "answer": "Where",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would you turn the statement 'Koko wa Ginza desu' into a question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ka koko wa Ginza desu",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko wa Ginza desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Koko ka wa Ginza desu",
+          "is_correct": false
+        },
+        {
+          "answer": "Wa koko Ginza desu ka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Compared with English, Japanese question formation is described as...?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Much more complex",
+          "is_correct": false
+        },
+        {
+          "answer": "Much simpler",
+          "is_correct": true
+        },
+        {
+          "answer": "Exactly the same",
+          "is_correct": false
+        },
+        {
+          "answer": "Impossible to compare",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "From 'Kore wa Tokyo desu', how do you ask 'Is this Tokyo?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kore Tokyo desu",
+          "is_correct": false
+        },
+        {
+          "answer": "Kore wa Tokyo desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Ka Tokyo desu kore wa",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo desu kore wa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which Japanese word is added to make a statement into a question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "yo",
+          "is_correct": false
+        },
+        {
+          "answer": "ka",
+          "is_correct": true
+        },
+        {
+          "answer": "desu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Kore wa Tokyo desu' mean in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Is this Tokyo?",
+          "is_correct": false
+        },
+        {
+          "answer": "This is Tokyo.",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is Tokyo?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo, this.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In 'Koko wa Ginza desu ka?', where does the question marker 'ka' appear?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the start of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "Right after 'koko'",
+          "is_correct": false
+        },
+        {
+          "answer": "At the end of the sentence",
+          "is_correct": true
+        },
+        {
+          "answer": "Between 'wa' and 'Ginza'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Ka as a question marker\n\nOne of the areas where English and Japanese are not alike is the different ways in which question sentences are formed. Japanese is much simpler in this area, for all you need to do is add the word ka at the end of a statement. For example, in Lesson 1 we studied the expression Kore wa Tokyo desu., 'This is Tokyo,' in locating a city (or area) on a map. If we place ka at the end of this sentence, we get a question sentence Kore wa Tokyo desu ka?, 'Is this Tokyo?,' which we also studied in Lesson 1. Try making a similar question, 'Is this place the Ginza?,' from Koko wa Ginza desu, 'This place is the Ginza.' (The word koko means 'this place.' We will talk more about this word below.)\n\n(Answer  Koko wa Ginza desu ka?)"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

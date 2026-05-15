@@ -1,0 +1,259 @@
+{
+  "title": "unit2_how_to_say_thank_you",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is one of the most common ways to say 'thank you' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sumimasen",
+          "is_correct": false
+        },
+        {
+          "answer": "Arigatoo",
+          "is_correct": true
+        },
+        {
+          "answer": "Konnichiwa",
+          "is_correct": false
+        },
+        {
+          "answer": "Sayonara",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the function of the word 'doomo' in 'Doomo arigatoo'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "A topic marker",
+          "is_correct": false
+        },
+        {
+          "answer": "An intensifier",
+          "is_correct": true
+        },
+        {
+          "answer": "A negation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which is a more polite way to say 'thank you'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Arigatoo",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo arigatoo",
+          "is_correct": true
+        },
+        {
+          "answer": "Doo itashimashite",
+          "is_correct": false
+        },
+        {
+          "answer": "Sumimasen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Can 'doomo' be used alone as an expression of gratitude?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, never",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, in a less formal situation",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when paired with 'arigatoo'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In what kind of situation can 'doomo' be used alone for gratitude?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Formal business meetings",
+          "is_correct": false
+        },
+        {
+          "answer": "A less formal situation",
+          "is_correct": true
+        },
+        {
+          "answer": "Religious ceremonies",
+          "is_correct": false
+        },
+        {
+          "answer": "Government settings",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which expression is described as more polite?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Arigatoo",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo arigatoo",
+          "is_correct": true
+        },
+        {
+          "answer": "Both are equally polite",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither is polite",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is 'Doomo arigatoo' best translated as?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "Thank you very much",
+          "is_correct": true
+        },
+        {
+          "answer": "Excuse me",
+          "is_correct": false
+        },
+        {
+          "answer": "You're welcome",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which language is being discussed in this note?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Korean",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese",
+          "is_correct": true
+        },
+        {
+          "answer": "Mandarin",
+          "is_correct": false
+        },
+        {
+          "answer": "Vietnamese",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Arigatoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hello",
+          "is_correct": false
+        },
+        {
+          "answer": "Thank you",
+          "is_correct": true
+        },
+        {
+          "answer": "I'm sorry",
+          "is_correct": false
+        },
+        {
+          "answer": "Please",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "If you want to be a little more polite, what should you add before 'arigatoo'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sumimasen",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo",
+          "is_correct": true
+        },
+        {
+          "answer": "Hai",
+          "is_correct": false
+        },
+        {
+          "answer": "Iie",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. How to say 'thank you' in Japanese\n\nOne of the most common ways to say 'thank you' in Japanese is to use the expression Arigatoo. If you want to be a little more polite, you can say Doomo arigatoo (doomo is an intensifier). In a less formal situation, doomo can be used alone as an expression of gratitude."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

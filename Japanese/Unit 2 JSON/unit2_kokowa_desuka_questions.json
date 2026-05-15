@@ -1,0 +1,259 @@
+{
+  "title": "unit2_kokowa_desuka_questions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Koko wa Ginza desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is Ginza?",
+          "is_correct": false
+        },
+        {
+          "answer": "Is this place the Ginza? / Am I in the Ginza?",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza is here.",
+          "is_correct": false
+        },
+        {
+          "answer": "I went to Ginza.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Koko wa doko desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is this place? / Where am I?",
+          "is_correct": true
+        },
+        {
+          "answer": "Is this the right place?",
+          "is_correct": false
+        },
+        {
+          "answer": "Who is this person?",
+          "is_correct": false
+        },
+        {
+          "answer": "How far is it?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which Japanese word means 'yes' and is described in this note?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "iie",
+          "is_correct": false
+        },
+        {
+          "answer": "hai",
+          "is_correct": true
+        },
+        {
+          "answer": "ka",
+          "is_correct": false
+        },
+        {
+          "answer": "wa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which word is less formal: 'hai' or 'ee'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hai",
+          "is_correct": false
+        },
+        {
+          "answer": "ee",
+          "is_correct": true
+        },
+        {
+          "answer": "They are equally formal",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither is used in formal speech",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do Japanese speakers typically answer the question 'Koko wa doko desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "With 'hai' or 'iie'",
+          "is_correct": false
+        },
+        {
+          "answer": "With '(place name) desu'",
+          "is_correct": true
+        },
+        {
+          "answer": "With 'Doomo arigatoo'",
+          "is_correct": false
+        },
+        {
+          "answer": "With 'Sumimasen'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where does the question word 'doko' usually appear in a Japanese sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "In the middle, not at the beginning",
+          "is_correct": true
+        },
+        {
+          "answer": "Always at the end",
+          "is_correct": false
+        },
+        {
+          "answer": "It is never used in spoken Japanese",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the word 'doko' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Who",
+          "is_correct": false
+        },
+        {
+          "answer": "When",
+          "is_correct": false
+        },
+        {
+          "answer": "Where",
+          "is_correct": true
+        },
+        {
+          "answer": "Why",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How does Japanese word order differ from English in questions with words like 'where'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Japanese puts the question word at the very start, like English",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese puts the question word in the middle, not at the beginning",
+          "is_correct": true
+        },
+        {
+          "answer": "The orders are identical",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese omits the question word entirely",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which Japanese word means 'no' as mentioned in the note?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hai",
+          "is_correct": false
+        },
+        {
+          "answer": "iie",
+          "is_correct": true
+        },
+        {
+          "answer": "ee",
+          "is_correct": false
+        },
+        {
+          "answer": "yo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the example, when asked 'Koko wa doko desu ka?', what is the sample answer given?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai, soo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Shinjuku desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Doomo arigatoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza wa mukoo desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Koko wa (place name) desu ka? and Koko wa doko desu ka?\n\nWhen you want to make sure you know where you are or when you want to ask where you are, you can use the following two questions:\n\nKoko wa Ginza desu ka?    Is this place the Ginza? (Am I in the Ginza?)\nKoko wa doko desu ka?     Where is this place? (Where am I?)\n\nAs we studied in Lesson 1, responses to the first question usually begin with hai 'yes' (ee has the same meaning but is less formal than hai), or iie 'no.' Thus, if you listen for these words in the responses given by a Japanese person, you can at least guess pretty accurately whether the person answered your question negatively or affirmatively. (Of course, this does not mean that Japanese people will always use one of these words in their answers.)\n\nAs for the answer to the second question, the Japanese usually say (place name) desu, as in the following example:\n\nKoko wa doko desu ka?    Where is this place?\nShinjuku desu.            Shinjuku.\n\nThe main thing to remember when you ask a question with a word like doko 'where' (or 'who' or 'when', which come up later) is that the Japanese sentence structure (word order) is not the same as the English word order. That is, a question like doko 'where' will usually come in the middle of the sentence, not at the beginning."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

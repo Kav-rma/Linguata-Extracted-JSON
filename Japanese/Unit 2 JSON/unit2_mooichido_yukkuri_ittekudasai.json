@@ -1,0 +1,259 @@
+{
+  "title": "unit2_mooichido_yukkuri_ittekudasai",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the expression 'Moo ichi-do yukkuri itte kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please say it again slowly.",
+          "is_correct": true
+        },
+        {
+          "answer": "Please speak louder.",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't understand at all.",
+          "is_correct": false
+        },
+        {
+          "answer": "Please come here.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the word 'yukkuri' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Loudly",
+          "is_correct": false
+        },
+        {
+          "answer": "Slowly",
+          "is_correct": true
+        },
+        {
+          "answer": "Quickly",
+          "is_correct": false
+        },
+        {
+          "answer": "Again",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'moo ichi-do' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please",
+          "is_correct": false
+        },
+        {
+          "answer": "One more time",
+          "is_correct": true
+        },
+        {
+          "answer": "Slowly",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't understand",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'itte kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please come",
+          "is_correct": false
+        },
+        {
+          "answer": "Please listen",
+          "is_correct": false
+        },
+        {
+          "answer": "Please say",
+          "is_correct": true
+        },
+        {
+          "answer": "Please wait",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which expression means 'Please speak slowly'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Moo ichi-do itte kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yukkuri itte kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Doomo arigatoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which expression means 'Please say it again'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yukkuri itte kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Moo ichi-do itte kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Doo itashimashite.",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko wa doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In what situation would this expression be most useful?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When ordering food",
+          "is_correct": false
+        },
+        {
+          "answer": "When asking a Japanese speaker to repeat and slow down",
+          "is_correct": true
+        },
+        {
+          "answer": "When greeting a friend",
+          "is_correct": false
+        },
+        {
+          "answer": "When saying goodbye",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How does native speaker Japanese typically sound to a beginner?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Very slow",
+          "is_correct": false
+        },
+        {
+          "answer": "Very fast",
+          "is_correct": true
+        },
+        {
+          "answer": "Very quiet",
+          "is_correct": false
+        },
+        {
+          "answer": "Very formal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the correct word order of the expression?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "yukkuri / moo ichi-do / itte kudasai",
+          "is_correct": false
+        },
+        {
+          "answer": "moo ichi-do / yukkuri / itte kudasai",
+          "is_correct": true
+        },
+        {
+          "answer": "itte kudasai / yukkuri / moo ichi-do",
+          "is_correct": false
+        },
+        {
+          "answer": "moo ichi-do / itte kudasai / yukkuri",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which part of the expression means 'please say'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "moo ichi-do",
+          "is_correct": false
+        },
+        {
+          "answer": "yukkuri",
+          "is_correct": false
+        },
+        {
+          "answer": "itte kudasai",
+          "is_correct": true
+        },
+        {
+          "answer": "desu ka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. Moo ichido yukkuri itte kudasai.  'Please say it again slowly'\n\nTo any person who is not fully familiar with a language, native speaker speech sounds very fast. This is exactly what you will experience in Japan. Therefore, it will often be important for you to be able to ask the Japanese to repeat and slow down. You will find the expression Moo ichi-do yukkuri itte kudasai very helpful. The following is a rough sketch of the way the expression is constructed:\n\nMoo ichi-do    yukkuri    itte kudasai.\none more time  slowly     please say\n\nWhen you want to say 'Please speak slowly,' you can use the following expression:\n\nYukkuri itte kudasai.   Please say slowly.\n\nLikewise, when you want to say 'Please say it again,' you can use the following expression:\n\nMoo ichi-do itte kudasai.   Please say it again."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

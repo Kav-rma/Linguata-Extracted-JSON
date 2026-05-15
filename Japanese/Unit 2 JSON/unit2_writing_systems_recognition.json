@@ -1,0 +1,287 @@
+{
+  "title": "unit2_writing_systems_recognition",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which three Japanese writing systems are you asked to identify in the sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kanji, Hiragana, Katakana",
+          "is_correct": true
+        },
+        {
+          "answer": "Kanji, Romaji, Hiragana",
+          "is_correct": false
+        },
+        {
+          "answer": "Katakana, Romaji, Arabic numerals",
+          "is_correct": false
+        },
+        {
+          "answer": "Furigana, Kanji, Hiragana",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the small kana written above a Kanji to show its pronunciation get called?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Romaji",
+          "is_correct": false
+        },
+        {
+          "answer": "Furigana",
+          "is_correct": true
+        },
+        {
+          "answer": "Katakana",
+          "is_correct": false
+        },
+        {
+          "answer": "Hiragana superscript",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where is Tokyo located according to the sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "On the southern tip of Kyushu",
+          "is_correct": false
+        },
+        {
+          "answer": "In the center of Honshu",
+          "is_correct": true
+        },
+        {
+          "answer": "On the island of Hokkaido",
+          "is_correct": false
+        },
+        {
+          "answer": "In western Shikoku",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which body of water does Tokyo face?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sea of Japan",
+          "is_correct": false
+        },
+        {
+          "answer": "Pacific Ocean",
+          "is_correct": false
+        },
+        {
+          "answer": "Bay of Tokyo",
+          "is_correct": true
+        },
+        {
+          "answer": "Bay of Osaka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Approximately how many kilometers does Tokyo extend from east to west?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "25 kilometers",
+          "is_correct": false
+        },
+        {
+          "answer": "50 kilometers",
+          "is_correct": false
+        },
+        {
+          "answer": "90 kilometers",
+          "is_correct": true
+        },
+        {
+          "answer": "120 kilometers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Approximately how many kilometers does Tokyo extend from north to south?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "10 kilometers",
+          "is_correct": false
+        },
+        {
+          "answer": "25 kilometers",
+          "is_correct": true
+        },
+        {
+          "answer": "45 kilometers",
+          "is_correct": false
+        },
+        {
+          "answer": "90 kilometers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What overall shape does Tokyo have according to the sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Square",
+          "is_correct": false
+        },
+        {
+          "answer": "Long and narrow",
+          "is_correct": true
+        },
+        {
+          "answer": "Round",
+          "is_correct": false
+        },
+        {
+          "answer": "Triangular",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why are Arabic numerals used for the distances in the Japanese sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because the sentence is written horizontally",
+          "is_correct": true
+        },
+        {
+          "answer": "Because Kanji numerals don't exist",
+          "is_correct": false
+        },
+        {
+          "answer": "Because Arabic numerals look more decorative",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they were imported from Korea",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which Katakana element appears in the sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "東京",
+          "is_correct": false
+        },
+        {
+          "answer": "の",
+          "is_correct": false
+        },
+        {
+          "answer": "キロメートル",
+          "is_correct": true
+        },
+        {
+          "answer": "中央",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In which part of Honshu is Tokyo described as being located?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The far north",
+          "is_correct": false
+        },
+        {
+          "answer": "Roughly the center",
+          "is_correct": true
+        },
+        {
+          "answer": "The far west",
+          "is_correct": false
+        },
+        {
+          "answer": "The far south",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Look at the following sentences written in Japanese. Can you tell your instructor which parts of the sentences are written in each of the following? (Each is defined later in this lesson.)"
+    },
+    {
+      "sequence_id": 2,
+      "text": "1. Kanji"
+    },
+    {
+      "sequence_id": 3,
+      "text": "2. Hiragana"
+    },
+    {
+      "sequence_id": 4,
+      "text": "3. Katakana"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Also find instances of Furigana."
+    },
+    {
+      "sequence_id": 6,
+      "text": "東京は本州のほぼ中央にあって、東京湾に面しています。東西約90キロメートル、南北約25キロメートルの細長い形をしています。"
+    },
+    {
+      "sequence_id": 7,
+      "text": "The following is a translation of the above sentence. Compare the Japanese sentence with its translation. Can you guess why Arabic numerals are used?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Translation: Tokyo is located in the center of Honshu and faces the Bay of Tokyo. It has a long, narrow shape, extending approximately 90 kilometers from east to west and about 25 kilometers from north to south."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

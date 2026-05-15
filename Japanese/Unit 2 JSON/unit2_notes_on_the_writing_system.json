@@ -1,0 +1,259 @@
+{
+  "title": "unit2_notes_on_the_writing_system",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How many kinds of symbols are used in modern written Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Three",
+          "is_correct": false
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        },
+        {
+          "answer": "Five",
+          "is_correct": true
+        },
+        {
+          "answer": "Six",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "About what percentage of characters in Japanese sentences are Kanji and Hiragana?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "50%",
+          "is_correct": false
+        },
+        {
+          "answer": "70%",
+          "is_correct": false
+        },
+        {
+          "answer": "90%",
+          "is_correct": true
+        },
+        {
+          "answer": "100%",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "From which language did Japanese adopt the written symbols called Kanji?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Korean",
+          "is_correct": false
+        },
+        {
+          "answer": "Chinese",
+          "is_correct": true
+        },
+        {
+          "answer": "Sanskrit",
+          "is_correct": false
+        },
+        {
+          "answer": "Mongolian",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How many Kanji have been chosen as the most important for everyday use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "1,000",
+          "is_correct": false
+        },
+        {
+          "answer": "1,926",
+          "is_correct": true
+        },
+        {
+          "answer": "3,000",
+          "is_correct": false
+        },
+        {
+          "answer": "45,000",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is Furigana?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A separate writing system for foreign words",
+          "is_correct": false
+        },
+        {
+          "answer": "Hiragana written above or beside a Kanji to show its reading",
+          "is_correct": true
+        },
+        {
+          "answer": "Stylized Kanji used for art",
+          "is_correct": false
+        },
+        {
+          "answer": "An old form of Katakana",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which syllabary is more angular?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hiragana",
+          "is_correct": false
+        },
+        {
+          "answer": "Katakana",
+          "is_correct": true
+        },
+        {
+          "answer": "Romaji",
+          "is_correct": false
+        },
+        {
+          "answer": "Furigana",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Katakana are mainly used for what kind of words?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Native Japanese words",
+          "is_correct": false
+        },
+        {
+          "answer": "Words of foreign origin and in telegrams",
+          "is_correct": true
+        },
+        {
+          "answer": "Place names only",
+          "is_correct": false
+        },
+        {
+          "answer": "Verbs and adjectives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When are Kanji numerals typically used instead of Arabic numerals?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When sentences are written horizontally",
+          "is_correct": false
+        },
+        {
+          "answer": "When sentences are written vertically",
+          "is_correct": true
+        },
+        {
+          "answer": "In scientific formulas",
+          "is_correct": false
+        },
+        {
+          "answer": "In telephone numbers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "About how many Kanji occur in daily use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "500 to 1,000",
+          "is_correct": false
+        },
+        {
+          "answer": "1,000 to 2,000",
+          "is_correct": false
+        },
+        {
+          "answer": "3,000 to 4,000",
+          "is_correct": true
+        },
+        {
+          "answer": "More than 45,000",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How are scientific formulas typically written in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only in Kanji numerals",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in Arabic numerals",
+          "is_correct": true
+        },
+        {
+          "answer": "In Katakana",
+          "is_correct": false
+        },
+        {
+          "answer": "In Romaji",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Notes on the Writing System\n\nIn modern written Japanese, the following five kinds of symbols are used:\n\n1. Kanji (Chinese characters)\n2. Hiragana\n3. Katakana\n4. Romaji\n5. Arabic numerals\n\nAbout 90% of the characters used in Japanese sentences are Kanji and Hiragana.\n\n1. Kanji\n\nAlthough Japanese and Chinese are completely separate languages, Japanese adopted written symbols and much vocabulary from Chinese beginning in the 4th or 5th century A.D. These symbols or Chinese characters are called Kanji. Kanji represent both meaning and sound, and it is often the case that one Kanji has more than one reading (or pronunciation) and meaning. There are more than 45,000 Kanji. However, only 3,000 to 4,000 occur in daily use, of which 1,926 have been chosen as the most important. These 1,926 Kanji are the ones used in newspapers, magazines, and school textbooks (about 1,000 are taught in elementary school). In this text, you will learn to read and comprehend some of these Kanji. They are used in some names of persons, places, signs, etc., and knowledge of these Kanji will be useful for you in Japan.\n\n2. Hiragana\n\nHiragana and Katakana are used to represent syllables (cf. Lesson 1: FOR FURTHER STUDY). The Hiragana were derived from the cursive style of Kanji and are used for native Japanese words, words that are not written in Kanji, etc. As you have seen in Practice 8, Hiragana are also used to show the reading or pronunciation of a Kanji when put above or to the side of the Kanji. This use of Hiragana is called Furigana.\n\n3. Katakana\n\nThe Katakana syllabary is also derived from Kanji. It is more angular than Hiragana. The essential function of Katakana is exactly the same as Hiragana, i.e., to represent syllables. However, Katakana are mainly used for words of foreign origin and in telegrams. Thus, when you write your name in Japanese, you should write it in Katakana.\n\n4. Romaji (Roman letters)\n\nSince Romaji is taught in elementary school, most Japanese know it. However, its use in Japanese is very limited.\nYou will find Romaji in\n• some road signs, station signs, store signs, etc.\n• some abbreviated foreign words,\n  e.g., PR, CM (commercial), YMCA\n\n5. Arabic numerals and Kanji numerals\n\nNumerals in Japanese are written in Kanji or Arabic figures. Kanji numerals are used when sentences are written vertically, while Arabic figures are used when they are written horizontally. (Scientific formulas are written only in Arabic numerals.) The following are examples of the usage of Arabic Numerals:\n\n1. 1 + 2 = 3\n2. 46センチ — 46 centimeters\n3. 11月27日 — November 27th\n4. 494-3586 — (telephone number)\n\nFor reference, the Kanji numerals for examples 2-4 above are given below:\n2. 四十六センチ\n3. 十一月二十七日\n4. 四九四—三五八六"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": true
+  }
+}

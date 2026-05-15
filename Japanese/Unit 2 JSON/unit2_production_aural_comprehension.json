@@ -1,0 +1,135 @@
+{
+  "title": "unit2_production_aural_comprehension",
+  "type": "listening",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Ask whether or not you are in the Ginza.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Ask whether or not you are at Marunouchi.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Ask whether or not you are in Akasaka.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Ask whether or not you are in Shinjuku.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Ask whether or not the place is a taxi stand.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Ask whether or not the place is a bus stop.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "いいえ、ここは丸の内です。銀座はもっと向こうの方ですよ。"
+    },
+    {
+      "sequence_id": 2,
+      "text": "いいえ、丸の内はこのずっと先です。まっすぐ行けばわかります。"
+    },
+    {
+      "sequence_id": 3,
+      "text": "ええ、そうです。赤坂のどっちへいらっしゃるんですか。"
+    },
+    {
+      "sequence_id": 4,
+      "text": "は?新宿ですか。ここは渋谷ですから、三つ目ですよ。"
+    },
+    {
+      "sequence_id": 5,
+      "text": "はい、そうです。"
+    },
+    {
+      "sequence_id": 6,
+      "text": "いいえ、あそこに見えるのがそうです。"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "image_available": true
+  }
+}
