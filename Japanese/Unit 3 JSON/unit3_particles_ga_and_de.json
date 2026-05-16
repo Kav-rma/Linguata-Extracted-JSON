@@ -1,0 +1,259 @@
+{
+  "title": "unit3_particles_ga_and_de",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the particle 'ga' ordinarily indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The object of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "That the preceding word or phrase is the subject of the sentence",
+          "is_correct": true
+        },
+        {
+          "answer": "A question",
+          "is_correct": false
+        },
+        {
+          "answer": "Negation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the particle 'ga' sometimes called?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "Topic marker",
+          "is_correct": false
+        },
+        {
+          "answer": "Subject marker",
+          "is_correct": true
+        },
+        {
+          "answer": "Object marker",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In 'Nihongo ga wakarimasen', what does 'ga' really mark?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The object",
+          "is_correct": false
+        },
+        {
+          "answer": "The subject ('Japanese' is not understandable to me)",
+          "is_correct": true
+        },
+        {
+          "answer": "The location",
+          "is_correct": false
+        },
+        {
+          "answer": "The time",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the meaning of the particle 'de' in this lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "in",
+          "is_correct": true
+        },
+        {
+          "answer": "at",
+          "is_correct": false
+        },
+        {
+          "answer": "from",
+          "is_correct": false
+        },
+        {
+          "answer": "with",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In a later lesson, 'de' will also have what other meaning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "at",
+          "is_correct": false
+        },
+        {
+          "answer": "by means of",
+          "is_correct": true
+        },
+        {
+          "answer": "to",
+          "is_correct": false
+        },
+        {
+          "answer": "from",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Nihongo de' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "from Japanese",
+          "is_correct": false
+        },
+        {
+          "answer": "in Japanese",
+          "is_correct": true
+        },
+        {
+          "answer": "about Japanese",
+          "is_correct": false
+        },
+        {
+          "answer": "without Japanese",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'basu de' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "to the bus",
+          "is_correct": false
+        },
+        {
+          "answer": "by bus",
+          "is_correct": true
+        },
+        {
+          "answer": "from the bus",
+          "is_correct": false
+        },
+        {
+          "answer": "without a bus",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Is 'Nihongo ga wakarimasen' normally translated with 'Japanese' as the subject in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it is normally translated as 'I don't understand Japanese'",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in formal writing",
+          "is_correct": false
+        },
+        {
+          "answer": "It cannot be translated",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How many meanings does the particle 'de' have?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only one",
+          "is_correct": false
+        },
+        {
+          "answer": "Several",
+          "is_correct": true
+        },
+        {
+          "answer": "Two only",
+          "is_correct": false
+        },
+        {
+          "answer": "Twenty",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In which lesson will the 'by means of' meaning of 'de' be introduced?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 5",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 8",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 10",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 15",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. Particles ga and de\n\nThe particle ga ordinarily indicates that the preceding word or phrase is the subject of the sentence. Thus it is sometimes called the 'subject marker.' You will sometimes see ga used with words that are not translated into English as subjects, e.g., Nihongo ga wakarimasen, which is normally translated as 'I don't understand Japanese.' What this really means is 'Japanese is not understandable to me,' so ga really does mark the subject in this sentence as well.\n\nThe particle de has several meanings. The meaning in this lesson is 'in,' as in Nihongo de 'in Japanese.' Later (Lesson 10), we will see it also has the meaning of 'by means of,' as in basu de 'by bus.'"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": false
+  }
+}

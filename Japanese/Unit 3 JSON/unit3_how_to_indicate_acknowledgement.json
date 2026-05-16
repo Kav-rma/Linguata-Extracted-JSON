@@ -1,0 +1,259 @@
+{
+  "title": "unit3_how_to_indicate_acknowledgement",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the expression 'Aa, soo desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What is that?",
+          "is_correct": false
+        },
+        {
+          "answer": "Oh, is that so? / I see / Good",
+          "is_correct": true
+        },
+        {
+          "answer": "I don't agree",
+          "is_correct": false
+        },
+        {
+          "answer": "Where is it?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Although 'Aa, soo desu ka?' looks like a question, what is it really used as?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A genuine question",
+          "is_correct": false
+        },
+        {
+          "answer": "An acknowledgement",
+          "is_correct": true
+        },
+        {
+          "answer": "A negation",
+          "is_correct": false
+        },
+        {
+          "answer": "An apology",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When is 'Aa, soo desu ka?' typically used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When you disagree strongly with someone",
+          "is_correct": false
+        },
+        {
+          "answer": "When you want to indicate that you've understood what was said",
+          "is_correct": true
+        },
+        {
+          "answer": "When you want to change the topic",
+          "is_correct": false
+        },
+        {
+          "answer": "When you want to interrupt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Does using 'Aa, soo desu ka?' mean you necessarily agree with what was said?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always agreement",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it acknowledges hearing without necessarily agreeing",
+          "is_correct": true
+        },
+        {
+          "answer": "It is always a disagreement",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when said loudly",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which English phrase is similar in function to 'Aa, soo desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "Is that right?",
+          "is_correct": true
+        },
+        {
+          "answer": "Excuse me",
+          "is_correct": false
+        },
+        {
+          "answer": "Please",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which element at the start makes 'Aa, soo desu ka?' feel more like an exclamation of realization?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "soo",
+          "is_correct": false
+        },
+        {
+          "answer": "Aa",
+          "is_correct": true
+        },
+        {
+          "answer": "desu",
+          "is_correct": false
+        },
+        {
+          "answer": "ka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Why does 'Aa, soo desu ka?' look like a question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because it begins with 'aa'",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it ends with the question marker 'ka'",
+          "is_correct": true
+        },
+        {
+          "answer": "Because of the word 'soo'",
+          "is_correct": false
+        },
+        {
+          "answer": "Because of the word 'desu'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Can 'Aa, soo desu ka?' be translated as 'I see'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No, it only means 'Is that so?'",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when whispered",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in writing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Is 'Aa, soo desu ka?' an acknowledgement of agreement?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always agreement",
+          "is_correct": false
+        },
+        {
+          "answer": "It acknowledges that you have heard what was said, without necessarily agreeing",
+          "is_correct": true
+        },
+        {
+          "answer": "It always means disagreement",
+          "is_correct": false
+        },
+        {
+          "answer": "It means 'I have nothing to say'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why is 'Aa, soo desu ka?' useful in conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It ends the conversation",
+          "is_correct": false
+        },
+        {
+          "answer": "It politely shows that you have understood what was said",
+          "is_correct": true
+        },
+        {
+          "answer": "It signals that you didn't hear",
+          "is_correct": false
+        },
+        {
+          "answer": "It is rude",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. How to indicate acknowledgement\n\nIn English, you can sometimes say 'Is that right?' or the like to acknowledge that you have heard what another said without necessarily agreeing. Look at the following:\n\nAa, soo desu ka?    Oh, is that so? / I see / Good\n\nThe expression looks like a question but is really an acknowledgement. It is used when you want to indicate that you've understood what was said."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": false
+  }
+}

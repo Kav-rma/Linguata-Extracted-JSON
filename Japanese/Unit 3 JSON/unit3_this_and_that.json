@@ -1,0 +1,259 @@
+{
+  "title": "unit3_this_and_that",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which Japanese word is comparable to the English 'this'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": true
+        },
+        {
+          "answer": "sore",
+          "is_correct": false
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which Japanese word is comparable to 'that (one) over there'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": false
+        },
+        {
+          "answer": "sore",
+          "is_correct": false
+        },
+        {
+          "answer": "are",
+          "is_correct": true
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which word is used for an object near the listener (comparable to 'that')?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": false
+        },
+        {
+          "answer": "sore",
+          "is_correct": true
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "koko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which question would you use to ask 'What is this?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sore wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Are wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kore wa nan desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How many Japanese words correspond to the English 'this' and 'that'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two",
+          "is_correct": false
+        },
+        {
+          "answer": "Three",
+          "is_correct": true
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        },
+        {
+          "answer": "Five",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where is 'are' used for objects?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Near the speaker",
+          "is_correct": false
+        },
+        {
+          "answer": "Near the listener",
+          "is_correct": false
+        },
+        {
+          "answer": "Away from both speaker and listener",
+          "is_correct": true
+        },
+        {
+          "answer": "In the speaker's pocket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "If an object is near you and you want to ask what it is, which word do you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": true
+        },
+        {
+          "answer": "sore",
+          "is_correct": false
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "kono",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If an object is near the listener (not you) and you want to ask what it is, which word do you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": false
+        },
+        {
+          "answer": "sore",
+          "is_correct": true
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "nan",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Are wa nan desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What is this?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is that (near you)?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is that over there?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is it?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which word is the closest English equivalent of 'sore'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "this",
+          "is_correct": false
+        },
+        {
+          "answer": "that",
+          "is_correct": true
+        },
+        {
+          "answer": "that one over there",
+          "is_correct": false
+        },
+        {
+          "answer": "where",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. 'this' and 'that'\n\nWhen you refer or point to an object (or person), you often use 'this' and 'that' in English. Japanese has the following three words:\n\nkore   used for an object near the speaker (comparable to 'this')\nsore   used for an object near the listener (comparable to 'that')\nare    used for an object away from the speaker and listener (comparable to 'that (one) over there')\n\nWhen you want to know what the object you have in mind is called, you can ask the following question:\n\nKore/sore/are wa nan desu ka?    What is this/that/that over there?"
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": false
+  }
+}

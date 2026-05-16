@@ -1,0 +1,259 @@
+{
+  "title": "unit3_how_to_say_ill_take_it",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the phrase 'Jaa, sore onegai shimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What is that?",
+          "is_correct": false
+        },
+        {
+          "answer": "Well, then, that one please.",
+          "is_correct": true
+        },
+        {
+          "answer": "I don't want that.",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is that?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the word 'jaa' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "yes",
+          "is_correct": false
+        },
+        {
+          "answer": "no",
+          "is_correct": false
+        },
+        {
+          "answer": "well (then)",
+          "is_correct": true
+        },
+        {
+          "answer": "thank you",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'onegai shimasu' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I am sorry",
+          "is_correct": false
+        },
+        {
+          "answer": "I make a request (for) ...",
+          "is_correct": true
+        },
+        {
+          "answer": "I understand",
+          "is_correct": false
+        },
+        {
+          "answer": "Please come",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which English word is 'onegai shimasu' comparable to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "thank you",
+          "is_correct": false
+        },
+        {
+          "answer": "please",
+          "is_correct": true
+        },
+        {
+          "answer": "sorry",
+          "is_correct": false
+        },
+        {
+          "answer": "hello",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would you say 'I'll have sukiyaki, please'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sukiyaki desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Sukiyaki onegai shimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sukiyaki wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Sukiyaki ja arimasen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "In 'Jaa, sore onegai shimasu,' what can replace 'sore'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only food names",
+          "is_correct": false
+        },
+        {
+          "answer": "Only place names",
+          "is_correct": false
+        },
+        {
+          "answer": "Names of various objects or dishes",
+          "is_correct": true
+        },
+        {
+          "answer": "Only people's names",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When can you use the 'onegai shimasu' expression?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only when greeting people",
+          "is_correct": false
+        },
+        {
+          "answer": "When ordering a dish or buying merchandise",
+          "is_correct": true
+        },
+        {
+          "answer": "Only when apologizing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when asking for directions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which is the correct word order to order tempura?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Onegai shimasu tenpura.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tenpura onegai shimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Onegai tenpura shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tenpura desu ka onegai.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the function of 'jaa' at the start of 'Jaa, sore onegai shimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It marks the topic",
+          "is_correct": false
+        },
+        {
+          "answer": "It serves as a soft transition meaning 'well (then)'",
+          "is_correct": true
+        },
+        {
+          "answer": "It indicates a question",
+          "is_correct": false
+        },
+        {
+          "answer": "It negates the sentence",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which English expression is closest to 'sore onegai shimasu' when ordering?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That one over there",
+          "is_correct": false
+        },
+        {
+          "answer": "I'll take that / that one please",
+          "is_correct": true
+        },
+        {
+          "answer": "What is that?",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is that?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. How to say 'I'll take it' or 'I'll have it'\n\nWhen you want to order a dish or buy some merchandise, you can use the following expression:\n\nJaa, sore onegai shimasu.    Well, then, that one please.\n\nThe word jaa means 'well (then)' and onegai shimasu literally means 'I make a request (for) ...' and is comparable to 'please' in English.\n\nIn place of sore in the above expression, you can use names of various objects or dishes. For example, when you want to order sukiyaki, you can say:\n\nSukiyaki onegai shimasu."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": false
+  }
+}

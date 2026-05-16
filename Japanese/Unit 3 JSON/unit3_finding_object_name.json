@@ -1,0 +1,259 @@
+{
+  "title": "unit3_finding_object_name",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which expression do you use to find out the Japanese name of an object?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "... wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "... wa Nihongo de nan desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "... onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "... wa nan-bansen desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does '... wa Nihongo de nan desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "What is ... in Japanese?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is ... in Japan?",
+          "is_correct": false
+        },
+        {
+          "answer": "Why is ... Japanese?",
+          "is_correct": false
+        },
+        {
+          "answer": "Who is the Japanese person?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How would you ask 'What is radio in Japanese?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'Radio' wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "'Radio' wa Nihongo de nan desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "'Radio' onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Nihongo wa 'radio' desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In this expression, what does 'de' indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is a question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "It is the topic marker",
+          "is_correct": false
+        },
+        {
+          "answer": "It means 'in' (as in 'in Japanese')",
+          "is_correct": true
+        },
+        {
+          "answer": "It is a negation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which word in the pattern means 'what'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "Nihongo",
+          "is_correct": false
+        },
+        {
+          "answer": "de",
+          "is_correct": false
+        },
+        {
+          "answer": "nan",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Can you use this pattern repeatedly with different objects?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, only once per conversation",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, you can use it whenever you want to ask the Japanese word for an object",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with food items",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with place names",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which part of the pattern represents the English word you're trying to translate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The part before 'wa'",
+          "is_correct": true
+        },
+        {
+          "answer": "The part after 'de'",
+          "is_correct": false
+        },
+        {
+          "answer": "'nan'",
+          "is_correct": false
+        },
+        {
+          "answer": "'desu ka'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If you wanted to know the Japanese for 'television', how would you ask?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nihongo wa television desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "'Television' wa Nihongo de nan desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Television onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Television doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Nihongo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Japanese person",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese language",
+          "is_correct": true
+        },
+        {
+          "answer": "Japanese country",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "When is this question pattern most useful?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When asking for directions",
+          "is_correct": false
+        },
+        {
+          "answer": "When asking the Japanese word for an English term",
+          "is_correct": true
+        },
+        {
+          "answer": "When ordering food",
+          "is_correct": false
+        },
+        {
+          "answer": "When greeting people",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. How to find out the name of an object in Japanese\n\nWhen you want to find out the name of an object in Japanese, you can use the following expression:\n\n... wa Nihongo de nan desu ka?    What is ... in Japanese?\n\nFor example, when you want to know the Japanese word for 'radio', you can say:\n\n'Radio' wa Nihongo de nan desu ka?    What is 'radio' in Japanese?\n\nYou can use the above question pattern whenever you want to ask the instructor Japanese words for objects you may need to know."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": false
+  }
+}

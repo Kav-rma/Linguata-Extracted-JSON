@@ -1,0 +1,259 @@
+{
+  "title": "unit3_dont_understand_japanese",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which expression means 'I don't understand Japanese (well)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nihongo wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Nihongo ga (yoku) wakarimasen.",
+          "is_correct": true
+        },
+        {
+          "answer": "Nihongo desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Nihongo onegai shimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'wakarimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "to eat",
+          "is_correct": false
+        },
+        {
+          "answer": "to understand",
+          "is_correct": true
+        },
+        {
+          "answer": "to speak",
+          "is_correct": false
+        },
+        {
+          "answer": "to listen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is 'wakarimasen' in relation to 'wakarimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Its past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Its negative form",
+          "is_correct": true
+        },
+        {
+          "answer": "Its plural form",
+          "is_correct": false
+        },
+        {
+          "answer": "Its honorific form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'yoku' mean in this context?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "slowly",
+          "is_correct": false
+        },
+        {
+          "answer": "well",
+          "is_correct": true
+        },
+        {
+          "answer": "loudly",
+          "is_correct": false
+        },
+        {
+          "answer": "again",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Is 'Yoku Nihongo ga wakarimasen' an acceptable variation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No, only one word order works",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when shouting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What lesson did you first learn 'wakarimasu' from?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 1",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 2",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 3",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 4",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which particle is used with 'Nihongo' in the expression 'Nihongo ga (yoku) wakarimasen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "ga",
+          "is_correct": true
+        },
+        {
+          "answer": "de",
+          "is_correct": false
+        },
+        {
+          "answer": "ka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When might you need to say 'Nihongo ga yoku wakarimasen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When ordering food",
+          "is_correct": false
+        },
+        {
+          "answer": "When telling a Japanese person you don't speak Japanese very well",
+          "is_correct": true
+        },
+        {
+          "answer": "When greeting someone",
+          "is_correct": false
+        },
+        {
+          "answer": "When apologizing for being late",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which form means 'I don't understand'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wakarimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "wakarimasen",
+          "is_correct": true
+        },
+        {
+          "answer": "wakarimashita",
+          "is_correct": false
+        },
+        {
+          "answer": "wakaru",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'Nihongo ga wakarimasen' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I don't speak Japanese",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese is not understandable to me",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is Japanese?",
+          "is_correct": false
+        },
+        {
+          "answer": "I love Japanese",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. 'I don't understand Japanese well.'\n\nIt may happen that you need to tell a Japanese person that you don't speak Japanese very well. You can use the following expression for this purpose:\n\n(Yoku) Nihongo ga wakarimasen.    I don't understand Japanese (well).\nOR\nNihongo ga (yoku) wakarimasen.\n\nIn Lesson 1 you learned that wakarimasu means 'to understand.' The word wakarimasen in the above sentence is the negative form of wakarimasu."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image_available": false
+  }
+}
