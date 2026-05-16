@@ -1,26 +1,26 @@
-{
-  "title": "unit3_particles_ga_and_de",
+﻿{
+  "title": "unit2_grammar_how_to_say_thank_you",
   "type": "grammar",
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "What does the particle 'ga' ordinarily indicate?",
+      "question": "What is one of the most common ways to say 'thank you' in Japanese?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "The object of the sentence",
+          "answer": "Sumimasen",
           "is_correct": false
         },
         {
-          "answer": "That the preceding word or phrase is the subject of the sentence",
+          "answer": "Arigatoo",
           "is_correct": true
         },
         {
-          "answer": "A question",
+          "answer": "Konnichiwa",
           "is_correct": false
         },
         {
-          "answer": "Negation",
+          "answer": "Sayonara",
           "is_correct": false
         }
       ],
@@ -28,23 +28,23 @@
     },
     {
       "sequence_id": 2,
-      "question": "What is the particle 'ga' sometimes called?",
+      "question": "What is the function of the word 'doomo' in 'Doomo arigatoo'?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Question marker",
+          "answer": "A question marker",
           "is_correct": false
         },
         {
-          "answer": "Topic marker",
+          "answer": "A topic marker",
           "is_correct": false
         },
         {
-          "answer": "Subject marker",
+          "answer": "An intensifier",
           "is_correct": true
         },
         {
-          "answer": "Object marker",
+          "answer": "A negation",
           "is_correct": false
         }
       ],
@@ -52,23 +52,23 @@
     },
     {
       "sequence_id": 3,
-      "question": "In 'Nihongo ga wakarimasen', what does 'ga' really mark?",
+      "question": "Which is a more polite way to say 'thank you'?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "The object",
+          "answer": "Arigatoo",
           "is_correct": false
         },
         {
-          "answer": "The subject ('Japanese' is not understandable to me)",
+          "answer": "Doomo arigatoo",
           "is_correct": true
         },
         {
-          "answer": "The location",
+          "answer": "Doo itashimashite",
           "is_correct": false
         },
         {
-          "answer": "The time",
+          "answer": "Sumimasen",
           "is_correct": false
         }
       ],
@@ -76,23 +76,23 @@
     },
     {
       "sequence_id": 4,
-      "question": "What is the meaning of the particle 'de' in this lesson?",
+      "question": "Can 'doomo' be used alone as an expression of gratitude?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "in",
+          "answer": "No, never",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, in a less formal situation",
           "is_correct": true
         },
         {
-          "answer": "at",
+          "answer": "Only in writing",
           "is_correct": false
         },
         {
-          "answer": "from",
-          "is_correct": false
-        },
-        {
-          "answer": "with",
+          "answer": "Only when paired with 'arigatoo'",
           "is_correct": false
         }
       ],
@@ -100,23 +100,23 @@
     },
     {
       "sequence_id": 5,
-      "question": "In a later lesson, 'de' will also have what other meaning?",
+      "question": "In what kind of situation can 'doomo' be used alone for gratitude?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "at",
+          "answer": "Formal business meetings",
           "is_correct": false
         },
         {
-          "answer": "by means of",
+          "answer": "A less formal situation",
           "is_correct": true
         },
         {
-          "answer": "to",
+          "answer": "Religious ceremonies",
           "is_correct": false
         },
         {
-          "answer": "from",
+          "answer": "Government settings",
           "is_correct": false
         }
       ],
@@ -124,23 +124,23 @@
     },
     {
       "sequence_id": 6,
-      "question": "What does 'Nihongo de' mean?",
+      "question": "Which expression is described as more polite?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "from Japanese",
+          "answer": "Arigatoo",
           "is_correct": false
         },
         {
-          "answer": "in Japanese",
+          "answer": "Doomo arigatoo",
           "is_correct": true
         },
         {
-          "answer": "about Japanese",
+          "answer": "Both are equally polite",
           "is_correct": false
         },
         {
-          "answer": "without Japanese",
+          "answer": "Neither is polite",
           "is_correct": false
         }
       ],
@@ -148,23 +148,23 @@
     },
     {
       "sequence_id": 7,
-      "question": "What does 'basu de' mean?",
+      "question": "What is 'Doomo arigatoo' best translated as?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "to the bus",
+          "answer": "Goodbye",
           "is_correct": false
         },
         {
-          "answer": "by bus",
+          "answer": "Thank you very much",
           "is_correct": true
         },
         {
-          "answer": "from the bus",
+          "answer": "Excuse me",
           "is_correct": false
         },
         {
-          "answer": "without a bus",
+          "answer": "You're welcome",
           "is_correct": false
         }
       ],
@@ -172,23 +172,23 @@
     },
     {
       "sequence_id": 8,
-      "question": "Is 'Nihongo ga wakarimasen' normally translated with 'Japanese' as the subject in English?",
+      "question": "Which language is being discussed in this note?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Yes, always",
+          "answer": "Korean",
           "is_correct": false
         },
         {
-          "answer": "No, it is normally translated as 'I don't understand Japanese'",
+          "answer": "Japanese",
           "is_correct": true
         },
         {
-          "answer": "Only in formal writing",
+          "answer": "Mandarin",
           "is_correct": false
         },
         {
-          "answer": "It cannot be translated",
+          "answer": "Vietnamese",
           "is_correct": false
         }
       ],
@@ -196,23 +196,23 @@
     },
     {
       "sequence_id": 9,
-      "question": "How many meanings does the particle 'de' have?",
+      "question": "What does 'Arigatoo' mean?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Only one",
+          "answer": "Hello",
           "is_correct": false
         },
         {
-          "answer": "Several",
+          "answer": "Thank you",
           "is_correct": true
         },
         {
-          "answer": "Two only",
+          "answer": "I'm sorry",
           "is_correct": false
         },
         {
-          "answer": "Twenty",
+          "answer": "Please",
           "is_correct": false
         }
       ],
@@ -220,23 +220,23 @@
     },
     {
       "sequence_id": 10,
-      "question": "In which lesson will the 'by means of' meaning of 'de' be introduced?",
+      "question": "If you want to be a little more polite, what should you add before 'arigatoo'?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Lesson 5",
+          "answer": "Sumimasen",
           "is_correct": false
         },
         {
-          "answer": "Lesson 8",
-          "is_correct": false
-        },
-        {
-          "answer": "Lesson 10",
+          "answer": "Doomo",
           "is_correct": true
         },
         {
-          "answer": "Lesson 15",
+          "answer": "Hai",
+          "is_correct": false
+        },
+        {
+          "answer": "Iie",
           "is_correct": false
         }
       ],
@@ -246,14 +246,14 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "6. Particles ga and de\n\nThe particle ga ordinarily indicates that the preceding word or phrase is the subject of the sentence. Thus it is sometimes called the 'subject marker.' You will sometimes see ga used with words that are not translated into English as subjects, e.g., Nihongo ga wakarimasen, which is normally translated as 'I don't understand Japanese.' What this really means is 'Japanese is not understandable to me,' so ga really does mark the subject in this sentence as well.\n\nThe particle de has several meanings. The meaning in this lesson is 'in,' as in Nihongo de 'in Japanese.' Later (Lesson 10), we will see it also has the meaning of 'by means of,' as in basu de 'by bus.'"
+      "text": "6. How to say 'thank you' in Japanese\n\nOne of the most common ways to say 'thank you' in Japanese is to use the expression Arigatoo. If you want to be a little more polite, you can say Doomo arigatoo (doomo is an intensifier). In a less formal situation, doomo can be used alone as an expression of gratitude."
     }
   ],
   "metadata": {
-    "page_start": 14,
-    "page_end": 14,
+    "page_start": 15,
+    "page_end": 15,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true,
-    "image_available": false
+    "images": []
   }
 }

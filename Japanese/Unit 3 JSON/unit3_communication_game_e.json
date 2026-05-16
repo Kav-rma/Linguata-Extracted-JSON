@@ -5,35 +5,35 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "学生: 'Hie Shrine' は日本語で何ですか。 (Gakusei: 'Hie Shrine' wa Nihongo de nan desu ka?)"
-    },
-    {
-      "sequence_id": 2,
-      "text": "STUDENT: What is 'Hie Shrine' in Japanese?"
-    },
-    {
-      "sequence_id": 3,
-      "text": "教師: 「日枝神社」です。 (Kyoushi: 'Hie jinja' desu.)"
-    },
-    {
-      "sequence_id": 4,
-      "text": "INSTRUCTOR: It's 'Hie jinja'."
-    },
-    {
-      "sequence_id": 5,
       "text": "学生: 'American Embassy' は日本語で何ですか。 (Gakusei: 'American Embassy' wa Nihongo de nan desu ka?)"
     },
     {
-      "sequence_id": 6,
+      "sequence_id": 2,
       "text": "STUDENT: What is 'American Embassy' in Japanese?"
     },
     {
-      "sequence_id": 7,
+      "sequence_id": 3,
       "text": "教師: 「アメリカ大使館」です。 (Kyoushi: 'Amerika taishikan' desu.)"
     },
     {
-      "sequence_id": 8,
+      "sequence_id": 4,
       "text": "INSTRUCTOR: It's 'Amerika taishikan'."
+    },
+    {
+      "sequence_id": 5,
+      "text": "学生: 'Hibiya Park' は日本語で何ですか。 (Gakusei: 'Hibiya Park' wa Nihongo de nan desu ka?)"
+    },
+    {
+      "sequence_id": 6,
+      "text": "STUDENT: What is 'Hibiya Park' in Japanese?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "教師: 「日比谷公園」です。 (Kyoushi: 'Hibiya Kooen' desu.)"
+    },
+    {
+      "sequence_id": 8,
+      "text": "INSTRUCTOR: It's 'Hibiya Kooen'."
     },
     {
       "sequence_id": 9,
@@ -50,6 +50,38 @@
     {
       "sequence_id": 12,
       "text": "INSTRUCTOR: It's 'Kookyo'."
+    },
+    {
+      "sequence_id": 13,
+      "text": "学生: 'National Theater' は日本語で何ですか。 (Gakusei: 'National Theater' wa Nihongo de nan desu ka?)"
+    },
+    {
+      "sequence_id": 14,
+      "text": "STUDENT: What is 'National Theater' in Japanese?"
+    },
+    {
+      "sequence_id": 15,
+      "text": "教師: 「国立劇場」です。 (Kyoushi: 'Kokuritsu Gekijoo' desu.)"
+    },
+    {
+      "sequence_id": 16,
+      "text": "INSTRUCTOR: It's 'Kokuritsu Gekijoo'."
+    },
+    {
+      "sequence_id": 17,
+      "text": "学生: 'National Diet' は日本語で何ですか。 (Gakusei: 'National Diet' wa Nihongo de nan desu ka?)"
+    },
+    {
+      "sequence_id": 18,
+      "text": "STUDENT: What is 'National Diet' in Japanese?"
+    },
+    {
+      "sequence_id": 19,
+      "text": "教師: 「国会議事堂」です。 (Kyoushi: 'Kokkai Gijidoo' desu.)"
+    },
+    {
+      "sequence_id": 20,
+      "text": "INSTRUCTOR: It's 'Kokkai Gijidoo'."
     }
   ],
   "metadata": {
@@ -57,6 +89,6 @@
     "page_end": 10,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false,
-    "image_available": true
+    "images": ["unit3_communication_game_e_1.png"]
   }
 }
