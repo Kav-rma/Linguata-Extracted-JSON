@@ -1,0 +1,259 @@
+{
+  "title": "unit17_grammar_kono_sono_ano",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'kono' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "this (before a noun)",
+          "is_correct": true
+        },
+        {
+          "answer": "that (before a noun)",
+          "is_correct": false
+        },
+        {
+          "answer": "that over there (before a noun)",
+          "is_correct": false
+        },
+        {
+          "answer": "which (before a noun)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'sono' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "this (before a noun)",
+          "is_correct": false
+        },
+        {
+          "answer": "that (before a noun)",
+          "is_correct": true
+        },
+        {
+          "answer": "that over there (before a noun)",
+          "is_correct": false
+        },
+        {
+          "answer": "where",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'ano' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "this (before a noun)",
+          "is_correct": false
+        },
+        {
+          "answer": "that (before a noun)",
+          "is_correct": false
+        },
+        {
+          "answer": "that over there (before a noun)",
+          "is_correct": true
+        },
+        {
+          "answer": "which (before a noun)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Do the English words 'this' and 'that' change form based on position in the sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they always change",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they do not change form regardless of position",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        },
+        {
+          "answer": "Only before nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In Japanese, do the equivalent words change form depending on position?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, they never change",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, they change forms depending on whether or not they occur before nouns",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in formal speech",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with merchandise",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Kore wa kamera desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "This is a camera.",
+          "is_correct": true
+        },
+        {
+          "answer": "This camera.",
+          "is_correct": false
+        },
+        {
+          "answer": "That is a camera.",
+          "is_correct": false
+        },
+        {
+          "answer": "Is this a camera?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'kono kamera' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "This is a camera.",
+          "is_correct": false
+        },
+        {
+          "answer": "this camera",
+          "is_correct": true
+        },
+        {
+          "answer": "that camera",
+          "is_correct": false
+        },
+        {
+          "answer": "the camera over there",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When does the word 'kono' occur?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only before a noun (you cannot use 'kore' before a noun)",
+          "is_correct": true
+        },
+        {
+          "answer": "Only at the end of a sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        },
+        {
+          "answer": "Anywhere, interchangeably with kore",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "For an object near the speaker, which words are used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore, kono / koko / kotchi-kochira",
+          "is_correct": true
+        },
+        {
+          "answer": "sore, sono / soko / sotchi-sochira",
+          "is_correct": false
+        },
+        {
+          "answer": "are, ano / asoko / atchi-achira",
+          "is_correct": false
+        },
+        {
+          "answer": "dore, dono / doko / dotchi-dochira",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "For an object away from both speaker and listener, which words are used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore, kono / koko / kotchi-kochira",
+          "is_correct": false
+        },
+        {
+          "answer": "sore, sono / soko / sotchi-sochira",
+          "is_correct": false
+        },
+        {
+          "answer": "are, ano / asoko / atchi-achira",
+          "is_correct": true
+        },
+        {
+          "answer": "dore, dono / doko / dotchi-dochira",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. kono..., sono..., ano...    'this..., that..., that...over there'\n\nIn some cases, you may have to specify which of the items (in a showcase, for example) you want to have a look at. In English, you could say something like 'please show me that sweater.'\n\nThe English words this and that do not change form regardless of the position of the word in the sentence. In Japanese, however, the equivalent words do change forms, depending on whether or not they occur before nouns. The following examples will show this difference:\n\nKore wa kamera desu.    This is a camera\nkono kamera             this camera\n\nAs indicated above, the word kono 'this' occurs only before a noun. Putting it differently, when you want to say 'this camera, sweater, etc.' in Japanese, you must use kono and cannot use kore. You have already seen this word in kono chikaku 'this vicinity' (Lesson 5) and kono michi 'this street' (Lesson 10). In this lesson, we will learn sono...'that...' and ano...'that over there'. The meanings of these words are exactly the same as those of the corresponding words sore and are.\n\nThe following is a summary of the words of this type we have learned so far:\n\n   Meaning           object/person    location    direction\na. near S(peaker)     kore, kono...    koko        kotchi/kochira\nb. near L(istener)    sore, sono...    soko        sotchi/sochira\nc. away from S and L  are, ano...      asoko       atchi/achira\n\nNote: See Lesson 3 for kore, sore and are and Lesson 7 for the location and direction words."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "title": "unit19_comprehension_exercise_g",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Conversation 1 — A: いらっしゃいませ。お客様ですか。 (Irasshaimase. Okyakusama desu ka?) B: 見ているだけです。 (Mite iru dake desu.) Did the customer buy the merchandise?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No — the customer was just looking.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes — the customer bought something.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — the customer bought a book.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — the customer bought a camera.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Conversation 2 — A: すみません、この本を下さい。 (Sumimasen, kono hon o kudasai.) B: かしこまりました。千八百円でございます。お待たせ致しました。二百円でございます。毎度ありがとうございます。 (Kashikomarimashita. Sen happyaku-en de gozaimasu. Omatase itashimashita. Nihyaku-en de gozaimasu. Maido arigatoo gozaimasu.) What did the customer buy and how much was it?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A book, 1,800 yen",
+          "is_correct": true
+        },
+        {
+          "answer": "A book, 1,200 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "A camera, 1,800 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "A sweater, 800 yen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Conversation 2 (continued) — Did the customer receive change, and how much?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes — 200 yen change",
+          "is_correct": true
+        },
+        {
+          "answer": "No change",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — 2,000 yen change",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — 1,000 yen change",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Conversation 3 — The customer asks to see a camera, asks the price (三万二千円 = 32,000 yen), asks if there's a cheaper one, the clerk offers one for 二万九千円 (29,000 yen), and the customer buys it, handing over 三万円 (30,000 yen). What did the customer buy and for how much?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A camera, 29,000 yen",
+          "is_correct": true
+        },
+        {
+          "answer": "A camera, 32,000 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "A camera, 30,000 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "A book, 29,000 yen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Conversation 3 (continued) — The clerk says 千円のお返しでございます (Sen-en no okaeshi de gozaimasu). Did the customer receive change, and how much?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes — 1,000 yen change",
+          "is_correct": true
+        },
+        {
+          "answer": "No change",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — 2,000 yen change",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — 3,000 yen change",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Conversation 4 — A: ちょっと、すみません。もう少し大きいレインコートはありますか。 (Chotto, sumimasen. Moo sukoshi ookii reinkooto wa arimasu ka?) B: ちょっとお待ちください。お客様、あいにくですが、大きいのはございません。 (Chotto omachi kudasai. Okyakusama, ainiku desu ga, ookii no wa gozaimasen.) A: そうですか。じゃあ…… (Soo desu ka. Jaa...) Did the customer buy the merchandise?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No — there was no larger raincoat available, so the customer did not buy.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes — the customer bought a raincoat.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — the customer bought a larger one.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — the customer bought a sweater.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Conversation 5 — A: すみません。そのセーターは、いくらですか。 (Sumimasen. Sono seetaa wa, ikura desu ka?) B: 八千円でございます。 (Hassen-en de gozaimasu.) A: そうですか。赤いのはありますか。 (Soo desu ka. Akai no wa arimasu ka?) B: はい、こちらです。 (Hai, kochira desu.) A: じゃあ、それを下さい。 (Jaa, sore o kudasai.) What did the customer buy and how much?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A red sweater, 8,000 yen",
+          "is_correct": true
+        },
+        {
+          "answer": "A red sweater, 2,000 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "A blue sweater, 8,000 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "A red raincoat, 8,000 yen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Conversation 5 (continued) — B: かしこまりました。一万円お預かり致します。お待たせ致しました。二千円のおつりでございます。 (Kashikomarimashita. Ichiman-en oazukari itashimasu. Omatase itashimashita. Nisen-en no otsuri de gozaimasu.) Did the customer receive change, and how much?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes — 2,000 yen change",
+          "is_correct": true
+        },
+        {
+          "answer": "No change",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — 1,000 yen change",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — 8,000 yen change",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "G. Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Listen to the conversation on the tape twice, aiming for overall understanding. Then fill in the chart while listening to the tape again. For each conversation, determine: Did the customer buy the merchandise? What did the customer buy? How much did it cost? Did the customer receive change?"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

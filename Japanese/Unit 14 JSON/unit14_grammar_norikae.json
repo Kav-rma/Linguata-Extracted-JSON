@@ -1,0 +1,259 @@
+{
+  "title": "unit14_grammar_norikae",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'norikae' (乗り換え) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a station",
+          "is_correct": false
+        },
+        {
+          "answer": "a transfer (point)",
+          "is_correct": true
+        },
+        {
+          "answer": "a ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "an exit",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the Japanese verb for 'to transfer'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "norikaemasu",
+          "is_correct": true
+        },
+        {
+          "answer": "norimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "agarimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "orimasu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Tokyo-iki ni norikaemasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Get off at Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer to a Tokyo-bound train/bus",
+          "is_correct": true
+        },
+        {
+          "answer": "Buy a Tokyo ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "Take the Tokyo line",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Yokohama de norikaemasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Wait at Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer in Yokohama",
+          "is_correct": true
+        },
+        {
+          "answer": "Arrive at Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "Stay in Yokohama",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Yokohama de Tokyo-iki ni norikaemasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Transfer to a Tokyo-bound train/bus in Yokohama",
+          "is_correct": true
+        },
+        {
+          "answer": "Go from Yokohama to Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Get off at Yokohama and take a train to Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo and Yokohama are connected by transfer",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How would you specify a change to a different means of transportation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By saying the name of the new vehicle, e.g., 'Yokohama de Tokyo-iki no basu ni norikaemasu' (transfer to a Tokyo-bound bus in Yokohama)",
+          "is_correct": true
+        },
+        {
+          "answer": "By using a different verb entirely",
+          "is_correct": false
+        },
+        {
+          "answer": "It cannot be specified",
+          "is_correct": false
+        },
+        {
+          "answer": "Only by gesture",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the key word that is common to all forms of the transfer verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "norikae",
+          "is_correct": true
+        },
+        {
+          "answer": "agarimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "kudasai",
+          "is_correct": false
+        },
+        {
+          "answer": "ikimasu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why might Japanese speakers use different forms than 'norikaemasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because of regional dialects",
+          "is_correct": false
+        },
+        {
+          "answer": "Because verb forms depend on the surrounding words in the sentence",
+          "is_correct": true
+        },
+        {
+          "answer": "Because the meaning changes",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it's a polite expression",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If you can recognize 'norikae' in any form, what can you understand?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nothing about the meaning",
+          "is_correct": false
+        },
+        {
+          "answer": "The meaning correctly (transfer is involved)",
+          "is_correct": true
+        },
+        {
+          "answer": "Only the destination",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the time",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "When might you need to use the transfer concept?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Never in Japan",
+          "is_correct": false
+        },
+        {
+          "answer": "When you may have to change trains, buses, or switch from a train to a bus or vice versa",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in major cities",
+          "is_correct": false
+        },
+        {
+          "answer": "Only on JR lines",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. norikae (乗り換え) 'transfer'\n\nIn some cases, you may have to change trains or buses or change from a train to a bus or vice versa. The Japanese word for 'a transfer (point)' is norikae (乗り換え) and 'to transfer' is norikaemasu. Look at the following:\n\nTokyo-iki ni norikaemasu             transfer to a Tokyo-bound train/bus\nYokohama de norikaemasu               transfer in Yokohama\nYokohama de Tokyo-iki ni norikaemasu  transfer to a Tokyo-bound train/bus in Yokohama\n\nNote: When you change the means of transportation, Japanese will specify that change as in the following:\n\nYokohama de Tokyo-iki no basu ni norikaemasu    transfer to a Tokyo-bound bus in Yokohama\n\nAgain, Japanese speakers may use different forms than norikaemasu, depending on what words surround it. However, if you can pick up norikae, which is common to all the forms, it will not be too difficult to get the meaning correctly."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

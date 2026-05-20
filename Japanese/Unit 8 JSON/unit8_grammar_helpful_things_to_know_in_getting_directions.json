@@ -1,0 +1,259 @@
+{
+  "title": "unit8_grammar_helpful_things_to_know_in_getting_directions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When directions are complicated and the place you're looking for is not far, what may a Japanese person do instead?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Give you a long, detailed explanation",
+          "is_correct": false
+        },
+        {
+          "answer": "Take you there themselves",
+          "is_correct": true
+        },
+        {
+          "answer": "Refuse to help",
+          "is_correct": false
+        },
+        {
+          "answer": "Call a taxi for you",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What phrase might a Japanese person say when offering to take you there?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Doozo yoroshiku.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsurete itte agemashoo.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hai, gozaimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How should you respond to 'Tsurete itte agemashoo'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Iie, chigaimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo arigatoo or Arigatoo gozaimasu",
+          "is_correct": true
+        },
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo sumimasen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If your efforts to locate a place are in vain, what two places are recommended for asking directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Police box (kooban) or tobacco shop (tabako-ya)",
+          "is_correct": true
+        },
+        {
+          "answer": "Library or post office",
+          "is_correct": false
+        },
+        {
+          "answer": "Hotel or restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "Department store or coffee shop",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why are these two places useful for getting directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They have free maps",
+          "is_correct": false
+        },
+        {
+          "answer": "The policemen and tobacco shop clerks know the neighborhood well",
+          "is_correct": true
+        },
+        {
+          "answer": "They sell train tickets",
+          "is_correct": false
+        },
+        {
+          "answer": "They speak fluent English",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Do most policemen at a kooban speak English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, fluently",
+          "is_correct": false
+        },
+        {
+          "answer": "They may not speak English, but they will help you find the place",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in major cities",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the senior officers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What would help even more when getting directions at a kooban?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Having a bicycle",
+          "is_correct": false
+        },
+        {
+          "answer": "Having the address of the place with you",
+          "is_correct": true
+        },
+        {
+          "answer": "Wearing a uniform",
+          "is_correct": false
+        },
+        {
+          "answer": "Coming early in the morning",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the clerk at a tabako-ya know?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only the price of cigarettes",
+          "is_correct": false
+        },
+        {
+          "answer": "A lot about the places in his/her neighborhood",
+          "is_correct": true
+        },
+        {
+          "answer": "Only how to make change",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the closest train station",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Tsurete itte agemashoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I don't know.",
+          "is_correct": false
+        },
+        {
+          "answer": "I'll take you there.",
+          "is_correct": true
+        },
+        {
+          "answer": "Please come again.",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuse me, but...",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Are 'kooban' (police boxes) common in downtown areas?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, they are rare",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, there are quite a few in any downtown area",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Only near train stations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Helpful things to know in getting directions\n\na. When directions you have asked for are complicated and the place you are looking for is not far, Japanese will often take you there instead of giving you the directions. In such a case, s/he would say Tsurete itte agemashoo 'I'll take you there.' You should show your gratitude with an expression like Doomo arigatoo or Arigatoo gozaimasu, etc. (cf. Lesson 11)\n\nb. If your efforts to locate a place are in vain, try to find the nearest kooban 'police box' or tabako-ya 'tabacco shop.' There are quite a few kooban in any downtown area. The policemen there may not speak English but they will certainly help you find the place you are looking for. Of course, it will help a lot if you have the address of the place with you. The clerk at a tabako-ya also knows a lot about the places in his/her neighborhood. In fact, these are the two places where Japanese often go for directions."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "title": "unit19_grammar_when_you_leave_the_store",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What might the clerk say when you leave the store?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Arigatoo gozaimashita. (Thank you very much.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ikura desu ka? (How much is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Irasshaimase. (Welcome!)",
+          "is_correct": false
+        },
+        {
+          "answer": "Zenbu de ikura desu ka? (How much altogether?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Maido doomo' mean and where is it often used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Thank you (maido literally means 'every time'); often used at neighborhood stores",
+          "is_correct": true
+        },
+        {
+          "answer": "Goodbye; used at department stores",
+          "is_correct": false
+        },
+        {
+          "answer": "Welcome; used at restaurants",
+          "is_correct": false
+        },
+        {
+          "answer": "Please come again; used at banks",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'maido' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "every time",
+          "is_correct": true
+        },
+        {
+          "answer": "thank you",
+          "is_correct": false
+        },
+        {
+          "answer": "again",
+          "is_correct": false
+        },
+        {
+          "answer": "welcome",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Maido arigatoo gozaimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Thank you very much.",
+          "is_correct": true
+        },
+        {
+          "answer": "Please come again.",
+          "is_correct": false
+        },
+        {
+          "answer": "Welcome back.",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is it?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Mata doozo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please come again.",
+          "is_correct": true
+        },
+        {
+          "answer": "Thank you very much.",
+          "is_correct": false
+        },
+        {
+          "answer": "Here is your change.",
+          "is_correct": false
+        },
+        {
+          "answer": "May I help you?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Is it necessary to reply to the clerk's parting expressions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, it is not necessary, but you may say Sayonara if you wish",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, you must always reply",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, you must say Irasshaimase",
+          "is_correct": false
+        },
+        {
+          "answer": "No, and you should never say anything",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What may you optionally say in reply when leaving?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sayonara",
+          "is_correct": true
+        },
+        {
+          "answer": "Irasshaimase",
+          "is_correct": false
+        },
+        {
+          "answer": "Oazukari itashimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "Maido doomo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which expression is more formal/polite for 'thank you very much' when leaving?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Arigatoo gozaimashita / Maido arigatoo gozaimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "Both Arigatoo gozaimashita and Maido arigatoo gozaimasu are polite forms used by clerks",
+          "is_correct": true
+        },
+        {
+          "answer": "Sayonara",
+          "is_correct": false
+        },
+        {
+          "answer": "Doozo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Who typically says these parting expressions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The clerk (to the customer who is leaving)",
+          "is_correct": true
+        },
+        {
+          "answer": "The customer (to other customers)",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the cashier at a bank",
+          "is_correct": false
+        },
+        {
+          "answer": "Only other shoppers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the focus of this section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Expressions used when you leave the store",
+          "is_correct": true
+        },
+        {
+          "answer": "How to ask the total price",
+          "is_correct": false
+        },
+        {
+          "answer": "How to bargain",
+          "is_correct": false
+        },
+        {
+          "answer": "Fruit and vegetable counters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. When you leave the store\n\nWhen you leave the store, the clerk will probably say one of the following:\n\nArigatoo gozaimashita.        Thank you very much.\nMaido doomo.                  Thank you. (maido literally means 'every time' and is often used at neighborhood stores)\n\nMaido arigatoo gozaimasu.     Thank you very much.\nMata doozo.                   Please come again.\n\nIt is not necessary to say anything in reply to the above but you may say Sayonara, if you wish."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

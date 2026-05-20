@@ -1,0 +1,139 @@
+{
+  "title": "unit20_grammar_how_to_describe_temperature",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Since the metric system is used in Japan, how are temperatures indicated?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "In Centigrade rather than Fahrenheit", "is_correct": true},
+        {"answer": "In Fahrenheit rather than Centigrade", "is_correct": false},
+        {"answer": "In Kelvin", "is_correct": false},
+        {"answer": "They are not measured", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "According to the conversion table, what is 32°F in Centigrade?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "0", "is_correct": true},
+        {"answer": "5", "is_correct": false},
+        {"answer": "-5", "is_correct": false},
+        {"answer": "10", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "According to the conversion table, what is 212°F in Centigrade?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "100", "is_correct": true},
+        {"answer": "40", "is_correct": false},
+        {"answer": "98.6", "is_correct": false},
+        {"answer": "20", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the formula to convert Fahrenheit to Centigrade?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Centigrade = (Fahrenheit - 32) / 1.8", "is_correct": true},
+        {"answer": "Centigrade = Fahrenheit x 1.8 + 32", "is_correct": false},
+        {"answer": "Centigrade = Fahrenheit + 32", "is_correct": false},
+        {"answer": "Centigrade = Fahrenheit / 32", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the formula to convert Centigrade to Fahrenheit?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Fahrenheit = Centigrade x 1.8 + 32", "is_correct": true},
+        {"answer": "Fahrenheit = (Centigrade - 32) / 1.8", "is_correct": false},
+        {"answer": "Fahrenheit = Centigrade + 32", "is_correct": false},
+        {"answer": "Fahrenheit = Centigrade x 32", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the counter used in giving temperatures?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "-do 'degree'", "is_correct": true},
+        {"answer": "-ko", "is_correct": false},
+        {"answer": "-hon", "is_correct": false},
+        {"answer": "-gatsu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How is the pronunciation of numbers before the counter -do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The same as in the simple counting of numbers", "is_correct": true},
+        {"answer": "Completely different from normal counting", "is_correct": false},
+        {"answer": "Always in English", "is_correct": false},
+        {"answer": "Always doubled", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you say '5 degrees' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "go-do", "is_correct": true},
+        {"answer": "go-ko", "is_correct": false},
+        {"answer": "go-gatsu", "is_correct": false},
+        {"answer": "go-hon", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How do you say '34 degrees' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "sanjuu yon-do", "is_correct": true},
+        {"answer": "sanjuu yon-ko", "is_correct": false},
+        {"answer": "yonjuu san-do", "is_correct": false},
+        {"answer": "sanjuu shi-gatsu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "According to the conversion table, what is 98.6°F in Centigrade?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "36.9", "is_correct": true},
+        {"answer": "40", "is_correct": false},
+        {"answer": "100", "is_correct": false},
+        {"answer": "20", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. How to describe the temperature in Japanese\n\nAs mentioned in previous lessons, since the metric system is used in Japan, temperatures are indicated in Centigrade rather than in Fahrenheit as in the U.S. The following is a conversion table between Centigrade and Fahrenheit:\n\nFahrenheit:  23    32    41    50    68    98.6    104    212\nCentigrade:  -5    0     5     10    20    36.9    40     100\n\nConversion Formulas:\n\nTo convert Fahrenheit to Centigrade, subtract 32 from Fahrenheit and divide by 1.8:\n   Centigrade = (Fahrenheit - 32) / 1.8\n\nTo convert Centigrade to Fahrenheit, multiply Centigrade by 1.8 and add 32:\n   Fahrenheit = Centigrade x 1.8 + 32\n\nThe counter used in giving temperatures is -do 'degree,' and the pronunciation of numbers before this counter is the same as in the simple counting of numbers.\n\nExamples:\n   5 degrees    go-do\n   34 degrees   sanjuu yon-do"
+    }
+  ],
+  "metadata": {
+    "page_start": 18,
+    "page_end": 19,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

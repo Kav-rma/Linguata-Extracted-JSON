@@ -1,0 +1,259 @@
+{
+  "title": "unit11_grammar_how_to_express_desire",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What pattern is used to express the desire to do something?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "V-masu",
+          "is_correct": false
+        },
+        {
+          "answer": "V-tain desu",
+          "is_correct": true
+        },
+        {
+          "answer": "V-te",
+          "is_correct": false
+        },
+        {
+          "answer": "V-nai",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'V' stand for in the pattern V-tain desu?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Verb stem",
+          "is_correct": true
+        },
+        {
+          "answer": "Vowel",
+          "is_correct": false
+        },
+        {
+          "answer": "Verb tense",
+          "is_correct": false
+        },
+        {
+          "answer": "Vocative",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Ikitain desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I went.",
+          "is_correct": false
+        },
+        {
+          "answer": "I want to go.",
+          "is_correct": true
+        },
+        {
+          "answer": "I will go.",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't want to go.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How do you specify the place you want to go in the pattern?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Place the destination + particle 'e' after the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Place the destination + particle 'e' in front of the expression",
+          "is_correct": true
+        },
+        {
+          "answer": "Use the particle 'o' before the destination",
+          "is_correct": false
+        },
+        {
+          "answer": "Use 'kara' before the destination",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Ginza e ikitain desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I went to the Ginza.",
+          "is_correct": false
+        },
+        {
+          "answer": "I want to go to the Ginza.",
+          "is_correct": true
+        },
+        {
+          "answer": "The Ginza is here.",
+          "is_correct": false
+        },
+        {
+          "answer": "Let's go to the Ginza.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does the particle 'ga' literally mean in 'Ginza e ikitain desu ga'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "but",
+          "is_correct": true
+        },
+        {
+          "answer": "and",
+          "is_correct": false
+        },
+        {
+          "answer": "or",
+          "is_correct": false
+        },
+        {
+          "answer": "however",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How is 'ga' actually used in 'Ginza e ikitain desu ga, kippu uriba wa doko desu ka?'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "As a strong contrast meaning 'but'",
+          "is_correct": false
+        },
+        {
+          "answer": "As a way of smoothing the transition between the statement of desire and what follows",
+          "is_correct": true
+        },
+        {
+          "answer": "As a question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "As a subject marker only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Ikura desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is it?",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is it?",
+          "is_correct": true
+        },
+        {
+          "answer": "When is it?",
+          "is_correct": false
+        },
+        {
+          "answer": "Why is it?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which sentence correctly says 'I want to go to Toranomon, (but) how much is it?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Toranomon ga ikitain desu e, ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Toranomon e ikitain desu ga, ikura desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Toranomon o ikitain ga desu, ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ikitain desu Toranomon e, ikura desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "If you want to use the V-tain desu pattern with the verb 'iku' (to go), what is the correct form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ikatain desu",
+          "is_correct": false
+        },
+        {
+          "answer": "ikitain desu",
+          "is_correct": true
+        },
+        {
+          "answer": "ikutain desu",
+          "is_correct": false
+        },
+        {
+          "answer": "ikotain desu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to express your desire to do something\n\nWhen you want to express your desire to do something, you can use the following pattern:\n\nV-tain desu.       I want to V\n(Note: V indicates a verb stem)\n\nIn order to use this expression, you have to know the correct verb form. In this lesson, you will learn the verb form iki- 'go' as in the following example:\n\nIkitain desu.      I want to go.\n\nTo specify the place you want to go to, place the destination and the particle e in front of the above expression, as illustrated below:\n\nGinza e ikitain desu.    I want to go to the Ginza.\n\nThis expression will be especially useful when you want to find out where you can buy a ticket, how much the fare is, etc. In such cases, use an expression like the following:\n\nI want to go to the Ginza, where is the ticket window?\n\nThe Japanese expression for the above is:\n\nGinza e ikitain desu ga, kippu uriba wa doko desu ka?\n\nNote that the particle ga in the above sentence literally means 'but.' However, in this sentence it is only a way of smoothing the transition between the statement of desire 'I want to ...' and what follows, and should not be taken literally.\n\na. When you want to find out the fare\n\nWhen you want to find out a price, you can use the following expression:\n\nIkura desu ka?     How much is it?\n\nThus, when you want to say 'I want to go to Toranomon, (but) how much is it?' (i.e., 'how much is the fare'), you can say:\n\nToranomon e ikitain desu ga, ikura desu ka?"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "title": "unit21_grammar_seating",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "At most restaurants (except western-style or expensive Japanese ones), do you have to wait to be seated?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "No, you may simply take any unoccupied seat", "is_correct": true},
+        {"answer": "Yes, you must always wait for a host", "is_correct": false},
+        {"answer": "Yes, you need a reservation", "is_correct": false},
+        {"answer": "No, you must stand", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What might you have to do if the restaurant is crowded?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Share a table with someone else", "is_correct": true},
+        {"answer": "Wait outside", "is_correct": false},
+        {"answer": "Order takeout only", "is_correct": false},
+        {"answer": "Come back later", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What do you say to ask if you may take a seat at someone's table?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Koko ii desu ka?", "is_correct": true},
+        {"answer": "Nan-nin desu ka?", "is_correct": false},
+        {"answer": "Ikura desu ka?", "is_correct": false},
+        {"answer": "Doozo kochira e.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Koko ii desu ka?' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Is here O.K.?", "is_correct": true},
+        {"answer": "How much is this?", "is_correct": false},
+        {"answer": "How many people?", "is_correct": false},
+        {"answer": "Where is the menu?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How will the Japanese person probably respond if it's all right to sit?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Ee,) ii desu yo. (Sure / Please)", "is_correct": true},
+        {"answer": "Ainiku desu ga...", "is_correct": false},
+        {"answer": "Nan-nin-sama desu ka?", "is_correct": false},
+        {"answer": "Sumimasen.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How can you tell if the seat is already taken, even without understanding the words?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "By observing the person's attitude; a refusal will probably begin with an apology", "is_correct": true},
+        {"answer": "There is no way to tell", "is_correct": false},
+        {"answer": "The person will leave the table", "is_correct": false},
+        {"answer": "A sign will be posted", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When someone seats you and you are with several people, what will the waiter/waitress ask?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Nan-nin-sama desu ka? (How many people are there?)", "is_correct": true},
+        {"answer": "Koko ii desu ka?", "is_correct": false},
+        {"answer": "Ikura desu ka?", "is_correct": false},
+        {"answer": "Eego no menyuu wa arimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "After getting the number, what will the waiter/waitress say to take you to a table?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kochira e doozo. (This way, please.)", "is_correct": true},
+        {"answer": "Nan-nin-sama desu ka?", "is_correct": false},
+        {"answer": "Sumimasen.", "is_correct": false},
+        {"answer": "Ainiku desu ga...", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What do you say to call a waiter/waitress for service?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sumimasen. (Excuse me.)", "is_correct": true},
+        {"answer": "Irasshaimase.", "is_correct": false},
+        {"answer": "Kochira e doozo.", "is_correct": false},
+        {"answer": "Nan-nin desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "When the waiter/waitress comes, what will s/he say first, and then to take your order?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Irasshaimase, then Nan ni itashimashoo ka? or Nan ni nasaimasu ka?", "is_correct": true},
+        {"answer": "Sumimasen, then Koko ii desu ka?", "is_correct": false},
+        {"answer": "Doomo, then Ikura desu ka?", "is_correct": false},
+        {"answer": "Ainiku desu ga, then Mata doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Seating\n\nWith the exception of some western-style restaurants and expensive Japanese restaurants, you don't have to wait to be seated. You may simply take any unoccupied seat. However, if the restaurant you are in is crowded, you may have to share a table with someone else. If such is the case, you should ask the person already at the table if it's all right to take the seat by saying:\n\nKoko ii desu ka?    May I sit here? (literally, 'Is here O.K.?')\n\nThe Japanese will probably say:\n\n(Ee,) ii desu yo.    Sure / Please\n\nYou can pretty well guess when the seat is already taken by observing the person's attitude, even if you don't understand what is being said. A refusal will probably begin with an apology.\n\nWhen you are with several people at a restaurant where someone seats you, the waiter/waitress will probably ask you how many people there are in your group by saying:\n\nNan-nin-sama desu ka?    How many people are there?\n\nAfter getting the number from you, s/he will take you to a table by saying:\n\nKochira e doozo.    This way, please.\n\nWhen you want to call a waiter/waitress for service, you can say:\n\nSumimasen.    Excuse me.\n\nWhen a waiter/waitress comes to your table, s/he will first say Irasshaimase 'Welcome' and will probably then say:\n\nNan ni itashimashoo ka?    What shall we serve you?\nOR\nNan ni nasaimasu ka?       What would you like?\n\nThe above two expressions are comparable to 'May I take your order?' or 'Would you like to order?' in English."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

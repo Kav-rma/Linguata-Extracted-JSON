@@ -1,0 +1,155 @@
+{
+  "title": "unit14_comprehension_exercise_h",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Based on scenario 1, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You go up the stairs.",
+          "is_correct": false
+        },
+        {
+          "answer": "You go down the stairs.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Based on scenario 2, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You go up the stairs.",
+          "is_correct": false
+        },
+        {
+          "answer": "You go down the stairs.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Based on scenario 3, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You go through the underground passageway.",
+          "is_correct": true
+        },
+        {
+          "answer": "You go up the stairs.",
+          "is_correct": false
+        },
+        {
+          "answer": "The place is on your right.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Based on scenario 4, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You transfer to Kokuden at Shinjuku.",
+          "is_correct": false
+        },
+        {
+          "answer": "You transfer to the subway at Shinbashi.",
+          "is_correct": false
+        },
+        {
+          "answer": "You transfer to Kokuden at Shinbashi.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Based on scenario 5, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You transfer to the Ginza Line at the Ginza.",
+          "is_correct": false
+        },
+        {
+          "answer": "You transfer to the Ginza Line at Akasakamitsuke.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Based on scenario 6, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You transfer to the Aoyama bus at Shinbashi.",
+          "is_correct": false
+        },
+        {
+          "answer": "You transfer to the Aoyama bus at Shibuya.",
+          "is_correct": true
+        },
+        {
+          "answer": "You transfer to the Shinbashi bus at Aoyama.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "H. Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Choose the item that matches the directions the instructor gives."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Scenario 1: The instructor said: この階段をおりて、まっすぐ行ったところにあります。 (Kono kaidan o orite, massugu itta tokoro ni arimasu.)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "Scenario 2: The instructor said: その階段をおりて、すぐ右の方にあります。 (Sono kaidan o orite, sugu migi no hoo ni arimasu.)"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Scenario 3: The instructor said: 地下道をまっすぐ行って階段をおりて、ちょっと行くと左にあります。 (Chikadoo o massugu itte kaidan o orite, chotto iku to hidari ni arimasu.)"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Scenario 4: The instructor said: 新橋駅で国電に乗り換えて下さい。 (Shinbashi-eki de Kokuden ni norikaete kudasai.)"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Scenario 5: The instructor said: 赤坂見附まで行って、銀座線に乗り換えて下さい。 (Akasakamitsuke made itte, Ginza-sen ni norikaete kudasai.)"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Scenario 6: The instructor said: 渋谷で青山行きのバスに乗り換えて下さい。 (Shibuya de Aoyama-iki no basu ni norikaete kudasai.)"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

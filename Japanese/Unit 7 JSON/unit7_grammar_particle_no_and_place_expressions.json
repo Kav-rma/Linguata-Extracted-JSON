@@ -1,0 +1,259 @@
+{
+  "title": "unit7_grammar_particle_no_and_place_expressions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which place expressions are connected to a noun using the particle 'no'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Words like migi, hidari, mae, ushiro, tonari",
+          "is_correct": true
+        },
+        {
+          "answer": "Words like koko, soko, asoko",
+          "is_correct": false
+        },
+        {
+          "answer": "Words like kore, sore, are",
+          "is_correct": false
+        },
+        {
+          "answer": "Words like doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Depaato wa eki no migi desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The department store is on the right of the station.",
+          "is_correct": true
+        },
+        {
+          "answer": "The department store is the station.",
+          "is_correct": false
+        },
+        {
+          "answer": "The station has no department store.",
+          "is_correct": false
+        },
+        {
+          "answer": "Where is the department store?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which place expressions do NOT require the particle 'no'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Words like migi/hidari/mae/ushiro",
+          "is_correct": false
+        },
+        {
+          "answer": "Words like koko, soko, asoko",
+          "is_correct": true
+        },
+        {
+          "answer": "Words like kanai, shujin",
+          "is_correct": false
+        },
+        {
+          "answer": "Words like watakushi, anata",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Depaato wa koko desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The department store is here.",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is the department store?",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no department store.",
+          "is_correct": false
+        },
+        {
+          "answer": "The department store is over there.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which sentence is correctly formed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Depaato wa eki no hidari ni arimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Depaato wa eki hidari ni arimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa no eki hidari ni arimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa hidari eki no ni arimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which sentence is correctly formed (for 'here', 'there', 'over there')?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Depaato wa no koko desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa koko no desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa asoko desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Depaato wa no asoko ni arimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Why do 'koko/soko/asoko' not need 'no' before them?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because they are already complete place expressions on their own",
+          "is_correct": true
+        },
+        {
+          "answer": "Because they are nouns",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they are particles",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they are negative",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which is correct for 'on the left of the station'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "eki no hidari",
+          "is_correct": true
+        },
+        {
+          "answer": "eki hidari",
+          "is_correct": false
+        },
+        {
+          "answer": "hidari eki",
+          "is_correct": false
+        },
+        {
+          "answer": "no eki hidari",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does the particle 'no' indicate in 'eki no migi'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'of' (e.g., the right of the station)",
+          "is_correct": true
+        },
+        {
+          "answer": "'and'",
+          "is_correct": false
+        },
+        {
+          "answer": "'but'",
+          "is_correct": false
+        },
+        {
+          "answer": "'with'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "If you want to say 'The department store is in front of the station', which is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Depaato wa eki no mae ni arimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Depaato wa eki mae ni arimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa mae eki no ni arimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa no eki mae arimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Particle no and place expressions\n\na. Place expressions that occur with the particle no, 'of'\n\nExample:\n(Depaato wa) eki no migi/hidari desu/ni arimasu.\n(The department store) is on the right/left of the station.\n\nb. Place expressions that do not require no\n\nExample:\n(Depaato wa) koko/soko/asoko desu/ni arimasu.\n(The department store) is here/there/that way."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

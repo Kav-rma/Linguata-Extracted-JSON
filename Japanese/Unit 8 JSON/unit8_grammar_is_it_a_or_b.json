@@ -1,0 +1,259 @@
+{
+  "title": "unit8_grammar_is_it_a_or_b",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you want to ask 'Is it A or B?' in Japanese, how do you form the question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A B desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "A desu ka, B desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "A ka B desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "A B no desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say 'Is it A, B, or C?' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A desu ka, B C desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "A desu ka, B desu ka, C desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "A B ka C desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "A B or C desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Does Japanese add a separate 'or' word between the alternatives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it uses 'ka' as 'or'",
+          "is_correct": false
+        },
+        {
+          "answer": "No — each alternative is followed by 'desu ka' with no extra 'or' word",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, it uses 'mata wa'",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it uses 'soshite'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In English, where do you place 'or' when there are three or more alternatives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Between every pair of items",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in front of the last item",
+          "is_correct": true
+        },
+        {
+          "answer": "At the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "At the end",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In Japanese, does the sentence construction change when there are three or more items vs. two items?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it requires a different particle",
+          "is_correct": false
+        },
+        {
+          "answer": "No, the construction is the same — each alternative is followed by 'desu ka'",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, you use 'aru' for three or more",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, you use 'mada' for three or more",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How would you ask 'Is it in front of or behind the station?' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Eki no mae desu ka, ushiro desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Eki no mae ushiro desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Mae ushiro eki desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Eki no mae no ushiro desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How would you ask 'Is it the subway station or the JR station?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Chikatetsu wa JR-sen desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Chikatetsu desu ka, JR-sen desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Chikatetsu JR-sen desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Chikatetsu ka JR-sen desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When is this 'A desu ka, B desu ka?' pattern useful?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only at restaurants",
+          "is_correct": false
+        },
+        {
+          "answer": "When directions are complicated and you want to confirm which alternative is correct",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with food",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when greeting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which is grammatically correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hon-ya desu ka, basu noriba desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Hon-ya basu noriba ka desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ka hon-ya basu noriba desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Hon-ya wa basu noriba ka desu?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is added to each alternative to form the 'A or B' question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "no",
+          "is_correct": false
+        },
+        {
+          "answer": "desu ka",
+          "is_correct": true
+        },
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "ne",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Is it A or B?\n\nWhen the directions you get are rather complicated and you want to make sure that you got them correctly, you may want to ask a question like 'Is it on the right or left?' In Japanese, questions of this kind are formed by simply adding the phrase desu ka to each alternative. Look at the following:\n\nEnglish:  Is it A or B?\nJapanese: A desu ka, B desu ka?\n\nIn English, when there are three or more items to ask about, you place 'or' only in front of the last item. In Japanese, however, the sentence construction is the same as in the question that has two items. Compare the following:\n\nEnglish:  Is it A, B, or C?\nJapanese: A desu ka, B desu ka, C desu ka?\n\nThus, when you want to ask if the place you are looking for is in front of the station or behind the station, you can say:\n\nEki no mae desu ka, ushiro desu ka?    Is it in front of or behind the station?"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

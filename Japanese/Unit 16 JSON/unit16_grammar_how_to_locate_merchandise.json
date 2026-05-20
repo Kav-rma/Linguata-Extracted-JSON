@@ -1,0 +1,259 @@
+{
+  "title": "unit16_grammar_how_to_locate_merchandise",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where can you usually find directories in major Japanese department stores?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only online",
+          "is_correct": false
+        },
+        {
+          "answer": "Near the entrance, stairways, and elevators",
+          "is_correct": true
+        },
+        {
+          "answer": "Only at the information desk",
+          "is_correct": false
+        },
+        {
+          "answer": "On every floor's ceiling",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In what languages are directories typically written in major Japanese department stores?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Japanese only",
+          "is_correct": false
+        },
+        {
+          "answer": "Both English and Japanese",
+          "is_correct": true
+        },
+        {
+          "answer": "Japanese and Chinese",
+          "is_correct": false
+        },
+        {
+          "answer": "English only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If you can't find the directory, who can you ask?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only the security guard",
+          "is_correct": false
+        },
+        {
+          "answer": "A person at the information desk, the elevator operator, or the 'escalator girl'",
+          "is_correct": true
+        },
+        {
+          "answer": "Other customers",
+          "is_correct": false
+        },
+        {
+          "answer": "The cashier only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How would you ask 'Where are the watches?' at a department store?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tokee wa doko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokee made onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokee no namae wa?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokee de tomete kudasai.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would you ask 'Where is the watch section/counter/department?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tokee-uriba wa doko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokee no nan-gai desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokee made ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokee-uriba ga arimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does the word 'uriba' (売場) literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "store",
+          "is_correct": false
+        },
+        {
+          "answer": "selling place",
+          "is_correct": true
+        },
+        {
+          "answer": "counter",
+          "is_correct": false
+        },
+        {
+          "answer": "department",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'eigyoo jikan' (営業時間) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "closing time",
+          "is_correct": false
+        },
+        {
+          "answer": "business hours",
+          "is_correct": true
+        },
+        {
+          "answer": "lunch break",
+          "is_correct": false
+        },
+        {
+          "answer": "rush hour",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What are typical business hours for Japanese banks on weekdays?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "10:00-8:00",
+          "is_correct": false
+        },
+        {
+          "answer": "9:00-3:00",
+          "is_correct": true
+        },
+        {
+          "answer": "9:00-5:00",
+          "is_correct": false
+        },
+        {
+          "answer": "10:00-6:00",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What are typical business hours for Japanese department stores?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "9:00-5:00 every day",
+          "is_correct": false
+        },
+        {
+          "answer": "10:00-6:00 on weekdays, 10:00-6:30 on weekends",
+          "is_correct": true
+        },
+        {
+          "answer": "10:00-8:00 every day",
+          "is_correct": false
+        },
+        {
+          "answer": "Closed on Sundays",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why should you study the floor plan of a Japanese department store?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To pass an exam",
+          "is_correct": false
+        },
+        {
+          "answer": "To learn the names of the merchandise and/or sales counters",
+          "is_correct": true
+        },
+        {
+          "answer": "Because tests require it",
+          "is_correct": false
+        },
+        {
+          "answer": "To impress the staff",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "How to locate the merchandise you want to see or buy in a department store\n\nIn all major department stores, there are directories written both in English and Japanese. They are usually placed near the entrance, stairways, and elevators. Therefore, you will probably have little problem finding the floor you want. You can ask a person at the information desk (near ground floor entrances), the elevator operator, or the 'escalator girl.' (Ask your instructor about the 'elevator girl' and the 'escalator girl.') You can use the following expressions, which you learned in Lesson 6, to ask the location of merchandise.\n\nIf you want to locate the watch counter, for example, you can say the following:\n\nTokee wa doko desu ka?                   Where are the watches?\nOR\nTokee-uriba wa doko desu ka?             Where is the watch section/counter/department?\n\nNote: uriba (売場) literally means 'selling place.'\n\nPractice B of this lesson contains a typical floor plan of a Japanese department store. Study the names of the merchandise and/or sales counters and, with the help of your instructor, add any words that you think you may need.\n\neigyoo jikan (営業時間) 'business hours'\n\nThe following are typical business hours of stores, shops, department stores, etc. in Japan.\n\n                  Weekdays      Saturday       Sunday\nbanks             9:00-3:00     9:00-12:00     closed\npost offices      9:00-5:00     9:00-3:00      closed\nstores            10:00-8:00    10:00-8:00     10:00-8:00\ndepartment stores 10:00-6:00    10:00-6:30     10:00-6:30\nbarber shops      9:00-8:00     9:00-8:00      9:00-8:00 (closed on Mondays)\nbeauty parlors    9:00-8:00     9:00-8:00      9:00-8:00 (closed on Tuesdays)"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

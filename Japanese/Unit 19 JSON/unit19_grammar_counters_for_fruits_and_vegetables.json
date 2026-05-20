@@ -1,0 +1,259 @@
+{
+  "title": "unit19_grammar_counters_for_fruits_and_vegetables",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In Japanese, what is required between the number and the word for a fruit or vegetable?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A counter",
+          "is_correct": true
+        },
+        {
+          "answer": "A particle 'no'",
+          "is_correct": false
+        },
+        {
+          "answer": "The word 'desu'",
+          "is_correct": false
+        },
+        {
+          "answer": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the counter 'yama' used for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Piles of apples, oranges, carrots, cucumbers, tomatoes, etc.",
+          "is_correct": true
+        },
+        {
+          "answer": "Bunches of spinach",
+          "is_correct": false
+        },
+        {
+          "answer": "Heads of lettuce or cabbage",
+          "is_correct": false
+        },
+        {
+          "answer": "Individual cucumbers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the counter 'wa' used for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Bunches of spinach or carrots, etc.",
+          "is_correct": true
+        },
+        {
+          "answer": "Piles of fruit",
+          "is_correct": false
+        },
+        {
+          "answer": "Individual cucumbers",
+          "is_correct": false
+        },
+        {
+          "answer": "Heads of cabbage",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the counter 'ko' used for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Heads of lettuce or cabbage, individual apples, oranges, etc.",
+          "is_correct": true
+        },
+        {
+          "answer": "Piles of fruit",
+          "is_correct": false
+        },
+        {
+          "answer": "Bunches of spinach",
+          "is_correct": false
+        },
+        {
+          "answer": "Individual cucumbers and carrots",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the counter 'hon' used for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Individual cucumbers, carrots, etc.",
+          "is_correct": true
+        },
+        {
+          "answer": "Piles of fruit",
+          "is_correct": false
+        },
+        {
+          "answer": "Bunches of spinach",
+          "is_correct": false
+        },
+        {
+          "answer": "Heads of cabbage",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How do you say 'one pile' using the 'yama' counter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hito-yama",
+          "is_correct": true
+        },
+        {
+          "answer": "ichi-yama",
+          "is_correct": false
+        },
+        {
+          "answer": "ik-ko",
+          "is_correct": false
+        },
+        {
+          "answer": "ichi-wa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you say 'one (cylindrical object)' using the 'hon' counter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ip-pon",
+          "is_correct": true
+        },
+        {
+          "answer": "ichi-hon",
+          "is_correct": false
+        },
+        {
+          "answer": "hito-hon",
+          "is_correct": false
+        },
+        {
+          "answer": "ik-ko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you say 'three' using the 'wa' counter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "san-wa or san-ba",
+          "is_correct": true
+        },
+        {
+          "answer": "mi-yama",
+          "is_correct": false
+        },
+        {
+          "answer": "san-ko",
+          "is_correct": false
+        },
+        {
+          "answer": "san-bon",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How do you say 'ten' using the 'ko' counter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "jik-ko / juk-ko",
+          "is_correct": true
+        },
+        {
+          "answer": "juu-ko",
+          "is_correct": false
+        },
+        {
+          "answer": "jip-pon",
+          "is_correct": false
+        },
+        {
+          "answer": "too-ko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In English, which examples need a counter (exceptions to putting a number directly before the noun)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'one head of lettuce' or 'two bunches of spinach'",
+          "is_correct": true
+        },
+        {
+          "answer": "'one pear' or 'two cabbages'",
+          "is_correct": false
+        },
+        {
+          "answer": "'three cucumbers'",
+          "is_correct": false
+        },
+        {
+          "answer": "'five apples'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. Counters for fruits and vegetables\n\nIn English, we can ordinarily put a number directly before the word for a fruit or vegetable, for example, 'one pear, two cabbages, three cucumbers', etc. However, even in English, there are some exceptions such as 'one head of lettuce' or 'two bunches of spinach', where a counter is needed.\n\nIn Japanese, all words for fruits and vegetables (as well as many other nouns) require a counter between the number and the word for the fruit or vegetable. Some commonly used counters include:\n\nyama  (for piles of apples, oranges, carrots, cucumbers, tomatoes, etc.)\nwa    (for bunches of spinach or carrots, etc.)\nko    (for heads of lettuce or cabbage, individual apples, oranges, etc.)\nhon   (for individual cucumbers, carrots, etc.)\n\nNotice the forms for the various numbers plus counter:\n\nNUMBER     YAMA         WA            KO              HON\none        hito-yama    ichi-wa       ik-ko           ip-pon\ntwo        futa-yama    ni-wa         ni-ko           ni-hon\nthree      mi-yama      san-wa/ba     san-ko          san-bon\nfour                                  yon-ko          yon/shi-hon\nfive                                  go-ko           go-hon\nsix                                   rok-ko          rop-pon\nseven                                 shichi/nana-ko  shichi/nana-hon\neight                                 hachi/hak-ko    hachi/hap-pon\nnine                                  kyuu-ko         kyuu-hon\nten                                   jik/juk-ko      jip/jup-pon"
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "title": "unit14_comprehension_exercise_i",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "For going to Ginza from Toranomon (Ginza line), what transfer information applies based on the instructor's response: 'ええ、いいですよ。ここから四つ目です。 (Ee, ii desu yo. Koko kara yottsu-me desu.)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No transfer needed; Ginza is 4 stops away.",
+          "is_correct": true
+        },
+        {
+          "answer": "Transfer at Ginza to Hibiya line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Kasumigaseki to Marunouchi line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Akasakamitsuke to Marunouchi line.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "For going to Asakusa from Toranomon (Ginza line), what transfer information applies based on the instructor's response: 'この線で銀座まで行って、そこで銀座線の浅草行に乗り換えて下さい。 (Kono sen de Ginza made itte, soko de Ginza-sen no Asakusa-iki ni norikaete kudasai.)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No transfer needed.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Ginza to the Ginza-sen Asakusa-bound.",
+          "is_correct": true
+        },
+        {
+          "answer": "Transfer at Asakusa to Ginza line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Akasakamitsuke to Marunouchi line.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "For going to Tokyo-eki from Toranomon (Ginza line), what transfer information applies based on the instructor's response: 'この線で銀座まで行って、丸ノ内線に乗り換えて下さい。 (Kono sen de Ginza made itte, Marunouchi-sen ni norikaete kudasai.)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No transfer needed.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Ginza to Marunouchi line.",
+          "is_correct": true
+        },
+        {
+          "answer": "Transfer at Kasumigaseki to Marunouchi line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Tokyo-eki to Yamanote line.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "For going to Ueno from Toranomon (Ginza line), what transfer information applies based on the instructor's response: '上野ですか。この線でいいですよ。 (Ueno desu ka. Kono sen de ii desu yo.)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No transfer needed.",
+          "is_correct": true
+        },
+        {
+          "answer": "Transfer at Ueno to Yamanote line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Ginza to Hibiya line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Asakusa to Ginza line.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "For going to Shinjuku from Toranomon (Ginza line), what transfer information applies based on the instructor's response: 'これで霞ヶ関まで行って、そこで丸ノ内線に乗り換えて下さい。 (Kore de Kasumigaseki made itte, soko de Marunouchi-sen ni norikaete kudasai.)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No transfer needed.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Kasumigaseki to Marunouchi line.",
+          "is_correct": true
+        },
+        {
+          "answer": "Transfer at Ginza to Marunouchi line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Akasakamitsuke to Marunouchi line.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "For going to Ikebukuro from Toranomon (Ginza line), what transfer information applies based on the instructor's response: 'この線で日比谷まで行って、そこで有楽町線に乗り換えて下さい。 (Kono sen de Hibiya made itte, soko de Yurakucho-sen ni norikaete kudasai.)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No transfer needed.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Hibiya to Yurakucho line.",
+          "is_correct": true
+        },
+        {
+          "answer": "Transfer at Ikebukuro to Marunouchi line.",
+          "is_correct": false
+        },
+        {
+          "answer": "Transfer at Ginza to Yamanote line.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "I. Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Direction: You are at Toranomon subway station on the Ginza line. Referring to the list of places you want to go, find out from the instructor (a station employee) how to get to your destination and fill in the appropriate columns below."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Meiji Jinguu e ikitain desu ga, kono sen de ii desu ka? Instructor: Kasumigaseki de Chiyoda-sen ni norikaete kudasai. Kasumigaseki kara yottsu-me desu."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Places you want to go: 1. Ginza, 2. Asakusa, 3. Tokyo-eki, 4. Ueno, 5. Shinjuku, 6. Ikebukuro."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

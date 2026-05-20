@@ -1,0 +1,98 @@
+{
+  "title": "unit18_substitution_drill_d",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Write a Japanese sentence using the pattern '___ o ___ kudasai.' base: 'Kono niku o 300 guramu kudasai.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Kono niku o 300 guramu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Write a Japanese sentence using the pattern 'Kono niku o ___ kudasai.' with '500 guramu'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Kono niku o 500 guramu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Write a Japanese sentence using the pattern '___ o 500 guramu kudasai.' with 'Ookii no'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ookii no o 500 guramu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write a Japanese sentence using the pattern '___ o 500 guramu kudasai.' with '800-en no'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "800-en no o 500 guramu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write a Japanese sentence using the pattern '___ o 500 guramu kudasai.' with 'Chiisai no'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chiisai no o 500 guramu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write a Japanese sentence using the pattern 'Chiisai no o ___ kudasai.' with '1 kiro'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chiisai no o 1 kiro kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Write a Japanese sentence using the pattern '___ o 1 kiro kudasai.' with 'Kore'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Kore o 1 kiro kudasai.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

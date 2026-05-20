@@ -1,0 +1,259 @@
+{
+  "title": "unit9_grammar_helpful_things_to_know_in_getting_directions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Do streets in most Japanese cities run straight from north to south or from east to west?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, they are organized like a grid",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they do not run in such straight directions",
+          "is_correct": true
+        },
+        {
+          "answer": "Only major streets do",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in Tokyo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Do all streets in Japan have names?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, all of them",
+          "is_correct": false
+        },
+        {
+          "answer": "No, not all streets have names",
+          "is_correct": true
+        },
+        {
+          "answer": "Only avenues do",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in suburban areas",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What do Japanese normally use instead of street names when referring to the location of a building or place?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "GPS coordinates",
+          "is_correct": false
+        },
+        {
+          "answer": "The area name and/or number like 'yon-choome'",
+          "is_correct": true
+        },
+        {
+          "answer": "Compass directions only",
+          "is_correct": false
+        },
+        {
+          "answer": "Postal codes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Does Japanese have a word equivalent to English 'block'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it's 'choome'",
+          "is_correct": false
+        },
+        {
+          "answer": "No, Japanese does not have a word equivalent to English 'block'",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, it's 'kado'",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it's 'shingoo'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What words does a Japanese person use instead of 'block' when giving directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kado, shingoo, koosaten",
+          "is_correct": true
+        },
+        {
+          "answer": "kara, made, ni",
+          "is_correct": false
+        },
+        {
+          "answer": "atchi, kotchi, sotchi",
+          "is_correct": false
+        },
+        {
+          "answer": "kore, sore, are",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'kado' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "intersection",
+          "is_correct": false
+        },
+        {
+          "answer": "corner",
+          "is_correct": true
+        },
+        {
+          "answer": "traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "block",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'shingoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "corner",
+          "is_correct": false
+        },
+        {
+          "answer": "traffic light",
+          "is_correct": true
+        },
+        {
+          "answer": "intersection",
+          "is_correct": false
+        },
+        {
+          "answer": "street",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'koosaten' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "corner",
+          "is_correct": false
+        },
+        {
+          "answer": "traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "intersection",
+          "is_correct": true
+        },
+        {
+          "answer": "bridge",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How would a Japanese say 'Go one block and turn left...' (approximate equivalent)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hitotsu buroku itte hidari ni magatte...",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi no kado o hidari ni magatte... ('Turn left at the next corner...')",
+          "is_correct": true
+        },
+        {
+          "answer": "Buroku no aida ni hidari...",
+          "is_correct": false
+        },
+        {
+          "answer": "Buroku hidari ni...",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why is it important to learn corner / traffic light / intersection words?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because Japanese drivers are aggressive",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they substitute for 'block' in giving directions",
+          "is_correct": true
+        },
+        {
+          "answer": "Because they appear in tests",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they are the only words used in conversation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Helpful things to know in getting directions\n\nStreets in most Japanese cities do not run straight from north to south or from east to west. Furthermore, not all streets have names. Instead, Japanese normally use the area name and/or number like yon-choome when referring to the location of a building or a place.\n\nSince Japanese does not have a word equivalent to English 'block,' in giving directions a Japanese will use words like kado 'corner,' shingoo 'traffic light,' koosaten 'intersection,' etc. For example, for 'Go one block and turn left...' a Japanese person would say Tsugi no kado o hidari ni magatte... 'Turn left at the next corner...' It is, therefore, very important for you to become familiar with these words and to learn how to use them."
+    }
+  ],
+  "metadata": {
+    "page_start": 16,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

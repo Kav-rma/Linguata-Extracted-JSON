@@ -1,0 +1,259 @@
+{
+  "title": "unit15_grammar_ookii",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the word 'ookii' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "small",
+          "is_correct": false
+        },
+        {
+          "answer": "large, big",
+          "is_correct": true
+        },
+        {
+          "answer": "new",
+          "is_correct": false
+        },
+        {
+          "answer": "expensive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'ookii suupaa' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "small supermarket",
+          "is_correct": false
+        },
+        {
+          "answer": "large supermarket / big supermarket",
+          "is_correct": true
+        },
+        {
+          "answer": "supermarket on the right",
+          "is_correct": false
+        },
+        {
+          "answer": "the only supermarket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Ano suupaa wa ookii desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That supermarket is large.",
+          "is_correct": true
+        },
+        {
+          "answer": "There is a large supermarket.",
+          "is_correct": false
+        },
+        {
+          "answer": "The supermarket is over there.",
+          "is_correct": false
+        },
+        {
+          "answer": "That supermarket is small.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In the pattern 'ookii suupaa', what role does 'ookii' play?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is a verb",
+          "is_correct": false
+        },
+        {
+          "answer": "It directly modifies the noun that follows",
+          "is_correct": true
+        },
+        {
+          "answer": "It is a particle",
+          "is_correct": false
+        },
+        {
+          "answer": "It is a question marker",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In 'Ano suupaa wa ookii desu', what is the role of 'ookii'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It modifies a noun directly",
+          "is_correct": false
+        },
+        {
+          "answer": "It serves as the predicate (describing the subject)",
+          "is_correct": true
+        },
+        {
+          "answer": "It is a question word",
+          "is_correct": false
+        },
+        {
+          "answer": "It indicates location",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Will more words that behave like 'ookii' be introduced later?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, this is the only one",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, more words that behave like ookii will be learned in later lessons",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in advanced lessons",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with specific nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How would you say 'large hotel' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ookii hoteru",
+          "is_correct": true
+        },
+        {
+          "answer": "hoteru ookii",
+          "is_correct": false
+        },
+        {
+          "answer": "ookii no hoteru",
+          "is_correct": false
+        },
+        {
+          "answer": "hoteru wa ookii",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How would you say 'That building is large' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ano biru wa ookii desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Ano biru no ookii desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ano ookii wa biru desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ano biru ga ookii.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What category of words does 'ookii' belong to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "Adjectives (descriptive words)",
+          "is_correct": true
+        },
+        {
+          "answer": "Particles",
+          "is_correct": false
+        },
+        {
+          "answer": "Nouns",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence shows 'ookii' used to directly modify the following noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ookii suupaa (large supermarket)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ano suupaa wa ookii desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Suupaa wa ookii desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ookii desu ne.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. ookii X 'large/big X'\n\nIn this lesson, we learn the word ookii 'large, big'. Look at the following two patterns and compare the structure of the Japanese and English:\n\nookii suupaa                large supermarket / big supermarket\nAno suupaa wa ookii desu.   That supermarket is large.\n\nWe will learn more words that behave like ookii in later lessons."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

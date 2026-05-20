@@ -1,0 +1,259 @@
+{
+  "title": "unit5_grammar_particle_no",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When 'no' occurs between two nouns, what does it indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That a question is being asked",
+          "is_correct": false
+        },
+        {
+          "answer": "That what comes before 'no' describes what comes after it",
+          "is_correct": true
+        },
+        {
+          "answer": "Negation",
+          "is_correct": false
+        },
+        {
+          "answer": "An emphatic statement",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Amerika Taishikan no Sumisu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Smith from the American Embassy / Smith of the American Embassy",
+          "is_correct": true
+        },
+        {
+          "answer": "Is Smith from America?",
+          "is_correct": false
+        },
+        {
+          "answer": "Smith doesn't work at the embassy",
+          "is_correct": false
+        },
+        {
+          "answer": "Smith is American",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'watakushi no hon' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the book about me",
+          "is_correct": false
+        },
+        {
+          "answer": "my book",
+          "is_correct": true
+        },
+        {
+          "answer": "book I don't have",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm a book",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which pattern is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(name) no (work place)",
+          "is_correct": false
+        },
+        {
+          "answer": "(work place) no (name)",
+          "is_correct": true
+        },
+        {
+          "answer": "(work place) (name) no",
+          "is_correct": false
+        },
+        {
+          "answer": "no (work place) (name)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which pattern is correct for showing possession?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(belonging) no (possessor)",
+          "is_correct": false
+        },
+        {
+          "answer": "(possessor) no (belonging)",
+          "is_correct": true
+        },
+        {
+          "answer": "no (possessor) (belonging)",
+          "is_correct": false
+        },
+        {
+          "answer": "(possessor) (belonging)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where in the phrase does 'no' appear?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the very beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "Between the two nouns",
+          "is_correct": true
+        },
+        {
+          "answer": "At the very end",
+          "is_correct": false
+        },
+        {
+          "answer": "Always at the start of a sentence",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which expression means 'Smith of the American Embassy'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sumisu no Amerika Taishikan",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Taishikan no Sumisu",
+          "is_correct": true
+        },
+        {
+          "answer": "Sumisu wa Amerika Taishikan",
+          "is_correct": false
+        },
+        {
+          "answer": "Sumisu Amerika Taishikan no",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which lesson previously introduced the particle 'no'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 1",
+          "is_correct": false
+        },
+        {
+          "answer": "The previous lesson (Lesson 4)",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 7",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 10",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How would you say 'my book' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hon no watakushi",
+          "is_correct": false
+        },
+        {
+          "answer": "watakushi no hon",
+          "is_correct": true
+        },
+        {
+          "answer": "watakushi hon",
+          "is_correct": false
+        },
+        {
+          "answer": "hon watakushi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Is the particle 'no' optional or required when describing one noun with another?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Optional",
+          "is_correct": false
+        },
+        {
+          "answer": "Required",
+          "is_correct": true
+        },
+        {
+          "answer": "Used only in formal speech",
+          "is_correct": false
+        },
+        {
+          "answer": "Used only in casual speech",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Particle no\n\nAs mentioned in the previous lesson, no occurring between two nouns indicates that what comes before the no describes what comes after it. Study these patterns:\n\n(work place) no (name)\nAmerika Taishikan no Sumisu    Smith of the American Embassy\n\n(possessor) no (belonging)\nwatakushi no hon                my book"
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

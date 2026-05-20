@@ -1,0 +1,259 @@
+{
+  "title": "unit17_grammar_location_of_merchandise",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'migi' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "left",
+          "is_correct": false
+        },
+        {
+          "answer": "right",
+          "is_correct": true
+        },
+        {
+          "answer": "on top",
+          "is_correct": false
+        },
+        {
+          "answer": "below",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'hidari' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "left",
+          "is_correct": true
+        },
+        {
+          "answer": "right",
+          "is_correct": false
+        },
+        {
+          "answer": "on top",
+          "is_correct": false
+        },
+        {
+          "answer": "below",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'ue' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "below",
+          "is_correct": false
+        },
+        {
+          "answer": "on top, above",
+          "is_correct": true
+        },
+        {
+          "answer": "right",
+          "is_correct": false
+        },
+        {
+          "answer": "left",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'shita' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "above",
+          "is_correct": false
+        },
+        {
+          "answer": "below",
+          "is_correct": true
+        },
+        {
+          "answer": "right",
+          "is_correct": false
+        },
+        {
+          "answer": "left",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'migi no kamera' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the camera on the right",
+          "is_correct": true
+        },
+        {
+          "answer": "the one on the right",
+          "is_correct": false
+        },
+        {
+          "answer": "the camera on the left",
+          "is_correct": false
+        },
+        {
+          "answer": "that camera",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'sono migi no kamera' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the camera to the right of it / that camera on the right",
+          "is_correct": true
+        },
+        {
+          "answer": "the one on the right",
+          "is_correct": false
+        },
+        {
+          "answer": "this camera",
+          "is_correct": false
+        },
+        {
+          "answer": "the camera on the left",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "If a salesclerk points to item X and you want the one above it (position [1]), what do you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sono ue (no) desu. / Sono ue no o misete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sono shita (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono migi (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono hidari (no) desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If you want the one below the item pointed to (position [4]), what do you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sono ue (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono shita (no) desu. / Sono shita no o misete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sono migi (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono hidari (no) desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If you want the one to the right of the item (position [3]), what do you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sono hidari (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono migi (no) desu. / Sono migi no o misete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sono ue (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono shita (no) desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "If you want the one to the left of the item (position [2]), what do you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sono migi (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono hidari (no) desu. / Sono hidari no o misete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sono ue (no) desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sono shita (no) desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. Some expressions that indicate the location of merchandise\n\nWhen you ask a salesclerk to show you merchandise, you may have to indicate the position of the merchandise, for example, 'the one above it,' 'the one to the right of it' or the like. This can be expressed in Japanese quite easily if we use words like kono 'this,' sono 'that', ano 'that, over there,' particle no 'the one,' migi 'right,' hidari 'left,' ue 'on top,' and shita 'below.' Look at the following:\n\nmigi no kamera        the camera on the right\nmigi no               the one on the right\nsono migi no kamera   the camera to the right of it OR that camera on the right\nsono migi no          that one to the right of it OR that one on the right\n\nLet us assume a situation like the following: A salesclerk points to some merchandise and you want to see the one to the right/left of it or above/below it. Each position can be shown as follows (X indicates the item the clerk has pointed to):\n\n          [1]\n   [2]    X    [3]\n          [4]\n\na. When you want to see the item represented by [1] (above it):\n   Sono ue (no) desu.            (It's) the one above it\n   Sono ue no o misete kudasai.  Please show me the one above it\n\nb. When you want to see the item represented by [4] (below it):\n   Sono shita (no) desu.            (It's) the one below\n   Sono shita no o misete kudasai.  Please show me the one below it\n\nc. When you want to see the item represented by [3] (to the right):\n   Sono migi (no) desu.            (It's) the one to the right of it\n   Sono migi no o misete kudasai.  Please show me the one on the right\n\nd. When you want to see the item represented by [2] (to the left):\n   Sono hidari (no) desu.            (It's) the one on the left of it\n   Sono hidari no o misete kudasai.  Please show me the one on the left"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

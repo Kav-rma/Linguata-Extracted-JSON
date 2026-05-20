@@ -1,0 +1,259 @@
+{
+  "title": "unit18_grammar_500_yen_per_100_grams",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How are price tags often written at grocery stores and fish stores?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "With the unit (e.g., 100g) and the price (e.g., 500円)",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in English",
+          "is_correct": false
+        },
+        {
+          "answer": "Without any numbers",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the total weight",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How are the price tags showing '100g / 500円' read aloud?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hyaku-guramu gohyaku-en (100 guramu 500 yen)",
+          "is_correct": true
+        },
+        {
+          "answer": "gohyaku-guramu hyaku-en",
+          "is_correct": false
+        },
+        {
+          "answer": "sen-guramu gohyaku-en",
+          "is_correct": false
+        },
+        {
+          "answer": "hyaku-en gohyaku-guramu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you say 'beef that is 300 yen per 100 grams'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "100 guramu 300-en no (gyuu)niku",
+          "is_correct": true
+        },
+        {
+          "answer": "300-en 100 guramu no niku",
+          "is_correct": false
+        },
+        {
+          "answer": "niku 100 guramu 300-en",
+          "is_correct": false
+        },
+        {
+          "answer": "300 guramu 100-en no niku",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the general pattern for stating a price per unit of merchandise?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Unit (100g, 1kg, etc.) + price + no + merchandise",
+          "is_correct": true
+        },
+        {
+          "answer": "merchandise + price + unit",
+          "is_correct": false
+        },
+        {
+          "answer": "price + merchandise + unit",
+          "is_correct": false
+        },
+        {
+          "answer": "merchandise + no + unit",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you say '1 kg of the apples that are 300 yen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "1 kiro 300-en no ringo",
+          "is_correct": true
+        },
+        {
+          "answer": "300-en 1 kiro no ringo",
+          "is_correct": false
+        },
+        {
+          "answer": "ringo 1 kiro 300-en",
+          "is_correct": false
+        },
+        {
+          "answer": "300 kiro 1-en no ringo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When you have been talking about a particular item, what can you drop (as discussed in Lesson 17)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The price",
+          "is_correct": false
+        },
+        {
+          "answer": "The merchandise name (use 'no' instead)",
+          "is_correct": true
+        },
+        {
+          "answer": "The unit",
+          "is_correct": false
+        },
+        {
+          "answer": "The particle 'o'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does '100 guramu 500-en no' mean (without the merchandise name)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the one that is 500 yen for 100 g",
+          "is_correct": true
+        },
+        {
+          "answer": "500 grams for 100 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "100 yen per 500 grams",
+          "is_correct": false
+        },
+        {
+          "answer": "the cheapest one",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you say 'Please give me 200 g of the one that is 500 yen for 100 grams'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "100 guramu 500-en no o 200 guramu kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "200 guramu 500-en no o 100 guramu kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "500-en no o 100 guramu kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "100 guramu no o 500-en kudasai.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Kore o 200 guramu kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please give me 200 g of this.",
+          "is_correct": true
+        },
+        {
+          "answer": "Please give me 200 of these.",
+          "is_correct": false
+        },
+        {
+          "answer": "This is 200 grams.",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is 200 grams of this?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The expression for ordering an amount of a priced item is essentially what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An expansion of the basic 'X o (amount) kudasai' pattern",
+          "is_correct": true
+        },
+        {
+          "answer": "A completely different grammar structure",
+          "is_correct": false
+        },
+        {
+          "answer": "Only used in department stores",
+          "is_correct": false
+        },
+        {
+          "answer": "A question form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. How to say '500 yen per 100 grams'\n\nAt grocery stores, fish stores, etc., the price tags are often written in the following ways: a tag showing '100g' and '500円', which can also be written with Kanji numerals. Note: The tags are read as 100 guramu 500 yen.\n\nWhen you refer to beef that is 300 yen per 100 grams, for example, you can say:\n\n100 guramu 300-en no (gyuu)niku\n\nThis expression can be generalized into the following pattern:\n\nUnit (100 g, 1 kg, etc.) price no merchandise\n\ne.g. 100 guramu 500-en no gyuuniku    100 g of the beef that is 500 yen\n     1 kiro 300-en no ringo           1 kg of the apples that are 300 yen\n\nHowever, as we discussed in Lesson 17, when you have been talking about a particular item or when you choose one from among several, it is not necessary to say its name again. You can simply say:\n\n100 guramu 500-en no    the one that is 500 yen for 100 g\n\nWhen you want to order 200 g of the merchandise that is 500 yen for 100 grams, for example, you can use the following expression:\n\n100 guramu 500-en no o 200 guramu kudasai.    Please give me 200 g of the one that is 500 yen for 100 g\n\nYou may have noticed that this expression is merely an expansion of what we discussed above. Compare the following:\n\nKore o 200 guramu kudasai.                       Please give me 200 g of this\n100 guramu 500-en no o 200 guramu kudasai.       Please give me 200 g of the one that is 500 yen for 100 g"
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

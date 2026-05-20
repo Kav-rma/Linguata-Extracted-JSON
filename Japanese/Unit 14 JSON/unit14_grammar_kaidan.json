@@ -1,0 +1,259 @@
+{
+  "title": "unit14_grammar_kaidan",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'kaidan' (階段) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "elevator",
+          "is_correct": false
+        },
+        {
+          "answer": "stairway",
+          "is_correct": true
+        },
+        {
+          "answer": "exit",
+          "is_correct": false
+        },
+        {
+          "answer": "passage",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Kaidan o noborimasu/agarimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go down the stairs",
+          "is_correct": false
+        },
+        {
+          "answer": "Go up the stairs",
+          "is_correct": true
+        },
+        {
+          "answer": "Use the stairs",
+          "is_correct": false
+        },
+        {
+          "answer": "Find the stairs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Kaidan o orimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go up the stairs",
+          "is_correct": false
+        },
+        {
+          "answer": "Go down the stairs",
+          "is_correct": true
+        },
+        {
+          "answer": "Climb the stairs",
+          "is_correct": false
+        },
+        {
+          "answer": "Avoid the stairs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Does Japanese have specific verbs for 'go up' and 'go down' the stairs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, only one general verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, specific verbs for each",
+          "is_correct": true
+        },
+        {
+          "answer": "Only for going up",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in formal speech",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What might you hear in Japanese directions when giving exit directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'Go down/up the stairs...'",
+          "is_correct": true
+        },
+        {
+          "answer": "'Take the elevator'",
+          "is_correct": false
+        },
+        {
+          "answer": "'Wait at the platform'",
+          "is_correct": false
+        },
+        {
+          "answer": "'Skip the stairs'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why might you hear different verb forms than 'noborimasu' and 'orimasu' in actual conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because Japanese is unpredictable",
+          "is_correct": false
+        },
+        {
+          "answer": "Because Japanese verbs have different forms depending on how they are used in a sentence",
+          "is_correct": true
+        },
+        {
+          "answer": "Because dialects vary widely",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the speaker is unsure",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the key word to listen for to know directions involve stairs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "deguchi",
+          "is_correct": false
+        },
+        {
+          "answer": "kaidan",
+          "is_correct": true
+        },
+        {
+          "answer": "chikadoo",
+          "is_correct": false
+        },
+        {
+          "answer": "iriguchi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If you hear 'kaidan' and can locate the staircase, what can you do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pretty well guess whether to go up or down",
+          "is_correct": true
+        },
+        {
+          "answer": "Always go down",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait for someone else",
+          "is_correct": false
+        },
+        {
+          "answer": "Ask the police",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What should you do if there are two kaidan at a place where you have a choice of going up or down?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Always go down first",
+          "is_correct": false
+        },
+        {
+          "answer": "Ask directions there again",
+          "is_correct": true
+        },
+        {
+          "answer": "Take the closest one",
+          "is_correct": false
+        },
+        {
+          "answer": "Take the wider one",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which lesson previously mentioned the concept that Japanese verbs have different forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 5",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 9",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 11",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 13",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Kaidan (階段) 'stairway'\n\nIn giving directions to your exit, Japanese may say something like 'Go down/up the stairs...' The Japanese word for 'stairway' is kaidan (階段).\n\nThe Japanese language has specific verbs for 'go up (the stairs)' and 'go down (the stairs)'. Look at the following:\n\na. Kaidan o noborimasu/agarimasu.    Go up the stairs\nb. Kaidan o orimasu.                  Go down the stairs\n\nAs mentioned in Lesson 9, Japanese verbs have different forms depending on how they are used in a sentence. Therefore you may hear different forms than noborimasu and orimasu. However, if you can pick up the key word kaidan and locate the staircase, then you can pretty well guess whether to go up or down. If there are two kaidan at a place where you have a choice of going up or going down, then ask directions there again."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

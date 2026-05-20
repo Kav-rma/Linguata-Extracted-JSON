@@ -1,0 +1,86 @@
+{
+  "title": "unit14_substitution_drill_c",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Write a Japanese sentence using the pattern '___ e ikitain desu ga, deguchi wa dotchi desu ka?' with 'Isetan'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Isetan e ikitain desu ga, deguchi wa dotchi desu ka?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Write a Japanese sentence using the pattern 'Isetan e ikitain desu ga, ___ desu ka?' with 'deguchi wa doko'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Isetan e ikitain desu ga, deguchi wa doko desu ka?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Write a Japanese sentence using the pattern '___ e ikitain desu ga, deguchi wa doko desu ka?' with 'Kokuritsu Gekijoo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Kokuritsu Gekijoo e ikitain desu ga, deguchi wa doko desu ka?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write a Japanese sentence using the pattern 'Kokuritsu Gekijoo e ikitain desu ga, ___ desu ka?' with 'dono deguchi'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Kokuritsu Gekijoo e ikitain desu ga, dono deguchi desu ka?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write a Japanese sentence using the pattern '___ e ikitain desu ga, dono deguchi desu ka?' with 'Kabukiza'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Kabukiza e ikitain desu ga, dono deguchi desu ka?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write a Japanese sentence using the pattern '___ e ikitain desu ga, deguchi wa dotchi desu ka?' with 'Mitsukoshi'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mitsukoshi e ikitain desu ga, deguchi wa dotchi desu ka?",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

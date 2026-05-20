@@ -1,0 +1,56 @@
+{
+  "title": "unit21_response_drill_b",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "何人様ですか。(3 persons) (Nan-nin-sama desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "三人です。 (San-nin desu.)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "何人様ですか。(1 person) (Nan-nin-sama desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "一人です。 (Hito-ri desu.)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "何人様ですか。(5 persons) (Nan-nin-sama desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "五人です。 (Go-nin desu.)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "何人様ですか。(2 persons) (Nan-nin-sama desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "二人です。 (Futa-ri desu.)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "何人様ですか。(6 persons) (Nan-nin-sama desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "六人です。 (Roku-nin desu.)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "何人様ですか。(4 persons) (Nan-nin-sama desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "四人です。 (Yo-nin desu.)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

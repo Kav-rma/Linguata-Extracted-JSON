@@ -1,0 +1,259 @@
+{
+  "title": "unit10_grammar_made",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does '...made' mean in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "from",
+          "is_correct": false
+        },
+        {
+          "answer": "as far as, until",
+          "is_correct": true
+        },
+        {
+          "answer": "near",
+          "is_correct": false
+        },
+        {
+          "answer": "between",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Soko made 10-pun gurai desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's about 10 minutes to there.",
+          "is_correct": true
+        },
+        {
+          "answer": "10 minutes have passed.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's near here.",
+          "is_correct": false
+        },
+        {
+          "answer": "It will be 10 o'clock.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where does 'made' appear relative to its noun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before the noun",
+          "is_correct": false
+        },
+        {
+          "answer": "After the noun (i.e., 'noun + made')",
+          "is_correct": true
+        },
+        {
+          "answer": "Inside the noun",
+          "is_correct": false
+        },
+        {
+          "answer": "Position doesn't matter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'eki made' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "from the station",
+          "is_correct": false
+        },
+        {
+          "answer": "to/as far as the station",
+          "is_correct": true
+        },
+        {
+          "answer": "near the station",
+          "is_correct": false
+        },
+        {
+          "answer": "at the station",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'tsugi no shingoo made' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "from the next traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "to/as far as the next traffic light",
+          "is_correct": true
+        },
+        {
+          "answer": "before the next traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "behind the next traffic light",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does '...kara' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "to",
+          "is_correct": false
+        },
+        {
+          "answer": "from",
+          "is_correct": true
+        },
+        {
+          "answer": "near",
+          "is_correct": false
+        },
+        {
+          "answer": "with",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When you combine 'kara' and 'made', what do they indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only the destination",
+          "is_correct": false
+        },
+        {
+          "answer": "The distance/path between two places (from X to Y)",
+          "is_correct": true
+        },
+        {
+          "answer": "Only the starting point",
+          "is_correct": false
+        },
+        {
+          "answer": "How long ago something happened",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Tokyo kara Osaka made' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "from Tokyo to Osaka",
+          "is_correct": true
+        },
+        {
+          "answer": "from Osaka to Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "near Tokyo and Osaka",
+          "is_correct": false
+        },
+        {
+          "answer": "between Tokyo and Osaka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'koko kara soko made' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "from here to there",
+          "is_correct": true
+        },
+        {
+          "answer": "from there to here",
+          "is_correct": false
+        },
+        {
+          "answer": "here and there",
+          "is_correct": false
+        },
+        {
+          "answer": "near here and there",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence correctly says 'It's about 10 minutes from Tokyo Station to Ginza'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tokyo-eki made Ginza kara 10-pun gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo-eki kara Ginza made 10-pun gurai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokyo-eki Ginza 10-pun gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kara Tokyo-eki made Ginza 10-pun gurai desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. ...made 'as far as...'\n\nYou may sometimes hear a Japanese use the word made 'as far as' when s/he mentions a destination, as in the following example:\n\nSoko made 10-pun gurai desu.    It's about 10 minutes to there.\n\nAgain, note the difference in English and Japanese word order, as in the following:\n\neki made                   to/as far as the station\ntsugi no shingoo made      to/as far as the next traffic light\n\nIf we use the words ...kara 'from' and ...made 'as far as...,' we can indicate the distance between two places, as in the following examples:\n\nTokyo kara Osaka made    from Tokyo to Osaka\nkoko kara soko made      from here to there"
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

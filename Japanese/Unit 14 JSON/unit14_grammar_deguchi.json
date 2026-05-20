@@ -1,0 +1,259 @@
+{
+  "title": "unit14_grammar_deguchi",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'deguchi' (出口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "exit",
+          "is_correct": true
+        },
+        {
+          "answer": "stairway",
+          "is_correct": false
+        },
+        {
+          "answer": "ticket window",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'iriguchi' (入口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "exit",
+          "is_correct": false
+        },
+        {
+          "answer": "entrance",
+          "is_correct": true
+        },
+        {
+          "answer": "platform",
+          "is_correct": false
+        },
+        {
+          "answer": "gate",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does '-guchi' (口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "an opening",
+          "is_correct": true
+        },
+        {
+          "answer": "a station",
+          "is_correct": false
+        },
+        {
+          "answer": "a line",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Are deguchi and iriguchi typically found together?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, they are always far apart",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, they come in pairs and are located side by side",
+          "is_correct": true
+        },
+        {
+          "answer": "Only at large stations",
+          "is_correct": false
+        },
+        {
+          "answer": "Only on JR lines",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'higashiguchi' (東口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "west exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "east exit/entrance",
+          "is_correct": true
+        },
+        {
+          "answer": "north exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "south exit/entrance",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'nishiguchi' (西口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "east exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "west exit/entrance",
+          "is_correct": true
+        },
+        {
+          "answer": "south exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "north exit/entrance",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'kitaguchi' (北口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "south exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "north exit/entrance",
+          "is_correct": true
+        },
+        {
+          "answer": "east exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "west exit/entrance",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'minamiguchi' (南口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "north exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "south exit/entrance",
+          "is_correct": true
+        },
+        {
+          "answer": "east exit/entrance",
+          "is_correct": false
+        },
+        {
+          "answer": "west exit/entrance",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What expression is used to ask which exit to take when going to a destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(Your destination) e ikitain desu ga, deguchi wa doko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "(Your destination) wa kaisatsuguchi desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "(Your destination) made deguchi desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Deguchi (your destination) ikitai?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why do you need to know which exit to take at larger stations?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because they charge extra for some exits",
+          "is_correct": false
+        },
+        {
+          "answer": "Because larger stations usually have more than one deguchi (exit)",
+          "is_correct": true
+        },
+        {
+          "answer": "Because some exits are closed",
+          "is_correct": false
+        },
+        {
+          "answer": "Because exits change daily",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. deguchi (出口) 'exit'\n\nLarger stations usually have more than one deguchi (出口) 'exit'. Therefore, you will have to know which exit to take to go to your destination. Deguchi (出口) 'exit' and iriguchi (入口) 'entrance' come in pairs and are located side by side. 入 in iriguchi (入口) and 出 in deguchi (出口) mean 'enter' and 'go out,' respectively; -guchi (口) means 'an opening.'\n\nThe following names are among the most common for station entrances/exits:\n\nhigashiguchi  (東口)   east exit/entrance\nnishiguchi    (西口)   west exit/entrance\nkitaguchi     (北口)   north exit/entrance\nminamiguchi   (南口)   south exit/entrance\n\nWhen you want to find the right exit, you can use the following expression:\n\n(Your destination) e ikitain desu ga, deguchi wa doko desu ka?\nI want to go to (your destination). Which exit should I use?"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

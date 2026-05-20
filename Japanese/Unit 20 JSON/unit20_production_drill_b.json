@@ -1,0 +1,42 @@
+{
+  "title": "unit20_production_drill_b",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Greet someone based on illustration 1 (a person sweating and fanning themselves — it's hot). Write an appropriate Japanese greeting.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Atsui desu ne. (暑いですね。) — It's hot, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Greet someone based on illustration 2 (cloudy sky with rain — nasty weather). Write an appropriate Japanese greeting.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Iya na otenki desu ne. (いやなお天気ですね。) — Nasty weather, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Greet someone based on illustration 3 (a person bundled up and shivering — it's cold). Write an appropriate Japanese greeting.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Samui desu ne. (寒いですね。) — It's cold, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Greet someone based on illustration 4 (bright sun and flowers blooming — beautiful weather). Write an appropriate Japanese greeting.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Ii otenki desu ne. (いいお天気ですね。) — It's nice weather, isn't it?", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": ["unit20_production_drill_b_1.png"]
+  }
+}

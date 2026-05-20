@@ -1,0 +1,259 @@
+{
+  "title": "unit19_grammar_different_way_of_giving_change",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How does a Japanese clerk typically hand you change after a large bill?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "All the different denominations in a lump, just saying 'Arigatoo gozaimasu'",
+          "is_correct": true
+        },
+        {
+          "answer": "Counting it out coin by coin in the American way",
+          "is_correct": false
+        },
+        {
+          "answer": "Without any change at all",
+          "is_correct": false
+        },
+        {
+          "answer": "By writing the amount on a receipt only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does this method differ from the American way?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The American clerk counts it out as s/he hands it to you; the Japanese clerk hands it in a lump",
+          "is_correct": true
+        },
+        {
+          "answer": "There is no difference",
+          "is_correct": false
+        },
+        {
+          "answer": "The Japanese clerk counts more slowly",
+          "is_correct": false
+        },
+        {
+          "answer": "The American clerk hands it in a lump",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What impression might the Japanese method give to those accustomed to the western way?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It might appear inconsiderate and arouse doubts about being shortchanged",
+          "is_correct": true
+        },
+        {
+          "answer": "It always seems faster and clearer",
+          "is_correct": false
+        },
+        {
+          "answer": "It seems overly formal",
+          "is_correct": false
+        },
+        {
+          "answer": "It seems rude to the clerk",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Do most Japanese customers check the amount before putting it away?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No — most of them hardly appear to check the amount",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes — they always count carefully",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — they recount it twice",
+          "is_correct": false
+        },
+        {
+          "answer": "No — they refuse to accept change",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is one reason given for why Japanese customers may not count their change?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They may trust the clerks or not want to seem to mistrust them, or it's unseemly to count money in public",
+          "is_correct": true
+        },
+        {
+          "answer": "They are not allowed to count it",
+          "is_correct": false
+        },
+        {
+          "answer": "They cannot do arithmetic",
+          "is_correct": false
+        },
+        {
+          "answer": "They never receive change",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "According to the lesson, what is the most likely reason Japanese customers don't count change?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The Japanese are good and fast at arithmetic",
+          "is_correct": true
+        },
+        {
+          "answer": "They don't care about money",
+          "is_correct": false
+        },
+        {
+          "answer": "Change is always exact in Japan",
+          "is_correct": false
+        },
+        {
+          "answer": "Clerks never make mistakes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does a Japanese person paying for a 1,150 yen purchase with a 10,000 yen note typically do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Has already calculated in his/her head the amount of change s/he should receive",
+          "is_correct": true
+        },
+        {
+          "answer": "Waits for the clerk to count it out",
+          "is_correct": false
+        },
+        {
+          "answer": "Asks the clerk to write it down",
+          "is_correct": false
+        },
+        {
+          "answer": "Refuses to pay with a large note",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When the change is given, how does the customer verify it?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One swift glance and some quick mental arithmetic",
+          "is_correct": true
+        },
+        {
+          "answer": "By counting each coin twice",
+          "is_correct": false
+        },
+        {
+          "answer": "By using a calculator",
+          "is_correct": false
+        },
+        {
+          "answer": "By asking the clerk to recount",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How does a Japanese person traveling in the US for the first time typically react to the American way of giving change?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Usually bewildered; thinks it is unnecessary trouble and excessive consideration",
+          "is_correct": true
+        },
+        {
+          "answer": "Finds it very efficient",
+          "is_correct": false
+        },
+        {
+          "answer": "Prefers it immediately",
+          "is_correct": false
+        },
+        {
+          "answer": "Does not notice any difference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What single word does the Japanese clerk often say while handing change in a lump?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Arigatoo gozaimasu ('thank you')",
+          "is_correct": true
+        },
+        {
+          "answer": "Irasshaimase ('welcome')",
+          "is_correct": false
+        },
+        {
+          "answer": "Sayonara ('goodbye')",
+          "is_correct": false
+        },
+        {
+          "answer": "Ikura ('how much')",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. A different way of giving change\n\nWhen you make a small purchase in a Japanese shop and pay for it with a large bill, you might get the impression that at least in one respect the Japanese are not very considerate. The clerk will not hand you the change in the American way, counting it out as s/he hands it to you. Instead, s/he will hand you all the different denominations in a lump, just saying Arigatoo gozaimasu 'thank you'.\n\nThis method of giving change might appear inconsiderate to those accustomed to the western way. It might even arouse doubts as to whether one has been shortchanged. But if you carefully observe the Japanese customers, you will note that most of them hardly appear to check the amount before putting it away.\n\nIt may be that some customers simply trust the clerks or at least don't want to give the impression that they mistrust them. It might also be that some feel that it's unseemly to count money in public. In most cases, however, it's just that the Japanese are good and fast at arithmetic.\n\nThe Japanese who pays for a 1,150 yen purchase with a 10,000 yen note has already calculated in his/her head the amount of change s/he should receive. When the change is given, one swift glance and some quick mental arithmetic tells the customer whether it is the correct amount.\n\nConversely, a Japanese person traveling in the United States for the first time is usually bewildered when the clerk gives change in the American way. S/he would think that it is a lot of unnecessary trouble and excessive consideration for the customer."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

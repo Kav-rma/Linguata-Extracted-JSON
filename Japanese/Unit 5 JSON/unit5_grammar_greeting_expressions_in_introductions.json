@@ -1,0 +1,259 @@
+{
+  "title": "unit5_grammar_greeting_expressions_in_introductions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Hajimemashite' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "How do you do? (lit., It's the first time [for me to meet you])",
+          "is_correct": true
+        },
+        {
+          "answer": "Please come in",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm sorry",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Doozo yoroshiku' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please come again",
+          "is_correct": false
+        },
+        {
+          "answer": "I ask your favor / good treatment",
+          "is_correct": true
+        },
+        {
+          "answer": "Have a nice day",
+          "is_correct": false
+        },
+        {
+          "answer": "Thank you very much",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the typical English equivalent of 'Doozo yoroshiku'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Excuse me",
+          "is_correct": false
+        },
+        {
+          "answer": "Pleased to meet you",
+          "is_correct": true
+        },
+        {
+          "answer": "Goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "Welcome",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When are these expressions typically used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When saying goodbye",
+          "is_correct": false
+        },
+        {
+          "answer": "In introductions",
+          "is_correct": true
+        },
+        {
+          "answer": "When making a phone call",
+          "is_correct": false
+        },
+        {
+          "answer": "When ordering food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Can 'Hajimemashite' and 'Doozo yoroshiku' be used just like their English equivalents?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No, they have completely different uses",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when greeting children",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which expression is closer in meaning to 'How do you do?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Doozo yoroshiku",
+          "is_correct": false
+        },
+        {
+          "answer": "Hajimemashite",
+          "is_correct": true
+        },
+        {
+          "answer": "Sumimasen",
+          "is_correct": false
+        },
+        {
+          "answer": "Arigatoo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which expression is closer to 'Pleased to meet you'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hajimemashite",
+          "is_correct": false
+        },
+        {
+          "answer": "Doozo yoroshiku",
+          "is_correct": true
+        },
+        {
+          "answer": "Sayonara",
+          "is_correct": false
+        },
+        {
+          "answer": "Konnichiwa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the literal meaning of 'Hajimemashite'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Goodbye for now",
+          "is_correct": false
+        },
+        {
+          "answer": "It's the first time",
+          "is_correct": true
+        },
+        {
+          "answer": "Thank you very much",
+          "is_correct": false
+        },
+        {
+          "answer": "Please wait",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In a typical Japanese introduction, what order are these expressions usually said?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Doozo yoroshiku first, then Hajimemashite",
+          "is_correct": false
+        },
+        {
+          "answer": "Hajimemashite first, then the name, then Doozo yoroshiku",
+          "is_correct": true
+        },
+        {
+          "answer": "Only Doozo yoroshiku is used",
+          "is_correct": false
+        },
+        {
+          "answer": "Only Hajimemashite is used",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the function of 'Doozo' in 'Doozo yoroshiku'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's a question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "It softens the request ('please / kindly')",
+          "is_correct": true
+        },
+        {
+          "answer": "It is a negation",
+          "is_correct": false
+        },
+        {
+          "answer": "It indicates the past tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Greeting expressions used in introductions\n\nHajimemashite.    How do you do? (lit., It's the first time [for me to meet you].)\nDoozo yoroshiku.  Pleased to meet you. (lit., I ask your favor [good treatment].)\n\nThese two expressions can be used just like the comparable English expressions."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

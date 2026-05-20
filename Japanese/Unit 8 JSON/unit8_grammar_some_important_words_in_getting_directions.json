@@ -1,0 +1,259 @@
+{
+  "title": "unit8_grammar_some_important_words_in_getting_directions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Do Japanese have a word that directly means 'block' (as in city block)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, the word is 'kado'",
+          "is_correct": false
+        },
+        {
+          "answer": "No, they frequently use other words like 'kado', 'shingoo', and 'koosaten' instead",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, 'shingoo' means block",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, 'choome' means block",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'kado' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "intersection",
+          "is_correct": false
+        },
+        {
+          "answer": "corner",
+          "is_correct": true
+        },
+        {
+          "answer": "traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "block",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'shingoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "corner",
+          "is_correct": false
+        },
+        {
+          "answer": "traffic light",
+          "is_correct": true
+        },
+        {
+          "answer": "intersection",
+          "is_correct": false
+        },
+        {
+          "answer": "station",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'koosaten' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "corner",
+          "is_correct": false
+        },
+        {
+          "answer": "traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "intersection",
+          "is_correct": true
+        },
+        {
+          "answer": "avenue",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would a Japanese person likely express 'Go two blocks'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Niko buroku itte",
+          "is_correct": false
+        },
+        {
+          "answer": "Something like 'Go as far as the second intersection'",
+          "is_correct": true
+        },
+        {
+          "answer": "Go shingoo wa",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi no kado",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which phrase means 'the next/first traffic light'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "tsugi/saisho no (shingoo)",
+          "is_correct": true
+        },
+        {
+          "answer": "futatsu-me no (shingoo)",
+          "is_correct": false
+        },
+        {
+          "answer": "mittsu-me no (shingoo)",
+          "is_correct": false
+        },
+        {
+          "answer": "ano (shingoo)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which phrase means 'the second (traffic light)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "saisho no (shingoo)",
+          "is_correct": false
+        },
+        {
+          "answer": "futatsu-me no (shingoo)",
+          "is_correct": true
+        },
+        {
+          "answer": "mittsu-me no (shingoo)",
+          "is_correct": false
+        },
+        {
+          "answer": "tsugi no (shingoo)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which phrase means 'the third (traffic light)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "futatsu-me no (shingoo)",
+          "is_correct": false
+        },
+        {
+          "answer": "mittsu-me no (shingoo)",
+          "is_correct": true
+        },
+        {
+          "answer": "tsugi no (shingoo)",
+          "is_correct": false
+        },
+        {
+          "answer": "saisho no (shingoo)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does '(eki) no soba' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "near (the station)",
+          "is_correct": true
+        },
+        {
+          "answer": "from (the station)",
+          "is_correct": false
+        },
+        {
+          "answer": "in front of (the station)",
+          "is_correct": false
+        },
+        {
+          "answer": "behind (the station)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does '(eki) kara' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "near (the station)",
+          "is_correct": false
+        },
+        {
+          "answer": "from (the station)",
+          "is_correct": true
+        },
+        {
+          "answer": "to (the station)",
+          "is_correct": false
+        },
+        {
+          "answer": "behind (the station)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Some important words in getting directions\n\nJapanese do not have a word for 'block,' so they frequently use the following words in giving directions:\n\nkado          corner\nshingoo       traffic light\nkoosaten      intersection\n\nFor example, when an American says 'Go two blocks,' a Japanese would say something like 'Go as far as the second intersection.' The following words are frequently used with the above three words:\n\ntsugi/saisho no (shingoo)    the next/first (traffic light)\nfutatsu-me no (shingoo)      the second (traffic light)\nmittsu-me no (shingoo)       the third (traffic light)\n\nThe following are some more place expressions introduced in this lesson:\n\n(eki) no soba    near (the station)\n(eki) kara       from (the station)"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

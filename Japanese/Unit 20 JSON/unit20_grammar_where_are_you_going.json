@@ -1,0 +1,139 @@
+{
+  "title": "unit20_grammar_where_are_you_going",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In Lesson 1, what did you learn about the English 'How are you?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It functions primarily as a greeting, not usually an inquiry about health", "is_correct": true},
+        {"answer": "It is only used by doctors", "is_correct": false},
+        {"answer": "It is never used as a greeting", "is_correct": false},
+        {"answer": "It requires a detailed answer", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the Japanese 'Ogenki desu ka?' function as?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Both a greeting and an inquiry about health", "is_correct": true},
+        {"answer": "Only an inquiry about the weather", "is_correct": false},
+        {"answer": "Only a farewell", "is_correct": false},
+        {"answer": "Only a question about location", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does '(Ima) odekake desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Are you going out (now)?", "is_correct": true},
+        {"answer": "Are you coming home (now)?", "is_correct": false},
+        {"answer": "How are you?", "is_correct": false},
+        {"answer": "Is it hot today?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Dokoka e odekake desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Are you going somewhere?", "is_correct": true},
+        {"answer": "Where do you live?", "is_correct": false},
+        {"answer": "Are you coming home?", "is_correct": false},
+        {"answer": "What time is it?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "If a person is not familiar with these expressions, how might the Japanese seem?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Very nosy", "is_correct": true},
+        {"answer": "Very rude", "is_correct": false},
+        {"answer": "Very quiet", "is_correct": false},
+        {"answer": "Very formal", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How should these expressions actually be understood?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "As routine expressions used as part of a greeting, not to be taken literally", "is_correct": true},
+        {"answer": "As serious requests for detailed information", "is_correct": false},
+        {"answer": "As commands", "is_correct": false},
+        {"answer": "As insults", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is a typical answer to 'Dokoka e odekake desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ee, chotto (soko made). 'Yes, just over there.'", "is_correct": true},
+        {"answer": "A detailed description of your destination", "is_correct": false},
+        {"answer": "Oyasuminasai.", "is_correct": false},
+        {"answer": "Tadaima.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does '(Ima) okaeri desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Are (you) coming home (now)?", "is_correct": true},
+        {"answer": "Are you going out now?", "is_correct": false},
+        {"answer": "Where are you going?", "is_correct": false},
+        {"answer": "How are you?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How can you simply answer the greeting 'Ima okaeri desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ee.", "is_correct": true},
+        {"answer": "Chotto soko made.", "is_correct": false},
+        {"answer": "Oyasuminasai.", "is_correct": false},
+        {"answer": "Itte mairimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why do you not need to give exact answers to these 'inquiries'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "They are used to acknowledge a human relationship, not to obtain information", "is_correct": true},
+        {"answer": "Because they are rude questions", "is_correct": false},
+        {"answer": "Because answering is forbidden", "is_correct": false},
+        {"answer": "Because they are always about the weather", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Where are you going?\n\nIn Lesson 1, you learned that 'How are you?' functions in English primarily as a greeting and that the expression is not usually used to make an inquiry about the listener's health. The comparable Japanese expression, Ogenki desu ka?, is used both as a greeting and as an inquiry about health.\n\nIn this lesson, you will learn another such formula. When you go out, your neighbor may say something like the following:\n\n(Ima) odekake desu ka?         Are you going out (now)?\nDokoka e odekake desu ka?      Are you going somewhere?\n\nIf a person is not familiar with the way these expressions are used, it might seem that the Japanese are very nosy. However, these are routine expressions used as part of a greeting and should not be taken literally. Just like English 'How are you?', they are used to acknowledge a human relationship. Since this is the case, you don't really have to give exact answers to the 'inquiry.' A typical answer is Ee, chotto (soko made) 'Yes, just over there.'\n\nSimilarly, when you come home, your neighbor may say:\n\n(Ima) okaeri desu ka?    Are (you) coming home (now)?\n\nYou can simply answer Ee to this greeting."
+    }
+  ],
+  "metadata": {
+    "page_start": 16,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

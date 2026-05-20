@@ -1,0 +1,259 @@
+{
+  "title": "unit11_grammar_useful_expressions_for_buying_ticket",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'kippu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ticket window",
+          "is_correct": false
+        },
+        {
+          "answer": "ticket",
+          "is_correct": true
+        },
+        {
+          "answer": "fare",
+          "is_correct": false
+        },
+        {
+          "answer": "vending machine",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'kippu uriba' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ticket counter",
+          "is_correct": false
+        },
+        {
+          "answer": "ticket selling place",
+          "is_correct": true
+        },
+        {
+          "answer": "ticket machine",
+          "is_correct": false
+        },
+        {
+          "answer": "ticket gate",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you ask 'Can I buy a ticket here?' / 'Are tickets sold here?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kippu wa koko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Kippu wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kippu uriba desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kippu koko ga arimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If you're at the wrong window, the clerk might say '...ban no madoguchi desu'. What does this mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's window #...",
+          "is_correct": true
+        },
+        {
+          "answer": "It's number ... time",
+          "is_correct": false
+        },
+        {
+          "answer": "It's open ...",
+          "is_correct": false
+        },
+        {
+          "answer": "It's closed at #...",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you ask 'Where is the ticket window?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kippu uriba wa doko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Kippu uriba wa koko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko wa kippu uriba desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kippu wa doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the simplest way to buy a ticket to the Ginza at the window?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ginza ni ikimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza.",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza ga arimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How is the number of tickets expressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "numeral + mai",
+          "is_correct": true
+        },
+        {
+          "answer": "mai + numeral",
+          "is_correct": false
+        },
+        {
+          "answer": "kippu + numeral",
+          "is_correct": false
+        },
+        {
+          "answer": "numeral + kippu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the word 'mai' refer to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Long thin objects",
+          "is_correct": false
+        },
+        {
+          "answer": "Thin flat objects",
+          "is_correct": true
+        },
+        {
+          "answer": "Round objects",
+          "is_correct": false
+        },
+        {
+          "answer": "Living things",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How do you say 'One ticket to the Ginza' at the window?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ginza, ichi-mai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza mai-ichi.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ichi Ginza mai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Mai-ichi Ginza desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Does 'mai' change form depending on the number?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it has different plural and singular forms",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it stays the same regardless of the number",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes for numbers larger than 10 only",
+          "is_correct": false
+        },
+        {
+          "answer": "It changes only for odd numbers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "b. When you want to find out where you can buy a ticket\n\nThe following are some useful words to know if you want to find out where you can buy a ticket:\n\nkippu          ticket\nkippu uriba    ticket window (lit., ticket selling place)\n\n(I) When you want to ask 'Can I buy a ticket here?' or 'Are tickets sold here?,' you can use the following expression:\n\nKippu wa koko desu ka?    (lit., Are tickets here?)\n\nThus, the expression Toranomon e ikitain desu ga, kippu wa koko desu ka? means 'I want to go to Toranomon; can I buy a ticket here?'\n\nIf you are at the wrong window, the clerk at the window will tell you the right window number. S/he will say something like the following:\n\n...ban no madoguchi desu.    (It's) window #...\n(See Lesson 12 for usage of -ban.)\n\n(II) When you want to find out where a ticket window is, you can use the following expression:\n\nKippu uriba wa doko desu ka?\n\nAs in (a) above, if you want to say 'I want to go to the Ginza; can you tell me where the ticket window is?,' you can say:\n\nGinza e ikitain desu ga, kippu uriba wa doko desu ka?\n\n2. Some useful expressions for buying a ticket\n\nThe Japanese expressions used in buying a ticket at a ticket window are very simple. When you want to buy a ticket to the Ginza, for example, you simply say:\n\nGinza.\n\nHowever, although not very likely, you may be asked by the clerk at the window how many tickets you want. In order to avoid being asked this kind of question, which you may find difficult to understand, it is a good idea to specify the number first. The number of tickets can be expressed in the following pattern:\n\nnumeral + mai\n\nThe word mai refers to thin flat objects. Words of this kind are sometimes called counters, for they are used when counting objects and persons. They indicate what kind of objects you are counting.\n\nWhen you want to say 'One ticket to the Ginza,' for example, you can say:\n\nGinza, ichi-mai.\n\nLikewise, when you want to say 'Two tickets to Toranomon,' you can say:\n\nToranomon, ni-mai.\n\nNote that in specifying the number of tickets, you simply use the appropriate number in Japanese and add mai, which stays the same, regardless of the number."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "title": "unit11_grammar_public_transport",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the JR-sen (formerly Kokuden)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A subway service",
+          "is_correct": false
+        },
+        {
+          "answer": "Japan Railway's electric train services in and through Tokyo",
+          "is_correct": true
+        },
+        {
+          "answer": "A bus service",
+          "is_correct": false
+        },
+        {
+          "answer": "A taxi service",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How can JR-sen lines be identified?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By the train numbers",
+          "is_correct": false
+        },
+        {
+          "answer": "By the distinctive color of the coaches",
+          "is_correct": true
+        },
+        {
+          "answer": "By their station names",
+          "is_correct": false
+        },
+        {
+          "answer": "By the size of the trains",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the Yamate-sen?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A subway line",
+          "is_correct": false
+        },
+        {
+          "answer": "A loop line that circles the heart of Tokyo",
+          "is_correct": true
+        },
+        {
+          "answer": "A bullet train line",
+          "is_correct": false
+        },
+        {
+          "answer": "A bus route",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What color are the Yamate-sen coaches?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Red",
+          "is_correct": false
+        },
+        {
+          "answer": "Green",
+          "is_correct": true
+        },
+        {
+          "answer": "Yellow",
+          "is_correct": false
+        },
+        {
+          "answer": "Blue",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How long does it take for the Yamate-sen to make one complete round?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "30 minutes",
+          "is_correct": false
+        },
+        {
+          "answer": "62 minutes",
+          "is_correct": true
+        },
+        {
+          "answer": "90 minutes",
+          "is_correct": false
+        },
+        {
+          "answer": "2 hours",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the Japanese word for 'subway'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "densha",
+          "is_correct": false
+        },
+        {
+          "answer": "chikatetsu",
+          "is_correct": true
+        },
+        {
+          "answer": "basu",
+          "is_correct": false
+        },
+        {
+          "answer": "tokkyuu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How many subway lines crisscross under Tokyo?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Five",
+          "is_correct": false
+        },
+        {
+          "answer": "Ten",
+          "is_correct": true
+        },
+        {
+          "answer": "Fifteen",
+          "is_correct": false
+        },
+        {
+          "answer": "Twenty",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When do subway lines start operating?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "4 a.m.",
+          "is_correct": false
+        },
+        {
+          "answer": "5 a.m.",
+          "is_correct": true
+        },
+        {
+          "answer": "6 a.m.",
+          "is_correct": false
+        },
+        {
+          "answer": "7 a.m.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is recommended when buying a subway ticket from a vending machine if you don't know the exact fare?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Buy the most expensive ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "Buy the minimum...en ticket and pay the difference when you get off",
+          "is_correct": true
+        },
+        {
+          "answer": "Skip buying a ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "Ask the conductor",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why are buses said to be difficult to use unless you know the language?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Buses are slow",
+          "is_correct": false
+        },
+        {
+          "answer": "The tremendous number of routes and the obscure identification of the stops can be confusing",
+          "is_correct": true
+        },
+        {
+          "answer": "Buses don't have signs",
+          "is_correct": false
+        },
+        {
+          "answer": "Buses are expensive",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "7. Public Transport\n\na. JR-sen (formerly Kokuden)\n\nJapan Railway (JR) operates many electric train services in and through Tokyo. They are known as JR-sen trains, whose lines can be identified by the distinctive color of the coaches.\n\nThe Yamate-sen loop line circles the heart of Tokyo, one service going clockwise and the other counterclockwise. It stops at all sub-centers such as Shinjuku, Shinbashi, Shibuya, Ueno, Ikebukuro, Shinagawa, etc. Tokyo station is also one of the stops. The Yamate-sen coaches are green in color. It takes 62 minutes to make one complete round, which gives visitors an excellent cross-section view of Tokyo.\n\nb. Subway\n\nThe Japanese call the subway chikatetsu. The ten subway lines which crisscross under Tokyo are the quickest and cheapest way of going from place to place. The coaches are clean, very well illuminated, and run at frequent intervals.\n\nAll lines start operating at 5 a.m. and most stop running just before midnight. The lines connect at various points with JR-sen trains.\n\nSome of the entrances to the subway are on the sidewalk while others are on the sides of buildings. Big stations have several entrances (exits) which could be more than 100 meters apart. Therefore, ask which exit you should take to reach your destination. At every platform, the name of the station is spelled out in English.\n\nMost stations have automatic ticket vendors. It is recommended that, whatever the destination, you buy the minimum ...en ticket. You can pay the difference when you get off. Tickets are punched as you go through the gate and must be turned in at the end of the ride, so hang on to them.\n\nc. Bus\n\nThe bus is the best way for getting to points between the subway and a JR-sen station. It gets you closest to where you want to go because the distances between stops are short. However, buses are very difficult to use unless you know the language or are familiar with the routes. The tremendous number of routes and the obscure identification of the stops can be most confusing. Ride buses only if you are able to obtain clear, specific, and accurate directions beforehand."
+    }
+  ],
+  "metadata": {
+    "page_start": 16,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

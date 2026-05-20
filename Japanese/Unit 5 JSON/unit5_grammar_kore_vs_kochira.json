@@ -1,0 +1,259 @@
+{
+  "title": "unit5_grammar_kore_vs_kochira",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Both 'kore' and 'kochira' are Japanese equivalents of which English word?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "where",
+          "is_correct": false
+        },
+        {
+          "answer": "this",
+          "is_correct": true
+        },
+        {
+          "answer": "that over there",
+          "is_correct": false
+        },
+        {
+          "answer": "what",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When introducing an in-group member (e.g., family or company member), which word is used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kochira",
+          "is_correct": false
+        },
+        {
+          "answer": "kore",
+          "is_correct": true
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "sore",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When introducing a person who is NOT a member of the speaker's group, which word is used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": false
+        },
+        {
+          "answer": "kochira",
+          "is_correct": true
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which expression is more polite when introducing people?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": false
+        },
+        {
+          "answer": "kochira",
+          "is_correct": true
+        },
+        {
+          "answer": "They are equally polite",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither is polite",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "If introducing Mr. Tanaka (who is not in your group), which sentence is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kore wa Tanaka-san desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kochira wa Tanaka-san desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Are wa Tanaka-san desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko wa Tanaka-san desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When you refer to yourself or in-group members, should you use the term '-san' after the name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "No, don't use '-san' after your own or in-group members' names",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with first names",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with last names",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What distinction does Japanese mark in word choice that English doesn't strongly mark?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Numerical distinction",
+          "is_correct": false
+        },
+        {
+          "answer": "In-group vs. out-group distinction",
+          "is_correct": true
+        },
+        {
+          "answer": "Time of day",
+          "is_correct": false
+        },
+        {
+          "answer": "Color preference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why would you use 'kochira' instead of 'kore' for an out-group member?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because Japanese tend to use politer expressions for out-group members",
+          "is_correct": true
+        },
+        {
+          "answer": "Because 'kore' is grammatically incorrect for people",
+          "is_correct": false
+        },
+        {
+          "answer": "Because 'kochira' is only used in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Because 'kore' is rude in any context",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Both 'kore' and 'kochira' refer to people or things that are...?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Far from the speaker",
+          "is_correct": false
+        },
+        {
+          "answer": "Near the speaker",
+          "is_correct": true
+        },
+        {
+          "answer": "Near the listener but not the speaker",
+          "is_correct": false
+        },
+        {
+          "answer": "Out of sight",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "When introducing your own secretary (in-group), which is appropriate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kochira wa watakushi no hisho desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kore wa hisho no [name] desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sore wa hisho desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Are wa hisho desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Kore vs. kochira\n\nKore and kochira are Japanese equivalents of English 'this.' They often refer to a person (or thing in the case of kore, cf. Lesson 3) that is near the speaker. The two words are, however, used differently in introducing people. Kore is used when introducing a person who is an in-group member (e.g., his family, his company), while kochira is used when introducing a person who is not a member of the speaker's group. Many times, the distinction between in-groupness and out-groupness becomes a determining factor in the use of words which have basically the same meaning, as in kore and kochira. As a rule, Japanese people use politer expressions when they deal with out-group members than when they deal with in-group members. In addressing out-group members, they may refer to in-group members as they would to themselves. In this regard, we can say kochira is a politer expression than kore in introducing people, and kore is used only to introduce an in-group member. Thus, when you introduce an out-group member, for example a Mr. Tanaka, you should say Kochira wa Tanaka-san desu 'This is Mr. Tanaka.'\n\nThe in-group/out-group distinction is also reflected in the use of the terms of address you studied in Lesson 1. When you refer to yourself or in-group members, don't use the term -san after your name."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

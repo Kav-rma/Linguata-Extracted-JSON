@@ -1,0 +1,259 @@
+{
+  "title": "unit9_grammar_verbs_frequently_used_in_directions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What are the two most frequently used verbs in giving directions in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'Go' (ikimasu) and 'turn' (magarimasu)",
+          "is_correct": true
+        },
+        {
+          "answer": "'Eat' and 'drink'",
+          "is_correct": false
+        },
+        {
+          "answer": "'See' and 'hear'",
+          "is_correct": false
+        },
+        {
+          "answer": "'Read' and 'write'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which verb forms are used at the end of a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "itte/magatte",
+          "is_correct": false
+        },
+        {
+          "answer": "ikimasu/magarimasu",
+          "is_correct": true
+        },
+        {
+          "answer": "itta tokoro/magatta tokoro",
+          "is_correct": false
+        },
+        {
+          "answer": "ikitai/magaritai",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which verb forms are used when you mention other actions (e.g., 'go and turn')?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ikimasu/magarimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "itte/magatte",
+          "is_correct": true
+        },
+        {
+          "answer": "itta tokoro/magatta tokoro",
+          "is_correct": false
+        },
+        {
+          "answer": "ikanai/magaranai",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What do 'itta tokoro' and 'magatta tokoro' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'going' and 'turning' (present continuous)",
+          "is_correct": false
+        },
+        {
+          "answer": "'the place you are to go' and 'the place to make a turn'",
+          "is_correct": true
+        },
+        {
+          "answer": "'not yet going' and 'not yet turning'",
+          "is_correct": false
+        },
+        {
+          "answer": "'must go' and 'must turn'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the word 'tokoro' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "time",
+          "is_correct": false
+        },
+        {
+          "answer": "place",
+          "is_correct": true
+        },
+        {
+          "answer": "person",
+          "is_correct": false
+        },
+        {
+          "answer": "thing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Kono michi o massugu ikimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go straight (down) this street.",
+          "is_correct": true
+        },
+        {
+          "answer": "Stop here on this street.",
+          "is_correct": false
+        },
+        {
+          "answer": "Turn left on this street.",
+          "is_correct": false
+        },
+        {
+          "answer": "Is this street straight?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'Tsugi no shingoo o migi ni magarimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Turn to the right at the next traffic light.",
+          "is_correct": true
+        },
+        {
+          "answer": "Stop at the next traffic light.",
+          "is_correct": false
+        },
+        {
+          "answer": "Go straight past the next traffic light.",
+          "is_correct": false
+        },
+        {
+          "answer": "Turn left at the next traffic light.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Where do key words like 'straight' and 'right' appear in the Japanese sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "After the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "Before the verb",
+          "is_correct": true
+        },
+        {
+          "answer": "Only at the beginning of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "At the end of the sentence",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "At this point in the lesson, what level of mastery is expected of these verb forms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Full production mastery",
+          "is_correct": false
+        },
+        {
+          "answer": "Recognition only — you should be able to guess meaning from context",
+          "is_correct": true
+        },
+        {
+          "answer": "Spelling only",
+          "is_correct": false
+        },
+        {
+          "answer": "Translation into English only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is 'itte magarimasu' literally?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "go and turn",
+          "is_correct": true
+        },
+        {
+          "answer": "stop and start",
+          "is_correct": false
+        },
+        {
+          "answer": "turn and go",
+          "is_correct": false
+        },
+        {
+          "answer": "go back",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Verbs frequently used in directions\n\n'Go' and 'turn' are probably the two most frequently used verbs in giving directions. The Japanese words for these two verbs have different forms depending on their position in a sentence or how they occur with other words.\n\nThe following is a brief summary of some of these forms:\n\nikimasu/magarimasu          used at the end of a sentence\nitte/magatte                used when you mention other actions (e.g., itte magarimasu — go and turn)\nitta tokoro/magatta tokoro  (tokoro means 'place'. The whole phrases mean 'the place you are to go' and 'the place to make a turn,' respectively.)\n\nAt this point it is not necessary for you to be able to produce these forms, but you should be able to guess the meaning of a sentence that contains either word if you can pick up such key words as 'straight,' 'right,' etc. It should be noted, however, that unlike English, in Japanese these key words occur before the verbs, as in the following examples:\n\nKono michi o massugu ikimasu.\nGo straight (down) this street.\n\nTsugi no shingoo o migi ni magarimasu.\nTurn to the right at the next traffic light."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

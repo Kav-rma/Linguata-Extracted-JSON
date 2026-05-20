@@ -1,0 +1,259 @@
+{
+  "title": "unit12_grammar_yokohama_iki",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the suffix '-iki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(coming) from...",
+          "is_correct": false
+        },
+        {
+          "answer": "(train) bound for...",
+          "is_correct": true
+        },
+        {
+          "answer": "(train) stopping at...",
+          "is_correct": false
+        },
+        {
+          "answer": "(train) leaving from...",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Yokohama-iki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "trains from Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "(trains) bound for Yokohama",
+          "is_correct": true
+        },
+        {
+          "answer": "trains stopping in Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "trains arriving at Yokohama",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When can you use the '-iki' expression?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only when buying a ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "When finding out if a train is bound for a certain place or finding out the track for a certain destination",
+          "is_correct": true
+        },
+        {
+          "answer": "Only when speaking to children",
+          "is_correct": false
+        },
+        {
+          "answer": "Only for express trains",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Kono densha wa Yokohama-iki desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Is this train bound for Yokohama?",
+          "is_correct": true
+        },
+        {
+          "answer": "Does this train stop at Yokohama?",
+          "is_correct": false
+        },
+        {
+          "answer": "How long until Yokohama?",
+          "is_correct": false
+        },
+        {
+          "answer": "Is this train from Yokohama?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Yokohama-iki wa nan-bansen desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How long is the trip to Yokohama?",
+          "is_correct": false
+        },
+        {
+          "answer": "What track is the Yokohama train?",
+          "is_correct": true
+        },
+        {
+          "answer": "When does the Yokohama train leave?",
+          "is_correct": false
+        },
+        {
+          "answer": "Is this the Yokohama train?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How would you say 'train(s) bound for Tokyo'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tokyo-iki",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokyo-kara",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo-yori",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo-sen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How would you say 'train(s) bound for Osaka'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Osaka-kara",
+          "is_correct": false
+        },
+        {
+          "answer": "Osaka-iki",
+          "is_correct": true
+        },
+        {
+          "answer": "Osaka-sen",
+          "is_correct": false
+        },
+        {
+          "answer": "Osaka-han",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Is '-iki' added directly to the destination name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, e.g., Yokohama-iki, Tokyo-iki",
+          "is_correct": true
+        },
+        {
+          "answer": "No, you need to add 'no' between them",
+          "is_correct": false
+        },
+        {
+          "answer": "No, only before particles",
+          "is_correct": false
+        },
+        {
+          "answer": "No, only with verbs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If someone says 'Yokosuka-iki wa atchi desu', what does it mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The train bound for Yokosuka is that way.",
+          "is_correct": true
+        },
+        {
+          "answer": "The train from Yokosuka has arrived.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yokosuka is over there.",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm going to Yokosuka.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence asks 'Is this the Sakuragicho-bound train?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kore wa Sakuragicho-iki desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Sakuragicho kara densha desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Sakuragicho ni ikimasu ka koko?",
+          "is_correct": false
+        },
+        {
+          "answer": "Densha wa Sakuragicho iku?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. (Yokohama)-iki '(train) bound for (Yokohama)'\n\nWhen you refer to a train bound for a certain station--Yokohama, for example, you can use the following expression:\n\nYokohama-iki    (trains) bound for Yokohama\n\nYou can use this expression when you want to find out if a train is bound for the place you have in mind or when you want to find out the track from which the train bound for a certain place leaves, as in the following examples:\n\na. Kono densha wa Yokohama-iki desu ka?\n   Is this train bound for Yokohama?\n\nb. Yokohama-iki wa nan-bansen desu ka?\n   What track is the Yokohama train?"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

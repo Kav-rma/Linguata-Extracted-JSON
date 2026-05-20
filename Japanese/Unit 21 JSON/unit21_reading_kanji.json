@@ -1,0 +1,56 @@
+{
+  "title": "unit21_reading_kanji",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "食堂 (shokudoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "dining hall, dining room", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "食券 (shokken)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "meal ticket", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "百 (hyaku)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "hundred", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "千 (sen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "thousand", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "万 (man)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "ten thousand", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "円 (-en)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "yen", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

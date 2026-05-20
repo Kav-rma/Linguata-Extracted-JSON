@@ -1,0 +1,105 @@
+{
+  "title": "unit21_person_counter_a",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "一人 (hito-ri)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "1 person", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "二人 (futa-ri)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "2 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "三人 (san-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "3 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "四人 (yo-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "4 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "五人 (go-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "5 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "六人 (roku-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "6 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "七人 (shichi-nin / nana-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "7 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "八人 (hachi-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "8 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "九人 (ku-nin / kyuu-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "9 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "十人 (juu-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "10 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "十一人 (juu ichi-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "11 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "十二人 (juu ni-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "12 persons", "is_correct": true}]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "十五人 (juu go-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "15 persons", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 6,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

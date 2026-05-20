@@ -1,0 +1,259 @@
+{
+  "title": "unit10_grammar_tooi",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'tooi' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "near",
+          "is_correct": false
+        },
+        {
+          "answer": "far",
+          "is_correct": true
+        },
+        {
+          "answer": "short",
+          "is_correct": false
+        },
+        {
+          "answer": "long",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When would you use 'Tooi desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When asking whether a place is far or near",
+          "is_correct": true
+        },
+        {
+          "answer": "When asking the weather",
+          "is_correct": false
+        },
+        {
+          "answer": "When ordering food",
+          "is_correct": false
+        },
+        {
+          "answer": "When greeting someone",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Tooku arimasen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's far.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's not far.",
+          "is_correct": true
+        },
+        {
+          "answer": "It's nearby.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's not here.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why is 'Tooku arimasen' an important expression to recognize?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's a common greeting",
+          "is_correct": false
+        },
+        {
+          "answer": "It's used to answer the question 'Tooi desu ka?'",
+          "is_correct": true
+        },
+        {
+          "answer": "It's used to ask the time",
+          "is_correct": false
+        },
+        {
+          "answer": "It's used for ordering food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Besides 'hai', 'ee', and 'iie', what other expression do you need to understand the answer to 'Tooi desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tooku arimasen.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo arigatoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How would you ask 'Is Tokyo Station far?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tokyo-eki wa tooi desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokyo-eki tooi nan desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo-eki no tooi desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tooi Tokyo-eki desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which word in the expression 'Tooku arimasen' marks the negative form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tooku",
+          "is_correct": false
+        },
+        {
+          "answer": "arimasen",
+          "is_correct": true
+        },
+        {
+          "answer": "Both equally",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither — it's not negative",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How does 'tooku' relate to 'tooi'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They are unrelated words",
+          "is_correct": false
+        },
+        {
+          "answer": "'tooku' is a form of 'tooi' used in the negative",
+          "is_correct": true
+        },
+        {
+          "answer": "'tooku' is the past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "'tooku' is the question form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "A friend asks 'Tooi desu ka?' about a destination. You want to say 'It's not far'. What do you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tooi desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tooku arimasen.",
+          "is_correct": true
+        },
+        {
+          "answer": "Tooi ja arimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tooku desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence correctly asks about distance?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Eki wa tooi desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Eki ka tooi desu wa?",
+          "is_correct": false
+        },
+        {
+          "answer": "Wa eki tooi desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tooi desu eki wa ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. tooi 'far'\n\nYou can use the word tooi 'far', when you want to find out if the place to which you are going is far or near, as in the following example:\n\nTooi desu ka?    Is it far?\n\nTo understand the answer to this question, you will need to be able to pick up the following expression in addition to words like hai, ee, and iie.\n\nTooku arimasen.    (It's) not far."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

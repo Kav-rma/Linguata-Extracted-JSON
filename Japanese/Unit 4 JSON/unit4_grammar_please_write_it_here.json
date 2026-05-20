@@ -1,0 +1,259 @@
+{
+  "title": "unit4_grammar_please_write_it_here",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which expression means 'Draw me a map, please'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Chizu wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Chizu o kaite kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Chizu onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Chizu ga arimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'kudasai' mean at the end of a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "thank you",
+          "is_correct": false
+        },
+        {
+          "answer": "please (comparable to English 'please')",
+          "is_correct": true
+        },
+        {
+          "answer": "where",
+          "is_correct": false
+        },
+        {
+          "answer": "no",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'kaite kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "please come",
+          "is_correct": false
+        },
+        {
+          "answer": "please write down / please draw",
+          "is_correct": true
+        },
+        {
+          "answer": "please wait",
+          "is_correct": false
+        },
+        {
+          "answer": "please listen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How would you say 'Please draw a map here'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Koko ni chizu o kaite kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Chizu wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko ni chizu onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Chizu ga arimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When is 'onegai shimasu' used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When you place an order at a restaurant or order merchandise at a store",
+          "is_correct": true
+        },
+        {
+          "answer": "When you ask somebody to do an action for you",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when greeting",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when apologizing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When is '... kudasai' used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When ordering food",
+          "is_correct": false
+        },
+        {
+          "answer": "When asking somebody to do something for you",
+          "is_correct": true
+        },
+        {
+          "answer": "Only when greeting",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when paying",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What follows 'onegai shimasu' in a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A word indicating action",
+          "is_correct": false
+        },
+        {
+          "answer": "It comes after some object (e.g., 'are', 'sukiyaki')",
+          "is_correct": true
+        },
+        {
+          "answer": "A negation",
+          "is_correct": false
+        },
+        {
+          "answer": "A question word",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What follows 'kudasai' in a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is preceded by an action word (e.g., 'kaite' meaning 'write/draw')",
+          "is_correct": true
+        },
+        {
+          "answer": "An object",
+          "is_correct": false
+        },
+        {
+          "answer": "A negation",
+          "is_correct": false
+        },
+        {
+          "answer": "A question word",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Sukiyaki onegai shimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is sukiyaki?",
+          "is_correct": false
+        },
+        {
+          "answer": "Sukiyaki, please.",
+          "is_correct": true
+        },
+        {
+          "answer": "Is this sukiyaki?",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't like sukiyaki.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'Koko ni kaite kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is this?",
+          "is_correct": false
+        },
+        {
+          "answer": "Write (it) here, please.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sit here, please.",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait here, please.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. How to say 'Please write it here'\n\nIn getting directions to a place, you may want to ask a Japanese person to draw you a map. You can use the following expression for this purpose:\n\nChizu o kaite kudasai.    Draw me a map, please.\n\nThe word kudasai at the end of the above sentence is comparable to 'please' in English, and is used when you ask a person to do something for you. The phrase kaite kudasai means 'please write down' or 'please draw.' Thus, when you want to say something like 'Please draw a map here,' you can say:\n\nKoko ni chizu o kaite kudasai.    Please draw a map here.\n\nYou may wonder what the difference is between ... onegai shimasu, which you learned in Lesson 3, and ... kudasai, because both can mean 'please' in English. Onegai shimasu is used when you place an order at a restaurant, order some merchandise at a store, etc., while ... kudasai is used when you ask somebody to do something for you.\n\nCompare the expressions in 1 and 2 below.\n\n1. Are onegai shimasu.            That one, please.\n   Sukiyaki onegai shimasu.       Sukiyaki, please.\n\n2. Chizu o kaite kudasai.         Draw (me) a map, please.\n   Koko ni kaite kudasai.         Write (it) here, please.\n\nAs the above examples indicate, onegai shimasu is used after some objects (e.g., are and sukiyaki in the above sentences), while kudasai is used after a word that indicates some action (e.g., kaite 'write/draw' in the above sentences)."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

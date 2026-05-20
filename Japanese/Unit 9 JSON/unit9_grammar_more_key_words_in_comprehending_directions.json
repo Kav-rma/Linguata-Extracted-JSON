@@ -1,0 +1,259 @@
+{
+  "title": "unit9_grammar_more_key_words_in_comprehending_directions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'massugu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "left",
+          "is_correct": false
+        },
+        {
+          "answer": "straight",
+          "is_correct": true
+        },
+        {
+          "answer": "beyond",
+          "is_correct": false
+        },
+        {
+          "answer": "near",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'michi' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "street",
+          "is_correct": true
+        },
+        {
+          "answer": "intersection",
+          "is_correct": false
+        },
+        {
+          "answer": "block",
+          "is_correct": false
+        },
+        {
+          "answer": "corner",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does '...no hoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "behind...",
+          "is_correct": false
+        },
+        {
+          "answer": "toward...",
+          "is_correct": true
+        },
+        {
+          "answer": "across from...",
+          "is_correct": false
+        },
+        {
+          "answer": "in front of...",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does '...no saki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "near...",
+          "is_correct": false
+        },
+        {
+          "answer": "beyond...",
+          "is_correct": true
+        },
+        {
+          "answer": "next to...",
+          "is_correct": false
+        },
+        {
+          "answer": "between...",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'tsukiatari' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the beginning of a street",
+          "is_correct": false
+        },
+        {
+          "answer": "end of a street, dead end, 'T' intersection",
+          "is_correct": true
+        },
+        {
+          "answer": "an open square",
+          "is_correct": false
+        },
+        {
+          "answer": "a bridge",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Translate the phrase 'massugu itte' into English.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "going straight",
+          "is_correct": true
+        },
+        {
+          "answer": "turning right",
+          "is_correct": false
+        },
+        {
+          "answer": "stopping here",
+          "is_correct": false
+        },
+        {
+          "answer": "going back",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'kono michi' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "this street",
+          "is_correct": true
+        },
+        {
+          "answer": "that street",
+          "is_correct": false
+        },
+        {
+          "answer": "every street",
+          "is_correct": false
+        },
+        {
+          "answer": "a wide street",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'migi no hoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "behind the right",
+          "is_correct": false
+        },
+        {
+          "answer": "to(ward) the right",
+          "is_correct": true
+        },
+        {
+          "answer": "near the right",
+          "is_correct": false
+        },
+        {
+          "answer": "left-hand side",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'koosaten no saki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "before the intersection",
+          "is_correct": false
+        },
+        {
+          "answer": "beyond the intersection",
+          "is_correct": true
+        },
+        {
+          "answer": "at the intersection",
+          "is_correct": false
+        },
+        {
+          "answer": "outside the intersection",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'Kono michi no tsukiatari desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's the beginning of this street.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's at the end of this street.",
+          "is_correct": true
+        },
+        {
+          "answer": "Cross this street here.",
+          "is_correct": false
+        },
+        {
+          "answer": "This street has no name.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. More key words in comprehending directions\n\nThe following words are useful for comprehending directions:\n\nmassugu       straight                  e.g., massugu itte           going straight\nmichi         street                    e.g., kono michi             this street\n...no hoo     toward...                 e.g., migi no hoo            to(ward) the right\n...no saki    beyond...                 e.g., koosaten no saki       beyond the intersection\ntsukiatari    end (of a street)         e.g., Kono michi no tsukiatari desu.\n                                              It's at the end of this street."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

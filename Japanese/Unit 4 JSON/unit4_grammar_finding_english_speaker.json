@@ -1,0 +1,259 @@
+{
+  "title": "unit4_grammar_finding_english_speaker",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which expression means 'Isn't there a person who understands English?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Eego wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Eego ga wakaru hito wa imasen ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Eego ga arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Eego onegai shimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the dictionary form of 'wakarimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wakarimashita",
+          "is_correct": false
+        },
+        {
+          "answer": "wakaru",
+          "is_correct": true
+        },
+        {
+          "answer": "wakatte",
+          "is_correct": false
+        },
+        {
+          "answer": "wakaru-su",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where is 'wakarimasu' typically used in a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "At the end of the sentence (in polite speech)",
+          "is_correct": true
+        },
+        {
+          "answer": "In the middle",
+          "is_correct": false
+        },
+        {
+          "answer": "After 'wa'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Where is 'wakaru' typically used in a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the end of the sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "In the middle of a sentence",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in informal speech",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the word 'hito' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "place",
+          "is_correct": false
+        },
+        {
+          "answer": "person",
+          "is_correct": true
+        },
+        {
+          "answer": "thing",
+          "is_correct": false
+        },
+        {
+          "answer": "time",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Eego ga wakaru hito' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "an English book",
+          "is_correct": false
+        },
+        {
+          "answer": "a person who understands English",
+          "is_correct": true
+        },
+        {
+          "answer": "an English-speaking country",
+          "is_correct": false
+        },
+        {
+          "answer": "the English language",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is 'imasen' the negative form of?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "arimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "imasu",
+          "is_correct": true
+        },
+        {
+          "answer": "desu",
+          "is_correct": false
+        },
+        {
+          "answer": "kimasu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why is 'imasen' used instead of 'arimasen' in this expression?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because it's polite",
+          "is_correct": false
+        },
+        {
+          "answer": "Because we're talking about a person, not an object",
+          "is_correct": true
+        },
+        {
+          "answer": "Because of the particle 'ga'",
+          "is_correct": false
+        },
+        {
+          "answer": "Because of the word 'Eego'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When is this question useful?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When buying English textbooks",
+          "is_correct": false
+        },
+        {
+          "answer": "When you need help and want to find someone who can speak English",
+          "is_correct": true
+        },
+        {
+          "answer": "When taking a test",
+          "is_correct": false
+        },
+        {
+          "answer": "When ordering food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the word 'wakaru' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "to speak",
+          "is_correct": false
+        },
+        {
+          "answer": "understand",
+          "is_correct": true
+        },
+        {
+          "answer": "to write",
+          "is_correct": false
+        },
+        {
+          "answer": "to find",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. How to find a person who understands English\n\nA very good way to get help is to find a person who understands English. You can use the following expression for this purpose:\n\nEego ga wakaru hito wa imasen ka?    Isn't there a person who understands English?\n\nThe word wakaru is a form of the verb wakarimasu, 'understand.'\nWhile wakarimasu is used at the end of a sentence (in polite speech), wakaru is used in the middle of a sentence, as in the above example. The word hito means 'person,' and the phrase Eego ga wakaru hito means 'a person who understands English.' The word imasen is the negative form of imasu."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

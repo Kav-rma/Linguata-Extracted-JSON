@@ -1,0 +1,139 @@
+{
+  "title": "unit20_grammar_weather_terminology_and_greetings",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "After exchanging greetings like Ohayoo gozaimasu or Konnichiwa, what do Japanese often mention?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Something about the weather", "is_correct": true},
+        {"answer": "Their health problems", "is_correct": false},
+        {"answer": "Their work schedule", "is_correct": false},
+        {"answer": "The price of food", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'atsui' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "hot", "is_correct": true},
+        {"answer": "cold", "is_correct": false},
+        {"answer": "warm", "is_correct": false},
+        {"answer": "cool", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'samui' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "hot", "is_correct": false},
+        {"answer": "cold", "is_correct": true},
+        {"answer": "warm", "is_correct": false},
+        {"answer": "nice", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'ii (o)tenki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "good weather", "is_correct": true},
+        {"answer": "awful weather", "is_correct": false},
+        {"answer": "hot weather", "is_correct": false},
+        {"answer": "cold weather", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'iya na (o)tenki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "good weather", "is_correct": false},
+        {"answer": "awful weather", "is_correct": true},
+        {"answer": "warm weather", "is_correct": false},
+        {"answer": "cool weather", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What pattern is used with these weather words, e.g., 'Today is (hot)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kyoo wa (atsui) desu.", "is_correct": true},
+        {"answer": "Atsui wa kyoo desu.", "is_correct": false},
+        {"answer": "Kyoo no atsui desu.", "is_correct": false},
+        {"answer": "Desu kyoo atsui.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When used as greetings, what form do Japanese weather expressions typically take?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "A request for confirmation, as in English 'It's hot, isn't it?'", "is_correct": true},
+        {"answer": "A command", "is_correct": false},
+        {"answer": "A question expecting a long answer", "is_correct": false},
+        {"answer": "A negative statement", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you say 'It's hot, isn't it?' as a greeting in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Atsui desu ne.", "is_correct": true},
+        {"answer": "Atsui desu ka?", "is_correct": false},
+        {"answer": "Atsuku arimasen.", "is_correct": false},
+        {"answer": "Atsui deshita.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Japanese responses to this kind of greeting are usually in what manner?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "In the affirmative (you agree)", "is_correct": true},
+        {"answer": "In the negative (you disagree)", "is_correct": false},
+        {"answer": "With a question", "is_correct": false},
+        {"answer": "With silence", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which of these is a typical Japanese response meaning 'That's true, isn't it?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Hontoo desu ne.", "is_correct": true},
+        {"answer": "Iya na otenki desu ne.", "is_correct": false},
+        {"answer": "Atsuku arimasen.", "is_correct": false},
+        {"answer": "Oyasuminasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Weather terminology and greetings\n\nAfter exchanging greetings like Ohayoo gozaimasu 'Good morning' or Konnichiwa 'Good afternoon,' Japanese often mention something about the weather. The weather expressions used in such situations should be taken as a kind of greeting just as in English. However, you may find that the Japanese use these expressions more frequently than Americans. The following are some weather words frequently used in greetings:\n\natsui            hot\nsamui            cold\nii (o)tenki      good weather    ([o]tenki = weather)\niya na (o)tenki  awful weather\n\nAll these words can be used in the following pattern:\n\nKyoo wa (atsui) desu.    Today is (hot).\n\nWhen Japanese weather expressions are used as greetings, they typically take the form of a request for confirmation, as in English:\n\nEnglish: It's hot, isn't it?\nJapanese: Atsui desu ne.\n\nAgain, as in English, Japanese responses to this kind of greeting are usually in the affirmative (i.e., you say that you agree).\n\nThe following are some typical Japanese responses:\n\na. Simple repetition\n   A: Atsui desu ne.\n   B: Atsui desu ne.\n\nb. Soo desu ne.    That is so, isn't it?\n   A: Samui desu ne.    It's cold, isn't it?\n   B: Soo desu ne.       Yes, isn't it?\n\nc. Hontoo desu ne.    That's true, isn't it?\n   A: Ii otenki desu ne.    It's a fine day, isn't it?\n   B: Hontoo desu ne.       It certainly is."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

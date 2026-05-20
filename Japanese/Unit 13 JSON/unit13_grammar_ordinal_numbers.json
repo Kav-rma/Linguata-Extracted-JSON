@@ -1,0 +1,259 @@
+{
+  "title": "unit13_grammar_ordinal_numbers",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In which lesson were expressions like 'futatsu-me no shingoo' and 'mittsu-me no kado' introduced?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 5",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 8",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 10",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 13",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'futatsu-me' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the first",
+          "is_correct": false
+        },
+        {
+          "answer": "the second",
+          "is_correct": true
+        },
+        {
+          "answer": "the third",
+          "is_correct": false
+        },
+        {
+          "answer": "two of them",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'mittsu-me' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "three of them",
+          "is_correct": false
+        },
+        {
+          "answer": "the second",
+          "is_correct": false
+        },
+        {
+          "answer": "the third",
+          "is_correct": true
+        },
+        {
+          "answer": "the fourth",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Can ordinal expressions like 'futatsu-me' and 'mittsu-me' be used for the order of stations on a train line?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, they're only for corners and traffic lights",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, they can be used to talk about the order of stations on a train line",
+          "is_correct": true
+        },
+        {
+          "answer": "Only for buses",
+          "is_correct": false
+        },
+        {
+          "answer": "Only for subway stations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Ginza wa futatsu-me (no eki) desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ginza has two stations.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza is the second station.",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza is the next station.",
+          "is_correct": false
+        },
+        {
+          "answer": "There are two Ginzas.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Ueno wa mittsu-me (no eki) desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ueno is the third station.",
+          "is_correct": true
+        },
+        {
+          "answer": "Ueno has three exits.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ueno is three stations.",
+          "is_correct": false
+        },
+        {
+          "answer": "There are three Uenos.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Is it necessary to say 'no eki' after ordinal numbers like 'futatsu-me' or 'mittsu-me'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it is not necessary when the context clarifies what you are talking about",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in formal speech",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with locations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why can 'no eki' be omitted in 'Tsugi wa Ginza desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because of formality",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the context clarifies that the topic is stations",
+          "is_correct": true
+        },
+        {
+          "answer": "Because grammar requires it",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it sounds polite",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How would you say 'Yokohama is the fifth station'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yokohama wa itsutsu-me (no eki) desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yokohama wa go-eki desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yokohama eki itsutsu desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Itsutsu wa Yokohama no eki desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What suffix is used to make a number ordinal in 'futatsu-me'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "-tsu",
+          "is_correct": false
+        },
+        {
+          "answer": "-me",
+          "is_correct": true
+        },
+        {
+          "answer": "-ban",
+          "is_correct": false
+        },
+        {
+          "answer": "-mai",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Ordinal numbers\n\nIn Lesson 8, you also learned expressions like the following:\n\nfutatsu-me no shingoo    the second traffic light\nmittsu-me no kado        the third corner\n\nOrdinal expressions like futatsu-me 'the second' and mittsu-me 'the third' can also be used when you talk about the order of the stations on a train line. Look at the following:\n\nGinza wa futatsu-me (no eki) desu.    Ginza is the second station.\nUeno wa mittsu-me (no eki) desu.      Ueno is the third station.\n\nAs in Tsugi wa Ginza desu ka?, it is not necessary to say no eki after the ordinal numbers, i.e., futatsu-me and mittsu-me, since the context clarifies what you are talking about."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

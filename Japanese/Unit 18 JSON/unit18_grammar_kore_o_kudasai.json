@@ -1,0 +1,259 @@
+{
+  "title": "unit18_grammar_kore_o_kudasai",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Kore o kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(Please) give me this. / I'll take this.",
+          "is_correct": true
+        },
+        {
+          "answer": "Please show me this.",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is this?",
+          "is_correct": false
+        },
+        {
+          "answer": "Where is this?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In Lesson 15, how was 'kudasai' used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By itself, independently",
+          "is_correct": false
+        },
+        {
+          "answer": "With a verb te-form before it, to make a request",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with numbers",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Kore o misete kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please give me this.",
+          "is_correct": false
+        },
+        {
+          "answer": "Please show me this one.",
+          "is_correct": true
+        },
+        {
+          "answer": "I'll take this.",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is this?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Can the word 'kudasai' be used independently (without a verb)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, never",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, by itself it means '(Please) give me'",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with adjectives",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in formal speech",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What particle is placed before 'kudasai' to refer to the thing you want?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "o",
+          "is_correct": true
+        },
+        {
+          "answer": "ga",
+          "is_correct": false
+        },
+        {
+          "answer": "ni",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What happens to the particle 'o' in conversation, as with 'onegai shimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is always required",
+          "is_correct": false
+        },
+        {
+          "answer": "It can be omitted in conversation",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes to 'wa'",
+          "is_correct": false
+        },
+        {
+          "answer": "It is doubled",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you say 'I'll take three of these' / 'Please give me three of these'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kore o mittsu kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Kore o misete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Mittsu wa ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kore wa mittsu desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is '-tsu' as used in 'mittsu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A verb ending",
+          "is_correct": false
+        },
+        {
+          "answer": "The general-purpose counter used with native Japanese numerals from one to nine",
+          "is_correct": true
+        },
+        {
+          "answer": "A question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "A polite suffix",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When you are not sure of the appropriate counter for something, what can you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No counter at all",
+          "is_correct": false
+        },
+        {
+          "answer": "The native Japanese numeral and -tsu",
+          "is_correct": true
+        },
+        {
+          "answer": "The English number",
+          "is_correct": false
+        },
+        {
+          "answer": "Always 'ko'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How do you say 'I'll take 100 grams of that'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sore o hyaku-guramu kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Sore o hyaku-guramu misete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sore wa hyaku-guramu desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hyaku-guramu wa ikura desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Kore o kudasai    'I'll take this' or 'Please give me this'\n\nAs we learned in Lesson 15, the word kudasai can be used, with a verb te-form before it, when you make a request. For example, when you want to see some merchandise, you can say to the clerk Kore o misete kudasai 'Please show me this one.' The word kudasai can also be used independently, as the following example illustrates:\n\nKore o kudasai.    (Please) give me this.\n\nAs the English equivalent indicates, the word kudasai by itself means '(Please) give me.' Thus, we can use it when we want to say something like 'I'll take this' in a store. Please note that the word that refers to the thing you want, followed by the particle o, is placed before kudasai. However, here again, as in onegai shimasu, the particle o can be omitted in conversation.\n\nWhen you want to say 'I'll take three of these' or 'Please give me three of these,' you simply add the number (and a counter) in front of kudasai, as in the following example:\n\nKore o mittsu kudasai.    Please give me three of these.\n\nPlease note that a native Japanese numeral is used in the above example. As explained in Lesson 10, Japanese uses different counters for different objects. -tsu is the general-purpose counter always used with the native Japanese numerals from one to nine. When you are not sure of the appropriate counter for the thing you want, use the native Japanese numeral and -tsu. Although in some cases this may sound odd to a Japanese person, it is comprehensible.\n\nLikewise, when you want to say 'I'll take 100 grams of that,' you can say:\n\nSore o hyaku-guramu kudasai.    Please give me 100 grams of that."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

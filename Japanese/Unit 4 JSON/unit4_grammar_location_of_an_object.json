@@ -1,0 +1,259 @@
+{
+  "title": "unit4_grammar_location_of_an_object",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the phrase 'kono chikaku ni' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "over there",
+          "is_correct": false
+        },
+        {
+          "answer": "in this vicinity / near here",
+          "is_correct": true
+        },
+        {
+          "answer": "very far",
+          "is_correct": false
+        },
+        {
+          "answer": "in Tokyo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What pattern is used to ask about the location of an object or store?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono chikaku ni ___ ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "___ wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko ni ___ ga ikimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "___ onegai shimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How would you ask 'Is there a department store near here?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Depaato wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono chikaku ni depaato ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Depaato ga ii desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa nan desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which particle indicates the location in 'Kono chikaku ni'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "ga",
+          "is_correct": false
+        },
+        {
+          "answer": "ni",
+          "is_correct": true
+        },
+        {
+          "answer": "de",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Is 'kono chikaku ni' used to ask about distant locations?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, far away",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it refers to the immediate vicinity / near here",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in hotels",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'kono' mean in 'kono chikaku'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "that",
+          "is_correct": false
+        },
+        {
+          "answer": "this",
+          "is_correct": true
+        },
+        {
+          "answer": "over there",
+          "is_correct": false
+        },
+        {
+          "answer": "where",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'chikaku' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "vicinity / nearby area",
+          "is_correct": true
+        },
+        {
+          "answer": "far",
+          "is_correct": false
+        },
+        {
+          "answer": "underneath",
+          "is_correct": false
+        },
+        {
+          "answer": "morning",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How would you ask 'Is there a taxi stand near here?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Takushii noriba wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono chikaku ni takushii noriba ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Takushii noriba onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Takushii noriba ga nan desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Where does 'kono chikaku ni' typically appear in the sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the very end",
+          "is_correct": false
+        },
+        {
+          "answer": "At the beginning of the question",
+          "is_correct": true
+        },
+        {
+          "answer": "After 'arimasu'",
+          "is_correct": false
+        },
+        {
+          "answer": "Inside the verb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence correctly asks 'Is there a restaurant near here?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Resutoran wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono chikaku ni resutoran ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Resutoran wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Resutoran ga ii desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. How to ask about the location of an object, store, etc.\n\nThe expression kono chikaku ni means 'in this vicinity' or 'near here.' You can use it when you ask about the location of an object, store, etc., as in the following example:\n\nKono chikaku ni depaato ga arimasu ka?\nIs there a department store near here?"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

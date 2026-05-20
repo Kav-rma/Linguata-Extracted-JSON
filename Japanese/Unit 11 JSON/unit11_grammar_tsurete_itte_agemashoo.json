@@ -1,0 +1,259 @@
+{
+  "title": "unit11_grammar_tsurete_itte_agemashoo",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Tsurete itte agemashoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I'll show you the way.",
+          "is_correct": false
+        },
+        {
+          "answer": "I'll take you there.",
+          "is_correct": true
+        },
+        {
+          "answer": "Let me go with you.",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't know the way.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In what situation might a Japanese person say 'Tsurete itte agemashoo'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When the place you're looking for is far away",
+          "is_correct": false
+        },
+        {
+          "answer": "When directions are complicated and the place isn't far",
+          "is_correct": true
+        },
+        {
+          "answer": "Only when they want to charge you a fee",
+          "is_correct": false
+        },
+        {
+          "answer": "Only at train stations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If a Japanese person doesn't know the place you're looking for, what is their typical reaction?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They walk away silently",
+          "is_correct": false
+        },
+        {
+          "answer": "They say 'Saa, ...' or 'Soo desu ne...' (Well, ...)",
+          "is_correct": true
+        },
+        {
+          "answer": "They direct you to the nearest police box",
+          "is_correct": false
+        },
+        {
+          "answer": "They give you a random direction",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Saa, ...' typically express in this context?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "anger",
+          "is_correct": false
+        },
+        {
+          "answer": "Well, ... (hesitation or uncertainty)",
+          "is_correct": true
+        },
+        {
+          "answer": "agreement",
+          "is_correct": false
+        },
+        {
+          "answer": "refusal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Watakushi mo shirimasen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I know it well.",
+          "is_correct": false
+        },
+        {
+          "answer": "I don't know, either.",
+          "is_correct": true
+        },
+        {
+          "answer": "Let me think.",
+          "is_correct": false
+        },
+        {
+          "answer": "Please show me.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'shirimasen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "doesn't/don't know",
+          "is_correct": true
+        },
+        {
+          "answer": "doesn't/don't see",
+          "is_correct": false
+        },
+        {
+          "answer": "doesn't/don't have",
+          "is_correct": false
+        },
+        {
+          "answer": "doesn't/don't go",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'mo' indicate in 'Watakushi mo shirimasen'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "more",
+          "is_correct": false
+        },
+        {
+          "answer": "also/too/either",
+          "is_correct": true
+        },
+        {
+          "answer": "but",
+          "is_correct": false
+        },
+        {
+          "answer": "even",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What should you say in response to 'Tsurete itte agemashoo'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Iie, kekkoo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo arigatoo / Arigatoo gozaimasu",
+          "is_correct": true
+        },
+        {
+          "answer": "Hai, soo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sumimasen ga.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is the purpose of expressions like 'Saa, ...' and 'Soo desu ne, ...'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To greet someone",
+          "is_correct": false
+        },
+        {
+          "answer": "To indicate the speaker doesn't know or is uncertain",
+          "is_correct": true
+        },
+        {
+          "answer": "To agree with something",
+          "is_correct": false
+        },
+        {
+          "answer": "To ask a question",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What can you infer about Japanese politeness from the 'Tsurete itte agemashoo' practice?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Japanese people are reluctant to help foreigners",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese people often go above and beyond to help by personally taking you to your destination",
+          "is_correct": true
+        },
+        {
+          "answer": "Japanese people only help in stations",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese people prefer to give directions rather than help",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Tsurete itte agemashoo 'I'll take you there'\n\nWhen directions you asked would be complicated and the place you are looking for is not far, a Japanese person will often take you there instead of giving you directions. In such a case, s/he would say:\n\nTsurete itte agemashoo.    I'll take you there.\n\nWhen a Japanese person doesn't know the place you are looking for, his/her typical reaction will be to say:\n\nSaa, ... or Soo desu ne...    Well, ...\n\nHe or she may then add:\n\nWatakushi mo shirimasen.    I don't know, either."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "title": "unit15_grammar_how_to_tell_destination",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What expression is used to ask someone to call a taxi for you?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Takushii o yonde kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Takushii o tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Takushii made onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Takushii ni norimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How would you tell the taxi driver 'To the American Embassy, please'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Amerika Taishikan made onegai shimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Amerika Taishikan de tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Taishikan no doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Taishikan ni ikimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If your destination is relatively unknown, what should you do first?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Give the exact address",
+          "is_correct": false
+        },
+        {
+          "answer": "Give the area name in which your destination is located",
+          "is_correct": true
+        },
+        {
+          "answer": "Show a map immediately",
+          "is_correct": false
+        },
+        {
+          "answer": "Tell the driver to drive around",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What might the driver ask after you give the area name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko de tomemasu (tomemashoo) ka? or Doko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Ee, soo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo arigatoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When the area name covers a large area, what phrase might the driver use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(area name) no doko 'where in (area name)'",
+          "is_correct": true
+        },
+        {
+          "answer": "(area name) made 'until (area name)'",
+          "is_correct": false
+        },
+        {
+          "answer": "(area name) kara 'from (area name)'",
+          "is_correct": false
+        },
+        {
+          "answer": "(area name) ni 'at (area name)'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is helpful to mention when giving directions to the driver?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The exact street number",
+          "is_correct": false
+        },
+        {
+          "answer": "A landmark near your destination",
+          "is_correct": true
+        },
+        {
+          "answer": "The driver's previous route",
+          "is_correct": false
+        },
+        {
+          "answer": "Your departure point",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "If you're not confident pronouncing your destination, what's a good idea?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Speak loudly anyway",
+          "is_correct": false
+        },
+        {
+          "answer": "Have a Japanese friend write the name in Kanji on a piece of paper to show the driver",
+          "is_correct": true
+        },
+        {
+          "answer": "Use English",
+          "is_correct": false
+        },
+        {
+          "answer": "Avoid taking a taxi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What can you say when showing the driver a paper with the destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Koko made onegai shimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Koko ni tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko ga doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko ni ikimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Why might the paper-and-landmark strategy not always work?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Drivers don't read",
+          "is_correct": false
+        },
+        {
+          "answer": "Not every street has a name nor every house a number, making it difficult to find a location by address",
+          "is_correct": true
+        },
+        {
+          "answer": "Drivers prefer voice commands",
+          "is_correct": false
+        },
+        {
+          "answer": "Paper is uncommon in Japan",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "If your destination is in Aoyama 4-chome, what should you say first to the driver?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Aoyama 4-chome made onegai shimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Aoyama 4-chome de tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Aoyama 4-chome ga arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Aoyama 4-chome wa doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to tell the cab driver your destination\n\nWhen you are staying at a hotel or visiting a friend and want to ask someone to call a taxi for you, you can use the following expression:\n\nTakushii o yonde kudasai.    Please call a taxi (for me)\n\nWhen giving the taxi driver the destination, for a relatively well-known place, e.g., the American Embassy, you can simply say:\n\nAmerika Taishikan made onegai shimasu.    To the American Embassy, please\n\nIf, however, your destination is relatively unknown, e.g., your apartment, you should first give the area name in which your apartment is located. Let us assume that your apartment is located in Aoyama 4-chome. You first say Aoyama 4-chome made onegai shimasu. The driver will ask you the exact location when you get to the area, saying something like the following:\n\nOkyaku-san, Aoyama 4-chome desu yo.    Customer, we are at Aoyama 4-chome\nDoko de tomemasu (tomemashoo) ka? OR Doko desu ka?, etc.    Where shall I stop? Where do you want me to stop?, etc.\n\nOf course, your driver may not say exactly what is given above. What is important is that when you go to a place whose location is not likely to be familiar to the driver, you give the area name first and then give the directions as you approach the place you want to go. To do this, you must, of course, be familiar with the neighborhood of your destination.\n\nHowever, when the name you have given covers a large area, the driver may ask where in that area you want to go. Again, the driver may use different expressions, which may include a phrase like (area name) no doko 'where in (area name),' as in the following.\n\nExample:\nYou: Ginza made onegai shimasu.\nDriver: Ginza no doko desu ka? OR Ginza no doko ni ikitain desu ka?    Where in the Ginza do you want to go?\n\nWhen you give directions to the driver, it is often helpful to mention a landmark near your destination, as the following example illustrates:\n\nYou: Ginza made onegai shimasu.\nDriver: Ginza no doko desu ka?\nYou: Mitsukoshi no tonari desu.    Next to the Mitsukoshi department store\n\nIf you are not confident of pronouncing the name of the destination correctly, it is a good idea to have a Japanese friend write the name in Kanji on a piece of paper so that you can take it along to show the driver. When you want to do this, you can simply say the following:\n\nKoko made onegai shimasu.    To this place, please\n\nHowever, this strategy may not always be successful if your destination isn't well known or if you don't know a landmark near your destination to tell the driver. Even though he/she will certainly be able to get to the area of your destination, the driver may still not be able to locate the place. This is because it is very difficult to find out a location by simply reading the address, for not every street has a name nor every house a number."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

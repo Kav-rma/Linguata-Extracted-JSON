@@ -1,0 +1,259 @@
+{
+  "title": "unit10_grammar_other_expressions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the Japanese expression for 'if you go'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ikimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "ikuto or ikeba",
+          "is_correct": true
+        },
+        {
+          "answer": "itte",
+          "is_correct": false
+        },
+        {
+          "answer": "iku tokoro",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the Japanese expression for 'You will see' (literally 'is visible')?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "...ga miemasu",
+          "is_correct": true
+        },
+        {
+          "answer": "...ga ikimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "...ga arimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "...ga magarimasu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does '50 meetoru gurai ikuto, migi ni depaato ga miemasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If you go about 50 meters, you will see a department store on the right.",
+          "is_correct": true
+        },
+        {
+          "answer": "Go to a department store 50 meters on the right.",
+          "is_correct": false
+        },
+        {
+          "answer": "A department store is 50 meters away on the right.",
+          "is_correct": false
+        },
+        {
+          "answer": "Walk 50 meters to find a department store.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the Japanese expression for 'on foot'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kuruma de",
+          "is_correct": false
+        },
+        {
+          "answer": "aruite",
+          "is_correct": true
+        },
+        {
+          "answer": "densha de",
+          "is_correct": false
+        },
+        {
+          "answer": "hikooki de",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Soko made aruite 10-pun gurai desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It takes about 10 minutes to get there on foot.",
+          "is_correct": true
+        },
+        {
+          "answer": "Walk for 10 minutes and you'll find it.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's 10 minutes by car.",
+          "is_correct": false
+        },
+        {
+          "answer": "Walk 10 minutes to the next stop.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why does the Japanese often specify the means of transportation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because they like cars",
+          "is_correct": false
+        },
+        {
+          "answer": "When indicating how long it takes to get to a place",
+          "is_correct": true
+        },
+        {
+          "answer": "Only when going far",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when going by train",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Are 'ikuto' and 'ikeba' interchangeable in meaning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, both mean 'if you go'",
+          "is_correct": true
+        },
+        {
+          "answer": "No, they mean opposite things",
+          "is_correct": false
+        },
+        {
+          "answer": "ikuto is past tense, ikeba is future",
+          "is_correct": false
+        },
+        {
+          "answer": "Only ikuto is used in directions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'aruite' literally come from?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ikimasu (go)",
+          "is_correct": false
+        },
+        {
+          "answer": "arukimasu (walk)",
+          "is_correct": true
+        },
+        {
+          "answer": "arimasu (exist)",
+          "is_correct": false
+        },
+        {
+          "answer": "agemasu (give)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In 'migi ni depaato ga miemasu', what does 'migi ni' indicate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "on the right",
+          "is_correct": true
+        },
+        {
+          "answer": "to the right",
+          "is_correct": false
+        },
+        {
+          "answer": "left",
+          "is_correct": false
+        },
+        {
+          "answer": "behind",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence correctly uses 'aruite' to mean 'on foot it takes about 5 minutes'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Soko made aruite 5-fun gurai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Soko made 5-fun gurai aruite desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Aruite soko made 5-fun gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "5-fun gurai aruite soko desu made.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Other expressions often encountered in getting directions\n\n(a) Japanese people will often say something like 'If you go 50 meters, you will...' The Japanese expression for 'if you go' is ikuto or ikeba.\n\n(b) Similarly, they will often say something like 'You will see a department store on your right.' The Japanese expression for 'You will see' is ...ga miemasu, which literally means 'is visible'.\n\nExample.\n50 meetoru gurai ikuto, migi ni depaato ga miemasu.\nIf you go about 50 meters, you will see a department store on the right\n\n(c) When indicating how long it takes to get to a place, the Japanese will often specify the means of transportation, e.g., 'on foot'. The expression for 'on foot' in Japanese is aruite.\n\nExample.\nSoko made aruite 10-pun gurai desu.\nIt is/takes about 10 minutes to get there on foot"
+    }
+  ],
+  "metadata": {
+    "page_start": 16,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

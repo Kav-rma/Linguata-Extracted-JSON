@@ -1,0 +1,259 @@
+{
+  "title": "unit15_grammar_how_to_pay_fare",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where is the fare meter located in a Japanese taxi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In the back",
+          "is_correct": false
+        },
+        {
+          "answer": "In the front",
+          "is_correct": true
+        },
+        {
+          "answer": "On the door",
+          "is_correct": false
+        },
+        {
+          "answer": "On the dashboard ceiling",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Do you need to tip the taxi driver in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always 10%",
+          "is_correct": false
+        },
+        {
+          "answer": "No, you don't need to tip",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, but only at airports",
+          "is_correct": false
+        },
+        {
+          "answer": "Only if the driver helps with luggage",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you ask 'How much is it?' to confirm the fare?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ikura desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Itsu desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What can you say to thank the driver after paying?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo (arigatoo).",
+          "is_correct": true
+        },
+        {
+          "answer": "Sayoonara.",
+          "is_correct": false
+        },
+        {
+          "answer": "Onegai shimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Should you be surprised if a taxi driver doesn't respond much?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it's very rude",
+          "is_correct": false
+        },
+        {
+          "answer": "No, some drivers may not be very sociable and may not say anything until you give them the destination",
+          "is_correct": true
+        },
+        {
+          "answer": "Always report them",
+          "is_correct": false
+        },
+        {
+          "answer": "It means they're angry",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What denomination of bills is a good idea to have available?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "10,000-yen bills",
+          "is_correct": false
+        },
+        {
+          "answer": "500-yen or 1,000-yen bills (when the destination is not very far)",
+          "is_correct": true
+        },
+        {
+          "answer": "Foreign currency",
+          "is_correct": false
+        },
+        {
+          "answer": "Coins only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Why should you have smaller bills available?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because it's polite",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the driver may not be able to change a large bill",
+          "is_correct": true
+        },
+        {
+          "answer": "Because the fare is fixed",
+          "is_correct": false
+        },
+        {
+          "answer": "Because tips need to be in small bills",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does the simple act of paying the fare in Japan involve?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Negotiating with the driver",
+          "is_correct": false
+        },
+        {
+          "answer": "Looking at the meter and paying the fare before you get out",
+          "is_correct": true
+        },
+        {
+          "answer": "Paying through an app",
+          "is_correct": false
+        },
+        {
+          "answer": "Receiving a printed bill",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Does the lesson encourage tipping cab drivers in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, generously",
+          "is_correct": false
+        },
+        {
+          "answer": "No, since you don't need to tip in Japan",
+          "is_correct": true
+        },
+        {
+          "answer": "Only for long rides",
+          "is_correct": false
+        },
+        {
+          "answer": "Only for excellent service",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How would you typically pay attention to the cost of the ride?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ask repeatedly during the ride",
+          "is_correct": false
+        },
+        {
+          "answer": "Look at the fare meter in the front",
+          "is_correct": true
+        },
+        {
+          "answer": "Calculate based on distance yourself",
+          "is_correct": false
+        },
+        {
+          "answer": "Receive a receipt only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. How to pay the fare\n\nSince every taxi has a fare meter in the front and you don't need to tip, you can simply look at the meter and pay the fare before you get out. If you want to make sure of the fare, you can, of course, ask the following question:\n\nIkura desu ka?    How much is it?\n\nWhen you get out, after having paid the fare, you can say:\n\nDoomo (arigatoo).    Thank you\n\nHowever, don't be surprised if the driver doesn't respond. S/he may not be very sociable. Some drivers may not say anything until you give them the destination when you get in the cab, or even after you give it to them.\n\nIt would be a good idea for you to have 500-yen or 1,000-yen bills available when the destination is not very far, as it may happen that the driver is not able to change a large bill."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "unit20_production_exercise_d",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What do you say in this situation? You meet your next door neighbor in the morning on a cold day.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Ohayoo gozaimasu. Samui desu ne. (お早うございます。寒いですね。)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What do you say in this situation? You meet a neighborhood shopkeeper in the evening. The weather is nasty.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Konbanwa. Iya na otenki desu ne. (今晩は。いやなお天気ですね。)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What do you say in this situation? You meet someone who lives in your apartment building during the day. It's a very hot day.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Konnichiwa. Atsui desu ne. (今日は。暑いですね。)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What do you say in this situation? You meet a neighborhood shopkeeper in the morning. The weather is beautiful.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Ohayoo gozaimasu. Ii otenki desu ne. (お早うございます。いいお天気ですね。)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What do you say in this situation? You come home from a concert. The babysitter greets you.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Tadaima. (ただいま。) — responding to the babysitter's Okaerinasai.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What do you say in this situation? You meet a neighborhood shopkeeper who greets you by asking 'Are you going out somewhere?' (Dokoka e odekake desu ka?)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Ee, chotto (soko made). (ええ、ちょっと(そこまで)。)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What do you say in this situation? You meet a next door neighbor who asks 'Are you returning home now?' (Ima okaeri desu ka?)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Ee. (ええ。)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

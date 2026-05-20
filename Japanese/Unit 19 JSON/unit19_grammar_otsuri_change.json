@@ -1,0 +1,259 @@
+{
+  "title": "unit19_grammar_otsuri_change",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'otsuri' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "change (money returned)",
+          "is_correct": true
+        },
+        {
+          "answer": "total price",
+          "is_correct": false
+        },
+        {
+          "answer": "receipt",
+          "is_correct": false
+        },
+        {
+          "answer": "discount",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In most shops (except bookstores), do you take the merchandise to the cashier yourself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No — the clerk takes care of it; you give the merchandise and money to the clerk",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes — you always go to a central cashier",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes — there is no clerk",
+          "is_correct": false
+        },
+        {
+          "answer": "No — you pay at the entrance",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the clerk say to state the amount of money received from you (especially in a department store)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(amount you gave)-en oazukari itashimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "(amount)-en no otsuri desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Zenbu de ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Mata doozo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does '(amount)-en oazukari itashimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I have received (amount) yen.",
+          "is_correct": true
+        },
+        {
+          "answer": "Your change is (amount) yen.",
+          "is_correct": false
+        },
+        {
+          "answer": "The total is (amount) yen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Please pay (amount) yen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the clerk say when handing you your change?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "X-en no otsuri de gozaimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "X-en oazukari itashimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Zenbu de X-en desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Irasshaimase.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What word may be used instead of 'otsuri', and what does it literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "okaeshi, which literally means 'return'",
+          "is_correct": true
+        },
+        {
+          "answer": "oazukari, which literally means 'deposit'",
+          "is_correct": false
+        },
+        {
+          "answer": "ikura, which literally means 'how much'",
+          "is_correct": false
+        },
+        {
+          "answer": "zenbu, which literally means 'all'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What should you do if you are shortchanged?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Make it clear how much you handed to the clerk",
+          "is_correct": true
+        },
+        {
+          "answer": "Leave the store immediately",
+          "is_correct": false
+        },
+        {
+          "answer": "Say nothing",
+          "is_correct": false
+        },
+        {
+          "answer": "Demand a manager",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What expression can you use when you have been shortchanged?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ima X-en watashimashita ga... (I gave you X yen.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Zenbu de ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Mata doozo.",
+          "is_correct": false
+        },
+        {
+          "answer": "X-en no otsuri de gozaimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Ima X-en watashimashita ga...' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I gave you X yen.",
+          "is_correct": true
+        },
+        {
+          "answer": "I'll take X yen worth.",
+          "is_correct": false
+        },
+        {
+          "answer": "My change is X yen.",
+          "is_correct": false
+        },
+        {
+          "answer": "The total is X yen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "After you point out you were shortchanged, what will the clerk do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Check the change and give you the correct amount",
+          "is_correct": true
+        },
+        {
+          "answer": "Ask you to leave",
+          "is_correct": false
+        },
+        {
+          "answer": "Refuse to help",
+          "is_correct": false
+        },
+        {
+          "answer": "Call the police",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Otsuri 'change'\n\nIn most shops, you don't have to take the merchandise to the cashier. The clerk will take care of it (bookstores are an exception). Give the merchandise and the money to the clerk. He or she will wrap it and bring it back to you with your change, if there is any.\n\nIt often happens, especially in a department store, that the clerk states the amount of money s/he has received from you at the time you pay. In such cases, s/he will say:\n\n(amount you gave)-en oazukari itashimasu.    I have received (amount you gave) yen.\n\nThe way the clerk gives you change is different in Japan from the normal American practice. When the clerk hands you your change, s/he may say the following:\n\nX-en no otsuri de gozaimasu.    Here's your change of X-yen.\n\n(Note: Instead of otsuri, okaeshi [which literally means 'return'] may also be used.)\n\nIn some cases, the clerk may give you your change without stating the amount.\n\nAlthough it should not happen very frequently, you may occasionally be shortchanged. When this happens, you should make it clear how much you handed to the clerk. You can use the following expression for this purpose:\n\nIma X-en watashimashita ga...    I gave you X yen.\n\nThen the clerk will check the change and give you the correct amount."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

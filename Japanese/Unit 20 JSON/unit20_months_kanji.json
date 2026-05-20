@@ -1,0 +1,98 @@
+{
+  "title": "unit20_months_kanji",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "一月 (ichi-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "January", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "二月 (ni-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "February", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "三月 (san-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "March", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "四月 (shi-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "April", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "五月 (go-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "May", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "六月 (roku-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "June", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "七月 (shichi-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "July", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "八月 (hachi-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "August", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "九月 (ku-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "September", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "十月 (juu-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "October", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "十一月 (juuichi-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "November", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "十二月 (juuni-gatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "December", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 10,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

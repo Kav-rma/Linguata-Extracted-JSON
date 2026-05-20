@@ -1,0 +1,175 @@
+{
+  "title": "unit16_production_comprehension_exercise_h",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The student asked 'Erebeetaa wa doko desu ka?' The instructor said: 'ここをいらっしゃると、右の方でございます。 (Koko o irassharu to, migi no hoo de gozaimasu.)' Where is the elevator?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If you go this way, it's on the right.",
+          "is_correct": true
+        },
+        {
+          "answer": "It's on the left side.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's straight ahead.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's behind the information desk.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The student asked 'Kateeyoohin wa doko desu ka?' The instructor said: 'あちらのエスカレーターのすぐそばにございます。 (Achira no esukareetaa no sugu soba ni gozaimasu.)' Where are the household goods?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "On the roof.",
+          "is_correct": false
+        },
+        {
+          "answer": "Right next to the escalator over there.",
+          "is_correct": true
+        },
+        {
+          "answer": "On the 6th floor.",
+          "is_correct": false
+        },
+        {
+          "answer": "Behind the elevator.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The student asked 'Kodomofuku wa doko desu ka?' The instructor said: 'この先の右にございます。婦人服売場のそばにございます。 (Kono saki no migi ni gozaimasu. Fujinfuku-uriba no soba ni gozaimasu.)' Where is children's clothing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Behind the elevator.",
+          "is_correct": false
+        },
+        {
+          "answer": "Next to the men's clothing section.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ahead on the right, next to the women's clothing section.",
+          "is_correct": true
+        },
+        {
+          "answer": "On the basement floor.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The student asked 'Kamera wa doko desu ka?' The instructor said: 'ここを真っ直ぐいらっしゃると、眼鏡売場の先にございます。 (Koko o massugu irassharu to, megane-uriba no saki ni gozaimasu.)' Where are the cameras?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Straight ahead, past the eyeglasses section.",
+          "is_correct": true
+        },
+        {
+          "answer": "Behind the watches section.",
+          "is_correct": false
+        },
+        {
+          "answer": "Next to the jewelry section.",
+          "is_correct": false
+        },
+        {
+          "answer": "On the right side near the escalator.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The student asked 'Bunboogu wa doko desu ka?' The instructor said: 'ここから右の方へいらっしゃいますと、宝石売場の後ろの方にございます。 (Koko kara migi no hoo e irasshaimasu to, hooseki-uriba no ushiro no hoo ni gozaimasu.)' Where is the stationery section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To the right, behind the jewelry section.",
+          "is_correct": true
+        },
+        {
+          "answer": "To the left, next to the books section.",
+          "is_correct": false
+        },
+        {
+          "answer": "Straight ahead, past the toys section.",
+          "is_correct": false
+        },
+        {
+          "answer": "On the roof.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The student asked 'Hooseki wa doko desu ka?' The instructor said: 'ここをずっと真っ直ぐいらっしゃいますと、カメラ売場がございます。そのそばでございます。 (Koko o zutto massugu irasshaimasu to, kamera-uriba ga gozaimasu. Sono soba de gozaimasu.)' Where is the jewelry section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Behind the eyeglasses section.",
+          "is_correct": false
+        },
+        {
+          "answer": "Straight ahead, next to the camera section.",
+          "is_correct": true
+        },
+        {
+          "answer": "On the left, near the watch section.",
+          "is_correct": false
+        },
+        {
+          "answer": "In the basement.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "H. Production & Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student asks where the places on the list below are located. The instructor (=clerk) answers. The student makes a brief note of each location in either Japanese or English. If s/he doesn't understand, s/he should ask the clerk to repeat, slow down, etc. The instructor checks whether or not the student got the location correctly."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Esukareetaa wa doko desu ka? Instructor: Nekutai-uriba no ushiro ni gozaimasu."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Student's list: erebeetaa, kateeyoohin, kodomofuku, kamera, bunboogu, hooseki."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "unit18_price_tag_conversion_b",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 七万四千八百円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "74,800 yen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 五万九千円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "59,000 yen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 八十六万円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "860,000 yen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 四十七万円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "470,000 yen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 六万九千五百円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "69,500 yen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 九万四千円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "94,000 yen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 三千七百八十円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "3,780 yen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Yen is written in Kanji as 円. Rewrite the following price using Arabic numbers: 十二万八千円",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "128,000 yen",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

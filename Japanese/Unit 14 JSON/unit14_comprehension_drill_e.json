@@ -1,0 +1,87 @@
+{
+  "title": "unit14_comprehension_drill_e",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You are facing north. On your right is...?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "higashi",
+          "is_correct": true
+        },
+        {
+          "answer": "nishi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You are facing north. On your left is...?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "higashi",
+          "is_correct": false
+        },
+        {
+          "answer": "nishi",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You are facing east. On your right is...?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "minami",
+          "is_correct": true
+        },
+        {
+          "answer": "kita",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You are facing west. On your right is...?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "minami",
+          "is_correct": false
+        },
+        {
+          "answer": "kita",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "E. Comprehension Drill"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Choose the appropriate direction in accordance with the following statement."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

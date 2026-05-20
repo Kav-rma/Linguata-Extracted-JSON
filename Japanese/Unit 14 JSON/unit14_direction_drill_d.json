@@ -1,0 +1,91 @@
+{
+  "title": "unit14_direction_drill_d",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "If the instructor says 'higashi', what is the opposite direction?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "nishi",
+          "is_correct": true
+        },
+        {
+          "answer": "kita",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "If the instructor gives a direction, choose the opposite from these options:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "higashi",
+          "is_correct": false
+        },
+        {
+          "answer": "minami",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If the instructor gives a direction, choose the opposite from these options:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "nishi",
+          "is_correct": false
+        },
+        {
+          "answer": "kita",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If the instructor gives a direction, choose the opposite from these options:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "higashi",
+          "is_correct": false
+        },
+        {
+          "answer": "minami",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Direction Drill"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The instructor gives a direction. The student chooses the opposite direction."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Instructor says 'higashi'. Student checks 'nishi' below."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "title": "unit13_production_comprehension_exercise_j",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Based on scenario 1, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The subway station is next to the JR station.",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no subway station near here.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Based on scenario 2, what could the instructor not hear?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How many tickets you need.",
+          "is_correct": true
+        },
+        {
+          "answer": "Where you want to go.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Based on scenario 3, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "There is no train that goes to Takashima.",
+          "is_correct": false
+        },
+        {
+          "answer": "To take a train at platform #2.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Based on scenario 4, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yokohama is the fifth stop.",
+          "is_correct": false
+        },
+        {
+          "answer": "It takes about 15 minutes to get to Yokohama.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Based on scenario 5, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "S/he would let you know.",
+          "is_correct": false
+        },
+        {
+          "answer": "S/he could not tell you.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Based on scenario 6, what did the instructor say?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "S/he would let you know.",
+          "is_correct": true
+        },
+        {
+          "answer": "S/he could not tell you.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "J. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student asks the instructor a question, following the directions below. The instructor answers the student's question, whereupon the student chooses the correct statement below. The answer may include unfamiliar expressions. The student should try to guess what was said by picking up the key words."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Scenario 1: You are on a street. Ask where the subway station is."
+    },
+    {
+      "sequence_id": 4,
+      "text": "The instructor said: この近くには、ありませんよ。JR線の駅なら、ありますが。次の信号を右に曲かったところです。 (Kono chikaku ni wa, arimasen yo. JR-sen no eki nara, arimasu ga. Tsugi no shingoo o migi ni magatta tokoro desu.)"
+    },
+    {
+      "sequence_id": 5,
+      "text": "Scenario 2: You are at a ticket counter. Ask for four tickets to Yokosuka, then ask how much the fare is."
+    },
+    {
+      "sequence_id": 6,
+      "text": "The instructor said: え? 横須賀まで二枚ですか。 (E? Yokosuka made ni-mai desu ka?)"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Scenario 3: You are on a platform. You want to go to Takashima. Ask from what platform or track your train leaves."
+    },
+    {
+      "sequence_id": 8,
+      "text": "The instructor said: 「高島行き」というのはありませんが、二番線にくるのに乗れば、高島へ行きますよ。 ('Takashima-iki' to iu no wa arimasen ga, ni-bansen ni kuru no ni noreba, Takashima e ikimasu yo.)"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Scenario 4: You are on a train. Ask if the next station is Yokohama."
+    },
+    {
+      "sequence_id": 10,
+      "text": "The instructor said: いいえ、横浜はまだまだです。あと十五分くらいかかりますよ。 (Iie, Yokohama wa mada mada desu. Ato juugo-fun kurai kakarimasu yo.)"
+    },
+    {
+      "sequence_id": 11,
+      "text": "Scenario 5: You are on a subway. Ask to be told when you arrive at Toranomon."
+    },
+    {
+      "sequence_id": 12,
+      "text": "The instructor said: 私はもっと手前でおりますから、ちょっと…… (Watashi wa motto temae de orimasu kara, chotto...)"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Scenario 6: You are on a subway. Ask to be told when you arrive at Otemachi."
+    },
+    {
+      "sequence_id": 14,
+      "text": "The instructor said: いいですよ。私も大手町でおりますから。 (Ii desu yo. Watashi mo Otemachi de orimasu kara.)"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "title": "unit13_grammar_tsugi",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'tsugi' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "last",
+          "is_correct": false
+        },
+        {
+          "answer": "next",
+          "is_correct": true
+        },
+        {
+          "answer": "first",
+          "is_correct": false
+        },
+        {
+          "answer": "previous",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In which lesson was the word 'tsugi' first introduced?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 5",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 8",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 10",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 13",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'tsugi no shingoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the previous traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "the next traffic light",
+          "is_correct": true
+        },
+        {
+          "answer": "the first traffic light",
+          "is_correct": false
+        },
+        {
+          "answer": "every traffic light",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How would you ask 'Is the next station Ginza?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tsugi no eki wa Ginza desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza wa tsugi eki desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Eki tsugi wa Ginza desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza tsugi eki ka desu?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "If you are on a train and want to ask 'Is the next (station) Ginza?', what is the shorter, more common phrasing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tsugi wa Ginza desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Tsugi no Ginza desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza wa tsugi ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza tsugi wa desu?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why can you drop 'no eki' in 'Tsugi wa Ginza desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because it's optional",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the context makes it clear that tsugi refers to eki (station)",
+          "is_correct": true
+        },
+        {
+          "answer": "Because grammatically 'no eki' is wrong",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it sounds too formal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which version is most commonly used by Japanese people when on a train?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tsugi no eki wa Ginza desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi wa Ginza desu ka? (shorter and easier to use)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza wa tsugi no eki desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Eki wa Ginza tsugi desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Tsugi no tsugi desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is the next one.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's the one after next.",
+          "is_correct": true
+        },
+        {
+          "answer": "It's the previous one.",
+          "is_correct": false
+        },
+        {
+          "answer": "It is two stops away.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If you ask 'Tsugi wa Akasakamitsuke desu ka?' and someone replies 'Tsugi no tsugi desu', what does that mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Akasakamitsuke is the next stop",
+          "is_correct": false
+        },
+        {
+          "answer": "Akasakamitsuke is the one after next",
+          "is_correct": true
+        },
+        {
+          "answer": "Akasakamitsuke is two stations away",
+          "is_correct": false
+        },
+        {
+          "answer": "Akasakamitsuke has already passed",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How would you say 'It's the one after next' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tsugi no tsugi desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Mata tsugi desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi no tsugi tsugi desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Mae no tsugi desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. tsugi 'next'\n\nIn Lesson 8, you learned the word tsugi 'next' as in tsugi no shingoo 'the next traffic light.' The word can also be used when you want to make sure that the next stop or station is the one you have in mind. What do you think you should say when you want to ask something like 'Is the next station Ginza?' If you thought of the following sentence, you already know a lot about the word tsugi:\n\nTsugi no eki wa Ginza desu ka?\n\nIf you are on a train and want to ask the same question, you can simply say the following:\n\nTsugi wa Ginza desu ka?\n\nThe reason no eki is dropped in the above sentence is that it is clear to the listener from the context that tsugi refers to eki. In fact, the above sentence is the one most Japanese people would use in this situation since it is shorter and easier to use.\n\nIt may turn out that the answer to the above question is something like 'the one after next.' In such a case, the Japanese say:\n\nTsugi no tsugi desu.    (It's) the one after next."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

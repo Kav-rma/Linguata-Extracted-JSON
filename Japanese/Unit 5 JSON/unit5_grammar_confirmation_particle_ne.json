@@ -1,0 +1,259 @@
+{
+  "title": "unit5_grammar_confirmation_particle_ne",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the particle 'ne' at the end of a sentence express?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Negation",
+          "is_correct": false
+        },
+        {
+          "answer": "Something like 'aren't you?' or 'isn't it?' in English",
+          "is_correct": true
+        },
+        {
+          "answer": "A direct command",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the main purpose of using 'ne'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To negate the statement",
+          "is_correct": false
+        },
+        {
+          "answer": "To confirm the name of a person to whom you are introduced (or other information)",
+          "is_correct": true
+        },
+        {
+          "answer": "To indicate a question",
+          "is_correct": false
+        },
+        {
+          "answer": "To show politeness only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Yamada-san desu ne?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Who is Mr. Yamada?",
+          "is_correct": false
+        },
+        {
+          "answer": "You're Mr. Yamada, aren't you?",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is Mr. Yamada?",
+          "is_correct": false
+        },
+        {
+          "answer": "Mr. Yamada doesn't exist.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Does 'ne' change form depending on the preceding sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it has many forms",
+          "is_correct": false
+        },
+        {
+          "answer": "No, 'ne' stays the same no matter what the preceding sentence is",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with adjectives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In English, the confirmation question varies depending on what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The day of the week",
+          "is_correct": false
+        },
+        {
+          "answer": "The pronoun and auxiliary",
+          "is_correct": true
+        },
+        {
+          "answer": "The mood of the speaker",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether the speaker knows the person",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where is 'ne' placed in a sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the beginning",
+          "is_correct": false
+        },
+        {
+          "answer": "At the end",
+          "is_correct": true
+        },
+        {
+          "answer": "In the middle",
+          "is_correct": false
+        },
+        {
+          "answer": "Before the verb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which English phrases are similar to 'ne'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please, thank you",
+          "is_correct": false
+        },
+        {
+          "answer": "isn't he?, don't they?, aren't you?",
+          "is_correct": true
+        },
+        {
+          "answer": "where, when, why",
+          "is_correct": false
+        },
+        {
+          "answer": "hello, goodbye",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If you meet someone named Tanaka, how would you confirm with 'ne'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tanaka-san wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tanaka-san desu ne?",
+          "is_correct": true
+        },
+        {
+          "answer": "Tanaka-san ga arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tanaka-san wa nan desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "'ne' is most similar in function to which type of structure in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Imperative",
+          "is_correct": false
+        },
+        {
+          "answer": "Tag question",
+          "is_correct": true
+        },
+        {
+          "answer": "Negative statement",
+          "is_correct": false
+        },
+        {
+          "answer": "Exclamation",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Does 'ne' work the same way regardless of whether the preceding sentence is positive or negative?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "No, it changes form",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with positive sentences",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with negative sentences",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Confirmation particle ne\n\nThe particle ne at the end of a sentence expresses something like 'aren't you?' or 'isn't it?' in English. Thus, this particle can be used to confirm the name of a person to whom you are introduced. Look at the following example:\n\nYamada-san desu ne?    You're Mr. Yamada, aren't you?\n\nDepending on the pronoun and auxiliary, the confirmation question varies in English, e.g., 'isn't he,' 'don't they,' etc. In Japanese, ne is used no matter what the preceding sentence is."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

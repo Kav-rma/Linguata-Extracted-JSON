@@ -1,0 +1,259 @@
+{
+  "title": "unit5_grammar_kinship_terms",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which word is used to refer to one's own husband?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "goshujin",
+          "is_correct": false
+        },
+        {
+          "answer": "shujin",
+          "is_correct": true
+        },
+        {
+          "answer": "okusan",
+          "is_correct": false
+        },
+        {
+          "answer": "kanai",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which word is used to refer to another person's husband?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "shujin",
+          "is_correct": false
+        },
+        {
+          "answer": "goshujin",
+          "is_correct": true
+        },
+        {
+          "answer": "kanai",
+          "is_correct": false
+        },
+        {
+          "answer": "okusan",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which word is used to refer to one's own wife?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "okusan",
+          "is_correct": false
+        },
+        {
+          "answer": "kanai",
+          "is_correct": true
+        },
+        {
+          "answer": "shujin",
+          "is_correct": false
+        },
+        {
+          "answer": "goshujin",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which word is used to refer to another person's wife?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kanai",
+          "is_correct": false
+        },
+        {
+          "answer": "okusan",
+          "is_correct": true
+        },
+        {
+          "answer": "shujin",
+          "is_correct": false
+        },
+        {
+          "answer": "goshujin",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "With in-group kinship terms (e.g., 'kanai'), which word is used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kochira",
+          "is_correct": false
+        },
+        {
+          "answer": "kore",
+          "is_correct": true
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "With out-group kinship terms (e.g., 'okusan'), which word is used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore",
+          "is_correct": false
+        },
+        {
+          "answer": "kochira",
+          "is_correct": true
+        },
+        {
+          "answer": "sore",
+          "is_correct": false
+        },
+        {
+          "answer": "are",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When you introduce your own wife, which sentence is appropriate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kochira wa okusan desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kore wa kanai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Kore wa okusan desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kochira wa kanai desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If you're referring to someone else's husband, which sentence is appropriate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kore wa shujin desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kochira wa goshujin desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Kore wa goshujin desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Are wa shujin desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How is the in-group / out-group distinction reflected in kinship terms?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Different words are used depending on whose family member is being referred to",
+          "is_correct": true
+        },
+        {
+          "answer": "Only the tone of voice changes",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no difference",
+          "is_correct": false
+        },
+        {
+          "answer": "Only the order of words changes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In this context, who counts as 'in-group' members?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Your colleagues at work",
+          "is_correct": false
+        },
+        {
+          "answer": "Your own family members",
+          "is_correct": true
+        },
+        {
+          "answer": "Strangers on the street",
+          "is_correct": false
+        },
+        {
+          "answer": "Government officials",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. Kinship terms\n\nAnother instance of the in-group/out-group distinction shows up in the use of kinship terms. (In this case, in-group members are one's own family members and out-group members are another person's family members.)\n\n(my)            (other's)\nshujin          goshujin        husband\nkanai           okusan          wife\n\nThe following is a summary of the use of kore and kochira with kinship terms.\n\nkore + in-group kinship terms\n\nkochira + out-group kinship terms"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

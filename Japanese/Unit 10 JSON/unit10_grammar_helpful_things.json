@@ -1,0 +1,259 @@
+{
+  "title": "unit10_grammar_helpful_things",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why might a Japanese person say 'I can't speak English' to you even when you address them in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because they really don't know any Japanese",
+          "is_correct": false
+        },
+        {
+          "answer": "Because ordinary Japanese assume that gaijin ('foreigners') don't speak Japanese",
+          "is_correct": true
+        },
+        {
+          "answer": "Because they are angry",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they want to charge you more",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the first thing a Japanese person might do upon meeting a foreigner?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Run away",
+          "is_correct": false
+        },
+        {
+          "answer": "'Proclaim' that s/he can't speak English, sometimes even before you start to talk",
+          "is_correct": true
+        },
+        {
+          "answer": "Greet them in Japanese",
+          "is_correct": false
+        },
+        {
+          "answer": "Speak to them in English",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What attention-getter is recommended to begin a conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai",
+          "is_correct": false
+        },
+        {
+          "answer": "Sumimasen",
+          "is_correct": true
+        },
+        {
+          "answer": "Hello",
+          "is_correct": false
+        },
+        {
+          "answer": "Konnichiwa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If a Japanese person replies only in English even when you speak Japanese, what could be a reason?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They think your Japanese is bad",
+          "is_correct": false
+        },
+        {
+          "answer": "They may be trying to be courteous, friendly, or want to practice their English",
+          "is_correct": true
+        },
+        {
+          "answer": "They are showing off",
+          "is_correct": false
+        },
+        {
+          "answer": "They are angry",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What measurement system is used in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Imperial system",
+          "is_correct": false
+        },
+        {
+          "answer": "Metric system",
+          "is_correct": true
+        },
+        {
+          "answer": "Both equally",
+          "is_correct": false
+        },
+        {
+          "answer": "A unique Japanese system",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Approximately how many feet is 5 meters?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "3.3 feet",
+          "is_correct": false
+        },
+        {
+          "answer": "16.4 feet",
+          "is_correct": true
+        },
+        {
+          "answer": "32.8 feet",
+          "is_correct": false
+        },
+        {
+          "answer": "49.2 feet",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Approximately how many feet is 20 meters?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "32.8 feet",
+          "is_correct": false
+        },
+        {
+          "answer": "49.2 feet",
+          "is_correct": false
+        },
+        {
+          "answer": "65.6 feet",
+          "is_correct": true
+        },
+        {
+          "answer": "80.0 feet",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Approximately how many meters is 10 feet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "0.3 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "1.5 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "3.1 meters",
+          "is_correct": true
+        },
+        {
+          "answer": "4.6 meters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Approximately how many meters is 20 feet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "4.6 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "6.1 meters",
+          "is_correct": true
+        },
+        {
+          "answer": "10.0 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "3.1 meters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "If a Japanese person says they can't speak English even after you've addressed them in Japanese, what should you do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Walk away frustrated",
+          "is_correct": false
+        },
+        {
+          "answer": "If you get a reply in Japanese, simply go ahead and ask for directions; if no answer comes, try someone else",
+          "is_correct": true
+        },
+        {
+          "answer": "Insist they speak Japanese with you",
+          "is_correct": false
+        },
+        {
+          "answer": "Repeat the question loudly",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. Helpful things to know in getting directions\n\n(a) You may experience a situation in which a Japanese person says to you 'I can't speak English,' even if you are talking to the person in Japanese! This remark is certainly a very discouraging one, especially to a person who has painstakingly studied Japanese before coming to Japan.\n\nHowever, don't be too discouraged because even foreigners whose Japanese is quite fluent will have this experience occasionally. This is because ordinary Japanese assume that gaijin (外人) 'foreigners' don't speak Japanese. Furthermore, most Japanese have little confidence in their ability to speak and understand English. Therefore, the first thing a Japanese person might do would be to 'proclaim' that s/he can't speak English (sometimes even before you start to talk).\n\nIn order not to embarrass such a person (or not to get embarrassed), be sure to use an attention-getter like Sumimasen and to wait for the answer. If you get a reply in Japanese, you can simply go ahead and ask for directions. If the person still does not answer, try someone else.\n\nYou may also experience a situation in which a Japanese person replies only in English, even if you are talking to the person in Japanese. In one sense, such a situation is convenient for you, for you can then begin communicating in English. However, you may feel discouraged or even insulted, because you may feel the person believes your Japanese is not good enough. Again, don't take these things too seriously, because it may be that the Japanese is simply trying to be courteous or friendly by speaking in English or that s/he wants to practice his/her English.\n\n(b) The metric system is used in Japan and it may take some time to get the 'feeling' of the amount expressed in meters, unless you are already familiar with the system. The following conversion tables are provided to give you a rough idea:\n\nMeters to feet (approximate):\nmeters: 1, 5, 10, 15, 20\nfeet: 3.3, 16.4, 32.8, 49.2, 65.6\n\nFeet to meters (approximate):\nfeet: 1, 5, 10, 15, 20\nmeters: 0.3, 1.5, 3.1, 4.6, 6.1"
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 17,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

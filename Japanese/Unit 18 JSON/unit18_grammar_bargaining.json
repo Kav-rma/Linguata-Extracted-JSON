@@ -1,0 +1,259 @@
+{
+  "title": "unit18_grammar_bargaining",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Do people ordinarily bargain in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, ordinarily you don't bargain in Japan (especially at department stores)",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, at department stores",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in supermarkets",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where might people sometimes bargain in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At small shops such as antique shops",
+          "is_correct": true
+        },
+        {
+          "answer": "At department stores",
+          "is_correct": false
+        },
+        {
+          "answer": "At banks",
+          "is_correct": false
+        },
+        {
+          "answer": "At train stations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What should you do before bargaining at a shop?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Observe other customers to find out whether it is acceptable to bargain there",
+          "is_correct": true
+        },
+        {
+          "answer": "Always bargain aggressively",
+          "is_correct": false
+        },
+        {
+          "answer": "Ask for the manager",
+          "is_correct": false
+        },
+        {
+          "answer": "Offer half the price",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why should you be careful about bargaining?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Bargaining can be offensive to the clerk or shopkeeper",
+          "is_correct": true
+        },
+        {
+          "answer": "It is illegal",
+          "is_correct": false
+        },
+        {
+          "answer": "Prices are always negotiable",
+          "is_correct": false
+        },
+        {
+          "answer": "It is required",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What expression can you use to bargain?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Moo sukoshi yasuku narimasen ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Moo sukoshi ookii no wa arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kore o kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ikura desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Moo sukoshi yasuku narimasen ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Can't you make it cheaper? (lit., Won't it become a little cheaper?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you have a bigger one?",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is it?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you have a different color?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'yasuku' come from?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The ku-form of yasui 'cheap'",
+          "is_correct": true
+        },
+        {
+          "answer": "The te-form of yasumu",
+          "is_correct": false
+        },
+        {
+          "answer": "A noun meaning 'discount'",
+          "is_correct": false
+        },
+        {
+          "answer": "The negative of yasui",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'narimasen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "doesn't become (negative of narimasu)",
+          "is_correct": true
+        },
+        {
+          "answer": "doesn't have",
+          "is_correct": false
+        },
+        {
+          "answer": "isn't cheap",
+          "is_correct": false
+        },
+        {
+          "answer": "won't show",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Is bargaining common at Japanese department stores?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, it is not done at department stores",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, it is expected",
+          "is_correct": false
+        },
+        {
+          "answer": "Only during sales",
+          "is_correct": false
+        },
+        {
+          "answer": "Only for expensive items",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the safest approach to bargaining for a visitor in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Observe whether others bargain first, since it can be offensive",
+          "is_correct": true
+        },
+        {
+          "answer": "Always try to bargain everywhere",
+          "is_correct": false
+        },
+        {
+          "answer": "Never enter small shops",
+          "is_correct": false
+        },
+        {
+          "answer": "Bargain only at department stores",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Bargaining\n\nOrdinarily, you don't bargain in Japan (especially at department stores). However, at small shops such as antique shops, for example, there are cases in which people do bargain. However, you should try to bargain only after observing other customers to find out whether it is acceptable to bargain at the shop you are in, for bargaining can be offensive to the clerk or shopkeeper.\n\nWhen you want to bargain, you can use the following expression:\n\nMoo sukoshi yasuku narimasen ka?    'Can't you make it cheaper?' (lit., Won't it become a little cheaper?)"
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

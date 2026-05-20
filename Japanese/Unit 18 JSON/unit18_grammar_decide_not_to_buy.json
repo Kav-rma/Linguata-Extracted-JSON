@@ -1,0 +1,259 @@
+{
+  "title": "unit18_grammar_decide_not_to_buy",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What expression do you use when the store doesn't carry the item you want and you want to leave?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Jaa, kekkoo desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Jaa, kore o kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Jaa, misete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Jaa, ikura desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does the word 'kekkoo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "fine, all right",
+          "is_correct": true
+        },
+        {
+          "answer": "different",
+          "is_correct": false
+        },
+        {
+          "answer": "cheap",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Jaa, kekkoo desu' literally mean and imply?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'Well, that's all right' — implying 'I'll go without it (I won't buy)'",
+          "is_correct": true
+        },
+        {
+          "answer": "'I'll definitely buy it'",
+          "is_correct": false
+        },
+        {
+          "answer": "'Please show me more'",
+          "is_correct": false
+        },
+        {
+          "answer": "'How much is it?'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What can you say to express gratitude to the clerk for showing you merchandise when you leave?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Doomo (arigatoo).",
+          "is_correct": true
+        },
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Irasshaimase.",
+          "is_correct": false
+        },
+        {
+          "answer": "Ikura desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Jaa, mata kimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Well, I'll come again.",
+          "is_correct": true
+        },
+        {
+          "answer": "Well, I'll take it.",
+          "is_correct": false
+        },
+        {
+          "answer": "Well, that's too expensive.",
+          "is_correct": false
+        },
+        {
+          "answer": "Well, show me another.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When would you say 'Jaa, mata kimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When you can't find what you want and want to leave the store",
+          "is_correct": true
+        },
+        {
+          "answer": "When you decide to buy something",
+          "is_correct": false
+        },
+        {
+          "answer": "When you ask for the price",
+          "is_correct": false
+        },
+        {
+          "answer": "When you enter the store",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which word means 'come' in 'mata kimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kimasu",
+          "is_correct": true
+        },
+        {
+          "answer": "mata",
+          "is_correct": false
+        },
+        {
+          "answer": "kekkoo",
+          "is_correct": false
+        },
+        {
+          "answer": "desu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which word means 'again' in 'mata kimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "mata",
+          "is_correct": true
+        },
+        {
+          "answer": "kekkoo",
+          "is_correct": false
+        },
+        {
+          "answer": "jaa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Is 'Jaa, kekkoo desu' a polite way to decline a purchase?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it politely indicates you won't buy",
+          "is_correct": true
+        },
+        {
+          "answer": "No, it's considered rude",
+          "is_correct": false
+        },
+        {
+          "answer": "It means you want to buy",
+          "is_correct": false
+        },
+        {
+          "answer": "It's only used for food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the purpose of these expressions in this section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To decide not to buy anything and leave the store politely",
+          "is_correct": true
+        },
+        {
+          "answer": "To bargain for a lower price",
+          "is_correct": false
+        },
+        {
+          "answer": "To ask where merchandise is",
+          "is_correct": false
+        },
+        {
+          "answer": "To order large quantities",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. When you decide not to buy anything and you want to leave the store\n\nWhen you find out that the store doesn't carry the item you want and you want to leave, you can use the following expressions:\n\nJaa, kekkoo desu.    (lit., 'Well, that's all right')\n\nThe word kekkoo means 'fine' or 'all right.' The above expression means something like 'If you don't have the merchandise I want, then I'll go without (i.e., I won't buy).'\n\nWhen you leave the store, you may want to express your gratitude to the clerk for showing you the merchandise by saying Doomo (arigatoo), etc.\n\nWhen you can't find what you want and you want to leave the store, you may say something like 'I'll come again.' This can be expressed as follows:\n\nJaa, mata kimasu.    Well, I'll come again"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "unit7_response_drill_c",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "デパートはどこにありますか。 (Depaato wa doko ni arimasu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "駅の前です。 (Eki no mae desu.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "交番はどこにありますか。 (Kooban wa doko ni arimasu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "デパートの右です。 (Depaato no migi desu.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "地下鉄の駅はどこにありますか。 (Chikatetsu no eki wa doko ni arimasu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "交番の左です。 (Kooban no hidari desu.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "本屋はどこにありますか。 (Hon-ya wa doko ni arimasu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "薬屋のとなりです。 (Kusuri-ya no tonari desu.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "レストランはどこにありますか。 (Resutoran wa doko ni arimasu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "デパートの近くです。 (Depaato no chikaku desu.)",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

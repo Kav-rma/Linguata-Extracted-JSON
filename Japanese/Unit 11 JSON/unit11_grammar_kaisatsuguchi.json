@@ -1,0 +1,259 @@
+{
+  "title": "unit11_grammar_kaisatsuguchi",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'kaisatsuguchi' (改札口) mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ticket window",
+          "is_correct": false
+        },
+        {
+          "answer": "gate (at station)",
+          "is_correct": true
+        },
+        {
+          "answer": "platform",
+          "is_correct": false
+        },
+        {
+          "answer": "vending machine",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When must you go through the kaisatsuguchi?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only when entering the platform area",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when exiting the platform area",
+          "is_correct": false
+        },
+        {
+          "answer": "Both when entering and exiting the platform area",
+          "is_correct": true
+        },
+        {
+          "answer": "Only at major stations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What two types of kaisatsuguchi exist in some stations of major cities?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Manual and digital",
+          "is_correct": false
+        },
+        {
+          "answer": "Automated gate and the one with an attendant",
+          "is_correct": true
+        },
+        {
+          "answer": "Entrance and exit only",
+          "is_correct": false
+        },
+        {
+          "answer": "Express and local",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How do you use the automated gate with a regular ticket?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Just walk through",
+          "is_correct": false
+        },
+        {
+          "answer": "Insert the ticket into the machine and remove it as you go through",
+          "is_correct": true
+        },
+        {
+          "answer": "Show the ticket to the camera",
+          "is_correct": false
+        },
+        {
+          "answer": "Hand it to the attendant",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Will your ticket be returned to you at the gate at your destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "No, your ticket will not be returned when you go through the gate at your destination",
+          "is_correct": true
+        },
+        {
+          "answer": "Only if you ask the attendant",
+          "is_correct": false
+        },
+        {
+          "answer": "Only if you have a teeki-ken",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which gate should you use if you have a kaisuu-ken?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The automated gate",
+          "is_correct": false
+        },
+        {
+          "answer": "The gate with an attendant — for the ticket to be punched or stamped",
+          "is_correct": true
+        },
+        {
+          "answer": "Either is fine",
+          "is_correct": false
+        },
+        {
+          "answer": "Only at the destination",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Why must you use the attended gate with a kaisuu-ken?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because automated gates don't recognize it",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the ticket must be punched or stamped by the attendant",
+          "is_correct": true
+        },
+        {
+          "answer": "Because kaisuu-ken is too expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "Because attendants give discounts",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When using a kaisuu-ken at your destination, what do you do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Keep the ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "Give the ticket to the attendant",
+          "is_correct": true
+        },
+        {
+          "answer": "Throw it away",
+          "is_correct": false
+        },
+        {
+          "answer": "Insert it into the machine",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Do all teeki-ken work in the automated gate?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, all of them",
+          "is_correct": false
+        },
+        {
+          "answer": "No, some teeki-ken allow automated gate use and others don't",
+          "is_correct": true
+        },
+        {
+          "answer": "Only on weekdays",
+          "is_correct": false
+        },
+        {
+          "answer": "Only at the major stations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "If you're unsure whether your teeki-ken works at the automated gate, what should you do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Try the automated gate anyway",
+          "is_correct": false
+        },
+        {
+          "answer": "Use the gate with an attendant",
+          "is_correct": true
+        },
+        {
+          "answer": "Buy a new ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait for someone else",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. Kaisatsuguchi (改札口) 'gate'\n\nWhen entering or exiting the platform area, you must go through a kaisatsuguchi (改札口). In some stations in major cities, there are two types of kaisatsuguchi: the automated gate and the one with an attendant. At such stations, if you have a regular ticket bought from the vending machine, you can go through the automated gate by simply inserting the ticket into the machine and removing it as you go through. Your ticket will not be returned when you go through the gate at your destination. If you have a kaisuu-ken (回数券), you must use the gate with an attendant, for your ticket must be punched or stamped by the attendant. (You give the ticket to the attendant at your destination.) With the teeki-ken (定期券) you should check whether you can use the automated gate or not, because some teeki-ken allow you to go through the automated gate and others don't. If you are not sure whether or not you can go through the automated gate with the ticket you have, it is better to use the one with an attendant."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

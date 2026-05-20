@@ -1,0 +1,259 @@
+{
+  "title": "unit19_grammar_how_to_ask_total_price",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Zenbu de ikura desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How much is it altogether?",
+          "is_correct": true
+        },
+        {
+          "answer": "How much is this one?",
+          "is_correct": false
+        },
+        {
+          "answer": "Where is the cashier?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you have change?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When would you use 'Zenbu de ikura desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When you have bought several items and want to know the total price",
+          "is_correct": true
+        },
+        {
+          "answer": "When you want to know the price of a single item",
+          "is_correct": false
+        },
+        {
+          "answer": "When you want to return an item",
+          "is_correct": false
+        },
+        {
+          "answer": "When you want to bargain",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'zenbu de' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "altogether / in all",
+          "is_correct": true
+        },
+        {
+          "answer": "each",
+          "is_correct": false
+        },
+        {
+          "answer": "cheaper",
+          "is_correct": false
+        },
+        {
+          "answer": "separately",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the English equivalent expression for 'Zenbu de ikura desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How much is that in all?",
+          "is_correct": true
+        },
+        {
+          "answer": "How much is each one?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is the cheapest?",
+          "is_correct": false
+        },
+        {
+          "answer": "Can you give me a discount?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which word in 'Zenbu de ikura desu ka?' means 'how much'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ikura",
+          "is_correct": true
+        },
+        {
+          "answer": "zenbu",
+          "is_correct": false
+        },
+        {
+          "answer": "de",
+          "is_correct": false
+        },
+        {
+          "answer": "desu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "If you wanted to ask the price of just one item rather than the total, which word would you NOT use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "zenbu de",
+          "is_correct": true
+        },
+        {
+          "answer": "ikura",
+          "is_correct": false
+        },
+        {
+          "answer": "desu ka",
+          "is_correct": false
+        },
+        {
+          "answer": "kore",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "A grocer might respond to 'Zenbu de ikura desu ka?' with which of the following?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Choodo 1000-en ni narimasu. (It comes to exactly 1000 yen.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Mata doozo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Irasshaimase.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "The expression 'Zenbu de ikura desu ka?' is most useful in which situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "After selecting multiple items, to find the total you must pay",
+          "is_correct": true
+        },
+        {
+          "answer": "When entering a store",
+          "is_correct": false
+        },
+        {
+          "answer": "When you receive too little change",
+          "is_correct": false
+        },
+        {
+          "answer": "When you leave the store",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In English, what question corresponds to this expression?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'How much is that in all?'",
+          "is_correct": true
+        },
+        {
+          "answer": "'Where do I pay?'",
+          "is_correct": false
+        },
+        {
+          "answer": "'Is this on sale?'",
+          "is_correct": false
+        },
+        {
+          "answer": "'May I have a bag?'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the main goal of this section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Learning how to ask the total price you should pay",
+          "is_correct": true
+        },
+        {
+          "answer": "Learning how to bargain",
+          "is_correct": false
+        },
+        {
+          "answer": "Learning how to count change",
+          "is_correct": false
+        },
+        {
+          "answer": "Learning fruit and vegetable counters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to ask the total price you pay\n\nIn English, when you have bought several items or you want to make sure of the price you must pay, you might ask 'How much is that in all?' The Japanese expression for this is:\n\nZenbu de ikura desu ka?    How much is it altogether?"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

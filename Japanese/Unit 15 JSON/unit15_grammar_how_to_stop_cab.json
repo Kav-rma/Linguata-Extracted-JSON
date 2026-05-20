@@ -1,0 +1,259 @@
+{
+  "title": "unit15_grammar_how_to_stop_cab",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What expression do you use to stop the cab at your destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Koko de tomete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Koko made onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko ga doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko ni ikimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Koko de tomete kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please go here.",
+          "is_correct": false
+        },
+        {
+          "answer": "Please stop here.",
+          "is_correct": true
+        },
+        {
+          "answer": "Where is this?",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm here.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the particle 'de' indicate after the word 'koko' in this sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The destination",
+          "is_correct": false
+        },
+        {
+          "answer": "The place where something has happened or will happen",
+          "is_correct": true
+        },
+        {
+          "answer": "The means of transportation",
+          "is_correct": false
+        },
+        {
+          "answer": "The time of the action",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In which previous lesson was the particle 'de' for location of action introduced?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 12",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 13",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 14",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 15",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you say 'Please stop at the next traffic light'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tsugi no shingoo de tomete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Tsugi no shingoo ni tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi no shingoo made tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi no shingoo no tomete kudasai.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How do you say 'Please stop at the third intersection'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mittsu-me no koosaten de tomete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Mittsu-me no koosaten ni tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Mittsu-me no koosaten made tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "San-bansen no koosaten de tomete kudasai.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Can the location word 'koko' in 'Koko de tomete kudasai' be replaced with other place expressions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, only 'koko' works",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, you can use various other place expressions you have learned to tell the cab driver where to stop",
+          "is_correct": true
+        },
+        {
+          "answer": "Only with intersections",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with hotels",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'tomete' come from?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "MASU form of tomemasu",
+          "is_correct": false
+        },
+        {
+          "answer": "TE form of tomemasu",
+          "is_correct": true
+        },
+        {
+          "answer": "Past form of tomemasu",
+          "is_correct": false
+        },
+        {
+          "answer": "Negative form of tomemasu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'kudasai' add to the sentence?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A question marker",
+          "is_correct": false
+        },
+        {
+          "answer": "A polite request meaning 'please'",
+          "is_correct": true
+        },
+        {
+          "answer": "A past tense marker",
+          "is_correct": false
+        },
+        {
+          "answer": "A negative marker",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence is grammatically correct for telling the driver to stop at the next corner?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tsugi no kado de tomete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Tsugi no kado ni tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi no kado o tomete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsugi no kado wa tomete kudasai.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. How to stop the cab at your destination\n\nWhen you want to stop the cab at your destination, you can use the following expression:\n\nKoko de tomete kudasai.    Please stop here\n\nNote the particle de (で) after the word koko 'here' in the sentence above. As we mentioned in Lesson 14, an expression of location like koko followed by de indicates the place where something has happened or will happen. Instead of koko in the sentence above you could also use various other place expressions you have learned to tell the cab driver where to stop. For example:\n\nTsugi no shingoo de tomete kudasai.        Please stop at the next traffic light\nMittsu-me no koosaten de tomete kudasai.   Please stop at the third intersection"
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

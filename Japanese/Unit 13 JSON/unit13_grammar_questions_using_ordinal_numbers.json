@@ -1,0 +1,259 @@
+{
+  "title": "unit13_grammar_questions_using_ordinal_numbers",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What expression is used to ask 'How many more stations before (station name)?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(station name) wa ikutsu-me desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "(station name) wa doko-me desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "(station name) wa nani-eki desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "(station name) wa nan-tsu desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'ikutsu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "how often",
+          "is_correct": false
+        },
+        {
+          "answer": "how many",
+          "is_correct": true
+        },
+        {
+          "answer": "how much",
+          "is_correct": false
+        },
+        {
+          "answer": "how long",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does the suffix '-me' indicate when added to a number?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It indicates that the preceding word is an ordinal number",
+          "is_correct": true
+        },
+        {
+          "answer": "It makes the number plural",
+          "is_correct": false
+        },
+        {
+          "answer": "It indicates a question",
+          "is_correct": false
+        },
+        {
+          "answer": "It marks past tense",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How would you ask 'How many stops is Yokohama (from here)?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yokohama wa ikutsu-me desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Yokohama ga nan eki desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Yokohama wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ikutsu-me ka Yokohama desu?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "If someone asks 'Yokohama wa ikutsu-me desu ka?' and the answer is 'Yottsu-me desu yo', what does it mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yokohama has four stations.",
+          "is_correct": false
+        },
+        {
+          "answer": "It (Yokohama) is the fourth one.",
+          "is_correct": true
+        },
+        {
+          "answer": "There are four trains to Yokohama.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yokohama is fourth in importance.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'sugimashita' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "arrived",
+          "is_correct": false
+        },
+        {
+          "answer": "passed",
+          "is_correct": true
+        },
+        {
+          "answer": "departed",
+          "is_correct": false
+        },
+        {
+          "answer": "stopped",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does '(your destination) wa moo sugimashita yo' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Your destination is the next stop.",
+          "is_correct": false
+        },
+        {
+          "answer": "We've already passed your destination.",
+          "is_correct": true
+        },
+        {
+          "answer": "Your destination is far away.",
+          "is_correct": false
+        },
+        {
+          "answer": "Your destination is coming up.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What might a Japanese person say if they don't know the answer to your question?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai, soo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Saa, wata(ku)shi mo shirimasen. (I don't know, either.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Iie, chigaimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Does English have a direct equivalent for 'ikutsu-me'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, it's 'how many'",
+          "is_correct": false
+        },
+        {
+          "answer": "No, English does not have a comparable expression, although you may see something like 'the how-many-eth'",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, it's 'which one'",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it's 'how often'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What kind of expression will the answer to a 'ikutsu-me' question typically include?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A time expression",
+          "is_correct": false
+        },
+        {
+          "answer": "An ordinal expression like mittsu-me, yottsu-me, etc.",
+          "is_correct": true
+        },
+        {
+          "answer": "A polite phrase",
+          "is_correct": false
+        },
+        {
+          "answer": "An apology",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Questions using ordinal numbers\n\nIn some situations, you may have to find out how many stations there are between the station at which you boarded the train and your destination, or how many stations there are before your destination. In such situations, you can use the following expression:\n\n(station name) wa ikutsu-me desu ka?\n\nEnglish does not have a comparable expression for ikutsu-me, although sometimes you may see something like 'the how-many-eth.' Ikutsu means 'how many' and, as we have seen, -me indicates the preceding word is an ordinal number. Thus, the above sentence can be translated as:\n\nHow many more stations before (station name)(from here)?\n\nThe answer to the above question will include an ordinal expression like mittsu-me, yottsu-me, etc. The following example will show how this question can be answered:\n\nA: Yokohama wa ikutsu-me desu ka?\nB: Yottsu-me desu yo.\n\nWhen you have already passed your destination, the Japanese will say something like this:\n\n(your destination) wa moo sugimashita yo.\nWe've already passed (your destination).\n\nWhen the person doesn't know the answer him/herself, s/he will say something like the following:\n\nSaa, wata(ku)shi mo shirimasen.    I don't know, either."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

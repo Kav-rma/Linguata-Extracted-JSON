@@ -1,0 +1,139 @@
+{
+  "title": "unit20_grammar_set_expressions_for_greetings",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Itte irasshai' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Please go and come back", "is_correct": true},
+        {"answer": "I'll go and come back", "is_correct": false},
+        {"answer": "Welcome home", "is_correct": false},
+        {"answer": "I'm back", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Itte mairimasu' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Please go and come back", "is_correct": false},
+        {"answer": "I'll go and come back", "is_correct": true},
+        {"answer": "Welcome home", "is_correct": false},
+        {"answer": "Good night", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When are 'Itte irasshai' and 'Itte mairimasu' exchanged?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "In a home when a family member leaves", "is_correct": true},
+        {"answer": "When meeting a stranger", "is_correct": false},
+        {"answer": "At a store when buying something", "is_correct": false},
+        {"answer": "Only at night", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Who says 'Itte mairimasu' (or 'Itte kimasu')?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The person going out", "is_correct": true},
+        {"answer": "The person staying behind", "is_correct": false},
+        {"answer": "A shopkeeper", "is_correct": false},
+        {"answer": "A stranger", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Who says 'Itte (i)rasshai'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Those remaining behind", "is_correct": true},
+        {"answer": "The person going out", "is_correct": false},
+        {"answer": "A customer", "is_correct": false},
+        {"answer": "A child only", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Besides family members, who else uses these expressions?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Non-family members who feel they belong to the same group (e.g., neighborhood or same company)", "is_correct": true},
+        {"answer": "Only complete strangers", "is_correct": false},
+        {"answer": "Only shopkeepers", "is_correct": false},
+        {"answer": "Only schoolchildren", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'Tadaima' literally mean and who says it?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'Right now' — said by the person who has returned", "is_correct": true},
+        {"answer": "'Welcome' — said by the person staying behind", "is_correct": false},
+        {"answer": "'Good night' — said at bedtime", "is_correct": false},
+        {"answer": "'Go and come back' — said when leaving", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Okaerinasai' literally mean and who says it?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'You have come home' — said by the person who has been waiting", "is_correct": true},
+        {"answer": "'I'm back' — said by the returning person", "is_correct": false},
+        {"answer": "'Good morning' — said at dawn", "is_correct": false},
+        {"answer": "'See you' — said when leaving", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Ordinarily, how should you respond to 'Itte irasshai'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "By saying Itte mairimasu", "is_correct": true},
+        {"answer": "By saying Tadaima", "is_correct": false},
+        {"answer": "By saying Okaerinasai", "is_correct": false},
+        {"answer": "By saying Konnichiwa", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which expressions are NOT used among family members?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Konnichiwa, Konbanwa, or Sayoonara", "is_correct": true},
+        {"answer": "Tadaima and Okaerinasai", "is_correct": false},
+        {"answer": "Itte mairimasu and Itte irasshai", "is_correct": false},
+        {"answer": "Ohayoo and Oyasuminasai", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Set expressions for greetings\n\nItte (i)rasshai.    See you. Good-bye.\nItte mairimasu.     See you. Good-bye.\n\nThe expression Itte irasshai literally means 'Please go and come back,' and Itte mairimasu means 'I'll go and come back.' These expressions are exchanged in a home when a family member leaves. The person going out says Itte mairimasu or Itte kimasu and those remaining say Itte (i)rasshai.\n\nThese expressions are also used among non-family members when they feel that they belong to the same group. The concept of 'group' differs in its range depending on the individual, but usually people living in a neighborhood or people working at the same company would be regarded as members of a group.\n\nOrdinarily, you should respond to Itte irasshai by saying Itte mairimasu. However, once you have said Jaa, mata or Jaa, gomen kudasai, you don't have to reply to Itte irasshai.\n\nTadaima        I'm back.\nOkaerinasai.   Welcome home.\n\nTadaima literally means 'right now' and is said by the person who has returned. The person who has been waiting for the person who has returned says Okaerinasai, which literally means 'You have come home.' In English, people use various expressions when leaving and coming home but in Japan set expressions are used for these occasions. Such expressions as Konnichiwa, Konbanwa or Sayoonara are not used among family members."
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 17,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

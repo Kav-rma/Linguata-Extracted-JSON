@@ -1,0 +1,259 @@
+{
+  "title": "unit11_grammar_how_to_buy_correct_ticket",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why might it be hard to buy the correct ticket?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because vending machines are confusing",
+          "is_correct": false
+        },
+        {
+          "answer": "Because station names on the fare chart are usually written only in Kanji",
+          "is_correct": true
+        },
+        {
+          "answer": "Because the fares are hidden",
+          "is_correct": false
+        },
+        {
+          "answer": "Because there are too many destinations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the first suggested approach if you cannot read station names?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Give up and take a taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "Buy the lowest fare ticket and pay the difference at the fare adjustment window (unchin/ryookin-seesanjo) at your destination",
+          "is_correct": true
+        },
+        {
+          "answer": "Try every button on the machine",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait outside the gate",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the 'unchin/ryookin-seesanjo'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ticket vending machine",
+          "is_correct": false
+        },
+        {
+          "answer": "Fare adjustment window",
+          "is_correct": true
+        },
+        {
+          "answer": "Information desk",
+          "is_correct": false
+        },
+        {
+          "answer": "Lost and found",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "After paying the fare difference at the adjustment window, what do you get?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A new ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "A receipt that you give to the gate attendant",
+          "is_correct": true
+        },
+        {
+          "answer": "A free pass",
+          "is_correct": false
+        },
+        {
+          "answer": "Nothing — you can just leave",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Can you use the automated gate with a fare adjustment receipt?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, anytime",
+          "is_correct": false
+        },
+        {
+          "answer": "No, you cannot go through the automated gate with the receipt",
+          "is_correct": true
+        },
+        {
+          "answer": "Only during off-peak hours",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with the attendant present",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What Japanese expression can you use to ask someone to buy a ticket for you?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kippu o kaitai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kippu o katte kudasaimasen ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Kippu ga arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kippu doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'Kippu o katte kudasaimasen ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where can I buy a ticket?",
+          "is_correct": false
+        },
+        {
+          "answer": "Would you please buy a ticket for me?",
+          "is_correct": true
+        },
+        {
+          "answer": "Can I buy a ticket here?",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is a ticket?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How would you ask the fare to your destination if you only want to know the price?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(destination) e ikitai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) e ikitain desu ga, ikura desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "(destination) wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) kara ikura desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is suggested as a preparation step before going to the station?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Memorize all Kanji station names",
+          "is_correct": false
+        },
+        {
+          "answer": "Ask a Japanese friend to write the name of the station in Kanji beforehand",
+          "is_correct": true
+        },
+        {
+          "answer": "Bring extra cash",
+          "is_correct": false
+        },
+        {
+          "answer": "Reserve a seat",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "After getting the Kanji station name written by a friend, what do you do at the station?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Show it to the conductor",
+          "is_correct": false
+        },
+        {
+          "answer": "Match it with the one in the fare chart to find out the fare",
+          "is_correct": true
+        },
+        {
+          "answer": "Throw it away",
+          "is_correct": false
+        },
+        {
+          "answer": "Take it to the police box",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. How to buy the correct ticket\n\nSince the station names on the fare chart are usually written only in Kanji, you need to be able to read the Kanji in order to buy the correct ticket unless you know the fare beforehand. You may wonder what you should do if you cannot read the station names and don't know the fare. The following are some suggestions for such occasions:\n\na. Buy the lowest fare ticket from the machine, take the train and go to the unchin/ryookin-seesanjo (運賃/料金精算所) 'fare adjustment window' before you go through the gate at your destination. The clerk there will tell you how much the difference is. Pay the difference and get a receipt from the clerk. When you go through the gate give the receipt to the attendant. (You can't go through the automated gate with the receipt.)\n\nb. Ask a Japanese person near the vending machine to buy the ticket for you. The expressions that can be used for this purpose are:\n\n(your destination) e ikitain desu.       I want to go to (your destination)\nKippu o katte kudasaimasen ka?          Would you please buy a ticket for me?\n\nc. If you only want to know the fare, you can ask somebody near you by saying:\n\n(your destination) e ikitain desu ga, ikura desu ka?\nI want to go to (your destination), but how much is it?\n\nd. Ask a Japanese friend to write the name of the station to which you are going in Kanji beforehand. (If your friend knows the fare, you don't need to do this, of course.) When you buy a ticket, match the Kanji station name you have with the one in the fare chart and find out the fare."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

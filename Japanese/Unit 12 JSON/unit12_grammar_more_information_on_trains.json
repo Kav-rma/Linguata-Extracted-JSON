@@ -1,0 +1,259 @@
+{
+  "title": "unit12_grammar_more_information_on_trains",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the shortest trip recommended to experience the bullet train?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A 15-minute ride to Shinagawa",
+          "is_correct": false
+        },
+        {
+          "answer": "The 43-minute ride to Odawara",
+          "is_correct": true
+        },
+        {
+          "answer": "A 2-hour ride to Kyoto",
+          "is_correct": false
+        },
+        {
+          "answer": "A 30-minute ride to Yokohama",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which Shinkansen train is faster, Hikari or Kodama?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kodama is faster",
+          "is_correct": false
+        },
+        {
+          "answer": "Hikari is faster — it makes fewer stops",
+          "is_correct": true
+        },
+        {
+          "answer": "They are equally fast",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither — both are slow",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the longest Hikari distance?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "500 kilometers from Tokyo to Kyoto",
+          "is_correct": false
+        },
+        {
+          "answer": "1,176.5 kilometers from Tokyo to Hakata in Kyushu",
+          "is_correct": true
+        },
+        {
+          "answer": "2,000 kilometers across Japan",
+          "is_correct": false
+        },
+        {
+          "answer": "300 kilometers from Tokyo to Nagoya",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How long does the Hikari take to travel between Tokyo and Kyoto (513.6 km)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "1 hour 30 minutes",
+          "is_correct": false
+        },
+        {
+          "answer": "2 hours 53 minutes",
+          "is_correct": true
+        },
+        {
+          "answer": "4 hours",
+          "is_correct": false
+        },
+        {
+          "answer": "5 hours 8 minutes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How frequent is the bullet train service?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Once an hour",
+          "is_correct": false
+        },
+        {
+          "answer": "About four Hikari and three or four Kodama trains leave Tokyo every hour starting at 6 a.m.",
+          "is_correct": true
+        },
+        {
+          "answer": "Every 5 minutes",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in the morning",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How far in advance can reserved seats on Hikari/Kodama be sold?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "30 days",
+          "is_correct": false
+        },
+        {
+          "answer": "7 days in advance at the Green Window",
+          "is_correct": true
+        },
+        {
+          "answer": "On the same day only",
+          "is_correct": false
+        },
+        {
+          "answer": "1 day in advance",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the Japanese name for the 'Green Window' where reserved seats are sold?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Aoi madoguchi",
+          "is_correct": false
+        },
+        {
+          "answer": "Midori no madoguchi",
+          "is_correct": true
+        },
+        {
+          "answer": "Guriin uriba",
+          "is_correct": false
+        },
+        {
+          "answer": "Shitee madoguchi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "From which Tokyo station route do Tokaido limited express (tokkyuu) trains usually depart?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Trains leave from Tokyo station between 4:30 a.m. and 7:25 p.m. at irregular intervals",
+          "is_correct": true
+        },
+        {
+          "answer": "Trains leave only in the morning",
+          "is_correct": false
+        },
+        {
+          "answer": "Trains leave only at night",
+          "is_correct": false
+        },
+        {
+          "answer": "Trains leave every 15 minutes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What are the two types of sleepers available on limited expresses?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'A' (one-bed compartments or two berths) and 'B' (two-berth or three-berth)",
+          "is_correct": true
+        },
+        {
+          "answer": "Economy and First Class",
+          "is_correct": false
+        },
+        {
+          "answer": "Upper and Lower",
+          "is_correct": false
+        },
+        {
+          "answer": "Local and Express",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Where must reserved seat, express, limited express, and sleeper tickets be obtained?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At any vending machine",
+          "is_correct": false
+        },
+        {
+          "answer": "At the Green Window (Midori no madoguchi)",
+          "is_correct": true
+        },
+        {
+          "answer": "On the train",
+          "is_correct": false
+        },
+        {
+          "answer": "At kiosks only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "7. More information on trains\n\nFor a Ride on the Bullet Train\n\nThe shortest trip that you can take to get the feel of the 'bullet train,' reputedly the most comfortable and fastest in the world, is the 43-minute ride to Odawara. So, if you have a bit more than two hours to spare and are willing to invest 5,140 yen (2,570 yen one way) you can experience a ride on the bullet train without having to go all the way to Kyoto or Osaka. The bullet train is known as the Shinkansen. There are two Shinkansen trains: the Hikari and the Kodama. For the short ride, you take the Kodama. Between Tokyo and Odawara, it stops only at Shin-Yokohama, up to which it runs at a leisurely pace. From there to Odawara, it goes faster, although not quite at maximum speed.\n\nStations\n\nThe Hikari is the faster train because it makes fewer stops. The longest Hikari distance is the 1,176.5 kilometers from Tokyo to Hakata in Kyushu. The fastest Hikari service between these points takes 6 hours and 56 minutes, with six stops in between -- Nagoya, Kyoto, Shin Osaka, Okayama, Hiroshima and Kokura. The slowest service takes 7 hours 48 minutes with additional stops beyond Okayama. The Hikari covers the distance between Tokyo and Kyoto (513.6 kilometers) in 2 hours and 53 minutes, Tokyo-Shin Osaka in 3 hours 10 minutes, and Tokyo-Hiroshima (fastest service) in 5 hours 8 minutes.\n\nThe Kodama takes one hour longer to get to Kyoto. There are no Kodama trains which go through from Tokyo to Hakata. The Kodama service is essentially Tokyo to Shin Osaka and Shin Osaka to Hakata.\n\nFrequency\n\nThe bullet train service is very frequent. Starting at 6 a.m., about four Hikari trains and three or four Kodama trains leave Tokyo every hour. The day's last Hikari for Hakata leaves Tokyo at 5 p.m., arriving at 11:56 p.m. The last Hikari for Shin Osaka (one stop beyond Kyoto) leaves at 8:24 p.m. The last Kodama for Shin Osaka leaves at 7:28 p.m. Both the Hikari and Kodama have reserved seats which are sold seven days in advance at the Green Window installed at major JR stations. At Tokyo station they are sold at the south end of the Yaesu side.\n\nOther Trains\n\nMore leisurely rail trips from Tokyo to Osaka and points beyond can be taken on the Tokaido limited express (tokkyuu) trains. Since the destination of most of the Tokaido limited express trains is Kyushu, they are not scheduled for convenient arrival times in Osaka. For going to Hiroshima, the limited express is best.\n\nLimited expresses leave from Tokyo station between 4:30 a.m. and 7:25 p.m. at irregular intervals. The travel time to Osaka is about 7 hours 30 minutes, but some limited expresses going west do not stop at Osaka. The travel time to Hiroshima is about 12 hours; to Hakata in Kyushu, about 16 hours 30 minutes; and to Nagasaki, about 19 hours 30 minutes.\n\nSleepers\n\nSleepers are available at extra charge on the limited expresses. There are two types of sleepers, 'A' and 'B.' The A sleepers are either one-bed compartments or just two berths, the upper and the lower.\n\nThe B sleepers are either the two-berth type or three berths--the upper, middle, and lower. The berths in the A sleepers are fairly roomy. The upper berth is 30 inches wide and 74 inches long and the lower berth is 37 by 74 inches. The berths of the B sleepers are just as long but only 20.5 inches wide. The cost of the berth is in addition to the regular limited express fares.\n\nReserved seat, express, limited express, and sleeper tickets must be obtained at the Green Window (Midori no madoguchi)."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

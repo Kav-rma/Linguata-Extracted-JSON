@@ -1,0 +1,110 @@
+{
+  "title": "unit18_substitution_drill_c",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Write a Japanese sentence using the pattern '___ o ___ kudasai.' base: 'Sore o hitotsu kudasai.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sore o hitotsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Write a Japanese sentence using the pattern '___ o hitotsu kudasai.' with 'Akai no'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Akai no o hitotsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Write a Japanese sentence using the pattern 'Akai no o ___ kudasai.' with 'mittsu'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Akai no o mittsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write a Japanese sentence using the pattern '___ o mittsu kudasai.' with 'Sono sakana'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sono sakana o mittsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write a Japanese sentence using the pattern '___ o mittsu kudasai.' with 'Chiisai no'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chiisai no o mittsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write a Japanese sentence using the pattern 'Chiisai no o ___ kudasai.' with 'futatsu'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chiisai no o futatsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Write a Japanese sentence using the pattern '___ o futatsu kudasai.' with 'Ookii no'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ookii no o futatsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Write a Japanese sentence using the pattern '___ o futatsu kudasai.' with 'Aoi no'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Aoi no o futatsu kudasai.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

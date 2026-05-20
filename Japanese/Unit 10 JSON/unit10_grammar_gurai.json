@@ -1,0 +1,259 @@
+{
+  "title": "unit10_grammar_gurai",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'gurai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "exactly",
+          "is_correct": false
+        },
+        {
+          "answer": "about, approximately",
+          "is_correct": true
+        },
+        {
+          "answer": "more than",
+          "is_correct": false
+        },
+        {
+          "answer": "less than",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where does 'gurai' appear relative to the quantity expression?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before the quantity",
+          "is_correct": false
+        },
+        {
+          "answer": "After the quantity",
+          "is_correct": true
+        },
+        {
+          "answer": "Inside the quantity",
+          "is_correct": false
+        },
+        {
+          "answer": "Position doesn't matter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where does 'about' or 'approximately' appear in English relative to the quantity?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "After the quantity",
+          "is_correct": false
+        },
+        {
+          "answer": "Before the quantity",
+          "is_correct": true
+        },
+        {
+          "answer": "Inside the quantity",
+          "is_correct": false
+        },
+        {
+          "answer": "Position doesn't matter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does '10-pun gurai desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's exactly 10 minutes.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's about 10 minutes.",
+          "is_correct": true
+        },
+        {
+          "answer": "It's more than 10 minutes.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's less than 10 minutes.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does '50 meetoru gurai desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's exactly 50 meters.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's about 50 meters.",
+          "is_correct": true
+        },
+        {
+          "answer": "It's more than 50 meters.",
+          "is_correct": false
+        },
+        {
+          "answer": "It's less than 50 meters.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How would you say 'about 5 minutes' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "gurai 5-fun",
+          "is_correct": false
+        },
+        {
+          "answer": "5-fun gurai",
+          "is_correct": true
+        },
+        {
+          "answer": "5 gurai-fun",
+          "is_correct": false
+        },
+        {
+          "answer": "gurai 5",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How would you say 'about 80 meters' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "80 gurai meetoru",
+          "is_correct": false
+        },
+        {
+          "answer": "gurai 80 meetoru",
+          "is_correct": false
+        },
+        {
+          "answer": "80 meetoru gurai",
+          "is_correct": true
+        },
+        {
+          "answer": "meetoru 80 gurai",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which English word is 'gurai' closest in meaning to?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "either",
+          "is_correct": false
+        },
+        {
+          "answer": "approximately",
+          "is_correct": true
+        },
+        {
+          "answer": "always",
+          "is_correct": false
+        },
+        {
+          "answer": "really",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Is 'gurai' used after numerical/quantity expressions only?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes — it appears after a quantity expression",
+          "is_correct": true
+        },
+        {
+          "answer": "No — it can precede the quantity",
+          "is_correct": false
+        },
+        {
+          "answer": "No — it is only used with verbs",
+          "is_correct": false
+        },
+        {
+          "answer": "No — it is only used with adjectives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does '15-fun gurai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "about 15 minutes",
+          "is_correct": true
+        },
+        {
+          "answer": "exactly 15 minutes",
+          "is_correct": false
+        },
+        {
+          "answer": "more than 15 minutes",
+          "is_correct": false
+        },
+        {
+          "answer": "less than 15 minutes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. gurai 'about'\n\nThe word gurai is comparable to English 'about' or 'approximately.' Note that in Japanese gurai follows the quantity expression while in English 'about' or 'approximately' precedes.\n\nExamples:\na. 10-pun gurai desu.        (It's) about 10 minutes.\nb. 50 meetoru gurai desu.    (It's) about 50 meters."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

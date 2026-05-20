@@ -1,0 +1,259 @@
+{
+  "title": "unit17_grammar_indicate_preference_different",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the word 'chigau' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "same",
+          "is_correct": false
+        },
+        {
+          "answer": "different",
+          "is_correct": true
+        },
+        {
+          "answer": "large",
+          "is_correct": false
+        },
+        {
+          "answer": "small",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'chigau iro' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "different color(s)",
+          "is_correct": true
+        },
+        {
+          "answer": "different size(s)",
+          "is_correct": false
+        },
+        {
+          "answer": "different style(s)",
+          "is_correct": false
+        },
+        {
+          "answer": "same color(s)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'chigau saizu no seetaa' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "sweater in a different size",
+          "is_correct": true
+        },
+        {
+          "answer": "sweater in a different color",
+          "is_correct": false
+        },
+        {
+          "answer": "sweater in a different style",
+          "is_correct": false
+        },
+        {
+          "answer": "the same sweater",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'katachi' mean in this context?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "color",
+          "is_correct": false
+        },
+        {
+          "answer": "size",
+          "is_correct": false
+        },
+        {
+          "answer": "style",
+          "is_correct": true
+        },
+        {
+          "answer": "price",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you ask 'Do you carry them in different sizes/colors/styles?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Chigau saizu/iro/katachi no wa arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Chigau saizu/iro/katachi no o misete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Onaji saizu/iro/katachi desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Chigau saizu/iro/katachi desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How do you say 'Please show me this/these in different sizes/colors/styles'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Chigau saizu/iro/katachi no o misete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Chigau saizu/iro/katachi no wa arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Onaji no o misete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Chigau no desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How is 'chigau' used grammatically?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Just like its English equivalent 'different'",
+          "is_correct": true
+        },
+        {
+          "answer": "Only as a verb at the end of a sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with the particle no",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in questions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'chigau iro no o misete kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please show me one in a different color.",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you have a different color?",
+          "is_correct": false
+        },
+        {
+          "answer": "This color is different.",
+          "is_correct": false
+        },
+        {
+          "answer": "Please show me the same color.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What pattern is used to say 'a sweater in a different size'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "chigau saizu no seetaa",
+          "is_correct": true
+        },
+        {
+          "answer": "seetaa no chigau saizu",
+          "is_correct": false
+        },
+        {
+          "answer": "saizu chigau seetaa",
+          "is_correct": false
+        },
+        {
+          "answer": "seetaa wa chigau saizu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which three nouns are used with 'chigau' in this section to indicate preference?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "saizu (size), iro (color), katachi (style)",
+          "is_correct": true
+        },
+        {
+          "answer": "ookii, chiisai, yasui",
+          "is_correct": false
+        },
+        {
+          "answer": "ue, shita, migi",
+          "is_correct": false
+        },
+        {
+          "answer": "kono, sono, ano",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Another way to indicate your preference: how to say 'one in a different size/color/style'\n\nThe word chigau 'different' can be used just like its English equivalent, as the following example shows:\n\nchigau iro    different color(s)\n\nWhen you want to say 'a sweater in a different size/color/style,' you can use the following pattern:\n\nchigau saizu no seetaa     sweater in different size(s)\nchigau iro no seetaa       sweater in different color(s)\nchigau katachi no seetaa   sweater in different style(s)\n\nThus, when you want to say something like 'Do you carry them in different sizes/colors/styles?' or 'Please show me some in different sizes/colors/styles,' you can use the following expressions:\n\na. Chigau saizu/iro/katachi no wa arimasu ka?    Do you carry them in different sizes/colors/styles?\nb. Chigau saizu/iro/katachi no o misete kudasai.    Please show me this/these in different sizes/colors/styles"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

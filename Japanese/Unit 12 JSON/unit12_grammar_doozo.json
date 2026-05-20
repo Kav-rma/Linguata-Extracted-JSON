@@ -1,0 +1,259 @@
+{
+  "title": "unit12_grammar_doozo",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Doozo' mean when offering a seat?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Excuse me",
+          "is_correct": false
+        },
+        {
+          "answer": "Please (have a seat)",
+          "is_correct": true
+        },
+        {
+          "answer": "Thank you",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm sorry",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Is 'ladies first' generally practiced in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, always",
+          "is_correct": false
+        },
+        {
+          "answer": "No, it is not generally practiced in Japan",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in business settings",
+          "is_correct": false
+        },
+        {
+          "answer": "Only on trains",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "To whom is it a courtesy to offer your seat in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only women",
+          "is_correct": false
+        },
+        {
+          "answer": "The elderly or a mother with a small child",
+          "is_correct": true
+        },
+        {
+          "answer": "Only foreigners",
+          "is_correct": false
+        },
+        {
+          "answer": "Business people",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What might happen if a child asks its mother for a seat in front of you?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Nothing — it's not a custom in Japan",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese people who happen to be sitting in front of them usually feel obliged to offer a seat",
+          "is_correct": true
+        },
+        {
+          "answer": "The mother will move to another car",
+          "is_correct": false
+        },
+        {
+          "answer": "Other passengers complain",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the consequence if you choose to ignore a child's request as a foreigner?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You may be reprimanded",
+          "is_correct": false
+        },
+        {
+          "answer": "People will generally assume you did not understand what the child said",
+          "is_correct": true
+        },
+        {
+          "answer": "You will be asked to leave the train",
+          "is_correct": false
+        },
+        {
+          "answer": "You will be fined",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is a 'shirubaa shiito' (literally 'silver seat')?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A first-class seat",
+          "is_correct": false
+        },
+        {
+          "answer": "A priority seat for senior citizens and the handicapped",
+          "is_correct": true
+        },
+        {
+          "answer": "A reserved seat",
+          "is_correct": false
+        },
+        {
+          "answer": "A children's seat",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Why should you avoid sitting in a 'shirubaa shiito' (silver seat)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because it's expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it's reserved for senior citizens and the handicapped, unless you consider yourself elderly or handicapped",
+          "is_correct": true
+        },
+        {
+          "answer": "Because it's broken",
+          "is_correct": false
+        },
+        {
+          "answer": "Because foreigners are not allowed",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the general advice about sitting on a crowded train?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Avoid sitting",
+          "is_correct": false
+        },
+        {
+          "answer": "Sit down whenever you find a seat — you will be much safer and more comfortable",
+          "is_correct": true
+        },
+        {
+          "answer": "Only sit if no one else is around",
+          "is_correct": false
+        },
+        {
+          "answer": "Stand near the door",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is a typical way to express that you want to offer your seat?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Saying 'Sumimasen'",
+          "is_correct": false
+        },
+        {
+          "answer": "Saying 'Doozo'",
+          "is_correct": true
+        },
+        {
+          "answer": "Saying 'Onegaishimasu'",
+          "is_correct": false
+        },
+        {
+          "answer": "Saying 'Sayoonara'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "On which type of trains will you typically find a 'shirubaa shiito'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only on bullet trains",
+          "is_correct": false
+        },
+        {
+          "answer": "On JR trains",
+          "is_correct": true
+        },
+        {
+          "answer": "Only on private trains",
+          "is_correct": false
+        },
+        {
+          "answer": "Only on subways",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. Doozo 'Please (have a seat)' (when you want to offer your seat)\n\nAlthough 'ladies first' is not generally practiced in Japan, it is a courtesy to offer your seat to the elderly or to a mother with a small child. When you want to offer your seat, you can say Doozo 'Please.'\n\nSometimes you may hear a child asking its mother for a seat. Japanese people who happen to be sitting in front of them usually feel obliged to offer a seat. If you feel the same way, go ahead and offer your seat. If you don't, you may choose to ignore it since, as a foreigner, people will generally assume you did not understand what the child said.\n\nIf you take a JR train, it will probably have a shirubaa shiito (lit., 'silver seat') for senior citizens and the handicapped. Avoid sitting in this seat unless you consider yourself elderly or handicapped.\n\nAs a rule, sit down whenever you find a seat. Especially in a crowded train or bus, you will be much safer and more comfortable if you are seated."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

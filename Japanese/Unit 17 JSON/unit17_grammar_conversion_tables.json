@@ -1,0 +1,259 @@
+{
+  "title": "unit17_grammar_conversion_tables",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why are conversion tables useful when shopping in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because Japanese sizes are the same as American sizes",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the sizes used in Japan are often different from those used in America, England, and the Continent",
+          "is_correct": true
+        },
+        {
+          "answer": "Because clothing is cheaper in Japan",
+          "is_correct": false
+        },
+        {
+          "answer": "Because Japanese stores don't use sizes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "For women's dresses and suits, what Japanese size corresponds to American size 8?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Japanese 9",
+          "is_correct": true
+        },
+        {
+          "answer": "Japanese 11",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese 13",
+          "is_correct": false
+        },
+        {
+          "answer": "Japanese 7",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "For women's dresses and suits, what English size corresponds to Japanese size 9?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English 30",
+          "is_correct": false
+        },
+        {
+          "answer": "English 32",
+          "is_correct": true
+        },
+        {
+          "answer": "English 34",
+          "is_correct": false
+        },
+        {
+          "answer": "English 38",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "For women's shoes, what American size corresponds to Japanese size 23?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "American 5",
+          "is_correct": false
+        },
+        {
+          "answer": "American 6",
+          "is_correct": true
+        },
+        {
+          "answer": "American 7",
+          "is_correct": false
+        },
+        {
+          "answer": "American 8",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "For men's suits, overcoats and sweaters, what does the Japanese size 'M' correspond to in American sizes?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "American 34",
+          "is_correct": false
+        },
+        {
+          "answer": "American 36-38",
+          "is_correct": true
+        },
+        {
+          "answer": "American 42",
+          "is_correct": false
+        },
+        {
+          "answer": "American 46",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "For men's shirts and collars, what American size corresponds to Japanese size 36?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "American 14",
+          "is_correct": true
+        },
+        {
+          "answer": "American 15",
+          "is_correct": false
+        },
+        {
+          "answer": "American 16",
+          "is_correct": false
+        },
+        {
+          "answer": "American 17",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "For men's shoes, what American size corresponds to Japanese size 24.5?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "American 5.5",
+          "is_correct": true
+        },
+        {
+          "answer": "American 6.5",
+          "is_correct": false
+        },
+        {
+          "answer": "American 7.5",
+          "is_correct": false
+        },
+        {
+          "answer": "American 8.5",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "For women's dresses and suits, what Continental size corresponds to Japanese size 11?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Continental 38",
+          "is_correct": false
+        },
+        {
+          "answer": "Continental 40",
+          "is_correct": true
+        },
+        {
+          "answer": "Continental 42",
+          "is_correct": false
+        },
+        {
+          "answer": "Continental 44",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "For men's shirts and collars, what Continental size corresponds to Japanese size 38?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Continental 36",
+          "is_correct": false
+        },
+        {
+          "answer": "Continental 37",
+          "is_correct": false
+        },
+        {
+          "answer": "Continental 38",
+          "is_correct": true
+        },
+        {
+          "answer": "Continental 40",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "For women's shoes, what English size corresponds to Japanese size 24?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English 4.5",
+          "is_correct": false
+        },
+        {
+          "answer": "English 5",
+          "is_correct": false
+        },
+        {
+          "answer": "English 5.5",
+          "is_correct": true
+        },
+        {
+          "answer": "English 6",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "7. Conversion Tables\n\nThe following are conversion tables showing the sizes of dresses, suits, shirts, and shoes. The sizes used in Japan are often different from those used in America, England, and the Continent. This chart may help you avoid confusion.\n\nWOMEN — dresses and suits:\nJapanese:    9   11   13   15   17   19   21\nAmerican:    8   10   12   14   16   18   20\nEnglish:    32   34   36   38   40   42   44\nContinental: 38  40   42   44   46   48   50\n\nWOMEN — shoes:\nJapanese:   23   23.5   24   24.5   25   25.5   26\nAmerican:    6    6.5    7    7.5    8    8.5    9\nEnglish:    4.5    5    5.5    6    6.5    7    7.5\nContinental: 36   37    38    38   38    39    40\n\nMEN — suits, overcoats and sweaters:\nJapanese:    S        M           L           LL\nAmerican:    34   36   38   40   42   44   46\nEnglish:     34   36   38   40   42   44   46\nContinental: 44   46   48   50   52   54\n\nMEN — shirts and collars:\nJapanese:    36    37    38    39    40    41    42\nAmerican:    14   14.5   15   15.5   16   16.5   17\nEnglish:     14   14.5   15   15.5   16   16.5   17\nContinental: 36    37    38    39    40    41    42\n\nMEN — shoes:\nJapanese:   24.5    26    27.5    28    29\nAmerican:    5.5   6.5    7.5    8.5   9.5   10.5   11.5\nEnglish:      5     6      7      8     9     10     11\nContinental: 39    40     41     42    43    44     45"
+    }
+  ],
+  "metadata": {
+    "page_start": 16,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

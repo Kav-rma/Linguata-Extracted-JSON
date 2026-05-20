@@ -1,0 +1,259 @@
+{
+  "title": "unit17_grammar_when_you_want_to_say_please_show_me",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What pattern do you use to ask somebody to do something for you?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "V (TE-form) kudasai",
+          "is_correct": true
+        },
+        {
+          "answer": "V (MASU-form) kudasai",
+          "is_correct": false
+        },
+        {
+          "answer": "V (dictionary form) kudasai",
+          "is_correct": false
+        },
+        {
+          "answer": "V (TA-form) kudasai",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Yukkuri itte kudasai' mean? (Lesson 2)",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please say (it) again",
+          "is_correct": false
+        },
+        {
+          "answer": "Please say (it) slowly",
+          "is_correct": true
+        },
+        {
+          "answer": "Please write (it) here",
+          "is_correct": false
+        },
+        {
+          "answer": "Please call a taxi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Moo ichi-do itte kudasai' mean? (Lesson 2)",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please say (it) slowly",
+          "is_correct": false
+        },
+        {
+          "answer": "Please say (it) again",
+          "is_correct": true
+        },
+        {
+          "answer": "Please write (it) here",
+          "is_correct": false
+        },
+        {
+          "answer": "Please show me",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Koko ni kaite kudasai' mean? (Lesson 4)",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please say (it) here",
+          "is_correct": false
+        },
+        {
+          "answer": "Please write (it) here",
+          "is_correct": true
+        },
+        {
+          "answer": "Please show me here",
+          "is_correct": false
+        },
+        {
+          "answer": "Please come here",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Takushii o yonde kudasai' mean? (Lesson 15)",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please stop the taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "Please call a taxi (for me)",
+          "is_correct": true
+        },
+        {
+          "answer": "Please take a taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "Please show me the taxi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What new verb is learned in this lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "misete 'show'",
+          "is_correct": true
+        },
+        {
+          "answer": "yonde 'call'",
+          "is_correct": false
+        },
+        {
+          "answer": "kaite 'write'",
+          "is_correct": false
+        },
+        {
+          "answer": "itte 'say'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you ask a salesclerk to show you some merchandise?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(merchandise) o misete kudasai",
+          "is_correct": true
+        },
+        {
+          "answer": "(merchandise) o katte kudasai",
+          "is_correct": false
+        },
+        {
+          "answer": "(merchandise) o yonde kudasai",
+          "is_correct": false
+        },
+        {
+          "answer": "(merchandise) wa doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Why is the pattern called the TE-form of the verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because the verb ends with -te (or -de)",
+          "is_correct": true
+        },
+        {
+          "answer": "Because it's used for tea ceremonies",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it starts with te-",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it's a polite form",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What happens to the particle 'o' in actual conversation, according to the note?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is always required",
+          "is_correct": false
+        },
+        {
+          "answer": "It is often dropped, even though grammatically necessary",
+          "is_correct": true
+        },
+        {
+          "answer": "It changes to 'wa'",
+          "is_correct": false
+        },
+        {
+          "answer": "It changes to 'ga'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'Sore (o) misete kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please show me this",
+          "is_correct": false
+        },
+        {
+          "answer": "Please show me that",
+          "is_correct": true
+        },
+        {
+          "answer": "Please buy that",
+          "is_correct": false
+        },
+        {
+          "answer": "Please call that",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. When you want to say 'Please show me...'\n\nAs we learned in earlier lessons, when you want to ask somebody to do something for you, you can use the following pattern:\n\nV (TE-form) kudasai.    'Please V (for me),' where V indicates a verb form\n\nSo far we have learned the following expressions, which include the above pattern:\n\nYukkuri itte kudasai. (Lesson 2)        Please say (it) slowly\nMoo ichi-do itte kudasai. (Lesson 2)    Please say (it) again\nKoko ni kaite kudasai. (Lesson 4)       Please write (it) here\nUeno ni tsuitara oshiete kudasai. (Lesson 13)    Please tell me when we get to Ueno\nTakushii o yonde kudasai. (Lesson 15)   Please call a taxi (for me)\n\nSince in this pattern the verb ends with -te (or -de), this form is often referred to as the Te-form of the verb. In this lesson, we learn the verb misete 'show.' You can use this word when you want to ask a salesclerk to show you some merchandise, as in the following example:\n\n(merchandise) o misete kudasai.    Please show me (merchandise)\n\nNote: Although, grammatically speaking, the particle o is necessary after the name of the merchandise, it is often dropped in actual conversation. Hence:\n\nSore (o) misete kudasai.    Please show me that"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

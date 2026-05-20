@@ -1,0 +1,259 @@
+{
+  "title": "unit13_grammar_basu",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is special about Japanese buses regarding stop announcements?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The driver shouts each stop manually",
+          "is_correct": false
+        },
+        {
+          "answer": "They are equipped with a tape of pre-recorded names of their stops, which announces the name of the next stop at the appropriate time",
+          "is_correct": true
+        },
+        {
+          "answer": "Passengers must remember every stop",
+          "is_correct": false
+        },
+        {
+          "answer": "There are no announcements at all",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When do you typically pay on a Japanese bus?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "When you get off",
+          "is_correct": false
+        },
+        {
+          "answer": "In most cases, you pay as you enter a bus",
+          "is_correct": true
+        },
+        {
+          "answer": "At the end of the month",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with a card",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Is it a good idea to have exact change on a bus?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, drivers prefer bills",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, it is advisable to have the exact change",
+          "is_correct": true
+        },
+        {
+          "answer": "Only on long trips",
+          "is_correct": false
+        },
+        {
+          "answer": "Doesn't matter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the money exchange machine on a bus do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Exchanges foreign currency",
+          "is_correct": false
+        },
+        {
+          "answer": "Exchanges a hundred yen coin for ten yen coins (you can't use a bill)",
+          "is_correct": true
+        },
+        {
+          "answer": "Sells bus tickets",
+          "is_correct": false
+        },
+        {
+          "answer": "Gives discounts to elderly passengers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In what units are bus fares usually charged?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Units of 50 yen and 5 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "Units of 100 yen and 10 yen",
+          "is_correct": true
+        },
+        {
+          "answer": "Units of 1000 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "Units of 500 yen and 50 yen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How do you ask the driver the fare to your destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(destination) wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) made ikura desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "(destination) e ikitain desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) wa ikutsu-me desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Can kaisuu-ken (coupon tickets) and teeki-ken (season pass) be used on a bus?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, both are available everywhere",
+          "is_correct": false
+        },
+        {
+          "answer": "They are available, but cannot be bought on a bus — you must go to a ticket window at the main bus terminal",
+          "is_correct": true
+        },
+        {
+          "answer": "No, neither is available for buses",
+          "is_correct": false
+        },
+        {
+          "answer": "Only kaisuu-ken is available",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Is there a free ticket transfer system for Japanese buses?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, you can transfer freely",
+          "is_correct": false
+        },
+        {
+          "answer": "No, there is no free ticket transfer system",
+          "is_correct": true
+        },
+        {
+          "answer": "Only on JR-affiliated buses",
+          "is_correct": false
+        },
+        {
+          "answer": "Only during peak hours",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If you don't know the fare to your destination, what can you do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pay the maximum amount",
+          "is_correct": false
+        },
+        {
+          "answer": "Ask the driver by saying '(your destination) made ikura desu ka?'",
+          "is_correct": true
+        },
+        {
+          "answer": "Get off and walk",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait until the next bus",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Where can you buy a kaisuu-ken or teeki-ken for the bus?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "From the driver",
+          "is_correct": false
+        },
+        {
+          "answer": "At a ticket window at the main bus terminal",
+          "is_correct": true
+        },
+        {
+          "answer": "At any subway station",
+          "is_correct": false
+        },
+        {
+          "answer": "Online only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. basu (バス) 'bus'\n\nJapanese buses are equipped with a tape of the pre-recorded names of their stops which is set to announce, at the appropriate time, the name of the next stop.\n\nIn most cases, you pay as you enter a bus. It is advisable that you have the exact change, although there is a money exchange machine which exchanges a hundred yen coin for ten yen coins (you can't use a bill). The fares are usually in units of 100 yen and 10 yen. If you don't know the fare, you can ask the driver by saying:\n\n(your destination) made ikura desu ka?\n\nKaisuu-ken (回数券) 'coupon tickets' and teeki-ken (定期券) 'season pass' are also available, but these can't be bought on a bus. You have to go to a ticket window at the main bus terminal. There is no free ticket transfer system."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

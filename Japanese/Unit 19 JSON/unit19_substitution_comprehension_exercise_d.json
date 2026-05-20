@@ -1,0 +1,171 @@
+{
+  "title": "unit19_substitution_comprehension_exercise_d",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You said 'Kono kyuuri kudasai. Ikura desu ka?' The instructor said: '一本四十円ですが… (Ip-pon yonjuu-en desu ga...)' How much is one cucumber?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "40 yen each (per cucumber)",
+          "is_correct": true
+        },
+        {
+          "answer": "40 yen per pile",
+          "is_correct": false
+        },
+        {
+          "answer": "140 yen each",
+          "is_correct": false
+        },
+        {
+          "answer": "40 yen per 100 grams",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You said 'Ano ninjin kudasai. Ikura desu ka?' The instructor said: '一山三百五十円でございます。 (Hito-yama sanbyaku gojuu-en de gozaimasu.)' How much are the carrots?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "350 yen each",
+          "is_correct": false
+        },
+        {
+          "answer": "350 yen per pile",
+          "is_correct": true
+        },
+        {
+          "answer": "315 yen per bunch",
+          "is_correct": false
+        },
+        {
+          "answer": "350 yen per 100 grams",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You said 'Kyabetsu kudasai. Ikura desu ka?' The instructor said: '一個百八十円。 (Ik-ko hyaku hachijuu-en.)' How much is one cabbage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "180 yen per head",
+          "is_correct": true
+        },
+        {
+          "answer": "180 yen per pile",
+          "is_correct": false
+        },
+        {
+          "answer": "108 yen per head",
+          "is_correct": false
+        },
+        {
+          "answer": "180 yen per bunch",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You said 'Sono tomato kudasai. Ikura desu ka?' The instructor said: '百グラム百四十五円です。 (Hyaku-guramu hyaku yonjuu go-en desu.)' How much are the tomatoes?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "145 yen each",
+          "is_correct": false
+        },
+        {
+          "answer": "145 yen per 100 grams",
+          "is_correct": true
+        },
+        {
+          "answer": "145 yen per pile",
+          "is_correct": false
+        },
+        {
+          "answer": "100 yen per 145 grams",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "You said 'Nashi kudasai. Ikura desu ka?' The instructor said: '一個百五十円、三個で四百円ですよ。 (Ik-ko hyaku gojuu-en, san-ko de yonhyaku-en desu yo.)' What is the pricing for the pears?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "150 yen each, or 400 yen for three",
+          "is_correct": true
+        },
+        {
+          "answer": "150 yen each, or 400 yen for four",
+          "is_correct": false
+        },
+        {
+          "answer": "115 yen each, or 400 yen per pile",
+          "is_correct": false
+        },
+        {
+          "answer": "150 yen per pile, 400 yen for three piles",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "You said 'Ano ringo kudasai. Ikura desu ka?' The instructor said: '大は一つ二百五十円で小は百二十円です。 (Dai wa hitotsu nihyaku gojuu-en de shoo wa hyaku nijuu-en desu.)' What is the pricing for the apples?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Large ones are 250 yen each, small ones are 120 yen each",
+          "is_correct": true
+        },
+        {
+          "answer": "Large ones are 120 yen each, small ones are 250 yen each",
+          "is_correct": false
+        },
+        {
+          "answer": "Large ones are 250 yen per pile, small ones are 120 yen per pile",
+          "is_correct": false
+        },
+        {
+          "answer": "All apples are 250 yen each",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Substitution & Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student requests fruits or vegetables as given in the list below and asks how much they are. The instructor answers that they cost so-and-so much for a certain amount. The student acknowledges the instructor's response and writes down what s/he has heard. Then the instructor checks the student's answer."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Kono mikan kudasai. Ikura desu ka? Instructor: Hito-yama 550-en desu. Student: Aa soo desu ka. (writes down 1 pile = 550-en)"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

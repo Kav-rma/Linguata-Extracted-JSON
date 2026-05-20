@@ -1,0 +1,259 @@
+{
+  "title": "unit11_grammar_kinds_of_tickets",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How are regular tickets for short distance trips typically bought?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only at a manned ticket window",
+          "is_correct": false
+        },
+        {
+          "answer": "From a ticket vending machine (in some cases, only from a machine)",
+          "is_correct": true
+        },
+        {
+          "answer": "By calling ahead and reserving",
+          "is_correct": false
+        },
+        {
+          "answer": "Only by purchasing online",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where is the fare chart usually located?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "On the ticket itself",
+          "is_correct": false
+        },
+        {
+          "answer": "Above the vending machines, in the form of a map of train routes",
+          "is_correct": true
+        },
+        {
+          "answer": "Inside the train",
+          "is_correct": false
+        },
+        {
+          "answer": "Only at the information desk",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What do you do after putting coins into the vending machine?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Wait for the cashier",
+          "is_correct": false
+        },
+        {
+          "answer": "Push the button that has the correct price on it",
+          "is_correct": true
+        },
+        {
+          "answer": "Push any button",
+          "is_correct": false
+        },
+        {
+          "answer": "Insert your card",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is a 'kaisuu-ken' (回数券)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A single ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "A coupon ticket — a sheet of eleven tickets bought at the price of ten regular tickets",
+          "is_correct": true
+        },
+        {
+          "answer": "A ticket for first-class travel",
+          "is_correct": false
+        },
+        {
+          "answer": "A child's ticket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Where can you buy a kaisuu-ken?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only at vending machines",
+          "is_correct": false
+        },
+        {
+          "answer": "At the ticket window of a station",
+          "is_correct": true
+        },
+        {
+          "answer": "At any convenience store",
+          "is_correct": false
+        },
+        {
+          "answer": "Only at major stations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How should a kaisuu-ken ticket be separated from the rest?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before entering the station",
+          "is_correct": false
+        },
+        {
+          "answer": "Only after being punched or stamped at the kaisatsuguchi (gate)",
+          "is_correct": true
+        },
+        {
+          "answer": "At any point during the trip",
+          "is_correct": false
+        },
+        {
+          "answer": "Only after the trip is complete",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is a 'teeki-ken' (定期券)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A coupon ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "A season pass or commuter ticket",
+          "is_correct": true
+        },
+        {
+          "answer": "A return ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "A first-class ticket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "For what durations can you buy a teeki-ken?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "One day, one week, or one month",
+          "is_correct": false
+        },
+        {
+          "answer": "One month, three months, or six months",
+          "is_correct": true
+        },
+        {
+          "answer": "Only one year",
+          "is_correct": false
+        },
+        {
+          "answer": "Only one month",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What can a teeki-ken save you on regular fare?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "10% of the regular price",
+          "is_correct": false
+        },
+        {
+          "answer": "Nearly 50% of the regular price, depending on how often you use it",
+          "is_correct": true
+        },
+        {
+          "answer": "Up to 80%",
+          "is_correct": false
+        },
+        {
+          "answer": "100% (it's free)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How does the discount rate of a teeki-ken vary?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is the same for all durations",
+          "is_correct": false
+        },
+        {
+          "answer": "The longer the designated period, the larger the discount rate",
+          "is_correct": true
+        },
+        {
+          "answer": "The shorter the period, the larger the discount",
+          "is_correct": false
+        },
+        {
+          "answer": "It depends on the day of the week",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Kinds of tickets\n\na. Regular tickets\n\nFor most short distance trips, tickets can be bought from a ticket vending machine. In some cases, you can buy them only from a machine, not at a window. What you need to do to buy a ticket from a vending machine is:\n\n(I) Find out the fare from the fare chart, which usually takes the form of a map of train routes and is placed above the machines.\n\n(II) Put sufficient coins into the slot and push the button that has the correct price on it. The ticket (and change) will come out at the bottom of the machine.\n\nb. kaisuu-ken (回数券) 'coupon tickets'\n\nThe kaisuu-ken (回数券) is a kind of discount ticket. It is a sheet of eleven tickets which can be bought at the ticket window of a station for the price of ten regular tickets. It is valid only for the designated stations and a ticket should be separated from the rest only after it is punched or stamped at the gate or kaisatsuguchi (改札口) when entering the platform area.\n\nc. teeki-ken (定期券) 'season pass' or 'commuter ticket'\n\nThe teeki-ken (定期券) is a season pass which entitles you to unlimited train rides between the designated stations for the designated period. You can buy a teeki-ken that is valid for one month, three months or six months at the ticket window of a station. With a teeki-ken, you can save nearly 50% of the regular price, depending on how often you use it and how long it is valid. The longer the designated period, the larger the discount rate is."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

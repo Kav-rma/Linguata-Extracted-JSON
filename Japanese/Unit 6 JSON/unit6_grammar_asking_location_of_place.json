@@ -1,0 +1,259 @@
+{
+  "title": "unit6_grammar_asking_location_of_place",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which expression means 'Where is this place?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Koko wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko wa doko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Koko wa doomo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko ni arimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which expression means 'Is there a department store in this vicinity?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Depaato wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono chikaku ni depaato ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Depaato no chikaku desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono chikaku wa depaato desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the sentence 'Koko wa doko desu ka?', what does 'koko' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "where",
+          "is_correct": false
+        },
+        {
+          "answer": "this place",
+          "is_correct": true
+        },
+        {
+          "answer": "over there",
+          "is_correct": false
+        },
+        {
+          "answer": "thank you",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How would you ask 'Where is Tokyo Station?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tokyo-eki wa doko desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokyo-eki onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo-eki wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo-eki desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Do 'Depaato wa doko desu ka?' and 'Depaato wa doko ni arimasu ka?' mean roughly the same thing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, they are very different",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, they mean approximately the same thing",
+          "is_correct": true
+        },
+        {
+          "answer": "They mean opposite things",
+          "is_correct": false
+        },
+        {
+          "answer": "Only one of them is grammatically correct",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What can replace 'koko' in 'Koko wa doko desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only personal names",
+          "is_correct": false
+        },
+        {
+          "answer": "Place names",
+          "is_correct": true
+        },
+        {
+          "answer": "Only numbers",
+          "is_correct": false
+        },
+        {
+          "answer": "Only colors",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which lesson previously introduced 'Koko wa doko desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 1",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 2",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 4",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 5",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which lesson previously introduced 'Kono chikaku ni depaato ga arimasu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 2",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 3",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 4",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 6",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'doko' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "what",
+          "is_correct": false
+        },
+        {
+          "answer": "where",
+          "is_correct": true
+        },
+        {
+          "answer": "who",
+          "is_correct": false
+        },
+        {
+          "answer": "when",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How would you ask 'Where is the American Embassy?' using the 'doko ni arimasu' pattern?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Amerika Taishikan wa doomo desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Taishikan wa doko ni arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Amerika Taishikan onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Taishikan ja arimasen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Expressions for asking the location of a place\n\nThe following are expressions that can be used when you ask the location of a place:\n\nKoko wa doko desu ka?                          Where is this place? (Lesson 2)\nKono chikaku ni depaato ga arimasu ka?         Is there a department store in this vicinity? (Lesson 4)\n\nIn place of koko 'this place' in the first sentence, you can use place names, as in the following:\n\nTokyo-eki wa doko desu ka?                     Where is Tokyo Station?\n\nThe following questions about location mean approximately the same thing:\n\na. Depaato wa doko desu ka?\nb. Depaato wa doko ni arimasu ka?"
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

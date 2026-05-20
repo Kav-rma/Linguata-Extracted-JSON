@@ -1,0 +1,74 @@
+{
+  "title": "unit14_question_answer_exercise_f",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Referring to the map, complete the sentence using the correct directional word: 'Sakura Hoteru wa Sakura Kooen no ___ ni arimasu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sakura Hoteru wa Sakura Kooen no kita ni arimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Referring to the map, complete the sentence using the correct directional word: 'Kooban wa Sakura Kooen no ___ ni arimasu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Kooban wa Sakura Kooen no higashi ni arimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Referring to the map, complete the sentence using the correct directional word: 'Makudonarudo wa Sakura Kooen no ___ ni arimasu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Makudonarudo wa Sakura Kooen no minami ni arimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Referring to the map, complete the sentence using the correct directional word: 'Sakura Kooen wa Sakura Hoteru no ___ ni arimasu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sakura Kooen wa Sakura Hoteru no minami ni arimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Referring to the map, complete the sentence using the correct directional word: 'Sakura Kooen wa Sakura-eki no ___ ni arimasu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sakura Kooen wa Sakura-eki no higashi ni arimasu.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": ["unit14_question_answer_exercise_f_1.png"]
+  }
+}

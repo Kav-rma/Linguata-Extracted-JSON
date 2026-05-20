@@ -1,0 +1,70 @@
+{
+  "title": "unit20_greetings_a",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "暑いですねえ。 (Atsui desu nee.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "It's hot, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "いい(お)天気ですねえ。 (Ii (o)tenki desu nee.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "It's nice weather, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "お休みなさい。 (Oyasuminasai.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Good night.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "凉しいですねえ。 (Suzushii desu nee.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "It's cool, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "今日は。 (Konnichiwa.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Good afternoon.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "今晩は寒いですねえ。 (Konban wa samui desu nee.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Good evening; it's cold, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "暖かいですねえ。 (Atatakai desu nee.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "It's warm, isn't it?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "いやな(お)天気ですねえ。 (Iya na (o)tenki desu nee.)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "It's nasty weather, isn't it?", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

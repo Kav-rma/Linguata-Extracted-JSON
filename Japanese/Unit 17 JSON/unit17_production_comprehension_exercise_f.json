@@ -1,0 +1,107 @@
+{
+  "title": "unit17_production_comprehension_exercise_f",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You ask if there's a cheaper one. The instructor said: 'ええと、こちらです。これはちょっと形が違いますが…… (Eeto, kochira desu. Kore wa chotto katachi ga chigaimasu ga...)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, there is, but the style is different.",
+          "is_correct": true
+        },
+        {
+          "answer": "No, there aren't any in the same color.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You ask if there's something in a different color. The instructor said: 'この色だけなんですか…… こちらはちょっとお安いんですが、色が違います。 (Kono iro dake nan desu ka... Kochira wa chotto o-yasui n desu ga, iro ga chigaimasu.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, there is and it's cheaper.",
+          "is_correct": true
+        },
+        {
+          "answer": "No, there isn't.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You ask if there's something in a different style. The instructor said: 'これはいかがですか。色は違いますが、サイズは同じです。 (Kore wa ikaga desu ka. Iro wa chigaimasu ga, saizu wa onaji desu.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, there is.",
+          "is_correct": true
+        },
+        {
+          "answer": "No, there isn't.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You ask if there is a smaller one. The instructor said: 'お客様、あいにくですが、丁度同じのはございませんが…… (Okyakusama, ainiku desu ga, choodo onaji no wa gozaimasen ga...)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, there is, but the color is different.",
+          "is_correct": false
+        },
+        {
+          "answer": "No, there isn't.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "You ask if there is a larger one. The instructor said: 'ええと…… こちらはLサイズですね。こちらにLLサイズがございます。 (Eeto... Kochira wa L-saizu desu ne. Kochira ni LL-saizu ga gozaimasu.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, there is.",
+          "is_correct": true
+        },
+        {
+          "answer": "No, there isn't.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "F. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student asks the questions below. The instructor answers, reading the script. The student checks the right response, based on the instructor's answer."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Moo sukoshi ookii no wa arimasu ka? Instructor: (reading the script) Hai, kochira desu. Kore wa L saizu desu. Student: (checks the right response)"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "unit8_response_drill_c",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "すみません、ここは銀座通りですか。 (Sumimasen, koko wa Ginza Doori desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "いいえ、銀座通りは次の信号です。 (Iie, Ginza Doori wa tsugi no shingoo desu.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "すみません、ここはJR線の駅ですか。 (Sumimasen, koko wa JR-sen no eki desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "いいえ、JR線の駅は交差点のむこうです。 (Iie, JR-sen no eki wa koosaten no mukoo desu.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "すみません、ここは地下鉄の駅ですか。 (Sumimasen, koko wa chikatetsu no eki desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "いいえ、地下鉄の駅は二つ目の角です。 (Iie, chikatetsu no eki wa futatsu-me no kado desu.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "すみません、ここは三越ですか。 (Sumimasen, koko wa Mitsukoshi desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "いいえ、三越は三つ目の信号の右です。 (Iie, Mitsukoshi wa mittsu-me no shingoo no migi desu.)",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

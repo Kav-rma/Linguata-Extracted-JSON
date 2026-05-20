@@ -1,0 +1,259 @@
+{
+  "title": "unit13_grammar_useful_expressions_getting_off",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What expression do you use to ask a Japanese person to tell you when you've arrived at your destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(destination) wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) ni tsuitara oshiete kudasaimasen ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "(destination) e ikitain desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) ga arimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Toranomon ni tsuitara oshiete kudasaimasen ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is Toranomon?",
+          "is_correct": false
+        },
+        {
+          "answer": "Won't you please tell me when we've arrived at Toranomon?",
+          "is_correct": true
+        },
+        {
+          "answer": "Do you know Toranomon?",
+          "is_correct": false
+        },
+        {
+          "answer": "Is Toranomon next?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If you're a commuter, what is a good idea regarding the stop right before your destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Memorize all the stops",
+          "is_correct": false
+        },
+        {
+          "answer": "Become familiar with the Kanji for the name of the stop right before your destination",
+          "is_correct": true
+        },
+        {
+          "answer": "Always ask the driver",
+          "is_correct": false
+        },
+        {
+          "answer": "Take a different route",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why might you need to learn the Kanji for the stop right before your destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It looks more impressive",
+          "is_correct": false
+        },
+        {
+          "answer": "So that you know when to get ready to get off",
+          "is_correct": true
+        },
+        {
+          "answer": "To impress the conductor",
+          "is_correct": false
+        },
+        {
+          "answer": "To save money on tickets",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Orimasu!' mean (literally and idiomatically)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Excuse me!",
+          "is_correct": false
+        },
+        {
+          "answer": "Let me out! (lit., I'm getting off.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Stop!",
+          "is_correct": false
+        },
+        {
+          "answer": "Wait!",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why is 'Orimasu!' especially useful at rush hours?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because it's the politest expression",
+          "is_correct": false
+        },
+        {
+          "answer": "Because in crowded commuter trains and buses, you can't get off at your stop and need to say something to get people out of your way",
+          "is_correct": true
+        },
+        {
+          "answer": "Because it's the loudest word",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it's required by law",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the literal meaning of 'Orimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I'm passing through",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm getting off",
+          "is_correct": true
+        },
+        {
+          "answer": "I'm waiting",
+          "is_correct": false
+        },
+        {
+          "answer": "I'm entering",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'tsuitara' come from?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "TARA form of tsukimasu (arrive)",
+          "is_correct": true
+        },
+        {
+          "answer": "TE form of tsukimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "MASU form of tsukimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "Past tense of arimasu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'tsuitara' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "where we arrive",
+          "is_correct": false
+        },
+        {
+          "answer": "when (we) arrive",
+          "is_correct": true
+        },
+        {
+          "answer": "if (we) arrive",
+          "is_correct": false
+        },
+        {
+          "answer": "after arriving",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which is the correct sentence asking 'Would you please tell me when we arrive at Shibuya?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Shibuya ni tsuitara oshiete kudasaimasen ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Shibuya tsuitara wa oshiete kudasaimasen?",
+          "is_correct": false
+        },
+        {
+          "answer": "Oshiete kudasai Shibuya tsuitara ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Tsuitara Shibuya wa oshiete kudasaimasen?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Useful expressions for getting off a train or bus\n\nIn some cases when you are on a bus or train, you may want to ask a Japanese person to let you know when you arrive at your destination. In such cases, you may find the following expression useful:\n\n(your destination) ni tsuitara oshiete kudasaimasen ka?\nWon't you please tell me when we've arrived at (destination)?\n\nIf you are a commuter it is a good idea to become familiar with the Kanji for the name of the stop right before your destination, so that you know when to get ready to get off.\n\nSince commuter trains and buses are incredibly crowded at rush hours, it may happen that because of the crowd you can't get off at your stop. To avoid this, you need to say something in order to get people out of your way. In such cases, you can use the following expression:\n\nOrimasu!    Let me out! (lit., I'm getting off.)"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "title": "unit10_production_exercise_f",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Based on the illustration, what is the distance from point 1 (here) to point 2 (station)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "30 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "50 meters",
+          "is_correct": true
+        },
+        {
+          "answer": "70 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "80 meters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Based on the illustration, what is the distance from point 2 (station) to point 3 (bus stop)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "40 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "50 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "70 meters",
+          "is_correct": true
+        },
+        {
+          "answer": "80 meters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Based on the illustration, what is the distance from point 3 (bus stop) to point 4 (department store)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "30 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "50 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "70 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "80 meters",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Based on the illustration, what is the distance from point 4 (department store) to point 5 (hotel)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "30 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "40 meters",
+          "is_correct": true
+        },
+        {
+          "answer": "50 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "70 meters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Based on the illustration, what is the distance from point 5 (hotel) to point 6 (restaurant)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "30 meters",
+          "is_correct": true
+        },
+        {
+          "answer": "40 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "50 meters",
+          "is_correct": false
+        },
+        {
+          "answer": "80 meters",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which Japanese sentence correctly describes the distance from point 1 to point 2?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Koko kara eki made 50 meetoru gurai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Koko kara eki made 80 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko kara eki made 30 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Koko kara eki made 70 meetoru gurai desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which Japanese sentence correctly describes the distance from point 2 (station) to point 3 (bus stop)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Eki kara basu noriba made 70 meetoru gurai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Eki kara basu noriba made 50 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Eki kara basu noriba made 80 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Eki kara basu noriba made 40 meetoru gurai desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which Japanese sentence correctly describes the distance from point 3 (bus stop) to point 4 (department store)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Basu noriba kara depaato made 30 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Basu noriba kara depaato made 50 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Basu noriba kara depaato made 80 meetoru gurai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Basu noriba kara depaato made 40 meetoru gurai desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which Japanese sentence correctly describes the distance from point 4 (department store) to point 5 (hotel)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Depaato kara hoteru made 30 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato kara hoteru made 40 meetoru gurai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Depaato kara hoteru made 70 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato kara hoteru made 80 meetoru gurai desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which Japanese sentence correctly describes the distance from point 5 (hotel) to point 6 (restaurant)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hoteru kara resutoran made 30 meetoru gurai desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Hoteru kara resutoran made 50 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hoteru kara resutoran made 70 meetoru gurai desu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hoteru kara resutoran made 80 meetoru gurai desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "F. Production Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Look at the illustration below and give the distance between points 1 and 2, 2 and 3, etc., using the following expression:"
+    },
+    {
+      "sequence_id": 3,
+      "text": "...kara...made...meetoru gurai desu."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Example: Koko kara eki made 50 meetoru gurai desu. (from point 1 to point 2)"
+    },
+    {
+      "sequence_id": 5,
+      "text": "The illustration shows six numbered points connected by distances:"
+    },
+    {
+      "sequence_id": 6,
+      "text": "Point 1 (here) to Point 2 (station): 50 meters"
+    },
+    {
+      "sequence_id": 7,
+      "text": "Point 2 (station) to Point 3 (bus stop): 70 meters"
+    },
+    {
+      "sequence_id": 8,
+      "text": "Point 3 (bus stop) to Point 4 (department store): 80 meters"
+    },
+    {
+      "sequence_id": 9,
+      "text": "Point 4 (department store) to Point 5 (hotel): 40 meters"
+    },
+    {
+      "sequence_id": 10,
+      "text": "Point 5 (hotel) to Point 6 (restaurant): 30 meters"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": ["unit10_production_exercise_f_1.png"]
+  }
+}

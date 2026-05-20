@@ -1,0 +1,379 @@
+{
+  "title": "unit12_grammar_densha",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the Shinkansen often referred to as in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "express train",
+          "is_correct": false
+        },
+        {
+          "answer": "the 'bullet train'",
+          "is_correct": true
+        },
+        {
+          "answer": "local train",
+          "is_correct": false
+        },
+        {
+          "answer": "JR special",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Approximately how many miles does the Shinkansen cover between Tokyo and Hakata?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "500 miles",
+          "is_correct": false
+        },
+        {
+          "answer": "730 miles",
+          "is_correct": true
+        },
+        {
+          "answer": "1000 miles",
+          "is_correct": false
+        },
+        {
+          "answer": "300 miles",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the normal travelling speed of the fastest train, the 'Hikari'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "About 100 km per hour",
+          "is_correct": false
+        },
+        {
+          "answer": "About 200 km per hour",
+          "is_correct": true
+        },
+        {
+          "answer": "About 300 km per hour",
+          "is_correct": false
+        },
+        {
+          "answer": "About 50 km per hour",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the difference between Hikari and Kodama (Shinkansen trains)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hikari is slower; Kodama is faster",
+          "is_correct": false
+        },
+        {
+          "answer": "Hikari stops at major stations; Kodama stops at all stations",
+          "is_correct": true
+        },
+        {
+          "answer": "Hikari is for tourists; Kodama for locals",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no difference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which JR train category is 'super express or limited express'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "futsuu",
+          "is_correct": false
+        },
+        {
+          "answer": "tokkyuu",
+          "is_correct": true
+        },
+        {
+          "answer": "kyuukoo",
+          "is_correct": false
+        },
+        {
+          "answer": "kaisoku",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'futsuu' (普通) mean in the context of JR trains?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "express train",
+          "is_correct": false
+        },
+        {
+          "answer": "local train stopping at all stations",
+          "is_correct": true
+        },
+        {
+          "answer": "super express train",
+          "is_correct": false
+        },
+        {
+          "answer": "first-class train",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is futsuu also called?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "tokkyuu",
+          "is_correct": false
+        },
+        {
+          "answer": "kakueki (an abbreviation of kakueki teesha, meaning 'stops at every station')",
+          "is_correct": true
+        },
+        {
+          "answer": "kaisoku",
+          "is_correct": false
+        },
+        {
+          "answer": "kyuukoo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which JR-sen train is an 'express train' that does NOT require a supplementary fare?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "tokkyuu",
+          "is_correct": false
+        },
+        {
+          "answer": "kaisoku",
+          "is_correct": true
+        },
+        {
+          "answer": "Hikari",
+          "is_correct": false
+        },
+        {
+          "answer": "Kodama",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is futsuu-sha (普通車)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "first class car",
+          "is_correct": false
+        },
+        {
+          "answer": "economy class car",
+          "is_correct": true
+        },
+        {
+          "answer": "dining car",
+          "is_correct": false
+        },
+        {
+          "answer": "sleeper car",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is guriin-sha (グリーン車)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "economy class car",
+          "is_correct": false
+        },
+        {
+          "answer": "first class car (lit. 'green car')",
+          "is_correct": true
+        },
+        {
+          "answer": "sleeper car",
+          "is_correct": false
+        },
+        {
+          "answer": "dining car",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "What does 'jiyuu-seki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "reserved seat",
+          "is_correct": false
+        },
+        {
+          "answer": "unreserved seat",
+          "is_correct": true
+        },
+        {
+          "answer": "priority seat",
+          "is_correct": false
+        },
+        {
+          "answer": "first class seat",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "What does 'shitee-seki' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "unreserved seat",
+          "is_correct": false
+        },
+        {
+          "answer": "reserved seat",
+          "is_correct": true
+        },
+        {
+          "answer": "first class seat",
+          "is_correct": false
+        },
+        {
+          "answer": "priority seat",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "Which trains are called 'nobori' (up-trains)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Trains going away from Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Trains bound for the originating station of the line (e.g., on the Shinkansen, trains bound for Tokyo)",
+          "is_correct": true
+        },
+        {
+          "answer": "Trains going to higher altitudes",
+          "is_correct": false
+        },
+        {
+          "answer": "Express trains only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "Which trains are called 'kudari' (down-trains)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Trains going toward Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Trains bound for the other end of the line (e.g., on the Shinkansen, trains for Kyoto, Osaka, etc.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Trains going downhill",
+          "is_correct": false
+        },
+        {
+          "answer": "Local trains only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "For which Shinkansen trains and JR train types is a supplementary fare required?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only Hikari",
+          "is_correct": false
+        },
+        {
+          "answer": "Hikari, Kodama, tokkyuu, and kyuukoo",
+          "is_correct": true
+        },
+        {
+          "answer": "All JR trains",
+          "is_correct": false
+        },
+        {
+          "answer": "Only kaisoku",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. Densha (電車) 'trains'\n\nIn the nation-wide transportation services, JR (Japanese Railways) plays the central role, and the Shinkansen (新幹線), often referred to as the 'bullet train', is an important part of JR's operation.\n\nThe Shinkansen covers the approximately 730 miles between Tokyo (東京) and Hakata (博多) in Kyushyu (九州) and connects the major cities of Japan. The Shinkansen trains run at 5 to 10 - minute intervals, the normal travelling speed of the fastest train, the 'Hikari,' being about 200 km per hour.\n\n1. Types of trains\n\nThe Shinkansen has the following classification of trains:\n\nHikari (ひかり): stops at major stations\nKodama (こだま): stops at all stations\n\nFor long distance trips other than on the Shinkansen, you will find the following three major categories of JR trains:\n\ntokkyuu (特急)   super express or limited express\nkyuukoo (急行)   express train stopping at major stations\nfutsuu (普通)    local trains stopping at all stations\n\nNote: Futsuu (普通) is also called kakueki (各駅), an abbreviation of kakueki teesha (各駅停車), that stops at every station. Hikari, Kodama, tokkyuu and kyuukoo require a supplementary fare. However, the fare is the same all year round (i.e., there is no 'in-season' or 'off-season' fare).\n\nJR-sen has the following major train categories:\n\nkaisoku (快速)            express train\nkakueki-teesha (各駅停車)   local train\n\nNote: Kaisoku does not require a supplementary fare.\n\n2. Types of cars and seats\n\nThere are two types of cars and seats on JR trains:\n\na. cars\n(i) futsuu-sha (普通車)   economy class (car)\n(ii) guriin-sha (グリーン車) first class (car)\n\nNote: A supplementary fare is required for first class. Griin means green. Each first class car has a square green symbol displayed next to its doors.\n\nb. seats\n(i) jiyuu-seki (自由席)    unreserved seats\n(ii) shitee-seki (指定席)  reserved seats\n\nNote: jiyuu (自由) freedom, free; seki (席) seat\nNote: A supplementary fare is required for reserved seats.\n\n3. nobori (上り) and kudari (下り)    up-train and down-train\n\nTrains bound for the originating station of the line are called nobori (上り) 'up-train,' and those bound for the other end of the line are called kudari (下り) 'down-train.' For example, on the Shinkansen, trains bound for Tokyo are nobori and those for Kyoto, Osaka, etc. are kudari."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

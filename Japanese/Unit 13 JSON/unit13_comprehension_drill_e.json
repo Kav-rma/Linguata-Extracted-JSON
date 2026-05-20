@@ -1,0 +1,147 @@
+{
+  "title": "unit13_comprehension_drill_e",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Looking at the building illustration, the buildings from left to right are: Theater, Bank, Book Store, Drug Store, Coffee shop, Tobacco shop, Hotel. Is the statement '銀行は劇場から三つ目です。' (Ginkoo wa gekijoo kara mittsu-me desu) true or false?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False (it is the second from the theater)",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Is the statement '喫茶店はホテルから三つ目です。' (Kissaten wa hoteru kara mittsu-me desu) true or false?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Is the statement '薬屋はホテルから五つ目です。' (Kusuriya wa hoteru kara itsutsu-me desu) true or false?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False (it is the fourth from the hotel)",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Is the statement '本屋は劇場から四つ目です。' (Honya wa gekijoo kara yottsu-me desu) true or false?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False (it is the third from the theater)",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Is the statement '喫茶店はホテルから二つ目です。' (Kissaten wa hoteru kara futatsu-me desu) true or false?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False (it is the third from the hotel)",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Is the statement '銀行は劇場から二つ目です。' (Ginkoo wa gekijoo kara futatsu-me desu) true or false?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": true
+        },
+        {
+          "answer": "False",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Is the statement 'たばこ屋はホテルから四つ目です。' (Tabakoya wa hoteru kara yottsu-me desu) true or false?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "True",
+          "is_correct": false
+        },
+        {
+          "answer": "False (it is the second from the hotel)",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "E. Comprehension Drill"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Listen to the instructor's statement and circle true or false, as appropriate. If the statement is false, write the correct answer on the right."
+    },
+    {
+      "sequence_id": 3,
+      "text": "The illustration shows seven buildings arranged from left to right in the following order: Theater, Bank, Book Store, Drug Store, Coffee shop, Tobacco shop, Hotel."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Counted from the Theater: Theater (1st), Bank (2nd), Book Store (3rd), Drug Store (4th), Coffee shop (5th), Tobacco shop (6th), Hotel (7th)."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Counted from the Hotel: Hotel (1st), Tobacco shop (2nd), Coffee shop (3rd), Drug Store (4th), Book Store (5th), Bank (6th), Theater (7th)."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": ["unit13_comprehension_drill_e_1.png"]
+  }
+}

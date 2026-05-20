@@ -1,0 +1,84 @@
+{
+  "title": "unit21_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "しょっけん (shokken)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "meal ticket", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "かって (katte)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "buy (TE form of kaimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "くださいませんか (kudasaimasen ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "won't you please", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "なんにんさま (nan-nin-sama)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "how many people? (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "なんにん (nan-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "how many people?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "よにん (yo-nin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "four people", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "メニュー (menyuu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "menu", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "なさいます (nasaimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "do, make (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "いっしょに (issho ni)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "together", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "きて (kite)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "come (TE form of kimasu)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

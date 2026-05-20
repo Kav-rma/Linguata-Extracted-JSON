@@ -1,0 +1,135 @@
+{
+  "title": "unit18_comprehension_production_exercise_h",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The instructor said: 'あいにくですが、これだけです。 (Ainiku desu ga, kore dake desu.)' Select the appropriate English response.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(Then, never mind.)",
+          "is_correct": true
+        },
+        {
+          "answer": "(Do you have a different one?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The instructor said: '一キロ、千円と千五百円ですが (Ichi-kiro, sen-en to sen-gohyaku-en desu ga)' Select the appropriate English response.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(Please give me 2kg of the one that is 1,500 yen.)",
+          "is_correct": true
+        },
+        {
+          "answer": "(I'll take one of the red ones.)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The instructor said: '白いのと、赤いのがこちらにございます。 (Shiroi no to, akai no ga kochira ni gozaimasu.)' Select the appropriate English response.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(I'll take one of the red ones.)",
+          "is_correct": true
+        },
+        {
+          "answer": "(Please give me 2kg of the one that is 1,500 yen.)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The instructor said: '百グラム三百円と四百円です。 (Hyaku-guramu sanbyaku-en to yonhyaku-en desu.)' Select the appropriate English response.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(Please give me 500g of the one that is 300 yen.)",
+          "is_correct": true
+        },
+        {
+          "answer": "(I'll take one of the blue ones.)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The instructor said: '百グラム千円と千三百円です。 (Hyaku-guramu sen-en to sen-sanbyaku-en desu.)' Select the appropriate English response.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(Then I'll come again.)",
+          "is_correct": false
+        },
+        {
+          "answer": "(I'll take 200g of the one that is 1,300 yen.)",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The instructor said: 'こちらは一つ千三百円で、そちらは、一つ千五百円でございます。 (Kochira wa hitotsu sen-sanbyaku-en de, sochira wa hitotsu sen-gohyaku-en de gozaimasu.)' Select the appropriate English response.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(I'll take two of those that are 1,300 yen each.)",
+          "is_correct": true
+        },
+        {
+          "answer": "(I'll take 200g of the one that is 1,300 yen.)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "The instructor said: 'こちらは百グラム五百円で、そちらは百グラム八百円ですが。 (Kochira wa hyaku-guramu gohyaku-en de, sochira wa hyaku-guramu happyaku-en desu ga.)' Select the appropriate English response.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(Give me two of those that are 800 yen each.)",
+          "is_correct": false
+        },
+        {
+          "answer": "(Give me 200g of the one that is 500 yen.)",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "H. Comprehension and Production Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Listen to what the instructor says. Respond by selecting the appropriate English equivalent below and translating it into Japanese."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

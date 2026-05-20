@@ -1,0 +1,259 @@
+{
+  "title": "unit6_grammar_answers_about_location_of_place",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the full answer pattern for the question 'Depaato wa doko desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Depaato wa (place) desu/ni arimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "(place) onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Depaato wa nan desu ka.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko desu ka.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How is the answer usually simplified in ordinary conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(place) desu/ni arimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "wa (place)",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko desu ka.",
+          "is_correct": false
+        },
+        {
+          "answer": "Place name only with no verb",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is a correct answer to 'Amerika Taishikan wa doko desu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Akasaka desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Akasaka ja arimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doomo arigatoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Akasaka desu' mean in this context?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It's in Akasaka.",
+          "is_correct": true
+        },
+        {
+          "answer": "It's not in Akasaka.",
+          "is_correct": false
+        },
+        {
+          "answer": "Akasaka is far from here.",
+          "is_correct": false
+        },
+        {
+          "answer": "Where is Akasaka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which two endings are acceptable for the answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa and ga",
+          "is_correct": false
+        },
+        {
+          "answer": "desu and ni arimasu",
+          "is_correct": true
+        },
+        {
+          "answer": "ka and ne",
+          "is_correct": false
+        },
+        {
+          "answer": "no and de",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Is the long form ('Depaato wa (place) desu') wrong?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, completely wrong",
+          "is_correct": false
+        },
+        {
+          "answer": "No, some Japanese answer using it, but it's usually simplified in ordinary conversation",
+          "is_correct": true
+        },
+        {
+          "answer": "Only used in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only used by children",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which is the most natural answer to 'Amerika Taishikan wa doko ni arimasu ka?' in conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Akasaka ni arimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Doomo arigatoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Sumimasen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If asked 'Tokyo Eki wa doko desu ka?', which is a valid response?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Marunouchi desu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Marunouchi wa nan desu ka.",
+          "is_correct": false
+        },
+        {
+          "answer": "Marunouchi onegai shimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Doozo yoroshiku.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Akasaka ni arimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It exists in Akasaka.",
+          "is_correct": true
+        },
+        {
+          "answer": "It used to be in Akasaka.",
+          "is_correct": false
+        },
+        {
+          "answer": "Akasaka is over there.",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no Akasaka.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the simplified answer pattern, what is omitted?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The verb",
+          "is_correct": false
+        },
+        {
+          "answer": "The topic + topic marker ('Depaato wa')",
+          "is_correct": true
+        },
+        {
+          "answer": "The place name",
+          "is_correct": false
+        },
+        {
+          "answer": "The 'desu'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Answers to questions about the location of a place\n\nWhen you ask Depaato wa doko desu ka? OR Depaato wa doko ni arimasu ka? some Japanese may answer in the following way:\n\nDepaato wa (place) desu/ni arimasu.\n\nIn ordinary conversation, however, the answer is usually simplified to:\n\n(place) desu/ni arimasu.\n\nThe following are some examples:\n\nQuestion: Amerika Taishikan wa doko desu ka?/ni arimasu ka?\n          Where is the American Embassy (located)?\n\nAnswer:   Akasaka desu/ni arimasu.\n          (It's) in Akasaka."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

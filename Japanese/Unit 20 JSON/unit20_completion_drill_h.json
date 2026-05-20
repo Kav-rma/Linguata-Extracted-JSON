@@ -1,0 +1,73 @@
+{
+  "title": "unit20_completion_drill_h",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Choose the expression which correctly completes the sentence: Washinton no natsu wa ___ (Washington's summer is...)",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "atsui desu. (hot)", "is_correct": true},
+        {"answer": "atsuku arimasen. (not hot)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Choose the expression which correctly completes the sentence: Furorida no fuyu wa ___ (Florida's winter is...)",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "samui desu. (cold)", "is_correct": false},
+        {"answer": "samuku arimasen. (not cold)", "is_correct": true}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Choose the expression which correctly completes the sentence: Amerika kara Nihon made ___ (From America to Japan is...)",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "tooi desu. (far)", "is_correct": true},
+        {"answer": "tooku arimasen. (not far)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Choose the expression which correctly completes the sentence: Nyuuyooku no fuyu wa ___ (New York's winter is...)",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "samui desu. (cold)", "is_correct": true},
+        {"answer": "samuku arimasen. (not cold)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Choose the expression which correctly completes the sentence: Kanada no natsu wa ___ (Canada's summer is...)",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "atsui desu. (hot)", "is_correct": false},
+        {"answer": "atsuku arimasen. (not hot)", "is_correct": true}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "H. Completion Drill"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Choose the expression which correctly completes each sentence."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

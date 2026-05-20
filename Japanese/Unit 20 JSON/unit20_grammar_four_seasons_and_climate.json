@@ -1,0 +1,139 @@
+{
+  "title": "unit20_grammar_four_seasons_and_climate",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How many seasons does Japan have, and how long is each?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Four seasons, each three months long", "is_correct": true},
+        {"answer": "Two seasons, each six months long", "is_correct": false},
+        {"answer": "Three seasons, each four months long", "is_correct": false},
+        {"answer": "Six seasons, each two months long", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which months are the spring months?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "March through May", "is_correct": true},
+        {"answer": "June through August", "is_correct": false},
+        {"answer": "September through November", "is_correct": false},
+        {"answer": "December through February", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is 'natsu' and which months does it cover?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Summer; June through August", "is_correct": true},
+        {"answer": "Spring; March through May", "is_correct": false},
+        {"answer": "Fall; September through November", "is_correct": false},
+        {"answer": "Winter; December through February", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is 'aki' and which months does it cover?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Fall; September through November", "is_correct": true},
+        {"answer": "Spring; March through May", "is_correct": false},
+        {"answer": "Summer; June through August", "is_correct": false},
+        {"answer": "Winter; December through February", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is 'fuyu' and which months does it cover?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Winter; December through February", "is_correct": true},
+        {"answer": "Fall; September through November", "is_correct": false},
+        {"answer": "Summer; June through August", "is_correct": false},
+        {"answer": "Spring; March through May", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How are months literally referred to in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "As 'the first month,' 'the second month,' etc.", "is_correct": true},
+        {"answer": "By the names of gods", "is_correct": false},
+        {"answer": "By the names of emperors", "is_correct": false},
+        {"answer": "By season names only", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "The climate of Japan is generally similar to that of which region?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The middle portion of the U.S.", "is_correct": true},
+        {"answer": "Northern Canada", "is_correct": false},
+        {"answer": "The equator", "is_correct": false},
+        {"answer": "Antarctica", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "According to the climate table, which city has the highest summer (natsu) mean temperature?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Naha (82.8)", "is_correct": true},
+        {"answer": "Sapporo (68.4)", "is_correct": false},
+        {"answer": "Tokyo (77.4)", "is_correct": false},
+        {"answer": "Kyoto (79.0)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "According to the climate table, which city has the coldest winter (fuyu) mean temperature?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sapporo (22.8)", "is_correct": true},
+        {"answer": "Naha (60.8)", "is_correct": false},
+        {"answer": "Fukuoka (41.5)", "is_correct": false},
+        {"answer": "Tokyo (39.4)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "In the climate table, what do T, H, and R stand for?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "T = temperature, H = humidity in %, R = rainy days", "is_correct": true},
+        {"answer": "T = time, H = height, R = rainfall in inches", "is_correct": false},
+        {"answer": "T = town, H = harbor, R = region", "is_correct": false},
+        {"answer": "T = total, H = high, R = range", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. The four seasons and the Japanese climate\n\nJapan has four seasons, each three months long. March through May are the spring months; June through August, the summer months; September through November, the fall months; and December through February, the winter months. Spring, summer, fall, and winter are called in Japanese haru, natsu, aki, and fuyu, respectively. In Japanese, months are literally referred to as 'the first month,' 'the second month,' etc., which corresponds to January, February, etc., in English. The following names of the seasons and months are given for reference:\n\nharu (spring):  san-gatsu (三月), shi-gatsu (四月), go-gatsu (五月)\nnatsu (summer): roku-gatsu (六月), shichi-gatsu (七月), hachi-gatsu (八月)\naki (fall):     ku-gatsu (九月), juu-gatsu (十月), juuichi-gatsu (十一月)\nfuyu (winter):  juuni-gatsu (十二月), ichi-gatsu (一月), ni-gatsu (二月)\n\nGenerally speaking, the climate of Japan is similar to that of the middle portion of the U.S. The mean temperatures (in Fahrenheit), percent humidity, and number of rainy days during the four seasons in the major cities are as follows (T = temperature, H = humidity in %, R = rainy days):\n\n              HARU (spring)      NATSU (summer)     AKI (fall)         FUYU (winter)\n              T     H    R       T     H    R       T     H    R       T     H    R\nSapporo       43.0  68   9       68.4  80   9       50.7  74   13      22.8  75   16\nTokyo         56.3  66   10      77.4  79   10      62.4  74   11      39.4  57   5\nNagoya        55.6  69   10      78.3  81   12      61.9  76   9       37.8  71   7\nKyoto         55.6  67   7       79.0  76   8       62.1  74   5       38.3  72   5\nFukuoka       57.0  74   10      79.7  80   11      63.1  76   7       41.5  75   12\nNaha          69.4  79   10      82.8  82   9       75.4  74   9       60.8  70   13"
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 18,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

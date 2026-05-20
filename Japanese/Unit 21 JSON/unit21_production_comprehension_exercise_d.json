@@ -1,0 +1,77 @@
+{
+  "title": "unit21_production_comprehension_exercise_d",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You asked: 'Bifuteki wa arimasu ka?' The instructor said: 'お待たせいたしました。何に致しましょうか。あいにくですが、ビフテキはございませんが… (Omatase itashimashita. Nan ni itashimashoo ka. Ainiku desu ga, bifuteki wa gozaimasen ga...)' Does the restaurant serve bifuteki (beefsteak)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yes", "is_correct": false},
+        {"answer": "No", "is_correct": true}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You asked: 'Koohii wa arimasu ka?' The instructor said: 'いらっしゃいませ。はい、アメリカン・コーヒーとモカですが… (Irasshaimase. Hai, amerikan koohii to moka desu ga...)' Does the restaurant serve koohii (coffee)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yes", "is_correct": true},
+        {"answer": "No", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You asked: 'Biiru wa arimasu ka?' The instructor said: 'お待たせ致しました。何になさいますか。はい、「きりん」でよろしいですか。 (Omatase itashimashita. Nan ni nasaimasu ka. Hai, \"Kirin\" de yoroshii desu ka?)' Does the restaurant serve biiru (beer)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yes", "is_correct": true},
+        {"answer": "No", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You asked: 'Sarada wa arimasu ka?' The instructor said: 'いらっしゃいませ。何になさいますか。はい、(指さす)こちらです。 (Irasshaimase. Nan ni nasaimasu ka. Hai, (pointing) kochira desu.)' Does the restaurant serve sarada (salad)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yes", "is_correct": true},
+        {"answer": "No", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "You asked: 'Sandoitchi wa arimasu ka?' The instructor said: 'いらっしゃいませ。何になさいますか。はい、ハム・サンド、野菜サンド、それに、トマト・サンドがございます。 (Irasshaimase. Nan ni nasaimasu ka. Hai, hamu sando, yasai sando, sore ni, tomato sando ga gozaimasu.)' Does the restaurant serve sandoitchi (sandwiches)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yes", "is_correct": true},
+        {"answer": "No", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The instructor (= waitress/waiter) greets a student (= customer). The student chooses a dish from the list below and asks if the restaurant serves it. The instructor answers yes or no. The student checks the instructor's response on the answer sheet."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Instructor: Irasshaimase. Student: Sandoitchi wa arimasu ka? Instructor: Hai, gozaimasu. Student: (checks the correct response)"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

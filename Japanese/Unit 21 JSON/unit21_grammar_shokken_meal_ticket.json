@@ -1,0 +1,139 @@
+{
+  "title": "unit21_grammar_shokken_meal_ticket",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is a 'shokken'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "A meal ticket", "is_correct": true},
+        {"answer": "A menu", "is_correct": false},
+        {"answer": "A receipt", "is_correct": false},
+        {"answer": "A dining hall", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where is the 'shokken uriba' (meal ticket counter) located?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "At the entrance", "is_correct": true},
+        {"answer": "At the back of the kitchen", "is_correct": false},
+        {"answer": "Next to each table", "is_correct": false},
+        {"answer": "Outside the building", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "After buying a shokken, what do you do with it?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Give it to the waitress or waiter at your table", "is_correct": true},
+        {"answer": "Keep it as a souvenir", "is_correct": false},
+        {"answer": "Return it to the entrance", "is_correct": false},
+        {"answer": "Throw it away", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "To buy a shokken, what do you need to know?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The name of the dish you want", "is_correct": true},
+        {"answer": "The waiter's name", "is_correct": false},
+        {"answer": "The restaurant's address", "is_correct": false},
+        {"answer": "The number of tables", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is displayed in the window near the entrance at department store dining halls?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Plastic samples of available dishes with names and prices", "is_correct": true},
+        {"answer": "Photographs of the chefs", "is_correct": false},
+        {"answer": "A list of staff", "is_correct": false},
+        {"answer": "The day's reservations", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "If you can't read the name of the dish, what can you do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ask a Japanese person to buy a shokken for you by pointing to the dish in the display", "is_correct": true},
+        {"answer": "Leave the restaurant immediately", "is_correct": false},
+        {"answer": "Guess at random", "is_correct": false},
+        {"answer": "Cook your own meal", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'Kore no shokken o katte kudasaimasen ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Would you please buy a meal ticket for this dish?", "is_correct": true},
+        {"answer": "Where is the meal ticket counter?", "is_correct": false},
+        {"answer": "How much is this dish?", "is_correct": false},
+        {"answer": "May I sit here?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What phrase is used after the verb 'katte' (buy) in the more polite request?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "kudasaimasen ka", "is_correct": true},
+        {"answer": "arimasu ka", "is_correct": false},
+        {"answer": "desu ka", "is_correct": false},
+        {"answer": "nasaimasu ka", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How can you express the same meaning more simply (less politely)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kore no shokken o katte kudasai.", "is_correct": true},
+        {"answer": "Kore no shokken wa arimasu ka?", "is_correct": false},
+        {"answer": "Kore wa ikura desu ka?", "is_correct": false},
+        {"answer": "Shokken o misete kudasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why is the 'kudasaimasen ka' version more appropriate when asking a stranger?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It is more polite, and you are asking a stranger for a favor", "is_correct": true},
+        {"answer": "It is shorter", "is_correct": false},
+        {"answer": "It is the only grammatically correct form", "is_correct": false},
+        {"answer": "It is more casual", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Shokken (食券)    'meal ticket'\n\nAt some restaurants—department store dining halls, for example—you are required to buy a shokken (食券) 'meal ticket' at the shokken uriba (食券売場), which is located at the entrance. After you buy a shokken, give it to the waitress or waiter at your table. The waiter/waitress will then bring you the dish. When you finish the meal, you simply leave the restaurant.\n\nTo buy a shokken, you need to know the name of the dish you want. At department store dining halls as well as at many other places, there is a window near the entrance in which plastic samples of available dishes are displayed. The name of the dish and its price are placed in front of each sample. Therefore, what you do is look at the display, decide on a dish, and give its name and the money to the attendant at the shokken uriba. If you can't read the name of the dish you want, you can ask a Japanese person to buy a shokken for you by pointing to the dish in the display. You can use the following expression for this purpose:\n\nKore no shokken o katte kudasaimasen ka?    Would you please buy a meal ticket for this dish?\n\nYou may have noticed that in the above sentence, the phrase kudasaimasen ka is used after the verb katte 'buy.' As you studied earlier, you can express the same meaning by using kudasai, as in the following:\n\nKore no shokken o katte kudasai.    Please buy a meal ticket for this one.\n\nHowever, as indicated by the difference in the translations of the two sentences, the first sentence is more polite than the second one. Since you are asking a stranger for a favor, it is more appropriate to use the more polite expression, i.e., the first sentence."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

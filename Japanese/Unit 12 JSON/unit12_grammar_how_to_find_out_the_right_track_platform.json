@@ -1,0 +1,259 @@
+{
+  "title": "unit12_grammar_how_to_find_out_the_right_track_platform",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How is a track number expressed in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "bansen + numeral",
+          "is_correct": false
+        },
+        {
+          "answer": "numeral + bansen",
+          "is_correct": true
+        },
+        {
+          "answer": "numeral + sen",
+          "is_correct": false
+        },
+        {
+          "answer": "ban + numeral + sen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'ichi-bansen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Track number 1",
+          "is_correct": true
+        },
+        {
+          "answer": "First train",
+          "is_correct": false
+        },
+        {
+          "answer": "Line number 1",
+          "is_correct": false
+        },
+        {
+          "answer": "One Line",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How would you ask 'I want to go to (your destination), is it track #1?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(destination) e ikitain desu ga, ichi-bansen desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "(destination) e ichi-bansen ikitain desu ga ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Ichi-bansen wa (destination) ikitain desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) ga ichi-bansen ikimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the Japanese expression for 'what track'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "nani-sen",
+          "is_correct": false
+        },
+        {
+          "answer": "nan-bansen",
+          "is_correct": true
+        },
+        {
+          "answer": "dono-track",
+          "is_correct": false
+        },
+        {
+          "answer": "doko-bansen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would you ask 'I want to go to (destination). What track is it?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(destination) e ikitain desu ga, nan-bansen desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "(destination) nan-bansen ikimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Nan-bansen ga (destination) ikitain desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "(destination) wa nan-bansen ikimasu?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the Japanese word for 'platform'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "purattofoomu",
+          "is_correct": false
+        },
+        {
+          "answer": "hoomu",
+          "is_correct": true
+        },
+        {
+          "answer": "eki",
+          "is_correct": false
+        },
+        {
+          "answer": "sen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Where did the word 'hoomu' originate from?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "From the word 'home'",
+          "is_correct": false
+        },
+        {
+          "answer": "From the second syllable of the English word 'platform'",
+          "is_correct": true
+        },
+        {
+          "answer": "From a Chinese word",
+          "is_correct": false
+        },
+        {
+          "answer": "From a native Japanese word",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How would you ask 'I want to go to Yokohama. Is it this platform?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yokohama e ikitain desu ga, kono hoomu desu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Yokohama ga hoomu ikimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono hoomu Yokohama ikitai desu?",
+          "is_correct": false
+        },
+        {
+          "answer": "Yokohama hoomu ni ikimasen ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How does 'kono' differ from 'kore' in usage?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They are interchangeable",
+          "is_correct": false
+        },
+        {
+          "answer": "'kono' must always occur with other word(s) after it, while 'kore' occurs independently",
+          "is_correct": true
+        },
+        {
+          "answer": "'kono' is past tense, 'kore' is present",
+          "is_correct": false
+        },
+        {
+          "answer": "'kono' is plural, 'kore' is singular",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono wa nan desu ka? (using kono alone)",
+          "is_correct": false
+        },
+        {
+          "answer": "Kore wa nan desu ka? (using kore alone)",
+          "is_correct": true
+        },
+        {
+          "answer": "Both are correct",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither is correct",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to find out the right track/platform\n\nSince there are usually several tracks in a station (at larger stations, there are more than 10 tracks), you need to know from which platform or track your train leaves. Each track has its own number (a platform usually has two tracks), and this is expressed in the following way:\n\nnumeral + bansen\n\nThus, track number 1, for example, can be expressed as ichi-bansen. One way to find out if your train leaves from track #1 is to ask a question like the following:\n\n(your destination) e ikitain desu ga, ichi-bansen desu ka?\nI want to go to (your destination), is it track #1? (i.e., Does my train leave from track #1?)\n\nAnother way to find out the right track is to ask something like 'I want to go to (your destination), from which track does my train leave?'\n\nThe Japanese expression for 'what track' is nan-bansen. Thus, you can use the following expression:\n\n(destination) e ikitain desu ga, nan-bansen desu ka?\nI want to go to (destination). What track is it?\n\nThe Japanese word for 'platform' is hoomu, which was originally borrowed from the second syllable of the English word. If you want to make sure that you are on the right platform, you can use the following expression:\n\nYokohama e ikitain desu ga, kono hoomu desu ka?\nI want to go to Yokohama. Is it this platform?\n\nNote: Kono in kono hoomu means 'this' but the word must always occur with other word(s) after it, as in kono chikaku 'this vicinity' (Lesson 3). On the other hand, the word kore, which also means 'this,' occurs independently, as in Kore wa nan desu ka? 'What is this?' (Lesson 1)"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

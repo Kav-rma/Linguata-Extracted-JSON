@@ -1,0 +1,259 @@
+{
+  "title": "unit12_grammar_particle_to",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the particle 'to' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "or",
+          "is_correct": false
+        },
+        {
+          "answer": "and",
+          "is_correct": true
+        },
+        {
+          "answer": "but",
+          "is_correct": false
+        },
+        {
+          "answer": "with",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say 'A and B' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A to B",
+          "is_correct": true
+        },
+        {
+          "answer": "A ga B",
+          "is_correct": false
+        },
+        {
+          "answer": "A wa B",
+          "is_correct": false
+        },
+        {
+          "answer": "A ya B",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you say 'A, B, and C' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A to B to C",
+          "is_correct": true
+        },
+        {
+          "answer": "A B to C",
+          "is_correct": false
+        },
+        {
+          "answer": "A B C to",
+          "is_correct": false
+        },
+        {
+          "answer": "To A B C",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In English, where does 'and' appear in a list of three or more items?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Before each item",
+          "is_correct": false
+        },
+        {
+          "answer": "After each item except the last",
+          "is_correct": false
+        },
+        {
+          "answer": "Only before the last item",
+          "is_correct": true
+        },
+        {
+          "answer": "After each item",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In Japanese, where does 'to' appear in a list of three or more items?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only before the first item",
+          "is_correct": false
+        },
+        {
+          "answer": "After each item except the last",
+          "is_correct": true
+        },
+        {
+          "answer": "Only between the last two items",
+          "is_correct": false
+        },
+        {
+          "answer": "Before each item",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How would you say 'This train stops at Nagoya, Kyoto, and Osaka' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono densha wa Nagoya to Kyoto to Osaka ni tomarimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Kono densha wa Nagoya, Kyoto, Osaka to tomarimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono densha wa Nagoya to Kyoto, Osaka tomarimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono densha wa to Nagoya Kyoto Osaka ni tomarimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Can Japanese 'to' connect verbs as English 'and' can?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, just like in English",
+          "is_correct": false
+        },
+        {
+          "answer": "No, Japanese 'to' can connect nouns only",
+          "is_correct": true
+        },
+        {
+          "answer": "Only in formal speech",
+          "is_correct": false
+        },
+        {
+          "answer": "Only with particles",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you say 'Tokyo and Yokohama' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tokyo to Yokohama",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokyo ya Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo wa Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo ga Yokohama",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How do you say 'ichi-bansen and ni-bansen' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ichi-bansen to ni-bansen",
+          "is_correct": true
+        },
+        {
+          "answer": "ichi-bansen ni-bansen to",
+          "is_correct": false
+        },
+        {
+          "answer": "ichi-bansen ni ni-bansen",
+          "is_correct": false
+        },
+        {
+          "answer": "to ichi-bansen ni-bansen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which English usage of 'and' has NO direct equivalent with Japanese 'to'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Connecting two nouns ('cat and dog')",
+          "is_correct": false
+        },
+        {
+          "answer": "Connecting multiple nouns ('cat, dog, and bird')",
+          "is_correct": false
+        },
+        {
+          "answer": "Connecting verbs ('went and saw')",
+          "is_correct": true
+        },
+        {
+          "answer": "Connecting place names",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. The particle to 'and'\n\nThe word to is comparable to English 'and' but the usage is a little different from the English equivalent, as illustrated below:\n\nA to B          A and B\nA to B to C     A, B, and C\n\nNote that in English you need 'and' only before the last item you enumerate while in Japanese, to is necessary after each item except the last. The following example will illustrate this difference:\n\nKono densha wa Nagoya to Kyoto to Osaka ni tomarimasu.\nThis train stops at Nagoya, Kyoto, and Osaka.\n\nAlso, note that English 'and' can connect verbs as well as nouns, but Japanese to can connect nouns only."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

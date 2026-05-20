@@ -1,0 +1,259 @@
+{
+  "title": "unit12_grammar_ikimasu_and_tomarimasu",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'ikimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "stops",
+          "is_correct": false
+        },
+        {
+          "answer": "goes",
+          "is_correct": true
+        },
+        {
+          "answer": "comes",
+          "is_correct": false
+        },
+        {
+          "answer": "leaves",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'tomarimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "goes",
+          "is_correct": false
+        },
+        {
+          "answer": "stops",
+          "is_correct": true
+        },
+        {
+          "answer": "departs",
+          "is_correct": false
+        },
+        {
+          "answer": "arrives",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you ask 'Does this train go to ...?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono densha wa ... e ikimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Kono densha wa ... ni ikimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono densha ... ikimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "... wa kono densha e ikimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How do you ask 'Does this train stop at ...?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono densha wa ... e tomarimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono densha wa ... ni tomarimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Kono densha wa ... wa tomarimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "... ni kono densha tomarimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which particle is used after the name of a station for 'tomarimasu' (stops)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "e",
+          "is_correct": false
+        },
+        {
+          "answer": "ni 'at'",
+          "is_correct": true
+        },
+        {
+          "answer": "kara",
+          "is_correct": false
+        },
+        {
+          "answer": "no",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the typical 'yes' answer to 'Kono densha wa ... e ikimasu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai/Ee, ikimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Hai, ikimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Iie, ikimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hai, soo desu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the typical 'no' answer to 'Kono densha wa ... ni tomarimasu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Iie, tomarimasen.",
+          "is_correct": true
+        },
+        {
+          "answer": "Hai, tomarimasen.",
+          "is_correct": false
+        },
+        {
+          "answer": "Iie, tomarimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Iie, soo dewa arimasen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'ikimasen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "doesn't/don't go",
+          "is_correct": true
+        },
+        {
+          "answer": "goes",
+          "is_correct": false
+        },
+        {
+          "answer": "went",
+          "is_correct": false
+        },
+        {
+          "answer": "will go",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'tomarimasen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "stops",
+          "is_correct": false
+        },
+        {
+          "answer": "doesn't/don't stop",
+          "is_correct": true
+        },
+        {
+          "answer": "starts",
+          "is_correct": false
+        },
+        {
+          "answer": "stays",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which sentence is correct for 'This train stops at Yokohama'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono densha wa Yokohama ni tomarimasu.",
+          "is_correct": true
+        },
+        {
+          "answer": "Kono densha wa Yokohama e tomarimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yokohama wa kono densha tomarimasu.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono densha ga Yokohama no tomarimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Ikimasu 'goes' and tomarimasu 'stops'\n\nWhen you want to find out if a train goes to a certain place or if it stops at a certain station, you might ask in English (a) 'Does this train go to...?' and (b) 'Does this train stop at...?,' respectively. The Japanese expressions for these English questions follow:\n\na. Kono densha wa ... e ikimasu ka?\n   Does this train go to ...?\n\nb. Kono densha wa ... ni tomarimasu ka?\n   Does this train stop at ...?\n\nIt should be noted that the particle ni 'at' is used after the name of the station at which the train stops.\n\nThe following are typical answers to the above two questions:\n\n1. Yes-answers   Hai/Ee, ikimasu/tomarimasu.\n2. No-answers    Iie, ikimasen/tomarimasen."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

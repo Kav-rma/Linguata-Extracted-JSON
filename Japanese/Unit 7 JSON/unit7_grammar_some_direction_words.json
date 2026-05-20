@@ -1,0 +1,259 @@
+{
+  "title": "unit7_grammar_some_direction_words",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which word means 'this way' (referring to the direction of the speaker)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "sochira / sotchi",
+          "is_correct": false
+        },
+        {
+          "answer": "achira / atchi",
+          "is_correct": false
+        },
+        {
+          "answer": "kochira / kotchi",
+          "is_correct": true
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which word means 'that way' (referring to the direction of the listener)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kochira / kotchi",
+          "is_correct": false
+        },
+        {
+          "answer": "sochira / sotchi",
+          "is_correct": true
+        },
+        {
+          "answer": "achira / atchi",
+          "is_correct": false
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which word means 'that way over there' (referring to a direction away from both speaker and listener)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kochira / kotchi",
+          "is_correct": false
+        },
+        {
+          "answer": "sochira / sotchi",
+          "is_correct": false
+        },
+        {
+          "answer": "achira / atchi",
+          "is_correct": true
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which prefixes are used in these direction words?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ko-, so-, and a-",
+          "is_correct": true
+        },
+        {
+          "answer": "ma-, mi-, and mu-",
+          "is_correct": false
+        },
+        {
+          "answer": "wa-, wo-, and we-",
+          "is_correct": false
+        },
+        {
+          "answer": "ka-, ki-, and ke-",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which is the more casual / shortened form of 'kochira'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kotchi",
+          "is_correct": true
+        },
+        {
+          "answer": "kotsu",
+          "is_correct": false
+        },
+        {
+          "answer": "kocchi",
+          "is_correct": false
+        },
+        {
+          "answer": "kokora",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which is the more casual / shortened form of 'sochira'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "soko",
+          "is_correct": false
+        },
+        {
+          "answer": "sotchi",
+          "is_correct": true
+        },
+        {
+          "answer": "sotsu",
+          "is_correct": false
+        },
+        {
+          "answer": "sokora",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which is the more casual / shortened form of 'achira'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "asoko",
+          "is_correct": false
+        },
+        {
+          "answer": "atchi",
+          "is_correct": true
+        },
+        {
+          "answer": "atsu",
+          "is_correct": false
+        },
+        {
+          "answer": "akora",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "The direction words follow the same ko-/so-/a- pattern as which other series?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "kore/sore/are and koko/soko/asoko",
+          "is_correct": true
+        },
+        {
+          "answer": "watakushi/anata/kare",
+          "is_correct": false
+        },
+        {
+          "answer": "ichi/ni/san",
+          "is_correct": false
+        },
+        {
+          "answer": "kyoo/kinoo/ashita",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If you want to point in the direction of yourself, which word should you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "sochira",
+          "is_correct": false
+        },
+        {
+          "answer": "achira",
+          "is_correct": false
+        },
+        {
+          "answer": "kochira",
+          "is_correct": true
+        },
+        {
+          "answer": "doko",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Are 'kotchi', 'sotchi', and 'atchi' more polite or more casual than 'kochira', 'sochira', and 'achira'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "More polite",
+          "is_correct": false
+        },
+        {
+          "answer": "More casual",
+          "is_correct": true
+        },
+        {
+          "answer": "They are exactly the same",
+          "is_correct": false
+        },
+        {
+          "answer": "Only used in writing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Some direction words\n\nKo-, so-, and a- can also be used to indicate direction, as in:\n\nkochira OR kotchi    this way (refers to the direction of the speaker)\nsochira OR sotchi    that way (refers to the direction of the listener)\nachira OR atchi      that way over there (refers to a direction away from the speaker and listener)"
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "title": "unit7_reading_comprehension_i",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Description 1: 'Watakushi no mae ni depaato ga arimasu. Hidari ni kooshuu denwa ga arimasu.' Which numbered location on the map matches this description?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "2",
+          "is_correct": true
+        },
+        {
+          "answer": "5",
+          "is_correct": false
+        },
+        {
+          "answer": "6",
+          "is_correct": false
+        },
+        {
+          "answer": "8",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Description 2: 'Watakushi no ushiro ni shingoo ga arimasu. Migi ni kooban ga arimasu.' Which numbered location on the map matches this description?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "1",
+          "is_correct": false
+        },
+        {
+          "answer": "3",
+          "is_correct": false
+        },
+        {
+          "answer": "6",
+          "is_correct": true
+        },
+        {
+          "answer": "8",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Description 3: 'Watakushi no mae ni gakkoo ga arimasu. Watakushi no hidari ni shingoo ga arimasu.' Which numbered location on the map matches this description?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "2",
+          "is_correct": false
+        },
+        {
+          "answer": "4",
+          "is_correct": false
+        },
+        {
+          "answer": "6",
+          "is_correct": true
+        },
+        {
+          "answer": "7",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Description 4: 'Watakushi no migi wa eki desu. Mae ni resutoran ga arimasu.' Which numbered location on the map matches this description?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "1",
+          "is_correct": true
+        },
+        {
+          "answer": "3",
+          "is_correct": false
+        },
+        {
+          "answer": "5",
+          "is_correct": false
+        },
+        {
+          "answer": "8",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Description 5: 'Mukoo ni kooban ga arimasu. Watakushi no mae ni kissaten ga arimasu.' Which numbered location on the map matches this description?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "2",
+          "is_correct": false
+        },
+        {
+          "answer": "5",
+          "is_correct": false
+        },
+        {
+          "answer": "7",
+          "is_correct": true
+        },
+        {
+          "answer": "8",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "I. Reading Comprehension"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Read the following and then select the number of the location on the map that matches its description below."
+    },
+    {
+      "sequence_id": 3,
+      "text": "1. Watakushi no mae ni depaato ga arimasu. Hidari ni kooshuu denwa ga arimasu."
+    },
+    {
+      "sequence_id": 4,
+      "text": "(In front of me there is a department store. On the left there is a public phone.)"
+    },
+    {
+      "sequence_id": 5,
+      "text": "2. Watakushi no ushiro ni shingoo ga arimasu. Migi ni kooban ga arimasu."
+    },
+    {
+      "sequence_id": 6,
+      "text": "(Behind me there is a traffic light. On the right there is a police box.)"
+    },
+    {
+      "sequence_id": 7,
+      "text": "3. Watakushi no mae ni gakkoo ga arimasu. Watakushi no hidari ni shingoo ga arimasu."
+    },
+    {
+      "sequence_id": 8,
+      "text": "(In front of me there is a school. On my left there is a traffic light.)"
+    },
+    {
+      "sequence_id": 9,
+      "text": "4. Watakushi no migi wa eki desu. Mae ni resutoran ga arimasu."
+    },
+    {
+      "sequence_id": 10,
+      "text": "(On my right is the station. In front there is a restaurant.)"
+    },
+    {
+      "sequence_id": 11,
+      "text": "5. Mukoo ni kooban ga arimasu. Watakushi no mae ni kissaten ga arimasu."
+    },
+    {
+      "sequence_id": 12,
+      "text": "(Beyond there is a police box. In front of me there is a coffee shop.)"
+    },
+    {
+      "sequence_id": 13,
+      "text": "Note: shingoo (⊕) = traffic light; gakkoo = school."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": ["unit7_reading_comprehension_i_1.jpeg"]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "unit20_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "きょう (kyoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "today", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "(お)てんき ((o)tenki)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "weather", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "ほんとうに (hontoo ni)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "truly", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "ほんとう (hontoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "true", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "いや (iya)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "nasty, unpleasant", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "どこか (dokoka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "somewhere", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "おでかけです (odekake desu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "go out (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "ごめんください (gomen kudasai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "excuse me; hello (anyone there?); good-bye", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "いって(い)らっしゃい (itte (i)rasshai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "good-bye (used by the one staying behind; lit., 'go and come')", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "おかえりですか (okaeri desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "are you going home? (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "じゃあ、また (jaa, mata)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "so long, see you again later", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "おやすみなさい (oyasuminasai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "good night", "is_correct": true}]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "いってまいります (itte mairimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "I'm going out (lit., 'I'll go and come back')", "is_correct": true}]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "ただいま (tadaima)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "I'm back (used by the one who has returned)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "おかえりなさい (okaerinasai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "welcome home (used by the one who stayed behind)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "こどもたち (kodomo-tachi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "children", "is_correct": true}]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "ちょっとまえに (chotto mae ni)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "a little while ago", "is_correct": true}]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "ねました (nemashita)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "went to sleep, went to bed (past tense of nemasu)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

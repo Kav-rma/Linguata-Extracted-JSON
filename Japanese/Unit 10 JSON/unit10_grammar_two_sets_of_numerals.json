@@ -1,0 +1,259 @@
+{
+  "title": "unit10_grammar_two_sets_of_numerals",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which lesson previously introduced expressions like 'futatsu-me (no shingoo)' and 'mittsu-me (no kado)'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Lesson 5",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 8",
+          "is_correct": true
+        },
+        {
+          "answer": "Lesson 9",
+          "is_correct": false
+        },
+        {
+          "answer": "Lesson 10",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'futatsu-me' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the first",
+          "is_correct": false
+        },
+        {
+          "answer": "the second",
+          "is_correct": true
+        },
+        {
+          "answer": "the third",
+          "is_correct": false
+        },
+        {
+          "answer": "the fourth",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What numbers are indicated by 'futa-' and 'mi-' in 'futatsu-me' and 'mittsu-me'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'four' and 'five'",
+          "is_correct": false
+        },
+        {
+          "answer": "'two' and 'three'",
+          "is_correct": true
+        },
+        {
+          "answer": "'one' and 'two'",
+          "is_correct": false
+        },
+        {
+          "answer": "'six' and 'seven'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which set of numerals are the 'native Japanese' numerals?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ichi, ni, san, shi, go...",
+          "is_correct": false
+        },
+        {
+          "answer": "hi-, fu-, mi-, yo-, itsu-...",
+          "is_correct": true
+        },
+        {
+          "answer": "yon, nana, kyuu...",
+          "is_correct": false
+        },
+        {
+          "answer": "Both sets are native Japanese",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which set of numerals is of Chinese origin?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hi-, fu-, mi-, yo-...",
+          "is_correct": false
+        },
+        {
+          "answer": "ichi, ni, san, shi, go...",
+          "is_correct": true
+        },
+        {
+          "answer": "hitotsu, futatsu, mittsu...",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither — both are native",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How are the native Japanese numerals typically used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "For all numbers regardless of size",
+          "is_correct": false
+        },
+        {
+          "answer": "Only for numbers one to ten",
+          "is_correct": true
+        },
+        {
+          "answer": "Only for numbers above ten",
+          "is_correct": false
+        },
+        {
+          "answer": "Only for years and dates",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How are numbers larger than ten expressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In native Japanese numerals",
+          "is_correct": false
+        },
+        {
+          "answer": "In Chinese-origin numerals",
+          "is_correct": true
+        },
+        {
+          "answer": "Always in English",
+          "is_correct": false
+        },
+        {
+          "answer": "Both sets equally",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is the native Japanese word for 'ten'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "juu",
+          "is_correct": false
+        },
+        {
+          "answer": "too",
+          "is_correct": true
+        },
+        {
+          "answer": "kokono",
+          "is_correct": false
+        },
+        {
+          "answer": "ya",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Why do most native Japanese numerals end with a hyphen in the table?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because they're old",
+          "is_correct": false
+        },
+        {
+          "answer": "Because they are always used with some other element (counter), so they don't stand alone",
+          "is_correct": true
+        },
+        {
+          "answer": "It's a printing error",
+          "is_correct": false
+        },
+        {
+          "answer": "It indicates plural",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which native Japanese number is the exception that occurs without 'tsu' at the end?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hi (1)",
+          "is_correct": false
+        },
+        {
+          "answer": "fu (2)",
+          "is_correct": false
+        },
+        {
+          "answer": "too (10)",
+          "is_correct": true
+        },
+        {
+          "answer": "yo (4)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. Two sets of numerals\n\nIn Lesson 8, we learned such expressions as futatsu-me (no shingoo), 'the second (traffic light),' and mittsu-me (no kado) 'the third (corner)'. The words futatsu-me and mittsu-me mean 'the second' and 'the third,' respectively, and futa- and mi- indicate the numbers 'two' and 'three.' These two words are native Japanese numerals. When simply counting numbers, however, the Japanese use another set of numerals which are of Chinese origin. The native Japanese numerals are used only for the numbers one to ten. Any numbers larger than ten are expressed in Chinese numerals. Below is a table that shows the difference between the two systems (Japanese = native Japanese numerals, Chinese = numerals of Chinese origin).\n\n          1     2    3     4     5      6     7        8       9            10\nJapanese  hi-   fu-  mi-   yo-   itsu-  mu-   nana-    ya-     kokono-      too\nChinese   ichi  ni   san   shi   go     roku  shichi   hachi   ku/kyuu      juu\n\nAs indicated by the hyphen following the Japanese numerals above, the native Japanese numerals are always used with some other element. The exception is the number 10, too, which occurs without tsu at the end. Ask your instructor how these two sets of numerals are used in counting objects in Japanese."
+    }
+  ],
+  "metadata": {
+    "page_start": 16,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

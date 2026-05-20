@@ -1,0 +1,259 @@
+{
+  "title": "unit17_grammar_indicate_preference_larger",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What word was learned in Lesson 15 meaning 'large/big'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ookii",
+          "is_correct": true
+        },
+        {
+          "answer": "chiisai",
+          "is_correct": false
+        },
+        {
+          "answer": "yasui",
+          "is_correct": false
+        },
+        {
+          "answer": "chigau",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'chiisai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "large",
+          "is_correct": false
+        },
+        {
+          "answer": "small",
+          "is_correct": true
+        },
+        {
+          "answer": "cheap",
+          "is_correct": false
+        },
+        {
+          "answer": "different",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'yasui' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "cheap, inexpensive",
+          "is_correct": true
+        },
+        {
+          "answer": "large",
+          "is_correct": false
+        },
+        {
+          "answer": "small",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'chiisai no' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "small sweater(s)",
+          "is_correct": false
+        },
+        {
+          "answer": "small one(s)",
+          "is_correct": true
+        },
+        {
+          "answer": "large one(s)",
+          "is_correct": false
+        },
+        {
+          "answer": "cheap one(s)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the particle 'no' replace in 'chiisai no'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "the verb",
+          "is_correct": false
+        },
+        {
+          "answer": "the noun (so you don't have to repeat it)",
+          "is_correct": true
+        },
+        {
+          "answer": "the adjective",
+          "is_correct": false
+        },
+        {
+          "answer": "the question word",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How do you say 'a little smaller' in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "moo sukoshi chiisai",
+          "is_correct": true
+        },
+        {
+          "answer": "chiisai -er",
+          "is_correct": false
+        },
+        {
+          "answer": "sukoshi ookii",
+          "is_correct": false
+        },
+        {
+          "answer": "chotto yasui",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Unlike English, what do you add in Japanese to make a comparative like 'smaller'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Add '-er' to the end",
+          "is_correct": false
+        },
+        {
+          "answer": "Add nothing to chiisai; instead place 'moo sukoshi' in front of the word",
+          "is_correct": true
+        },
+        {
+          "answer": "Change chiisai to chiisaku",
+          "is_correct": false
+        },
+        {
+          "answer": "Add 'motto' at the end",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you ask 'Do you carry/have smaller ones?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Moo sukoshi chiisai no wa arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Moo sukoshi chiisai no o misete kudasai.",
+          "is_correct": false
+        },
+        {
+          "answer": "Chiisai desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Moo sukoshi ookii no wa arimasu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How do you ask the clerk to show you less expensive ones?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Moo sukoshi yasui no o misete kudasai.",
+          "is_correct": true
+        },
+        {
+          "answer": "Moo sukoshi yasui no wa arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Yasui desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Moo sukoshi takai no o misete kudasai.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'yasui no' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "inexpensive one(s)",
+          "is_correct": true
+        },
+        {
+          "answer": "inexpensive camera(s)",
+          "is_correct": false
+        },
+        {
+          "answer": "small one(s)",
+          "is_correct": false
+        },
+        {
+          "answer": "expensive one(s)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. One way to indicate your preference: how to say 'one that is larger'\n\nIn Lesson 15 we learned the word ookii 'large,' 'big,' which can be used just like its English equivalent, as in the following example:\n\nookii suupaa    large supermarket\n\nIn this lesson we learn similar words like chiisai 'small' and yasui 'cheap, inexpensive':\n\nchiisai seetaa    small sweater\nyasui kamera      inexpensive camera\n\nWhen you mention the size, price, etc. of merchandise you have been talking about, it is not always necessary to specify the merchandise. In English, for example, you would normally say 'small ones' rather than 'small sweaters' when you have been talking about sweaters. Japanese people do the same thing, and the particle no can be used for this purpose. Look at the following examples:\n\nchiisai seetaa    small sweater(s)\nchiisai no        small one(s)\nyasui kamera      inexpensive camera(s)\nyasui no          inexpensive one(s)\n\nWhen shopping, you may often find yourself asking a salesclerk to show you larger/smaller items than the ones you are examining. For example, you may want to say something like 'Please show me smaller ones' or 'Do you carry smaller ones?' In English, you add -er to the word small, with a little in front of it. In Japanese, you do not add anything to chiisai but instead you place moo sukoshi 'a little more' in front of the word, as the following examples illustrate:\n\nmoo sukoshi chiisai seetaa    a little smaller sweater(s)\nmoo sukoshi chiisai no        a little smaller one(s)\n\nThus, if you want to ask a salesclerk if the store carries smaller ones than the one you are examining, you can say:\n\nMoo sukoshi chiisai no wa arimasu ka?    Do you carry/have smaller ones? (cf. Lesson 4)\n\nLikewise, when you want to ask the clerk to show you less expensive ones, you can say:\n\nMoo sukoshi yasui no o misete kudasai.    Please show me ones that are a little cheaper"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

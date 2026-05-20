@@ -1,0 +1,259 @@
+{
+  "title": "unit4_grammar_existence_of_an_object",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the word 'arimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "to go",
+          "is_correct": false
+        },
+        {
+          "answer": "exist (there is / are)",
+          "is_correct": true
+        },
+        {
+          "answer": "to eat",
+          "is_correct": false
+        },
+        {
+          "answer": "to come",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What pattern is used to ask about the existence of an object?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "... ga doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "... ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "... wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "... onegai shimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What can 'X ga arimasu ka?' mean in a store context?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is X?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you carry X? / Do you have X?",
+          "is_correct": true
+        },
+        {
+          "answer": "Is X expensive?",
+          "is_correct": false
+        },
+        {
+          "answer": "What is X?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How would you ask if a pharmacy has aspirin?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Asupirin wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Asupirin ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Asupirin desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Asupirin onegai shimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How would you ask if a hotel has a room available?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Heya wa doko desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Heya ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Heya wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Heya onegai shimasu.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When talking about the existence of people (not objects), which word should you use instead of 'arimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wakarimasu",
+          "is_correct": false
+        },
+        {
+          "answer": "imasu",
+          "is_correct": true
+        },
+        {
+          "answer": "kudasai",
+          "is_correct": false
+        },
+        {
+          "answer": "desu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which sentence correctly asks 'Is there an American in this room?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono heya ni Amerikajin ga arimasu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Kono heya ni Amerikajin ga imasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Kono heya wa Amerikajin desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerikajin no heya wa doko desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "'Arimasu' is used to express the existence of...",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "people only",
+          "is_correct": false
+        },
+        {
+          "answer": "objects, but not people",
+          "is_correct": true
+        },
+        {
+          "answer": "animals only",
+          "is_correct": false
+        },
+        {
+          "answer": "all living things",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which English phrase is closest to 'Heya ga arimasu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where is the room?",
+          "is_correct": false
+        },
+        {
+          "answer": "Do you have a room (available)?",
+          "is_correct": true
+        },
+        {
+          "answer": "Is the room nice?",
+          "is_correct": false
+        },
+        {
+          "answer": "How much is the room?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which particle is used with 'arimasu' to mark the object whose existence is questioned?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "wa",
+          "is_correct": false
+        },
+        {
+          "answer": "ga",
+          "is_correct": true
+        },
+        {
+          "answer": "de",
+          "is_correct": false
+        },
+        {
+          "answer": "ni",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to ask about the existence of an object\n\nThe word arimasu means 'exist,' and this word can be used when you want to ask about the existence or availability of objects or merchandise. Look at the following:\n\n... ga arimasu ka?    Is there ...?\n\nThe above expression can mean 'Do you carry ...?' or 'Do you have ...?' Thus, in a pharmacy, if you want to ask whether they have aspirin, you can say:\n\nAsupirin ga arimasu ka?    Do you have aspirin?\n\nLikewise, when you want to ask if a hotel has a room available, you can say:\n\nHeya ga arimasu ka?    Do you have a room (available)?\n\nPlease note that when you are talking about people, you should use imasu, not arimasu.\n\nExample:\nKono heya ni Amerikajin ga imasu ka?    Is there an American in this room?"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}
