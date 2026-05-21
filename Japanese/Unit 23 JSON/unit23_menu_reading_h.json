@@ -1,0 +1,171 @@
+{
+  "title": "unit23_menu_reading_h",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Look at the sushi shop menu. What is the telephone number?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "268-4621",
+          "is_correct": true
+        },
+        {
+          "answer": "286-4621",
+          "is_correct": false
+        },
+        {
+          "answer": "268-4612",
+          "is_correct": false
+        },
+        {
+          "answer": "262-4681",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where in Tokyo is the sushi shop located?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Chiyoda-ku, Ogawa-machi 6-chome 17-5",
+          "is_correct": true
+        },
+        {
+          "answer": "Shibuya-ku, Ogawa-machi 6-chome 17-5",
+          "is_correct": false
+        },
+        {
+          "answer": "Chiyoda-ku, Ginza 6-chome 17-5",
+          "is_correct": false
+        },
+        {
+          "answer": "Shinjuku-ku, Ogawa-machi 4-chome 17-5",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What beverages does the shop serve?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Beer, sake, juice, cola, and Suntory Old (whisky)",
+          "is_correct": true
+        },
+        {
+          "answer": "Only beer and sake",
+          "is_correct": false
+        },
+        {
+          "answer": "Coffee, tea, and milk",
+          "is_correct": false
+        },
+        {
+          "answer": "Wine, beer, and water",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which is the word for 'sushi' on the menu?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "寿司 (sushi) / にぎり (nigiri)",
+          "is_correct": true
+        },
+        {
+          "answer": "刺身 (sashimi)",
+          "is_correct": false
+        },
+        {
+          "answer": "御飯 (gohan)",
+          "is_correct": false
+        },
+        {
+          "answer": "吸物 (suimono)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How many special dishes are served at lunch time (Lunch Time Special), and what are the prices?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sushi: regular 600 yen / large 800 yen, plus chirashi",
+          "is_correct": true
+        },
+        {
+          "answer": "Sushi: regular 800 yen / large 1000 yen only",
+          "is_correct": false
+        },
+        {
+          "answer": "Only one dish at 600 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "Three dishes, all 500 yen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The Japanese word for 'tuna' is maguro (赤身) and the fatty part of the tuna is called toro (トロ). On the menu, which is more expensive, maguro or toro?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Toro (e.g., toro sashimi 1800 yen vs. maguro sashimi 1300 yen)",
+          "is_correct": true
+        },
+        {
+          "answer": "Maguro (e.g., maguro sashimi 1800 yen vs. toro sashimi 1300 yen)",
+          "is_correct": false
+        },
+        {
+          "answer": "They are the same price",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither is on the menu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "H. Menu Reading"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Look at the menu from a Tokyo sushi shop (refer to the sushi menu images). Find out the following (with the help of your instructor where necessary): the telephone number, where in Tokyo the sushi shop is located, what beverages they serve, which is the word for sushi, how many special dishes they serve for lunch and the prices, and whether maguro or toro is more expensive."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": [
+      "unit23_sushi_menu_1.png",
+      "unit23_sushi_menu_2.png",
+      "unit23_sushi_menu_3.png"
+    ]
+  }
+}

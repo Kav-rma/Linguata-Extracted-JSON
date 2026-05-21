@@ -1,0 +1,139 @@
+{
+  "title": "unit23_grammar_which_dish_do_you_recommend",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When might you want to ask a waiter/waitress what dish s/he recommends?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "After finding the type of dish you want but still being unsure which one to order", "is_correct": true},
+        {"answer": "Only when paying the bill", "is_correct": false},
+        {"answer": "Only when entering the restaurant", "is_correct": false},
+        {"answer": "Never", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What expression do you use to ask which dish is good/recommended?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Dore ga oishii desu ka?", "is_correct": true},
+        {"answer": "Kore wa ikura desu ka?", "is_correct": false},
+        {"answer": "Okanjoo onegai shimasu.", "is_correct": false},
+        {"answer": "Kore wa karai desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Dore ga oishii desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Which one is good? / Which one would you recommend?", "is_correct": true},
+        {"answer": "How much is it?", "is_correct": false},
+        {"answer": "Where is it?", "is_correct": false},
+        {"answer": "Is it spicy?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If the waiter/waitress points to a dish, what does that mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "That is the one s/he recommends", "is_correct": true},
+        {"answer": "That dish is sold out", "is_correct": false},
+        {"answer": "That dish is the most expensive", "is_correct": false},
+        {"answer": "You must not order it", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Do you need to understand exactly what the waiter/waitress is saying when s/he points to a dish?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "No, you don't really need to understand accurately what s/he is saying", "is_correct": true},
+        {"answer": "Yes, you must understand every word", "is_correct": false},
+        {"answer": "Yes, or you cannot order", "is_correct": false},
+        {"answer": "No, but you must repeat it back", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "If s/he doesn't point to anything and says something you don't understand, what can you ask?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Dore desu ka? (Which one is it?)", "is_correct": true},
+        {"answer": "Ikura desu ka?", "is_correct": false},
+        {"answer": "Okanjoo onegai shimasu.", "is_correct": false},
+        {"answer": "Gochisoosama.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'Dore desu ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Which one is it?", "is_correct": true},
+        {"answer": "How much is it?", "is_correct": false},
+        {"answer": "Is it good?", "is_correct": false},
+        {"answer": "Where do I pay?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If you want what s/he points to, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sore kudasai. / Sore onegai shimasu.", "is_correct": true},
+        {"answer": "Dore ga oishii desu ka?", "is_correct": false},
+        {"answer": "Okanjoo wa doko desu ka?", "is_correct": false},
+        {"answer": "Kore wa nigai desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Sore kudasai' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Please give me that.", "is_correct": true},
+        {"answer": "Which one is it?", "is_correct": false},
+        {"answer": "How much is that?", "is_correct": false},
+        {"answer": "Is that spicy?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the literal meaning of 'oishii'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "delicious / good (tasting)", "is_correct": true},
+        {"answer": "expensive", "is_correct": false},
+        {"answer": "spicy", "is_correct": false},
+        {"answer": "cold", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Which dish do you recommend?\n\nIn some cases, you may want to ask a waiter/waitress what dish s/he recommends. For example, after finding the type of dish you want, you may still not be sure which one to order.\n\nIn such a case, you can ask:\n\nDore ga oishii desu ka?    Which one is good? / Which one would you recommend?\n\nOf course, if the waiter/waitress points to a dish, then that is the one s/he recommends. (You don't really need to understand accurately what s/he is saying.) If s/he doesn't point to anything and says something you don't understand, you can ask:\n\nDore desu ka?    Which one is it?\n\nIf you want what s/he points to, you can say:\n\nSore kudasai.           Please give me that.\nSore onegai shimasu."
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 18,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

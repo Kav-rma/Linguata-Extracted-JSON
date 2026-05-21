@@ -1,0 +1,98 @@
+{
+  "title": "unit23_reading_review_kanji",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "駐車場 (chuushajoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "parking lot", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "休憩所(室) (kyuukeesho / kyuukeeshitsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "rest area / lounge", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "お手洗い (otearai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "restroom, toilet", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "横浜方面 (Yokohama hoomen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "in the direction of Yokohama", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "上野 (Ueno)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Ueno (place name)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "化粧室 (keshooshitsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "powder room, restroom", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "四丁目 (yon-choome)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "4th block / district No. 4", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "地下鉄 (chikatetsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "subway", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "左側通行 (hidarigawa tsuukoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "keep to the left", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "右折禁止 (usetsu kinshi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "no right turn", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "発売中 (hatsubaichuu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "now on sale", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "発売中止 (hatsubai chuushi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "sale suspended / discontinued", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "unit22_menu_reading_round1",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Look at the menu. The instructor asks where a certain section of items is written. Answer by pointing to the section and saying 'Koko desu.' Example: Sofuto dorinku wa doko desu ka? (Where are the soft drinks?) -> Koko desu. (pointing to the Soft Drinks section). Now answer: Furesshu juusu wa doko desu ka? (Where are the fresh juices?)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Koko desu. (pointing to the フレッシュ・ジュース / Fresh Juice section)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "The instructor asks: A la karuto wa doko desu ka? (Where is the A La Carte section?) Answer by pointing and saying 'Koko desu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Koko desu. (pointing to the ア・ラ・カルト / A La Carte section)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "The instructor asks: Sandoitchi wa doko desu ka? (Where are the sandwiches?) Answer by pointing and saying 'Koko desu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Koko desu. (pointing to the サンドイッチ / Sandwich section)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "The instructor asks: Ranchi taimu saabisu wa doko desu ka? (Where is the Lunch Time Service section?) Answer by pointing and saying 'Koko desu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Koko desu. (pointing to the ランチ・タイム・サービス / Lunch Time Service section)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "The instructor asks: Tii taimu saabisu wa doko desu ka? (Where is the Tea Time Service section?) Answer by pointing and saying 'Koko desu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Koko desu. (pointing to the ティー・タイム・サービス / Tea Time Service section)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "The instructor asks: Furooto wa doko desu ka? (Where is the Float section?) Answer by pointing and saying 'Koko desu.'",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Koko desu. (pointing to the フロート / Float section)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": ["unit22_menu_reading_1.png"]
+  }
+}

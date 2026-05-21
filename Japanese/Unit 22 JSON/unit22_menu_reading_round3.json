@@ -1,0 +1,79 @@
+{
+  "title": "unit22_menu_reading_round3",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Look at the menu. Which section lists the special lunch menu, and during what hours is it served?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Lunch Time Service (ランチ・タイム・サービス), served AM 11:30 - PM 2:00", "is_correct": true},
+        {"answer": "Tea Time Service, served PM 2:00 - 5:00", "is_correct": false},
+        {"answer": "A La Carte, served from PM 2:00", "is_correct": false},
+        {"answer": "Soft Drinks, served all day", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Find the price of cheese cake (チーズ・ケーキ / chiizu keeki) on the menu.",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "600 yen", "is_correct": true},
+        {"answer": "500 yen", "is_correct": false},
+        {"answer": "550 yen", "is_correct": false},
+        {"answer": "480 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Find the price of tea (紅茶 / koocha) on the menu.",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "450 yen", "is_correct": true},
+        {"answer": "480 yen", "is_correct": false},
+        {"answer": "430 yen", "is_correct": false},
+        {"answer": "400 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Find the price of iced tea (アイス紅茶 / aisu koocha) on the menu.",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "430 yen", "is_correct": true},
+        {"answer": "480 yen", "is_correct": false},
+        {"answer": "450 yen", "is_correct": false},
+        {"answer": "380 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Find the price of a vegetable sandwich (野菜サンドイッチ / yasai sandoitchi) on the menu.",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "400 yen", "is_correct": true},
+        {"answer": "420 yen", "is_correct": false},
+        {"answer": "500 yen", "is_correct": false},
+        {"answer": "300 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Round 3 — Directions: Find out the following, with the help of your instructor (refer to the menu image): the special lunch menu, the price of cheese cake, the price of tea, the price of iced tea, the price of a vegetable sandwich."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": ["unit22_menu_reading_1.png"]
+  }
+}

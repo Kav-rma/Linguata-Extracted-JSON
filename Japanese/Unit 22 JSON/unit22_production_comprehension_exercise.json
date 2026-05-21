@@ -1,0 +1,123 @@
+{
+  "title": "unit22_production_comprehension_exercise",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The instructor asks 'Onomimono wa ikaga desu ka?' You ask 'Wain wa arimasu ka?' The instructor answers: 赤と白がございます。 (Aka to shiro ga gozaimasu.) What kinds of wine does the restaurant serve?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Red and white",
+          "is_correct": true
+        },
+        {
+          "answer": "Apple and cherry",
+          "is_correct": false
+        },
+        {
+          "answer": "Vanilla and chocolate",
+          "is_correct": false
+        },
+        {
+          "answer": "American and mocha",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The instructor asks 'Dezaato wa ikaga desu ka?' You ask 'Pai wa arimasu ka?' The instructor answers: アップルとチェリーがございます。 (Appuru to cherii ga gozaimasu.) What kinds of pie does the restaurant serve?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Apple and cherry",
+          "is_correct": true
+        },
+        {
+          "answer": "Red and white",
+          "is_correct": false
+        },
+        {
+          "answer": "Vanilla and chocolate",
+          "is_correct": false
+        },
+        {
+          "answer": "American and mocha",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The instructor asks 'Dezaato wa ikaga desu ka?' You ask 'Aisukuriimu wa arimasu ka?' The instructor answers: バニラとチョコレートがございます。 (Banira to chokoreeto ga gozaimasu.) What kinds of ice cream does the restaurant serve?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Vanilla and chocolate",
+          "is_correct": true
+        },
+        {
+          "answer": "Apple and cherry",
+          "is_correct": false
+        },
+        {
+          "answer": "Red and white",
+          "is_correct": false
+        },
+        {
+          "answer": "American and mocha",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The instructor asks 'Onomimono wa ikaga desu ka?' You ask 'Koohii wa arimasu ka?' The instructor answers: アメリカンとモカがございます。 (Amerikan to moka ga gozaimasu.) What kinds of coffee does the restaurant serve?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "American and mocha",
+          "is_correct": true
+        },
+        {
+          "answer": "Vanilla and chocolate",
+          "is_correct": false
+        },
+        {
+          "answer": "Apple and cherry",
+          "is_correct": false
+        },
+        {
+          "answer": "Red and white",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "G. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The instructor asks if the student would like to have dessert or a drink. The student selects an appropriate item from the list (wine, pie, ice cream, coffee) and asks if the restaurant serves it or not. The instructor answers by giving the kinds of desserts/drinks the restaurant serves. The student chooses one and orders it."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Instructor: Onomimono wa ikaga desu ka? Student: Wain wa arimasu ka? Instructor: Aka to shiro ga gozaimasu. Student: Jaa, aka onegai shimasu."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

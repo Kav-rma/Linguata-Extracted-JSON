@@ -1,75 +1,63 @@
 {
-  "title": "unit21_response_drill_b",
+  "title": "unit23_response_drill_c",
   "type": "vocabulary",
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Nan-nin-sama desu ka? (3 persons)",
+      "question_text": "Kore wa amaku arimasen ka? (Yes)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "San-nin desu.",
+          "answer_text": "Ee, amaku arimasen.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Nan-nin-sama desu ka? (1 person)",
+      "question_text": "Kore wa shiokaraku arimasen ka? (No)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Hito-ri desu.",
+          "answer_text": "Iie, shiokarai desu.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Nan-nin-sama desu ka? (5 persons)",
+      "question_text": "Kore wa suppaku arimasen ka? (No)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Go-nin desu.",
+          "answer_text": "Iie, suppai desu.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Nan-nin-sama desu ka? (2 persons)",
+      "question_text": "Kore wa karaku arimasen ka? (Yes)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Futa-ri desu.",
+          "answer_text": "Ee, karaku arimasen.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Nan-nin-sama desu ka? (6 persons)",
+      "question_text": "Kore wa nigaku arimasen ka? (No)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Roku-nin desu.",
-          "is_correct": true
-        }
-      ]
-    },
-    {
-      "sequence_id": 6,
-      "question_text": "Nan-nin-sama desu ka? (4 persons)",
-      "has_answer": true,
-      "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Yo-nin desu.",
+          "answer_text": "Iie, nigai desu.",
           "is_correct": true
         }
       ]

@@ -1,0 +1,139 @@
+{
+  "title": "unit22_grammar_how_to_indicate_ready_to_order",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Can you place an order with any waitress you see?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yes, not necessarily the one that waited on you first", "is_correct": true},
+        {"answer": "No, only the one who first waited on you", "is_correct": false},
+        {"answer": "No, only the manager", "is_correct": false},
+        {"answer": "No, you must wait to be approached", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What can you say to call a waitress to place an order?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sumimasen. Onegai shimasu.", "is_correct": true},
+        {"answer": "Chotto matte kudasai.", "is_correct": false},
+        {"answer": "Okimari desu ka?", "is_correct": false},
+        {"answer": "Gochuumon wa?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Sumimasen. Onegai shimasu.' indicate in this situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "I would like to place an order", "is_correct": true},
+        {"answer": "Please wait a moment", "is_correct": false},
+        {"answer": "Have you decided?", "is_correct": false},
+        {"answer": "I'm sorry, I have to go", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What role does 'Sumimasen' play here?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It acts as an attention getter", "is_correct": true},
+        {"answer": "It is an apology for being late", "is_correct": false},
+        {"answer": "It means 'thank you'", "is_correct": false},
+        {"answer": "It is a farewell", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the expression 'onegai shimasu' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Something like 'I'm going to make a request' / 'I'm making a request'", "is_correct": true},
+        {"answer": "'Please wait'", "is_correct": false},
+        {"answer": "'Have you decided?'", "is_correct": false},
+        {"answer": "'I'm sorry'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "If you are not yet ready to order, what can you say to the waitress or waiter?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Chotto matte kudasai.", "is_correct": true},
+        {"answer": "Sumimasen. Onegai shimasu.", "is_correct": false},
+        {"answer": "Gochuumon wa?", "is_correct": false},
+        {"answer": "Okimari ni narimashita ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'Chotto matte kudasai.' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Please wait a moment.", "is_correct": true},
+        {"answer": "I'd like to order, please.", "is_correct": false},
+        {"answer": "What would you like?", "is_correct": false},
+        {"answer": "Thank you very much.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "After you say 'Chotto matte kudasai', what may the waitress/waiter do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Wait at your table, or leave and return when you call her/him", "is_correct": true},
+        {"answer": "Bring the food immediately", "is_correct": false},
+        {"answer": "Bring the bill", "is_correct": false},
+        {"answer": "Refuse to serve you", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which expression do you use to get the waiter's attention AND signal you want to order?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sumimasen. Onegai shimasu.", "is_correct": true},
+        {"answer": "Chotto matte kudasai.", "is_correct": false},
+        {"answer": "Kashikomarimashita.", "is_correct": false},
+        {"answer": "Shooshoo omachi kudasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the focus of this section?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "How to indicate that you are ready to place an order", "is_correct": true},
+        {"answer": "How to ask for the bill", "is_correct": false},
+        {"answer": "How to count servings", "is_correct": false},
+        {"answer": "How to read a menu", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to indicate that you are ready to place an order\n\nYou can place an order with any waitress you see, not necessarily the one that waited on you first. When you want to call a waitress to place an order, you can say:\n\nSumimasen. Onegai shimasu.    I would like to place an order.\n\nSumimasen acts as an attention getter. The expression onegai shimasu, which you've already encountered a number of times, literally means something like 'I'm going to make a request' or 'I'm making a request.' When used in the above situation, it indicates that you're asking for service.\n\nIf you are not yet ready to order, you can say the following to the waitress or waiter:\n\nChotto matte kudasai.    Please wait a moment.\n\nThe waitress/waiter may wait at your table or may leave your table and return when you call her/him."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

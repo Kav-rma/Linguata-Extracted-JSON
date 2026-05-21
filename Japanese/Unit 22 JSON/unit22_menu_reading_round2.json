@@ -1,0 +1,91 @@
+{
+  "title": "unit22_menu_reading_round2",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Find 'milk' (ミルク / miruku) on the menu. How much does it cost?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "300 yen", "is_correct": true},
+        {"answer": "350 yen", "is_correct": false},
+        {"answer": "480 yen", "is_correct": false},
+        {"answer": "400 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Find 'tomato juice' (トマト・ジュース / tomato juusu) on the menu. How much does it cost?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "400 yen", "is_correct": true},
+        {"answer": "450 yen", "is_correct": false},
+        {"answer": "500 yen", "is_correct": false},
+        {"answer": "380 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Find 'Coca-Cola' (コカコーラ / kokakoora) on the menu. How much does it cost?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "380 yen", "is_correct": true},
+        {"answer": "300 yen", "is_correct": false},
+        {"answer": "480 yen", "is_correct": false},
+        {"answer": "350 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Find 'ham sandwich' (ハム・トースト / hamu toosuto) on the menu. How much does it cost?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "420 yen", "is_correct": true},
+        {"answer": "400 yen", "is_correct": false},
+        {"answer": "300 yen", "is_correct": false},
+        {"answer": "500 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Find 'chocolate cake' (チョコレート・ケーキ / chokoreeto keeki) on the menu. How much does it cost?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "600 yen", "is_correct": true},
+        {"answer": "500 yen", "is_correct": false},
+        {"answer": "550 yen", "is_correct": false},
+        {"answer": "480 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Find 'coffee' (コーヒー / koohii) on the menu. How much does it cost?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "480 yen", "is_correct": true},
+        {"answer": "450 yen", "is_correct": false},
+        {"answer": "430 yen", "is_correct": false},
+        {"answer": "500 yen", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Round 2 — Directions: Find the following items on the menu (refer to the menu image): milk, tomato juice, Coca-Cola, ham sandwich, chocolate cake, coffee."
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": ["unit22_menu_reading_1.png"]
+  }
+}

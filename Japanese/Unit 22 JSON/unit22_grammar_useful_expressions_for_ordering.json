@@ -1,0 +1,139 @@
+{
+  "title": "unit22_grammar_useful_expressions_for_ordering",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When the waiter comes to take your order, which expression means 'What would you like to order?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Nan ni nasaimasu ka? / Nan ni itashimashoo ka?", "is_correct": true},
+        {"answer": "Chotto matte kudasai.", "is_correct": false},
+        {"answer": "Kashikomarimashita.", "is_correct": false},
+        {"answer": "Shooshoo omachi kudasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Okimari ni narimashita ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Have you decided yet? / Are you ready to order?", "is_correct": true},
+        {"answer": "What is your name?", "is_correct": false},
+        {"answer": "How many people?", "is_correct": false},
+        {"answer": "Where would you like to sit?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Gochuumon wa?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "What is your order? / Are you going to place an order?", "is_correct": true},
+        {"answer": "How was your meal?", "is_correct": false},
+        {"answer": "Would you like the bill?", "is_correct": false},
+        {"answer": "Do you have a reservation?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the simplest way of placing your order?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Point to the item on the menu and say 'Kore onegai shimasu.' or 'Kore kudasai.'", "is_correct": true},
+        {"answer": "Write the order on a slip", "is_correct": false},
+        {"answer": "Call the manager over", "is_correct": false},
+        {"answer": "Say nothing and wait", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What pattern do you use when ordering a certain number of servings of food or drinks?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(food/drink) number + counter + onegai shimasu", "is_correct": true},
+        {"answer": "(food/drink) + onegai shimasu + counter", "is_correct": false},
+        {"answer": "counter + (food/drink) + kudasai", "is_correct": false},
+        {"answer": "number + onegai shimasu + (food/drink)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which counter is used for cylindrical objects like bottles?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "...hon (e.g., biiru ip-pon = one bottle of beer)", "is_correct": true},
+        {"answer": "...ninmae", "is_correct": false},
+        {"answer": "...mai", "is_correct": false},
+        {"answer": "...nin", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which counter is used in counting servings of a dish?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "...ninmae (e.g., tenpura ichi-ninmae = one portion of tempura)", "is_correct": true},
+        {"answer": "...hon", "is_correct": false},
+        {"answer": "...mai", "is_correct": false},
+        {"answer": "...ri", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which counter is used for (train) tickets?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "...mai (e.g., Yokohama, ichi-mai = one ticket to Yokohama)", "is_correct": true},
+        {"answer": "...hon", "is_correct": false},
+        {"answer": "...ninmae", "is_correct": false},
+        {"answer": "...ko", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If you are not sure of the appropriate counter, which counter can you use with native Japanese numerals?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "...tsu (e.g., Biiru hitotsu onegai shimasu = One beer, please)", "is_correct": true},
+        {"answer": "...hon", "is_correct": false},
+        {"answer": "...mai", "is_correct": false},
+        {"answer": "...nin", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What pattern do you use to place an additional order, e.g., 'two more bottles of sake, please'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Food/drink) moo + number + ...tsu (or counter) onegai shimasu — e.g., Osake moo ni-hon onegai shimasu.", "is_correct": true},
+        {"answer": "(Food/drink) + mata + onegai shimasu", "is_correct": false},
+        {"answer": "Moo + (food/drink) + kudasaimasen ka", "is_correct": false},
+        {"answer": "(Food/drink) + ikaga desu ka", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Useful expressions to know in placing an order\n\nWhen the waitress or waiter comes to your table to take your order, s/he will probably say:\n\nNan ni nasaimasu ka? / Nan ni itashimashoo ka?    What would you like to order?\nOkimari ni narimashita ka?                        Have you decided yet? / Are you ready to order?\nGochuumon wa?                                     What is your order? / Are you going to place an order?\n\nThe simplest way of placing your order is to point to the item on the menu and say:\n\nKore onegai shimasu.    This, please. (cf. Lesson 15)\nKore kudasai.           Please give me this. (cf. Lesson 18)\n\nWhen you order a certain number of servings of food or drinks, you can use the following pattern, which is similar to the one you studied in Lesson 18:\n\n(food/drink) number + counter + onegai shimasu.\n(cf. [merchandise] number + counter + kudasai in Lesson 18)\n\nExamples:\nTenpura san-ninmae onegai shimasu.    Three servings of tempura, please.\nHankachi ni-mai onegai shimasu.       Two handkerchiefs, please.\n\nAs we discussed earlier, the Japanese use different counters for different types of objects. For example, when they refer to (train) tickets, they use the counter ...mai:\nYokohama, ichi-mai.    One ticket to Yokohama.\nKyoto, ni-mai.          Two tickets to Kyoto.\n\nWhen the Japanese refer to people, they use the counter ...ri for the numbers one and two and ...nin for the numbers larger than two:\nhitori (one person), futari (two persons), san-nin (three persons), yo-nin (four persons), go-nin (five persons), roku-nin (six persons), juu-nin (ten persons).\n\nThe following are some counters that are frequently used in restaurants:\n...hon: used for cylindrical objects like bottles —\n   biiru ip-pon (one bottle of beer), (o)sake ni-hon (two bottles of sake), san-bon (three bottles), rop-pon (six bottles).\n...ninmae: used in counting servings of a dish —\n   tenpura ichi-ninmae (one portion of tempura), sashimi ni-ninmae (two servings of sashimi), san-ninmae (three servings), yo-ninmae (four servings).\n\nYou also learned that the counter ...tsu can be used with the native Japanese numerals (numbers one to ten) when referring to the number of corners, intersections, etc. This counter is also used in a shopping situation like the following:\nKore o mittsu kudasai.    Please give me three of these. (cf. Lesson 18)\n\nIn Lesson 18, we mentioned that when you are not sure of the appropriate counter, you can use ...tsu. The amount expressed in this way is usually comprehensible to the Japanese, although it may sound a little odd. This is also true when placing an order at a restaurant. Although there are specific counters used for bottles, servings, etc., as we discussed above, if you can use the counter ...tsu correctly, you should be able to place an order at a restaurant. Here are some examples:\nBiiru hitotsu onegai shimasu.       One (bottle of) beer, please.\nSashimi futatsu onegai shimasu.     Two (servings of) sashimi, please.\n\nWhen you want to place an additional order, you can use the following pattern:\n(Food/drink) moo + number + ...tsu onegai shimasu.\n\nThus, when you want to order two more bottles of sake, you can say:\n(O)sake moo ni-hon (OR moo futatsu) onegai shimasu.    Two more bottles of sake, please."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

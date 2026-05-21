@@ -1,0 +1,98 @@
+{
+  "title": "unit23_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "ビーフ (biifu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "beef", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "からい (karai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "hot and spicy", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "からくありません (karaku arimasen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "not hot (spicy)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "おかんじょう (okanjoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "bill, check", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "こちら (kochira)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "here (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "しおからい (shiokarai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "salty", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "おすみですか (osumi desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "are you finished? (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "どれ (dore)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "which one", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "おいしい (oishii)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "good (tasting), delicious", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "そうですねえ… (soo desu nee...)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "let me think for a minute", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "たいへん (taihen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "very", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "ごちそうさま (gochisoosama)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "thank you for the good food (polite)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

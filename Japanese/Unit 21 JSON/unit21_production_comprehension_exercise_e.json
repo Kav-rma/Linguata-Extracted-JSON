@@ -7,8 +7,14 @@
       "question": "You asked someone to buy a meal ticket for you. The instructor said: '食券ですか。いいですよ。 (Shokken desu ka. Ii desu yo.)' Which statement best describes the response?",
       "type": "multiple_choice",
       "answers": [
-        {"answer": "The person will buy a ticket for you.", "is_correct": true},
-        {"answer": "The person didn't understand what you want.", "is_correct": false}
+        {
+          "answer": "The person will buy a ticket for you.",
+          "is_correct": true
+        },
+        {
+          "answer": "The person didn't understand what you want.",
+          "is_correct": false
+        }
       ],
       "has_answer": true
     },
@@ -17,8 +23,14 @@
       "question": "You asked if you can share the table with him/her. The instructor said: 'あ、すみませんね。今、友達が来るんですよ。 (A, sumimasen ne. Ima, tomodachi ga kuru n desu yo.)' Which statement best describes the response?",
       "type": "multiple_choice",
       "answers": [
-        {"answer": "The person said O.K.", "is_correct": false},
-        {"answer": "You can't sit down there.", "is_correct": true}
+        {
+          "answer": "The person said O.K.",
+          "is_correct": false
+        },
+        {
+          "answer": "You can't sit down there.",
+          "is_correct": true
+        }
       ],
       "has_answer": true
     },
@@ -27,8 +39,14 @@
       "question": "You called a waitress and asked if they have an English menu. The instructor said: 'いらっしゃいませ。何に致しましょうか。英語のメニューですか。申し訳ございませんが、ございません。 (Irasshaimase. Nan ni itashimashoo ka. Eego no menyuu desu ka. Mooshiwake gozaimasen ga, gozaimasen.)' Which statement best describes the response?",
       "type": "multiple_choice",
       "answers": [
-        {"answer": "They don't have one.", "is_correct": true},
-        {"answer": "The waitress will bring one.", "is_correct": false}
+        {
+          "answer": "They don't have one.",
+          "is_correct": true
+        },
+        {
+          "answer": "The waitress will bring one.",
+          "is_correct": false
+        }
       ],
       "has_answer": true
     },
@@ -37,8 +55,14 @@
       "question": "You asked someone to come with you. The instructor said: 'は? 何ですか。 (Ha? Nan desu ka.)' Which statement best describes the response?",
       "type": "multiple_choice",
       "answers": [
-        {"answer": "The person will come with you.", "is_correct": false},
-        {"answer": "The person didn't understand what you want him/her to do.", "is_correct": true}
+        {
+          "answer": "The person will come with you.",
+          "is_correct": false
+        },
+        {
+          "answer": "The person didn't understand what you want him/her to do.",
+          "is_correct": true
+        }
       ],
       "has_answer": true
     },
@@ -47,8 +71,14 @@
       "question": "You are in front of plastic samples and ordered a dish by pointing. The instructor said: 'あ、あれですね。わかりました。 (A, are desu ne. Wakarimashita.)' Which statement best describes the response?",
       "type": "multiple_choice",
       "answers": [
-        {"answer": "The person understood what you want.", "is_correct": true},
-        {"answer": "The person didn't understand what you want.", "is_correct": false}
+        {
+          "answer": "The person understood what you want.",
+          "is_correct": true
+        },
+        {
+          "answer": "The person didn't understand what you want.",
+          "is_correct": false
+        }
       ],
       "has_answer": true
     },
@@ -57,8 +87,14 @@
       "question": "The waitress asked how many people there are in your group, and you answered that there are six. The instructor said: '六人様でございますね。こちらへどうぞ。 (Roku-nin-sama de gozaimasu ne. Kochira e doozo.)' Which statement best describes the response?",
       "type": "multiple_choice",
       "answers": [
-        {"answer": "The waitress will take you to a table.", "is_correct": true},
-        {"answer": "The waitress didn't get the number of people.", "is_correct": false}
+        {
+          "answer": "The waitress will take you to a table.",
+          "is_correct": true
+        },
+        {
+          "answer": "The waitress didn't get the number of people.",
+          "is_correct": false
+        }
       ],
       "has_answer": true
     }

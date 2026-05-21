@@ -1,0 +1,63 @@
+{
+  "title": "unit22_production_drill_f",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Make the request in Japanese (example: Ask him/her to wait a moment -> Chotto matte kudasai. / Chotto matte kudasaimasen ka?). Cue: Ask (him/her) to come with you.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Chotto issho ni kite kudasai. (OR Chotto issho ni kite kudasaimasen ka?)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Make the request in Japanese. Cue: Ask (him/her) to repeat.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Moo ichido itte kudasai. (OR Moo ichido itte kudasaimasen ka?)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Make the request in Japanese. Cue: Ask (him/her) to buy a meal ticket.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Shokken o katte kudasai. (OR Shokken o katte kudasaimasen ka?)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Make the request in Japanese. Cue: Ask (him/her) to buy a (train) ticket.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Kippu o katte kudasai. (OR Kippu o katte kudasaimasen ka?)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Make the request in Japanese. Cue: Ask (him/her) to repeat slowly.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Yukkuri itte kudasai. (OR Yukkuri itte kudasaimasen ka?)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Make the request in Japanese. Cue: Ask (him/her) to write here.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Koko ni kaite kudasai. (OR Koko ni kaite kudasaimasen ka?)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Make the request in Japanese. Cue: Ask (him/her) to show it to you.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Misete kudasai. (OR Misete kudasaimasen ka?)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

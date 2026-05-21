@@ -1,0 +1,133 @@
+{
+  "title": "unit22_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "おきまりですか (okimari desu ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Have you decided? (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "いっぽん (ip-pon)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "one cylindrical object", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "ごちゅうもん (gochuumon)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "(your) order (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "まって (matte)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "wait (TE form of machimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "さんにんまえ (san-ninmae)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "three servings", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "にほん (ni-hon)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "two cylindrical objects", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "(お)のみもの ((o)nomimono)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "something to drink (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "コーラ (koora)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "cola", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "おちゃ (ocha)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "(green) tea", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "ステーキ (suteeki)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "steak", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "ミックスサラダ (mikkusu sarada)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "mixed salad", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "グリーンサラダ (guriin sarada)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "green salad", "is_correct": true}]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "ミディアム (midiamu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "medium (steak)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "レア (rea)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "rare (steak)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "ワイン (wain)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "wine", "is_correct": true}]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "あか (aka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "red", "is_correct": true}]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "しろ (shiro)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "white", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "unit23_production_comprehension_exercise_d",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You asked: 'Kono biifu wa karai desu ka?' (Is the beef spicy?) The instructor said: 'そうですねえ、あまり辛くないと思いますけど。 (Soo desu nee, amari karaku nai to omoimasu kedo.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The beef is spicy.",
+          "is_correct": false
+        },
+        {
+          "answer": "The beef isn't spicy.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You asked: 'Kono ebi wa amai desu ka?' (Are the shrimp sweet?) The instructor said: 'そうですねえ、少し甘いですけど…。 (Soo desu nee, sukoshi amai desu kedo...)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The shrimp are sweet.",
+          "is_correct": true
+        },
+        {
+          "answer": "The shrimp aren't sweet.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You asked: 'Kono yasai wa suppai desu ka?' (Is the vegetable sour?) The instructor said: 'いいえ、そんなに酸っぱいというほどじゃありませんよ。 (Iie, sonna ni suppai to iu hodo ja arimasen yo.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The vegetable is sour.",
+          "is_correct": false
+        },
+        {
+          "answer": "The vegetable isn't sour.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You asked: 'Kono pooku wa shiokarai desu ka?' (Is the pork salty?) The instructor said: 'そうですねえ、最近はあまり塩辛くしないようにしてますから…。 (Soo desu nee, saikin wa amari shiokaraku shinai yoo ni shitemasu kara...)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The pork is salty.",
+          "is_correct": false
+        },
+        {
+          "answer": "The pork isn't salty.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "You asked: 'Kono soosu wa suppai desu ka?' (Is the sauce sour?) The instructor said: 'そうですねえ、ちょっと甘酸っぱいですけど、そんなに酸っぱくはありません。 (Soo desu nee, chotto amazuppai desu kedo, sonna ni suppaku wa arimasen.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The sauce is sour.",
+          "is_correct": false
+        },
+        {
+          "answer": "The sauce isn't sour.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student selects an item from the list below and asks the instructor whether it is salty, hot, spicy, sour, or bitter. The instructor answers. The student then checks the correct statement on the answer sheet."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Kono biifu wa karai desu ka? Instructor: Iie, karaku arimasen. Student: (checks the correct statement)"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

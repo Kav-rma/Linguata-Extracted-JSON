@@ -1,0 +1,139 @@
+{
+  "title": "unit23_grammar_hai_as_no_and_iie_as_yes",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In English, how do you typically find out if a dish has a taste you don't like?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "By asking a direct question like 'Is this salty?'", "is_correct": true},
+        {"answer": "By never asking", "is_correct": false},
+        {"answer": "By tasting it first", "is_correct": false},
+        {"answer": "By asking the chef directly", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In Japanese, how do you usually ask about a taste you might not like?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "With a negative question, e.g., 'Kore wa karaku arimasen ka?'", "is_correct": true},
+        {"answer": "With a command", "is_correct": false},
+        {"answer": "By pointing only", "is_correct": false},
+        {"answer": "With an English question", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Kore wa karaku arimasen ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Isn't this salty/spicy? (Isn't this spicy?)", "is_correct": true},
+        {"answer": "Is this sweet?", "is_correct": false},
+        {"answer": "How much is this?", "is_correct": false},
+        {"answer": "Where is this?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why is the negative question considered better in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It is softer and politer to the Japanese ear than the direct English question", "is_correct": true},
+        {"answer": "It is the only grammatical form", "is_correct": false},
+        {"answer": "It is faster to say", "is_correct": false},
+        {"answer": "It avoids using verbs", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In Japanese, when a dish ISN'T salty, do you say Hai or Iie in response to 'Isn't this salty?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Hai (agreeing that it is the case that the dish isn't salty)", "is_correct": true},
+        {"answer": "Iie", "is_correct": false},
+        {"answer": "Either one", "is_correct": false},
+        {"answer": "Neither — you stay silent", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "In Japanese, when a dish IS salty, do you say Hai or Iie in response to 'Isn't this salty?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Iie (it isn't the case that the dish isn't salty — i.e., it is salty)", "is_correct": true},
+        {"answer": "Hai", "is_correct": false},
+        {"answer": "Either one", "is_correct": false},
+        {"answer": "Neither", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In Japanese, what does a 'Yes/No' answer respond to?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The whole content of the question, rather than a part of the content as in English", "is_correct": true},
+        {"answer": "Only the verb", "is_correct": false},
+        {"answer": "Only the subject", "is_correct": false},
+        {"answer": "Nothing in particular", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If a waitress answers 'Hai' to 'Kore wa karaku arimasen ka?', what does she mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "She thinks it's the case that the dish isn't spicy", "is_correct": true},
+        {"answer": "The dish is spicy", "is_correct": false},
+        {"answer": "She doesn't know", "is_correct": false},
+        {"answer": "The dish is sold out", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How can you avoid problems caused by this type of negative question?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Use a simple question like 'Kore wa shiokarai desu ka?'", "is_correct": true},
+        {"answer": "Never ask about taste", "is_correct": false},
+        {"answer": "Always answer in English", "is_correct": false},
+        {"answer": "Avoid the word desu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Why might a Japanese person whose English is imperfect answer an English negative question oddly?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "They may answer English negative questions the way they would in Japanese (e.g., 'No' meaning 'Yes, I do')", "is_correct": true},
+        {"answer": "They never understand English", "is_correct": false},
+        {"answer": "They always answer correctly", "is_correct": false},
+        {"answer": "They refuse to answer", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Hai as 'No' and Iie as 'Yes'\n\nIn English, when you want to find out if a dish has a taste you don't like, you will often say something like 'Is this salty?' In Japanese, however, you usually ask a negative question as in the following example:\n\nKore wa karaku arimasen ka?    Isn't this salty?\n\nThis is softer and politer to the Japanese ear than the more direct English question, though you will be understood if you ask 'Is it salty?'.\n\nThe English and Japanese answers to the above question are also quite different. In English, when the dish isn't salty you say 'No' while when it is you say 'Yes'. But in Japanese, when it isn't salty you say Hai and when it is you say Iie. In Japanese, you respond to the whole content of the question rather than to a part of the content as in English. To the Japanese, the question means: 'Is it the case that the dish isn't salty?' If it is so (that the dish isn't salty), you reply Hai 'yes', and if it's not the case (the dish is salty), you reply Iie 'no'. Thus, if you ask a waitress the above question and the waitress answers Hai, it means that she thinks it's the case that the dish isn't salty. Likewise, if she says Iie, she means that it isn't the case that the dish isn't salty (i.e., it's salty).\n\nOf course, you can avoid problems that may be caused by this type of question if you use a simple question like Kore wa shiokarai desu ka? However, without the knowledge of this difference, you may not always be able to react correctly to what is said to you by Japanese.\n\nAnother important thing to keep in mind is that Japanese whose English is imperfect may answer negative questions in English in the same way as they would in Japanese. For example, if you ask such a person 'Don't you want to come?' s/he may answer something like 'No, I want to come' or simply 'No' meaning 'Yes, I do.'"
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 17,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

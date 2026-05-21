@@ -1,0 +1,63 @@
+{
+  "title": "unit23_transformation_drill_b",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Given the cue 'sweet (amai)', write the Question and the negative Response (example: spicy -> Karai desu ka? / Iie, karaku arimasen.).",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Question: Amai desu ka? Response: Iie, amaku arimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Given the cue 'salty (shiokarai)', write the Question and the negative Response.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Question: Shiokarai desu ka? Response: Iie, shiokaraku arimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Given the cue 'sour (suppai)', write the Question and the negative Response.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Question: Suppai desu ka? Response: Iie, suppaku arimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Given the cue 'bitter (nigai)', write the Question and the negative Response.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Question: Nigai desu ka? Response: Iie, nigaku arimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Given the cue 'spicy (karai)', write the Question and the negative Response.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Question: Karai desu ka? Response: Iie, karaku arimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Given the cue 'cold (tsumetai)', write the Question and the negative Response.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Question: Tsumetai desu ka? Response: Iie, tsumetaku arimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Given the cue 'hot (atsui)', write the Question and the negative Response.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Question: Atsui desu ka? Response: Iie, atsuku arimasen.", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}
