@@ -1,0 +1,147 @@
+{
+  "title": "unit26_production_exercise_d",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You called for Oota-buchoo. The instructor said: '只今ちょっと席を外している様ですが…何かおことづけ致しましょうか。 (Tadaima chotto seki o hazushite iru yoo desu ga... nanika okotozuke itashimashoo ka?)' What is the situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He seems to be away from his desk; shall they take a message?",
+          "is_correct": true
+        },
+        {
+          "answer": "He is off today; call again tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer": "He is on a business trip",
+          "is_correct": false
+        },
+        {
+          "answer": "He is in a meeting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You called for Sasaki-san. The instructor said: '佐々木は京都へ出張でございます。来週帰る予定でございますが… (Sasaki wa Kyoto e shucchoo de gozaimasu. Raishuu kaeru yotee de gozaimasu ga...)' What is the situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sasaki is on a business trip to Kyoto and is scheduled to return next week",
+          "is_correct": true
+        },
+        {
+          "answer": "Sasaki is away from his desk",
+          "is_correct": false
+        },
+        {
+          "answer": "Sasaki is in a meeting",
+          "is_correct": false
+        },
+        {
+          "answer": "Sasaki is off today",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You called for Imai-kachoo. The instructor said: '今井は今外しております。何かおことづけがございますか。 (Imai wa ima hazushite orimasu. Nanika okotozuke ga gozaimasu ka?)' What is the situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Imai is out at the moment; is there a message?",
+          "is_correct": true
+        },
+        {
+          "answer": "Imai is on a business trip",
+          "is_correct": false
+        },
+        {
+          "answer": "Imai is off today",
+          "is_correct": false
+        },
+        {
+          "answer": "Imai is in a meeting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You called for Koyama-kachoo. The instructor said: 'あいにく小山は休みです。明日はまいりますが…おことづけがございますか。 (Ainiku Koyama wa yasumi desu. Ashita wa mairimasu ga... okotozuke ga gozaimasu ka?)' What is the situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Unfortunately Koyama is off today but will come tomorrow; is there a message?",
+          "is_correct": true
+        },
+        {
+          "answer": "Koyama is away from his desk",
+          "is_correct": false
+        },
+        {
+          "answer": "Koyama is on a business trip to Kyoto",
+          "is_correct": false
+        },
+        {
+          "answer": "Koyama is in a meeting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "You called for Kaneko-buchoo. The instructor said: '申し訳ありませんが只今会議中でございます。お急ぎの用でございますか。 (Mooshiwake arimasen ga tadaima kaigichuu de gozaimasu. Oisogi no yoo de gozaimasu ka?)' What is the situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is sorry, but Kaneko is in a meeting right now; is it urgent business?",
+          "is_correct": true
+        },
+        {
+          "answer": "Kaneko is off today",
+          "is_correct": false
+        },
+        {
+          "answer": "Kaneko is on a business trip",
+          "is_correct": false
+        },
+        {
+          "answer": "Kaneko is away from his desk",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Production Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student calls a person on the phone, referring to the list below. The instructor answers, reading the script below. If the student understands, s/he answers appropriately. If not, s/he says that s/he doesn't understand Japanese well and asks for someone who speaks English."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Satoo-san onegai shimasu. Instructor: Ainiku desu ga, tadaima chotto seki o hazushite orimasu. Student: Sumimasen. Nihongo ga yoku wakarimasen. Eego ga wakaru hito wa imasu ka?"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

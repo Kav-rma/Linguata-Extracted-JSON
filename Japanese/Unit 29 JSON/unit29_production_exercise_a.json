@@ -1,0 +1,86 @@
+{
+  "title": "unit29_production_exercise_a",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Buy a reserved-seat ticket using the pattern '(Date) (time) no (train name) no shitee-seki, (destination) made (# of tickets)-mai onegai shimasu.' (Example: Juu go-nichi 3-ji no hikari, Shin Osaka made ichi-mai onegai shimasu.) Date: 2nd, Time: 11:00 a.m., Train: Kodama, Destination: Shizuoka, Tickets: 2",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Futsuka gozen juuichi-ji no Kodama no shitee-seki, Shizuoka made ni-mai onegai shimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Buy a reserved-seat ticket using the pattern above. Date: 8th, Time: 4:40 p.m., Train: Hikari, Destination: Hakata, Tickets: 3",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yooka gogo yo-ji yon-juppun no Hikari no shitee-seki, Hakata made san-mai onegai shimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Buy a reserved-seat ticket using the pattern above. Date: 20th, Time: 7:28 a.m., Train: Hikari, Destination: Nagoya, Tickets: 1",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Hatsuka gozen shichi-ji ni-juu-hap-pun no Hikari no shitee-seki, Nagoya made ichi-mai onegai shimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Buy a reserved-seat ticket using the pattern above. Date: 4th, Time: 8:30 a.m., Train: Hikari, Destination: Kyoto, Tickets: 2",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yokka gozen hachi-ji san-juppun no Hikari no shitee-seki, Kyoto made ni-mai onegai shimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Buy a reserved-seat ticket using the pattern above. Date: 1st, Time: 9:16 a.m., Train: Kodama, Destination: Atami, Tickets: 3",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tsuitachi gozen ku-ji juu-rop-pun no Kodama no shitee-seki, Atami made san-mai onegai shimasu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Buy a reserved-seat ticket using the pattern above. Date: 14th, Time: 5:00 p.m., Train: Hikari, Destination: Shin Osaka, Tickets: 1",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Juuyokka gogo go-ji no Hikari no shitee-seki, Shin Osaka made ichi-mai onegai shimasu.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

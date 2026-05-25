@@ -1,0 +1,79 @@
+{
+  "title": "unit26_grammar_how_to_say_ill_call_again",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When the person you want is not in, what may you wish to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Leave a message", "is_correct": true},
+        {"answer": "Hang up without speaking", "is_correct": false},
+        {"answer": "Demand their home address", "is_correct": false},
+        {"answer": "Complain to the operator", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Why might you prefer to say 'I'll call again' instead of leaving a message?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The message may be too complex to express in Japanese, or to avoid difficulty understanding the person on the line", "is_correct": true},
+        {"answer": "Leaving a message is forbidden", "is_correct": false},
+        {"answer": "It costs extra to leave a message", "is_correct": false},
+        {"answer": "Messages are never delivered in Japan", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What expression do you use to say 'I'll call again'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mata odenwa shimasu.", "is_correct": true},
+        {"answer": "Mata irasshaimasu.", "is_correct": false},
+        {"answer": "Mata orimasen.", "is_correct": false},
+        {"answer": "Mata omachi kudasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Mata odenwa shimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "I'll call again.", "is_correct": true},
+        {"answer": "Please wait a moment.", "is_correct": false},
+        {"answer": "Who is calling?", "is_correct": false},
+        {"answer": "He isn't in now.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What benefit does saying 'I'll call again' give regarding the conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It lets you call at another time and avoid possible difficulty in comprehending what the person on the line says", "is_correct": true},
+        {"answer": "It guarantees the person will call you back", "is_correct": false},
+        {"answer": "It connects you to an English speaker automatically", "is_correct": false},
+        {"answer": "It records a message on tape", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. How to say 'I'll call again'\n\nWhen the person you want is not in, you may wish to leave a message. However, the contents of the message may be too complex to express in Japanese. In such a case, you may wish to say 'I'll call again' in Japanese, so that you can call at another time (or avoid possible difficulties in comprehending what the person on the line says). You can use the following expression for this purpose:\n\nMata odenwa shimasu.    I'll call again."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

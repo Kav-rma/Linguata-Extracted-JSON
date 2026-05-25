@@ -1,0 +1,163 @@
+{
+  "title": "unit25_grammar_how_to_call_a_person_at_his_her_office",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you call a person at his/her office, what will the operator probably say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The name of the company after a greeting expression (without moshi moshi)", "is_correct": true},
+        {"answer": "Only 'moshi moshi'", "is_correct": false},
+        {"answer": "Nothing at all", "is_correct": false},
+        {"answer": "The caller's name", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does the operator at Mitsubishi Trading Company answer in the morning?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ohayoo gozaimasu. Mitsubishi Shooji de gozaimasu.", "is_correct": true},
+        {"answer": "Moshi moshi, Mitsubishi desu ka?", "is_correct": false},
+        {"answer": "Mitsubishi Shooji onegai shimasu.", "is_correct": false},
+        {"answer": "Donata desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If you know the extension number, what do you say to the operator?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Naisen xxx onegai shimasu. (Extension xxx, please.)", "is_correct": true},
+        {"answer": "Naisen xxx kudasai.", "is_correct": false},
+        {"answer": "Naisen xxx desu ka?", "is_correct": false},
+        {"answer": "Naisen xxx de gozaimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How is an extension number such as 123 read in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Naisen ichi ni san (read out digit by digit, as in English)", "is_correct": true},
+        {"answer": "Naisen hyaku ni-juu san", "is_correct": false},
+        {"answer": "Naisen ichi-ban", "is_correct": false},
+        {"answer": "Naisen san", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why must you use 'onegai shimasu' (not 'kudasai') when asking for an extension, person, section, or department on the phone?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Because 'kudasai' (without a verb in front) is normally used only when you ask someone to give you a concrete object", "is_correct": true},
+        {"answer": "Because 'kudasai' is impolite in all situations", "is_correct": false},
+        {"answer": "Because 'kudasai' cannot be used on the phone at all", "is_correct": false},
+        {"answer": "Because 'onegai shimasu' means 'goodbye'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "If you don't have the extension number, how can you give the name of the section or department to the operator?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "...ka/bu onegai shimasu (e.g., Jinji-ka onegai shimasu = Personnel Office, please)", "is_correct": true},
+        {"answer": "...ka/bu kudasai", "is_correct": false},
+        {"answer": "...ka/bu de gozaimasu", "is_correct": false},
+        {"answer": "...ka/bu donata desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How will the operator probably reply when connecting you?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Shooshoo omachi kudasai. and/or Otsunagi shimasu/itashimasu.", "is_correct": true},
+        {"answer": "Chigaimasu yo.", "is_correct": false},
+        {"answer": "Doo itashimashite.", "is_correct": false},
+        {"answer": "Gochisoosama.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How does the person who answers in the section/department typically respond?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "By giving the name of the department first, e.g., Jinji-ka desu/de gozaimasu.", "is_correct": true},
+        {"answer": "By giving their personal name only", "is_correct": false},
+        {"answer": "By saying 'moshi moshi' and nothing else", "is_correct": false},
+        {"answer": "By asking for the extension number", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When a Japanese person calls someone at their office, how do they usually refer to that person?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "By using the person's title after their name, e.g., Tanaka-kachoo onegai shimasu (Section Chief Tanaka, please)", "is_correct": true},
+        {"answer": "By using only the first name", "is_correct": false},
+        {"answer": "By using 'goshujin' for everyone", "is_correct": false},
+        {"answer": "By using the extension number only", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is an advantage of using a person's title (e.g., when several people share a common name like Tanaka)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The person who answers can more easily identify who you want, and you have a good chance of getting through even without knowing the person's name", "is_correct": true},
+        {"answer": "It makes the call shorter by skipping the greeting", "is_correct": false},
+        {"answer": "It avoids the need to say 'onegai shimasu'", "is_correct": false},
+        {"answer": "It is required by phone-company rules", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "What is the effect of adding the address term '...san' after a title (e.g., Kachoo-san onegai shimasu)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It makes the sentence softer and more polite; omitting it implies your position is higher than the person you are calling", "is_correct": true},
+        {"answer": "It makes the sentence ruder", "is_correct": false},
+        {"answer": "It changes the meaning to a question", "is_correct": false},
+        {"answer": "It has no effect at all", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "What is the best practice whenever you can, to avoid problems caused by misuse of a title?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Know the person's name before calling and use the neutral expression (name)-san", "is_correct": true},
+        {"answer": "Always use the title without the name", "is_correct": false},
+        {"answer": "Never use 'san'", "is_correct": false},
+        {"answer": "Always call without identifying yourself", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to call a person at his/her office\n\nWhen you call a person at his/her office, the operator will probably say the name of the company after using a greeting expression (without moshi moshi). For example, if you are calling Mitsubishi Shooji 'Mitsubishi Trading Company' in the morning, the operator will probably say:\n\nOhayoo gozaimasu. Mitsubishi Shooji de gozaimasu.    Good Morning. This is Mitsubishi Trading Company.\n\nIf you know the extension number, you can say the following to the operator:\n\nNaisen xxx onegai shimasu.    Extension xxx, please.\n\nAs you learned in Lesson 10, phone numbers in Japanese are simply read out as in English. Thus, extension number 123 is read Naisen ichi ni san. It should be noted that you can't use kudasai for onegai shimasu in the above sentence. You learned that kudasai and onegai shimasu can be used interchangeably in buying merchandise or placing an order at a restaurant. However, the word kudasai (without a verb in front of it) is normally used when you ask someone to give you some concrete objects. Thus, when you ask for an extension number, person, section, or department on the phone, only onegai shimasu is possible.\n\nIf you don't have the extension number, you can give the name of the section or department to the operator:\n\n...ka/bu onegai shimasu.    section/department, please.\n\nFor example, if you are calling the jinji-ka 'personnel section,' you can say:\n\nJinji-ka onegai shimasu.    Personnel Office, please.\n\nThe operator will probably reply by saying one or both of the following:\n\nShooshoo omachi kudasai.            Please wait a moment.\nOtsunagi shimasu/itashimasu.        I'll connect you.\n\nThe person who answers in the section/department will give the name of the department first, as illustrated below:\n\nJinji-ka desu/de gozaimasu.    This is the Personnel office.\n\nWhen you ask for the person you want, you can say:\n\n...san onegai shimasu.    Mr...., please.\n\nWhen a Japanese person calls someone at their office, s/he usually uses the title of the person after their name. Thus, if you are calling Mr. Tanaka, who is a section chief, you will say:\n\nTanaka-kachoo onegai shimasu.    Section Chief Tanaka, please.\n\nOccasionally, the office you are calling has more than one person with the same name. This is especially true when you are calling someone whose name is Tanaka, Yamada, or some other very common name. In this case, if you give the title of the person, the person who answers the phone will be able to more easily identify who you want. Another advantage to using a title is that even if you don't know the name of the person, you still have a good chance of getting through without extended explanations.\n\nKachoo-san onegai shimasu.    The section chief, please.\n\nIn the above example, the address term ...san is used after the title. The use of the address term makes the sentence softer and more polite. If you don't use this word, the implication is that your position is higher than that of the person you are calling.\n\nIt is best, whenever you can, to make sure that you know the name of the person before calling and to use the neutral expression (name)-san. This will avoid problems that may be caused by misuse of the title. However, it is worth knowing that the title is used in the above manner by the Japanese, especially when you are answering a call in your office."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

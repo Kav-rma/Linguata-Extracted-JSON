@@ -1,0 +1,187 @@
+{
+  "title": "unit24_grammar_how_to_get_the_person_you_want_to_talk_to",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is 'moshi moshi' used like in a Japanese telephone conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Like 'hello' — to begin a conversation or when you have a bad connection", "is_correct": true},
+        {"answer": "Like 'goodbye'", "is_correct": false},
+        {"answer": "Like 'thank you'", "is_correct": false},
+        {"answer": "Like 'please wait'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In some homes, the person may say the name first without 'moshi moshi'. What do they say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(name) de gozaimasu. (This is (name)'s residence.)", "is_correct": true},
+        {"answer": "(name) o kudasai.", "is_correct": false},
+        {"answer": "(name) wa doko desu ka?", "is_correct": false},
+        {"answer": "(name) ni narimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you make sure you are calling the right place?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(name)-san no otaku desu ka? (Is this (name)'s residence?)", "is_correct": true},
+        {"answer": "(name)-san irasshaimasu ka?", "is_correct": false},
+        {"answer": "Donata desu ka?", "is_correct": false},
+        {"answer": "Moshi moshi.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If it's the right place, how will the person who answers probably respond?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Hai, soo desu. / Hai, sayoo de gozaimasu. (Yes, it is.)", "is_correct": true},
+        {"answer": "Iie, chigaimasu.", "is_correct": false},
+        {"answer": "Doomo sumimasen.", "is_correct": false},
+        {"answer": "Shooshoo omachi kudasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is 'Sayoo de gozaimasu' in relation to 'Soo desu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "A more polite equivalent of 'Soo desu'", "is_correct": true},
+        {"answer": "A more casual equivalent", "is_correct": false},
+        {"answer": "An apology", "is_correct": false},
+        {"answer": "A way to say 'no'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why do people tend to use especially polite and humble expressions in telephone conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "In a conversation that is not face-to-face, there is no way to show politeness except through very polite language", "is_correct": true},
+        {"answer": "Because telephones are expensive", "is_correct": false},
+        {"answer": "Because it is required by law", "is_correct": false},
+        {"answer": "Because bowing works over the phone", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "If you reach a wrong number, what will the person who answers probably say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Iie), chigaimasu (yo). (No, it isn't.)", "is_correct": true},
+        {"answer": "Hai, soo desu.", "is_correct": false},
+        {"answer": "Watakushi desu ga.", "is_correct": false},
+        {"answer": "Shooshoo omachi kudasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you apologize for a wrong number, and how does the person reply?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Doomo sumimasen. -> Iie (doo itashimashite). (I'm sorry. -> No, not at all.)", "is_correct": true},
+        {"answer": "Shitsuree desu ga. -> Hai, soo desu.", "is_correct": false},
+        {"answer": "Moshi moshi. -> Sayoo de gozaimasu.", "is_correct": false},
+        {"answer": "Gochisoosama. -> Mata doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "After confirming the right place, how do you ask for the person you want to talk to?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(name)-san irasshaimasu ka? (Is (name) in/at home?)", "is_correct": true},
+        {"answer": "(name)-san no otaku desu ka?", "is_correct": false},
+        {"answer": "(name) de gozaimasu.", "is_correct": false},
+        {"answer": "Donata desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How can you refer to Mr. Tanaka (someone else's husband) and to Mrs. Tanaka when asking for them?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Use 'goshujin' for the husband and 'okusan' for the wife, no matter who answers", "is_correct": true},
+        {"answer": "Use only their first names", "is_correct": false},
+        {"answer": "Use 'donata' for both", "is_correct": false},
+        {"answer": "Use 'watakushi' for both", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "If the person who answers is the one you want, what will s/he probably say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Wata(ku)shi desu (ga). (Speaking.)", "is_correct": true},
+        {"answer": "Iie, chigaimasu.", "is_correct": false},
+        {"answer": "Donata desu ka?", "is_correct": false},
+        {"answer": "Doomo sumimasen.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "When the person leaves the phone to get the one you want, what will s/he probably say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Chotto matte kudasai. / Shooshoo omachi kudasai. (Please wait a moment.)", "is_correct": true},
+        {"answer": "Moshi moshi.", "is_correct": false},
+        {"answer": "Doo itashimashite.", "is_correct": false},
+        {"answer": "Sayoo de gozaimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "When you ask for the person you want, why is it appropriate to identify yourself by name and company affiliation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "This way you also avoid being asked who you are", "is_correct": true},
+        {"answer": "It is required to make a call", "is_correct": false},
+        {"answer": "It lowers the phone bill", "is_correct": false},
+        {"answer": "It is considered rude not to shout", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "Which expression means 'I'm (your name) from the American Embassy. May I talk to your husband?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Amerika Taishikan no (your name) desu ga, goshujin irasshaimasu ka?", "is_correct": true},
+        {"answer": "Amerika Taishikan wa doko desu ka?", "is_correct": false},
+        {"answer": "Goshujin wa Amerika Taishikan desu ka?", "is_correct": false},
+        {"answer": "Watakushi wa goshujin desu ga.", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to get the person you want to talk to\n\nIn this lesson, you will learn expressions to use when you place or answer a telephone call at home.\n\nMoshi moshi is used exactly like 'hello' in an English telephone conversation—you can use it when you begin a conversation or you can use it when you have a bad connection. Thus, in most cases the person who answers will first say moshi moshi. However, in some homes, the person may say the name first without moshi moshi. In that case, the person will say:\n\n(name) de gozaimasu.    This is (name)'s residence.\n\nAfter getting an answer, you usually make sure that you are calling the right place (except when the person says his/her name first). You can do this by asking:\n\n(name)-san no otaku desu ka?    Is this (name)'s residence?\n\nIf it's the right place, the person who answers will probably say the following:\n\nHai, soo desu.\nor\nHai, sayoo de gozaimasu.    Yes, it is.\n\nSayoo de gozaimasu is a more polite equivalent of Soo desu. Ordinarily, people tend to use especially polite and humble expressions in telephone conversation. One reason for this is that in a conversation that is not face-to-face, there is no way to show politeness except through very polite language. Bowing, for example, will not do any good.\n\nIf you reach a wrong number, the person who answers will probably say:\n\n(Iie), chigaimasu (yo).    No, it isn't.\n\nThen apologize for the wrong number. You can use the following familiar expression:\n\nDoomo sumimasen.    I'm sorry.\n\nThen the person will probably reply by saying the following:\n\nIie (doo itashimashite).    No, (not at all).\n\nAfter confirming that the place you are calling is the right one, you ask for the person you want to talk to. For this purpose, you can use the following expression:\n\n(name)-san irasshaimasu ka?    Is (name) in/at home?\n\nIf you want to talk to Mr. Tanaka, for example, you can say either:\n\nTanaka-san irasshaimasu ka?\nOR\nGoshujin irasshaimasu ka?\n\nAs you learned in Lesson 5, goshujin refers to someone else's husband. However, the word literally means 'master/head (of the house)'. Thus, even if the person who answers is not the wife, you can still use the word goshujin in the above situation. The same thing applies when you are calling Mrs. Tanaka. You can use the word okusan no matter who answers the telephone.\n\nIf the person who answers the telephone is the one you want, s/he will probably say:\n\nWata(ku)shi desu (ga).    Speaking. (literally, 'It's me, but... [what do you want?]')\n\nWhen the person who answers leaves the phone to get the person you want, s/he will probably say the following:\n\nChotto matte kudasai.\nOR\nShooshoo omachi kudasai.    Please wait a moment.\n\nShooshoo is politer than chotto (both mean 'a little bit'), and omachi kudasai is politer than matte kudasai.\n\nWhen you ask for the person you want, it is appropriate to identify yourself both by name and company affiliation. (This way you also avoid being asked who you are.) You can use the following expression for this purpose:\n\n(work place) no (name) desu.    I'm (name) of (work place).\n\nThus, if you want to talk to Mr. Tanaka, you will say something like the following:\n\nAmerika Taishikan no (your name) desu ga, goshujin irasshaimasu ka?    I'm (your name) from the American Embassy. May I talk to Mr. Tanaka/your husband, etc.?"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

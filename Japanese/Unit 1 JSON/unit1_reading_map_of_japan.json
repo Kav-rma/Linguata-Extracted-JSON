@@ -1,0 +1,165 @@
+{
+  "title": "unit1_reading_map_of_japan",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which city on the island of Hokkaido has both an American consulate and an American Center (USIA)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sapporo",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Fukuoka",
+          "is_correct": false
+        },
+        {
+          "answer": "Naha",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "On which island is Tokyo located?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Honshu",
+          "is_correct": true
+        },
+        {
+          "answer": "Hokkaido",
+          "is_correct": false
+        },
+        {
+          "answer": "Kyushu",
+          "is_correct": false
+        },
+        {
+          "answer": "Shikoku",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which city has an American consulate but is listed with Nagoya as its corresponding American Center?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kobe",
+          "is_correct": true
+        },
+        {
+          "answer": "Sapporo",
+          "is_correct": false
+        },
+        {
+          "answer": "Fukuoka",
+          "is_correct": false
+        },
+        {
+          "answer": "Tokyo",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In which city on Kyushu are both a consulate and an American Center located?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Fukuoka",
+          "is_correct": true
+        },
+        {
+          "answer": "Naha",
+          "is_correct": false
+        },
+        {
+          "answer": "Osaka",
+          "is_correct": false
+        },
+        {
+          "answer": "Kyoto",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The consulate at Naha is located on which island?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Okinawa",
+          "is_correct": true
+        },
+        {
+          "answer": "Shikoku",
+          "is_correct": false
+        },
+        {
+          "answer": "Honshu",
+          "is_correct": false
+        },
+        {
+          "answer": "Hokkaido",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which city has an American Center (USIA) but is not listed with a consulate of its own in the table?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kyoto",
+          "is_correct": true
+        },
+        {
+          "answer": "Tokyo",
+          "is_correct": false
+        },
+        {
+          "answer": "Sapporo",
+          "is_correct": false
+        },
+        {
+          "answer": "Osaka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The map of Japan (Nihon) shows its main islands and the cities where American consulates and American Centers (USIA) are located. Island / Consulate / American Center (USIA): Hokkaido / Sapporo / Sapporo; Honshu / Tokyo / Tokyo; Honshu / Osaka / Osaka; Honshu / Kobe / Nagoya; Honshu / (—) / Kyoto; Shikoku / (—) / (—); Kyushu / Fukuoka / Fukuoka; Okinawa / Naha / (—)."
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": [
+      "unit1_map_of_japan_1.png"
+    ]
+  }
+}

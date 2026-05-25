@@ -1,0 +1,119 @@
+{
+  "title": "unit27_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "ちょっと (chotto)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Excuse me (may I have your attention?)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "じこ (jiko)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "accident", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "けいさつ (keesatsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "police", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "けがにん (keganin)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "injured person", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "まっていてください (matte ite kudasai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "please (remain) waiting", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "いきましょう (ikimashoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "let's go", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "きゅうきゅうしゃ (kyuukyuusha)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "ambulance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "おいしゃさん (oisha-san)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "doctor", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "どうしましたか (doo shimashita ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "what's the matter?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "いたい (itai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "painful, hurts", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "ねつ (netsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "fever", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "だいじょうぶ (daijoobu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "all right, no problem", "is_correct": true}]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "でしょう (deshoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "probably be", "is_correct": true}]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "のんで (nonde)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "drink (TE form of nomimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "やすんでいて (yasunde ite)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "(remain) resting (TE form of yasumimasu)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

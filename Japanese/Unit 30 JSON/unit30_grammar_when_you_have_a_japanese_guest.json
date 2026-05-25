@@ -1,0 +1,91 @@
+{
+  "title": "unit30_grammar_when_you_have_a_japanese_guest",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you greet the Japanese guest, what do you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Irasshai.", "is_correct": true},
+        {"answer": "Sayoonara.", "is_correct": false},
+        {"answer": "Itadakimasu.", "is_correct": false},
+        {"answer": "Osaki ni doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When your Japanese guest brings a little gift, how do you receive it?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Receive it graciously and say Doomo arigatoo gozaimasu", "is_correct": true},
+        {"answer": "Refuse it politely", "is_correct": false},
+        {"answer": "Open it immediately and comment", "is_correct": false},
+        {"answer": "Give a gift back at once", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What should you NOT do with the gift upon receiving it (unlike in the U.S.)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Open it on receipt", "is_correct": true},
+        {"answer": "Thank the guest", "is_correct": false},
+        {"answer": "Set it aside", "is_correct": false},
+        {"answer": "Accept it with both hands", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When you lead the person to your living room, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kochira e doozo.", "is_correct": true},
+        {"answer": "Mata kite kudasai.", "is_correct": false},
+        {"answer": "Sorosoro shitsuree shimasu.", "is_correct": false},
+        {"answer": "Kore o doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When the person says s/he would like to leave, how do you ask him/her to stay longer?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mada ii deshoo?", "is_correct": true},
+        {"answer": "Mata kite kudasai.", "is_correct": false},
+        {"answer": "Irasshai.", "is_correct": false},
+        {"answer": "Osaki ni doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When the person leaves the house, how do you ask him/her to visit you again?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mata kite kudasai.", "is_correct": true},
+        {"answer": "Mada ii deshoo?", "is_correct": false},
+        {"answer": "Kochira e doozo.", "is_correct": false},
+        {"answer": "Itadakimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. When you have a Japanese guest\n\nMost of the things that have been discussed above hold when you have a Japanese guest.\n\nWhen you greet the Japanese, say Irasshai. Your Japanese guest may bring a little gift. Receive it graciously and say Doomo arigatoo gozaimasu. It should be noted, however, that you are not supposed to open the gift on receipt as you would do in the U.S. (Ask your instructor about this Japanese custom.) When you lead the person to your living room, you can say Kochira e doozo. When the person says that s/he would like to leave, ask him/her to stay longer by saying Mada ii deshoo? When the person leaves the house, ask him/her to visit you again by saying Mata kite kudasai."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

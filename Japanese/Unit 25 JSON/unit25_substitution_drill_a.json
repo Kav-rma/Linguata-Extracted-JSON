@@ -1,0 +1,42 @@
+{
+  "title": "unit25_substitution_drill_a",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Combine the cue into the pattern '(name)-(title) onegai shimasu.' (example: Department head Yamada -> Yamada-buchoo onegai shimasu.). Cue: Division head Tanaka",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Tanaka-kachoo onegai shimasu.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Combine the cue into the pattern '(name)-(title) onegai shimasu.' Cue: President Ueda",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Ueda-shachoo onegai shimasu.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Combine the cue into the pattern '(name)-(title) onegai shimasu.' Cue: Section head Yoshida",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Yoshida-kakarichoo onegai shimasu.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Combine the cue into the pattern '(name)-(title) onegai shimasu.' Cue: Department head Inoue",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Inoue-buchoo onegai shimasu.", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

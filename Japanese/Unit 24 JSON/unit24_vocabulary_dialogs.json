@@ -1,0 +1,63 @@
+{
+  "title": "unit24_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "もしもし (moshi moshi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "hello (on the phone)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "おたく (otaku)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "house (another's), residence", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "いらっしゃいます (irasshaimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "is/are (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "しつれい (shitsuree)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "rudeness", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "どなた (donata)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "who? (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "NHK",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Japan Broadcasting Corporation", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "どうもすみません (doomo sumimasen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "I'm sorry, pardon me", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 3,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

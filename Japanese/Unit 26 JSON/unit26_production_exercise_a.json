@@ -1,0 +1,151 @@
+{
+  "title": "unit26_production_exercise_a",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Student A says: 'Moshi moshi. Goshujin/okusan onegai shimasu.' What is Student A asking for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To speak to B's husband or wife",
+          "is_correct": true
+        },
+        {
+          "answer": "For B's phone number",
+          "is_correct": false
+        },
+        {
+          "answer": "To leave a message",
+          "is_correct": false
+        },
+        {
+          "answer": "For directions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Student B replies: 'Ima orimasen ga...' What does this mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(He/She) is not in now",
+          "is_correct": true
+        },
+        {
+          "answer": "Please wait a moment",
+          "is_correct": false
+        },
+        {
+          "answer": "Who is calling?",
+          "is_correct": false
+        },
+        {
+          "answer": "(He/She) is in now",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In Example 1, after hearing that the person is not in, Student A says: 'Jaa, kekkoo desu. Mata odenwa shimasu.' What does Student A do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Says it's all right and will call again",
+          "is_correct": true
+        },
+        {
+          "answer": "Leaves a detailed message",
+          "is_correct": false
+        },
+        {
+          "answer": "Asks for another person",
+          "is_correct": false
+        },
+        {
+          "answer": "Hangs up angrily",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In Example 2, Student B replies: 'Shooshoo omachi kudasai. Shitsuree desu ga, donata desu ka?' What is Student B doing?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Asking the caller to wait and to identify who is calling",
+          "is_correct": true
+        },
+        {
+          "answer": "Saying the person is not in",
+          "is_correct": false
+        },
+        {
+          "answer": "Ending the call",
+          "is_correct": false
+        },
+        {
+          "answer": "Offering to take a message",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In Example 2, how does Student A identify himself/herself? 'Amerika Taishikan no (A's name) desu.' What does Student A give?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A work place (the American Embassy) and a name",
+          "is_correct": true
+        },
+        {
+          "answer": "Only a phone number",
+          "is_correct": false
+        },
+        {
+          "answer": "Only a first name",
+          "is_correct": false
+        },
+        {
+          "answer": "An extension number",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "A. Production Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Student A makes a phone call to student B and asks for B's husband or wife. Student B says either that s/he is not in now or asks the caller to wait for a moment and identify him/herself. Student A responds in the first case by saying s/he will call again and in the second by identifying himself/herself, giving a work place and name."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example 1: Student A: Moshi moshi. Goshujin/okusan onegai shimasu. Student B: Ima orimasen ga... Student A: Jaa, kekkoo desu. Mata odenwa shimasu."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Example 2: Student A: Moshi moshi. Goshujin/okusan onegai shimasu. Student B: Shooshoo omachi kudasai. Shitsuree desu ga, donata desu ka? Student A: Amerika Taishikan no (A's name) desu."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

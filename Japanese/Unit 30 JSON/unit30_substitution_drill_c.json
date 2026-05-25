@@ -1,0 +1,42 @@
+{
+  "title": "unit30_substitution_drill_c",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Substitute the cue into the pattern 'Osoku natte ___.' (___ for being late.) Base sentence: Osoku natte mooshiwake arimasen. Cue: sumimasen",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Osoku natte sumimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Substitute the cue into the pattern 'Osoku natte ___.' Cue: sumimasen deshita",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Osoku natte sumimasen deshita.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Substitute the cue into the pattern 'Osoku natte ___.' Cue: mooshiwake arimasen",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Osoku natte mooshiwake arimasen.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Substitute the cue into the pattern 'Osoku natte ___.' Cue: mooshiwake arimasen deshita",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Osoku natte mooshiwake arimasen deshita.", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

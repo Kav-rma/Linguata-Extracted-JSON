@@ -1,0 +1,91 @@
+{
+  "title": "unit27_grammar_some_basic_expressions_for_describing_symptoms",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why might describing medical symptoms in a foreign language be difficult, according to the lesson?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Describing medical symptoms in a foreign language can be extremely difficult", "is_correct": true},
+        {"answer": "Because doctors don't speak Japanese", "is_correct": false},
+        {"answer": "Because symptoms cannot be described at all", "is_correct": false},
+        {"answer": "Because there are no words for body parts", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What can these basic expressions at least let you tell your doctor?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "That you have nausea, feel dizzy, or where you have pain", "is_correct": true},
+        {"answer": "Your full medical history", "is_correct": false},
+        {"answer": "Your blood type and allergies", "is_correct": false},
+        {"answer": "The cost of treatment", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you say 'I have a pain here' (while pointing)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Koko ga itain desu.", "is_correct": true},
+        {"answer": "Hakike ga shimasu.", "is_correct": false},
+        {"answer": "Kimochi ga waruin desu.", "is_correct": false},
+        {"answer": "Memai ga shimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How do you say 'I feel nauseous'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Hakike ga shimasu.", "is_correct": true},
+        {"answer": "Koko ga itain desu.", "is_correct": false},
+        {"answer": "Kimochi ga waruin desu.", "is_correct": false},
+        {"answer": "Netsu ga arimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you say 'I feel sick'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kimochi ga waruin desu.", "is_correct": true},
+        {"answer": "Hakike ga shimasu.", "is_correct": false},
+        {"answer": "Koko ga itain desu.", "is_correct": false},
+        {"answer": "Daijoobu desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "In 'Koko ga itain desu,' what does 'koko' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "here (this place)", "is_correct": true},
+        {"answer": "fever", "is_correct": false},
+        {"answer": "doctor", "is_correct": false},
+        {"answer": "stomach", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Some basic expressions for describing symptoms\n\nAlthough describing medical symptoms in a foreign language can be extremely difficult, if you know the following basic expressions you can at least tell your doctor that you have nausea, that you feel dizzy, or where you have pain, etc.\n\nKoko ga itain desu.         I have a pain here.\nHakike ga shimasu.          I feel nauseous.\nKimochi ga waruin desu.     I feel sick."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

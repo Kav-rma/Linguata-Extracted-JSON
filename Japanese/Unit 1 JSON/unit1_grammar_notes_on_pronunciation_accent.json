@@ -1,0 +1,163 @@
+{
+  "title": "unit1_grammar_notes_on_pronunciation_accent",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In English, how is accent indicated?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By stress difference — the stressed syllable is pronounced louder than the others",
+          "is_correct": true
+        },
+        {
+          "answer": "By pitch difference",
+          "is_correct": false
+        },
+        {
+          "answer": "By syllable length only",
+          "is_correct": false
+        },
+        {
+          "answer": "By writing it differently",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In Japanese, how is accent shown?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By pitch difference — one or more syllables are pronounced at a higher pitch than the rest",
+          "is_correct": true
+        },
+        {
+          "answer": "By stress difference — louder syllables",
+          "is_correct": false
+        },
+        {
+          "answer": "By lengthening every vowel",
+          "is_correct": false
+        },
+        {
+          "answer": "Accent is not used in Japanese",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does Japanese have numerous pairs of, which differ only in pitch?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Words",
+          "is_correct": true
+        },
+        {
+          "answer": "Consonants",
+          "is_correct": false
+        },
+        {
+          "answer": "Sentences",
+          "is_correct": false
+        },
+        {
+          "answer": "Writing systems",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In the example given, the word 'hashi' can mean which two things depending on pitch?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'bridge' or 'chopsticks'",
+          "is_correct": true
+        },
+        {
+          "answer": "'rain' or 'candy'",
+          "is_correct": false
+        },
+        {
+          "answer": "'mountain' or 'river'",
+          "is_correct": false
+        },
+        {
+          "answer": "'house' or 'no'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Do such pitch differences usually cause confusion in actual situations?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No — the context often tells you which word is meant",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes — they always cause serious confusion",
+          "is_correct": false
+        },
+        {
+          "answer": "Only in writing",
+          "is_correct": false
+        },
+        {
+          "answer": "Only among native speakers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "According to what do pitch patterns differ?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Regional dialects",
+          "is_correct": true
+        },
+        {
+          "answer": "The time of day",
+          "is_correct": false
+        },
+        {
+          "answer": "The speaker's age only",
+          "is_correct": false
+        },
+        {
+          "answer": "The writing system used",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Accent\n\nIn English, accent is indicated by stress difference, which means the stressed syllable is pronounced louder than the other syllables.\n\nIn Japanese, accent is shown by pitch difference. Thus, in Japanese, instead of pronouncing one syllable louder, one or more syllables of a word are pronounced at a higher pitch than the rest. Japanese has numerous pairs of words which differ only in pitch. Compare: ha-SHI (with the pitch rising on shi) 'bridge' vs. HA-shi (with the pitch high on ha) 'chopsticks'.\n\nHowever, such pitch differences seldom cause confusion in actual situations, for the context often tells you which word is meant by the speaker. You will find that pitch patterns differ according to regional dialects."
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 17,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

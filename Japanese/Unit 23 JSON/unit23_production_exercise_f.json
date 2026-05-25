@@ -7,105 +7,180 @@
       "question_text": "What do you say when you want to get the attention of a waitress?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Sumimasen.", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Sumimasen.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 2,
       "question_text": "What do you say when you want to ask the waitress if the restaurant has an English menu?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Eego no menyuu wa arimasu ka?", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Eego no menyuu wa arimasu ka?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 3,
       "question_text": "What do you say when you want to ask the waitress to come with you to the plastic display?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Chotto issho ni kite kudasaimasen ka?", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Chotto issho ni kite kudasaimasen ka?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 4,
       "question_text": "What do you say when you want to ask the waitress to bring you a knife and a fork?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Naifu to fooku onegai shimasu.", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Naifu to fooku onegai shimasu.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 5,
       "question_text": "What do you say when you want to ask someone to buy a meal ticket for you?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Shokken o katte kudasaimasen ka?", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Shokken o katte kudasaimasen ka?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 6,
       "question_text": "What do you say when you want to ask where the cashier is?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Okanjoo wa doko desu ka? (OR Reji wa doko desu ka?)", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Okanjoo wa doko desu ka? (OR Reji wa doko desu ka?)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 7,
       "question_text": "What do you say when you want to ask if they serve teriyaki?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Teriyaki wa arimasu ka?", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Teriyaki wa arimasu ka?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 8,
       "question_text": "What do you say when you want to order the same thing that someone else is eating?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Are onegai shimasu.", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Are onegai shimasu.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 9,
       "question_text": "What do you say when you want to ask the waitress to wait a moment, because you haven't decided what to order yet?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Chotto matte kudasai.", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Chotto matte kudasai.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 10,
       "question_text": "What do you say when you want to ask the waitress to bring you some tea?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Ocha onegai shimasu.", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Ocha onegai shimasu.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 11,
       "question_text": "What do you say when you want to order one dish of tempura?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Tenpura ichi-ninmae onegai shimasu. (OR Tenpura hitotsu onegai shimasu.)", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Tenpura ichi-ninmae onegai shimasu. (OR Tenpura hitotsu onegai shimasu.)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 12,
       "question_text": "What do you say when you want to make sure the dish you have selected is not salty?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Kore wa shiokaraku arimasen ka?", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Kore wa shiokaraku arimasen ka?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 13,
       "question_text": "What do you say when you want to order one more bottle of beer?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Biiru moo ip-pon onegai shimasu.", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Biiru moo ip-pon onegai shimasu.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 14,
       "question_text": "What do you say when you want to ask for a check?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Okanjoo onegai shimasu.", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Okanjoo onegai shimasu.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 15,
       "question_text": "What do you say when you want to thank the waitress/cashier on leaving the restaurant?",
       "type": "writing",
       "has_answer": true,
-      "answers": [{"answer_text": "Gochisoosama (deshita).", "is_correct": true}]
+      "answers": [
+        {
+          "answer_text": "Gochisoosama (deshita).",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],

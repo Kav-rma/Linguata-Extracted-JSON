@@ -1,0 +1,115 @@
+{
+  "title": "unit30_grammar_tanoshikatta_desu",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Tanoshikatta desu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "I had a wonderful time. (lit., It was enjoyable.)", "is_correct": true},
+        {"answer": "It is enjoyable.", "is_correct": false},
+        {"answer": "It was not enjoyable.", "is_correct": false},
+        {"answer": "It will be enjoyable.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "'Tanoshikatta desu' is the past tense of which expression?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tanoshii desu (It is enjoyable.)", "is_correct": true},
+        {"answer": "Tanoshiku arimasen (It is not enjoyable.)", "is_correct": false},
+        {"answer": "Tanoshiku narimasu", "is_correct": false},
+        {"answer": "Tanoshimimasu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the negative form of 'Tanoshikatta desu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tanoshiku arimasen deshita (It was not enjoyable.)", "is_correct": true},
+        {"answer": "Tanoshii desu", "is_correct": false},
+        {"answer": "Tanoshiku arimasen", "is_correct": false},
+        {"answer": "Tanoshikatta desu ka", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Using 'tooi' (far) as a model, how do you say 'It is far'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tooi desu.", "is_correct": true},
+        {"answer": "Tooku arimasen.", "is_correct": false},
+        {"answer": "Tookatta desu.", "is_correct": false},
+        {"answer": "Tooku arimasen deshita.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you say 'It is not far'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tooku arimasen.", "is_correct": true},
+        {"answer": "Tooi desu.", "is_correct": false},
+        {"answer": "Tookatta desu.", "is_correct": false},
+        {"answer": "Tooku arimasen deshita.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How do you say 'It was far'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tookatta desu.", "is_correct": true},
+        {"answer": "Tooi desu.", "is_correct": false},
+        {"answer": "Tooku arimasen.", "is_correct": false},
+        {"answer": "Tooku arimasen deshita.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you say 'It was not far'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tooku arimasen deshita.", "is_correct": true},
+        {"answer": "Tookatta desu.", "is_correct": false},
+        {"answer": "Tooku arimasen.", "is_correct": false},
+        {"answer": "Tooi desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What kind of adjectives change form in this way (e.g., -i → -katta desu)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "True (i-)adjectives", "is_correct": true},
+        {"answer": "Na-adjectives only", "is_correct": false},
+        {"answer": "Nouns", "is_correct": false},
+        {"answer": "Verbs", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Tanoshikatta desu — 'I had a wonderful time.' (lit., It was enjoyable.)\n\nTanoshikatta desu is the past tense for Tanoshii desu (lit., 'It is enjoyable.'). The negative form for Tanoshikatta desu is Tanoshiku arimasen deshita (lit., 'It was not enjoyable.'). True adjectives change form in this way. For example, tooi 'far' changes as follows:\n\nTooi desu.                  It is far.\nTooku arimasen.             It is not far.\nTookatta desu.              It was far.\nTooku arimasen deshita.     It was not far."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

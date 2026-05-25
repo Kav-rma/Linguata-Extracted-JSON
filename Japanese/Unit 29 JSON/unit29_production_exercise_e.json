@@ -1,0 +1,147 @@
+{
+  "title": "unit29_production_exercise_e",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Student A asks 'Doko de nan-ji ni aimashoo ka?' (Where and at what time shall we meet?) Referring to the list, Student B is to meet at a coffee shop at three o'clock. How does Student B answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kissaten de san-ji ni aimashoo.",
+          "is_correct": true
+        },
+        {
+          "answer": "Kissaten de go-ji han ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Mitsukoshi no mae de san-ji ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hon-ya de yo-ji han ni aimashoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Student B is to meet in front of Mitsukoshi at five thirty. How does Student B answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mitsukoshi no mae de go-ji han ni aimashoo.",
+          "is_correct": true
+        },
+        {
+          "answer": "Mitsukoshi no mae de san-ji ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kissaten de go-ji han ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Ryoojikan de ni-ji ni aimashoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Student B is to meet at the American Consulate at two o'clock. How does Student B answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Amerika Ryoojikan de ni-ji ni aimashoo.",
+          "is_correct": true
+        },
+        {
+          "answer": "Amerika Ryoojikan de yo-ji han ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hon-ya de ni-ji ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Taishikan no mae de roku-ji ni aimashoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Student B is to meet at a bookstore at four thirty. How does Student B answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hon-ya de yo-ji han ni aimashoo.",
+          "is_correct": true
+        },
+        {
+          "answer": "Hon-ya de san-ji ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Kissaten de yo-ji han ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Mitsukoshi no mae de go-ji han ni aimashoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Student B is to meet in front of the U.S. Embassy at six o'clock. How does Student B answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Amerika Taishikan no mae de roku-ji ni aimashoo.",
+          "is_correct": true
+        },
+        {
+          "answer": "Amerika Taishikan no mae de ni-ji ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Amerika Ryoojikan no mae de roku-ji ni aimashoo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Hon-ya no mae de roku-ji ni aimashoo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "E. Production Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Student A asks where and at what time s/he and student B are to meet. Student B answers, referring to the list below."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student A: Doko de nan-ji ni aimashoo ka? Student B: Depaato no mae de san-ji ni aimashoo. List for Student B (place / time): coffee shop / three o'clock; in front of Mitsukoshi / five thirty; American Consulate / two o'clock; bookstore / four thirty; in front of U.S. Embassy / six o'clock."
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

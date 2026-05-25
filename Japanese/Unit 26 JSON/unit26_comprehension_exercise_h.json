@@ -1,0 +1,191 @@
+{
+  "title": "unit26_comprehension_exercise_h",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Conversation 1 — A: 'もしもし。コナリーさんのお宅ですか。' B: 'はい、そうです。' A: '私、NHKの山下ですが、ご主人いらっしゃいますか。' B: 'はい、少々おまちください。' Answer all three: (a) Did the caller get the right number? (b) Was the person the caller wanted in? (c) Did the caller identify himself/herself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(a) Yes, (b) Yes, (c) Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "(a) Yes, (b) No, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) No, (b) No, (c) No",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) No",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Conversation 2 — A: 'もしもし。鈴木さんのお宅ですか。' B: 'いいえ、違います。' A: 'あ、どうも、すみません。' B: 'いいえ。' Answer all three: (a) Did the caller get the right number? (b) Was the person the caller wanted in? (c) Did the caller identify himself/herself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(a) No, (b) No, (c) No",
+          "is_correct": true
+        },
+        {
+          "answer": "(a) Yes, (b) No, (c) No",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) No, (b) Yes, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) Yes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Conversation 3 — A: 'もしもし。' B: '日本カメラでございます。' A: '私、アメリカ大使館のフラウンですが、営業部の山田さんお願いします。' B: 'あ、フラウンですか。私、山田です。' Answer all three: (a) Did the caller get the right number? (b) Was the person the caller wanted in? (c) Did the caller identify himself/herself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(a) Yes, (b) Yes, (c) Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "(a) Yes, (b) No, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) No, (b) No, (c) No",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) No",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Conversation 4 — A: 'もしもし。鈴木さんお願いします。' B: 'あ、鈴木はちょっと席をはずしていますが…' A: 'じゃあ、また電話します。' B: 'そうですか。失礼しました。' A: 'さよなら。' Answer all three: (a) Did the caller get the right number? (b) Was the person the caller wanted in? (c) Did the caller identify himself/herself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(a) Yes, (b) No, (c) No",
+          "is_correct": true
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) No, (b) No, (c) No",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) Yes, (b) No, (c) Yes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Conversation 5 — A: 'もしもし。佐藤課長いらっしゃいますか。' B: '課長は、きょうお休みですが、明日来ると思いますが、何かおことづけがございますか。' A: 'いいえ、結構です。また明日電話します。' B: 'そうですか。じゃあ、ごめんください。' A: 'さよなら。' Answer all three: (a) Did the caller get the right number? (b) Was the person the caller wanted in? (c) Did the caller identify himself/herself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(a) Yes, (b) No, (c) No",
+          "is_correct": true
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) No, (b) No, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) No",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Conversation 6 — A: 'もしもし。太田さんお願いします。' B: '私ですか…失礼ですが、どなたですか。' A: 'アメリカンセンターのトンプソンです。' B: 'ああ、トンプソンさんですか。' Answer all three: (a) Did the caller get the right number? (b) Was the person the caller wanted in? (c) Did the caller identify himself/herself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(a) Yes, (b) No, (c) Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) No, (b) No, (c) No",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) Yes, (b) No, (c) No",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Conversation 7 — A: 'もしもし。青木さんのお宅ですか。' B: 'はい、さようでございます。' A: '私、アメリカ大使館のケリーですが、ご主人お願いします。' B: 'すみません。主人はまだもどりませんか…' A: 'じゃあ、またお電話致します。' B: 'そうですか。失礼しました。ごめんください。' A: 'ごめんください。' Answer all three: (a) Did the caller get the right number? (b) Was the person the caller wanted in? (c) Did the caller identify himself/herself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "(a) Yes, (b) No, (c) Yes",
+          "is_correct": true
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) No, (b) No, (c) No",
+          "is_correct": false
+        },
+        {
+          "answer": "(a) Yes, (b) Yes, (c) No",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "H. Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: Listen to the taped conversation and answer the following with Yes or No for each conversation: Did the caller get the right number? Was the person the caller wanted in? Did the caller identify himself/herself?"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

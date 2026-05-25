@@ -1,0 +1,283 @@
+{
+  "title": "unit30_grammar_other_sentiments",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Omedetoo gozaimasu' mean, and when is it used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Congratulations — used for weddings, graduations, promotions, births, birthdays, passing entrance exams and other happy occasions",
+          "is_correct": true
+        },
+        {
+          "answer": "I'm sorry — used to express regret",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuse me — used before asking a personal question",
+          "is_correct": false
+        },
+        {
+          "answer": "Be careful — used to urge caution",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does 'Shitsuree shimasu' mean (literally and in use)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Excuse me (lit., I'll do something rude) — used when joining or leaving other people",
+          "is_correct": true
+        },
+        {
+          "answer": "Congratulations — used on happy occasions",
+          "is_correct": false
+        },
+        {
+          "answer": "I will receive — used before eating",
+          "is_correct": false
+        },
+        {
+          "answer": "Take care of yourself — used when leaving someone ill",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When is 'Shitsuree desu ga...' (Excuse me, lit. it is rude but...) used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Prior to asking personal questions (e.g., Shitsuree desu ga, donata desu ka?)",
+          "is_correct": true
+        },
+        {
+          "answer": "After finishing a meal",
+          "is_correct": false
+        },
+        {
+          "answer": "When congratulating someone",
+          "is_correct": false
+        },
+        {
+          "answer": "Before going ahead of someone",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'Zannen desu' express (lit., it is regrettable)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "I'm sorry — used to express regret, not anger (e.g., after failing an exam or missing a party)",
+          "is_correct": true
+        },
+        {
+          "answer": "Anger or annoyance",
+          "is_correct": false
+        },
+        {
+          "answer": "Congratulations",
+          "is_correct": false
+        },
+        {
+          "answer": "A request to be careful",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Doozo osaki ni' mean, and what does 'saki' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Please go before me; saki means 'first' — used to ask someone to walk ahead of you or do something before you",
+          "is_correct": true
+        },
+        {
+          "answer": "Please come again; saki means 'again'",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuse my going before you; saki means 'after'",
+          "is_correct": false
+        },
+        {
+          "answer": "Take care; saki means 'health'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When is 'Osaki ni shitsuree shimasu' (Please excuse my going before you) used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whenever you do something before someone who is with you (e.g., walking through a doorway, getting up from a table)",
+          "is_correct": true
+        },
+        {
+          "answer": "When you arrive late",
+          "is_correct": false
+        },
+        {
+          "answer": "When you congratulate someone",
+          "is_correct": false
+        },
+        {
+          "answer": "Before eating a meal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When is 'Odaiji ni' (Take good care of yourself) used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whenever leaving the company of someone who is in poor health",
+          "is_correct": true
+        },
+        {
+          "answer": "When greeting a guest at the door",
+          "is_correct": false
+        },
+        {
+          "answer": "When congratulating a newlywed couple",
+          "is_correct": false
+        },
+        {
+          "answer": "Before starting a meal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When is 'Ogenki de' (Good luck / Take care) used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To say 'good-bye' to a social acquaintance you do not expect to see again soon",
+          "is_correct": true
+        },
+        {
+          "answer": "To someone who is in poor health",
+          "is_correct": false
+        },
+        {
+          "answer": "To urge someone to drive carefully",
+          "is_correct": false
+        },
+        {
+          "answer": "Before eating",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When is 'Ki o tsukete' (Be careful) used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To urge someone to drive, walk, climb stairs, travel or do other things carefully and safely",
+          "is_correct": true
+        },
+        {
+          "answer": "To congratulate someone",
+          "is_correct": false
+        },
+        {
+          "answer": "To express regret",
+          "is_correct": false
+        },
+        {
+          "answer": "After finishing a meal",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does 'Itadakimasu' mean and when is it used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'I am going to eat/drink' (lit., I will receive) — used before one starts to eat or drink",
+          "is_correct": true
+        },
+        {
+          "answer": "'It was a feast' — used after finishing a meal",
+          "is_correct": false
+        },
+        {
+          "answer": "'Congratulations' — used on happy occasions",
+          "is_correct": false
+        },
+        {
+          "answer": "'Be careful' — used to urge caution",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "What does 'Gochisoosama deshita' mean and when is it used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "'It was a feast' — used when someone has finished his/her meal or drink to express gratitude",
+          "is_correct": true
+        },
+        {
+          "answer": "'I will receive' — used before eating",
+          "is_correct": false
+        },
+        {
+          "answer": "'Take care of yourself' — used when leaving someone ill",
+          "is_correct": false
+        },
+        {
+          "answer": "'Congratulations' — used on happy occasions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. Other sentiments\n\nYou may hear or have occasion to use the following expressions while in Japan. Discuss with your instructor how to use these expressions appropriately.\n\na. Omedetoo gozaimasu.    Congratulations.\nThis expression is used for weddings, graduations, promotions, births, birthdays, passing entrance exams and other happy occasions.\n\nb. Shitsuree shimasu.    Excuse me. (lit., I'll do something rude.)\nGenerally, this is used when you are joining or leaving other people (e.g., entering a room, excusing yourself, etc.).\n\nc. Shitsuree desu ga...    Excuse me. (lit., It is rude, but...)\nThis expression is used prior to asking personal questions (e.g., Shitsuree desu ga, donata desu ka?).\n\nd. Zannen desu.    I'm sorry. (lit., It is regrettable.)\nThis is used to express regret, not anger. For example, it may be used after an exam is failed, after a party is missed, or when someone is absent when you visit their home.\n\ne. Doozo osaki ni.    Please go before me.\nSaki literally means 'first.' This expression is used when you ask someone to walk ahead of you or to do something else before you.\n\nf. Osaki ni shitsuree shimasu.    Please excuse my going before you.\nThis expression is used whenever you do something before someone who is with you (e.g., walking through a doorway, getting up from a table, etc.).\n\ng. Odaiji ni.    Take good care of yourself.\nThis expression is used whenever leaving the company of someone who is in poor health.\n\nh. Ogenki de.    Good luck (to you). Take care.\nThis expression is used to say 'good-bye' to a social acquaintance you do not expect to see again soon.\n\ni. Ki o tsukete.    Be careful.\nThis is used to urge someone to drive, walk, climb stairs, travel or do other things carefully and safely.\n\nj. Itadakimasu.\n'I am going to eat/drink.' This expression is used before one starts to eat or drink. Literally, it means 'I will receive.'\n\nk. Gochisoosama deshita.\nThis means 'It was a feast.' This is used when someone has finished his/her meal or drink to express gratitude."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "unit29_grammar_deciding_the_time",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "After deciding where to go, what formula can you use to discuss the time?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Time) wa doo desu ka? (How about (time)?)", "is_correct": true},
+        {"answer": "(Time) ni ikimasu ka?", "is_correct": false},
+        {"answer": "(Time) o kudasai.", "is_correct": false},
+        {"answer": "(Time) desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "If you agree to the proposed time, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ee, ii desu yo. (Yes, that is fine.)", "is_correct": true},
+        {"answer": "Iie, dame desu.", "is_correct": false},
+        {"answer": "Zannen desu ga...", "is_correct": false},
+        {"answer": "Chotto...", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is another way to discuss the time to meet, using 'shimashoo ka'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Time) ni shimashoo ka? (Shall we make it (time)?)", "is_correct": true},
+        {"answer": "(Time) de shimashoo ka?", "is_correct": false},
+        {"answer": "(Time) o shimashoo ka?", "is_correct": false},
+        {"answer": "(Time) wa shimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "To suggest meeting at 7:00 p.m., which is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Shichi-ji ni shimashoo ka?", "is_correct": true},
+        {"answer": "Shichi-ji de shimashoo ka?", "is_correct": false},
+        {"answer": "Shichi-ji o shimashoo ka?", "is_correct": false},
+        {"answer": "Shichi-ji shimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'shimashoo' mean and what does 'ni shimashoo ka' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "shimashoo = 'let's do'; ni shimashoo ka = 'shall we make it...?'", "is_correct": true},
+        {"answer": "shimashoo = 'let's go'; ni shimashoo ka = 'shall we eat?'", "is_correct": false},
+        {"answer": "shimashoo = 'let's see'; ni shimashoo ka = 'where shall we meet?'", "is_correct": false},
+        {"answer": "shimashoo = 'let's wait'; ni shimashoo ka = 'shall we wait?'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The expression '...ni shimashoo ka' can propose things other than time. How do you say 'Shall we make it a bar?' and 'Shall we decide on Chinese food?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Baa ni shimashoo ka? / Chuugoku-ryoori ni shimashoo ka?", "is_correct": true},
+        {"answer": "Baa de shimashoo ka? / Chuugoku-ryoori de shimashoo ka?", "is_correct": false},
+        {"answer": "Baa o shimashoo ka? / Chuugoku-ryoori o shimashoo ka?", "is_correct": false},
+        {"answer": "Baa wa doo desu ka? / Chuugoku-ryoori desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When you want to express agreement to a '...ni shimashoo ka' question, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Ee), soo shimashoo. (Yes, let's do so.)", "is_correct": true},
+        {"answer": "Iie, dame desu.", "is_correct": false},
+        {"answer": "Zannen desu ga...", "is_correct": false},
+        {"answer": "Doo desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. Deciding the time\n\nAfter deciding where to go, you will probably talk about the time. You can use this formula:\n\n(Time) wa doo desu ka?    How about (time)?\n\nIf you agree to the proposed time, you can say:\nEe, ii desu yo.    Yes, that is fine.\n\nAnother way to discuss the time to meet is to use the following expression:\n(Time) ni shimashoo ka?    Shall we make it (time)?\n\nFor example, if you want to suggest that you meet at 7:00 p.m., you can say:\nShichi-ji ni shimashoo ka?    Shall we make it 7:00 p.m.?\n\nNote again that the particle ni is used after the time expression. The word shimashoo means 'let's do' and shimashoo ka means 'shall we?'\n\nThe expression ...ni shimashoo ka 'shall we make it?' is also frequently used to propose things other than time. For example:\nBaa ni shimashoo ka?               Shall we make it a bar?\nChuugoku-ryoori ni shimashoo ka?    Shall we decide on Chinese food?\n\nWhen you want to express agreement to the above questions, you can say:\n(Ee), soo shimashoo.    Yes, let's do so."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

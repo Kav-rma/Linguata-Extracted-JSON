@@ -1,0 +1,147 @@
+{
+  "title": "unit28_production_comprehension_exercise_b",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The repairman answers 'Hatsuka ni dekimasu.' Does this express a date or a duration?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A date — it will be ready on the 20th",
+          "is_correct": true
+        },
+        {
+          "answer": "A duration — it will take 20 days",
+          "is_correct": false
+        },
+        {
+          "answer": "A date — it will be ready on the 8th",
+          "is_correct": false
+        },
+        {
+          "answer": "A duration — it will take 8 days",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The repairman answers 'Mikka kakarimasu.' Does this express a date or a duration?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A duration — it will take 3 days",
+          "is_correct": true
+        },
+        {
+          "answer": "A date — it will be ready on the 3rd",
+          "is_correct": false
+        },
+        {
+          "answer": "A duration — it will take 3 weeks",
+          "is_correct": false
+        },
+        {
+          "answer": "A date — it will be ready on the 30th",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which word means 'the first day of the month'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "tsuitachi",
+          "is_correct": true
+        },
+        {
+          "answer": "ichi-nichi",
+          "is_correct": false
+        },
+        {
+          "answer": "is-shuukan",
+          "is_correct": false
+        },
+        {
+          "answer": "futsuka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which word means 'one day' (a duration of one day)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ichi-nichi",
+          "is_correct": true
+        },
+        {
+          "answer": "tsuitachi",
+          "is_correct": false
+        },
+        {
+          "answer": "ik-kagetsu",
+          "is_correct": false
+        },
+        {
+          "answer": "ichi-ban",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the verb 'kakarimasu' express when talking about a repair?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "How long it takes (to do the job)",
+          "is_correct": true
+        },
+        {
+          "answer": "The exact calendar date it will be done",
+          "is_correct": false
+        },
+        {
+          "answer": "The cost of the repair",
+          "is_correct": false
+        },
+        {
+          "answer": "The name of the repairman",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "B. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "When the repairman gives an answer, he may mention the number of days it will take. The number of days is expressed in the same way as the name of the day, except for the first day of the month, which is: tsuitachi (first day of the month) vs ichi-nichi (one day)."
+    },
+    {
+      "sequence_id": 3,
+      "text": "The word kakarimasu 'take' can be used when you talk about how long it takes to get to a place (cf. Lesson 10) or how long it takes to do a job. Example: Student: Itsu dekimasu ka? Instructor: Mikka kakarimasu. (The student writes down whether the number stands for the day of the month or the number of days it will take.)"
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

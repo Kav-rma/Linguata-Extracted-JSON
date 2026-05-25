@@ -1,0 +1,87 @@
+{
+  "title": "unit25_production_comprehension_exercise_d",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The operator answered: 'お早うございます。日本保険でございます。 (Ohayoo gozaimasu. Nihon Hoken de gozaimasu.)' What institution did the operator name?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Japan Insurance (Nihon Hoken)", "is_correct": true},
+        {"answer": "Japan Travel (Nihon Ryokoo)", "is_correct": false},
+        {"answer": "Nihon Camera", "is_correct": false},
+        {"answer": "Yamada Industries", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The operator answered: '講談社でございます。 (Koodansha de gozaimasu.)' What institution did the operator name?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kodansha (publisher)", "is_correct": true},
+        {"answer": "Koodsha Bank", "is_correct": false},
+        {"answer": "Kondo Shoji", "is_correct": false},
+        {"answer": "Kotsu Kosha", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The operator answered: 'お待たせ致しました。東京工業です。 (Omatase itashimashita. Tokyo Koogyoo desu.)' What institution did the operator name?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tokyo Industries (Tokyo Koogyoo)", "is_correct": true},
+        {"answer": "Tokyo Bank (Tokyo Ginkoo)", "is_correct": false},
+        {"answer": "Tokyo University", "is_correct": false},
+        {"answer": "Tokyo Camera", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The operator answered: '富士コンピューターでございます。お待たせ致しました。 (Fuji Konpyuutaa de gozaimasu. Omatase itashimashita.)' What institution did the operator name?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Fuji Computer (Fuji Konpyuutaa)", "is_correct": true},
+        {"answer": "Fuji Camera", "is_correct": false},
+        {"answer": "Fuji Bank", "is_correct": false},
+        {"answer": "Fuji Travel", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The operator answered: '交通公社でございます。 (Kootsuu Koosha de gozaimasu.)' What institution did the operator name?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "the Travel Bureau (Kootsuu Koosha)", "is_correct": true},
+        {"answer": "the Personnel Office", "is_correct": false},
+        {"answer": "the Public Telephone Office", "is_correct": false},
+        {"answer": "the Transportation Ministry", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Word Study and Production Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The instructor answers the phone, giving the name of an institution. The student asks for a person, identifying the person's name and the department/section that the person belongs to, referring to the list below. The instructor asks the student to wait."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Instructor: Pan Amerikan Kookuu de gozaimasu. Student: Jinji-ka no Matsumoto-kachoo onegai shimasu. Instructor: Shooshoo omachi kudasai."
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

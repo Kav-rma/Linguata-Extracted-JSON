@@ -1,0 +1,91 @@
+{
+  "title": "unit29_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "しょくじ (shokuji)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "meal", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "しょくじにいきませんか (shokuji ni ikimasen ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Would you like to go out for dinner? (neg. form of ikimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "ちゅうごくりょうり (Chuugoku-ryoori)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Chinese cuisine", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "すもう (sumoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "sumo wrestling", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "…みにいきませんか (...mi ni ikimasen ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Would you like to go see...?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "ざんねんですが… (zannen desu ga...)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "it's too bad, it's unfortunate", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "だめ (dame)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "no good, won't do, bad", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "あいましょう (aimashoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "let's meet", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "ひるのぶ (hiru no bu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "afternoon performance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "よるのぶ (yoru no bu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "evening performance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "のこっています (nokotte imasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "remain, be left (TE form of nokorimasu)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

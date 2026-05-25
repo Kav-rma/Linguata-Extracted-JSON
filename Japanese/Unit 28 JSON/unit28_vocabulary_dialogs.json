@@ -1,0 +1,140 @@
+{
+  "title": "unit28_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "すみません (sumimasen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "excuse me", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "でんき (denki)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "electricity", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "つきません (tsukimasen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "does not light up, does not turn on (negative form of tsukimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "しらべて (shirabete)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "check up (TE form of shirabemasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "ながし (nagashi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "kitchen sink", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "みず (mizu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "water", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "ながれません (nagaremasen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "does not flow (negative form of nagaremasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "なんばん (nan-ban)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "what number", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "しらべます (shirabemasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "check up", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "いらっしゃい (irasshai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "welcome", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "かかと (kakato)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "heel(s)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "なおして (naoshite)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "fix, repair (TE form of naoshimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "いつ (itsu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "when", "is_correct": true}]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "できます (dekimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "be ready", "is_correct": true}]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "こんでいます (konde imasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "be crowded", "is_correct": true}]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "あさって (asatte)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "the day after tomorrow", "is_correct": true}]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "ごご (gogo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "p.m.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "おなまえ (onamae)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "name (polite)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

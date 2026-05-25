@@ -1,0 +1,139 @@
+{
+  "title": "unit24_grammar_how_to_answer_a_call",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you want to know who the caller is, what expression do you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Shitsuree desu ga, donata desu ka? (Excuse me, but who is calling?)", "is_correct": true},
+        {"answer": "Moshi moshi.", "is_correct": false},
+        {"answer": "Watakushi desu ga.", "is_correct": false},
+        {"answer": "Chotto matte kudasai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is 'Shitsuree desu ga, donata desu ka?' comparable to in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'May I ask who is calling?'", "is_correct": true},
+        {"answer": "'How are you?'", "is_correct": false},
+        {"answer": "'Please hold.'", "is_correct": false},
+        {"answer": "'Goodbye.'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If the caller is a friend of yours or your husband/wife's, what might happen?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "S/he may skip a step or use less formal expressions", "is_correct": true},
+        {"answer": "S/he must use the most formal expressions", "is_correct": false},
+        {"answer": "S/he will hang up", "is_correct": false},
+        {"answer": "S/he will only speak English", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Instead of asking '...san no otaku desu ka?', what may the caller do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ask immediately for the person s/he wants", "is_correct": true},
+        {"answer": "Hang up without speaking", "is_correct": false},
+        {"answer": "Ask for the phone number", "is_correct": false},
+        {"answer": "Say goodbye", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What might the caller say instead of '...san irasshaimasu ka?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "...-san onegai shimasu (Mr./Mrs..., please)", "is_correct": true},
+        {"answer": "...-san doko desu ka?", "is_correct": false},
+        {"answer": "...-san de gozaimasu", "is_correct": false},
+        {"answer": "...-san chigaimasu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Since you can't accurately predict what the caller will say, what can you use whenever you have difficulty?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Familiar expressions like 'Nihongo ga yoku wakarimasen.'", "is_correct": true},
+        {"answer": "Only English", "is_correct": false},
+        {"answer": "Silence", "is_correct": false},
+        {"answer": "Hanging up", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does 'Nihongo ga yoku wakarimasen' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "I don't understand Japanese well.", "is_correct": true},
+        {"answer": "Please say it more slowly.", "is_correct": false},
+        {"answer": "Who is calling?", "is_correct": false},
+        {"answer": "Please wait a moment.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Moo sukoshi yukkuri itte kudasaimasen ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Please say it more slowly.", "is_correct": true},
+        {"answer": "Please repeat slowly.", "is_correct": false},
+        {"answer": "I don't understand Japanese well.", "is_correct": false},
+        {"answer": "It's..., isn't it?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does 'Moo ichi-do yukkuri itte kudasaimasen ka?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Please repeat slowly.", "is_correct": true},
+        {"answer": "Please say it more slowly.", "is_correct": false},
+        {"answer": "I don't understand Japanese well.", "is_correct": false},
+        {"answer": "Who is calling?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does the expression '...san desu ne?' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It's ...(name), isn't it?", "is_correct": true},
+        {"answer": "Where is ...?", "is_correct": false},
+        {"answer": "Please give me ...", "is_correct": false},
+        {"answer": "Is ... at home?", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. How to answer a call\n\nWhat has been discussed above also applies when you answer a call.\n\nWhen you want to know who the caller is, you can use the following expression, which is comparable to 'May I ask who is calling?' in English:\n\nShitsuree desu ga, donata desu ka?    Excuse me, but who is calling?\n\nIf the caller is a friend of yours or your husband/wife's, s/he may skip a step or use less formal expressions. For example, the person may not ask ...san no otaku desu ka? but instead ask immediately for the person s/he wants. S/he may also say ...-san onegai shimasu 'Mr./Mrs..., please' rather than ...-san irasshaimasu ka?\n\nAt any rate, although the general procedure is relatively routine, you can't accurately predict what the caller will say. Therefore, whenever you have difficulty, you can use the following familiar expressions:\n\nNihongo ga yoku wakarimasen.              I don't understand Japanese well.\nMoo sukoshi yukkuri itte kudasaimasen ka?  Please say it more slowly.\nMoo ichi-do yukkuri itte kudasaimasen ka?  Please repeat slowly.\n...san desu ne?                           It's ...isn't it?"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "title": "unit28_grammar_when_things_break",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "If you live in an apartment and there are electrical or plumbing problems, who should you contact for help?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The kanri-nin (resident manager)", "is_correct": true},
+        {"answer": "The police", "is_correct": false},
+        {"answer": "The American Embassy", "is_correct": false},
+        {"answer": "A taxi driver", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say 'X is out of order'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "X ga koshoo shimashita.", "is_correct": true},
+        {"answer": "X ga dekimasu.", "is_correct": false},
+        {"answer": "X o yonde kudasai.", "is_correct": false},
+        {"answer": "X wa nan-ban desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you say 'X is broken'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "X ga kowaremashita.", "is_correct": true},
+        {"answer": "X ga tsukimasen.", "is_correct": false},
+        {"answer": "X ga nagaremasen.", "is_correct": false},
+        {"answer": "X ga demasen.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which words can replace X in 'X ga koshoo shimashita' (waterworks, refrigerator, sink, range)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "suidoo, reizooko, nagashi, renji", "is_correct": true},
+        {"answer": "kanri-nin, suidoo-ya, denki-ya, kakato", "is_correct": false},
+        {"answer": "hare, ame, kumori, yuki", "is_correct": false},
+        {"answer": "asatte, gogo, raishuu, raigetsu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you say 'The water doesn't come out'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mizu ga demasen.", "is_correct": true},
+        {"answer": "Denki ga tsukimasen.", "is_correct": false},
+        {"answer": "Mizu ga nagaremasen.", "is_correct": false},
+        {"answer": "Mizu ga kowaremashita.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How do you say 'The electricity isn't working'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Denki ga tsukimasen.", "is_correct": true},
+        {"answer": "Denki ga demasen.", "is_correct": false},
+        {"answer": "Mizu ga demasen.", "is_correct": false},
+        {"answer": "Denki ga nagaremasen.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you ask the resident manager to come and check ('Would you check it?')?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Shirabete kudasaimasen ka? / Mite kudasaimasen ka?", "is_correct": true},
+        {"answer": "Naoshite kudasaimasen ka?", "is_correct": false},
+        {"answer": "Yonde kudasaimasen ka?", "is_correct": false},
+        {"answer": "Itsu dekimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How do you ask the resident manager to call a repairman ('Will you call X?')?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "X o yonde kudasaimasen ka?", "is_correct": true},
+        {"answer": "X o naoshite kudasaimasen ka?", "is_correct": false},
+        {"answer": "X o shirabete kudasaimasen ka?", "is_correct": false},
+        {"answer": "X wa itsu desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which words mean 'plumber' and 'electrician/electric appliance repairman'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "suidoo-ya / denki-ya", "is_correct": true},
+        {"answer": "denki-ya / suidoo-ya", "is_correct": false},
+        {"answer": "kanri-nin / shuurinin", "is_correct": false},
+        {"answer": "shuuri-ya / kakato", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How do you explain the problem in more detail with 'This part (place) is broken' and 'This is broken'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Koko ga kowaremashita. / Kore ga kowaremashita.", "is_correct": true},
+        {"answer": "Koko ga demasen. / Kore ga demasen.", "is_correct": false},
+        {"answer": "Koko o yonde kudasai. / Kore o yonde kudasai.", "is_correct": false},
+        {"answer": "Koko desu ka? / Kore desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "How do you ask a repairman to fix something ('Will you fix it?')?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Naoshite kudasaimasen ka?", "is_correct": true},
+        {"answer": "Shirabete kudasaimasen ka?", "is_correct": false},
+        {"answer": "Yonde kudasaimasen ka?", "is_correct": false},
+        {"answer": "Mite kudasaimasen ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "How do you ask when the repaired item will be ready?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Itsu dekimasu ka?", "is_correct": true},
+        {"answer": "Ikura desu ka?", "is_correct": false},
+        {"answer": "Nan-ban desu ka?", "is_correct": false},
+        {"answer": "Donata desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. When things break\n\nIf you live in an apartment and there are electrical or plumbing problems, you should contact the kanri-nin 'resident manager' for help. However, the kanri-nin may or may not speak English. If s/he doesn't, you may have to describe the problem in Japanese and ask him/her to come up to your apartment to check or to call a repairman for you. The following expressions can be used to describe some of the problems you may encounter:\n\nX ga koshoo shimashita.    X is out of order.\nX ga kowaremashita.        X is broken.\n\nIn place of X above, you can use the following words:\nsuidoo     waterworks, plumbing\nreizooko   refrigerator\nnagashi    sink\nrenji      range, stove\n\nNote also the following useful expressions:\nMizu ga demasen.        The water doesn't come out.\nDenki ga tsukimasen.    The electricity isn't working.\n\nWhen you want to ask your resident manager to come and check, you can use the following expressions:\nShirabete kudasaimasen ka?    Would you check it?\nMite kudasaimasen ka?         Could you look at it?\n\nIf you want to ask the resident manager to call a repairman, you can use the following expression:\nX o yonde kudasaimasen ka?    Will you call X?\n\nIn place of X above, you can use the following words:\nsuidoo-ya    plumber\ndenki-ya     electrician, electric appliance repairman\n\nWhen you want to explain the problem in more detail to a kanri-nin or repairman, you can use the following expressions:\nKoko ga kowaremashita.    This part (place) is broken.\nKore ga kowaremashita.    This is broken.\n\nAsk your instructor for other words and expressions you think you may need. When you want to take an appliance to a repair shop, you can, of course, use the expressions that describe the problems mentioned above. You may also say the following to the repairman:\nNaoshite kudasaimasen ka?    Will you fix it?\n\nYou may also want to ask when the repaired item will be ready. You can use the following expression for this purpose:\nItsu dekimasu ka?    When will it be ready?\n\nIn order to comprehend the repairman's answer, you have to know dates as well as days and weeks in Japanese (cf. Lesson 10 and 20 as well as chart on page 516)."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

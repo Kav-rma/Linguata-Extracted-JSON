@@ -1,0 +1,139 @@
+{
+  "title": "unit1_grammar_japanese_names",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In what order does a Japanese name appear?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Family name then given name", "is_correct": true},
+        {"answer": "Given name then family name", "is_correct": false},
+        {"answer": "Middle name then family name", "is_correct": false},
+        {"answer": "Given name then middle name", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How are first names usually used in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Only among intimates", "is_correct": true},
+        {"answer": "In all formal situations", "is_correct": false},
+        {"answer": "More often than family names", "is_correct": false},
+        {"answer": "Never under any circumstances", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Do the Japanese ordinarily have middle names?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "No, ordinarily they do not", "is_correct": true},
+        {"answer": "Yes, always", "is_correct": false},
+        {"answer": "Yes, two middle names each", "is_correct": false},
+        {"answer": "Only women have them", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the common part in the names Yamada, Yamanaka, Yamamoto, and Yamashita, and what does its Kanji mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "yama, written with a Kanji meaning 'mountain'", "is_correct": true},
+        {"answer": "ta, written with a Kanji meaning 'rice field'", "is_correct": false},
+        {"answer": "naka, written with a Kanji meaning 'middle'", "is_correct": false},
+        {"answer": "mura, written with a Kanji meaning 'village'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The Kanji read as 'ta' or 'da' (as in Tanaka, Yamada, Nakata) means what?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "rice field", "is_correct": true},
+        {"answer": "mountain", "is_correct": false},
+        {"answer": "middle", "is_correct": false},
+        {"answer": "village", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What do the Kanji 'shita,' 'naka,' and 'mura' mean respectively?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "below, middle, village", "is_correct": true},
+        {"answer": "mountain, rice field, child", "is_correct": false},
+        {"answer": "above, side, town", "is_correct": false},
+        {"answer": "man, woman, family", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Female given names are often recognizable by the presence of which sound at the end, and what does its Kanji mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "ko, meaning 'child'", "is_correct": true},
+        {"answer": "o, meaning 'man'", "is_correct": false},
+        {"answer": "ta, meaning 'rice field'", "is_correct": false},
+        {"answer": "yama, meaning 'mountain'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Many male given names end in which sound, meaning 'man,' 'husband,' or 'male'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "o", "is_correct": true},
+        {"answer": "ko", "is_correct": false},
+        {"answer": "ka", "is_correct": false},
+        {"answer": "shita", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Although Kanji have their own independent meanings, how are those meanings treated when used in names?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "They are not ordinarily recognized consciously, much as English speakers don't think 'mill' when meeting someone named Miller", "is_correct": true},
+        {"answer": "They are always consciously analyzed by the speaker", "is_correct": false},
+        {"answer": "They are forbidden from use in names", "is_correct": false},
+        {"answer": "They change meaning completely in names", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which female and male given names are given as examples containing the 'ko' / 'o' sounds?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "female: Kazuko, Yasuko, Kimiko; male: Kazuo, Yasuo, Kimio", "is_correct": true},
+        {"answer": "female: Kazuo, Yasuo, Kimio; male: Kazuko, Yasuko, Kimiko", "is_correct": false},
+        {"answer": "female: Yamada, Tanaka; male: Yamashita, Yamamura", "is_correct": false},
+        {"answer": "female: Sumisu, Buraun; male: Joonzu, Toomasu", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Japanese names\n\nA Japanese name consists of the family name and the given name, in that order. The family name is far more frequently used in Japanese than in English. First names are usually used only among intimates. Ordinarily, the Japanese do not have middle names. Names in Japanese are almost always written in Chinese characters or Kanji, and certain Kanji are frequently used in common Japanese names. Therefore, it will be easier for you to recognize Japanese names if you know these Kanji.\n\nFor example, what do the following names have in common? Yamada, Yamanaka, Yamamoto, Yamashita. The common part yama is represented by the Kanji whose meaning is 'mountain.' Most Japanese names are written with two Kanji, and this is one of the most common ones.\n\nAnother common Kanji used in names is 'rice field', which is usually read as ta or da. Tanaka, Yamada and Nakata are examples of names that contain this Kanji.\n\nThe following are some other common Kanji used in family names:\nshita    below    e.g. Yamashita\nnaka     middle   e.g. Tanaka\nmura     village  e.g. Yamamura\n\nFemale given names are often recognizable by the presence of ko 'child' at the end of the name. Many male names end in o 'man,' 'husband,' 'male,' etc.\n\nThe following are some common given names that contain these sounds:\nfemale: Kazuko, Yasuko, Kimiko\nmale: Kazuo, Yasuo, Kimio\n\nNeedless to say, there are many other given names that do not end in ko or o.\n\nAlthough Kanji have their own independent meanings, these meanings are not ordinarily recognized consciously when used in Japanese names. The same is true in English. For example, an English speaker would not think a person named Miller actually runs a mill. Likewise, English speakers do not necessarily think of the color 'green' when they meet a person named Green."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "unit25_scrambled_sentence_exercise_b",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Arrange the scrambled words into the proper order for 'your' part. Caller: 'Moshi moshi.' Your words: (Taishikan, moshi moshi, gozaimasu, Amerika, de)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Moshi moshi. Amerika Taishikan de gozaimasu.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Arrange the scrambled words into the proper order. Caller: 'Buraun-san onegai shimasu.' Your words: (omachi, shooshoo, kudasai)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Shooshoo omachi kudasai.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Arrange the scrambled words into the proper order. Caller: 'Uiruson-san onegai shimasu.' Your words: (donata, shitsuree, ga, desu, ka, desu)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Shitsuree desu ga, donata desu ka?", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Arrange the scrambled words into the proper order. Caller: 'Sumisu-san onegai shimasu.' Your words: (desu, watakushi, ga)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Watakushi desu ga...", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Arrange the scrambled words into the proper order. Your words: (moo ichi-do, sumimasen, kudasai, itte)",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "Sumimasen, moo ichi-do itte kudasai.", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "title": "unit26_production_comprehension_exercise_b",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You asked for Watanabe-buchoo. The instructor said: '部長は今席をはずしております。 (Buchoo wa ima seki o hazushite orimasu.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is off today.",
+          "is_correct": false
+        },
+        {
+          "answer": "He is not at his desk now.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You asked for Matsushita-kachoo. The instructor said: '今日はお休みです。 (Kyoo wa oyasumi desu.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is not in today.",
+          "is_correct": false
+        },
+        {
+          "answer": "He is off today.",
+          "is_correct": true
+        },
+        {
+          "answer": "He is away on a business trip.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You asked for Katoo-kachoo. The instructor said: '今ちょっと席をはずしております。 (Ima chotto seki o hazushite orimasu.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is in today.",
+          "is_correct": false
+        },
+        {
+          "answer": "He isn't at his desk now.",
+          "is_correct": true
+        },
+        {
+          "answer": "He is at a meeting now.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You asked for Nishida-buchoo. The instructor said: 'はい、少々お待ちください。 (Hai, shooshoo omachi kudasai.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is at a meeting.",
+          "is_correct": false
+        },
+        {
+          "answer": "He is not at his desk.",
+          "is_correct": false
+        },
+        {
+          "answer": "He will be with you in a moment.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "You asked for Itoo-kachoo. The instructor said: '伊藤は今日は休みです。 (Itoo wa kyoo wa yasumi desu.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is off today.",
+          "is_correct": true
+        },
+        {
+          "answer": "He is away on a business trip.",
+          "is_correct": false
+        },
+        {
+          "answer": "He will come to the phone.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "B. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student asks for a person on the phone, referring to the list below. The instructor answers. The student checks the instructor's response on the answer sheet below. If the person the student asked for is not in, s/he says that s/he will call again."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Moshi moshi. Yamada-kachoo onegai shimasu. Instructor: Ima seki o hazushite orimasu ga... Student: (check the correct response) Soo desu ka. Jaa, mata odenwa shimasu."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

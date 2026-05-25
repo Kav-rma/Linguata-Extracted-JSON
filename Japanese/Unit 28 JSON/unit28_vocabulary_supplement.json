@@ -1,0 +1,56 @@
+{
+  "title": "unit28_vocabulary_supplement",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "はれ (hare)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "sunny", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "くもり (kumori)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "cloudy", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "あめ (ame)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "rain", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "ゆき (yuki)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "snow", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "でした (deshita)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "was/were (past tense of desu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "ひ（…び） (hi (...bi))",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "day", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

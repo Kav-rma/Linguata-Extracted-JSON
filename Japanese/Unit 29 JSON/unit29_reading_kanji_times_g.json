@@ -1,0 +1,49 @@
+{
+  "title": "unit29_reading_kanji_times_g",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Read the following kanji time expression and write its reading in romaji (時 = ji, 分 = fun/pun): 九時十八分",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "ku-ji juu-hap-pun (9:18)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Read the following kanji time expression and write its reading in romaji: 四時三十二分",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "yo-ji san-juu-ni-fun (4:32)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Read the following kanji time expression and write its reading in romaji: 十一時四十六分",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "juuichi-ji yon-juu-rop-pun (11:46)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Read the following kanji time expression and write its reading in romaji: 八時二十七分",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "hachi-ji ni-juu-nana-fun (8:27)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Read the following kanji time expression and write its reading in romaji: 三時五十一分",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [{"answer_text": "san-ji go-juu-ip-pun (3:51)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

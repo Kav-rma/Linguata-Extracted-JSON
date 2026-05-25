@@ -1,0 +1,139 @@
+{
+  "title": "unit24_grammar_how_to_use_public_telephones",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How are different types of telephones distinguished?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "By their color", "is_correct": true},
+        {"answer": "By their size", "is_correct": false},
+        {"answer": "By their brand", "is_correct": false},
+        {"answer": "By their ringtone", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What color are public pay telephones in street booths?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Blue", "is_correct": true},
+        {"answer": "Pink and red", "is_correct": false},
+        {"answer": "Yellow and green", "is_correct": false},
+        {"answer": "Black", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What color are semi-public pay phones in front of stores, in shops, and in certain public places?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Pink and red", "is_correct": true},
+        {"answer": "Blue", "is_correct": false},
+        {"answer": "Yellow and green", "is_correct": false},
+        {"answer": "White", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How many 10-yen coins can all coin-operated public phones take for local and short-distance calls?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Up to six 10-yen coins", "is_correct": true},
+        {"answer": "Up to three 10-yen coins", "is_correct": false},
+        {"answer": "Up to ten 10-yen coins", "is_correct": false},
+        {"answer": "Only one 10-yen coin", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which phones are used for long-distance calls and take both 10-yen and 100-yen coins?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yellow and green phones", "is_correct": true},
+        {"answer": "Blue phones", "is_correct": false},
+        {"answer": "Pink phones", "is_correct": false},
+        {"answer": "Red phones", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which phones accept special 'telephone cards'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Only green telephones", "is_correct": true},
+        {"answer": "Only blue telephones", "is_correct": false},
+        {"answer": "All pay phones", "is_correct": false},
+        {"answer": "Only pink telephones", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How are phone numbers composed?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Of three groups of numbers", "is_correct": true},
+        {"answer": "Of two groups of numbers", "is_correct": false},
+        {"answer": "Of a single group of numbers", "is_correct": false},
+        {"answer": "Of four groups of numbers", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "When making calls within Tokyo, how many digits do you dial?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Just the last two groups, or seven digits in all", "is_correct": true},
+        {"answer": "All the digits including the area code", "is_correct": false},
+        {"answer": "Only the first group", "is_correct": false},
+        {"answer": "Only three digits", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What are the three steps to use a pay phone?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "1) pick up the receiver, 2) insert a 10-yen coin, 3) dial the number", "is_correct": true},
+        {"answer": "1) dial the number, 2) pick up the receiver, 3) insert a coin", "is_correct": false},
+        {"answer": "1) insert a card, 2) dial, 3) wait", "is_correct": false},
+        {"answer": "1) press start, 2) speak, 3) hang up", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How long is a call limited to, and what happens if you don't add a coin?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Three minutes; on some phones the call is automatically disconnected after three minutes", "is_correct": true},
+        {"answer": "Five minutes; the call continues free", "is_correct": false},
+        {"answer": "One minute; the phone refunds your coins", "is_correct": false},
+        {"answer": "Ten minutes; nothing happens", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. How to use public telephones\n\nDifferent types of telephones are distinguished by their color. Public pay telephones in street booths are blue; semi-public pay phones in front of stores, in shops, and in certain public places are pink and red.\n\nAll coin-operated public phones can be used for local and short-distance calls taking up to six 10-yen coins. All pay phones, except yellow and green ones, are operated with 10-yen coins.\n\nThe yellow and green phones, used for long-distance calls, take both 10-yen and 100-yen coins. Only green telephones accept special 'telephone cards' which may be purchased in amounts of 500-yen or more at many small shops. The current value of the card is displayed on the telephone and the cost of the call is automatically deducted.\n\nPhone numbers are composed of three groups of numbers. When making calls within Tokyo, dial just the last two groups, or seven digits in all.\n\nThe first group of digits is for connection with the long-distance exchange when making domestic inter-city calls. In this case, dial all the numbers in sequence.\n\nHow to use a pay phone:\n1. pick up the receiver\n2. insert a 10-yen coin\n3. dial the number\n\nA call is limited to three minutes, but on some phones it can be continued if you insert another 10-yen coin before the three minutes are up. If you put in more coins than necessary, they will be returned after the call is finished.\n\nOn some phones, the call will be automatically disconnected after three minutes."
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

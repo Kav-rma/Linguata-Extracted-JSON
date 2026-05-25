@@ -1,0 +1,126 @@
+{
+  "title": "unit30_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "とても (totemo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "very", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "たのしかった (tanoshikatta)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "it was enjoyable (past tense of adjective tanoshii)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "とんでもない (tondemonai)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "not at all", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "おはずかしい (ohazukashii)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "I am embarrassed", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "わたくしのほうこそ (watakushi no hoo koso)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "it is I who...", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "きれいな (kiree na)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "beautiful", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "おそくなって (osoku natte)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "being late", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "もうしわけありません (mooshiwake arimasen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "I am very sorry (formal)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "とちゅう (tochuu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "on the way", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "だから (dakara)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "therefore", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "たいへんでしたね (taihen deshita ne)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "you must have had a difficult time", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "じつは (jitsu wa)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "actually", "is_correct": true}]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "きゅうよう (kyuuyoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "urgent business", "is_correct": true}]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "できました (dekimashita)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "came up, arose (past tense of dekimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "やくそく (yakusoku)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "engagement, appointment", "is_correct": true}]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "ごちそうさま (gochisoosama)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "thank you for the meal (said after eating)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

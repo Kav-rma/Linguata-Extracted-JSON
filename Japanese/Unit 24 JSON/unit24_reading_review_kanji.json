@@ -1,0 +1,98 @@
+{
+  "title": "unit24_reading_review_kanji",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "出口 (deguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "exit", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "入口 (iriguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "entrance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "東口 (higashiguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "east exit/entrance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "北口 (kitaguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "north exit/entrance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "南口 (minamiguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "south exit/entrance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "西口 (nishiguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "west exit/entrance", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "改札口 (kaisatsuguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "ticket gate (wicket)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "空車 (kuusha)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "vacant (taxi); empty car / available", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "回送 (kaisoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "out of service (vehicle being relocated)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "三番線 (san-bansen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "track (platform) No. 3", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "急行 (kyuukoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "express (train)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "案内所 (annaijo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "information desk/office", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

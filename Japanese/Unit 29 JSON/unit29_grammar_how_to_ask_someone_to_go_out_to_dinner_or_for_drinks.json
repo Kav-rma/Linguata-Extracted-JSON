@@ -1,0 +1,127 @@
+{
+  "title": "unit29_grammar_how_to_ask_someone_to_go_out_to_dinner_or_for_drinks",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How might a Japanese colleague ask you to go out for a drink/dinner tonight?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Konban nomi ni ikimasen ka?", "is_correct": true},
+        {"answer": "Konban nomi ni shimasu ka?", "is_correct": false},
+        {"answer": "Konban nomimasu ka?", "is_correct": false},
+        {"answer": "Konban doko desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "If you feel like going, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sore wa ii desu ne. (That would be great.)", "is_correct": true},
+        {"answer": "Kyoo wa chotto...", "is_correct": false},
+        {"answer": "Zannen desu ga...", "is_correct": false},
+        {"answer": "Dame desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If you don't feel like going, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kyoo wa chotto... (Today is not so good for me.)", "is_correct": true},
+        {"answer": "Sore wa ii desu ne.", "is_correct": false},
+        {"answer": "Ee, ii desu yo.", "is_correct": false},
+        {"answer": "Soo shimashoo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "If you decline, the Japanese may propose a different day by saying:",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Jaa, ashita wa doo desu ka? (How about tomorrow, then?)", "is_correct": true},
+        {"answer": "Jaa, sayoonara.", "is_correct": false},
+        {"answer": "Jaa, kekkoo desu.", "is_correct": false},
+        {"answer": "Jaa, dame desu ne.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What is the expression '...wa doo desu ka?' comparable to in English?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'How about...?'", "is_correct": true},
+        {"answer": "'Where is...?'", "is_correct": false},
+        {"answer": "'What time is...?'", "is_correct": false},
+        {"answer": "'May I have...?'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When a Japanese proposes a place to go to, s/he may say:",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Place) wa doo desu ka? (How about (place)?)", "is_correct": true},
+        {"answer": "(Place) ni ikimasu.", "is_correct": false},
+        {"answer": "(Place) o kudasai.", "is_correct": false},
+        {"answer": "(Place) desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "If you can go out the next day, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Ee), ii desu yo. (Fine.)", "is_correct": true},
+        {"answer": "Ashita mo chotto...", "is_correct": false},
+        {"answer": "Kyoo wa chotto...", "is_correct": false},
+        {"answer": "Zannen desu ga...", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If you can't go the next day either, what expression can you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ashita mo chotto... (Tomorrow is also not so good for me.)", "is_correct": true},
+        {"answer": "Ee, ii desu yo.", "is_correct": false},
+        {"answer": "Sore wa ii desu ne.", "is_correct": false},
+        {"answer": "Soo shimashoo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "If the Japanese gives up inviting you for now, s/he may say:",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Jaa, mata sono uchi ni. (Well, then, sometime in the near future.)", "is_correct": true},
+        {"answer": "Jaa, sayoonara desu.", "is_correct": false},
+        {"answer": "Jaa, dame desu ne.", "is_correct": false},
+        {"answer": "Jaa, ii desu yo.", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. How to ask someone to go out to dinner or for drinks\n\nJapanese, especially men, often go out for a few drinks after work. It may happen that a Japanese colleague of yours will ask you to go out together after work. In that case, the person may say the following:\n\nKonban nomi ni ikimasen ka?    Shall we go out for a drink/dinner tonight?\n\nIf you feel like doing so, you can say:\nSore wa ii desu ne.    That would be great.\n\nIf you don't feel like going, you can say:\nKyoo wa chotto...    Today is (not so good for me.)\n\nThe Japanese may then propose a different day by saying:\nJaa, ashita wa doo desu ka?    How about tomorrow, then?\n\nThe expression ...wa doo desu ka? is comparable to 'How about ...?' in English. Thus, when a Japanese proposes a place to go to, s/he may say:\n(Place) wa doo desu ka?    How about (place)?\n\nIf you can go out the next day, you can say:\n(Ee), ii desu yo.    Fine.\n\nIf you can't, then use the following expression:\nAshita mo chotto...    Tomorrow is also (not so good for me.)\n\nThe Japanese may propose another day or s/he may give up inviting you, by saying:\nJaa, mata sono uchi ni.    Well, then, sometime in the near future."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

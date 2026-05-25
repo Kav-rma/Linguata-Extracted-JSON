@@ -1,0 +1,134 @@
+{
+  "title": "unit30_response_drill_e",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "おとといは寒かったですか。 (Ototoi wa samukatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, samukatta desu. (negative: Iie, samuku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "あそこの夏は蒸し暑かったですか。 (Asoko no natsu wa mushiatsukatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, mushiatsukatta desu. (negative: Iie, mushiatsuku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "映画は面白かったですか。 (Eega wa omoshirokatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, omoshirokatta desu. (negative: Iie, omoshiroku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "お刺身はおいしかったですか。 (Osashimi wa oishikatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, oishikatta desu. (negative: Iie, oishiku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "駅は遠かったですか。 (Eki wa tookatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, tookatta desu. (negative: Iie, tooku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "本は安かったですか。 (Hon wa yasukatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, yasukatta desu. (negative: Iie, yasuku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "スーツケースは重かったですか。 (Suutsukeesu wa omokatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, omokatta desu. (negative: Iie, omoku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "あそこの夏は涼しかったですか。 (Asoko no natsu wa suzushikatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, suzushikatta desu. (negative: Iie, suzushiku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "あの料理は辛かったですか。 (Ano ryoori wa karakatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, karakatta desu. (negative: Iie, karaku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "あそこの冬は暖かかったですか。 (Asoko no fuyu wa atatakakatta desu ka?)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hai, atatakakatta desu. (negative: Iie, atatakaku arimasen deshita.)",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

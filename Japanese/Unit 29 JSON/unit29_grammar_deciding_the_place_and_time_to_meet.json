@@ -1,0 +1,151 @@
+{
+  "title": "unit29_grammar_deciding_the_place_and_time_to_meet",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you want to propose a place or time and find out if it is convenient, which expression do you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Time/Place) wa doo desu ka? (How about (time/place)?)", "is_correct": true},
+        {"answer": "(Time/Place) ni shimasu.", "is_correct": false},
+        {"answer": "(Time/Place) o yonde kudasai.", "is_correct": false},
+        {"answer": "(Time/Place) desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "To propose meeting in front of Mitsukoshi at 3:00, which is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mitsukoshi no mae 3-ji wa doo desu ka? (or 3-ji Mitsukoshi no mae wa doo desu ka?)", "is_correct": true},
+        {"answer": "Mitsukoshi no mae 3-ji o doo desu ka?", "is_correct": false},
+        {"answer": "Mitsukoshi no mae 3-ji ni shimasu ka?", "is_correct": false},
+        {"answer": "Mitsukoshi no mae 3-ji desu ne?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which expressions propose a time and a place to meet using 'aimashoo ka'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Time) ni aimashoo ka? / (Place) de aimashoo ka?", "is_correct": true},
+        {"answer": "(Time) de aimashoo ka? / (Place) ni aimashoo ka?", "is_correct": false},
+        {"answer": "(Time) o aimashoo ka? / (Place) o aimashoo ka?", "is_correct": false},
+        {"answer": "(Time) wa aimasu ka? / (Place) wa aimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which particle is used after a time expression, and which after a place expression (with aimashoo)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "ni after the time expression, de after the place expression", "is_correct": true},
+        {"answer": "de after the time expression, ni after the place expression", "is_correct": false},
+        {"answer": "o after both", "is_correct": false},
+        {"answer": "wa after both", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you ask 'What time shall we meet?' and 'Where shall we meet?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Nan-ji ni aimashoo ka? / Doko de aimashoo ka?", "is_correct": true},
+        {"answer": "Nan-ji de aimashoo ka? / Doko ni aimashoo ka?", "is_correct": false},
+        {"answer": "Itsu aimasu ka? / Doko desu ka?", "is_correct": false},
+        {"answer": "Nan-ji desu ka? / Doko o aimashoo ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which time expressions do NOT require 'ni' after them?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "ashita/asu (tomorrow), asatte (the day after tomorrow)", "is_correct": true},
+        {"answer": "san-ji (three o'clock), yo-ji (four o'clock)", "is_correct": false},
+        {"answer": "gozen (a.m.), gogo (p.m.)", "is_correct": false},
+        {"answer": "hiru (noon), yoru (night)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What are 'bia gaaden,' 'sunakku,' 'baa,' and 'yakitori-ya'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Favorite places the Japanese go for drinks (beer garden, snack bar, bar, chicken-barbecue place)", "is_correct": true},
+        {"answer": "Types of train tickets", "is_correct": false},
+        {"answer": "Types of cuisine", "is_correct": false},
+        {"answer": "Names of theaters", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "If a Japanese person suggests a bar ('Baa wa doo desu ka') but you want to go elsewhere, how can you reply by proposing another place?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Soo desu ne... (place you want to go) wa doo desu ka?", "is_correct": true},
+        {"answer": "Baa ni shimasu.", "is_correct": false},
+        {"answer": "Iie, kekkoo desu.", "is_correct": false},
+        {"answer": "Baa wa dame desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When Japanese ask you to go out to dinner this evening, what may they say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Konban) shokuji ni ikimasen ka? (Shall we go out for a meal this evening?)", "is_correct": true},
+        {"answer": "(Konban) shokuji o tabemasu ka?", "is_correct": false},
+        {"answer": "(Konban) shokuji desu ka?", "is_correct": false},
+        {"answer": "(Konban) shokuji wa doko desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Which words refer to types of cuisine?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Nihon-ryoori/washoku, Chuugoku-ryoori, Furansu-ryoori, Itaria-ryoori", "is_correct": true},
+        {"answer": "bia gaaden, sunakku, baa, yakitori-ya", "is_correct": false},
+        {"answer": "ashita, asu, asatte, konban", "is_correct": false},
+        {"answer": "hiru no bu, yoru no bu, shitee-seki, kippu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Which two words both mean 'Japanese cuisine'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Nihon-ryoori and washoku", "is_correct": true},
+        {"answer": "Chuugoku-ryoori and washoku", "is_correct": false},
+        {"answer": "Furansu-ryoori and Itaria-ryoori", "is_correct": false},
+        {"answer": "Nihon-ryoori and Chuugoku-ryoori", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. Deciding the place and time to meet\n\nIt may sometimes be necessary to discuss the place and time to meet to go see a play, sumo, etc. When you want to propose a place and time and find out if the proposed place and time are convenient for the other person, you can use the following expressions:\n\n(Time) wa doo desu ka?     How about (time)?\n(Place) wa doo desu ka?    How about (place)?\n\nFor example, if you want to propose meeting in front of Mitsukoshi at 3:00, you can say:\nMitsukoshi no mae 3-ji wa doo desu ka?\nOR\n3-ji Mitsukoshi no mae wa doo desu ka?    How about in front of Mitsukoshi at three?\n\nAnother way to propose a time and place to meet is to use one of the following expressions:\ntime:  (Time) ni aimashoo ka?     Shall we meet at (time)?\nplace: (Place) de aimashoo ka?    Shall we meet at (place)?\nplace & time: (Place) de (time) ni aimashoo ka? OR (Time) ni (place) de aimashoo ka?\n\nFor example, when you want to propose meeting in front of Mitsukoshi at 3:00 on the 4th, you can say:\nYokka 3-ji ni Mitsukoshi no mae de aimashoo ka? OR Mitsukoshi no mae de yokka 3-ji ni aimashoo ka?    Shall we meet in front of Mitsukoshi at 3:00 on the 4th?\n\nIt should be noted that the particle ni is used after the time expression while de is used after the place expression.\n\nWhen you want to ask a person about a convenient time and place, you can ask the following questions:\nNan-ji ni aimashoo ka?    What time shall we meet?\nDoko de aimashoo ka?      Where shall we meet?\n\nThe following are some time expressions that don't require ni after them:\nashita OR asu    tomorrow\nasatte           the day after tomorrow\nAshita aimashoo ka?    Shall we meet tomorrow?\n\nListed below are some of the favorite places the Japanese go for drinks:\nbia gaaden    beer garden\nsunakku       snack bar\nbaa           bar\nyakitori-ya   chicken-barbecue place\n\nWhen a Japanese suggests a bar, for example, by saying Baa wa doo desu ka but you want to go some other place, you can reply by proposing the place you want to go, as in the following:\nSoo desu ne... (place you want to go) wa doo desu ka?    Well... How about (place)?\n\nWhen Japanese ask you to go out to dinner with them, they may say the following:\n(Konban) shokuji ni ikimasen ka?    Shall we go out for a meal this evening?\n\nYou may want to discuss the kind of cuisine you are going to have. The following are some words for different types of cuisines:\nNihon-ryoori OR washoku    Japanese cuisine\nChuugoku-ryoori            Chinese cuisine\nFuransu-ryoori             French cuisine\nItaria-ryoori              Italian cuisine"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

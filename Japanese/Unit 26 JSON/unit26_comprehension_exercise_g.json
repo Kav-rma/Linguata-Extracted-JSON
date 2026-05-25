@@ -1,0 +1,87 @@
+{
+  "title": "unit26_comprehension_exercise_g",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You answer the phone. The caller says: 'もしもし。クラークさんですか。 (Moshi moshi. Kuraaku-san desu ka?)' Which statement best describes the caller?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The caller says that s/he is Clark.",
+          "is_correct": false
+        },
+        {
+          "answer": "The caller wishes to talk to Clark.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The caller says: 'じゃあ、また後でお電話します。 (Jaa, mata ato de odenwa shimasu.)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "S/he will call again later.",
+          "is_correct": true
+        },
+        {
+          "answer": "S/he wants you to call him/her later.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The caller says: 'もう一度おっしゃって下さいませんか。 (Moo ichido osshatte kudasaimasen ka?)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The caller asked you to repeat what you said.",
+          "is_correct": true
+        },
+        {
+          "answer": "The caller told you that s/he will call again.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The caller says: '恐れ入りますが、どちら様ですか。 (Osoreirimasu ga, dochira-sama desu ka?)' Which statement is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The caller wants to know your name.",
+          "is_correct": true
+        },
+        {
+          "answer": "The caller is going to tell you his/her name.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "G. Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: You answer the phone. The caller is your instructor. Choose the statement which best describes the subsequent conversation."
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "unit30_grammar_when_you_visit_a_japanese_home",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When a Japanese visits someone's home, what does the person usually bring?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "A little gift such as candy or cookies", "is_correct": true},
+        {"answer": "Nothing at all", "is_correct": false},
+        {"answer": "A bottle of wine only", "is_correct": false},
+        {"answer": "A business card", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When are such gifts usually given?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Right after exchanging greetings", "is_correct": true},
+        {"answer": "When leaving the house", "is_correct": false},
+        {"answer": "Before entering the house", "is_correct": false},
+        {"answer": "During the meal", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does a Japanese probably say when greeting you at the genkan (entrance hall)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Irasshai (welcome)", "is_correct": true},
+        {"answer": "Sayoonara", "is_correct": false},
+        {"answer": "Itadakimasu", "is_correct": false},
+        {"answer": "Gochisoosama", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does 'genkan' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "entrance hall", "is_correct": true},
+        {"answer": "living room", "is_correct": false},
+        {"answer": "kitchen", "is_correct": false},
+        {"answer": "garden", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When you want to give the gift you have brought, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kore o doozo. (This is for you.)", "is_correct": true},
+        {"answer": "Itadakimasu.", "is_correct": false},
+        {"answer": "Doo itashimashite.", "is_correct": false},
+        {"answer": "Osaki ni doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When a Japanese leads you to the living room, what will the person probably say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Doozo) kochira e. / Kochira e doozo. (This way, please.)", "is_correct": true},
+        {"answer": "Mada yoroshii deshoo?", "is_correct": false},
+        {"answer": "Mata kite kudasai.", "is_correct": false},
+        {"answer": "Sorosoro shitsuree shimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does the literal meaning of 'Kore o doozo' convey?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'[take] this please' — i.e., 'This is for you'", "is_correct": true},
+        {"answer": "'Please come again'", "is_correct": false},
+        {"answer": "'This way, please'", "is_correct": false},
+        {"answer": "'Thank you for the meal'", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. When you visit a Japanese home\n\nWhen a Japanese visits someone's home, the person usually brings a little gift with them such as candy, cookies, etc. Although Japanese may not expect a foreigner to do the same, it is often a good idea to follow suit. Such gifts are usually given right after exchanging greetings.\n\nWhen a Japanese greets you at the genkan 'entrance hall,' the person will probably say Irasshai 'welcome' first. Other greeting expressions used in this situation are exactly the same as those you would use elsewhere, e.g., konnichiwa, atsui desu ne, etc. When you meet your friend's family members for the first time, you have to, of course, introduce yourself. When you want to give the gift you have brought with you, you can say Kore o doozo 'This is for you' (lit., '[take] this please.'). When a Japanese leads you to the living room, the person will probably say something like the following:\n\n(Doozo) kochira e.\nOR\nKochira e doozo.    This way, please."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

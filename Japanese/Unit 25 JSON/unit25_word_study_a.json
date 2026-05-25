@@ -1,0 +1,42 @@
+{
+  "title": "unit25_word_study_a",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "しゃちょう (shachoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "president (lit., 'company head')", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "ぶちょう (buchoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "department head", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "かちょう (kachoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "division head", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "かかりちょう (kakarichoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "section chief", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

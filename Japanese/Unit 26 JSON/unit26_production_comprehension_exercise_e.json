@@ -1,0 +1,91 @@
+{
+  "title": "unit26_production_comprehension_exercise_e",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You asked: 'Eego ga wakaru hito wa imasu ka?' (Is there someone who understands English?) The instructor said: 'あいにくですが、今はちょっと… (Ainiku desu ga, ima wa chotto...)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, there isn't.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, please wait a moment.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You asked: 'Eego ga wakaru hito wa imasu ka?' The instructor said: 'はい、ちょっとお待ちください。 (Hai, chotto omachi kudasai.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, there isn't.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, please wait a moment.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You asked: 'Eego ga wakaru hito wa imasu ka?' The instructor said: '今ちょっと… (Ima chotto...)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, there isn't.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, please wait a moment.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You asked: 'Eego ga wakaru hito wa imasu ka?' The instructor said: 'そうですね。じゃあ、ちょっとお待ちください。 (Soo desu ne. Jaa, chotto omachi kudasai.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, there isn't.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, there is.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "E. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student asks if there's someone who speaks English. The instructor responds by reading from the script. The student checks the appropriate response."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Eego ga wakaru hito wa imasu ka? Instructor: Ee, chotto omachi kudasai. Student: (checks the correct response)"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

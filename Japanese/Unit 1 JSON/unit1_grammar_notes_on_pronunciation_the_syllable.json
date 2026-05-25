@@ -1,0 +1,263 @@
+{
+  "title": "unit1_grammar_notes_on_pronunciation_the_syllable",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What do native speakers of Japanese perceive as the basic units of pronunciation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Syllables",
+          "is_correct": true
+        },
+        {
+          "answer": "Individual consonants and vowels",
+          "is_correct": false
+        },
+        {
+          "answer": "Whole words",
+          "is_correct": false
+        },
+        {
+          "answer": "Whole sentences",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What do English speakers usually consider the basic units of pronunciation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Consonants and vowels",
+          "is_correct": true
+        },
+        {
+          "answer": "Syllables",
+          "is_correct": false
+        },
+        {
+          "answer": "Sentences",
+          "is_correct": false
+        },
+        {
+          "answer": "Paragraphs",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is true of the stress and time each Japanese syllable receives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They receive approximately equal stress and time, no matter how many consonants or vowels they contain",
+          "is_correct": true
+        },
+        {
+          "answer": "Longer syllables always receive more stress",
+          "is_correct": false
+        },
+        {
+          "answer": "The first syllable always receives the most stress",
+          "is_correct": false
+        },
+        {
+          "answer": "Stress is completely random",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the simplest type of Japanese syllable, and what is the most common type composed of?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Simplest = a single vowel; most common = a consonant plus a vowel",
+          "is_correct": true
+        },
+        {
+          "answer": "Simplest = a consonant cluster; most common = three vowels",
+          "is_correct": false
+        },
+        {
+          "answer": "Simplest = two consonants; most common = a single consonant",
+          "is_correct": false
+        },
+        {
+          "answer": "Simplest = a long vowel; most common = two consonants",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In the syllable charts, in what order do the three symbols in each heavy-outlined box appear?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Romaji (romanization), then katakana, then hiragana",
+          "is_correct": true
+        },
+        {
+          "answer": "Hiragana, then katakana, then romaji",
+          "is_correct": false
+        },
+        {
+          "answer": "Katakana, then romaji, then kanji",
+          "is_correct": false
+        },
+        {
+          "answer": "Kanji, then hiragana, then romaji",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How should vowel combinations (like ai, ie, ue) and long vowels (like aa, ii, uu, ee, oo) be considered?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "As two syllables",
+          "is_correct": true
+        },
+        {
+          "answer": "As one syllable",
+          "is_correct": false
+        },
+        {
+          "answer": "As three syllables",
+          "is_correct": false
+        },
+        {
+          "answer": "As no syllable at all",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "When two identical consonants occur one after another, how is the first consonant treated?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "As a full syllable by itself (similar to the double consonant kk in 'bookkeeper')",
+          "is_correct": true
+        },
+        {
+          "answer": "As silent and ignored",
+          "is_correct": false
+        },
+        {
+          "answer": "As part of the previous vowel",
+          "is_correct": false
+        },
+        {
+          "answer": "As two separate syllables",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How is the word 'ikka' (family) pronounced in terms of syllables?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "i-(tense pause)-ka — three syllables",
+          "is_correct": true
+        },
+        {
+          "answer": "ika — two syllables",
+          "is_correct": false
+        },
+        {
+          "answer": "ikka — one syllable",
+          "is_correct": false
+        },
+        {
+          "answer": "i-k-k-a — four syllables",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Can the sound 'n' be a full syllable by itself?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, n can be a full syllable by itself",
+          "is_correct": true
+        },
+        {
+          "answer": "No, n is always silent",
+          "is_correct": false
+        },
+        {
+          "answer": "Only at the start of a word",
+          "is_correct": false
+        },
+        {
+          "answer": "Only when doubled",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The double consonant in 'itten' (one point) is pronounced like which English example?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "tt in 'hot tea'",
+          "is_correct": true
+        },
+        {
+          "answer": "tch in 'hot chocolate'",
+          "is_correct": false
+        },
+        {
+          "answer": "ss in 'kiss'",
+          "is_correct": false
+        },
+        {
+          "answer": "pp in 'apple'",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. The Syllable\n\nEnglish speakers usually consider consonants and vowels as the basic units of pronunciation. Native speakers of Japanese, however, perceive syllables as the basic units of pronunciation.\n\nJapanese syllables receive approximately equal stress and time no matter how many or how few consonants or vowels they contain. The simplest syllable consists of a single vowel and the most common type is composed of a consonant and a vowel.\n\nYou may find the following charts of Japanese syllables convenient. Note that the charts are read across, from left to right. The first symbol in each of the boxes outlined in heavy ink is romanization or romaji, the second is katakana, and the third is hiragana. (See the three charts: BASIC SYLLABLES; VOICED/VOICELESS COUNTERPARTS OF BASIC SYLLABLES; PALATALIZED COUNTERPARTS OF BASIC SYLLABLES.)\n\nAs mentioned above, a single vowel can be a syllable by itself. Vowel combinations like ai, ie, ue and long vowels like aa, ii, uu, ee, and oo should be considered as two syllables.\n\nNot all syllables end in a vowel. The sound n can be a full syllable by itself. Similarly, when two identical consonants occur one after another, the first consonant is considered a full syllable. This is somewhat similar to the double consonant kk in bookkeeper in English.\n\nYou don't hear the sound of the first k in the word. It is like a momentary pause or silence with a tensing of the throat. In Japanese, this silence has the time duration of one syllable and is treated as such. For example, the word ikka 'family' is pronounced as i-(tense pause)-ka (three syllables). Other examples of double consonants follow:\ntt: pronounced like tt in hot tea — itten 'one point'\ntch: pronounced like tch in hot chocolate — matchi 'match'\nss: pronounced like ss in Jack's son, not like ss in kiss — issei 'first generation'\nssh: pronounced like ssh in Miss Shepherd — isshoo 'one's life'\npp: pronounced like pp in top position — ippai 'full'"
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": [
+      "unit1_grammar_notes_on_pronunciation_the_syllable_1.png",
+      "unit1_grammar_notes_on_pronunciation_the_syllable_2.png",
+      "unit1_grammar_notes_on_pronunciation_the_syllable_3.png"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "title": "unit27_grammar_what_to_do_when_you_are_involved_in_a_car_accident",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you are involved in a car accident, what should you do first?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ask anyone around for help", "is_correct": true},
+        {"answer": "Drive away immediately", "is_correct": false},
+        {"answer": "Wait silently for the police", "is_correct": false},
+        {"answer": "Call your office in the U.S.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say that there has been a car accident?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kuruma no jiko desu. (There has been a car accident.)", "is_correct": true},
+        {"answer": "Keganin ga imasu.", "is_correct": false},
+        {"answer": "Keesatsu o yonde kudasai.", "is_correct": false},
+        {"answer": "Daijoobu desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you say that there are injured persons?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Keganin ga imasu. (There are injured persons.)", "is_correct": true},
+        {"answer": "Kuruma no jiko desu.", "is_correct": false},
+        {"answer": "Isha o yonde kudasai.", "is_correct": false},
+        {"answer": "Netsu ga arimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which words mean 'ambulance,' 'police,' and 'doctor' respectively?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "kyuukyuusha / keesatsu / isha", "is_correct": true},
+        {"answer": "keesatsu / isha / kyuukyuusha", "is_correct": false},
+        {"answer": "isha / kyuukyuusha / keesatsu", "is_correct": false},
+        {"answer": "kyuukyuusha / isha / keesatsu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you ask someone to call an ambulance, the police, or a doctor?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kyuukyuusha/keesatsu/isha o yonde kudasai.", "is_correct": true},
+        {"answer": "Kyuukyuusha/keesatsu/isha desu ka?", "is_correct": false},
+        {"answer": "Kyuukyuusha/keesatsu/isha ni narimasu.", "is_correct": false},
+        {"answer": "Kyuukyuusha/keesatsu/isha imasen.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is a good idea to always carry with you in case of an emergency?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "A card with the phone numbers of the U.S. Embassy and other places you might wish to call", "is_correct": true},
+        {"answer": "A spare car key", "is_correct": false},
+        {"answer": "A Japanese-English dictionary only", "is_correct": false},
+        {"answer": "Extra 10-yen coins", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How do you ask someone to telephone a number you have written down? ('Please telephone this place.')",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Koko ni denwa shite kudasai.", "is_correct": true},
+        {"answer": "Koko o yonde kudasai.", "is_correct": false},
+        {"answer": "Koko desu ka?", "is_correct": false},
+        {"answer": "Koko ni ikimashoo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What particle is used after the name of the place you want to contact (when making a phone call)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "ni", "is_correct": true},
+        {"answer": "o", "is_correct": false},
+        {"answer": "wa", "is_correct": false},
+        {"answer": "ga", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How do you say 'I want to make a call'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Denwa shitain desu.", "is_correct": true},
+        {"answer": "Denwa o yonde kudasai.", "is_correct": false},
+        {"answer": "Denwa desu ka?", "is_correct": false},
+        {"answer": "Denwa ga imasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What numbers do you dial to call the police and the fire department/ambulance in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Police: 110, fire/ambulance: 119", "is_correct": true},
+        {"answer": "Police: 119, fire/ambulance: 110", "is_correct": false},
+        {"answer": "Police: 911, fire/ambulance: 112", "is_correct": false},
+        {"answer": "Police: 100, fire/ambulance: 109", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Why will it be far easier to handle the situation if you can find a Japanese person to help you?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Because the police or fire department will ask you about the details of the accident", "is_correct": true},
+        {"answer": "Because foreigners are not allowed to call 110 or 119", "is_correct": false},
+        {"answer": "Because the embassy will not answer", "is_correct": false},
+        {"answer": "Because emergency calls cost money", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "When you need to talk with the police, what should you show them first?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Your meeshi (calling card), which gives them much of the information they need", "is_correct": true},
+        {"answer": "Your passport photo", "is_correct": false},
+        {"answer": "Your driver's test results", "is_correct": false},
+        {"answer": "Your phone bill", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. What to do when you are involved in a car accident\n\nWhen you are involved in a car accident, ask anyone around for help. When you want to say that there has been a car accident, you can say the following:\n\nKuruma no jiko desu.    There has been (literally, 'it is') a car accident.\n\nIf there are any injured persons, say:\n\nKeganin ga imasu.    There are injured persons.\n\nIf you want to ask someone to call an ambulance, the police, and/or a doctor, you can use the following words and expressions:\n\nkyuukyuusha    ambulance\nkeesatsu       police\nisha           doctor\n\nKyuukyuusha/keesatsu/isha o yonde kudasai.    Please call an ambulance/the police/a doctor.\n\nIt is a good idea always to carry with you a card with the telephone numbers of the U.S. Embassy and other places you might wish to call in an emergency. Your meeshi can also be quite useful. If you wish to have someone make a call to a number you have written down, you can say:\n\nKoko ni denwa shite kudasai.    Please telephone this place.\n\nDenwa means 'telephone' and the phrase denwa site (kudasai) means 'please phone.' The particle ni is used after the name of the place you want to contact. When you want to make a phone call, you can say:\n\nDenwa shitain desu.    I want to make a call.\n\nLikewise, if you want to call the American Embassy, you can say:\n\nAmerika Taishikan ni denwa shitain desu.\n\nYou should contact your office immediately if you are involved in an accident so that they can send help or give you suggestions as to what to do.\n\nWhen you need to talk with the police, show them your meeshi first. It will give them much of the information they need.\n\nWhen you call the police or an ambulance yourself, dial the following numbers:\n\npolice            110\nfire/ambulance    119\n\nHowever, since the police or fire department will ask you about the details of the accident, it will be far easier to handle the situation if you can find a Japanese person to help you."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "unit29_grammar_buying_tickets",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where are tickets for major plays, sports, movies, etc. usually available?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "At puree gaido (play guides), located in department stores and other major shopping areas", "is_correct": true},
+        {"answer": "Only at the venue's box office", "is_correct": false},
+        {"answer": "At train stations only", "is_correct": false},
+        {"answer": "At the American Embassy", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How are expressions for buying entertainment tickets different from buying train tickets?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "They are similar, except that you have to specify the date", "is_correct": true},
+        {"answer": "They are completely different", "is_correct": false},
+        {"answer": "You must specify the seat number only", "is_correct": false},
+        {"answer": "You do not need to specify anything", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How do you ask for 'Three tickets for (the performance) on the 15th'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "15-nichi no kippu 3-mai onegai shimasu.", "is_correct": true},
+        {"answer": "15-nichi no kippu 3-ji onegai shimasu.", "is_correct": false},
+        {"answer": "3-nichi no kippu 15-mai onegai shimasu.", "is_correct": false},
+        {"answer": "15-nichi no kippu o mi ni ikimasen ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In the case of plays, what are the two performances per day called?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "hiru no bu (afternoon performance) and yoru no bu (evening performance)", "is_correct": true},
+        {"answer": "gozen no bu and gogo no bu", "is_correct": false},
+        {"answer": "asa no bu and ban no bu", "is_correct": false},
+        {"answer": "shitee-seki and jiyuu-seki", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How do you ask 'Do you have tickets available for the afternoon performance on the 10th?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Tooka no hiru no bu no kippu wa arimasu ka?", "is_correct": true},
+        {"answer": "Tooka no yoru no bu no kippu wa arimasu ka?", "is_correct": false},
+        {"answer": "Tooka no hiru no bu no kippu 3-mai onegai shimasu.", "is_correct": false},
+        {"answer": "Tooka no hiru no bu ni shimashoo ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why must you specify which performance when buying a ticket for a play?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Because there are two performances per day (afternoon and evening)", "is_correct": true},
+        {"answer": "Because tickets are sold only at department stores", "is_correct": false},
+        {"answer": "Because plays have no reserved seats", "is_correct": false},
+        {"answer": "Because the date is not printed on the ticket", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Buying tickets\n\nTickets for major plays, sports, movies, etc. are usually available at puree gaido (play guides), which are located in department stores and other major shopping areas.\n\nThe expressions used in buying tickets for entertainment are similar to those used when buying train tickets except that you have to specify the date. Look at the following example:\n\n15-nichi no kippu 3-mai onegai shimasu.    Three tickets for (the performance) on the 15th.\n\nIn some cases, especially in the case of plays, there are two performances per day, the afternoon performance (hiru no bu) and the evening performance (yoru no bu). Therefore, when you buy such a ticket, you will have to specify which performance you want a ticket for. Look at the following example:\n\nTooka no hiru no bu no kippu wa arimasu ka?    Do you have tickets available for the afternoon performance on the 10th?"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

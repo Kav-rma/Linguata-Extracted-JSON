@@ -1,0 +1,28 @@
+{
+  "title": "unit25_reading_kanji",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "料亭 (ryootee)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "(Japanese) restaurant", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "料理 (ryoori)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "cooking, cuisine", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

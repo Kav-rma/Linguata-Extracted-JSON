@@ -1,0 +1,57 @@
+{
+  "title": "unit29_reading_practice_g",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Looking at the sign, what are the business hours (営業時間 eegyoo jikan)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "between 11:30 a.m. and 5:00 a.m.",
+          "is_correct": true
+        },
+        {
+          "answer": "between 5:00 p.m. and 11:30 a.m.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Looking at the sign, what are the demae (出前時間, delivery service) hours?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "between 11:30 a.m. and 10:00 p.m.",
+          "is_correct": true
+        },
+        {
+          "answer": "between 11:30 p.m. and 10:00 a.m.",
+          "is_correct": false
+        },
+        {
+          "answer": "between 10:00 a.m. and 11:30 p.m.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "G. Reading Practice (a): Below is a copy of a sign from the restaurant Tenkatsu. Hint: 午前 = a.m.; 出前 = delivery service. Choose the correct answer to the questions, referring to the image."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": [
+      "unit29_reading_practice_g_1.png"
+    ]
+  }
+}

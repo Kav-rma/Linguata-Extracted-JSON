@@ -1,0 +1,119 @@
+{
+  "title": "unit26_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "おりません (orimasen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "is not (here) (deferential form of imasen)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "おでんわいたします (odenwa itashimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "make a telephone call (very deferential)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "ごろ (goro)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "approximately", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "おもどりになります (omodori ni narimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "return (deferential)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "もの (mono)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "person (humble)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "と (to)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "to, toward", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "かわります (kawarimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "change", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "でんわします (denwa shimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "make a phone call", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "おまたせしました (omatase shimashita)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "I'm sorry to have kept you waiting (deferential)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "おやすみです (oyasumi desu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "rest, take a vacation (polite)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "あした (ashita)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "tomorrow", "is_correct": true}]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "くる (kuru)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "come (dictionary form of kimasu)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "…とおもいます (...to omoimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "think that...", "is_correct": true}]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "なにか (nanika)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "some kind of, something", "is_correct": true}]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "おことづけ (okotozuke)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "message", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

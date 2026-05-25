@@ -1,0 +1,147 @@
+{
+  "title": "unit26_production_exercise_c",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The instructor said: 'ブラウン課長お願いします。… でも、今日はいらしていますね。 (Buraun-kachoo onegai shimasu. ... Demo, kyoo wa irashite imasu ne.)' What is the instructor confirming?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That division head Brown is in today after all",
+          "is_correct": true
+        },
+        {
+          "answer": "That Brown is off today",
+          "is_correct": false
+        },
+        {
+          "answer": "That Brown is on a business trip",
+          "is_correct": false
+        },
+        {
+          "answer": "That Brown has no messages",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The instructor said: 'ホールさんお願いします。外出中ですか。 (Hooru-san onegai shimasu. Gaishutsuchuu desu ka?)' What is the instructor asking?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whether Mr. Hall is out of the office",
+          "is_correct": true
+        },
+        {
+          "answer": "Whether Mr. Hall is on the phone",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether Mr. Hall is in a meeting",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether Mr. Hall has gone home",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The instructor said: 'ホワイトさんいらっしゃいますか。今日はお戻りになりますか。 (Howaito-san irasshaimasu ka? Kyoo wa omodori ni narimasu ka?)' What does the instructor want to know?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whether Mr. White will return today",
+          "is_correct": true
+        },
+        {
+          "answer": "Whether Mr. White is off today",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether Mr. White speaks English",
+          "is_correct": false
+        },
+        {
+          "answer": "Whether Mr. White left a message",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The instructor said: 'テーラー部長いらっしゃいますか。おことづけをお願いしたいんですが、よろしいですか。 (Teeraa-buchoo irasshaimasu ka? Okotozuke o onegai shitai n desu ga, yoroshii desu ka?)' What does the instructor want to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Leave a message for department head Taylor",
+          "is_correct": true
+        },
+        {
+          "answer": "Cancel an appointment with Taylor",
+          "is_correct": false
+        },
+        {
+          "answer": "Ask when Taylor returns",
+          "is_correct": false
+        },
+        {
+          "answer": "Speak to Taylor in English",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The instructor said: 'スペンサーさんいらっしゃいますか。ちょっと急用なんですが… (Supensaa-san irasshaimasu ka? Chotto kyuuyoo na n desu ga...)' What is the instructor indicating?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That there is some urgent business with Mr. Spencer",
+          "is_correct": true
+        },
+        {
+          "answer": "That Mr. Spencer is off today",
+          "is_correct": false
+        },
+        {
+          "answer": "That the caller will call again later",
+          "is_correct": false
+        },
+        {
+          "answer": "That Mr. Spencer is in a meeting",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "C. Production Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The instructor asks whether a person that s/he wants to talk to is in or not. The student answers that s/he is not in now. The instructor asks further questions or makes a request, based on the script below. If the student understands, s/he responds appropriately. If not, s/he says that s/he does not understand Japanese well and will get someone who speaks Japanese."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Instructor: Nakamura-buchoo irasshaimasu ka? Student: Ima orimasen ga... Instructor: Aa, soo desu ka. Itsu goro omodori ni narimasu ka? Student: Sumimasen. Nihongo ga yoku wakarimasen. Nihongo ga wakaru mono to kawarimasu."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

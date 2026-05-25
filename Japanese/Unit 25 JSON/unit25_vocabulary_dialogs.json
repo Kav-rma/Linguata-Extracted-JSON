@@ -1,0 +1,91 @@
+{
+  "title": "unit25_vocabulary_dialogs",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "さしょうか (sashoo-ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "visa section", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "さしょう (sashoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "visa", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "か (ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "section", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "にほんりょこう (Nihon Ryokoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Japan Travel", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "りょこう (ryokoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "travel, trip", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "ないせん (naisen)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "extension (telephone)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "じんじか (jinji-ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "personnel section/department", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "じんじ (jinji)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "personnel (affairs)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "えいぎょうか (eegyoo-ka)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "sales department", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "えいぎょう (eegyoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "sales", "is_correct": true}]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "おつなぎします (otsunagi shimasu)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "I'll connect you (deferential)", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 3,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

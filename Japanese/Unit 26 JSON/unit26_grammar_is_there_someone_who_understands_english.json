@@ -1,0 +1,115 @@
+{
+  "title": "unit26_grammar_is_there_someone_who_understands_english",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What might the person on the line say when the person you want is absent? (key expression 1)",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(X wa) kyoo wa yasunde imasu. (X is absent today.)", "is_correct": true},
+        {"answer": "X-san irasshaimasu ka?", "is_correct": false},
+        {"answer": "X de gozaimasu.", "is_correct": false},
+        {"answer": "Mata odenwa shimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does '(X wa) ima seki o hazushite imasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "X isn't at his/her desk at the moment.", "is_correct": true},
+        {"answer": "X is absent today.", "is_correct": false},
+        {"answer": "X will call you back.", "is_correct": false},
+        {"answer": "X is in a meeting.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "If you have urgent business and can't manage in Japanese, what may you want to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Talk to a person who understands English", "is_correct": true},
+        {"answer": "Hang up immediately", "is_correct": false},
+        {"answer": "Leave a long message in English", "is_correct": false},
+        {"answer": "Call a different company", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the expression for 'Is there someone who understands English?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Eego ga wakaru hito wa imasu/imasen ka?", "is_correct": true},
+        {"answer": "Nihongo ga wakaru mono to kawarimasu.", "is_correct": false},
+        {"answer": "Eego ga wakaru mono wa orimasu ka?", "is_correct": false},
+        {"answer": "Eego o onegai shimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When you are answering a call and have difficulty understanding the caller, how do you say you'll switch with a person who understands Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Nihongo ga wakaru mono to kawarimasu.", "is_correct": true},
+        {"answer": "Eego ga wakaru hito wa imasu ka?", "is_correct": false},
+        {"answer": "Nihongo ga wakaru hito to kawarimasu.", "is_correct": false},
+        {"answer": "Mata odenwa shimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "In 'eego ga wakaru hito' vs 'nihongo ga wakaru mono', why is 'hito' used in the first and 'mono' in the second, although both mean 'person'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It's the in-group/out-group distinction: mono refers to an in-group person, hito to an out-group person", "is_correct": true},
+        {"answer": "'Hito' is plural and 'mono' is singular", "is_correct": false},
+        {"answer": "'Hito' is humble and 'mono' is respectful", "is_correct": false},
+        {"answer": "They are completely interchangeable", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the politeness level of 'mono' compared to 'hito'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mono is humble while hito is neutral", "is_correct": true},
+        {"answer": "Mono is respectful while hito is humble", "is_correct": false},
+        {"answer": "Both are humble", "is_correct": false},
+        {"answer": "Both are respectful", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does 'Nihongo ga wakaru mono to kawarimasu' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "I'll switch with a person who understands Japanese.", "is_correct": true},
+        {"answer": "Is there someone who understands English?", "is_correct": false},
+        {"answer": "X is absent today.", "is_correct": false},
+        {"answer": "I'll call again.", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. 'Is there someone (there) who understands English?'\n\nYou may wonder what the person on the line will say when the person you want is absent. The following are some key words and expressions you will need to know to understand what you hear:\n\n(X wa) kyoo wa yasunde imasu.    X is absent today.\nOR\n(X wa) ima seki o hazushite imasu.    X isn't at his/her desk at the moment.\n\nAlthough you can say Mata odenwa shimasu 'I'll call again,' if you have urgent business you may want to talk to a person who understands English.\n\nThe following is the expression to use in such a case:\n\nEego ga wakaru hito wa imasu/imasen ka?    Is there someone who understands English?\n\nLikewise, when you are answering a call and have difficulty understanding what the caller is saying, you may want to say something like 'I'll switch with a person who understands Japanese.' You can use the following expression for this purpose:\n\nNihongo ga wakaru mono to kawarimasu.    I'll switch with a person who understands Japanese.\n\nCompare the expressions eego ga wakaru hito 'person who understands English' and nihongo ga wakaru mono 'person who understands Japanese.' You may have noticed that the word hito is used in the first expression and mono in the second, although both mean 'person.' This is another example of the in-group/out-group distinction. The word mono is used when you refer to an in-group person while hito is used when you refer to an out-group person. Mono is humble while hito is neutral."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

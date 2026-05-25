@@ -1,0 +1,115 @@
+{
+  "title": "unit28_grammar_about_electrical_equipment",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is the electric current (voltage) in Japan?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "100-110, about 9% lower than in the U.S.", "is_correct": true},
+        {"answer": "110-120, the same as in the U.S.", "is_correct": false},
+        {"answer": "220-240, higher than in the U.S.", "is_correct": false},
+        {"answer": "50-60, much lower than in the U.S.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is the electric current (voltage) in the U.S.?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "110-120", "is_correct": true},
+        {"answer": "100-110", "is_correct": false},
+        {"answer": "220-240", "is_correct": false},
+        {"answer": "60-100", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In the western half of Japan (Kyoto, Osaka, Kobe, etc.), how many cycles are used?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "60 cycles, the same as in the U.S.", "is_correct": true},
+        {"answer": "50 cycles", "is_correct": false},
+        {"answer": "100 cycles", "is_correct": false},
+        {"answer": "110 cycles", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How many cycles are normal in the eastern half of Japan, including Tokyo?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "50 cycles", "is_correct": true},
+        {"answer": "60 cycles", "is_correct": false},
+        {"answer": "100 cycles", "is_correct": false},
+        {"answer": "120 cycles", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "If you work in Tokyo and want to use electrical appliances with motors from the U.S., what must you do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Have them adjusted in Japan before using them", "is_correct": true},
+        {"answer": "Use them without any change", "is_correct": false},
+        {"answer": "Only use them in the western half of Japan", "is_correct": false},
+        {"answer": "Replace all their batteries", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Which appliances are often impractical to convert?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Electric clocks", "is_correct": true},
+        {"answer": "Toasters", "is_correct": false},
+        {"answer": "Irons", "is_correct": false},
+        {"answer": "Calculators", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which kind of appliances are not affected by cycle level?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Many appliances such as toasters", "is_correct": true},
+        {"answer": "Electric clocks", "is_correct": false},
+        {"answer": "Appliances with motors", "is_correct": false},
+        {"answer": "Stereos only", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Compared with the U.S., the voltage in Japan is approximately how much lower?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "About 9% lower", "is_correct": true},
+        {"answer": "About 50% lower", "is_correct": false},
+        {"answer": "About 20% lower", "is_correct": false},
+        {"answer": "The same, not lower", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. About electrical Equipment\n\nElectric current (voltage) in Japan is 100-110, which is about 9% lower than in the U.S., which is 110-120. In the western half of Japan (Kyoto, Osaka, Kobe, etc.), the cycles are the same as in the U.S.-- 60 cycles. However, 50 cycles is normal in the eastern half of the country, including Tokyo. Therefore, if you work in Tokyo and want to send or take electrical appliances with motors from the U.S., you will need to have them adjusted in Japan before using them. Electric clocks are often impractical to convert. Many appliances, such as toasters, are not affected by cycle level."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

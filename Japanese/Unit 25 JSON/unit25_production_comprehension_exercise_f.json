@@ -1,0 +1,77 @@
+{
+  "title": "unit25_production_comprehension_exercise_f",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The caller said: 'ブラウンさんお願いします。日本ビールの山田です。 (Buraun-san onegai shimasu. Nihon Biiru no Yamada desu.)' Who is calling and from where?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yamanaka of Nihon Biiru", "is_correct": false},
+        {"answer": "Yamada of Nihon Biiru", "is_correct": true}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The caller said: 'クリーンさんいらっしゃいますか。三井銀行の佐々木と申します。 (Kuriin-san irasshaimasu ka? Mitsui Ginkoo no Sasaki to mooshimasu.)' Who is calling and from where?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sasaki of Mitsubishi Ginko", "is_correct": false},
+        {"answer": "Sasaki of Mitsui Ginko (Mitsui Bank)", "is_correct": true}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The caller said: 'ケリーさんお願いします。外務省の斉藤ですが。 (Keri-san onegai shimasu. Gaimushoo no Saito desu ga.)' Who is calling and from where?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Saito of the Gaimushoo (Ministry of Foreign Affairs)", "is_correct": true},
+        {"answer": "Shimizu of the Tsuusanshoo (Ministry of Trade)", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The caller said: 'テーラーさんお願い致します。日産の高橋と申します。 (Teeraa-san onegai itashimasu. Nissan no Takahashi to mooshimasu.)' Who is calling and from where?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Saito of Toyota", "is_correct": false},
+        {"answer": "Takahashi of Nissan", "is_correct": true}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The caller said: 'ハーパーさんお願いします。読売新聞の小川と申します。 (Haapaa-san onegai shimasu. Yomiuri Shinbun no Ogawa to mooshimasu.)' Who is calling and from where?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Okawa of Asahi Shinbun", "is_correct": false},
+        {"answer": "Ogawa of Yomiuri Shinbun", "is_correct": true}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "F. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The instructor makes a call and asks for a person. The student asks who is calling. The instructor identifies her/himself by giving her/his work place and name. The student asks the instructor to wait. Then the student checks the correct item on the answer sheet below."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Instructor: Howaito-san onegai shimasu. Student: Shitsuree desu ga, donata desu ka? Instructor: Asahi shinbun no Okada desu ga... Student: Shooshoo omachi kudasai. (student checks the correct item)"
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "unit30_reading_review_kanji",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "予約 (yoyaku)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "reservation, booking", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "空車 (kuusha)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "vacant (taxi), 'for hire'", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "非常口 (hijooguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "emergency exit", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "改札口 (kaisatsuguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "ticket gate (wicket)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "横断歩道 (oodan hodoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "pedestrian crossing", "is_correct": true}]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "注意 (chuui)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "caution, attention", "is_correct": true}]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "駐車禁止 (chuusha kinshi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "no parking", "is_correct": true}]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "発売中止 (hatsubai chuushi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "sales suspended (no longer on sale)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "一方通行 (ippoo tsuukoo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "one-way (traffic)", "is_correct": true}]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "六本木方面出口 (Roppongi hoomen deguchi)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "exit for the direction of Roppongi", "is_correct": true}]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

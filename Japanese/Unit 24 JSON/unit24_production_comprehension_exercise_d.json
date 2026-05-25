@@ -1,0 +1,107 @@
+{
+  "title": "unit24_production_comprehension_exercise_d",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You called Yamanaka's residence and asked for Yasuko. The instructor said: '失礼ですが、どなた様ですか。 (Shitsuree desu ga, donata-sama desu ka?)' Which statement describes what happened?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Instructor wants to know who you are.",
+          "is_correct": true
+        },
+        {
+          "answer": "Instructor didn't understand what you said.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You called Takenaka's residence and asked for Mr. Takenaka. The instructor said: '少々お待ち下さいませ。 (Shooshoo omachi kudasaimase.)' Which statement describes what happened?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Instructor wants to know who you are.",
+          "is_correct": false
+        },
+        {
+          "answer": "Instructor asked you to wait.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You called Ueda's residence and asked for Mrs. Ueda. The instructor said: '私でございますか。 (Watakushi de gozaimasu ka?)' Which statement describes what happened?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Instructor didn't understand what you said.",
+          "is_correct": false
+        },
+        {
+          "answer": "Instructor is Ms. Ueda.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You called Okada's residence and asked for Kazuo. The instructor said: 'は? もう一度おっしゃって下さいませんか。 (Ha? Moo ichido osshatte kudasaimasen ka?)' Which statement describes what happened?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You can't talk to Kazuo.",
+          "is_correct": false
+        },
+        {
+          "answer": "Instructor wants you to repeat.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "You called Suzuki's residence and asked for Mr. Suzuki. The instructor said: 'はい、ちょっと待って下さい。 (Hai, chotto matte kudasai.)' Which statement describes what happened?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Suzuki is not available at the moment.",
+          "is_correct": false
+        },
+        {
+          "answer": "The person on the line asked you to wait.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "D. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student calls the instructor and asks for a person whose name is selected from the list below. The instructor answers. The student checks the English statement on the answer sheet that describes what has happened."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Moshi moshi, Yamashita-san no otaku desu ka? Instructor: Hai, soo desu. Student: Goshujin (or Okusan) irasshaimasu ka? Instructor: Shitsuree desu ga, donata desu ka? Student: (checks the correct statement)"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

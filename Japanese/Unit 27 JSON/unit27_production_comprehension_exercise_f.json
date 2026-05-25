@@ -1,0 +1,99 @@
+{
+  "title": "unit27_production_comprehension_exercise_f",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The instructor asks 'どうしましたか。 (Doo shimashita ka?)' Which Japanese response expresses 'You have a pain in your chest'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mune ga itain desu.", "is_correct": true},
+        {"answer": "Atama ga itain desu.", "is_correct": false},
+        {"answer": "Memai ga shimasu.", "is_correct": false},
+        {"answer": "Hakike ga shimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The instructor asks 'どうしましたか。 (Doo shimashita ka?)' Which Japanese response expresses 'You feel dizzy'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Memai ga shimasu.", "is_correct": true},
+        {"answer": "Hakike ga shimasu.", "is_correct": false},
+        {"answer": "Ashi ga itain desu.", "is_correct": false},
+        {"answer": "Kimochi ga warui desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The instructor asks 'どうしましたか。 (Doo shimashita ka?)' Which Japanese response expresses 'You feel nauseous'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Hakike ga shimasu.", "is_correct": true},
+        {"answer": "Memai ga shimasu.", "is_correct": false},
+        {"answer": "Mune ga itain desu.", "is_correct": false},
+        {"answer": "Atama ga itain desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The instructor asks 'どこが痛いんですか。 (Doko ga itain desu ka?)' Which Japanese response expresses 'You have a pain in your foot'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ashi ga itain desu.", "is_correct": true},
+        {"answer": "Mune ga itain desu.", "is_correct": false},
+        {"answer": "Atama ga itain desu.", "is_correct": false},
+        {"answer": "Onaka ga itain desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The instructor asks 'どうなさいましたか。 (Doo nasaimashita ka?)' Which Japanese response expresses 'You feel sick to your stomach'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Kimochi ga warui desu.", "is_correct": true},
+        {"answer": "Memai ga shimasu.", "is_correct": false},
+        {"answer": "Ashi ga itain desu.", "is_correct": false},
+        {"answer": "Mune ga itain desu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The instructor asks 'どうしましたか。 (Doo shimashita ka?)' Which Japanese response expresses 'You have a headache'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Atama ga itain desu.", "is_correct": true},
+        {"answer": "Onaka ga itain desu.", "is_correct": false},
+        {"answer": "Hakike ga shimasu.", "is_correct": false},
+        {"answer": "Memai ga shimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "F. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The instructor asks what is wrong. The student gives a symptom, referring to the list below."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Instructor: Doo shimashita ka? Student: Atama ga itain desu. The instructor uses the following questions as appropriate: どうなさいましたか。(Doo nasaimashita ka?) / どうしましたか。(Doo shimashita ka?) / どこが痛いんですか。(Doko ga itain desu ka?)"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

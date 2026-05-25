@@ -1,0 +1,151 @@
+{
+  "title": "unit26_grammar_how_to_say_name_isnt_in_now",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you are answering a call, what may you need to say about the person the caller wants?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "That the person is not in", "is_correct": true},
+        {"answer": "That you are the president", "is_correct": false},
+        {"answer": "The caller's phone number", "is_correct": false},
+        {"answer": "The office address", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does the answerer respond to 'Howaito-san onegai shimasu' (Mr. White, please) when White isn't in?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Howaito wa ima orimasen ga... (White isn't in now)", "is_correct": true},
+        {"answer": "Howaito-san wa ima orimasen ga...", "is_correct": false},
+        {"answer": "Howaito-san irasshaimasu.", "is_correct": false},
+        {"answer": "Howaito desu ga.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why didn't the answerer use '-san' after the name in the above conversation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Because the person is answering on behalf of the institution, treating White as an in-group member", "is_correct": true},
+        {"answer": "Because White is a foreigner", "is_correct": false},
+        {"answer": "Because '-san' is never used on the phone", "is_correct": false},
+        {"answer": "Because the answerer forgot", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How do you greet a Japanese colleague named Yamamoto in the morning (treating him as an in-group member you respect)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yamamoto-san, ohayoo gozaimasu.", "is_correct": true},
+        {"answer": "Yamamoto wa ohayoo gozaimasu.", "is_correct": false},
+        {"answer": "Yamamoto orimasu ka?", "is_correct": false},
+        {"answer": "Yamamoto irasshaimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When you mention Yamamoto to an out-group member on the phone (acting on behalf of your institution), what do you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yamamoto wa ima orimasen ga... (Yamamoto isn't in now)", "is_correct": true},
+        {"answer": "Yamamoto-san wa ima orimasen ga...", "is_correct": false},
+        {"answer": "Yamamoto-san, ohayoo gozaimasu.", "is_correct": false},
+        {"answer": "Yamamoto-san irasshaimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "From Lesson 24, how do you ask for a person on the phone?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(name)-san irasshaimasu ka? (Is (name) in?)", "is_correct": true},
+        {"answer": "(name) wa orimasu ka?", "is_correct": false},
+        {"answer": "(name) de gozaimasu ka?", "is_correct": false},
+        {"answer": "(name)-san onegai itashimasu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is 'irasshaimasu' in relation to 'imasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The more polite (respectful) form of imasu, showing respect to the person referred to", "is_correct": true},
+        {"answer": "The humble form of imasu", "is_correct": false},
+        {"answer": "The negative form of imasu", "is_correct": false},
+        {"answer": "The past form of imasu", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What is 'orimasu'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The humble form of imasu, used when you refer to an in-group member so your speech sounds polite to the hearer", "is_correct": true},
+        {"answer": "The respectful form of imasu", "is_correct": false},
+        {"answer": "The dictionary form of imasu", "is_correct": false},
+        {"answer": "A word meaning 'to come'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Why did the answerer say 'Orimasen ga' rather than 'Irasshaimasen ga' or 'Imasen ga'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Because the in-group member is referred to humbly to sound polite to the out-group caller", "is_correct": true},
+        {"answer": "Because 'imasen' is grammatically wrong", "is_correct": false},
+        {"answer": "Because the person being referred to deserves respect from the answerer", "is_correct": false},
+        {"answer": "Because 'orimasen' is casual", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How do you ask if an OUT-group person is in, and how do you say an IN-group person isn't in?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "X-san irasshaimasu ka? (out-group, in) / X wa ima orimasen ga... (in-group, not in)", "is_correct": true},
+        {"answer": "X wa orimasu ka? / X-san wa imasen ga...", "is_correct": false},
+        {"answer": "X de gozaimasu ka? / X-san orimasen ga...", "is_correct": false},
+        {"answer": "X-san onegai shimasu / X-san imasen", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Can the neutral word 'imasu' be used in these situations?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Yes, it can be used without being offensive (e.g., X-san wa imasu ka? / X wa ima imasen ga...)", "is_correct": true},
+        {"answer": "No, it is always offensive", "is_correct": false},
+        {"answer": "No, only on the phone", "is_correct": false},
+        {"answer": "Only with out-group members", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. How to say '(name) isn't in now'\n\nWhen you are answering a call, you may need to say that the person the caller wants is not in. Look at the following:\n\nCaller: Howaito-san onegai shimasu.    Mr. White, please.\nAnswerer: Howaito wa ima orimasen ga...    White isn't in now.\n\nAs you may have noticed, the person who answered didn't use -san after the name in the above conversation. This is because the person is answering the phone on behalf of the institution s/he belongs to. (Cf. Lesson 5 for the in-group/out-group distinction.) Thus, when the person mentions an in-group member, s/he is expected to treat the person as s/he would herself/himself (cf. Lesson 5). When you greet a Japanese colleague by the name of Yamamoto in the morning, you will say:\n\nYamamoto-san, ohayoo gozaimasu.    Good morning, Mr. Yamamoto.\n\nHowever, when you mention him to an out-group member on the phone (i.e., when you are acting on behalf of your institution), you will say:\n\nYamamoto wa ima orimasen ga...    Yamamoto isn't in now.\n\nIn Lesson 24, you learned that when you ask for a person on the phone, you can say:\n\n(name)-san irasshaimasu ka?    Is (name) in?\n\nThe word irasshaimasu is the more polite form of imasu. Thus, the above sentence indicates that the speaker is showing respect to the person s/he is referring to. However, when you refer to an in-group member, you use a deferential or humble expression so that your speech sounds polite to the hearer. The word orimasu is the humble form of imasu. This is why the person who answered in the conversation above said Orimasen ga rather than Irasshaimasen ga or Imasen ga.\n\nThe following is a summary of the above:\n\n(when you ask if an out-group person is in)    X-san irasshaimasu ka?    Is Mr. X in?\n(when you say an in-group person isn't in)    X wa ima orimasen ga...    X isn't in now.\n\nAlthough respectful or humble words are more appropriate in the above situations, the neutral word imasu can be used without being offensive, as in the following:\n\nX-san wa imasu ka?    X wa ima imasen ga..."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

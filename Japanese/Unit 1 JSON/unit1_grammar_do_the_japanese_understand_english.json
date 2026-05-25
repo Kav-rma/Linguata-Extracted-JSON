@@ -1,0 +1,91 @@
+{
+  "title": "unit1_grammar_do_the_japanese_understand_english",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "For how long do almost all Japanese study English?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Six years in junior and senior high school, and many for two or more years in college", "is_correct": true},
+        {"answer": "Only one year in college", "is_correct": false},
+        {"answer": "They do not study English at all", "is_correct": false},
+        {"answer": "Twelve years in elementary school", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Although almost all Japanese know some English, what is true of most of them?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Few can use it for conversational purposes", "is_correct": true},
+        {"answer": "All are fluent conversationalists", "is_correct": false},
+        {"answer": "None know any English words", "is_correct": false},
+        {"answer": "They prefer to speak only English", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why are many English loanwords used in Japanese usually unrecognizable to foreigners?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Their pronunciation is Japanized", "is_correct": true},
+        {"answer": "They are spelled backwards", "is_correct": false},
+        {"answer": "They are translated into Chinese", "is_correct": false},
+        {"answer": "They are never written down", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When you need to communicate with a Japanese person in English, what is a recommended strategy?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Pick a student or younger person whose English is fresh, or write down what you want to say", "is_correct": true},
+        {"answer": "Speak as fast as possible", "is_correct": false},
+        {"answer": "Only use slang", "is_correct": false},
+        {"answer": "Avoid speaking to anyone under 60", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why might writing down what you want to say help?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Many Japanese find it easier to understand English when it is written than when it is spoken", "is_correct": true},
+        {"answer": "Japanese cannot hear English at all", "is_correct": false},
+        {"answer": "Writing is faster than speaking", "is_correct": false},
+        {"answer": "It is considered rude to speak English aloud", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is generally true of most Japanese working at the Embassy or consulates?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "They do understand English", "is_correct": true},
+        {"answer": "They speak no English at all", "is_correct": false},
+        {"answer": "They only speak French", "is_correct": false},
+        {"answer": "They refuse to use English", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Do the Japanese understand English?\n\nAlmost all Japanese study English for six years in junior and senior high school, and many for two or more years in college.\n\nTherefore, almost all Japanese know some English. However, few can use it for conversational purposes.\n\nAlthough a large number of English words are currently used in Japanese, as we have seen, the pronunciation of these words is Japanized in such a way that they are usually unrecognizable to foreigners (and the same words usually cannot be understood by Japanese when spoken by a native speaker of English).\n\nTherefore, when you need to communicate with a Japanese person in English, try to pick a student or a younger person whose memory of English is likely to be fresh, or write down what you want to say, for many Japanese find it easier to understand English when it is written than when it is spoken.\n\nGenerally speaking, most Japanese working at the Embassy or consulates do understand English. However, you will find the Japanese you will learn in this course to be very useful and all Japanese will much appreciate the effort you have made to learn their language."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

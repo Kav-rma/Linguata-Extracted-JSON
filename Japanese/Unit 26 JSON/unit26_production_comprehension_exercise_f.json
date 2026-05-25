@@ -1,0 +1,91 @@
+{
+  "title": "unit26_production_comprehension_exercise_f",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "You said: 'Nihongo ga wakaru mono to kawarimasu.' (I'll switch with a person who understands Japanese.) The instructor said: 'いいえ、結構です。またお電話致します。 (Iie, kekkoo desu. Mata odenwa itashimasu.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, that's O.K.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, please.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "You said: 'Nihongo ga wakaru mono to kawarimasu.' The instructor said: 'そうですか。じゃあ、お願いします。 (Soo desu ka. Jaa, onegai shimasu.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, that's O.K.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, please.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "You said: 'Nihongo ga wakaru mono to kawarimasu.' The instructor said: 'いいえ、また電話致しますから結構です。 (Iie, mata denwa itashimasu kara kekkoo desu.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, that's O.K.",
+          "is_correct": true
+        },
+        {
+          "answer": "Yes, please.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You said: 'Nihongo ga wakaru mono to kawarimasu.' The instructor said: 'すみませんね。お願いします。 (Sumimasen ne. Onegai shimasu.)' Which response is correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "No, that's O.K.",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, please.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "F. Production and Comprehension Exercise"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Directions: The student says that s/he will get someone who speaks Japanese. The instructor responds, reading from the script. The student checks the appropriate response."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Example: Student: Nihongo ga wakaru mono to kawarimasu. Instructor: Soo desu ka. Jaa, onegai shimasu. Student: (checks the right response)"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

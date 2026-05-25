@@ -1,0 +1,139 @@
+{
+  "title": "unit1_grammar_greetings",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does 'Ohayoo gozaimasu' correspond to in English, and what is its casual form?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'Good morning'; the casual form is Ohayoo, often used among friends and colleagues", "is_correct": true},
+        {"answer": "'Good evening'; the casual form is Konbanwa", "is_correct": false},
+        {"answer": "'Good-bye'; the casual form is Sayoonara", "is_correct": false},
+        {"answer": "'Good afternoon'; the casual form is Konnichiwa", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "When is 'Konnichiwa' used?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Between late morning and a little before dusk ('Good afternoon' or 'Good day')", "is_correct": true},
+        {"answer": "Only at night", "is_correct": false},
+        {"answer": "Only at sunrise", "is_correct": false},
+        {"answer": "When saying good-bye", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does 'Konbanwa' correspond to?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'Good evening'", "is_correct": true},
+        {"answer": "'Good morning'", "is_correct": false},
+        {"answer": "'Good afternoon'", "is_correct": false},
+        {"answer": "'Good-bye'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How often are these greeting expressions usually used?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Usually only on the first encounter of the day", "is_correct": true},
+        {"answer": "Every time you pass someone, even repeatedly", "is_correct": false},
+        {"answer": "Only once per week", "is_correct": false},
+        {"answer": "Only in writing", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Sayoonara' correspond to, and what does it imply?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'Good-bye'; it implies that the two people will not meet again the same day", "is_correct": true},
+        {"answer": "'Hello'; it implies a first meeting", "is_correct": false},
+        {"answer": "'Good night'; it implies bedtime", "is_correct": false},
+        {"answer": "'Welcome'; it implies arrival", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does 'Ogenki desu ka?' literally mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'Are you healthy?'", "is_correct": true},
+        {"answer": "'What is this?'", "is_correct": false},
+        {"answer": "'Where are you going?'", "is_correct": false},
+        {"answer": "'Do you understand?'", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is a key difference between 'Ogenki desu ka?' and the English 'How are you?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "The Japanese expression is said to a person the speaker has not met for some time, whereas 'How are you?' can be said to the same person every day", "is_correct": true},
+        {"answer": "The Japanese expression can only be used in writing", "is_correct": false},
+        {"answer": "The Japanese expression is never a greeting", "is_correct": false},
+        {"answer": "There is no difference at all", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Unlike English, what kind of responses to 'Ogenki desu ka?' do NOT sound strange in Japanese?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Responses such as 'I feel terrible' or 'I have a headache'", "is_correct": true},
+        {"answer": "Only the response 'Fine, thank you'", "is_correct": false},
+        {"answer": "No responses at all", "is_correct": false},
+        {"answer": "Only one-word answers", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How does 'Ogenki desu ka?' function compared with the English greeting?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It functions as a greeting and, at the same time, as an inquiry about one's health, while the English expression primarily functions as a greeting", "is_correct": true},
+        {"answer": "It functions only as a farewell", "is_correct": false},
+        {"answer": "It functions only as a question about the weather", "is_correct": false},
+        {"answer": "It has no function", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is the response to 'Ohayoo gozaimasu,' 'Konnichiwa,' and 'Sayoonara'?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Exactly the same as in English — you simply repeat the expression", "is_correct": true},
+        {"answer": "Always 'Ogenki desu ka?'", "is_correct": false},
+        {"answer": "Always 'Hai, wakarimasu'", "is_correct": false},
+        {"answer": "You must remain silent", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "4. Greetings\n\nOhayoo gozaimasu corresponds to 'Good morning' in English. Ohayoo is a casual form of the expression and is often used among friends and colleagues. Konnichiwa corresponds to 'Good afternoon' or 'Good day' in English, and is used between late morning and a little before dusk. Konbanwa corresponds to 'Good evening.' The above expressions are usually used only on the first encounter of the day. Sayoonara (or Sayonara) corresponds to 'Good-bye' in English and implies that the two people will not meet again the same day. Strictly speaking, Japanese does not have an expression for 'How are you?,' although it has the expression Ogenki desu ka?, which literally means 'Are you healthy?'\n\nThe difference between the two is that the Japanese expression is said to a person the speaker has not met for some time, whereas in English you can say 'How are you?' to the same person every day. Another difference is that in English it would be a little odd to answer the question 'How are you?' with 'I feel terrible' or 'I have a headache', whereas in Japanese similar responses do not sound strange.\n\nIn other words, Ogenki desu ka? functions as a greeting and, at the same time, as an inquiry about one's health, while the English expression primarily functions as a greeting.\n\nThe response to Ohayoo gozaimasu, Konnichiwa, and Sayoonara is exactly the same as in English, i.e., you simply repeat the expression."
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

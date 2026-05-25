@@ -1,0 +1,79 @@
+{
+  "title": "unit29_grammar_shall_we_go_and_see",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How do you say 'Shall we go out for a drink?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Nomi ni ikimasen ka?", "is_correct": true},
+        {"answer": "Shokuji ni ikimasen ka?", "is_correct": false},
+        {"answer": "Nomi ni shimashoo ka?", "is_correct": false},
+        {"answer": "Nomi wa doo desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say 'Shall we go out for dinner?'",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Shokuji ni ikimasen ka?", "is_correct": true},
+        {"answer": "Nomi ni ikimasen ka?", "is_correct": false},
+        {"answer": "Shokuji ni shimasu ka?", "is_correct": false},
+        {"answer": "Shokuji wa doo desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "When asking someone to go see a play or exhibition, what expression is used (e.g., for a Kabuki play)?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "(Kabuki) o mi ni ikimasen ka? (Shall we go and see a Kabuki play?)", "is_correct": true},
+        {"answer": "(Kabuki) o nomi ni ikimasen ka?", "is_correct": false},
+        {"answer": "(Kabuki) ni shimashoo ka?", "is_correct": false},
+        {"answer": "(Kabuki) wa doo desu ka?", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the expression '...ni ikimasen ka?' convey?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "An invitation: 'Shall we go (do something)?' / 'Won't you go...?'", "is_correct": true},
+        {"answer": "A refusal", "is_correct": false},
+        {"answer": "A request to wait", "is_correct": false},
+        {"answer": "A question about price", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "In '(Kabuki) o mi ni ikimasen ka?', what does 'mi ni ikimasen ka' express?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "'Shall we go and see...?'", "is_correct": true},
+        {"answer": "'Shall we go and drink...?'", "is_correct": false},
+        {"answer": "'Shall we go and eat...?'", "is_correct": false},
+        {"answer": "'Where shall we go?'", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. Shall we go and see...?\n\nIn this lesson we take up the following expressions, which may be used by Japanese when they ask you to go out for a drink or dinner:\n\nNomi ni ikimasen ka?       Shall we go out for a drink?\nShokuji ni ikimasen ka?    Shall we go out for dinner?\n\nWhen a person asks you if you can go out to see a play, exhibition, etc. with them, they may use a similar expression, such as the following:\n\n(Kabuki) o mi ni ikimasen ka?    Shall we go and see a (Kabuki play)?"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "unit30_grammar_when_you_want_to_take_leave",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When you want to take leave, what can you say?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Sorosoro shitsuree shimasu. (Please excuse me, I have to go now.)", "is_correct": true},
+        {"answer": "Irasshai.", "is_correct": false},
+        {"answer": "Kore o doozo.", "is_correct": false},
+        {"answer": "Itadakimasu.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What will the Japanese probably say to ask you to stay longer?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mada yoroshii deshoo? (Can't you stay a little longer?)", "is_correct": true},
+        {"answer": "Mata kite kudasai.", "is_correct": false},
+        {"answer": "Sayoonara.", "is_correct": false},
+        {"answer": "Osaki ni doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Why is it not advisable to respond with 'Iie' (No) when asked to stay longer?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "It sounds too direct and can be offending; you are expected to decline an offer in an indirect manner", "is_correct": true},
+        {"answer": "It is grammatically incorrect", "is_correct": false},
+        {"answer": "It is too formal", "is_correct": false},
+        {"answer": "It means 'yes' in this context", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is a safer expression to use in this situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Ee, demo... (Yes, but...)", "is_correct": true},
+        {"answer": "Iie, dame desu.", "is_correct": false},
+        {"answer": "Hai, kekkoo desu.", "is_correct": false},
+        {"answer": "Tondemo nai.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'Ee, demo...' indicate in this situation?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "That you really want to stay longer but you have to leave (or that you fear you have stayed too long)", "is_correct": true},
+        {"answer": "That you never want to come back", "is_correct": false},
+        {"answer": "That you are angry", "is_correct": false},
+        {"answer": "That you would like more food", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "When you leave the house, the Japanese may ask you to come again by saying:",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Mata kite kudasai. (Please come again.)", "is_correct": true},
+        {"answer": "Irasshai.", "is_correct": false},
+        {"answer": "Mada yoroshii deshoo?", "is_correct": false},
+        {"answer": "Kochira e doozo.", "is_correct": false}
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Before saying sayoonara, what is a good idea to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "Thank the Japanese for the invitation: (Kyoo wa) doomo arigatoo gozaimashita", "is_correct": true},
+        {"answer": "Open the gift you received", "is_correct": false},
+        {"answer": "Ask for another gift", "is_correct": false},
+        {"answer": "Say Itadakimasu", "is_correct": false}
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. When you want to take leave\n\nWhen you want to take leave, you can say Sorosoro shitsuree shimasu 'Please excuse me, (I have to go now).' In most cases, the Japanese will probably ask you to stay longer by saying something like Mada yoroshii deshoo? 'Can't you stay a little longer?' Although it is possible to respond by saying Iie 'No', that expression sounds too direct and can be offending, for you are expected to decline an offer in an indirect manner. Perhaps a safer expression to use in this situation would be something like Ee, demo... 'Yes, but...', which indicates that you really want to stay longer but you have to leave (because you have something to do) or that you are afraid that you have stayed too long or that you have taken too much of your friend's time.\n\nWhen you leave the house, the Japanese may ask you to come again by saying something like Mata kite kudasai 'Please come again.' Before saying sayoonara, it will be a good idea to thank the Japanese for the invitation by saying (Kyoo wa) doomo arigatoo gozaimashita."
+    }
+  ],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}
