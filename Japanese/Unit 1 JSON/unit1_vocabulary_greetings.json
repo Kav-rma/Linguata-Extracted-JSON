@@ -7,12 +7,35 @@
       "question_text": "…san ohayoo gozaimasu. (…さん おはようございます。)",
       "has_answer": true,
       "type": "short_answer",
-      "answers": [
-        {
-          "answer_text": "Good morning, Mr./Ms. …",
-          "is_correct": true
-        }
-      ]
+      "answers": [{"answer_text": "Good morning, Mr./Ms. …", "is_correct": true}]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Ohayoo gozaimasu. (おはようございます。)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Good morning.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Konnichiwa. (こんにちは。)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Good afternoon.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Konbanwa. (こんばんは。)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Good evening.", "is_correct": true}]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Sayoonara. (さようなら。)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [{"answer_text": "Good-bye.", "is_correct": true}]
     }
   ],
   "articles": [],
