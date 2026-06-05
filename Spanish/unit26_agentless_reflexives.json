@@ -1,0 +1,199 @@
+{
+  "title": "unit26_agentless_reflexives",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Spanish is spoken here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Aquí se habla español.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "A chauffeur is needed.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se necesita chofer.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Old newspapers are bought here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Aquí se compran periódicos viejos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "It’s easy to see she’s very good.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se ve que es muy buena.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "They say everything is expensive in that city.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se dice que todo es caro en esa ciudad.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "It is believed that bombers are going to arrive.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se cree que van a llegar aviones de bombardeo.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Nothing is sold there.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Ahí no se vende nada.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Little is written here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Aquí se escribe poco.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "English lessons are given here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Aquí se dan lecciones de inglés.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Gentlemen’s articles are sold here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Aquí se venden artículos para caballeros.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Children’s clothing is sewn here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Aquí se cose ropa de niño.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "You don’t work on Sundays here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Aquí no se trabaja los domingos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "Nothing is drunk there.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Ahí no se toma nada.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "Rooms for rent.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se alquilan cuartos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "Maid needed.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se necesita una muchacha.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Spanish, the reflexive pronoun *se* is used to form impersonal and passive constructions when the agent of the action is not specified. This structure translates English passive or impersonal sentences such as ‘Spanish is spoken here’ and ‘Rooms for rent’."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 25,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using the impersonal ‘se’ construction."
+  }
+}

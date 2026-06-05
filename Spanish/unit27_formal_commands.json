@@ -1,0 +1,187 @@
+{
+  "title": "unit27_formal_commands",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Drink more milk.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Beba más leche.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Write the following.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Escriba lo siguiente.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Take this application.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Tome esta solicitud.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Clean the apartment.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Limpie el apartamento.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Don’t sell the car.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No venda el auto.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Don’t live at that hotel.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No viva en ese hotel.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Take (pl.) these forms.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Tomen estos formularios.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Eat more fruit.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Coma más fruta.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Go to the corner together.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Vayan juntos a la esquina.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Go for a walk.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Vaya a dar una vuelta.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Don’t leave tomorrow.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No salga mañana.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "Rent the apartment.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Alquile el apartamento.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "Check the list.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Revise la lista.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "That he buy the beer.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que compre la cerveza.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "This lesson covers formal commands (usted/ustedes) for regular verbs. The stem vowel changes from -ar to -e (and -er/-ir to -a) and endings -e/-en or -a/-an are added. Negative commands place *no* before the verb."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following commands into Spanish (formal usted/ustedes form)."
+  }
+}

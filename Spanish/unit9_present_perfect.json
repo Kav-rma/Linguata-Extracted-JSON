@@ -1,0 +1,107 @@
+{
+  "title": "unit9_present_perfect",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "I have already eaten it.",
+      "type": "short_answer",
+      "answer": "Yo ya lo he comido.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "I haven't thought about the visa.",
+      "type": "short_answer",
+      "answer": "No he pensado en la visa.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Have you already eaten it?",
+      "type": "short_answer",
+      "answer": "¿Ya lo has comido?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "You haven't been here this week.",
+      "type": "short_answer",
+      "answer": "No has estado aquí esta semana.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Have you lived on that street?",
+      "type": "short_answer",
+      "answer": "¿Ha vivido usted en esa calle?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Have you waited long?",
+      "type": "short_answer",
+      "answer": "¿Ha esperado mucho?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "We haven't decided the date yet.",
+      "type": "short_answer",
+      "answer": "No hemos decidido la fecha todavía.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "We haven't looked for a house.",
+      "type": "short_answer",
+      "answer": "No hemos buscado casa.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Have you all decided the date?",
+      "type": "short_answer",
+      "answer": "¿Han decidido la fecha?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "They haven't straightened up the apartment.",
+      "type": "short_answer",
+      "answer": "No han arreglado el apartamento.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "He has learned a lot here.",
+      "type": "short_answer",
+      "answer": "Él ha aprendido mucho aquí.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The present perfect construction in Spanish is formed with a conjugated form of the irregular verb *haber* plus a past participle ending in *-ado* or *-ido*. \nUnlike in English, the past participle in the perfect construction does not change for number or gender. Examples include: *Yo ya lo he comido* ('I have already eaten it') and *No hemos buscado casa* ('We haven't looked for a house').\nTo form questions, place the conjugated *haber* before the subject if using a pronoun, as in *¿Ya lo has comido?* ('Have you already eaten it?')."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using the present perfect construction."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "unit12_prepositional_pronouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "She's going with me.",
+      "type": "short_answer",
+      "answer": "Ella va conmigo.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "This sandwich is for me.",
+      "type": "short_answer",
+      "answer": "Este sandwich es para mí.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "After them, John eats.",
+      "type": "short_answer",
+      "answer": "Después de ellos, come Juan.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "They live near us.",
+      "type": "short_answer",
+      "answer": "Ellos viven cerca de nosotros.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "He doesn't work with me.",
+      "type": "short_answer",
+      "answer": "Él no trabaja conmigo.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Carmen lives with us.",
+      "type": "short_answer",
+      "answer": "Carmen vive con nosotros.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "John lives with them.",
+      "type": "short_answer",
+      "answer": "Juan vive con ellos.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "The sheets are for us.",
+      "type": "short_answer",
+      "answer": "Las sábanas son para nosotros.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "There are eleven dollars for you and ten for us.",
+      "type": "short_answer",
+      "answer": "Hay once dólares para Ud. y diez para nosotros.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "There are two hundred dollars for me and two hundred for them.",
+      "type": "short_answer",
+      "answer": "Hay doscientos dólares para mí y doscientos para ellos.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "There are nine dollars for him and four for her.",
+      "type": "short_answer",
+      "answer": "Hay nueve dólares para él y cuatro para ella.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Pronouns used after prepositions (prepositional pronouns) correspond mostly to subject pronouns except for *mí* and *ti*, which replace *yo* and *tú* respectively. \nExamples include *conmigo* ('with me'), *contigo* ('with you'), *para nosotros* ('for us'), and *para ellos* ('for them')."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using appropriate pronouns after prepositions."
+  }
+}

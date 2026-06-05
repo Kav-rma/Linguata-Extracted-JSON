@@ -1,0 +1,162 @@
+{
+  "title": "unit22_stem_changing_verbs",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "I can't find the check.",
+      "answer": "No encuentro el cheque.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "No encuentro el cheque.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How much does a taxi cost?",
+      "answer": "¿Cuánto cuesta un taxi?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "¿Cuánto cuesta un taxi?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "By the way, does it rain much here?",
+      "answer": "A propósito, ¿llueve mucho aquí?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "A propósito, ¿llueve mucho aquí?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why don't you try the dessert?",
+      "answer": "¿Por qué no prueba el postre?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "¿Por qué no prueba el postre?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "We can't have lunch now.",
+      "answer": "No podemos almorzar ahora.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "No podemos almorzar ahora.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "She doesn't want to go.",
+      "answer": "Ella no quiere ir.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Ella no quiere ir.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What do you think?",
+      "answer": "¿Qué piensa usted?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "¿Qué piensa usted?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Do you feel cold in the living room?",
+      "answer": "¿Siente frío en la sala?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "¿Siente frío en la sala?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What time do they close the stores?",
+      "answer": "¿A qué hora cierran las tiendas?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "¿A qué hora cierran las tiendas?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "I'm sorry to arrive late.",
+      "answer": "Siento llegar tarde.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Siento llegar tarde.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "He feels very sick.",
+      "answer": "Se siente muy mal.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Se siente muy mal.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Some Spanish verbs change their stem vowel in stressed present‑tense forms: o→ue (poder→puedo), e→ie (querer→quiero), and e→i (seguir→sigo). These changes occur in all singular forms and in the third person plural, but not in the first person plural."
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using the correct stem‑changing verb form."
+  }
+}

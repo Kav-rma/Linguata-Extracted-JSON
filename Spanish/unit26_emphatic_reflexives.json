@@ -1,0 +1,139 @@
+{
+  "title": "unit26_emphatic_reflexives",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The milk? I drank it.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La leche? Me la tomé.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "These shoes? I’ll take them.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Estos zapatos? Me los llevo.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The coffee? We drank it.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El café? Nos lo tomamos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The fruit? We ate it.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La fruta? Nos la comimos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "I ate the whole meal.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Me comí toda la comida.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "He drank two cups of coffee every day.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Él se bebe dos tazas de café todos los días.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "They drank a lot of milk.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Ellos se bebieron mucha leche.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "We ate all the meat.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Nos comimos toda la carne.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "I bought myself a car cheaply.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Me compré un carro barato.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "She ate all the eggs for breakfast.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se comió todos los huevos en el desayuno.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish uses reflexive clitic pronouns with certain verbs to emphasise that the subject consumes or does something completely. Expressions like *comerse* (to eat up) and *beberse* (to drink up) stress that the whole item has been consumed. In these cases, the reflexive pronoun precedes the object pronoun (e.g., *me lo tomé*)."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using emphatic reflexive constructions."
+  }
+}

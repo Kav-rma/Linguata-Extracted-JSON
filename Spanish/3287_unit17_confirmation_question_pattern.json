@@ -1,0 +1,139 @@
+{
+  "title": "unit17_confirmation_question_pattern",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "It turned out fantastic, didn’t it?",
+      "answers": [
+        {
+          "text": "¿Resultó fantástico, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "It’s bigger, isn’t it?",
+      "answers": [
+        {
+          "text": "¿Es más grande, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "You already have a house, don’t you?",
+      "answers": [
+        {
+          "text": "¿Ya tiene casa, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "You rented a comfortable apartment, didn’t you?",
+      "answers": [
+        {
+          "text": "¿Alquilaste un apartamento cómodo, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "We have seen the cathedral, haven’t we?",
+      "answers": [
+        {
+          "text": "¿Hemos visto la catedral, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "They arrived last week, didn’t they?",
+      "answers": [
+        {
+          "text": "¿Llegaron la semana pasada, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "She bought a lot, didn’t she?",
+      "answers": [
+        {
+          "text": "¿Compró mucho, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "You all didn’t go out last night, did you?",
+      "answers": [
+        {
+          "text": "¿No salieron anoche, verdad?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "He studied a lot, didn’t he?",
+      "answers": [
+        {
+          "text": "¿Estudió mucho, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "We wrote to them, didn’t we?",
+      "answers": [
+        {
+          "text": "¿Les escribimos, no?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Affirmative confirmation questions combine a statement with '¿no?' or '¿verdad?' to seek agreement, similar to English tag questions. Translate these sentences using the confirmation question pattern."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following sentences into Spanish, forming confirmation questions.",
+    "page_start": 19,
+    "page_end": 21,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "title": "unit3_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Do you like the room?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Le gusta el cuarto?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Yes, I do.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sí, me gusta.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "Do you want soda water?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Quiere usted agua mineral?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "Yes. Bring it up to me later.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sí. Súbamela después.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Do you need anything else?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Necesita algo más?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Is the American Embassy near here?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Está la Embajada Americana cerca de aquí?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "No. It's quite a distance.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "No. Está lejos.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "On Columbus Avenue.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "En la avenida de Colón.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "It's necessary to take a taxi.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Hay que tomar un taxi.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Thanks. Here you are.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Gracias. Aquí tiene.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question": "Thank you very much, sir.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Muchas gracias, señor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question": "Are you going down in the elevator?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Baja en el ascensor?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question": "Yes. Right now.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sí, ahora mismo.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question": "Where's the cashier's desk?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Dónde está la caja?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question": "On the first floor to the right of the entrance.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "En el primer piso, a la derecha de la entrada.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question": "Can you change a few dollars for me?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Puede cambiarme unos dólares?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question": "Yes. How many?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sí. ¿Cuántos?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question": "Ten. What's the rate of exchange?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Diez. ¿A cómo está el cambio?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question": "In bills or in a check?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿En billetes o en cheque?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question": "This traveler's check.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Este cheque viajero.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question": "Five to one, then.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "A cinco por uno, entonces.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question": "How do you want it?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Cómo lo quiere?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question": "Eight in bills and two in change.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Ocho en billetes y dos en moneda.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question": "How much does a taxi to the American Embassy cost?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "¿Cuánto cuesta un taxi a la Embajada Americana?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question": "Two pesos more or less.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Dos pesos más o menos.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question": "Thanks for the information.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Gracias por la información.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

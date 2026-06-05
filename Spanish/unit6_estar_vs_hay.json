@@ -1,0 +1,89 @@
+{
+  "title": "unit6_estar_vs_hay",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "¿Dónde hay un restaurante barato?",
+      "answer": "¿Dónde está el restaurante barato?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "¿Dónde hay un hotel bueno?",
+      "answer": "¿Dónde está el hotel bueno?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "¿Hay un taxi aquí?",
+      "answer": "¿Está el taxi aquí?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "¿Hay unos cheques aquí?",
+      "answer": "¿Están los cheques aquí?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "¿Hay una mesa para nosotros?",
+      "answer": "¿Está la mesa para nosotros?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "¿Dónde hay unas escuelas buenas?",
+      "answer": "¿Dónde están las escuelas buenas?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "¿Hay un banco cerca?",
+      "answer": "¿Está el banco cerca?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "¿Hay una farmacia abierta?",
+      "answer": "¿Está la farmacia abierta?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "¿Dónde hay un cuarto desocupado?",
+      "answer": "¿Dónde está el cuarto desocupado?",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "¿Hay un mercado en esta calle?",
+      "answer": "¿Está el mercado en esta calle?",
+      "type": "short_answer",
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "            Spanish distinguishes between 'hay' (there is/there are) to indicate the existence of something, and 'estar' when referring to a specific object's location. \nThese drills require you to convert sentences using 'hay' (indefinite reference) into sentences with 'estar' (definite reference) while maintaining meaning. \nFor example, '¿Dónde hay un restaurante barato?' (Where is there a cheap restaurant?) becomes '¿Dónde está el restaurante barato?' (Where is the cheap restaurant?).\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 17,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Transform the following questions by replacing 'hay' phrases with 'estar' phrases."
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "title": "unit4_verb_estar_and_pronouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which is the first person singular form of 'estar'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "estoy",
+          "is_correct": true
+        },
+        {
+          "answer": "estás",
+          "is_correct": false
+        },
+        {
+          "answer": "está",
+          "is_correct": false
+        },
+        {
+          "answer": "estamos",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What pronoun corresponds to the formal singular 'you' in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "tú",
+          "is_correct": false
+        },
+        {
+          "answer": "usted",
+          "is_correct": true
+        },
+        {
+          "answer": "vos",
+          "is_correct": false
+        },
+        {
+          "answer": "ellos",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which is the second person plural form of 'estar' used in Latin America?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "estáis",
+          "is_correct": false
+        },
+        {
+          "answer": "están",
+          "is_correct": true
+        },
+        {
+          "answer": "estás",
+          "is_correct": false
+        },
+        {
+          "answer": "estamos",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "When addressing a friend informally, which pronoun would you use?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "tú",
+          "is_correct": true
+        },
+        {
+          "answer": "usted",
+          "is_correct": false
+        },
+        {
+          "answer": "él",
+          "is_correct": false
+        },
+        {
+          "answer": "ustedes",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which pair correctly matches the subject pronoun with its 'estar' form?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "nosotros - está",
+          "is_correct": false
+        },
+        {
+          "answer": "yo - estoy",
+          "is_correct": true
+        },
+        {
+          "answer": "ustedes - estás",
+          "is_correct": false
+        },
+        {
+          "answer": "ella - están",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "¿Está la señora en el hotel o en la Embajada?",
+      "answer": "Está en la Embajada.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "¿Está el señor en el hotel o en el restaurante?",
+      "answer": "Está en el hotel.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "¿Dónde está la Embajada?",
+      "answer": "Está en la Avenida Colón.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "¿Está la Embajada lejos del centro?",
+      "answer": "No, está cerca.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "¿Está la señora americana en la Embajada?",
+      "answer": "No, está en el hotel.",
+      "type": "short_answer",
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "            The verb 'estar' is irregular and used to indicate location or temporary states. \nIts present forms are: estoy (I am), estás (you are, informal singular), está (he/she/you formal is), estamos (we are), están (you plural/they are). \nSpanish also distinguishes between the formal second person pronoun 'usted' and the informal 'tú'. \nThese drills combine multiple-choice questions about pronoun-verb matching with response drills that practise selecting the correct location or choice.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 15,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Answer the following questions in Spanish."
+  }
+}

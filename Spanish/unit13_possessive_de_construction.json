@@ -1,0 +1,83 @@
+{
+  "title": "unit13_possessive_de_construction",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "This is our part.",
+      "type": "short_answer",
+      "answer": "Esta es la parte de nosotros.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Is this your book?",
+      "type": "short_answer",
+      "answer": "¿Es éste el libro de usted?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Come in; that's your table.",
+      "type": "short_answer",
+      "answer": "Adelante; aquélla es la mesa de ustedes.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "His car is excellent.",
+      "type": "short_answer",
+      "answer": "El auto de él es excelente.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Her room is very small.",
+      "type": "short_answer",
+      "answer": "El cuarto de ella es muy pequeño.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Their furniture is expensive.",
+      "type": "short_answer",
+      "answer": "Los muebles de ellos son caros.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Please hand me their glasses.",
+      "type": "short_answer",
+      "answer": "Por favor, páseme las copas de ellas.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "It's the daughter of the man of the house.",
+      "type": "short_answer",
+      "answer": "Es la hija del señor de la casa.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Possession in Spanish is often expressed using the preposition *de*, equivalent to English 'of'. \nFor example, *el auto de él* means 'his car' and *la hija del señor de la casa* means 'the daughter of the man of the house'. \nWhen *de* is followed by the article *el*, it contracts to *del*."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 17,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using possessive constructions with 'de'."
+  }
+}

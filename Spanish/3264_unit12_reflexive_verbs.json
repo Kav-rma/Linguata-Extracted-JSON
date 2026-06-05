@@ -1,0 +1,258 @@
+{
+  "title": "unit12_reflexive_verbs",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which of the following correctly translates 'I have to get up early'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Tengo que levantarme temprano.",
+          "is_correct": true
+        },
+        {
+          "text": "Me tengo levantar temprano.",
+          "is_correct": false
+        },
+        {
+          "text": "Levantarse tengo temprano.",
+          "is_correct": false
+        },
+        {
+          "text": "Tenerme que levantar temprano.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say 'She washes her hands' in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Ella se lava las manos.",
+          "is_correct": true
+        },
+        {
+          "text": "Ella lava sus manos.",
+          "is_correct": false
+        },
+        {
+          "text": "Ella le lava las manos.",
+          "is_correct": false
+        },
+        {
+          "text": "Ella se las lava manos.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Choose the correct reflexive pronoun for 'nosotros' in 'Nosotros ____ vemos en el espejo'.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "nos",
+          "is_correct": true
+        },
+        {
+          "text": "se",
+          "is_correct": false
+        },
+        {
+          "text": "me",
+          "is_correct": false
+        },
+        {
+          "text": "te",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence best translates 'I am shaving' (right now)?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Me estoy afeitando.",
+          "is_correct": true
+        },
+        {
+          "text": "Estoy afeitándome.",
+          "is_correct": true
+        },
+        {
+          "text": "Me afeito.",
+          "is_correct": false
+        },
+        {
+          "text": "Afeitarme estoy.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Reflexive pronouns attach to which of the following verb forms in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Infinitives and gerunds.",
+          "is_correct": true
+        },
+        {
+          "text": "Only conjugated verbs.",
+          "is_correct": false
+        },
+        {
+          "text": "Only command forms.",
+          "is_correct": false
+        },
+        {
+          "text": "Only in the negative imperative.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Translate: 'He brushes his teeth before leaving'.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Se cepilla los dientes antes de salir.",
+          "is_correct": true
+        },
+        {
+          "text": "Él cepilla sus dientes antes de salir.",
+          "is_correct": false
+        },
+        {
+          "text": "Se cepilla sus dientes antes de salir.",
+          "is_correct": false
+        },
+        {
+          "text": "Cepilla los dientes se antes de salir.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What is the reflexive pronoun for 'tú' in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "te",
+          "is_correct": true
+        },
+        {
+          "text": "me",
+          "is_correct": false
+        },
+        {
+          "text": "se",
+          "is_correct": false
+        },
+        {
+          "text": "nos",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which sentence uses a clitic pronoun to indicate possession?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Me limpiaba los dientes.",
+          "is_correct": true
+        },
+        {
+          "text": "Limpiaba mis dientes.",
+          "is_correct": false
+        },
+        {
+          "text": "Me limpiaba mis dientes.",
+          "is_correct": false
+        },
+        {
+          "text": "Le limpiaba los dientes.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following translates 'We are getting dressed'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Nos estamos vistiendo.",
+          "is_correct": true
+        },
+        {
+          "text": "Estamos nos vistiendo.",
+          "is_correct": false
+        },
+        {
+          "text": "Nos vestimos.",
+          "is_correct": false
+        },
+        {
+          "text": "Estamos vistiendo.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How do you say 'They are going to wash up' using a reflexive pronoun?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Van a lavarse.",
+          "is_correct": true
+        },
+        {
+          "text": "Se van a lavar.",
+          "is_correct": true
+        },
+        {
+          "text": "Lavarse van.",
+          "is_correct": false
+        },
+        {
+          "text": "Van lavarse.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Reflexive verbs use reflexive pronouns (me, te, se, nos) attached to the verb to indicate that the subject performs the action on itself, as in *afeitarse* ('to shave oneself'). \nClitic pronouns can sometimes convey possession, as in *Me limpiaba los dientes* ('I was cleaning my teeth'), where *me* indicates that the teeth belong to the subject.\nIn many contexts, Spanish uses simple past forms where English would use the present perfect."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

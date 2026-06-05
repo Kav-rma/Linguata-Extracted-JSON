@@ -1,0 +1,163 @@
+{
+  "title": "unit29_clitic_pronouns_nonfinite_forms",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The old clothing? I'm giving it to Louise.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La ropa vieja? Se la estoy dando a Luisa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The books? I'm loaning them to John.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Los libros? Estoy prestándoselos a Juan.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The pencil? I'm going to give it to Carmen.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El lápiz? Se lo voy a dar a Carmen.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The letter? I'm going to send it to her.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La carta? Se la voy a mandar a ella.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The letters? I'm going to write them for you.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Las cartas? Voy a escribirselas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The photo? I want to see it.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La foto? La quiero ver.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "The shoes? They're cleaning them.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Los zapatos? Los están limpiando.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "The luggage? They're checking it for us.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El equipaje? Nos lo están revisando.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "The names? I'm going to write them.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Los nombres? Voy a escribirlos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "I'm brushing my teeth.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Estoy limpiándome los dientes.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Are you going to check it for me?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿No me lo va a revisar?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "He is having so much fun, he's never going to learn.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Divirtiéndose tanto, nunca va a aprender.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "When clitic pronouns occur with infinitives or gerund forms (-ndo) they may either attach to the non-conjugated form or appear before the conjugated verb. For example: 'Voy a escribirlas' or 'Las voy a escribir' both mean 'I'm going to write them'."
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 18,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish, placing the clitic pronouns correctly with infinitive or gerund forms."
+  }
+}

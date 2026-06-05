@@ -1,0 +1,175 @@
+{
+  "title": "unit15_indirect_clitic_pronouns_single_object",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "The suits seem inexpensive to us.",
+      "answers": [
+        {
+          "text": "Los trajes nos parecen baratos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "He likes this suburb very much.",
+      "answers": [
+        {
+          "text": "Le gusta mucho este barrio.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "I don’t like that name.",
+      "answers": [
+        {
+          "text": "No me gusta ese nombre.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "Does she need (lack) anything?",
+      "answers": [
+        {
+          "text": "¿Le falta algo?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "Don’t you like the house?",
+      "answers": [
+        {
+          "text": "¿No le gusta la casa?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "On the contrary, I like it very much.",
+      "answers": [
+        {
+          "text": "Al contrario, me gusta mucho.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "Besides, it seems inexpensive to us.",
+      "answers": [
+        {
+          "text": "Además, nos parece barata.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "We’re thirteen dollars short.",
+      "answers": [
+        {
+          "text": "Nos faltan trece dólares.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "How’s it going with you all?",
+      "answers": [
+        {
+          "text": "¿Cómo les va?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "What do they think of the laundry on the corner?",
+      "answers": [
+        {
+          "text": "¿Qué les parece la lavandería de la esquina?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "type": "short_answer",
+      "question": "Does she like the new building?",
+      "answers": [
+        {
+          "text": "¿Le gusta el edificio nuevo?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "type": "short_answer",
+      "question": "It doesn’t suit me; it’s too expensive.",
+      "answers": [
+        {
+          "text": "No me conviene, es muy caro.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "type": "short_answer",
+      "question": "Does the other one suit you?",
+      "answers": [
+        {
+          "text": "¿Le conviene el otro?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Indirect clitic pronouns (me, te, le, nos, les) are used with verbs to indicate to whom something is pleasing, lacking or suiting.\nIn these translation exercises, pay attention to the pronoun and whether it changes with number."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following sentences into Spanish, using indirect clitic pronouns.",
+    "page_start": 6,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

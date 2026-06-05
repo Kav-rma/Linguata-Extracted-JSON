@@ -1,0 +1,133 @@
+{
+  "title": "unit14_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "Are you happy here, Colonel?",
+      "answers": [
+        {
+          "text": "¿Está contento aquí, coronel?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "Are they coming by plane?",
+      "answers": [
+        {
+          "text": "¿Vienen por avión?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "How many children do you have?",
+      "answers": [
+        {
+          "text": "¿Cuántos hijos tiene?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "Do you already have a house?",
+      "answers": [
+        {
+          "text": "¿Ya tiene casa?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "It’s really worthwhile to live in that section.",
+      "answers": [
+        {
+          "text": "Vale la pena vivir en ese barrio.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "What time are you going to the airport?",
+      "answers": [
+        {
+          "text": "¿A qué hora va al aeropuerto?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "They’re coming with my wife and the children.",
+      "answers": [
+        {
+          "text": "Vienen con mi esposa y los niños.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "Are they very quiet there?",
+      "answers": [
+        {
+          "text": "¿Es muy tranquilo allí?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "My family arrives tomorrow.",
+      "answers": [
+        {
+          "text": "Mi familia llega mañana.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "They’re coming by plane.",
+      "answers": [
+        {
+          "text": "Van a venir por avión.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

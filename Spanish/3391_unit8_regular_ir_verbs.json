@@ -1,0 +1,295 @@
+{
+  "title": "unit8_regular_ir_verbs",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Change 'Escribimos en la escuela.' to first person singular.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Escribo en la escuela.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Change 'Viven lejos del centro.' to third person singular.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Vive lejos del centro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "Change 'Subo en el ascensor.' to first person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Subimos en el ascensor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "Change 'No abre el libro.' to third person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "No abren el libro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Change 'Vivimos cerca de aquí.' to first person singular.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Vivo cerca de aquí.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Change 'No escribo mucho.' to first person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "No escribimos mucho.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "Change 'Suben menos ahora.' to third person singular.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sube menos ahora.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Convert 'Vive lejos de aquí.' to first person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Vivimos lejos de aquí.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "Convert 'Escribo sólo en inglés.' to first person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Escribimos sólo en inglés.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Convert 'Escribimos sólo en inglés.' to third person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Escriben sólo en inglés.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question": "Convert 'Abro la Embajada.' to first person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Abrimos la Embajada.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question": "Convert 'Abre la Embajada.' to third person plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Abren la Embajada.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question": "¿Escribe Ud. en español o en inglés?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Escribo en inglés.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question": "¿Viven Uds. en un apartamento o en una casa?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Vivimos en una casa.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question": "¿Escribe él mucho o poco?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Escribe poco.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question": "¿Dónde viven ellos?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Viven en un hotel.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question": "¿Dónde vive Ud.?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Vivo en el centro.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question": "¿Cuántos cheques escribe él?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Escribe tres.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question": "¿Escriben Uds. en inglés?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "No, escribimos en español.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question": "¿Vive ella en una casa?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "No, vive en un apartamento.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question": "¿Abre él la Embajada?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sí, abre la Embajada.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question": "¿Viven Uds. en las afueras?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sí, vivimos en las afueras.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question": "¿Suben ellos en el ascensor?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Sí, suben en el ascensor.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Regular -ir verbs in Spanish share the same present tense endings as -er verbs, with one important difference: in the first-person plural (nosotros/nosotras) form the theme vowel changes to -i-, giving the ending -imos. For example, the verb vivir (to live) is conjugated as vivo, vives, vive, vivimos, viven. All first-person singular forms end in -o regardless of the theme vowel. The person–number endings (-s, -mos, -n) are the same as those for -ar and -er verbs."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Answer the following questions or perform the indicated transformations in Spanish."
+  }
+}

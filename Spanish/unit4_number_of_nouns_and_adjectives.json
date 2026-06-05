@@ -1,0 +1,124 @@
+{
+  "title": "unit4_number_of_nouns_and_adjectives",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Aquí hay un hotel bueno.",
+      "answer": "Aquí hay unos hoteles buenos.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Tengo una pluma excelente.",
+      "answer": "Tengo unas plumas excelentes.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Tengo una mesa pequeña.",
+      "answer": "Tengo unas mesas pequeñas.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "¿Quiere usted poca agua o mucha?",
+      "answer": "Quiero poca.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "¿Quiere usted poco vino o mucho?",
+      "answer": "Quiero poco.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "¿Habla usted con el mismo señor o con otro?",
+      "answer": "Hablo con el mismo.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "¿Habla usted con la misma señora o con otra?",
+      "answer": "Hablo con la misma.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "¿Estudia usted con el mismo profesor o con otro?",
+      "answer": "Estudio con otro.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "¿Quiere usted el mismo libro o otro?",
+      "answer": "Quiero el otro.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "¿Quiere usted la misma pluma o la otra?",
+      "answer": "Quiero la otra.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "¿Quiere usted los mismos cheques o los otros?",
+      "answer": "Quiero los otros.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "¿Quiere usted las mismas sillas o las otras?",
+      "answer": "Quiero las otras.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "¿Quiere usted un poco de leche o mucha?",
+      "answer": "Quiero un poco.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "¿Quiere usted un poco de dinero o mucho?",
+      "answer": "Quiero mucho.",
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "¿Quiere usted un poco de café o mucho?",
+      "answer": "Quiero un poco.",
+      "type": "short_answer",
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "            Spanish nouns and adjectives change form to indicate number. \nNouns ending in a vowel typically add -s to form the plural, while nouns ending in a consonant add -es. \nAdjectives must agree in number with the nouns they modify, so if the noun becomes plural, so does the adjective. \nIndefinite and definite articles also have singular and plural forms (un/una → unos/unas; el/la → los/las). \nThese substitution drills practise converting singular sentences into plural and choosing between options (same/other, little/much) to reinforce number agreement and quantifier usage.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 13,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Answer the following questions in Spanish."
+  }
+}

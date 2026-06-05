@@ -1,0 +1,93 @@
+{
+  "title": "unit12_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "She's American, but I'm Spanish.",
+      "type": "short_answer",
+      "answer": "Ella es americana, pero yo soy español.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "I'm single, but he's married.",
+      "type": "short_answer",
+      "answer": "Yo soy soltero, pero él es casado.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "They're from here, but we are from Chile.",
+      "type": "short_answer",
+      "answer": "Ellos son de aquí, pero nosotros somos de Chile.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "She drinks water and I drink whisky and soda.",
+      "type": "short_answer",
+      "answer": "Ella bebe agua y yo whisky con soda.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "He is in the patio, and she is in the kitchen.",
+      "type": "short_answer",
+      "answer": "Él está en el patio, y ella en la cocina.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "They are Spanish, and we are too.",
+      "type": "short_answer",
+      "answer": "Ellas son españolas y nosotros también.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Are we going, or are they?",
+      "type": "short_answer",
+      "answer": "¿Vamos nosotros o van ellos?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Am I going, or are you all?",
+      "type": "short_answer",
+      "answer": "¿Voy yo o van Uds.?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Are they going, or are we?",
+      "type": "short_answer",
+      "answer": "¿Van ellos o vamos nosotros?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Who wants ham? You or he?",
+      "type": "short_answer",
+      "answer": "¿Quién quiere jamón? ¿Ud. o él?",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

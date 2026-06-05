@@ -1,0 +1,139 @@
+{
+  "title": "unit25_reflexive_indirect_clitics",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "I dropped a cup of coffee and it broke.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se me cayó una taza de café y se me rompió.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "I forgot your last name.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se me olvidó su apellido.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The coins fell from us.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se nos cayeron las monedas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "I dropped the milk.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se me cayó la leche.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Your name slipped my mind.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se me olvidó su nombre.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "I forgot the key.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se me olvidó la llave.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "He spilled the coffee.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se le derramó el café.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "We forgot the papers.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se nos olvidaron los papeles.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "The cup fell and broke.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se me cayó la taza y se rompió.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "A glass fell from you all.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Se les cayó un vaso.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish often uses reflexive and indirect clitic pronouns together to indicate that something happened to someone inadvertently. Expressions like *se me cayó* mean ‘it fell on me’ (I dropped it), and *se me olvidó* means ‘it slipped my mind’. These constructions emphasise that the action was unintentional."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using reflexive/indirect clitic pronouns."
+  }
+}

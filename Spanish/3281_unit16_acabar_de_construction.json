@@ -1,0 +1,139 @@
+{
+  "title": "unit16_acabar_de_construction",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "They have just come out of mass.",
+      "answers": [
+        {
+          "text": "Acaban de salir de misa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "I have just finished my homework.",
+      "answers": [
+        {
+          "text": "Acabo de terminar mi tarea.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "We have just arrived.",
+      "answers": [
+        {
+          "text": "Acabamos de llegar.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "He has just called.",
+      "answers": [
+        {
+          "text": "Acaba de llamar.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "Jean has just asked why they can’t go.",
+      "answers": [
+        {
+          "text": "Jean acaba de preguntar por qué no pueden ir.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "Bob has just told Jean they can’t go to mass.",
+      "answers": [
+        {
+          "text": "Bob acaba de decirle a Jean que no pueden ir a misa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "They have just gone to the cathedral.",
+      "answers": [
+        {
+          "text": "Acaban de ir a la catedral.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "I have just drunk a coffee.",
+      "answers": [
+        {
+          "text": "Acabo de tomar un café.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "We have just seen the Foreign Affairs Office.",
+      "answers": [
+        {
+          "text": "Acabamos de ver el Ministerio de Relaciones Exteriores.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "She has just walked through the park.",
+      "answers": [
+        {
+          "text": "Ella acaba de pasear por el parque.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish expresses the idea of having just done something using 'acabar de' + infinitive. Translate the following sentences using this construction."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following sentences into Spanish using 'acabar de' + infinitive.",
+    "page_start": 5,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

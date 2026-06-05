@@ -1,0 +1,139 @@
+{
+  "title": "unit10_direct_clitic_pronouns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The pen? I don't have it.",
+      "type": "short_answer",
+      "answer": "¿La pluma? No la tengo.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The keys? I don't have them.",
+      "type": "short_answer",
+      "answer": "¿Las llaves? No las tengo.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The bills? You have them.",
+      "type": "short_answer",
+      "answer": "¿Los billetes? Ud. los tiene.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The coins? You have them.",
+      "type": "short_answer",
+      "answer": "¿Las monedas? Ud. las tiene.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The information? Here it is.",
+      "type": "short_answer",
+      "answer": "¿La información? Aquí la tiene.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The date? I don't have it.",
+      "type": "short_answer",
+      "answer": "¿La fecha? No la tengo.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "The cake? I don't want it.",
+      "type": "short_answer",
+      "answer": "¿El pastel? No lo quiero.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "The apartment? I haven't rented it.",
+      "type": "short_answer",
+      "answer": "¿El apartamento? No lo he alquilado.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "The travelers checks? I haven't sent them.",
+      "type": "short_answer",
+      "answer": "¿Los cheques viajeros? No los he mandado.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The soup? I haven't tried it.",
+      "type": "short_answer",
+      "answer": "¿La sopa? No la he probado.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "She never helps me.",
+      "type": "short_answer",
+      "answer": "Ella nunca me ayuda.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "He always takes us there.",
+      "type": "short_answer",
+      "answer": "Él siempre nos lleva ahí.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "They take me downtown.",
+      "type": "short_answer",
+      "answer": "Ellos me llevan al centro.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "Who is looking for her?",
+      "type": "short_answer",
+      "answer": "¿Quién la busca?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "Who is looking for me?",
+      "type": "short_answer",
+      "answer": "¿Quién me busca?",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Direct object clitic pronouns (lo, la, los, las, me, te, nos) are unstressed pronouns that attach closely to verbs and replace a direct object noun. \nIn affirmative commands and infinitives, they follow the verb (e.g., *Lléveme al hotel*); otherwise, they precede the conjugated verb (*No la tengo*). \nThey agree in gender and number with the noun they replace."
+    }
+  ],
+  "metadata": {
+    "page_start": 18,
+    "page_end": 23,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish, using direct object clitic pronouns."
+  }
+}

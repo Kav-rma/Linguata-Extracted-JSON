@@ -1,0 +1,139 @@
+{
+  "title": "unit24_telling_time",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What time is it?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Qué hora es?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "It’s one o’clock.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Es la una.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "It’s five after one.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Es la una y cinco.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "It’s one thirty.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Es la una y treinta.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "It’s two o’clock.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Son las dos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "It’s a quarter after two.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Son las dos y cuarto.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "It’s two thirty.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Son las dos y media.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "It’s two forty‑five.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Son las dos y cuarenta y cinco.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "It’s three minutes to twelve.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Son las doce menos tres.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "It’s six thirty.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Son las seis y treinta.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "This lesson introduces expressions for telling time in Spanish. The question *¿Qué hora es?* asks for the time, and answers use the verb *ser* with the definite article: *Es la una* for one o’clock and *Son las dos* for two o’clock. Minutes are added with *y* (and) or expressed as minutes before the hour using *menos* (e.g., *Son las doce menos tres* – it’s three minutes to twelve)."
+    }
+  ],
+  "metadata": {
+    "page_start": 20,
+    "page_end": 25,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following time expressions into Spanish."
+  }
+}

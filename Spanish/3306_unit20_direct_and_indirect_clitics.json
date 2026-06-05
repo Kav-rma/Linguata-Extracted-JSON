@@ -1,0 +1,188 @@
+{
+  "title": "unit20_direct_and_indirect_clitics",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Can you change them for me?",
+      "answer": "¿Me los puede cambiar?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "¿Me los puede cambiar?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "He took it for us yesterday.",
+      "answer": "Nos lo llevó ayer.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Nos lo llevó ayer.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The C‑47 brings them to us.",
+      "answer": "Nos las trae el C‑47.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Nos las trae el C‑47.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "I'll look it up for you.",
+      "answer": "Se lo busco.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Se lo busco.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "I'll loan it to you.",
+      "answer": "Se lo presto a usted.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Se lo presto a usted.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "I loaned it to my wife.",
+      "answer": "Se lo presté a mi esposa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Se lo presté a mi esposa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "I passed it to him.",
+      "answer": "Se la pasé a él.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Se la pasé a él.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "I've already given them to them.",
+      "answer": "Ya se los he dado.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Ya se los he dado.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Don't tell my wife.",
+      "answer": "No se lo diga a mi esposa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "No se lo diga a mi esposa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "I've already brought them to the professor.",
+      "answer": "Ya se los he traído al profesor.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Ya se los he traído al profesor.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Come and I'll introduce him to you.",
+      "answer": "Ven y te lo presento.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Ven y te lo presento.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "The driver carried the furniture up for us.",
+      "answer": "El chofer nos subió los muebles.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "El chofer nos subió los muebles.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "The driver carried them up for us.",
+      "answer": "El chofer nos los subió.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "El chofer nos los subió.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "When both direct and indirect object pronouns appear together, the indirect pronoun precedes the direct pronoun. In third person combinations, the indirect pronoun becomes 'se'."
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using appropriate double object pronouns."
+  }
+}

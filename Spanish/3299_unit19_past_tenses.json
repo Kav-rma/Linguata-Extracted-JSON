@@ -1,0 +1,214 @@
+{
+  "title": "unit19_past_tenses",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "I worked at the Embassy.",
+      "answer": "Trabajé en la Embajada.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Trabajé en la Embajada.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "I was working at the Embassy.",
+      "answer": "Trabajaba en la Embajada.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Trabajaba en la Embajada.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "I went down in the elevator.",
+      "answer": "Bajé en el ascensor.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Bajé en el ascensor.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "I used to go down in the elevator.",
+      "answer": "Bajaba en el ascensor.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Bajaba en el ascensor.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "I couldn't find the house.",
+      "answer": "No encontraba la casa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "No encontraba la casa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "I didn't find the house.",
+      "answer": "No encontré la casa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "No encontré la casa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "I left late.",
+      "answer": "Salí tarde.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Salí tarde.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "I used to leave late.",
+      "answer": "Salía tarde.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Salía tarde.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "I drank beer.",
+      "answer": "Tomé cerveza.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Tomé cerveza.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "I used to drink beer.",
+      "answer": "Tomaba cerveza.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Tomaba cerveza.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "I rented the house.",
+      "answer": "Alquilé la casa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Alquilé la casa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "I was renting the house.",
+      "answer": "Alquilaba la casa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Alquilaba la casa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "When I arrived, he wasn't there.",
+      "answer": "Cuando llegué, él no estaba allí.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Cuando llegué, él no estaba allí.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "We saw the lady that wanted to buy the house.",
+      "answer": "Vimos a la señora que quería comprar la casa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Vimos a la señora que quería comprar la casa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "He bought a car that didn't cost much.",
+      "answer": "Compró un auto que no costaba mucho.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Compró un auto que no costaba mucho.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish distinguishes between two past tenses: past I (preterite) for definite, completed actions, and past II (imperfect) for ongoing or habitual actions. Choosing between them conveys whether an event is seen as a single whole or as background to another action."
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using the appropriate past tense."
+  }
+}

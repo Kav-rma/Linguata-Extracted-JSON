@@ -1,0 +1,107 @@
+{
+  "title": "unit9_possessive_adjectives",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "These books are ours.",
+      "type": "short_answer",
+      "answer": "Estos libros son nuestros.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "That old house is ours.",
+      "type": "short_answer",
+      "answer": "Esa casa vieja es nuestra.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "This apartment is ours.",
+      "type": "short_answer",
+      "answer": "Este apartamento es nuestro.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Whose is this book? Is it yours?",
+      "type": "short_answer",
+      "answer": "¿De quién es este libro? ¿Es suyo?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Is that pencil his?",
+      "type": "short_answer",
+      "answer": "¿Es suyo ese lápiz?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Is this pencil mine?",
+      "type": "short_answer",
+      "answer": "¿Es mío este lápiz?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Those books are mine.",
+      "type": "short_answer",
+      "answer": "Esos libros son míos.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "These books are his.",
+      "type": "short_answer",
+      "answer": "Estos libros son suyos.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "These coins are mine.",
+      "type": "short_answer",
+      "answer": "Estas monedas son mías.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "These things are ours.",
+      "type": "short_answer",
+      "answer": "Estas cosas son nuestras.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "That pen is yours.",
+      "type": "short_answer",
+      "answer": "Esa pluma es suya.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish long‑form possessive adjectives agree with the noun they modify in gender and number. Forms include *mío/mía/míos/mías* ('mine'), *tuyo/tuya/…* ('yours'), *suyo/suya/…* ('yours/his/her/theirs') and *nuestro/nuestra/nuestros/nuestras* ('ours'). \nThese adjectives typically follow the noun or appear after the verb *ser*, as in *Estos libros son nuestros*. When the context does not make the reference clear, alternative constructions using *de* (e.g., *el libro de Juan*) are preferred to avoid ambiguity."
+    }
+  ],
+  "metadata": {
+    "page_start": 28,
+    "page_end": 32,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using long‑form possessive adjectives."
+  }
+}

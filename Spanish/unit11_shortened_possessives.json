@@ -1,0 +1,99 @@
+{
+  "title": "unit11_shortened_possessives",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "This is my agency.",
+      "type": "short_answer",
+      "answer": "Esta es mi agencia.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "This is our building.",
+      "type": "short_answer",
+      "answer": "Este es nuestro edificio.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "They are my friends.",
+      "type": "short_answer",
+      "answer": "Ellos son mis amigos.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Our house is vacant.",
+      "type": "short_answer",
+      "answer": "Nuestra casa está desocupada.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "These are my suits.",
+      "type": "short_answer",
+      "answer": "Estos son mis trajes.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Our cleaner is across (the street).",
+      "type": "short_answer",
+      "answer": "Nuestra tintorería está enfrente.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Your house is very big.",
+      "type": "short_answer",
+      "answer": "Su casa es muy grande.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "I never send my suits there.",
+      "type": "short_answer",
+      "answer": "Nunca mando mis trajes ahí.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "My car is on the corner.",
+      "type": "short_answer",
+      "answer": "Mi auto está en la esquina.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Someone has my books.",
+      "type": "short_answer",
+      "answer": "Alguien tiene mis libros.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "When possessive adjectives precede a noun, they appear in shortened forms: *mi* (my), *tu* (your), *su* (your/his/her), *nuestro/nuestra* (our) and *su* (your/their). \nThese forms do not change for gender but do change for number. For example, *mi auto* ('my car') and *mis libros* ('my books'). \nUnlike long‑form possessives, shortened forms always appear before the noun."
+    }
+  ],
+  "metadata": {
+    "page_start": 11,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using shortened possessive adjectives before the noun."
+  }
+}

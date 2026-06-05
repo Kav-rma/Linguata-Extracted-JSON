@@ -1,0 +1,227 @@
+{
+  "title": "unit23_velar_stem_verbs",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "I'm very grateful to you.",
+      "answer": "Se lo agradezco mucho.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Se lo agradezco mucho.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "I look like my sister.",
+      "answer": "Me parezco a mi hermana.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Me parezco a mi hermana.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "I belong to the Air Force.",
+      "answer": "Pertenezco a la Fuerza Aérea.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Pertenezco a la Fuerza Aérea.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "I don't translate very well.",
+      "answer": "No traduzco muy bien.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "No traduzco muy bien.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "I'm not worth anything with this headache.",
+      "answer": "No valgo nada con este dolor de cabeza.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "No valgo nada con este dolor de cabeza.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where do I put them?",
+      "answer": "¿Dónde los pongo?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "¿Dónde los pongo?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "I go out a lot.",
+      "answer": "Yo salgo mucho.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Yo salgo mucho.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "I know Mr. Molina.",
+      "answer": "Yo conozco al Sr. Molina.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Yo conozco al Sr. Molina.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "We don't know the brunette.",
+      "answer": "Nosotros no conocemos a la morena.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Nosotros no conocemos a la morena.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "He translates the book.",
+      "answer": "Él traduce el libro.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Él traduce el libro.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "They translate it first.",
+      "answer": "Ellos lo traducen primero.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Ellos lo traducen primero.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "I go out at twelve.",
+      "answer": "Yo salgo a las doce.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Yo salgo a las doce.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "We don't go out with anyone.",
+      "answer": "Nosotros no salimos con nadie.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Nosotros no salimos con nadie.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "I put the book there.",
+      "answer": "Yo pongo el libro allí.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Yo pongo el libro allí.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "They put them on the table.",
+      "answer": "Ellos lo ponen en la mesa.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Ellos lo ponen en la mesa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 16,
+      "question": "He doesn't put the date.",
+      "answer": "Él no pone la fecha.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "text": "Él no pone la fecha.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Some verbs insert a velar consonant in the first person singular of the present tense (conozco, traduzco, salgo, pongo, valgo). These verbs often end in -cer, -cir, -salir, -poner."
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using the correct present form."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "unit26_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Passport",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "El pasaporte",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Vaccination certificate",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Certificado de vacuna",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Health certificate",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Certificado de salud",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Certificate of good conduct",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Certificado de buena conducta",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Is the health certificate okay from any doctor?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El de salud, puede dármelo cualquier médico?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "No, it must be from a doctor approved by the Embassy.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No. Debe ser de un médico aceptado por la Embajada.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Take this application. Fill it out and bring it to me tomorrow.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Tome esta solicitud. Llévesela, llénela y me la trae mañana.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Anything else?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Algo más?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Yes, your fingerprints, but that comes last.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Sí, las huellas digitales, pero eso es a lo último.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

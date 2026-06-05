@@ -1,0 +1,199 @@
+{
+  "title": "unit30_verb_review",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Do you speak English, Mr. Molina?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Habla Ud. inglés, señor Molina?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Were you speaking English, Mr. Molina?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Hablaba Ud. inglés, señor Molina?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Did you speak English, Mr. Molina?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Habló Ud. inglés, señor Molina?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "They live in an apartment just like mine.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Viven en un apartamento igual al mío.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "They were living in an apartment just like mine.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Vivían en un apartamento igual al mío.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "They lived in an apartment just like mine.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Vivieron en un apartamento igual al mío.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "I have to change my clothes.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Tengo que cambiarme de ropa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "I was supposed to change my clothes.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Tenía que cambiarme de ropa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "I had to change my clothes.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Tuve que cambiarme de ropa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Where do you send your laundry?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Dónde mandas tu ropa?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Where did you use to send your laundry?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Dónde mandabas tu ropa?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "Where did you send your laundry?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Dónde mandaste tu ropa?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "It's not convenient for me.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No me conviene.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "It wasn't convenient for me.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No me convenía.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "It wasn't convenient for me (preterite).",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No me convino.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "This lesson reviews verb tense contrasts in Spanish: present, imperfect (used to/was doing), and preterite (completed action). Each English sentence is translated into its appropriate Spanish form."
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish with the correct tense (present, imperfect, or preterite) as shown."
+  }
+}

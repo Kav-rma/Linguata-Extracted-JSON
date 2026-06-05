@@ -1,0 +1,127 @@
+{
+  "title": "unit14_periphrastic_future",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "We’re going to repeat that.",
+      "answers": [
+        {
+          "text": "Vamos a repetir eso.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "I’m going to shave.",
+      "answers": [
+        {
+          "text": "Voy a afeitarme.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "What are you going to do?",
+      "answers": [
+        {
+          "text": "¿Qué va a hacer Ud.?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "Where are you going to work?",
+      "answers": [
+        {
+          "text": "¿Dónde va a trabajar?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "I’m going to take a bath.",
+      "answers": [
+        {
+          "text": "Voy a bañarme.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "He’s not going to stick his foot (in his mouth) again.",
+      "answers": [
+        {
+          "text": "Él no va a meter la pata otra vez.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "They’re going to practice more.",
+      "answers": [
+        {
+          "text": "Van a practicar más.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "They’re going to look for a house.",
+      "answers": [
+        {
+          "text": "Van a buscar casa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "We’re going to take a trip.",
+      "answers": [
+        {
+          "text": "Vamos a hacer un viaje.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish often expresses future actions using the periphrastic construction 'ir a' followed by an infinitive.\nThis construction is equivalent to English 'to be going to…'. Practice translating the following sentences using 'ir a' + infinitive."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following sentences into Spanish using the periphrastic future.",
+    "page_start": 24,
+    "page_end": 27,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

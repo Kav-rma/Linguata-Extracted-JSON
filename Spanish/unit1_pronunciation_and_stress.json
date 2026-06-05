@@ -1,0 +1,258 @@
+{
+  "title": "unit1_pronunciation_and_stress",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What does the term 'weak-stressed vowel' refer to in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A vowel that is silent",
+          "is_correct": false
+        },
+        {
+          "answer": "A vowel occurring in an unstressed syllable",
+          "is_correct": true
+        },
+        {
+          "answer": "A vowel only pronounced in the past tense",
+          "is_correct": false
+        },
+        {
+          "answer": "A vowel at the end of a sentence",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Why do many English speakers mispronounce weak-stressed vowels in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English has no weak-stressed vowels",
+          "is_correct": false
+        },
+        {
+          "answer": "English has stress patterns that lengthen stressed syllables",
+          "is_correct": true
+        },
+        {
+          "answer": "Spanish vowels change based on stress",
+          "is_correct": false
+        },
+        {
+          "answer": "Spanish vowels are harder to pronounce",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "In Spanish pronunciation, how are minimal pairs under weak stress typically practised?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By contrasting words that differ only in their weak-stressed vowel",
+          "is_correct": true
+        },
+        {
+          "answer": "By repeating the same word loudly",
+          "is_correct": false
+        },
+        {
+          "answer": "By using different consonants",
+          "is_correct": false
+        },
+        {
+          "answer": "By speaking quickly",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which of the following pairs illustrates a contrast between /a/ and /e/ under weak stress?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "casa/caso",
+          "is_correct": false
+        },
+        {
+          "answer": "mesa/misa",
+          "is_correct": true
+        },
+        {
+          "answer": "papá/papa",
+          "is_correct": false
+        },
+        {
+          "answer": "todo/toda",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Why is practising minimal pairs important for Spanish learners?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To learn vocabulary quickly",
+          "is_correct": false
+        },
+        {
+          "answer": "To distinguish vowel contrasts not present under weak stress in English",
+          "is_correct": true
+        },
+        {
+          "answer": "To practise conjugation",
+          "is_correct": false
+        },
+        {
+          "answer": "To memorise grammar rules",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How does English rhythm differ from Spanish rhythm?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English vowels are shorter",
+          "is_correct": false
+        },
+        {
+          "answer": "English lengthens stressed syllables",
+          "is_correct": true
+        },
+        {
+          "answer": "Spanish has no stress",
+          "is_correct": false
+        },
+        {
+          "answer": "They are identical",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of the following strategies helps master Spanish pronunciation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Applying English stress patterns",
+          "is_correct": false
+        },
+        {
+          "answer": "Practising contrasting pairs until the Spanish patterns become automatic",
+          "is_correct": true
+        },
+        {
+          "answer": "Ignoring accent marks",
+          "is_correct": false
+        },
+        {
+          "answer": "Pronouncing all syllables equally long",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "In Spanish, a minimal pair is defined as:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two words that differ in exactly one sound",
+          "is_correct": true
+        },
+        {
+          "answer": "Two words with opposite meanings",
+          "is_correct": false
+        },
+        {
+          "answer": "Two identical words",
+          "is_correct": false
+        },
+        {
+          "answer": "Two words that differ in spelling",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Which of the following statements is true about Spanish pronunciation?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Weak-stressed vowels are not pronounced",
+          "is_correct": false
+        },
+        {
+          "answer": "Weak-stressed vowels require careful attention to differentiate minimal pairs",
+          "is_correct": true
+        },
+        {
+          "answer": "Spanish has no weak stress",
+          "is_correct": false
+        },
+        {
+          "answer": "Only consonants change with stress",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Practising Spanish pronunciation using nonsense words is suggested because:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They help you memorise vocabulary",
+          "is_correct": false
+        },
+        {
+          "answer": "They allow focus on phonetic patterns without lexical meaning",
+          "is_correct": true
+        },
+        {
+          "answer": "They are fun to say",
+          "is_correct": false
+        },
+        {
+          "answer": "They are easier than real words",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "            This lesson discusses Spanish pronunciation, particularly weak-stressed vowels. \nIn Spanish, vowels maintain their sound regardless of stress, but when they occur in unstressed syllables (weak stress), English speakers often have difficulty distinguishing them because English rarely contrasts vowel quality in unstressed positions. \nPractising minimal pairs—pairs of words differing only in their weak-stressed vowel—helps learners overcome this issue. \nUnderstanding the rhythmic difference between Spanish and English is also crucial: whereas English lengthens stressed syllables and shortens others, Spanish rhythm keeps syllables more evenly timed. \nMastering these patterns involves extensive practice with contrasting pairs and sometimes with nonsensical syllables to focus solely on pronunciation.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

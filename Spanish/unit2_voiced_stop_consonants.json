@@ -1,0 +1,258 @@
+{
+  "title": "unit2_voiced_stop_consonants",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The Spanish voiced consonant /d/ can be pronounced as:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Only a dental stop",
+          "is_correct": false
+        },
+        {
+          "answer": "Either a dental stop or a voiced dental approximant",
+          "is_correct": true
+        },
+        {
+          "answer": "Only a dental fricative",
+          "is_correct": false
+        },
+        {
+          "answer": "Only a velar stop",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "In Spanish, the /b/ sound is produced as an approximant [β] when:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the beginning of a word",
+          "is_correct": false
+        },
+        {
+          "answer": "Between vowels",
+          "is_correct": true
+        },
+        {
+          "answer": "At the end of a word",
+          "is_correct": false
+        },
+        {
+          "answer": "Before a consonant",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which of the following statements about /g/ in Spanish is true?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It is always pronounced as a hard stop",
+          "is_correct": false
+        },
+        {
+          "answer": "It can be pronounced as a velar approximant [γ] after vowels",
+          "is_correct": true
+        },
+        {
+          "answer": "It only occurs at the beginning of sentences",
+          "is_correct": false
+        },
+        {
+          "answer": "It is silent",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What articulatory difference distinguishes /b/ from the English 'b' sound?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Spanish /b/ is aspirated",
+          "is_correct": false
+        },
+        {
+          "answer": "Spanish /b/ can be an approximant without full lip closure",
+          "is_correct": true
+        },
+        {
+          "answer": "Spanish /b/ is unvoiced",
+          "is_correct": false
+        },
+        {
+          "answer": "There is no difference",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The voiced dental fricative [ð] in Spanish corresponds to which letter?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "b",
+          "is_correct": false
+        },
+        {
+          "answer": "d",
+          "is_correct": true
+        },
+        {
+          "answer": "g",
+          "is_correct": false
+        },
+        {
+          "answer": "v",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Approximant consonant sounds occur most frequently when:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Surrounded by vowels",
+          "is_correct": true
+        },
+        {
+          "answer": "Preceding another consonant",
+          "is_correct": false
+        },
+        {
+          "answer": "Starting a phrase",
+          "is_correct": false
+        },
+        {
+          "answer": "Ending a phrase",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In Spanish phonetics, the consonants /b/, /d/ and /g/ are categorised as:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Unvoiced stops",
+          "is_correct": false
+        },
+        {
+          "answer": "Voiced stops with approximant variants",
+          "is_correct": true
+        },
+        {
+          "answer": "Fricatives",
+          "is_correct": false
+        },
+        {
+          "answer": "Nasal stops",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which of the following words contains /b/ pronounced as [b]?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "hablo",
+          "is_correct": false
+        },
+        {
+          "answer": "cabeza",
+          "is_correct": false
+        },
+        {
+          "answer": "alba",
+          "is_correct": true
+        },
+        {
+          "answer": "obligación",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "When /d/ appears between two vowels, it is pronounced as:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A plosive [d]",
+          "is_correct": false
+        },
+        {
+          "answer": "A fricative [ð]",
+          "is_correct": true
+        },
+        {
+          "answer": "Silent",
+          "is_correct": false
+        },
+        {
+          "answer": "A nasal [n]",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The approximant [β] is produced by:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Pressing the lips firmly together",
+          "is_correct": false
+        },
+        {
+          "answer": "Bringing the lips close but not fully closed",
+          "is_correct": true
+        },
+        {
+          "answer": "Placing the tongue between the teeth",
+          "is_correct": false
+        },
+        {
+          "answer": "Touching the tongue to the alveolar ridge",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "            Spanish voiced stop consonants (/b/, /d/, /g/) have two variants: a full stop and an approximant. \nThe /d/ sound can appear as a dental stop [d] or a voiced dental approximant [ð], especially between vowels. \nThe /b/ sound may be realised as a bilabial stop [b] at the start of a word or phrase, or as an approximant [β] between vowels, in which the lips approach but do not fully touch. \nLikewise, /g/ can be a velar stop [g] or a velar approximant [γ], particularly after vowels. \nUnderstanding these variants is important for accurate pronunciation and listening comprehension.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 12,
+    "page_end": 14,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

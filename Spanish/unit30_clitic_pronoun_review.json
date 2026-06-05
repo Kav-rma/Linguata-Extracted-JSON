@@ -1,0 +1,187 @@
+{
+  "title": "unit30_clitic_pronoun_review",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "When are they going to get to know the city?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "La van a ir a conocer esta tarde.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Are they going to see the commercial sector?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Sí, lo van a ver.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Are they going to see the cathedral?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Sí, la van a ver.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Are they going to see the Ministry of Foreign Affairs?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Sí, lo van a ver.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Are they going to visit the best cafés?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Sí, los van to visit.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Is Pablo going to visit them?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No, Pablo no los va a visitar.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Why isn't he going to visit them?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Porque ya los conoce.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What did my mother-in-law bring us?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Nos trajo muchas cosas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What did she bring to my wife?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Le trajo un vestido.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What did it seem like to her?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Le pareció muy bonito.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "What did she bring to my children?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Les trajo unas camisas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "Did the shirts please them a lot?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Sí, les gustaron mucho.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "What did she bring me?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Me trajo un par de zapatos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "Did she bring me shirts?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No, no le trajo camisas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "This lesson practises placing direct and indirect object pronouns with verbs in different tenses and constructions."
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following questions and answers into Spanish using the correct clitic pronouns."
+  }
+}

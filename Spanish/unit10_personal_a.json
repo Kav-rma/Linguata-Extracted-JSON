@@ -1,0 +1,91 @@
+{
+  "title": "unit10_personal_a",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "We see the car, but not the chauffeur.",
+      "type": "short_answer",
+      "answer": "Vemos el auto pero no al chofer.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "I see the house, but not the lady.",
+      "type": "short_answer",
+      "answer": "Veo la casa pero no a la señora.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "We see the building, but not the gentleman.",
+      "type": "short_answer",
+      "answer": "Vemos el edificio pero no al señor.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "They see the desk, but not the secretary.",
+      "type": "short_answer",
+      "answer": "Ven el escritorio pero no a la secretaria.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "I'm looking for the suitcases and the ladies also.",
+      "type": "short_answer",
+      "answer": "Busco las maletas y a las señoras también.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "We're looking for Carmen.",
+      "type": "short_answer",
+      "answer": "Buscamos a Carmen.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "We can't find John.",
+      "type": "short_answer",
+      "answer": "No encontramos a Juan.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "We can't find the house.",
+      "type": "short_answer",
+      "answer": "No encontramos la casa.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "I'm looking for the apartment.",
+      "type": "short_answer",
+      "answer": "Busco el apartamento.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Spanish, when the direct object of a verb refers to a specific person (or pets and sometimes groups), it is preceded by the preposition *a*. \nThis is called the personal *a*. For example, *Veo la casa pero no a la señora* shows the presence of *a* before *la señora* because she is a specific person. \nIn contrast, objects like *el auto* or *el apartamento* do not require the personal *a*. The personal *a* also appears with pronouns such as *alguien* and *nadie*."
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 18,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish, using the personal 'a' where appropriate."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "title": "unit11_negative_particle",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which sentence correctly places the negative particle in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "No quiero ir.",
+          "is_correct": true
+        },
+        {
+          "text": "Quiero no ir.",
+          "is_correct": false
+        },
+        {
+          "text": "No ir quiero.",
+          "is_correct": false
+        },
+        {
+          "text": "Ir no quiero.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How do you say 'He doesn't work here' in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "No trabaja aquí.",
+          "is_correct": true
+        },
+        {
+          "text": "Trabaja no aquí.",
+          "is_correct": false
+        },
+        {
+          "text": "No aquí trabaja.",
+          "is_correct": false
+        },
+        {
+          "text": "Él no trabaja aquí a.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which of the following Spanish sentences means 'She never helps me'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Ella nunca me ayuda.",
+          "is_correct": true
+        },
+        {
+          "text": "Ella me nunca ayuda.",
+          "is_correct": false
+        },
+        {
+          "text": "Nunca ella me ayuda.",
+          "is_correct": false
+        },
+        {
+          "text": "Ella no me nunca ayuda.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Where is 'no' placed to negate a verb in Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Before the conjugated verb.",
+          "is_correct": true
+        },
+        {
+          "text": "After the verb.",
+          "is_correct": false
+        },
+        {
+          "text": "At the end of the sentence.",
+          "is_correct": false
+        },
+        {
+          "text": "Between subject and verb.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Translate: 'They don't have the keys.'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "No tienen las llaves.",
+          "is_correct": true
+        },
+        {
+          "text": "Tienen no las llaves.",
+          "is_correct": false
+        },
+        {
+          "text": "No las tienen llaves.",
+          "is_correct": false
+        },
+        {
+          "text": "Las llaves no tienen.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Select the sentence that correctly translates 'I never send my suits there.'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Nunca mando mis trajes ahí.",
+          "is_correct": true
+        },
+        {
+          "text": "Mando nunca mis trajes ahí.",
+          "is_correct": false
+        },
+        {
+          "text": "Nunca mis trajes mando ahí.",
+          "is_correct": false
+        },
+        {
+          "text": "No mando nunca mis trajes ahí.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of these sentences is grammatically correct?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "No hablo con ellos.",
+          "is_correct": true
+        },
+        {
+          "text": "Hablo no con ellos.",
+          "is_correct": false
+        },
+        {
+          "text": "No con ellos hablo.",
+          "is_correct": false
+        },
+        {
+          "text": "No hablo ellos con.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Translate: 'He never works on Saturdays.'",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "Él nunca trabaja los sábados.",
+          "is_correct": true
+        },
+        {
+          "text": "Él no trabaja nunca los sábados.",
+          "is_correct": false
+        },
+        {
+          "text": "Nunca él trabaja los sábados.",
+          "is_correct": false
+        },
+        {
+          "text": "No él trabaja nunca los sábados.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In which sentence does the negative particle come after the verb?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "In no correct Spanish sentence.",
+          "is_correct": true
+        },
+        {
+          "text": "Yo voy no.",
+          "is_correct": false
+        },
+        {
+          "text": "Hablo no español.",
+          "is_correct": false
+        },
+        {
+          "text": "Trabaja no ella.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Choose the correct negative sentence: 'We do not study here'.",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "text": "No estudiamos aquí.",
+          "is_correct": true
+        },
+        {
+          "text": "Estudiamos no aquí.",
+          "is_correct": false
+        },
+        {
+          "text": "No aquí estudiamos.",
+          "is_correct": false
+        },
+        {
+          "text": "Estudiamos aquí no.",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Spanish, the negative particle *no* is placed immediately before the conjugated verb. It is never placed after the verb or between the subject and verb. For example, *No hablo español* means 'I don't speak Spanish.'"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

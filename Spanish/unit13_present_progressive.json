@@ -1,0 +1,99 @@
+{
+  "title": "unit13_present_progressive",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "I'm working at the Embassy.",
+      "type": "short_answer",
+      "answer": "Estoy trabajando en la Embajada.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "We're living downtown.",
+      "type": "short_answer",
+      "answer": "Estamos viviendo en el centro.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "They're writing now.",
+      "type": "short_answer",
+      "answer": "Están escribiendo ahora.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "I'm looking at the glasses.",
+      "type": "short_answer",
+      "answer": "Estoy viendo las gafas.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Who is calling?",
+      "type": "short_answer",
+      "answer": "¿Quién está llamando?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where are you living?",
+      "type": "short_answer",
+      "answer": "¿Dónde está viviendo?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What are they learning?",
+      "type": "short_answer",
+      "answer": "¿Qué están aprendiendo?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What time are they arriving?",
+      "type": "short_answer",
+      "answer": "¿A qué hora están llegando?",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "The girl is fixing the beds.",
+      "type": "short_answer",
+      "answer": "La muchacha está arreglando las camas.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "We're speaking less English.",
+      "type": "short_answer",
+      "answer": "Estamos hablando menos inglés.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "The present progressive in Spanish is formed with a conjugated form of *estar* plus a gerund (/-ndo/ form) of the main verb: *Estoy pensando* ('I am thinking'), *Estamos viviendo* ('We are living'), *Están escribiendo* ('They are writing'). \nThe gerund is invariable and does not change for number or gender. Use the progressive to describe actions in progress at the moment of speaking; unlike English, it is not normally used for future plans."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using the present progressive construction."
+  }
+}

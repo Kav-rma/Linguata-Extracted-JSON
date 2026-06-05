@@ -1,0 +1,139 @@
+{
+  "title": "unit28_indirect_commands",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "That you rent the house.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que alquiles la casa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "That you sell the car.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que vendas el carro.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "That María not speak English.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que María no hable inglés.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "That you take my clothes to the cleaners.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que lleves mi ropa a la tintorería.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "That the gentleman come up.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que suba el señor.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "That you don’t open the books.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que no abran los libros.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "That José buy the beer.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que José compre la cerveza.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "That you wait for me here.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que me esperes aquí.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "That they go for a walk.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que vayan a dar una vuelta.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "That you don’t leave early.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Que no salgas temprano.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish uses the expression *que* followed by the subjunctive to give indirect commands or make wishes about someone else’s actions. The verb form agrees with the person being commanded."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following indirect commands into Spanish."
+  }
+}

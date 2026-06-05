@@ -1,0 +1,157 @@
+{
+  "title": "unit16_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "This is the business section.",
+      "answers": [
+        {
+          "text": "Este es el sector comercial.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "The best stores in the city are here.",
+      "answers": [
+        {
+          "text": "Aquí están las mejores tiendas de la ciudad.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "Man, don’t tell my wife.",
+      "answers": [
+        {
+          "text": "¡Hombre! ¡No se lo diga a mi esposa!",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "What a lot of people on the street! What’s happening?",
+      "answers": [
+        {
+          "text": "¡Qué cantidad de gente en la calle! ¿Qué pasa?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "They’re just strolling.",
+      "answers": [
+        {
+          "text": "Nada en especial. Están paseando.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "Today is Sunday and they’ve just come out of church.",
+      "answers": [
+        {
+          "text": "Hoy es domingo y acaban de salir de misa.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "What church is that?",
+      "answers": [
+        {
+          "text": "¿Qué iglesia es aquélla?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "It’s the cathedral.",
+      "answers": [
+        {
+          "text": "Es la catedral.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "Jean, do you see the cafés so full?",
+      "answers": [
+        {
+          "text": "Jean, ¿ves los cafés tan llenos?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "Apparently they drink more coffee here than in the U.S.",
+      "answers": [
+        {
+          "text": "Por lo visto, acá toman más café que en los Estados Unidos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "type": "short_answer",
+      "question": "It’s just an excuse to get together and talk.",
+      "answers": [
+        {
+          "text": "Es sólo un pretexto para reunirse y conversar.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "type": "short_answer",
+      "question": "I’d like to see the old part of the city.",
+      "answers": [
+        {
+          "text": "Quisiera ver la parte vieja de la ciudad.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

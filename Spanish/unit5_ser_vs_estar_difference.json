@@ -1,0 +1,258 @@
+{
+  "title": "unit5_ser_vs_estar_difference",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Which verb expresses permanent or inherent qualities?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ser",
+          "is_correct": true
+        },
+        {
+          "answer": "estar",
+          "is_correct": false
+        },
+        {
+          "answer": "tener",
+          "is_correct": false
+        },
+        {
+          "answer": "ir",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Which verb is typically used to indicate location?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ser",
+          "is_correct": false
+        },
+        {
+          "answer": "estar",
+          "is_correct": true
+        },
+        {
+          "answer": "venir",
+          "is_correct": false
+        },
+        {
+          "answer": "hacer",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which sentence correctly uses 'ser'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "La casa es grande",
+          "is_correct": true
+        },
+        {
+          "answer": "Estoy profesora",
+          "is_correct": false
+        },
+        {
+          "answer": "Somos en el jardín",
+          "is_correct": false
+        },
+        {
+          "answer": "La comida está deliciosa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which sentence correctly uses 'estar'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Soy cansado",
+          "is_correct": false
+        },
+        {
+          "answer": "Estamos en la oficina",
+          "is_correct": true
+        },
+        {
+          "answer": "Es en la mesa",
+          "is_correct": false
+        },
+        {
+          "answer": "Están americanos",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "When referring to someone's profession, which verb is used?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ser",
+          "is_correct": true
+        },
+        {
+          "answer": "estar",
+          "is_correct": false
+        },
+        {
+          "answer": "hacer",
+          "is_correct": false
+        },
+        {
+          "answer": "tener",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "To express a temporary condition like being tired, you use:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ser",
+          "is_correct": false
+        },
+        {
+          "answer": "estar",
+          "is_correct": true
+        },
+        {
+          "answer": "hacer",
+          "is_correct": false
+        },
+        {
+          "answer": "poder",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Which of the following is an example of 'ser' used for identity?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Soy feliz",
+          "is_correct": true
+        },
+        {
+          "answer": "Estoy feliz",
+          "is_correct": false
+        },
+        {
+          "answer": "Tengo hambre",
+          "is_correct": false
+        },
+        {
+          "answer": "Voy a la playa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which verb is used for ages, times, dates?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "ser",
+          "is_correct": true
+        },
+        {
+          "answer": "estar",
+          "is_correct": false
+        },
+        {
+          "answer": "tener",
+          "is_correct": false
+        },
+        {
+          "answer": "haber",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "The sentence 'El café está frío' indicates:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "An inherent quality",
+          "is_correct": false
+        },
+        {
+          "answer": "A temporary state",
+          "is_correct": true
+        },
+        {
+          "answer": "Location",
+          "is_correct": false
+        },
+        {
+          "answer": "Identity",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "To say 'The meeting is at 8 p.m.' in Spanish, you use:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "estar",
+          "is_correct": false
+        },
+        {
+          "answer": "ser",
+          "is_correct": true
+        },
+        {
+          "answer": "hacer",
+          "is_correct": false
+        },
+        {
+          "answer": "ir",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "            Spanish distinguishes between two verbs that translate as 'to be': 'ser' and 'estar'. \n' Ser' describes inherent or permanent characteristics, identity, origin and time (e.g., 'La casa es grande' – 'The house is large'). \n'Estar' is used for temporary conditions, location or ongoing actions (e.g., 'Estamos en la oficina' – 'We are in the office'). \nConfusing the two is a common mistake; understanding the difference helps you choose the appropriate verb in context.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 14,
+    "page_end": 16,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

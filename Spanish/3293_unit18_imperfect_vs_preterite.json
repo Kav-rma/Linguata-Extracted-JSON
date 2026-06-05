@@ -1,0 +1,139 @@
+{
+  "title": "unit18_imperfect_vs_preterite",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "I used to work in an office.",
+      "answers": [
+        {
+          "text": "Trabajaba en una oficina.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "They didn’t pay me enough.",
+      "answers": [
+        {
+          "text": "No me pagaban bastante.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "The boss was a very nice person.",
+      "answers": [
+        {
+          "text": "El jefe era muy buena persona.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "I couldn’t see how to tell him.",
+      "answers": [
+        {
+          "text": "No veía cómo decírselo.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "What company did you work for?",
+      "answers": [
+        {
+          "text": "¿En qué compañía trabajó?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "I worked in an office.",
+      "answers": [
+        {
+          "text": "Trabajé en una oficina.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "He said we could come this Saturday or next.",
+      "answers": [
+        {
+          "text": "Dijo que podríamos venir este sábado o el próximo.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "Harris invited us to visit the Air Mission.",
+      "answers": [
+        {
+          "text": "Harris nos invitó a visitar la Misión de la Fuerza Aérea.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "She used to buy a lot there.",
+      "answers": [
+        {
+          "text": "Compraba mucho allí.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "We used to live in the capital.",
+      "answers": [
+        {
+          "text": "Vivíamos en la capital.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish distinguishes between the imperfect tense (used to / was doing) and the preterite (did). The imperfect expresses ongoing or habitual actions in the past, while the preterite expresses completed actions."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following sentences into Spanish, paying attention to whether the action is ongoing/habitual (imperfect) or completed (preterite).",
+    "page_start": 5,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

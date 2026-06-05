@@ -1,0 +1,139 @@
+{
+  "title": "unit18_invitations_and_requests",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "Harris invited us to visit the Air Mission.",
+      "answers": [
+        {
+          "text": "Harris nos invitó a visitar la Misión de la Fuerza Aérea.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "I’d like to go.",
+      "answers": [
+        {
+          "text": "Me gustaría ir.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "He said we could come this Saturday or next.",
+      "answers": [
+        {
+          "text": "Dijo que podríamos venir este sábado o el próximo.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "I’m not going to be able to go this Saturday.",
+      "answers": [
+        {
+          "text": "No voy a poder ir este sábado.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "We can leave it for the next one, then.",
+      "answers": [
+        {
+          "text": "Podemos dejarlo para el próximo, entonces.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "Don’t yourself stay.",
+      "answers": [
+        {
+          "text": "No se quede usted.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "Please carry the suitcases for us.",
+      "answers": [
+        {
+          "text": "Tenga la bondad de llevarnos las maletas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "Would you like to come?",
+      "answers": [
+        {
+          "text": "¿Le gustaría venir?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "They invited me to dinner.",
+      "answers": [
+        {
+          "text": "Me invitaron a cenar.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "Let’s go shopping with Mrs. Harris.",
+      "answers": [
+        {
+          "text": "Vamos de compras con la señora Harris.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "This lesson practises inviting someone and making polite requests. Pay attention to the verb forms and courtesy markers."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following invitations and polite requests into Spanish.",
+    "page_start": 8,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

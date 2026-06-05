@@ -1,0 +1,187 @@
+{
+  "title": "unit8_obligatory_contractions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "They want to go to the restaurant.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Quieren ir al restaurante.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "They want to go to the agency.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Quieren ir a la agencia.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "They're going to the same hotel.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Van al mismo hotel.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "This is the key to the house.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Esta es la llave de la casa.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "These are the keys to the apartment.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Estas son las llaves del apartamento.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Two hundred dollars a month.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Doscientos dólares al mes.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "This is Mr. Molina's car.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Este es el auto del señor Molina.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "This is the light bill.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Esta es la cuenta de la luz.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "This is the gas bill.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Esta es la cuenta del gas.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Change 'Quieren presentarle al señor' to plural (los señores).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Quieren presentarle a los señores.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question": "Change 'La llave del cuarto.' to plural (cuartos).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "La llave de los cuartos.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question": "Change 'La casa es de los señores.' to singular (señor).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "La casa es del señor.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question": "Change 'Quiero hablar de los apartamentos.' to singular (apartamento).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Quiero hablar del apartamento.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question": "Change 'Llévenos a los restaurantes.' to singular (restaurante).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Llévenos al restaurante.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish has two obligatory written contractions: al (a + el) and del (de + el). These contractions occur at all style levels whenever the prepositions a or de are followed by the masculine singular definite article el. For example, 'Quieren ir al restaurante' means 'They want to go to the restaurant,' and 'Esta es la cuenta del gas' means 'This is the gas bill.' No other contractions are written in standard Spanish, even though vowels frequently run together in speech."
+    }
+  ],
+  "metadata": {
+    "page_start": 15,
+    "page_end": 24,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using the correct contraction al or del where appropriate."
+  }
+}

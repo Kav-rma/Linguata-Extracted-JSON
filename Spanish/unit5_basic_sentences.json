@@ -1,0 +1,553 @@
+{
+  "title": "unit5_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "John, this is going to be your desk.",
+      "answer": [
+        {
+          "answer": "Juan, éste va a ser su escritorio.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Whatever you need, let me know.",
+      "answer": [
+        {
+          "answer": "Cualquier cosa que necesite, avíseme.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Very well. Thank you very much.",
+      "answer": [
+        {
+          "answer": "Muy bien. Muchísimas gracias.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What part of the States are you from?",
+      "answer": [
+        {
+          "answer": "¿De qué parte de los Estados Unidos es usted?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "I'm from San Francisco, California.",
+      "answer": [
+        {
+          "answer": "Soy de San Francisco, California.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Where are you from?",
+      "answer": [
+        {
+          "answer": "¿De dónde es usted?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "I'm from here.",
+      "answer": [
+        {
+          "answer": "Soy de aquí.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Did you come with your family?",
+      "answer": [
+        {
+          "answer": "¿Vino usted con su familia?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "No, I'm a bachelor.",
+      "answer": [
+        {
+          "answer": "No, soy soltero.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What about you? Are you married?",
+      "answer": [
+        {
+          "answer": "Y usted, ¿es casado?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "No, I'm a bachelor, too.",
+      "answer": [
+        {
+          "answer": "No, soy soltero también.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "What time is it?",
+      "answer": [
+        {
+          "answer": "¿Qué hora es?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "It's a quarter to twelve.",
+      "answer": [
+        {
+          "answer": "Son las doce menos cuarto.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "Are you hungry already?",
+      "answer": [
+        {
+          "answer": "¿Es que ya tiene hambre?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "Yes, quite. Is there a good restaurant near here?",
+      "answer": [
+        {
+          "answer": "Sí, bastante. ¿Hay un buen restorán cerca de aquí?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 16,
+      "question": "Yes, there is one around the corner that's good and inexpensive.",
+      "answer": [
+        {
+          "answer": "Sí, hay uno a la vuelta que es bueno y barato.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 17,
+      "question": "We can have lunch together. Does that seem all right to you?",
+      "answer": [
+        {
+          "answer": "Podemos almorzar juntos. ¿Le parece bien?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 18,
+      "question": "Sure. Let's go.",
+      "answer": [
+        {
+          "answer": "Cómo no. Vamos.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 19,
+      "question": "It's almost twelve.",
+      "answer": [
+        {
+          "answer": "Son casi las doce.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 20,
+      "question": "Can we have lunch together?",
+      "answer": [
+        {
+          "answer": "¿Podemos almorzar juntos?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 21,
+      "question": "All right, let's go. Where can we go?",
+      "answer": [
+        {
+          "answer": "Muy bien, vamos. ¿A dónde podemos ir?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 22,
+      "question": "Around the corner. There's a good restaurant there.",
+      "answer": [
+        {
+          "answer": "A la vuelta. Hay un buen restorán ahí.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 23,
+      "question": "Is it inexpensive?",
+      "answer": [
+        {
+          "answer": "¿Es barato?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 24,
+      "question": "Yes, it's quite inexpensive.",
+      "answer": [
+        {
+          "answer": "Sí, es bastante barato.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 25,
+      "question": "There is Carmen del Valle. Do you want to meet her?",
+      "answer": [
+        {
+          "answer": "Ahí está Carmen del Valle. ¿Quiere conocerla?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 26,
+      "question": "Yes, of course. Where is she?",
+      "answer": [
+        {
+          "answer": "Sí, cómo no. ¿Dónde está?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 27,
+      "question": "She's there, to the left.",
+      "answer": [
+        {
+          "answer": "Está ahí, a la izquierda.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 28,
+      "question": "Does Carmen speak English?",
+      "answer": [
+        {
+          "answer": "¿Habla inglés Carmen?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 29,
+      "question": "Yes, she speaks it very well. She learned it in the United States at school.",
+      "answer": [
+        {
+          "answer": "Sí, lo habla muy bien. Lo aprendió en los Estados Unidos en la escuela.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 30,
+      "question": "Hello, Carmen, how are you?",
+      "answer": [
+        {
+          "answer": "Hola, Carmen, ¿qué tal?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 31,
+      "question": "Hello, Jose, how are you? How's it going?",
+      "answer": [
+        {
+          "answer": "Hola, José, ¿qué tal? ¿Cómo le va?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 32,
+      "question": "Pretty well, thanks. Carmen, I want to introduce Mr. White, John White.",
+      "answer": [
+        {
+          "answer": "Bastante bien, gracias. Carmen, quiero presentarle al señor White, Juan White.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 33,
+      "question": "Pleased to meet you, sir.",
+      "answer": [
+        {
+          "answer": "Mucho gusto, señor.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 34,
+      "question": "Delighted to meet you, miss.",
+      "answer": [
+        {
+          "answer": "Encantado de conocerla, señorita.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 35,
+      "question": "Can we have lunch with you, Carmen?",
+      "answer": [
+        {
+          "answer": "¿Podemos almorzar con usted, Carmen?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 36,
+      "question": "Yes, of course, delighted. Please sit down.",
+      "answer": [
+        {
+          "answer": "Sí, cómo no, encantada. Siéntense.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 37,
+      "question": "John is from California, Carmen.",
+      "answer": [
+        {
+          "answer": "Juan es de California, Carmen.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 38,
+      "question": "Excuse me, what did you say?",
+      "answer": [
+        {
+          "answer": "Dispense, ¿cómo dice?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 39,
+      "question": "That John is from California.",
+      "answer": [
+        {
+          "answer": "Que Juan es de California.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 40,
+      "question": "Oh, really? What part? From San Francisco?",
+      "answer": [
+        {
+          "answer": "¿Ah, sí? ¿De qué parte? ¿De San Francisco?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 41,
+      "question": "No, I'm from San Diego.",
+      "answer": [
+        {
+          "answer": "No, soy de San Diego.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 42,
+      "question": "When did you arrive?",
+      "answer": [
+        {
+          "answer": "¿Cuándo vino?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 43,
+      "question": "Yesterday.",
+      "answer": [
+        {
+          "answer": "Ayer.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 44,
+      "question": "Did you come with your family?",
+      "answer": [
+        {
+          "answer": "¿Vino con la familia?",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    },
+    {
+      "sequence_id": 45,
+      "question": "No, I don't have family; I'm single.",
+      "answer": [
+        {
+          "answer": "No, yo no tengo familia, soy soltero.",
+          "is_correct": true
+        }
+      ],
+      "type": "short_answer",
+      "has_answer": true
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 0,
+    "page_end": 235,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

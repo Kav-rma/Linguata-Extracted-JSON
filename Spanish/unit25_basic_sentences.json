@@ -1,0 +1,193 @@
+{
+  "title": "unit25_basic_sentences",
+  "type": "vocabulary",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is your destination?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Cuál es su destino?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What do you plan to do in the United States?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Qué piensa hacer en los Estados Unidos?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "I want to live in the United States.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Quiero vivir en los Estados Unidos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Are you going with your family?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Va usted con su familia?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "No, I’m divorced.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "No, estoy divorciado.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What city are you going to?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿A qué ciudad va?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "I’m going to Los Angeles.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Voy a Los Ángeles.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What work are you going to do?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Qué trabajo va a hacer?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "I’m an engineer.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Soy ingeniero.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Do you have a job?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Tiene trabajo?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "Not yet, but I have money.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Todavía no, pero tengo dinero.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "How much money do you have?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Cuánto dinero lleva?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "I have three thousand dollars.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Tengo tres mil dólares.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "What’s your last name?",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Cuál es su apellido?",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "Moreno Rojas.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "Moreno Rojas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

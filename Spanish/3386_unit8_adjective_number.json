@@ -1,0 +1,139 @@
+{
+  "title": "unit8_adjective_number",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Change 'Es muy caro.' to plural (masculine).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Son muy caros.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question": "Replace 'caros' with 'baratos' in 'Son muy caros.'",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Son muy baratos.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question": "Complete the sentence with 'barato': 'Es muy ___.',",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Es muy barato.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question": "Complete the sentence with 'viejo': 'Es muy ___.',",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Es muy viejo.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question": "Fill in the blank: 'Soy ___ viejo.' (add 'muy').",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Soy muy viejo.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question": "Change 'Son muy viejos.' to singular (masculine).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Es muy viejo.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question": "Change 'Es muy bonita.' to plural (feminine).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Son muy bonitas.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question": "Make 'Esta casa no está mal.' plural (feminine).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Estas casas no están mal.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question": "Change 'Esos muebles no están mal.' to singular (masculine).",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Ese mueble no está mal.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question": "Make 'Esta información no está mal.' plural.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "text": "Estas informaciones no están mal.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Adjectives in Spanish must agree in number and gender with the nouns they modify. When a noun is plural, the adjective also takes a plural form, typically by adding -s to adjectives ending in a vowel or -es to adjectives ending in a consonant. For example, 'Es muy caro' (It is very expensive) becomes 'Son muy caros' when referring to a plural masculine noun. Similarly, 'Es muy vieja' becomes 'Son muy viejas' in the plural."
+    }
+  ],
+  "metadata": {
+    "page_start": 22,
+    "page_end": 28,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Adjust the following adjectives and sentences to agree in number with the noun as indicated."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "unit10_past_participle_adjectives",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "I have a vacant apartment.",
+      "type": "short_answer",
+      "answer": "Tengo un apartamento desocupado.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "That young lady is happy here.",
+      "type": "short_answer",
+      "answer": "Esa señorita está encantada aquí.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The secretaries are happy here.",
+      "type": "short_answer",
+      "answer": "Las secretarias están encantadas aquí.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "At the language school they're very busy.",
+      "type": "short_answer",
+      "answer": "En la escuela de lenguas están muy ocupados.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The chauffeur is busy.",
+      "type": "short_answer",
+      "answer": "El chofer está ocupado.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The house is rented.",
+      "type": "short_answer",
+      "answer": "La casa está alquilada.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "I also have a vacant house.",
+      "type": "short_answer",
+      "answer": "También tengo una casa desocupada.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "She's not single; she's married.",
+      "type": "short_answer",
+      "answer": "Ella no es soltera. Es casada.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "They are married.",
+      "type": "short_answer",
+      "answer": "Ellos son casados.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The rooms are rented.",
+      "type": "short_answer",
+      "answer": "Los cuartos están alquilados.",
+      "is_correct": true,
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "The apartment is quite fixed up.",
+      "type": "short_answer",
+      "answer": "El apartamento está muy arreglado.",
+      "is_correct": true,
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Spanish participles ending in *-ado* or *-ido* can function as adjectives when used with the verbs *ser* or *estar*. \nWhen functioning as adjectives, they agree in gender and number with the noun they modify, as in *Las camas están arregladas* ('The beds are made'). \nWhen used with *haber* in perfect tenses, participles remain invariable."
+    }
+  ],
+  "metadata": {
+    "page_start": 28,
+    "page_end": 34,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following sentences into Spanish using participles as adjectives with ser/estar."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "unit10_conversations",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "CLIENTE: ¿Me lleva al hotel?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "TAXISTA: Sí, claro. Lléveme al hotel."
+    },
+    {
+      "sequence_id": 3,
+      "text": "CLIENTE: ¿Nos lleva al centro?"
+    },
+    {
+      "sequence_id": 4,
+      "text": "TAXISTA: Llévenos al centro."
+    },
+    {
+      "sequence_id": 5,
+      "text": "CLIENTE: Te espero."
+    }
+  ],
+  "metadata": {
+    "page_start": 20,
+    "page_end": 24,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}

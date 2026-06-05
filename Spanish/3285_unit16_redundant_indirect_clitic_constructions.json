@@ -1,0 +1,139 @@
+{
+  "title": "unit16_redundant_indirect_clitic_constructions",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "He sends me the newspaper.",
+      "answers": [
+        {
+          "text": "Me manda el periódico.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "He sends me the newspaper (emphatic).",
+      "answers": [
+        {
+          "text": "A mí me manda el periódico.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "He has given us the furniture.",
+      "answers": [
+        {
+          "text": "Nos ha dado los muebles.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "He has given us the furniture (emphatic).",
+      "answers": [
+        {
+          "text": "A nosotros nos ha dado los muebles.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "I speak to them in English.",
+      "answers": [
+        {
+          "text": "Les hablo en inglés.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "I speak to them in English (emphatic).",
+      "answers": [
+        {
+          "text": "A ellos les hablo en inglés.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "I write her in Spanish.",
+      "answers": [
+        {
+          "text": "Le escribo en español.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "I write her in Spanish (emphatic).",
+      "answers": [
+        {
+          "text": "A ella le escribo en español.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "He brings us the car.",
+      "answers": [
+        {
+          "text": "Nos trae el carro.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "He brings us the car (emphatic).",
+      "answers": [
+        {
+          "text": "A nosotros nos trae el carro.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In Spanish, indirect clitic pronouns can be reinforced with a phrase containing 'a' plus a pronoun (e.g., a mí, a ti). This redundant construction clarifies or emphasizes the recipient. Practice translating both neutral and emphatic sentences."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following sentences into Spanish, using redundant constructions when indicated.",
+    "page_start": 12,
+    "page_end": 15,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}

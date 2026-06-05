@@ -1,0 +1,258 @@
+{
+  "title": "unit1_intonation_patterns",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "In Spanish intonation, which pitch level typically marks the beginning of a statement?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Low",
+          "is_correct": false
+        },
+        {
+          "answer": "Middle",
+          "is_correct": false
+        },
+        {
+          "answer": "High",
+          "is_correct": true
+        },
+        {
+          "answer": "Falling",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How many basic pitch levels are described in the Spanish intonation system?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two",
+          "is_correct": false
+        },
+        {
+          "answer": "Three",
+          "is_correct": true
+        },
+        {
+          "answer": "Four",
+          "is_correct": false
+        },
+        {
+          "answer": "Five",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Spanish rhythm is characterised by:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Evenly timed syllables",
+          "is_correct": true
+        },
+        {
+          "answer": "Lengthening stressed syllables",
+          "is_correct": false
+        },
+        {
+          "answer": "Clipping unstressed vowels",
+          "is_correct": false
+        },
+        {
+          "answer": "Monotone pitch",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Why is practising Spanish intonation patterns important for English speakers?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "English and Spanish intonation are identical",
+          "is_correct": false
+        },
+        {
+          "answer": "English speakers tend to transfer their native intonation patterns",
+          "is_correct": true
+        },
+        {
+          "answer": "Spanish has no intonation patterns",
+          "is_correct": false
+        },
+        {
+          "answer": "Intonation only matters in questions",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Which of the following sentences demonstrates a rising intonation pattern?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "¿Cómo está?",
+          "is_correct": true
+        },
+        {
+          "answer": "Es un libro",
+          "is_correct": false
+        },
+        {
+          "answer": "No hay problema",
+          "is_correct": false
+        },
+        {
+          "answer": "Estoy bien",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "A falling intonation pattern in Spanish often conveys:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A question",
+          "is_correct": false
+        },
+        {
+          "answer": "An affirmative statement",
+          "is_correct": true
+        },
+        {
+          "answer": "Surprise",
+          "is_correct": false
+        },
+        {
+          "answer": "A command",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "The middle pitch level in Spanish intonation indicates:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The end of a sentence",
+          "is_correct": false
+        },
+        {
+          "answer": "Continuation or parenthetical information",
+          "is_correct": true
+        },
+        {
+          "answer": "A question",
+          "is_correct": false
+        },
+        {
+          "answer": "Stress on a syllable",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Which pitch pattern is associated with contrast or uncertainty?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Rising",
+          "is_correct": true
+        },
+        {
+          "answer": "Falling",
+          "is_correct": false
+        },
+        {
+          "answer": "High-to-low",
+          "is_correct": false
+        },
+        {
+          "answer": "Low-to-high",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What happens if you apply English intonation patterns to Spanish speech?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "It improves pronunciation",
+          "is_correct": false
+        },
+        {
+          "answer": "It may sound unnatural",
+          "is_correct": true
+        },
+        {
+          "answer": "It has no effect",
+          "is_correct": false
+        },
+        {
+          "answer": "It makes comprehension easier",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "How can Spanish intonation patterns be internalised effectively?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By reading silently",
+          "is_correct": false
+        },
+        {
+          "answer": "By practising with nonsense syllables and sentences",
+          "is_correct": true
+        },
+        {
+          "answer": "By focusing only on grammar",
+          "is_correct": false
+        },
+        {
+          "answer": "By ignoring stress",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "            Spanish intonation involves three basic pitch levels: high, middle and low. \nStatements often begin at a high pitch and gradually fall, while questions may rise at the end. \nThe middle pitch level indicates continuation or parenthetical information, and the low pitch often signals the end of a statement. \nBecause English has different intonation patterns, English speakers must practise Spanish intonation using words and sentences, paying attention to rising and falling patterns. \nPractising with nonsense words and syllables can help you focus on pitch without worrying about vocabulary.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

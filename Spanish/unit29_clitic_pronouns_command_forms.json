@@ -1,0 +1,199 @@
+{
+  "title": "unit29_clitic_pronouns_command_forms",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "The book? Give it to them.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El libro? Déselo a ellos.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "The coffee? Bring it to me now.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El café? Tráigamelo ahora.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "The children? Don't bring them.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Los niños? No los traiga.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "The keys? Take them to Paul.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Las llaves? Lléveselas a Pablo.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "The ash tray? Don't put it there.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El cenicero? No lo pongas allí.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "The milk? Don't bring it to me yet.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La leche? No me la traigas todavía.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "The salad? Make it now.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La ensalada? Hágala ya.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "The letters? Write them now.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Las cartas? Escríbalas ahora.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "The furniture? Sell it to my sister.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Los muebles? Véndaselos a mi hermana.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The handbag? Send it to me tomorrow.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El maletín? Mándemelo mañana.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 11,
+      "question": "The list? Check it.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La lista? Revísela.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 12,
+      "question": "The lawn? Take care of it.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿El césped? Cuídelo.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 13,
+      "question": "The photos? Ask Mary.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Las fotos? Pídaselas a María.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 14,
+      "question": "The living room? Don't sweep it today.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿La sala? No la barra hoy.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 15,
+      "question": "The chairs? Clean them now.",
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer": "¿Las sillas? Límpielas ahora.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "This lesson reviews the placement of clitic pronouns with affirmative and negative commands. In affirmative commands, object pronouns follow the verb and are attached to it (e.g., \"Tráigamelo\" – Bring it to me). In negative commands, the object pronouns precede the verb and come after \"no\" (e.g., \"No me lo traiga\" – Don't bring it to me). Two clitic pronouns retain their relative order regardless of position."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 12,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "instructions": "Translate the following requests and commands into Spanish using the appropriate clitic pronouns."
+  }
+}

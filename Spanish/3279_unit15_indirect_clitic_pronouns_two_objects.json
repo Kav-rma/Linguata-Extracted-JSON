@@ -1,0 +1,139 @@
+{
+  "title": "unit15_indirect_clitic_pronouns_two_objects",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "type": "short_answer",
+      "question": "He sends me the newspaper.",
+      "answers": [
+        {
+          "text": "Me manda el periódico.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "type": "short_answer",
+      "question": "He has given us the furniture.",
+      "answers": [
+        {
+          "text": "Nos ha dado los muebles.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "type": "short_answer",
+      "question": "I speak to them in English.",
+      "answers": [
+        {
+          "text": "Les hablo en inglés.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "type": "short_answer",
+      "question": "I write her in Spanish.",
+      "answers": [
+        {
+          "text": "Le escribo en español.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "type": "short_answer",
+      "question": "She cleans the apartment for him.",
+      "answers": [
+        {
+          "text": "Le limpia el apartamento.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "type": "short_answer",
+      "question": "He brings us the car.",
+      "answers": [
+        {
+          "text": "Nos trae el carro.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "type": "short_answer",
+      "question": "He writes me very little.",
+      "answers": [
+        {
+          "text": "Me escribe muy poco.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "type": "short_answer",
+      "question": "He helps her to clean.",
+      "answers": [
+        {
+          "text": "Le ayuda a limpiar.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "type": "short_answer",
+      "question": "She washes their shirts for them.",
+      "answers": [
+        {
+          "text": "Les lava las camisas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "type": "short_answer",
+      "question": "Someone brings them the suitcases.",
+      "answers": [
+        {
+          "text": "Alguien les lleva las maletas.",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "When a verb has both a direct object and an indirect clitic pronoun, the indirect pronoun indicates to whom something is given or done. These exercises practise sentences with two objects."
+    }
+  ],
+  "metadata": {
+    "instructions": "Translate the following sentences into Spanish, using indirect clitic pronouns with a direct object.",
+    "page_start": 8,
+    "page_end": 11,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false
+  }
+}
