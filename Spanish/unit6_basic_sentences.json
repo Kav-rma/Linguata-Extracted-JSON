@@ -4,283 +4,610 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "There's an empty table over there.",
-      "answer": [
+      "question_text": "desocupado (desocupar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Allí hay una mesa desocupada.",
+          "answer_text": "empty (tovacate, empty)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "Let's sit down.",
-      "answer": [
+      "question_text": "Allí hay una mesadesocupada.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Vamos a sentarnos.",
+          "answer_text": "There's anempty table overthere.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "Let's see the menu.",
-      "answer": [
+      "question_text": "nos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Veamos el menú.",
+          "answer_text": "ourselves",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "What will you have, gentlemen?",
-      "answer": [
+      "question_text": "sentarnos (sentarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "¿Qué desean ustedes, señores?",
+          "answer_text": "toseat ourselves (toseat oneself, to sit down)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "I want a ham sandwich.",
-      "answer": [
+      "question_text": "Vamos a sentarnos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Yo quiero un sándwich de jamón.",
+          "answer_text": ", Let's sit down. bamos.asentárnos",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Also a lettuce and tomato salad.",
-      "answer": [
+      "question_text": "veamos (ver)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "También ensalada de lechuga y tomate.",
+          "answer_text": "let's see (tosee)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "And a beer.",
-      "answer": [
+      "question_text": "el menú",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Y una cerveza.",
+          "answer_text": "the menu",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "Bring me vegetable soup, pork chops and wine.",
-      "answer": [
+      "question_text": "Veamos el menú.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "A mí tráigame sopa de legumbres, chuletas de cerdo y vino.",
+          "answer_text": "béamos.e Let's see the menu.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "What will you have for dessert?",
-      "answer": [
+      "question_text": "desean (desear)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "De postre, ¿qué quieren?",
+          "answer_text": "(you) wish (towish)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "There's some apple pie that's very good.",
-      "answer": [
+      "question_text": "¿Qué deseaD ustedes,sdores?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Hay un pastel de manzana que es muy bueno.",
+          "answer_text": ", Whatwill have,gentlemeD?",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "Shall we try it?",
-      "answer": [
+      "question_text": "el jamón",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "¿Lo probamos?",
+          "answer_text": "the ham",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "I've already had it. It's good.",
-      "answer": [
+      "question_text": "la ensalada",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Yo ya lo he comido. Es bueno.",
+          "answer_text": "the salad",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "Bring us both some.",
-      "answer": [
+      "question_text": "la lechuga",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Traiga para los dos.",
+          "answer_text": "the lettuce",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "What do you say if we use 'tú'?",
-      "answer": [
+      "question_text": "eltomate",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "¿Qué le parece si nos tratamos de 'tú'?",
+          "answer_text": "the tomato",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 15,
-      "question": "You're right. Good idea.",
-      "answer": [
+      "question_text": "traiga (traer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Tienes razón. Muy bien.",
+          "answer_text": "bring (tobring)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 16,
-      "question": "Are you going to live at the hotel?",
-      "answer": [
+      "question_text": "trá ig ame",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "¿Vas a vivir en el hotel?",
+          "answer_text": "bring me",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 17,
-      "question": "No, I plan to look for an apartment.",
-      "answer": [
+      "question_text": "la legumbre",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "No, pienso buscar un apartamento.",
+          "answer_text": "the vegetable",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 18,
-      "question": "Is it easy to find one here?",
-      "answer": [
+      "question_text": "la chuleta",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "¿Es fácil de encontrar aquí?",
+          "answer_text": "the chop",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 19,
-      "question": "I think so.",
-      "answer": [
+      "question_text": "el cerdo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Yo creo que sí.",
+          "answer_text": "the porle, pig",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 20,
-      "question": "If you want, I can help you.",
-      "answer": [
+      "question_text": "el vino",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "Si quieres, yo te puedo ayudar.",
+          "answer_text": "the wine",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 21,
-      "question": "Waiter! The check.",
-      "answer": [
+      "question_text": "el postre",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "sequence_id": 1,
-          "text": "¡Mozo! La cuenta.",
+          "answer_text": "the dessert",
           "is_correct": true
         }
-      ],
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "de postre",
+      "has_answer": true,
       "type": "short_answer",
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "of dessert",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "quieren (querer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) want (to want)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "la manzana",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the apple",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "probamos (probar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) try (totry, to taste)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "John Ifhite ¿Lo probamos?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "John Jfhite loprbbamost Shall we try it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "he (haber)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) have (to have)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "comido (comer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "eaten (to eal)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "he comido",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) have eaten",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "para",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "for",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "tratar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to treat",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "nos tratamos de tú (tratarse de)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "ourselves (we) treat of you (to address as)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "tienes (tener)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) have (to have)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "larazón",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the reason",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Tienes razón. Muy bien.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "you're right. Good idea.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "pienso (pensar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) think (tothink)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "buscar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to look for",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "el apartamento",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the apartment",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "encontrar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "tofind",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "¿Es f'cH de encontrar aqui?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "la it easy tofind one bere?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "creo (creer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) believe (lobelieve)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "Yo creo que si.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "quieres (querer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(youfam.) want (towant)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "te",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "you, to you (fam)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "puedo (poder)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) can (lobe able)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "ayudar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to belp",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Siquieres, yote puedoarad••",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hyou want,l can belpyou.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "la cuenta",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the cbeck,tbe bill ,",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "¡Mozol La cuenta.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "\"aiter! the cbeck.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "6.5",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "CINCO",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 4,
-    "are_questions_english": true,
+    "page_end": 6,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

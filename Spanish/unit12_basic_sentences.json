@@ -4,90 +4,622 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "She's American, but I'm Spanish.",
+      "question_text": "pasa (pasar)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Ella es americana, pero yo soy español.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "(it) happens (to happen)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "I'm single, but he's married.",
+      "question_text": "¿Qué te pasa, Juan?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Yo soy soltero, pero él es casado.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "What's the matter, John?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "They're from here, but we are from Chile.",
+      "question_text": "sé (saber)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Ellos son de aquí, pero nosotros somos de Chile.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "(I) know (to know)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "She drinks water and I drink whisky and soda.",
+      "question_text": "No sé. No hay agua en mi apartamento.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Ella bebe agua y yo whisky con soda.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "I don't know. There's no water in my apartment.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "He is in the patio, and she is in the kitchen.",
+      "question_text": "no digas (decir)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Él está en el patio, y ella en la cocina.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "don't tell (to tell)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "They are Spanish, and we are too.",
+      "question_text": "¡No me digas! ¿Otra vez?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Ellas son españolas y nosotros también.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Don't tell me! Again?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Are we going, or are they?",
+      "question_text": "bañar",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "¿Vamos nosotros o van ellos?",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "to bathe",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "Am I going, or are you all?",
+      "question_text": "bañarme (bañarse)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "¿Voy yo o van Uds.?",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "to bathe myself (to bathe oneself)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "Are they going, or are we?",
+      "question_text": "afeitar",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "¿Van ellos o vamos nosotros?",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "to shave",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "Who wants ham? You or he?",
+      "question_text": "afeitarme (afeitarse)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "¿Quién quiere jamón? ¿Ud. o él?",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "to shave myself (to shave oneself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "¡Y yo que estoy sin bañarme y sin afeitarme!",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And here I am without having bathed or shaved!",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "estaba (estar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) was (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "limpiándome (limpiarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "cleaning myself (to clean oneself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "estaba limpiándome",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) was cleaning (myself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "el diente",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the tooth",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Yo estaba limpiándome los dientes.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I was brushing my teeth.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "iba (ir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "went, was going (to go)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "iba a darme",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "was going to give myself",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "la ducha",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the shower",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Iba a darme una ducha también.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I was going to take a shower, too.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "la broma",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the joke",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "el chico",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the boy",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "¡Qué broma, chico!",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What a fix, chum!",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "La fiesta es a las siete.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The party is at seven!",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "apenas",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "scarcely, barely",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "tenemos (tener)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) have (to have)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "medio",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "half",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "para",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to, in order to",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "vestir",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to dress",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "vestirnos (vestirse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to dress ourselves (to dress oneself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Apenas tenemos media hora para vestirnos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "We barely have half an hour to get dressed.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "el momento",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the moment",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "un momento",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "just a minute",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "voy (ir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) go (to go)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "llegó (llegar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) arrived (to arrive)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Un momento. Voy a ver si llegó el agua.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Just a minute. I'm going to see if the water has come on.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Sí, ya hay.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes, it has.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "la prisa",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the haste",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "darme prisa (darse prisa)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to hurry myself (to hurry oneself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Me voy entonces. Tengo que darme prisa.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'm going, then. I've got to hurry.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "oye (oir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "listen (to listen)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "por fin",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "at last",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Oye, por fin, ¿a quién vas a llevar?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hey, who did you finally decide to take?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "gordito (gordo)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "a little fat (fat)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "la gordita",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the chubby girl",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "las gafas",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the eye glasses",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "A la gordita de las gafas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The chubby gal with the glasses.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "salir",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to leave, to go out",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "al salir",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "on leaving",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "llamar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to call",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "Bueno, al salir te llamo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Fine. I'll call you when I leave.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": 12,
-    "page_end": 15,
-    "are_questions_english": true,
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

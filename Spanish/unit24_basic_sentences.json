@@ -4,238 +4,526 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "Do we go to the ladies' department?",
+      "question_text": "el departamento",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Vamos al departamento de señoras?",
+          "answer_text": "the department",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "Yes, I have to buy myself a pair of shoes.",
+      "question_text": "¿Vamos al departamento de señoras?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Sí, yo tengo que comprarme un par de zapatos.",
+          "answer_text": "Shall we go to the women's department?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "No, the footwear is in another section.",
+      "question_text": "el par",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "No, el calzado está en otra sección.",
+          "answer_text": "the pair",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "There are only dresses, coats and hats there.",
+      "question_text": "el zapato",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Allí sólo hay vestidos, abrigos y sombreros.",
+          "answer_text": "the shoe",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "Do you buy ready‑made clothes?",
+      "question_text": "Sí, yo tengo que comprarme un par de zapatos.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Usted compra la ropa hecha?",
+          "answer_text": "Yes, I have to buy myself a pair of shoes.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Sometimes.",
+      "question_text": "el calzado",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Algunas veces.",
+          "answer_text": "the footwear",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "But now I need material for a skirt and a blouse.",
+      "question_text": "No, el calzado está en otra sección.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Pero ahora me hace falta tela para una falda y una blusa.",
+          "answer_text": "No, the footwear is in another section.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "Do you sew?",
+      "question_text": "el vestido",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Usted cose?",
+          "answer_text": "the dress",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "No, I have a dressmaker.",
+      "question_text": "el abrigo",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "No, tengo una modista.",
+          "answer_text": "the topcoat",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "Men’s clothes are downstairs.",
+      "question_text": "el sombrero",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Los artículos para caballeros están abajo.",
+          "answer_text": "the hat",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "Shall we go down?",
+      "question_text": "Allí sólo hay vestidos, abrigos y sombreros.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Bajamos?",
+          "answer_text": "There, there are only dresses, topcoats, and hats.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "No, we’ll see them on the way out.",
+      "question_text": "hecho (hacer)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "No, a la salida los vemos.",
+          "answer_text": "made (to make)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "Let’s go upstairs for your things.",
+      "question_text": "la ropa hecha",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Vámonos arriba por lo suyo.",
+          "answer_text": "ready made clothes",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "What time is it?",
+      "question_text": "¿Usted compra la ropa hecha?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Qué hora es?",
+          "answer_text": "Do you buy ready-made clothes?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 15,
-      "question": "It’s five twenty‑five.",
+      "question_text": "Algunas veces.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Son las cinco y veinticinco.",
+          "answer_text": "Some times.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 16,
-      "question": "If we don’t hurry, it’ll get late on us.",
+      "question_text": "la falta",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Si no nos damos prisa, se nos hace tarde.",
+          "answer_text": "the lack",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 17,
-      "question": "You can see that she’s very good. You dress very well.",
+      "question_text": "hacer falta",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Se ve que es muy buena. Usted se viste muy bien.",
+          "answer_text": "to (make a) lack",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 18,
-      "question": "I’d like a tie for my husband.",
+      "question_text": "la tela",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Quisiera una corbata para mi marido.",
+          "answer_text": "the cloth",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 19,
-      "question": "Let’s go upstairs.",
+      "question_text": "la falda",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Vámonos arriba.",
+          "answer_text": "the skirt",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "la blusa",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the blouse",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Pero ahora me hace falta tela para una falda y una blusa.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "But now I need material for a skirt and a blouse.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "coser",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to sew",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Ah, ¿Usted cose?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Oh, do you sew?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "el modista, la modista",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the dressmaker",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "No, tengo una modista.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, I have a dressmaker.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "se ve (verse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "itself (it) sees (to see itself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Se ve que es muy buena. Usted se viste muy bien.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "You can see that she's very good. You dress very well.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "Gracias.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thank you.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "la corbata",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the tie",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "el marido",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the husband",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Quisiera una corbata para mi marido.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'd like a tie for my husband.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "el artículo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the article",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "el caballero",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the gentleman",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "abajo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "down",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Los artículos para caballeros están abajo. ¿Bajamos?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Men's clothes are downstairs. Shall we go down?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "la salida",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the exit, way out",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "No, a la salida los vemos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, we'll see them on the way out.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "vámonos (irse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "let's go (to go out, away)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "arriba",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "up",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Vámonos arriba por lo suyo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Let's go upstairs for your things.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "¿Qué hora es?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What time is it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "Son las cinco y veinticinco.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's five twenty five.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Si no nos damos prisa, se nos hace tarde.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "If we don't hurry, we'll be late.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
     "page_end": 4,
-    "are_questions_english": true,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

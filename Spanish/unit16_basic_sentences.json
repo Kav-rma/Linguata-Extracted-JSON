@@ -4,154 +4,766 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
+      "question_text": "el sector",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "This is the business section.",
       "answers": [
         {
-          "text": "Este es el sector comercial.",
+          "answer_text": "the sector, section",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
+      "question_text": "comercial",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "The best stores in the city are here.",
       "answers": [
         {
-          "text": "Aquí están las mejores tiendas de la ciudad.",
+          "answer_text": "commercial",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
+      "question_text": "Este es el sector comercial.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Man, don’t tell my wife.",
       "answers": [
         {
-          "text": "¡Hombre! ¡No se lo diga a mi esposa!",
+          "answer_text": "This is the business section.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
+      "question_text": "mejor",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "What a lot of people on the street! What’s happening?",
       "answers": [
         {
-          "text": "¡Qué cantidad de gente en la calle! ¿Qué pasa?",
+          "answer_text": "better, best",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
+      "question_text": "la tienda",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "They’re just strolling.",
       "answers": [
         {
-          "text": "Nada en especial. Están paseando.",
+          "answer_text": "the store",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
+      "question_text": "la ciudad",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Today is Sunday and they’ve just come out of church.",
       "answers": [
         {
-          "text": "Hoy es domingo y acaban de salir de misa.",
+          "answer_text": "the city",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
+      "question_text": "Aquí están las mejores tiendas de la ciudad.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "What church is that?",
       "answers": [
         {
-          "text": "¿Qué iglesia es aquélla?",
+          "answer_text": "The best stores in the city are here.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
+      "question_text": "se (le)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "It’s the cathedral.",
       "answers": [
         {
-          "text": "Es la catedral.",
+          "answer_text": "to her",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
+      "question_text": "¡Hombre! ¡No se lo diga a mi esposa!",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Jean, do you see the cafés so full?",
       "answers": [
         {
-          "text": "Jean, ¿ves los cafés tan llenos?",
+          "answer_text": "Man, don't tell my wife that.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
+      "question_text": "¿Por qué no?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Apparently they drink more coffee here than in the U.S.",
       "answers": [
         {
-          "text": "Por lo visto, acá toman más café que en los Estados Unidos.",
+          "answer_text": "Why not?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
+      "question_text": "la gente",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "It’s just an excuse to get together and talk.",
       "answers": [
         {
-          "text": "Es sólo un pretexto para reunirse y conversar.",
+          "answer_text": "the people",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
+      "question_text": "¡Qué cantidad de gente en la calle! ¿Qué pasa?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I’d like to see the old part of the city.",
       "answers": [
         {
-          "text": "Quisiera ver la parte vieja de la ciudad.",
+          "answer_text": "What a lot of people on the street. What's happening?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "especial",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "special",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "pasear",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to stroll",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Nada en especial. Están paseando.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Nothing special. They're just strolling.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "hoy",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "today",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "acabar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to finish",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "acabar de...",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to have just...",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "la misa",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the Mass",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Hoy es domingo y acaban de salir de misa.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Today is Sunday and they've just come out of church.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "la iglesia",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the church",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "¿Qué iglesia es aquélla?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What church is that?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "la catedral",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the cathedral",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Es la catedral",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's the cathedral.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "el ministerio",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the ministry",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "la relación",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the relation",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "exterior",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "exterior",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "el Ministerio de Relaciones Exteriores.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the Foreign Affairs Office",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Y ése es el Ministerio de Relaciones Exteriores.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And that's the Foreign Office.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "el café",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the cafe",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "tan",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "so",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "lleno",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "full",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Jean, ¿ves los cafés tan llenos?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Jean, see how full the cafes are?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "visto (ver)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "seen (to see)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "por lo visto",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "from appearances, apparently",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "acá",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "here",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "tomar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to take, to drink",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "el café",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the coffee",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Sí. Por lo visto, acá toman más café que en los Estados Unidos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes, apparently they drink more coffee here than in the U. S.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "el pretexto",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the pretext, excuse",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "reunirse",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to get together, assemble",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "conversar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to converse, to chat",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Es sólo un pretexto para reunirse a conversar.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's just an excuse to get together and talk.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "quisiera (querer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) would like (to want)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "antiguo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "old, ancient",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "Yo quisiera ver la parte antigua de la ciudad.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'd like to see the old part of the city.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "No vale la pena.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's not worth the trouble.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "el año",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the year",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "hace... que está",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "it makes... that it is; it has been... for",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "abandonado (abandonar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "neglected (to neglect, abandon)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "Hace años que está muy abandonada.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's been neglected for years.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "qué va",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "nonsense",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "magnífico",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "magnificent",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "¡Qué va! Es magnífica.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What do you mean! It's magnificent!",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "estuve (estar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) was (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "hace (unos días)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(a few days) ago",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "Yo estuve ahí hace unos días.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I was there a few days ago.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "el pie",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the foot",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "ir a pie",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to go by foot",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "Otro día vamos a pie.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Some other day we'll walk through it.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "porque",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "because",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "estrecho",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "narrow",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 63,
+      "question_text": "Porque las calles allí son muy estrechas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Because the streets there are very narrow.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
     "page_end": 5,
-    "are_questions_english": true,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

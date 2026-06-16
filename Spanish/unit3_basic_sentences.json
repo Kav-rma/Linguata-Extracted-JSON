@@ -4,312 +4,840 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "Do you like the room?",
-      "type": "short_answer",
+      "question_text": "gusta (gustar)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Le gusta el cuarto?",
+          "answer_text": "(it) pleases, is pleasing (to please)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question": "Yes, I do.",
-      "type": "short_answer",
+      "question_text": "le gusta",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Sí, me gusta.",
+          "answer_text": "to you is pleasing",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question": "Do you want soda water?",
-      "type": "short_answer",
+      "question_text": "el cuarto",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Quiere usted agua mineral?",
+          "answer_text": "the room",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question": "Yes. Bring it up to me later.",
-      "type": "short_answer",
+      "question_text": "Mozo ¿Le gusta el cuarto?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Sí. Súbamela después.",
+          "answer_text": "Do you like the room?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question": "Do you need anything else?",
-      "type": "short_answer",
+      "question_text": "me gusta",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Necesita algo más?",
+          "answer_text": "to me is pleasing",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question": "Is the American Embassy near here?",
-      "type": "short_answer",
+      "question_text": "IVAite Sí, me gusta.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Está la Embajada Americana cerca de aquí?",
+          "answer_text": "IVAite Yes,",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question": "No. It's quite a distance.",
-      "type": "short_answer",
+      "question_text": "quiere (querer)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "No. Está lejos.",
+          "answer_text": "(you) want (to waDt)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question": "On Columbus Avenue.",
-      "type": "short_answer",
+      "question_text": "mineral",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "En la avenida de Colón.",
+          "answer_text": "mineral",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question": "It's necessary to take a taxi.",
-      "type": "short_answer",
+      "question_text": "agua mineral",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Hay que tomar un taxi.",
+          "answer_text": "soda water",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question": "Thanks. Here you are.",
-      "type": "short_answer",
+      "question_text": "¿Quiere usted agua mineral?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Gracias. Aquí tiene.",
+          "answer_text": "Do you want soda water?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 11,
-      "question": "Thank you very much, sir.",
-      "type": "short_answer",
+      "question_text": "suba (subir)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Muchas gracias, señor.",
+          "answer_text": "rise, bring up (to go up)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 12,
-      "question": "Are you going down in the elevator?",
-      "type": "short_answer",
+      "question_text": "súbamela",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Baja en el ascensor?",
+          "answer_text": ".. b rmg lt up to me",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 13,
-      "question": "Yes. Right now.",
-      "type": "short_answer",
+      "question_text": "Sí. Súbamela después.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Sí, ahora mismo.",
+          "answer_text": "Yes. Bring it up to me later.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 14,
-      "question": "Where's the cashier's desk?",
-      "type": "short_answer",
+      "question_text": "necesita (necesitar)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Dónde está la caja?",
+          "answer_text": "(you) need (to need)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 15,
-      "question": "On the first floor to the right of the entrance.",
-      "type": "short_answer",
+      "question_text": "algo",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "En el primer piso, a la derecha de la entrada.",
+          "answer_text": "anything, something",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 16,
-      "question": "Can you change a few dollars for me?",
-      "type": "short_answer",
+      "question_text": "más",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Puede cambiarme unos dólares?",
+          "answer_text": "else",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 17,
-      "question": "Yes. How many?",
-      "type": "short_answer",
+      "question_text": "algo más",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Sí. ¿Cuántos?",
+          "answer_text": "anything else",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 18,
-      "question": "Ten. What's the rate of exchange?",
-      "type": "short_answer",
+      "question_text": "¿Necesita algo más?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Diez. ¿A cómo está el cambio?",
+          "answer_text": "Do you need anything else?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 19,
-      "question": "In bills or in a check?",
-      "type": "short_answer",
+      "question_text": "cerca",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿En billetes o en cheque?",
+          "answer_text": "near",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 20,
-      "question": "This traveler's check.",
-      "type": "short_answer",
+      "question_text": "cerca de",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Este cheque viajero.",
+          "answer_text": "near to",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 21,
-      "question": "Five to one, then.",
-      "type": "short_answer",
+      "question_text": "aquí",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "A cinco por uno, entonces.",
+          "answer_text": "here",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 22,
-      "question": "How do you want it?",
-      "type": "short_answer",
+      "question_text": "cana cerca de aquí?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Cómo lo quiere?",
+          "answer_text": "near here?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 23,
-      "question": "Eight in bills and two in change.",
-      "type": "short_answer",
+      "question_text": "lejos",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Ocho en billetes y dos en moneda.",
+          "answer_text": "far",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 24,
-      "question": "How much does a taxi to the American Embassy cost?",
-      "type": "short_answer",
+      "question_text": "la avenida",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Cuánto cuesta un taxi a la Embajada Americana?",
+          "answer_text": "the avenue",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 25,
-      "question": "Two pesos more or less.",
-      "type": "short_answer",
+      "question_text": "Colón",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Dos pesos más o menos.",
+          "answer_text": "Columbus",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 26,
-      "question": "Thanks for the information.",
-      "type": "short_answer",
+      "question_text": "No. Está lejos.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Gracias por la información.",
+          "answer_text": "No. It's quite a distance.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "En la avenida de Colón.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "On Columbus avenue.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "el taxi",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the taxi",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Hay que tomar un taxi.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's necessary to take a taxi.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Gracias. Aqui tiene.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thanks. Here you are.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Muchas gracias, señor.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thank you very much, sir.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "¿Bajaen el ascensor?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "bahfenelas fue yoa goiag dowD intbe elevator?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "ahora",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "now",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "mismo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "same",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "ahora mismo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "right now",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "fhite Si, ahora mismo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", Yes. Right now.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "la caja ¿D6nde está la caja?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the box, the cuhier'a desk , Where's the cashier's desk?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "primer (primero)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "first",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "el piso",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the floor",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "la entrada",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the entrance",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Mozo En el p.oimer piso, a la derecha de la entrada.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Inl.élprimerpísQIillcterecha On the first floor to tlle right of the entrance.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "paede (poder)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) can (to be able)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "cambiar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to change, exchange",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "cambiarme",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to change fOl' me",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "unos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "some, a few",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "el dólar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the dollar",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "unos dólares",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "some dollars",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "¿Puede cambiarme unos dól.ea?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Can you change a few don.. f. me?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "Si. ¿Cuántos?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes. How many?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "a cómo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "how, at what",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "el cambio",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the change, exchange",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Diez. ¿A cómo está el cambio?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "IV Ten. What's the rate oí exchaoge?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "el billete",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the bill",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "los billetes",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the bilIs",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "el cheque",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the check",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "¿En billetes oen cheque?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "In bilIs or in a check?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "este",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "this",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "viajero",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "traveler",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "IV/aite Este cheque v.iajero.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "J' This traveler'. check.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "entonces",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "then",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "A cinco por uno, entonces.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ". , Five to one, then.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "Ocho en billetes y dos en moneda.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ". , Eight in bilIs and two in change.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 63,
+      "question_text": "cuesta (costar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) costs (to cost) . ,",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 64,
+      "question_text": "¿Cuánto cuesta un taxi a la Embajada Americana?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How much does a taxi to the American Embassy cost?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 65,
+      "question_text": "el peso",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the peso",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 66,
+      "question_text": "los pesos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the pesos",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 67,
+      "question_text": "menos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "less",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 68,
+      "question_text": "Dos pesos más o menos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Two pesos more less. Ol'",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 69,
+      "question_text": "la información",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the information",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 70,
+      "question_text": "Gracias por la información.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thanks for the information.",
           "is_correct": true
         }
       ]
@@ -318,8 +846,8 @@
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 3,
-    "are_questions_english": true,
+    "page_end": 7,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

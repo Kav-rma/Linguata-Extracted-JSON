@@ -4,130 +4,634 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
+      "question_text": "riguroso",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Are they very strict at the customs office here?",
       "answers": [
         {
-          "text": "¿Son muy rigurosos en la aduana aquí?",
+          "answer_text": "rigorous, strict",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
+      "question_text": "la aduana",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I’m sure they won’t bother you.",
       "answers": [
         {
-          "text": "Estoy seguro de que no la van a molestar.",
+          "answer_text": "the customs office",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
+      "question_text": "¿Son muy rigurosos en la aduana aquí?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "My baggage is here now.",
       "answers": [
         {
-          "text": "Ya está aquí mi equipaje.",
+          "answer_text": "Are they very strict at the customs office here?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
+      "question_text": "seguro",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Please open the trunk first.",
       "answers": [
         {
-          "text": "Tenga la bondad de abrir el baúl primero.",
+          "answer_text": "sure",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
+      "question_text": "No. Estoy seguro de que a usted no la van a molestar.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "It’s some gifts. Everything’s declared.",
       "answers": [
         {
-          "text": "Son unos regalos. Todo está declarado.",
+          "answer_text": "No, I'm sure that they won't bother you.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
+      "question_text": "el equipaje",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "This handbag, aren’t you going to check it?",
       "answers": [
         {
-          "text": "Este maletín, ¿no me lo va a revisar?",
+          "answer_text": "the baggage",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
+      "question_text": "Aquí, señor. Ya está aquí mi equipaje.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Did they take good care of you in immigration?",
       "answers": [
         {
-          "text": "¿La han atendido bien en inmigración?",
+          "answer_text": "Right here. My baggage is here now.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
+      "question_text": "cuál",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I can’t complain.",
       "answers": [
         {
-          "text": "No me puedo quejar.",
+          "answer_text": "which",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
+      "question_text": "¿Cuál es?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "They’ve been very nice to me.",
       "answers": [
         {
-          "text": "Han sido muy amables conmigo.",
+          "answer_text": "Which is it?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
+      "question_text": "verde",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I’m going to look for a taxi and someone to carry the suitcases.",
       "answers": [
         {
-          "text": "Voy a buscar un taxi y a alguien que nos lleve las maletas.",
+          "answer_text": "green",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "el baúl",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the trunk",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Son estas maletas verdes y este baúl pequeño.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's these green suitcases and this small trunk.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "tenga (tener)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "have (to have)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "la bondad",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the kindness, goodness",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "tenga la bondad de",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "be so kind as to, please",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Tenga la bondad de abrir el baúl primero.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Please open the trunk first.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Esto, ¿qué es?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "This thing — what is it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "el regalo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the gift",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "declarar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to declare",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Son unos regalos. Todo está declarado.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's some gifts. Everything's declared.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "la lista",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the list",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Ah, sí. Aquí está en la lista.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Oh, yes. Here it is on the list.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "el maletín",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the overnight case, handbag",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "me",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(for) me",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "revisar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to examine, inspect",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Este maletín, ¿no me lo va a revisar?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "This handbag, aren't you going to check it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "necesario",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "necessary",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "No señora, no es necesario.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No ma'am, it's not necessary.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "le falta (faltar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to you (it) lacks (to lack)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "¿No le falta nada, señora?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Are you missing anything, Mrs. Harris?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "completo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "complete",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "No. Todo está completo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, everything's here.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "atender",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to take care of, assist",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "la inmigración",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the immigration",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "¿La han atendido bien en Inmigración?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Did they take good care of you in Immigration?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "quejarme (quejarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to complain myself (to complain oneself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Yo no me puedo quejar.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I can't complain.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "amable",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "kind, nice, courteous",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Conmigo han sido muy amables.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They've been very nice to me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "nos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "for us",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "que lleve (llevar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "that (he) may carry (to carry)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "Voy a buscar un taxi y a alguien que nos lleve las maletas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'll go look for a taxi and someone to carry the suitcases for us.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "dije (decir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) said (to say)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "anoche",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "last night",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "el coche",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the car",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "caber",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to fit",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Como le dije anoche, en mi coche cabemos todos y el equipaje.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "As I said last night, there's room in my car for all of us and the luggage.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "gran (grande)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "great (large)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "la ayuda",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the help",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "nos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to us",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "prestar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to lend, to provide",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Nos está prestando una gran ayuda. Muchas gracias, Molina.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "You're being a great help to us. Thanks a lot, Molina.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 4,
-    "are_questions_english": true,
+    "page_end": 5,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

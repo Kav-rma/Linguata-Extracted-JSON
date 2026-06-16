@@ -4,322 +4,754 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "How much do I owe you?",
-      "answer": [
+      "question_text": "¿Cuánto le debo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "¿Cuánto le debo?",
+          "answer_text": "How much do you?",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "It's four pesos.",
-      "answer": [
+      "question_text": "el chofer",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Son cuatro pesos.",
+          "answer_text": "the chauffeur",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "At the hotel they told me it would be two.",
-      "answer": [
+      "question_text": "Son cuatro pesos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "En el hotel me dijeron que serían dos.",
+          "answer_text": "It's four pesos.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "I'll give you three.",
-      "answer": [
+      "question_text": "dijeron (decir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Le doy tres.",
+          "answer_text": "(they) told, said ho tell, to say)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "One as a tip.",
-      "answer": [
+      "question_text": "me dijeron",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Uno de propina.",
+          "answer_text": "to me (they) told",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Okay. Thank you, sir.",
-      "answer": [
+      "question_text": "serían (ser)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Bueno, gracias, señor.",
+          "answer_text": "they would be (to be)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Mr. Molina, this is Mr. White.",
-      "answer": [
+      "question_text": "EQ el hotel me dijeron que serían dos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Señor Molina, éste es el señor White.",
+          "answer_text": "( ) At the hotel they told me it'd be two.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "He is going to work with us.",
-      "answer": [
+      "question_text": "doy (dar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Va a trabajar con nosotros.",
+          "answer_text": "give (to give)",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "Pleased to meet you.",
-      "answer": [
+      "question_text": "le doy",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Tanto gusto de conocerlo.",
+          "answer_text": "' to you glve",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "The pleasure's mine.",
-      "answer": [
+      "question_text": "Le doy tres. Uno de propina.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "El gusto es mío.",
+          "answer_text": "rn give you three. One for a tipo",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "How long have you been here?",
-      "answer": [
+      "question_text": "bueno e Bueno, gracias, señor.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "¿Desde cuándo está aquí?",
+          "answer_text": "OK good, bwené+ O.K. Thank you, sir.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "Since yesterday.",
-      "answer": [
+      "question_text": "section where he is going to work and",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Desde ayer.",
+          "answer_text": "(Mr. White enters the Embassy and goes to introduced to one of the young local employees",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "How was the trip?",
-      "answer": [
+      "question_text": "Señor Molina, éste es el señor White.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "¿Qué tal el viaje?",
+          "answer_text": "Mr. Mr. Molina, this is White.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "Excellent.",
-      "answer": [
+      "question_text": "nosotros",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Excelente.",
+          "answer_text": "we, us",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 15,
-      "question": "Is there much activity in the consular section here?",
-      "answer": [
+      "question_text": "Va a trabajar con nosotros.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "¿Hay mucho movimiento en la sección consular aquí?",
+          "answer_text": "batrabahar He is going to work with uso",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 16,
-      "question": "We're almost always very busy.",
-      "answer": [
+      "question_text": "MoliruJ Tantogustode cODocerlo, selor White.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Sí, casi siempre estamos muy ocupados.",
+          "answer_text": ", Sladto bow Mr. yo., White.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 17,
-      "question": "Do you speak English, Mr. Molina?",
-      "answer": [
+      "question_text": "El gusto es mio.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "¿Habla usted inglés, señor Molina?",
+          "answer_text": "\"fAite The pleasure's miDe.",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 18,
-      "question": "Yes. I speak a little.",
-      "answer": [
+      "question_text": "desde",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Sí, hablo un poco.",
+          "answer_text": "since",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 19,
-      "question": "But you must practice your Spanish.",
-      "answer": [
+      "question_text": "cuando",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Pero usted debe practicar el español.",
+          "answer_text": "when",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 20,
-      "question": "By the way.",
-      "answer": [
+      "question_text": "Molina ¿Desde cuatndo está aquí?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "A propósito.",
+          "answer_text": "Molina How long have you been here?",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 21,
-      "question": "You speak it and pronounce it very well.",
-      "answer": [
+      "question_text": "tal",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Lo habla y lo pronuncia muy bien.",
+          "answer_text": "such",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 22,
-      "question": "Where did you learn it?",
-      "answer": [
+      "question_text": "qut! tal",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "¿Dónde lo aprendió?",
+          "answer_text": "how, how goes it",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 23,
-      "question": "At a language school in the States.",
-      "answer": [
+      "question_text": "el viaje",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "En una escuela de lenguas en los Estados Unidos.",
+          "answer_text": "the trip",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 24,
-      "question": "Another thing. Don't call me Mr. Molina.",
-      "answer": [
+      "question_text": "¿Qué tal el viaje?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Otra cosa. No me diga señor Molina.",
+          "answer_text": "HoY/ was the trip?",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 25,
-      "question": "My name is Jose.",
-      "answer": [
+      "question_text": "excelente",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Mi nombre es José.",
+          "answer_text": "excellent",
           "is_correct": true
         }
-      ],
-      "type": "short_answer",
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 26,
-      "question": "Oh. All right. Mine is John.",
-      "answer": [
+      "question_text": "Excelente.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
         {
-          "answer": "Ah. Muy bien. El mío es Juan.",
+          "answer_text": "ék Excellent. S",
           "is_correct": true
         }
-      ],
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "el movimiento",
+      "has_answer": true,
       "type": "short_answer",
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "the movemenl",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "la secci6n",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the section",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "consular",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "consular",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "¿Hay mucho movimiento en la sec ción consular aquí?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", , Is there much activity in the consular section here?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "casi",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "almost",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "siempre",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "always",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "estamos (estar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) are (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "ocupados (ocupar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "busy (te occupy)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Sí. Casi siempre estamos muy ocupados.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", si,l. Yeso We're almost always very busy.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "hahla (hablar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) speak (to speak)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "¿Habla usted ingMs, señor Molina?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ". , Do you speak English, Molina?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "hablo (hablar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "speak (to speak)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "poco",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "liule",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "un poco",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "a liule",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Sí, hablo un poco.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", Yeso a Hule.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "pero",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "but",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "debe (deber)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) must, ought (must, ought)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "Pero usted debe practicar el español.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "But you ought to practice Spanish.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "el prop6sito",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the purpose",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "a prop6sito",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "by the way",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "pronuncia (pronunciar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) pronounce (to pronounce)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "aprendi6 (aprender)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) learned (to learn)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "A prop6sito.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "By the way.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "Lo habla y lo pronuncia muy bien.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "You speak it and pronounce it very well.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "¿Dónde lo aprendió?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", Where did you learn it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "la lengua",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "lá-lelJgwá.l. the language, tongue",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "escuela de lenguas",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "schoolof languages",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "el estado",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "!he slate",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "unido (unir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "united (to unite)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "los Estados Unid.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the United Statea",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "t'laite En UDa escuela de lenguas eB los Estados Uaidos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "rlúte At a language achool iathe Statea.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "la cosa",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the thing",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "diga (dec ir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "aay (toaay)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "no me diga lIolilllJ Otra cosa. No me diga __ Molía.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "n BOl to me .ay ,. ADOlher thi.. DOD't caU me Mr. MoliDa.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "el nombre Mi 1IOIIlbre es José.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the Dame , My ia Joe. lUlDIe",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "SEIS",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": 0,
-    "page_end": 230,
-    "are_questions_english": true,
+    "page_start": 1,
+    "page_end": 7,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

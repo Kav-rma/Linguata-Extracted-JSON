@@ -4,283 +4,610 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "What shall we buy?",
-      "answer": "¿Qué compramos, señora?",
+      "question_text": "¿Qué compramos, señora?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Qué compramos, señora?",
+          "answer_text": "What shall we buy?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "I have the list here.",
-      "answer": "Aquí traigo la lista.",
+      "question_text": "traigo (traer)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Aquí traigo la lista.",
+          "answer_text": "(I) bring (to bring)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "Meat first.",
-      "answer": "La carne primero.",
+      "question_text": "Aquí traigo la lista.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "La carne primero.",
+          "answer_text": "I have the list here.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "Let's go to a booth that I'm familiar with.",
-      "answer": "Vamos a un puesto que yo conozco.",
+      "question_text": "la carne",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Vamos a un puesto que yo conozco.",
+          "answer_text": "the meat",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "Near there they sell fish too.",
-      "answer": "Cerca de allí venden pescado también.",
+      "question_text": "La carne primero.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Cerca de allí venden pescado también.",
+          "answer_text": "Meat, first.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Look how fresh the vegetables are!",
-      "answer": "¡Mire qué verduras tan frescas!",
+      "question_text": "el puesto",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¡Mire qué verduras tan frescas!",
+          "answer_text": "the stand, booth",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Don't you have to buy any?",
-      "answer": "¿No tiene que comprar?",
+      "question_text": "conozco (conocer)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿No tiene que comprar?",
+          "answer_text": "(I) know (to know, be acquainted with)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "Not today. I have enough at home.",
-      "answer": "Hoy no. Tengo suficiente en casa.",
+      "question_text": "Vamos a un puesto que yo conozco.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Hoy no. Tengo suficiente en casa.",
+          "answer_text": "Let's go to a booth that I'm familiar with.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "And fruits?",
-      "answer": "¿Y frutas?",
+      "question_text": "vender",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Y frutas?",
+          "answer_text": "to sell",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "No, either.",
-      "answer": "No, tampoco.",
+      "question_text": "el pescado",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "No, tampoco.",
+          "answer_text": "the fish",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "I need a dozen eggs.",
-      "answer": "Necesito una docena de huevos.",
+      "question_text": "Cerca de allí venden pescado, también.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Necesito una docena de huevos.",
+          "answer_text": "Near there they sell fish, too.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "But where will I put them?",
-      "answer": "¿Pero dónde los pongo?",
+      "question_text": "la verdura",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Pero dónde los pongo?",
+          "answer_text": "the green (leafy vegetable)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "They'll fit here in my bag.",
-      "answer": "Aquí en mi bolsa caben.",
+      "question_text": "fresco",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Aquí en mi bolsa caben.",
+          "answer_text": "fresh",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "I hear them singing over there. What is it?",
-      "answer": "Oigo que cantan por ahí. ¿Qué es?",
+      "question_text": "que...tan (frescas)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Oigo que cantan por ahí. ¿Qué es?",
+          "answer_text": "how very (fresh)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 15,
-      "question": "It must be a blind beggar.",
-      "answer": "Debe ser un ciego.",
+      "question_text": "¡Mire qué verduras tan frescas!",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Debe ser un ciego.",
+          "answer_text": "Look how fresh the green vegetables are!",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 16,
-      "question": "What else do you need to buy?",
-      "answer": "¿Qué más necesita comprar?",
+      "question_text": "¿No tiene que comprar?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Qué más necesita comprar?",
+          "answer_text": "Don't you have to buy (any)?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 17,
-      "question": "Bread, butter, salt and pepper.",
-      "answer": "Pan, mantequilla, sal y pimienta.",
+      "question_text": "suficiente",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Pan, mantequilla, sal y pimienta.",
+          "answer_text": "sufficient, enough",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 18,
-      "question": "And milk?",
-      "answer": "¿Y leche?",
+      "question_text": "Hoy no. Tengo suficiente en casa.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Y leche?",
+          "answer_text": "Not today. I have plenty at home.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 19,
-      "question": "No, the milkman brings it to me.",
-      "answer": "No, me la lleva el lechero.",
+      "question_text": "la fruta",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "No, me la lleva el lechero.",
+          "answer_text": "the fruit",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 20,
-      "question": "Do you do your own cooking?",
-      "answer": "¿Hace la comida usted misma?",
+      "question_text": "¿Y frutas?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Hace la comida usted misma?",
+          "answer_text": "Fruits, too?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 21,
-      "question": "Yes, I do, even though I have to say it's a chore.",
-      "answer": "Sí, la hago, aunque debo decir que es una tarea fastidiosa.",
+      "question_text": "tampoco",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Sí, la hago, aunque debo decir que es una tarea fastidiosa.",
+          "answer_text": "neither",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "No, tampoco.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I don't need any of them), either.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "la docena",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the dozen",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "el huevo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the egg",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Necesito una docena de huevos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I need a dozen eggs.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "pongo (poner)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) put (to put, place)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "¿Pero dónde los pongo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "But where will I put them?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "la bolsa",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the bag, sack",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Aquí en mi bolsa caben.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They'll fit here in my bag.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "oigo (oír)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) hear (to hear)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "cantar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to sing",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Oigo que cantan por ahí ¿qué es?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I hear them singing over there. What is it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "el ciego",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the blind (man)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Debe ser un ciego....",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It must be a blind beggar.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "¿Qué más necesita comprar?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What else do you need to buy?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "el pan",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the bread",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "la mantequilla",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the butter",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "la sal",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the salt",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "la pimienta",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the pepper",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Pan, mantequilla, sal y pimienta.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Bread, butter, salt and pepper.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "la leche",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the milk",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "¿Y leche?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And milk?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "el lechero",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the milkman",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "No, me la lleva el lechero.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, the milkman brings it to me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "la comida",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the food, meal",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "A propósito, ¿hace la comida usted misma?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "By the way. Do you do your own cooking?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "hago (hacer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) do, make (to do, make)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "digo (decir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) say (to say)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "la lata",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the nuisance",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "Sí, yo la hago, aunque le digo que es una lata.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes, I do it even though I must say it's a chore.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
     "page_end": 4,
-    "are_questions_english": true,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

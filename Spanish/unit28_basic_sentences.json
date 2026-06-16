@@ -4,190 +4,406 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "Hello, boys! You’re up mighty early.",
+      "question_text": "el muchacho",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¡Hola, muchachos! ¡Qué madrugadores!",
+          "answer_text": "the boy",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "Molina, I didn’t know you played golf.",
+      "question_text": "madrugador",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Molina, no sabía que usted jugaba golf.",
+          "answer_text": "early rising",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "I don’t play. But White has promised to teach me.",
+      "question_text": "¡Hola, muchachos! ¡Qué madrugadores!",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "No juego. Pero White se ha comprometido a enseñarme.",
+          "answer_text": "Hi, lads! You're up mighty early!",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "He’s a fine player.",
+      "question_text": "Molina, no sabía que usted jugaba golf.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Él es un buen jugador.",
+          "answer_text": "Molina, I didn't know you played golf.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "Stop joking, colonel. With you I always lose.",
+      "question_text": "comprometerse",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Déjese de bromas, coronel. Con usted siempre pierdo.",
+          "answer_text": "to commit oneself, obligate oneself",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Hadn’t you been here before, Molina?",
+      "question_text": "No juego. Pero White se ha comprometido a enseñarme.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿No había estado aquí antes, Molina?",
+          "answer_text": "I don't play. But White has promised to teach me.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "In the club, yes. At several evening parties.",
+      "question_text": "el jugador",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "En el club, sí. En varias fiestas de noche.",
+          "answer_text": "the player",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "The course, hadn’t you seen it?",
+      "question_text": "¡Ah! El es un buen jugador.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "El campo, ¿no lo había visto?",
+          "answer_text": "Ah! He's a fine player.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "No, and it’s worth seeing.",
+      "question_text": "dejar de",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "No, y vale la pena verlo.",
+          "answer_text": "to stop, to leave off",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "It’s very beautiful and the grass is well cared for.",
+      "question_text": "déjese de bromas",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Es muy hermoso y el césped está muy bien cuidado.",
+          "answer_text": "stop joking",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "I’ll leave you now. I’m only going to play nine holes.",
+      "question_text": "Déjese de bromas, coronel. Con usted siempre pierdo.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Bueno, los dejo. No voy a jugar más que nueve hoyos.",
+          "answer_text": "Stop pulling my leg, colonel. With you I always lose.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "I have to leave early.",
+      "question_text": "¿No había estado aquí antes, Molina?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Tengo que marcharme temprano.",
+          "answer_text": "Hadn't you been here before, Molina?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "Please tell your wife to remember the tennis date with Carmen.",
+      "question_text": "el club",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Por favor. Dígale a su esposa que recuerde lo del tenis con Carmen.",
+          "answer_text": "the club",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "Of course. Glad to.",
+      "question_text": "En el club, sí. En varias fiestas de noche.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Cómo no. Con mucho gusto.",
+          "answer_text": "Yes, in the club. At several evening parties.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 15,
-      "question": "Take it easy, gentlemen.",
+      "question_text": "el campo",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Que les vaya bien, señores.",
+          "answer_text": "the course, field",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "El campo, ¿no lo había visto?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Hadn't you seen the course?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "No, y vale la pena verlo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, and it's worth the trouble seeing it.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "hermoso",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "beautiful",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "el césped",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the grass",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "cuidar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to care for",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Es muy hermoso y el césped está muy bien cuidado.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's very beautiful, and they take good care of the grass.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Es verdad.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They sure do.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "que",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "than",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "el hoyo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the hole",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Bueno, los dejo. No voy a jugar más que nueve hoyos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Well, I'll leave you now. I'm only going to play nine holes.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "marcharse",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to leave, go away",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Tengo que marcharme temprano.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I have to leave early.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "que recuerde (recordar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "that (she) remember (to remember)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "el tenis",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the tennis",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Por favor. Dígale a su esposa que recuerde lo del tenis con Carmen.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Please tell your wife to remember the tennis date with Carmen.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Cómo no. Con mucho gusto.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Of course. Glad to.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "que les vaya (ir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "that to you (it) go (to go)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Que les vaya bien, señores.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Take it easy, gentlemen.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 5,
-    "are_questions_english": true,
+    "page_end": 3,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

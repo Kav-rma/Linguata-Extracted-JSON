@@ -4,179 +4,526 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "Do you all buy your supplies here?",
-      "answer": "¿Compran sus provisiones aquí?",
+      "question_text": "la provisión",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Compran sus provisiones aquí?",
+          "answer_text": "the provision, supply",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "No. The C‑47 brings them to us once a month.",
-      "answer": "No. Nos las trae el C‑47 una vez al mes.",
+      "question_text": "¿Compran sus provisiones aquí?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "No. Nos las trae el C‑47 una vez al mes.",
+          "answer_text": "Do you all buy your supplies here?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "The runway is quite long, isn't it?",
-      "answer": "La pista es bastante larga, ¿verdad?",
+      "question_text": "nos las trae",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "La pista es bastante larga, ¿verdad?",
+          "answer_text": "to us them (it) brings",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "It's 1,500 meters.",
-      "answer": "Tiene mil quinientos metros.",
+      "question_text": "No. Nos las trae el C.47 una vez al mes.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Tiene mil quinientos metros.",
+          "answer_text": "No. The C-47 brings them in to us once a month.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "How many planes are there on the base altogether?",
-      "answer": "¿En total cuántos aviones hay en la base?",
+      "question_text": "la pista",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿En total cuántos aviones hay en la base?",
+          "answer_text": "the runway, the track",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Thirty‑three.",
-      "answer": "Treinta y tres.",
+      "question_text": "largo",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Treinta y tres.",
+          "answer_text": "long",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Three bomber squadrons and two fighter squadrons.",
-      "answer": "Tres escuadrones de bombardeo y dos escuadrillas de caza.",
+      "question_text": "la verdad",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Tres escuadrones de bombardeo y dos escuadrillas de caza.",
+          "answer_text": "the truth",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "Do you see that airplane that's flying over the control tower?",
-      "answer": "¿Ven ese avión que vuela sobre la torre de control?",
+      "question_text": "¿verdad?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Ven ese avión que vuela sobre la torre de control?",
+          "answer_text": "isn't it?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "The inspector is coming in it.",
-      "answer": "En él viene el oficial de inspección.",
+      "question_text": "La pista es bastante larga ¿verdad?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "En él viene el oficial de inspección.",
+          "answer_text": "The runway is quite long, isn't it?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "Do you have to go meet him?",
-      "answer": "¿Tiene que ir a recibirlo?",
+      "question_text": "mil",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Tiene que ir a recibirlo?",
+          "answer_text": "a thousand",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "Yes, I'll leave you with Lieutenant La Cerda.",
-      "answer": "Sí, los dejo con el teniente La Cerda.",
+      "question_text": "quinientos",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Sí, los dejo con el teniente La Cerda.",
+          "answer_text": "five hundred",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "See you later, Colonel.",
-      "answer": "Hasta la vista, Coronel.",
+      "question_text": "el metro",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Hasta la vista, Coronel.",
+          "answer_text": "the meter",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "And don't forget our golf date.",
-      "answer": "Y no se le olvide lo del golf.",
+      "question_text": "Tiene mil quinientos metros.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Y no se le olvide lo del golf.",
+          "answer_text": "It's 1500 meters.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "el total",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the total",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "en total",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "altogether",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "En total ¿cuántos aviones hay en la base?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How many planes are there on the base in all?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "treinta",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "thirty",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Treinta y tres.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thirty-three.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "el escuadrón",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the squadron",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "el bombardeo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the bombing",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Tres escuadrones de bombardeo...",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Three bomber squadrons...",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "la escuadrilla",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the squadron",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "la caza",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the hunt",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "...y dos escuadrillas de caza.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "...and two fighter squadrons.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "No son muchos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That's not many.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Es que la base es pequeña.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's just because it's a small base.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "vuela (volar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) flies (to fly)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "la torre",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the tower",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "el control",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the control",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "¿Ven ese avión que vuela sobre la torre de control?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "You see that airplane that's flying over the control tower?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "en él",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "in it",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "el oficial",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the official, officer",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "la inspección",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the inspection",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "En él viene el oficial de inspección.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The inspector is coming in it.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "recibir",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to receive",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "¿Tiene que ir a recibirlo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Do you have to go meet him?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "el teniente",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the lieutenant",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "Sí, los dejo con el teniente La Cerda.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes. I'll leave you with Lieutenant La Cerda.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "la vista",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the sight",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Hasta la vista, Coronel.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "See you later, Colonel.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "no se le olvide (olvidarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "don't itself to you (it) forget (to forget itself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "el golf",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the golf",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Y no se le olvide lo del golf.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And don't forget our golf date.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 3,
-    "are_questions_english": true,
+    "page_end": 4,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

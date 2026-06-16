@@ -4,130 +4,490 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "This is my agency.",
+      "question_text": "Buenas tardes, señor.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Esta es mi agencia.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Good afternoon, sir.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "This is our building.",
+      "question_text": "Buenas tardes, ¿qué desea?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Este es nuestro edificio.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Good afternoon. What can I do for you?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "They are my friends.",
+      "question_text": "la que",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Ellos son mis amigos.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "the one that",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "Our house is vacant.",
+      "question_text": "Yo soy la que limpia el apartamento del Sr. Molina.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Nuestra casa está desocupada.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "I'm the one that cleans Mr. Molina's apartment.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "These are my suits.",
+      "question_text": "¡Ah! Muy bien. ¿Puede limpiar el mío también?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Estos son mis trajes.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Oh, yes. Can you clean mine, too?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Our cleaner is across (the street).",
+      "question_text": "el suyo",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Nuestra tintorería está enfrente.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "the yours",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Your house is very big.",
+      "question_text": "no",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Su casa es muy grande.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "isn't it?, didn't he?, haven't they?, etc.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "I never send my suits there.",
+      "question_text": "El suyo es más grande, ¿no?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Nunca mando mis trajes ahí.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Yours is bigger, isn't it?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "My car is on the corner.",
+      "question_text": "el de él",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Mi auto está en la esquina.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "the (one) of him",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "Someone has my books.",
+      "question_text": "No, es igual al de él.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Alguien tiene mis libros.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "No, it's the same size as his.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "Nobody lives in our house.",
+      "question_text": "el día",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Nadie vive en nuestra casa.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "the day",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "Our family is here.",
+      "question_text": "¿Qué días puede venir?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Nuestra familia está aquí.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "What day can you come on?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "It's just that my Spanish isn't very good.",
+      "question_text": "Los lunes.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Es que mi español no es muy bueno.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "On Mondays.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "We always speak with your friends a little bit.",
+      "question_text": "No, los lunes no me conviene.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Siempre hablamos un poco con sus amigas.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "No, on Mondays it's not convenient for me.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 15,
-      "question": "Bring me my thirteen dollars.",
+      "question_text": "por la tarde",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Tráigame mis trece dólares.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "during the afternoon",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "¿No puede venir los viernes por la tarde?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Can't you come on Friday afternoon?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Creo que sí.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I think so.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "¿Qué tengo que hacer?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What do I have to do?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "barrer",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to sweep",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Barrer la casa y limpiar los muebles.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Sweep the house and dust the furniture.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "lavar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to wash",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Lavar la cocina y el baño.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Mop up the kitchen and bathroom.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "la sábana",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the sheet",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "la funda",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the (pillow) case",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "la almohada",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the pillow",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Y cambiar las sábanas y las fundas de almohada.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And change the sheets and pillow cases.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "cobrar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to charge",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "¿Cuánto va a cobrarme?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How much are you going to charge me?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "don",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "mister",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Lo mismo que a don José.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The same as for Mr. Molina.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "la fiesta",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the party",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Y si tengo una fiesta, ¿puede ayudarme?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And if I have a party....Can you help me out?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "el tiempo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the time",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "con tiempo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "with time, in time enough",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Claro, si me avisa con tiempo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Certainly, if you let me know in time.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "sucio",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "dirty",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Esto está bastante sucio.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "This place is quite dirty.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "empezar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to begin",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "¿Puede empezar esta semana?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Can you begin this week?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Sí. Entonces hasta el viernes.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes. Then I'll see you Friday.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": 11,
-    "page_end": 13,
-    "are_questions_english": true,
+    "page_start": 1,
+    "page_end": 4,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

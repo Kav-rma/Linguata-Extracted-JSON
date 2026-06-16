@@ -4,192 +4,454 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "How's everything around your house?",
-      "answer": "¿Cómo sigue todo por su casa?",
+      "question_text": "sigue (seguir)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Cómo sigue todo por su casa?",
+          "answer_text": "continues, follows (to continue, follow)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "Very well, although I'm extremely busy.",
-      "answer": "Muy bien, aunque estoy ocupadísima.",
+      "question_text": "por",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Muy bien, aunque estoy ocupadísima.",
+          "answer_text": "around",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "Forgive me for calling you so early.",
-      "answer": "Perdone que la llame tan temprano.",
+      "question_text": "¿Cómo sigue todo por su casa, señora?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Perdone que la llame tan temprano.",
+          "answer_text": "How's everything going around your house?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "On the contrary, I'm glad you did.",
-      "answer": "Al contrario, me alegro mucho.",
+      "question_text": "aunque",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Al contrario, me alegro mucho.",
+          "answer_text": "even though, although",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "I was just going to call you right now.",
-      "answer": "Yo iba a llamarla ahora mismo.",
+      "question_text": "ocupadísimo (ocupado)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Yo iba a llamarla ahora mismo.",
+          "answer_text": "very busy (busy)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Is something the matter?",
-      "answer": "¿Tiene algún problema?",
+      "question_text": "Muy bien, aunque yo estoy ocupadísima.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Tiene algún problema?",
+          "answer_text": "Very well, even though I'm extremely busy.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Yes. This business of the prices in the market drives me crazy.",
-      "answer": "Sí. Esto de los precios en el mercado me vuelve loca.",
+      "question_text": "que llame (llamar)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Sí. Esto de los precios en el mercado me vuelve loca.",
+          "answer_text": "that (I) call (to call)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "Oh yes. That's terrible.",
-      "answer": "¡Ah, sí! Eso es algo terrible.",
+      "question_text": "temprano",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¡Ah, sí! Eso es algo terrible.",
+          "answer_text": "early",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "If you like, we can leave the shopping for this afternoon and go to the market now.",
-      "answer": "Si quiere, dejamos lo de las tiendas para la tarde y vamos al mercado ahora.",
+      "question_text": "Perdone que la llame tan temprano.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Si quiere, dejamos lo de las tiendas para la tarde y vamos al mercado ahora.",
+          "answer_text": "Forgive me for calling you so early.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "Then can you go with me?",
-      "answer": "Entonces, ¿puede acompañarme?",
+      "question_text": "alegrar",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Entonces, ¿puede acompañarme?",
+          "answer_text": "to gladden",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "Of course, and I'll show you where there's a very good one.",
-      "answer": "Por supuesto, y así le enseñaré dónde hay uno muy bueno.",
+      "question_text": "me alegro (alegrarse)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Por supuesto, y así le enseñaré dónde hay uno muy bueno.",
+          "answer_text": "myself (I) am glad (to be glad)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "Thank you very much. At what time shall I come by for you?",
-      "answer": "Muchas gracias. ¿A qué hora paso por usted?",
+      "question_text": "Al contrario, me alegro mucho.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Muchas gracias. ¿A qué hora paso por usted?",
+          "answer_text": "On the contrary, I'm glad you did.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "I'll be dressed in half an hour.",
-      "answer": "Yo en media hora me visto.",
+      "question_text": "Yo iba a llamarla ahora mismo.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Yo en media hora me visto.",
+          "answer_text": "I was just going to call you.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "Good, I'll say goodbye then.",
-      "answer": "Bueno, me despido, entonces.",
+      "question_text": "algún (alguno)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Bueno, me despido, entonces.",
+          "answer_text": "some",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "el problema",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the problem",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "¿Tiene algún problema?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Is something the matter?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "esto de...",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "this (matter) of",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "el mercado",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the market",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "vuelve (volver)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "turns, returns (to turn, to return)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "loco",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "crazy",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "me vuelve loco",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "drives me crazy",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Sí. Esto de los precios en el mercado me vuelve loca.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes. This business of the prices in the market is driving me insane.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "terrible",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "terrible",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Ah, sí. Eso es algo terrible.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Oh, yes. That is a mess.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Si quiere, dejamos lo de las tiendas para la tarde y vamos al mercado ahora.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "If you like, we can leave the other shopping for this afternoon and go to the market now.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "acompañar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to accompany",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Entonces, ¿puede acompañarme?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Then can you go with me?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "por supuesto",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "for certain, of course",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "enseñaré (enseñar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) will show (to show, teach)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Por supuesto y así le enseñaré dónde hay uno muy bueno.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Of course, and that way I'll show you where there's a very good one.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Muchas gracias. ¿A qué hora paso por usted?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thanks a lot. What time shall I come by for you?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "me visto (vestirse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "myself (I) dress (to dress oneself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Yo en media hora me visto.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'll be dressed in half an hour.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "despido (despedir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) dismiss (to dismiss, to see off)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "me despido (despedirse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "myself (I) take leave (to say goodbye)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Bueno, me despido, entonces.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Good. I'll say goodbye, then.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Hasta luego.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "So long.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
     "page_end": 3,
-    "are_questions_english": true,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

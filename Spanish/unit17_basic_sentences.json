@@ -4,154 +4,826 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
+      "question_text": "fué (ir)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "And the Harrises, how did they make out?",
       "answers": [
         {
-          "text": "Y a los Harris, ¿cómo les fue?",
+          "answer_text": "(it) went (to go)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
+      "question_text": "Y a los Harris, ¿cómo les fué?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I left them at their house.",
       "answers": [
         {
-          "text": "Los dejé en su casa.",
+          "answer_text": "And the Harrises. How did they make out?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
+      "question_text": "dejé (dejar)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "How did the city strike Mrs. Harris?",
       "answers": [
         {
-          "text": "¿Qué le pareció la ciudad a la señora Harris?",
+          "answer_text": "(I) left (to leave)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
+      "question_text": "Muy bien. Los dejé en su casa.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "She liked it a lot, but she got nervous with the traffic and the noise.",
       "answers": [
         {
-          "text": "Le gustó mucho, pero se puso nerviosa con el tráfico y el ruido.",
+          "answer_text": "Okay. I left them at their house.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
+      "question_text": "pareció (parecer)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "The same thing happened to me when I arrived last month.",
       "answers": [
         {
-          "text": "A mí me pasó lo mismo cuando llegué el mes pasado.",
+          "answer_text": "(it) seemed (to seem)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
+      "question_text": "¿Qué le pareció la ciudad a la señora Harris?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I’m beginning to get used to everything.",
       "answers": [
         {
-          "text": "Ya voy acostumbrándome a todo.",
+          "answer_text": "How did the city strike Mrs. Harris?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
+      "question_text": "gustó (gustar)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Even to so many parties.",
       "answers": [
         {
-          "text": "Aún a tantas fiestas.",
+          "answer_text": "(it) pleased (to please)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
+      "question_text": "puso (poner)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "By the way, that one the other day turned out fantastic, didn’t it?",
       "answers": [
         {
-          "text": "A propósito. La del otro día resultó fantástica, ¿no?",
+          "answer_text": "(she) put (to put, place)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
+      "question_text": "se puso (ponerse)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "At least we enjoyed ourselves thoroughly.",
       "answers": [
         {
-          "text": "Por lo menos nos divertimos mucho.",
+          "answer_text": "herself (she) got (to get, become)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
+      "question_text": "nervioso",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "You all didn’t miss dancing a single number.",
       "answers": [
         {
-          "text": "Ustedes no dejaron de bailar ni una pieza.",
+          "answer_text": "nervous",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
+      "question_text": "ponerse nervioso",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "We were the last to leave.",
       "answers": [
         {
-          "text": "Fuimos los últimos en irnos.",
+          "answer_text": "to get nervous",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
+      "question_text": "el tráfico",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I went to bed.",
       "answers": [
         {
-          "text": "Me acosté.",
+          "answer_text": "the traffic",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "el ruido",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the noise",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Le gustó mucho, pero se puso nerviosa con el tráfico y el ruido.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "She liked it a lot, but she got nervous with the traffic and the noise.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "pasó (pasar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) happened (to happen)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "llegué (llegar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) arrived (to arrive)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "pasado (pasar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "passed (to pass)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "el mes pasado",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "last month",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "A mí me pasó lo mismo cuando llegué el mes pasado.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The same thing happened to me when I arrived last month.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "acostumbrar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to accustom",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "acostumbrarse",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to accustom oneself",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "ya voy acostumbrándome",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'm beginning to get used to...",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Pero ya voy acostumbrándome a todo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "But now I'm getting used to everything.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "aún",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "even",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Aún a tantas fiestas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Even to so many parties.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "resultó (resultar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) turned out (to result, turn out)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "fantástico",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "fantastic",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "A propósito. La del otro día resultó fantástica, ¿no?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "By the way. That one the other day turned out to be quite something, didn't it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "por lo menos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "at least",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "nos divertimos (divertirse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "ourselves (we) entertained (to enjoy)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Por lo menos nosotros nos divertimos mucho.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "At least we enjoyed ourselves thoroughly.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "dejaron (dejar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) left (to leave)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "dejar de",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to leave off, to skip, to miss",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "ni",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "not even",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "la pieza",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the piece (of music)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Ustedes no dejaron de bailar ni una pieza.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "You all didn't miss dancing a single number.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "fuimos (ser)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) were (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "último",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "last",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Y fuimos los últimos en irnos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And we were the last to leave.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "me acosté (acostarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "myself (I) put to bed (to retire)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "me levanté (levantarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "myself (I) got up (to arise)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "el dolor",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the pain",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "la cabeza",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the head",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "el dolor de cabeza",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the headache",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "horrible",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "horrible",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "Yo me acosté a las cuatro y me levanté a las once, con un dolor de cabeza horrible.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I went to bed at four and got up at eleven with a horrible headache.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "menos mal",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "less injury, luckily; it could have been worse",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "había (haber)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "there was, there were (to have)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "había que",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "it was necessary to...",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "Menos mal que no había que trabajar.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Well, at least we didn't have to go to work.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "empecé (empezar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) began (to begin)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Yo empecé mal el día.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I started off the day badly.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "se cayó (caerse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "itself (it) fell (to fall)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "se me cayó",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "itself to me (it) dropped",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "la taza",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the cup",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "se rompió (romperse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "itself (it) broke (to break)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "se me rompió",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "itself to me (it) broke",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "Se me cayó una taza de café y se me rompió.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I dropped a cup of coffee and broke the cup.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "la mujer",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the woman",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "no te quejes (quejarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "don't yourself complain (to complain)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "fué (ser)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) was (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "Bueno, mujer, no te quejes. Eso no fué nada.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Oh, well, don't complain. That was nothing.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 63,
+      "question_text": "peor",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "worse",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 64,
+      "question_text": "hizo (hacer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) made (to make)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 65,
+      "question_text": "el daño",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the damage, hurt",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 66,
+      "question_text": "hacer daño",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to harm, to be harmful",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 67,
+      "question_text": "el desayuno",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the breakfast",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 68,
+      "question_text": "A mí me fué peor. Me hizo daño el desayuno.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Things went worse with me. Something I ate for breakfast made me sick.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 4,
-    "are_questions_english": true,
+    "page_end": 5,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

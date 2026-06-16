@@ -4,190 +4,574 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
+      "question_text": "la compañía",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "What company do you work for, Carmen?",
       "answers": [
         {
-          "text": "¿En qué compañía trabaja usted, Carmen?",
+          "answer_text": "the company",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
+      "question_text": "¿En qué compañía trabaja usted, Carmen?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "For National Airlines.",
       "answers": [
         {
-          "text": "En Aerolíneas Nacionales.",
+          "answer_text": "What company do you work for, Carmen?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
+      "question_text": "la aerolínea",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Have you been there a long time?",
       "answers": [
         {
-          "text": "¿Desde hace mucho tiempo?",
+          "answer_text": "the airline",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
+      "question_text": "nacional",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "No, I used to work in an office but they didn’t pay me enough.",
       "answers": [
         {
-          "text": "No, antes trabajaba en una oficina, pero no me pagaban bastante.",
+          "answer_text": "national",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
+      "question_text": "En Aerolíneas Nacionales.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "If it didn’t suit you, you did well to leave it.",
       "answers": [
         {
-          "text": "Si no te convenía, hiciste bien en dejarlo.",
+          "answer_text": "For National Airlines.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
+      "question_text": "¿Desde hace mucho tiempo?",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "It was hard for me to do.",
       "answers": [
         {
-          "text": "Me costó bastante hacerlo.",
+          "answer_text": "For quite a while?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
+      "question_text": "trabajaba (trabajar)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "The boss was a very nice person and I couldn’t see how to tell him.",
       "answers": [
         {
-          "text": "El jefe era muy buena persona y no veía cómo decírselo.",
+          "answer_text": "(I) worked, was working (to work)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
+      "question_text": "la oficina",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Harris invited us to visit the Air Mission.",
       "answers": [
         {
-          "text": "Harris nos invitó a visitar la Misión de la Fuerza Aérea.",
+          "answer_text": "the office",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
+      "question_text": "pagaban (pagar)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I’d like to go.",
       "answers": [
         {
-          "text": "Me gustaría ir.",
+          "answer_text": "(they) paid, were paying (to pay)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
+      "question_text": "No, antes trabajaba en una oficina, pero no me pagaban bastante.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "He said we could come this Saturday or next.",
       "answers": [
         {
-          "text": "Dijo que podríamos venir este sábado o el próximo.",
+          "answer_text": "No. I used to work in an office, but they didn't pay me enough.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
+      "question_text": "convenía (convenir)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I’m not going to be able to go this Saturday.",
       "answers": [
         {
-          "text": "No voy a poder ir este sábado.",
+          "answer_text": "(it) suited, was suiting (to suit, to be advantageous)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
+      "question_text": "hiciste (hacer)",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "I have to go shopping with Mrs. Harris.",
       "answers": [
         {
-          "text": "Tengo que ir de compras con la señora Harris.",
+          "answer_text": "(you) did (to do)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
+      "question_text": "Si no te convenía, hiciste bien en dejarlo.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "We can leave it for the next one, then.",
       "answers": [
         {
-          "text": "Podemos dejarlo para el próximo, entonces.",
+          "answer_text": "If it didn't suit you, you did well to leave it.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
+      "question_text": "costar",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "Don’t yourself stay.",
       "answers": [
         {
-          "text": "No se quede usted.",
+          "answer_text": "to be difficult",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 15,
+      "question_text": "Me costó bastante.",
+      "has_answer": true,
       "type": "short_answer",
-      "question": "They didn’t pay me enough.",
       "answers": [
         {
-          "text": "No me pagaban bastante.",
+          "answer_text": "It was hard for me to do.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "el jefe",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the boss, chief, manager",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "era (ser)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(he) was, was being (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "la persona",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the person",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "veía (ver)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I) saw, was seeing (to see)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "decírselo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to tell him it",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "El jefe era muy buena persona y no veía cómo decírselo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The boss was a very nice guy, and I couldn't see a way to tell him about it.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Hablando de otra cosa.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Another matter...",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "invitar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to invite",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "visitar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to visit",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "la misión",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the mission",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "la Fuerza Aérea",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the Air Force",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Harris nos invitó a visitar la Misión de la Fuerza Aérea.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Harris invited us to visit the Air Mission.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "gustaría (gustar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) would please (to please)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "A mí me gustaría ir.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'd like to go.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "dijo (decir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(he) said (to say)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "podíamos (poder)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) could, were able (to be able)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "que viene",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "that comes, next",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Dijo que podíamos ir este sábado o el que viene.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "He said we could come this Saturday or next.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Yo no voy a poder este sábado.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'm not going to be able to go this Saturday.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "la compra",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the purchase",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "ir de compras",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to go (of) shopping",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Tengo que ir de compras con la señora Harris.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I have to go shopping with Mrs. Harris.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "el otro",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the next",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Podemos dejarlo para el otro, entonces.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "We can leave it for the next one, then.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "no se queden (quedarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "don't yourself stay (to stay, remain)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "No, por mí no se queden.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, don't stay away because of me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "vayan (ir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "go (to go)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "Vayan ustedes.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "You all go.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "llamaré (llamar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(I)'ll call (to call)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "Entonces llamaré al Coronel.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Then I'll call the Colonel.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "quedar en",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to agree to, decide on",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Quedamos en que vamos este sábado a las once.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "We'll settle for going this Saturday at eleven.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 5,
-    "are_questions_english": true,
+    "page_end": 4,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

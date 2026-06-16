@@ -4,612 +4,756 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Come on in.",
+      "question_text": "adelante",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¡Adelante!",
+          "answer_text": "ahcad, forward",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "seat (to seat)",
+      "question_text": "¡Adelante!",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "siente (sentar)",
+          "answer_text": "Come on in.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "seat yourself (to seat oneself)",
+      "question_text": "siente (sentar)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "siéntese (sentarse)",
+          "answer_text": "seat (to seat)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Sit down.",
+      "question_text": "siéntese (sentarse)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Siéntese.",
+          "answer_text": "seat yourself (to seat oneself)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "(you) have (to have)",
+      "question_text": "tiene (tener)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "tiene (tener)",
+          "answer_text": "(you) have (to have)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "a, an (one)",
+      "question_text": "un (uno)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "un (uno)",
+          "answer_text": "a, an (one)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "the pencil",
+      "question_text": "¿Tiene un lápiz?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el lápiz",
+          "answer_text": "Do you have a pencil?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Do you have a pencil?",
+      "question_text": "repita (repetir)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¿Tiene un lápiz?",
+          "answer_text": "repeat (to repeat)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "No, I don't.",
+      "question_text": "traduzca (traducir)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "No, no tengo.",
+          "answer_text": "translate (totranslate)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "yes",
+      "question_text": "otra",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "sí",
+          "answer_text": "another",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 11,
-      "question_text": "Yes, I do.",
+      "question_text": "la vez",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Sí, sí tengo.",
+          "answer_text": "the time",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 12,
-      "question_text": "repeat (to repeat)",
+      "question_text": "otra vez",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "repita (repetir)",
+          "answer_text": "again",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 13,
-      "question_text": "Say it again.",
+      "question_text": "por",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Repita.",
+          "answer_text": "for",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 14,
-      "question_text": "translate (to translate)",
+      "question_text": "el favor",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "traduzca (traducir)",
+          "answer_text": "the favor",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 15,
-      "question_text": "Translate.",
+      "question_text": "por favor",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Traduzca.",
+          "answer_text": "please",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 16,
-      "question_text": "another",
+      "question_text": "Otra vez, por favor.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "otra",
+          "answer_text": "Again, please.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 17,
-      "question_text": "the time",
+      "question_text": "el perdón",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "la vez",
+          "answer_text": "the pardon",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 18,
-      "question_text": "again",
+      "question_text": "dice (decir)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "otra vez",
+          "answer_text": "(you) say (to say)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 19,
-      "question_text": "for",
+      "question_text": "Perdón. ¿Cómo dice usted?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "por",
+          "answer_text": "Excuse me, what did you",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 20,
-      "question_text": "the favor",
+      "question_text": "la pluma",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el favor",
+          "answer_text": "the pen",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 21,
-      "question_text": "please",
+      "question_text": "D~me la pluma.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "por favor",
+          "answer_text": "Give me the pene",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 22,
-      "question_text": "Again, please.",
+      "question_text": "pase (pasar)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Otra vez, por favor.",
+          "answer_text": "pass (to pass, to hand)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 23,
-      "question_text": "the pardon",
+      "question_text": "páseme",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el perdón",
+          "answer_text": "pass me",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 24,
-      "question_text": "(you) say (to say)",
+      "question_text": "ellihro",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "dice (decir)",
+          "answer_text": "the hook",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 25,
-      "question_text": "Excuse me, what did you say?",
+      "question_text": "Púeme el libro.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Perdón. ¿Cómo dice usted?",
+          "answer_text": "Pass me the hook.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 26,
-      "question_text": "give (to give)",
+      "question_text": "¿Qué es eso?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "dé (dar)",
+          "answer_text": "What's that?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 27,
-      "question_text": "to me",
+      "question_text": "el cenicero",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "me",
+          "answer_text": "the ashtray",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 28,
-      "question_text": "the pen",
+      "question_text": "Esto es un cenicero\"",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "la pluma",
+          "answer_text": "This is an ashtray\"",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 29,
-      "question_text": "Give me the pen.",
+      "question_text": "quiere (querer)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Dame la pluma.",
+          "answer_text": "wants (to want)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 30,
-      "question_text": "pass (to pass, to hand)",
+      "question_text": "decir",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "pase (pasar)",
+          "answer_text": "to say",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 31,
-      "question_text": "pass me",
+      "question_text": "quiere decir",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "páseme",
+          "answer_text": "(it) means",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 32,
-      "question_text": "the book",
+      "question_text": "Quiere decir",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el libro",
+          "answer_text": "It means",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 33,
-      "question_text": "Pass me the book.",
+      "question_text": "se dice (decir)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Pásame el libro.",
+          "answer_text": "says itself, is said (to say)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 34,
-      "question_text": "is (to be)",
+      "question_text": "en",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "es (ser)",
+          "answer_text": "in",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 35,
-      "question_text": "that",
+      "question_text": "el español",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "eso",
+          "answer_text": "the Spanish",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 36,
-      "question_text": "What's that?",
+      "question_text": "¿Cómo se dice en español?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¿Qué es eso?",
+          "answer_text": "How do you say in Spanish?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 37,
-      "question_text": "this",
+      "question_text": "la mesa",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "esto",
+          "answer_text": "the table",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 38,
-      "question_text": "the ashtray",
+      "question_text": "Se dice",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el cenicero",
+          "answer_text": "you say",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 39,
-      "question_text": "This is an ashtray.",
+      "question_text": "la silla",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Esto es un cenicero.",
+          "answer_text": "the chair",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 40,
-      "question_text": "wants (to want)",
+      "question_text": "¿Cómo se dice en inglés?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "quiere (querer)",
+          "answer_text": "How do you say in English?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 41,
-      "question_text": "to say",
+      "question_text": "Se dice",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "decir",
+          "answer_text": "you say",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 42,
-      "question_text": "it means",
+      "question_text": "la embajada",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "quiere decir",
+          "answer_text": "the embassy",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 43,
-      "question_text": "What does cenicero mean?",
+      "question_text": "americana",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¿Qué quiere decir cenicero?",
+          "answer_text": "American",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 44,
-      "question_text": "It means ashtray.",
+      "question_text": "¿Dónde está el baño?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Quiere decir ashtray.",
+          "answer_text": "Where's the bathroom?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 45,
-      "question_text": "How do you say table in Spanish?",
+      "question_text": "la izquierda",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¿Cómo se dice table en español?",
+          "answer_text": "the",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 46,
-      "question_text": "the table",
+      "question_text": "Ahi a la izquierda.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "la mesa",
+          "answer_text": "There to the leEt.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 47,
-      "question_text": "you say mesa.",
+      "question_text": "la derecha",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Se dice mesa.",
+          "answer_text": "the right",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 48,
-      "question_text": "the English",
+      "question_text": "Ahí a la derecha_",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el inglés",
+          "answer_text": "There to the right.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 49,
-      "question_text": "the chair",
+      "question_text": "Ahí adelante.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "la silla",
+          "answer_text": "There straight ahead.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 50,
-      "question_text": "How do you say silla in English?",
+      "question_text": "lleve (llevar)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¿Cómo se dice silla en inglés?",
+          "answer_text": "take, carry (to take)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 51,
-      "question_text": "you say chair.",
+      "question_text": "llévenos",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Se dice chair.",
+          "answer_text": "take us",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "el centro",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the center (of town)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "Llévenos al centro_",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Take us downtown.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "están (estar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "are (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "¿D6nde están los libros?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Where're the books?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "lléveme",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "take me",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 57,
+      "question_text": "el hotel",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the hotel",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 58,
+      "question_text": "LIéveme al hotel_",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Take me to the hotel_",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 59,
+      "question_text": "baja (bajar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) goes down (to go down)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 60,
+      "question_text": "¿Sube obaja?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Going up or down?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 61,
+      "question_text": "cuánto",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "how much",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 62,
+      "question_text": "¿Cuánto es? , six seVs+ seis , seven syeté+ siete , eight och6+ ocho , nine nwebe+ nueve , ten dye-i+ diez SEIS",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "How much is it? , unó.i. one uno two dos , three tres , four cuatro , five cinco",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 63,
+      "question_text": "kln~e~ quince , dye!iise·ys'¡' diecis~is , beynte~ veinte , béynti.uno+ veintiuno",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "eleveo once , twelve doce , thirteeo trece , fourteen catorce",
           "is_correct": true
         }
       ]
@@ -618,8 +762,8 @@
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 4,
-    "are_questions_english": true,
+    "page_end": 7,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

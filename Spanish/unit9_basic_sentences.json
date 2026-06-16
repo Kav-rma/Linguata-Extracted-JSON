@@ -4,98 +4,634 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "These books are ours.",
+      "question_text": "pasa (pasar)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Estos libros son nuestros.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "come in (to come in)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "That old house is ours.",
+      "question_text": "tu (tuyo)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Esa casa vieja es nuestra.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "your (yours)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "This apartment is ours.",
+      "question_text": "Pasa adelante. Estás en tu casa.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Este apartamento es nuestro.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Come in. Make yourself at home.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "Whose is this book? Is it yours?",
+      "question_text": "sienta (sentar)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "¿De quién es este libro? ¿Es suyo?",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "seat (to seat>",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "Is that pencil his?",
+      "question_text": "siéntate (sentarse)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "¿Es suyo ese lápiz?",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "seat yourself (to sit down)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Is this pencil mine?",
+      "question_text": "Siéntate.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "¿Es mío este lápiz?",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Sit down.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Those books are mine.",
+      "question_text": "como",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Esos libros son míos.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "like, as",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "These books are his.",
+      "question_text": "¿Va a ser mi apartamento como éste?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Estos libros son suyos.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Will my apartment be like this one?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "These coins are mine.",
+      "question_text": "igualito (igual)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Estas monedas son mías.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "just the same (equal)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "These things are ours.",
+      "question_text": "todo",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Estas cosas son nuestras.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "aH",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "That pen is yours.",
+      "question_text": "arreglado (an-eglar)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Esa pluma es suya.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "arranged (to to arrange)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Esto está todo muy bien arreglado.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", This IS very nicely flXed upo",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "comprar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to buy",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Todavía necesito comprar muchas cosas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I have to buy a lot of things.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "la soda",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the soda",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "el whiskey",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the whiskey",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "el whiskey con soda",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the whiskey with soda",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "la idea",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the idea",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "la muchacha",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the girl",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "la foto",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the picture",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "¿Quién es esa muchacha de la foto?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Who's that girl in the picture?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "qué bonito",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "how pretty",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "¡Qué bonita!",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", She sure is pretty.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "la novia",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the sweetheart, the fíancée",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Es mi novia. Tienes que conocerla.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That's my fiancée. You'll have to meet her.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "hace (hacer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(she) does (to do, to make)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "estudiando (estudiar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "studying (to study)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "está estudiando",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(she) is studying",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "If' ¿Qué hace? ¿Está estudiando?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", What does she do? ls she studying?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "trabajando (trabajar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "working (to wark)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "está trabajando",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(she) lS working",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "la secretaria",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the secretary",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "tener boda",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to have a wedding",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "pronto",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "soon",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "¿Vamos a tener boda pronto?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ". , Are we going to have a wedding soon?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "hemos (haber)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) have (to have)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "decidido (decidir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "decided (to decide)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "hemos decidido",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we)'ve decided",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "la fecha",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the date",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "Molina Sí~ pero no hemos decidido la fecha todavía.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", Molina yes but we haven't set the date yet.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "el hombre",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the man",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "¡Hombre! Qué bueno está este whiskey.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", ombréi Boy, chis is a good whiskey!",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "bebiendo (beber)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "drinking (to drink)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "estás bebiendo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) are drmking",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "y tú ¿qué estás bebiendo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What are you drinking?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "el 'cuba libre'",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the lIbre'",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "Un 'cuba libre'.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", A 'cuba libre'.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "te",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to you",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "tuyo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "Juan, ¿qué te parece si vamos a ver lo del apartamento tuyo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", h\\'Ja\"D+ John, what do you say we go see about your apartment?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "volvemos (volver)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) return (to return)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Después volvemos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "We'll come back latero",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": 23,
-    "page_end": 31,
-    "are_questions_english": true,
+    "page_start": 1,
+    "page_end": 6,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

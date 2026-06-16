@@ -4,218 +4,550 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "the car",
-      "answer": "el auto",
-      "type": "short_answer",
+      "question_text": "el auto",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the car",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "This is my car.",
-      "answer": "Este es mi auto.",
-      "type": "short_answer",
+      "question_text": "Este es mi auto.",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "This is my car.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "old",
-      "answer": "viejo",
-      "type": "short_answer",
+      "question_text": "viejo",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "old",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "It's old, but pretty decent.",
-      "answer": "Es viejo pero bueno.",
-      "type": "short_answer",
+      "question_text": "Es viejo pero bueno.",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's old, but pretty decente",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "the newspaper",
-      "answer": "el periódico",
-      "type": "short_answer",
+      "question_text": "el periódico",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the newspaper",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Let's see the paper.",
-      "answer": "Vamos a ver el periódico.",
-      "type": "short_answer",
+      "question_text": "Vamos a ver el periódico.",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Let's see the papero",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "the amount, quantity",
-      "answer": "la cantidad",
-      "type": "short_answer",
+      "question_text": "la cantidad",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the amount, quantity",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "what a (large) quantity",
-      "answer": "qué cantidad",
-      "type": "short_answer",
+      "question_text": "qué cantidad",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "what a (large) quantity",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "the advertisement",
-      "answer": "el anuncio",
-      "type": "short_answer",
+      "question_text": "el anuncio",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the advertisement",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "What a bunch of ads!",
-      "answer": "¡Qué cantidad de anuncios!",
-      "type": "short_answer",
+      "question_text": "demasiado",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "too much",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "Too many.",
-      "answer": "Demasiados.",
-      "type": "short_answer",
+      "question_text": "demasiados",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "too many",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "Why don't we see a friend of mine who has an agency?",
-      "answer": "¿Por qué no vemos a un amigo mío que tiene una agencia?",
-      "type": "short_answer",
+      "question_text": "por qué",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "why",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "Mr. White wants to rent an apartment.",
-      "answer": "El señor White desea alquilar un apartamento.",
-      "type": "short_answer",
+      "question_text": "el amigo",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the Eriend",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "Right now I have only two available.",
-      "answer": "Por ahora sólo tengo dos desocupados.",
-      "type": "short_answer",
+      "question_text": "la agencia",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the agency",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 15,
-      "question": "One downtown, in the Del Campo building.",
-      "answer": "Uno en el centro, en el edificio Del Campo.",
-      "type": "short_answer",
+      "question_text": "Demasiados. ¿Por qué no vemos a un amigo mío que tiene una agencia?",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Too many. Why don't we see , a friend mine who has a (rental) agency?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 16,
-      "question": "Without furniture?",
-      "answer": "¿Sin muebles?",
-      "type": "short_answer",
+      "question_text": "El señor desea alquil..,un apartamento.",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Mr. White wants to.rent an apartment.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 17,
-      "question": "No, furnished.",
-      "answer": "No, amueblado.",
-      "type": "short_answer",
+      "question_text": "por ahora",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "right now",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 18,
-      "question": "How much per month?",
-      "answer": "¿Cuánto al mes?",
-      "type": "short_answer",
+      "question_text": "s610",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "only",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 19,
-      "question": "Two hundred, not including electricity, water or gas.",
-      "answer": "Doscientos, sin incluir luz, agua ni gas.",
-      "type": "short_answer",
+      "question_text": "desocupado (desocupar)",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", (to vacate)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 20,
-      "question": "And where's the other?",
-      "answer": "¿Y dónde está el otro?",
-      "type": "short_answer",
+      "question_text": "Porahora s610 tengo dos desocupados.",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Right now only two available.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 21,
-      "question": "That one is in the outskirts and it's bigger.",
-      "answer": "Ese está en las afueras y es más grande.",
-      "type": "short_answer",
+      "question_text": "el edificio",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the building",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 22,
-      "question": "I think the first suits me better.",
-      "answer": "Creo que me conviene más el primero.",
-      "type": "short_answer",
+      "question_text": "el campo",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the field, the country",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 23,
-      "question": "Can we see it?",
-      "answer": "¿Podemos verlo?",
-      "type": "short_answer",
+      "question_text": "Uno en el centro, en el edificio 'Del Campo'.",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "One downtown, in the Del Campo building.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 24,
-      "question": "Here’s the key.",
-      "answer": "Aquí tiene la llave.",
-      "type": "short_answer",
+      "question_text": "el mueble",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "f f . t h e plece o urmture",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 25,
-      "question": "It's almost three o'clock.",
-      "answer": "Son casi las tres.",
-      "type": "short_answer",
+      "question_text": "los muebles",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the furnitures",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 26,
-      "question": "There are many apartments.",
-      "answer": "Hay muchos apartamentos.",
-      "type": "short_answer",
+      "question_text": "¿Sin muebles?",
       "has_answer": true,
-      "is_correct": true
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Unfurnished?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "amueblado (amueblar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "furnished (to furnish)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "No, amueblado.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, furnished.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "ciento",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "hundred",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "doscientos",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "two hundred",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "incluir",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to inelude",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "la luz",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the light",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "ni",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "nor",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Doscientos, sin incluir luz, agua ni gas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Two hundred not inoluding . , electricity, water, or gas.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "¿y dónde está el otro?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", And where's the other?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "ese",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "that",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "las afueras",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the outskirts",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "grande",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "big, great",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "Ese está en las afueras y es más grande.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ",. That one's in the outskirts and it's bigger.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "me conviene (convenir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(to) me suits (to suit)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Creo que me conviene más el primero.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the first suits me better.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "¿Podemos verlo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Can we see it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "la llave",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the key",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "claro",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "clear, of course",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "Sí, claro; aqui tiene la llave.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Ves, of course, Here's the key.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 4,
-    "are_questions_english": true,
+    "page_end": 5,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

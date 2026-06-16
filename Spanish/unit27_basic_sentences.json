@@ -4,178 +4,526 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "What is your favourite sport?",
+      "question_text": "el deporte",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Cuál es tu deporte favorito?",
+          "answer_text": "the sport",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "Football.",
+      "question_text": "favorito",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "El fútbol.",
+          "answer_text": "favorite",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "Which sport do you practice?",
+      "question_text": "¿Cuál es tu deporte favorito?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Cuál practicas?",
+          "answer_text": "What's your favorite sport?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "None.",
+      "question_text": "el fútbol",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Ninguno.",
+          "answer_text": "the football",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "You’re going to get fat.",
+      "question_text": "El fútbol.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Vas a engordar.",
+          "answer_text": "Football.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "Why don’t you play golf?",
+      "question_text": "pierdo (perder)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Por qué no juegas golf?",
+          "answer_text": "(I) lose, miss (to lose, to miss)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "I don’t know anything about golf.",
+      "question_text": "el partido",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "No sé nada de golf.",
+          "answer_text": "the game",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "I don’t have any equipment either.",
+      "question_text": "No pierdo ni un partido.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Tampoco tengo equipo.",
+          "answer_text": "I never miss a single game.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "At first you don’t need it. We’ll play with mine.",
+      "question_text": "practicar",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Al principio no necesitas. Con lo mío jugamos los dos.",
+          "answer_text": "to practice, to participate in",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "Okay, you win. You convinced me.",
+      "question_text": "Pero ¿cuál practicas?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Bueno, tú ganas. Me convenciste.",
+          "answer_text": "But which one do you play?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "We’ll meet in the hall at six in the morning.",
+      "question_text": "francamente",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Entonces nos encontramos en el pasillo a las seis de la mañana.",
+          "answer_text": "frankly",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "What? At six? Are you crazy?",
+      "question_text": "ninguno",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "¿Qué? ¿A las seis? ¿Estás loco?",
+          "answer_text": "none, not one",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "Leave it for eleven o’clock.",
+      "question_text": "Francamente, ninguno.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "Déjalo para las once.",
+          "answer_text": "Frankly, not a one.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "Don’t be lazy, man. Be punctual.",
+      "question_text": "engordar",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer": "No seas flojo, hombre. Sé puntual.",
+          "answer_text": "to get fat",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Así vas a engordar.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "You're going to get fat that way.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "jugar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to play",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "¿Por qué no jugamos golf mañana?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Why don't we play some golf tomorrow?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "la jota",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the (letter) jota (j); jot, tittle",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Yo no sé ni jota de golf.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I don't know the first thing about golf.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "importa (importar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(it) matters (to matter, be important)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "que sepas (saber)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "that (you) know (to know)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "juguemos (jugar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "let's play (to play)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "No importa que no sepas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It doesn't matter that you don't know how.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "Juguemos. Yo te enseño.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Let's play. I'll teach you.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "el equipo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the equipment",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Pero es que tampoco tengo equipo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "But I don't have any equipment, either.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "el principio",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the beginning",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "al principio",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "in the beginning",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Al principio no necesitas. Con lo mío jugamos los dos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "To begin with you don't need it. We'll both play with mine.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "ganar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to win, earn, gain",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "convencer",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to convince",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Bueno, tú ganas. Me convenciste.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Okay. You win. You convinced me.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "el pasillo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the hall",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Entonces nos encontramos en el pasillo a las seis de la mañana.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Then we'll meet in the hall at six in the morning.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "¿Qué? ¿A las seis? ¿Estás loco?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "What! At six! Are you mad?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "déjalo (dejar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "leave it (to leave)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "Déjalo para las once.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Leave it for eleven o'clock.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "flojo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "lazy, loose",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "no seas (ser)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "don't be (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "No seas flojo, hombre.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Don't be lazy, chum.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "sé (ser)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "be (to be)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "puntual",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "punctual",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "A las seis te espero. Y sé puntual.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I'll expect you at six. And be on time.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 5,
-    "are_questions_english": true,
+    "page_end": 4,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

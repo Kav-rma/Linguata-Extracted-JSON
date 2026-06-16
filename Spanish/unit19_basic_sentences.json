@@ -4,192 +4,502 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "Excuse us for not arriving on time.",
-      "answer": "Perdone que no llegáramos a tiempo.",
+      "question_text": "perdone (perdonar)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Perdone que no llegáramos a tiempo.",
+          "answer_text": "pardon (to pardon)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "Don't worry.",
-      "answer": "No se preocupen.",
+      "question_text": "que llegáramos (llegar)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "No se preocupen.",
+          "answer_text": "that (we) might arrive (to arrive)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "It got late on us and we couldn't get in touch with you.",
-      "answer": "Se nos hizo tarde y no pudimos comunicarnos con usted.",
+      "question_text": "a tiempo",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Se nos hizo tarde y no pudimos comunicarnos con usted.",
+          "answer_text": "on time",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "This building, does it belong to the American Mission?",
-      "answer": "¿Este edificio pertenece a la Misión Americana?",
+      "question_text": "Coronel, perdone que no llegáramos a tiempo.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Este edificio pertenece a la Misión Americana?",
+          "answer_text": "Coronel, excuse us for not arriving on time.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "No, it's part of the War Department of this country.",
-      "answer": "No, es del Ministerio de Guerra de este país.",
+      "question_text": "no se preocupen (preocuparse)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "No, es del Ministerio de Guerra de este país.",
+          "answer_text": "don't yourselves worry (to worry)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "We only have three rooms here for our offices.",
-      "answer": "Solamente tenemos aquí tres cuartos para nuestras oficinas.",
+      "question_text": "No se preocupen. ¿Qué les pasó?",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Solamente tenemos aquí tres cuartos para nuestras oficinas.",
+          "answer_text": "Don't give it a thought. What happened?",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "Look at that C-47 that's landing.",
-      "answer": "Mira ese C-47 que está aterrizando.",
+      "question_text": "se nos hizo tarde",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Mira ese C-47 que está aterrizando.",
+          "answer_text": "it got late on us",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "Isn't it the same one that was taking off when we were coming?",
-      "answer": "¿No es el mismo que despegaba cuando veníamos?",
+      "question_text": "hacerse tarde",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿No es el mismo que despegaba cuando veníamos?",
+          "answer_text": "to become late",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "Yes, they’re testing the engines.",
-      "answer": "Sí, están probando los motores.",
+      "question_text": "pudimos (poder)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Sí, están probando los motores.",
+          "answer_text": "(we) could, were able (to be able)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 10,
-      "question": "Could we go see it?",
-      "answer": "¿Podríamos ir a verlo?",
+      "question_text": "comunicarnos (comunicarse)",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¿Podríamos ir a verlo?",
+          "answer_text": "to communicate ourselves (to communicate)",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 11,
-      "question": "Sure.",
-      "answer": "¡Claro!",
+      "question_text": "Se nos hizo tarde y no pudimos comunicarnos con usted.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "¡Claro!",
+          "answer_text": "It got late on us and we couldn't get in touch with you.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 12,
-      "question": "Later I'll introduce you to the base commander.",
-      "answer": "Después les presento al jefe de la base.",
+      "question_text": "la línea",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Después les presento al jefe de la base.",
+          "answer_text": "the line",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 13,
-      "question": "We were nearly an hour talking with the Air Attaché.",
-      "answer": "Estuve como una hora hablando con el Agregado Aéreo.",
+      "question_text": "Llamamos pero la línea estaba ocupada.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Estuve como una hora hablando con el Agregado Aéreo.",
+          "answer_text": "We called but the line was busy.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
     },
     {
       "sequence_id": 14,
-      "question": "We called but the line was busy.",
-      "answer": "Llamamos, pero la línea estaba ocupada.",
+      "question_text": "Tiene razón.",
+      "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "text": "Llamamos, pero la línea estaba ocupada.",
+          "answer_text": "You're right.",
           "is_correct": true
         }
-      ],
-      "has_answer": true
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "como",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "about, around",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "el agregado",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the attaché",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "aéreo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "aerial",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Estuve como una hora hablando con el Agregado Aéreo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "I was nearly an hour talking with the Air Attaché.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "pertenecer",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to pertain, to belong",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Este edificio, ¿pertenece a la Misión Americana?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "This building here....Does it belong to the American Mission?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "la guerra",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the war",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "El Ministerio de Guerra",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the War Department",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "el país",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the country",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "No, es del Ministerio de Guerra de este país.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No. It belongs to the War Department of this country.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "solamente",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "only",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Solamente tenemos aquí tres cuartos para nuestras oficinas.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "We only have three rooms here for our offices.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "cuarenta",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "forty",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "aterrizar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to land",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Mira ese C.47 que está aterrizando.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Look at that C-47 coming in.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "despegar",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to take off",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "¿No es el mismo que despegaba cuando veníamos?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Isn't it the same one that was taking off when we were coming?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "el motor",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the motor, engine",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Sí, están probando los motores.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Yes. They're testing the engines.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "podríamos (poder)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(we) would be able (to be able)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "¿Podríamos ir a verlo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Could we go see it?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "¡Claro!",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Sure.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "la base",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the base",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "Después les presento al jefe de la base.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Afterwards I'll introduce you to the base commander.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "varios",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "several",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "el piloto",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the pilot",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Y también a varios de los pilotos.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And also to some of the pilots.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
     "page_start": 1,
     "page_end": 4,
-    "are_questions_english": true,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

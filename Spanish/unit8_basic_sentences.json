@@ -4,456 +4,648 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "They live in an apartment just like mine.",
-      "type": "short_answer",
+      "question_text": "caramba",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Viven en un apartamento igual al mío.",
+          "answer_text": "gosh",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question": "Is it very expensive?",
-      "type": "short_answer",
+      "question_text": "recuerdo <&ec<rdar)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Es muy caro?",
+          "answer_text": "(to remembel')",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question": "On the contrary, the price isn't bad.",
-      "type": "short_answer",
+      "question_text": "Molma. ¡Caramba\\ Ahora que n~cuerdo,",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Al contrario, el precio no está mal.",
+          "answer_text": "Gosh now p",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question": "Does it face the street or the patio?",
-      "type": "short_answer",
+      "question_text": "la casa",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Da a la calle o al patio?",
+          "answer_text": "the hOll.''Je",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question": "The street, and it has a beautiful view.",
-      "type": "short_answer",
+      "question_text": "mudarse de casa",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Da a la calle y tiene muy bonita vista.",
+          "answer_text": "to move (one a residence)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question": "How many rooms does it have?",
-      "type": "short_answer",
+      "question_text": "la semana",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Cuántas habitaciones tiene?",
+          "answer_text": "the week",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question": "A large living room, kitchen and bath.",
-      "type": "short_answer",
+      "question_text": "Mis vecinos van a mudarse de casa esta semana.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Una sala grande, cocina y cuarto de baño.",
+          "answer_text": "My nejghbors are going to move this week.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question": "Doesn't it have a bedroom?",
-      "type": "short_answer",
+      "question_text": "viven (vivir)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿No tiene dormitorio?",
+          "answer_text": "(they) live live) tto",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question": "No, but the living room is quite large.",
-      "type": "short_answer",
+      "question_text": "igual a",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "No, pero la sala es bastante grande.",
+          "answer_text": "equal to, the same as",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question": "In mine I have a sofa-bed.",
-      "type": "short_answer",
+      "question_text": "caro",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "En la mía tengo un sofá cama.",
+          "answer_text": "expensive",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 11,
-      "question": "Actually the apartment must be very comfortable.",
-      "type": "short_answer",
+      "question_text": "¿Es muy caro?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "En realidad, el apartamento debe ser muy cómodo.",
+          "answer_text": "Is it very expensive?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 12,
-      "question": "Why don't you come tonight and you can see where I live?",
-      "type": "short_answer",
+      "question_text": "el contrario",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Por qué no vienes esta noche y así ves dónde vivo?",
+          "answer_text": "the contrary",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 13,
-      "question": "O.K. Will you let me off at the hotel?",
-      "type": "short_answer",
+      "question_text": "al contrario",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Muy bien, ¿quieres dejarme en el hotel?",
+          "answer_text": "the contrary",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 14,
-      "question": "I have to change my clothes.",
-      "type": "short_answer",
+      "question_text": "el precio",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Tengo que cambiarme de ropa.",
+          "answer_text": "the price",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 15,
-      "question": "Then I'll take you and come by for you at eight.",
-      "type": "short_answer",
+      "question_text": "mal (malo)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Entonces te llevo y paso por ti a las ocho.",
+          "answer_text": "had",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 16,
-      "question": "Thanks a million. I'll be waiting for you.",
-      "type": "short_answer",
+      "question_text": "Al contrario, e1precio no está mal.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Un millón de gracias. Te espero.",
+          "answer_text": "On the contrary, the price is oot hado",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 17,
-      "question": "We live in an old house.",
-      "type": "short_answer",
+      "question_text": "dar a",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Vivimos en una casa vieja.",
+          "answer_text": "to face",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 18,
-      "question": "They live in a big apartment.",
-      "type": "short_answer",
+      "question_text": "la calle",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Ellos viven en un apartamento grande.",
+          "answer_text": "the street",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 19,
-      "question": "What time do they open that building?",
-      "type": "short_answer",
+      "question_text": "el patio",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿A qué hora abren ese edificio?",
+          "answer_text": "the yard, the court, the patio",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 20,
-      "question": "Where do you live?",
-      "type": "short_answer",
+      "question_text": "¿Da a la calle o al patio?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Dónde vive usted?",
+          "answer_text": "Does face the street or the patio?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 21,
-      "question": "Does he write the ads?",
-      "type": "short_answer",
+      "question_text": "bonito",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Escribe él los anuncios?",
+          "answer_text": "pretty",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 22,
-      "question": "When do you write?",
-      "type": "short_answer",
+      "question_text": "la vista",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Cuándo escribe Ud.?",
+          "answer_text": "the view",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 23,
-      "question": "Since when have you all lived there?",
-      "type": "short_answer",
+      "question_text": "Da a la calle y tiene muy bonita vista.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Desde cuándo viven Uds. ahí?",
+          "answer_text": ", The street, and it has a beautiful vlew.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 24,
-      "question": "Does he open the Embassy?",
-      "type": "short_answer",
+      "question_text": "la habitación",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "¿Abre él la Embajada?",
+          "answer_text": "the room",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 25,
-      "question": "I go up at eight o'clock.",
-      "type": "short_answer",
+      "question_text": "¿Cuántas habitaciones tiene?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Yo subo a las ocho.",
+          "answer_text": "How many rooms does it have?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 26,
-      "question": "They go up at seven.",
-      "type": "short_answer",
+      "question_text": "Una sala grande, cocina y cuarto de baño.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Ellos suben a las siete.",
+          "answer_text": "A large living room, kitchen and bath.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 27,
-      "question": "They live near a friend of mine.",
-      "type": "short_answer",
+      "question_text": "el dormitorio",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Viven cerca de un amigo mío.",
+          "answer_text": "the bedroom",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 28,
-      "question": "I live in the United States.",
-      "type": "short_answer",
+      "question_text": "¿No tiene dormitorio?",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Vivo en los Estados Unidos.",
+          "answer_text": ", Doesn't it have a bedroom? notyenelaormitoryot",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 29,
-      "question": "I live a long ways from the language school.",
-      "type": "short_answer",
+      "question_text": "No, pero la sala es bastante grande.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Vivo lejos de la escuela de lenguas.",
+          "answer_text": ", No, but the living room is quite large.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 30,
-      "question": "They want to go to the restaurant.",
-      "type": "short_answer",
+      "question_text": "la cama",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Quieren ir al restaurante.",
+          "answer_text": "the hed",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 31,
-      "question": "They want to go to the agency.",
-      "type": "short_answer",
+      "question_text": "el sofá cama",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Quieren ir a la agencia.",
+          "answer_text": "the sofa-hed",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 32,
-      "question": "They're going to the same hotel.",
-      "type": "short_answer",
+      "question_text": "En la mía tengo un sofá cama.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Van al mismo hotel.",
+          "answer_text": "In mine I have a sofa-hed.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 33,
-      "question": "This is the key to the house.",
-      "type": "short_answer",
+      "question_text": "la realidad",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Esta es la llave de la casa.",
+          "answer_text": "the reality",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 34,
-      "question": "These are the keys to the apartment.",
-      "type": "short_answer",
+      "question_text": "debe ser",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Estas son las llaves del apartamento.",
+          "answer_text": "it must be, it's probably",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 35,
-      "question": "Two hundred dollars a month.",
-      "type": "short_answer",
+      "question_text": "cómodo",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Doscientos dólares al mes.",
+          "answer_text": "cornfortable",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 36,
-      "question": "This is Mr. Molina's car.",
-      "type": "short_answer",
+      "question_text": "En realidad, debe ser muy el apartamento.",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Este es el auto del señor Molina.",
+          "answer_text": "Actually the apartment must be very comfortable. é",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 37,
-      "question": "This is the light bill.",
-      "type": "short_answer",
+      "question_text": "vienes (venir)",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Esta es la cuenta de la luz.",
+          "answer_text": "(you) come (to come)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 38,
-      "question": "This is the gas bill.",
-      "type": "short_answer",
+      "question_text": "la noche",
       "has_answer": true,
+      "type": "short_answer",
       "answers": [
         {
-          "text": "Esta es la cuenta del gas.",
+          "answer_text": "the night",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "esta noche",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "tonight",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "vivo (vivir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "live (to live)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "¿Por qué no vienes esta noche y así ves dónde vivo?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "pórkenobyenes Why don't you come tonight and you can see where *áSlbez",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 42,
+      "question_text": "CUATRO",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 43,
+      "question_text": "dejarme",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to leave me",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 44,
+      "question_text": "Muy bien, ¿quieres dejarme en el hotel?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "O.K. Will you let me off at the hotel?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 45,
+      "question_text": "tener que",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to have to",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 46,
+      "question_text": "me",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "myself",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 47,
+      "question_text": "cambiarme de (cambiarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to change myself of (to change oneself)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 48,
+      "question_text": "la ropa",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the clothes, the clothing",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 49,
+      "question_text": "Tengo que cambiarme de ropa.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to change my clothes.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 50,
+      "question_text": "a las ocho",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "at eight (o'clock)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "Entonces te llevo y paso por ti a las ocho.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Then I'll take yon (to the hoten, and come by for yon at eight.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "el millón",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the million",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "espero (esperar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "hope (to hope, expect, wait for)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "Un millón de gracias. Te espero.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", Thanks a be waiting for you.",
           "is_correct": true
         }
       ]
@@ -462,8 +654,8 @@
   "articles": [],
   "metadata": {
     "page_start": 1,
-    "page_end": 5,
-    "are_questions_english": true,
+    "page_end": 6,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }

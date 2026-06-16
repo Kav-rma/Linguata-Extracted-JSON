@@ -28,576 +28,648 @@
     },
     {
       "sequence_id": 3,
-      "question_text": "Good afternoon, ma'am.",
+      "question_text": "Buenes tardes, señora.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Buenas tardes, señora.",
+          "answer_text": "Good afternoon, ma-am..",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Good evening, miss.",
+      "question_text": "Buenas noches, señorita.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Buenas noches, señorita.",
+          "answer_text": "Good evening, miss.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "How are you?",
+      "question_text": "cómo",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¿Cómo está usted?",
+          "answer_text": "how",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "I'm fine, thanks. How are you?",
+      "question_text": "está (estar)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Estoy bien, gracias. ¿y usted?",
+          "answer_text": "are (to be)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "Very well, thanks.",
+      "question_text": "usted",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Muy bien, gracias.",
+          "answer_text": "you",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Hello! How are you?",
+      "question_text": "¿Cómo está usted?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¡Hola! ¿Qué tal?",
+          "answer_text": "are you?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "How are you getting along?",
+      "question_text": "estoy (esta-)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "¿Cómo le va?",
+          "answer_text": "am (lohe)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "Fine, thanks.",
+      "question_text": "bien",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Bien, gracias.",
+          "answer_text": "well",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 11,
-      "question_text": "with",
+      "question_text": "gracias",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "con",
+          "answer_text": "thanu",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 12,
-      "question_text": "the permission",
+      "question_text": "y",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el permiso",
+          "answer_text": "and",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 13,
-      "question_text": "Excuse me.",
+      "question_text": "Estoy bien, gracias. ¿y usted?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Con permiso.",
+          "answer_text": "I'm fine. thank you. How are",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 14,
-      "question_text": "no",
+      "question_text": "muy",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "no",
+          "answer_text": "very",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 15,
-      "question_text": "Certainly.",
+      "question_text": "Muy bien, gracias",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Cómo no.",
+          "answer_text": "Very well, thanks.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 16,
-      "question_text": "Excuse (to excuse)",
+      "question_text": "hola",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "dispensar",
+          "answer_text": "helIo, hi",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 17,
-      "question_text": "Excuse me (apology).",
+      "question_text": "qué tal",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Dispénseme.",
+          "answer_text": "what such",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 18,
-      "question_text": "I'm very sorry.",
+      "question_text": "¡Hola! ¿Qué tal?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Lo siento mucho.",
+          "answer_text": "HU How goes it?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 19,
-      "question_text": "That's okay.",
+      "question_text": "le va",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Está bien.",
+          "answer_text": "to ron (it) goes",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 20,
-      "question_text": "many",
+      "question_text": "¿Cómo le va?",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "muchas",
+          "answer_text": "How are ron getting along?",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 21,
-      "question_text": "Thanks a lot.",
+      "question_text": "Bien, gracias.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Muchas gracias.",
+          "answer_text": "Fine, thanks.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 22,
-      "question_text": "of",
+      "question_text": "el permiso",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "de",
+          "answer_text": "the permission",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 23,
-      "question_text": "nothing",
+      "question_text": "Con permiso.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "nada",
+          "answer_text": "Excuse me.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 24,
-      "question_text": "You're welcome.",
+      "question_text": "no",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "De nada.",
+          "answer_text": "no, not",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 25,
-      "question_text": "There is / There are",
+      "question_text": "Cómo no.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "hay",
+          "answer_text": "Certainly.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 26,
-      "question_text": "Don't give it a thought.",
+      "question_text": "dispense (dispensar)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "No hay de qué.",
+          "answer_text": "excuse (to excuse)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 27,
-      "question_text": "want",
+      "question_text": "Dispénseme",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "quiero",
+          "answer_text": "Excuse me.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 28,
-      "question_text": "to present",
+      "question_text": "lo siento (sentir)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "presentar",
+          "answer_text": "it regret (to regret, to feel)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 29,
-      "question_text": "to present to you",
+      "question_text": "mucho",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "presentarle",
+          "answer_text": "much, lots, too much",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 30,
-      "question_text": "to",
+      "question_text": "Lo siento mucho.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "a",
+          "answer_text": "I'm very sorry.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 31,
-      "question_text": "the (masculine singular)",
+      "question_text": "muchas",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el",
+          "answer_text": "many (f.pI.)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 32,
-      "question_text": "to the",
+      "question_text": "Muchas gracias.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "al",
+          "answer_text": ", Thanks a loto",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 33,
-      "question_text": "I'd like to present Mr. Molina to you.",
+      "question_text": "nada",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Quiero presentarle al señor Molina.",
+          "answer_text": "nothing",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 34,
-      "question_text": "I'd like to present Mrs. Molina to you.",
+      "question_text": "De nada.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Quiero presentarle a la señora de Molina.",
+          "answer_text": "You're welcome.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 35,
-      "question_text": "the pleasure",
+      "question_text": "No hay de qué~",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "el gusto",
+          "answer_text": ", Don't give it a thought.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 36,
-      "question_text": "Glad to meet you.",
+      "question_text": "quiero (querer>",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Mucho gusto.",
+          "answer_text": "want (to want)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 37,
-      "question_text": "equally",
+      "question_text": "presentar",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "igualmente",
+          "answer_text": "to present",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 38,
-      "question_text": "Same here, thanks.",
+      "question_text": "presentarle",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Igualmente, gracias.",
+          "answer_text": "to present to you",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 39,
-      "question_text": "enchanted",
+      "question_text": "a",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "encantado",
+          "answer_text": "to",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 40,
-      "question_text": "to meet",
+      "question_text": "el",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "conocer",
+          "answer_text": "the (m. sg.)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 41,
-      "question_text": "to meet you (feminine)",
+      "question_text": "al",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "conocerla",
+          "answer_text": "to the",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 42,
-      "question_text": "Delighted to meet you.",
+      "question_text": "Quiero presentarle al señor Molina.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Encantado de conocerla.",
+          "answer_text": "Mr. l'd like to present Molina to you.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 43,
-      "question_text": "to meet you (masculine)",
+      "question_text": "Quiero presentarle a la señora de Molina.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "conocerlo",
+          "answer_text": "l' d like to present Mrs. Molina to you.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 44,
-      "question_text": "Glad to meet you (masculine)",
+      "question_text": "el gusto",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Mucho gusto de conocerlo.",
+          "answer_text": "tbe pleasure",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 45,
-      "question_text": "Goodbye.",
+      "question_text": "Mucho gusto.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Adiós.",
+          "answer_text": "Glad to meet you.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 46,
-      "question_text": "until",
+      "question_text": "igualmente (igual)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "hasta",
+          "answer_text": "equally (equal)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 47,
-      "question_text": "tomorrow",
+      "question_text": "Igualmente, gracias.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "mañana",
+          "answer_text": "Same here, thanks.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 48,
-      "question_text": "See you tomorrow.",
+      "question_text": "encantado (enoantar)",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Hasta mañana.",
+          "answer_text": "enchanted (to enchant)",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 49,
-      "question_text": "then, later",
+      "question_text": "conocer",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "luego",
+          "answer_text": "to meet, get acquainted, to know",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 50,
-      "question_text": "So long.",
+      "question_text": "conocerla",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "Hasta luego.",
+          "answer_text": "to meet you (L)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 51,
+      "question_text": "Encantado de conocerla.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Delighted to meet you.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 52,
+      "question_text": "Mucho gusto de conocerlo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Glad to meet you.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 53,
+      "question_text": "hasta",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "until",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 54,
+      "question_text": "mañana",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "tomorrow",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 55,
+      "question_text": "luego",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "then, later",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 56,
+      "question_text": "Hasta luego.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "So long.",
           "is_correct": true
         }
       ]
@@ -607,7 +679,7 @@
   "metadata": {
     "page_start": 1,
     "page_end": 5,
-    "are_questions_english": true,
-	"are_questions_generated_by_llm": false
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
   }
 }

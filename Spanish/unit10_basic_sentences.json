@@ -4,82 +4,502 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "We see the car, but not the chauffeur.",
+      "question_text": "Malina En fin. Ya está listo todo.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Vemos el auto pero no al chofer.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Malina (l) Well, you're aH set.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 2,
-      "question": "I see the house, but not the lady.",
+      "question_text": "te mudas (mudarse)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Veo la casa pero no a la señora.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "yourself (you) change, move (to change, move)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 3,
-      "question": "We see the building, but not the gentleman.",
+      "question_text": "¿Cuándo te mudas?",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Vemos el edificio pero no al señor.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": ", When will you move?",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 4,
-      "question": "They see the desk, but not the secretary.",
+      "question_text": "el viernes",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Ven el escritorio pero no a la secretaria.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Friday",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 5,
-      "question": "I'm looking for the suitcases and the ladies also.",
+      "question_text": "me mudo (mudarse)",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Busco las maletas y a las señoras también.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "myself change. niove (to change, move)",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 6,
-      "question": "We're looking for Carmen.",
+      "question_text": "el sábado",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Buscamos a Carmen.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "Saturday",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 7,
-      "question": "We can't find John.",
+      "question_text": "Si me dan el apartamento el viernes, me mudo el sábado.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "No encontramos a Juan.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "If they give me the apartment on , Friday, move on Saturday.",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 8,
-      "question": "We can't find the house.",
+      "question_text": "la maleta",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "No encontramos la casa.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": "the suitcase",
+          "is_correct": true
+        }
+      ]
     },
     {
       "sequence_id": 9,
-      "question": "I'm looking for the apartment.",
+      "question_text": "Yo te puedo ayudar con las maletas.",
+      "has_answer": true,
       "type": "short_answer",
-      "answer": "Busco el apartamento.",
-      "is_correct": true,
-      "has_answer": true
+      "answers": [
+        {
+          "answer_text": ",. help you with your suitcases.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "lo que",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the that, that which, what",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "no te molestes (molestarse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "not yourself bother (to bother)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Es poco lo que tengo. No te molestes.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", , don't have very mucho Y ou needn'i bother.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "mandas (mandar)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(you) send (to send)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "¿Dónde mandas tu ropa?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", ., Where do you send your laundry? dondemandas",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "el traje",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the suit",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "la tintOl'eria",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the cleaner's shop",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "enfrente",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "in front",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Los trajes los mando a la tintorería que está enfrente.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "lóstrahezllozmandQlálátintórerl.al my suits to the cleaner's across the street.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "la lavandería",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the laundry",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "la esquina",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the cOl'ner",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "y las camisas a la lavandería de la esquina.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "And my shirts to the laundry on the carner.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "mismo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "-self",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "yo mismo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "las",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "them (O",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Yo mismo las llevo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", them over myself.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "¿Quién te limpia el apartamento?",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", Who cleans the apartment fOl' you?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "viene (venir)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "(she) comes (to come)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "todo",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "every",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "el jueves",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thursday",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "todos los jueves",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "aU the Thursdays, every Thursday .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Una muchacha que viene todos los jueves.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "( ) A girl who comes every Thursday.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Si quieres yo le hablo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ",. lf you want !'U speak to her. sikyerest",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Muy bien.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": ", Swell.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "tarde",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "late",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "irme (irse)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "to go rnyself (lo go oneself, to leave)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Bueno, ya es tarde. Tengo que irme.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "\" Well, it's late. I've got to go.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 37,
+      "question_text": "antes",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "befare",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 38,
+      "question_text": "el trago",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "the swallow, the drink",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 39,
+      "question_text": "No, muchas gracias. Mañana hay que trabajar.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "No, thanks. Tomorrow is a work day.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 40,
+      "question_text": "agradecido (agradecer)",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "grateful (to be grateful)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 41,
+      "question_text": "Muy agradecido por todo.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Thanks a lot for everything.",
+          "is_correct": true
+        }
+      ]
     }
   ],
   "articles": [],
   "metadata": {
-    "page_start": 10,
-    "page_end": 14,
-    "are_questions_english": true,
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
 }
