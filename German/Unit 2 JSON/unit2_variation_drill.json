@@ -5,438 +5,6 @@
     "questions_and_answers": [
       {
         "sequence_id": 1,
-        "question_text": "Stadt - Bank - Adresse - Dame - Amerikanerin - Deutsche - Milch - Botschaft",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "city - bank - address - lady - American woman - German woman - milk - embassy",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 2,
-        "question_text": "die Stadt",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the city",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 3,
-        "question_text": "die Bank",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the bank",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 4,
-        "question_text": "die Adresse",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the address",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 5,
-        "question_text": "die Dame",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the lady",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 6,
-        "question_text": "die Amerikanerin",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the American woman",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 7,
-        "question_text": "die Deutsche",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the German woman",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 8,
-        "question_text": "die Milch",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the milk",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 9,
-        "question_text": "die Botschaft",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the embassy",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 10,
-        "question_text": "Streichhölzer - Zigarren - Kartoffeln - Eltern",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "matches - cigars - potatoes - parents",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 11,
-        "question_text": "die Streichhölzer",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the matches",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 12,
-        "question_text": "die Zigarren",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the cigars",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 13,
-        "question_text": "die Kartoffeln",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the potatoes",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 14,
-        "question_text": "die Eltern",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the parents",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 15,
-        "question_text": "Beamte - Dame - Konsulat - Tee - Kino - Eltern - Milch - Pass - Restaurant - Bier - Amerikanerin - Cafe - Koffer - Streichhölzer - Bank - Diplomat - Ober - Gepäck - Adresse - Kartoffeln - Bahnhof",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "official - lady - consulate - tea - cinema - parents - milk - passport - restaurant - beer - American woman - cafe - suitcase - matches - bank - diplomat - waiter - luggage - address - potatoes - station",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 16,
-        "question_text": "der Beamte",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the official",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 17,
-        "question_text": "die Dame",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the lady",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 18,
-        "question_text": "das Konsulat",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the consulate",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 19,
-        "question_text": "der Tee",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the tea",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 20,
-        "question_text": "das Kino",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the cinema",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 21,
-        "question_text": "die Eltern",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the parents",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 22,
-        "question_text": "die Milch",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the milk",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 23,
-        "question_text": "der Pass",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the passport",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 24,
-        "question_text": "das Restaurant",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the restaurant",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 25,
-        "question_text": "das Bier",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the beer",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 26,
-        "question_text": "die Amerikanerin",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the American woman",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 27,
-        "question_text": "das Cafe",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the cafe",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 28,
-        "question_text": "der Koffer",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the suitcase",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 29,
-        "question_text": "die Streichhölzer",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the matches",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 30,
-        "question_text": "die Bank",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the bank",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 31,
-        "question_text": "der Diplomat",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the diplomat",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 32,
-        "question_text": "der Ober",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the waiter",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 33,
-        "question_text": "das Gepäck",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the luggage",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 34,
-        "question_text": "die Adresse",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the address",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 35,
-        "question_text": "die Kartoffeln",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the potatoes",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 36,
-        "question_text": "der Bahnhof",
-        "type": "short_answer",
-        "has_answer": true,
-        "answers": [
-          {
-            "answer_text": "the station",
-            "is_correct": true
-          }
-        ]
-      },
-      {
-        "sequence_id": 37,
         "question_text": "Ich komme.",
         "type": "short_answer",
         "has_answer": true,
@@ -448,7 +16,7 @@
         ]
       },
       {
-        "sequence_id": 38,
+        "sequence_id": 2,
         "question_text": "Ich komme auch.",
         "type": "short_answer",
         "has_answer": true,
@@ -460,7 +28,7 @@
         ]
       },
       {
-        "sequence_id": 39,
+        "sequence_id": 3,
         "question_text": "Ich komme nicht.",
         "type": "short_answer",
         "has_answer": true,
@@ -472,7 +40,7 @@
         ]
       },
       {
-        "sequence_id": 40,
+        "sequence_id": 4,
         "question_text": "Ich komme auch nicht.",
         "type": "short_answer",
         "has_answer": true,
@@ -484,7 +52,7 @@
         ]
       },
       {
-        "sequence_id": 41,
+        "sequence_id": 5,
         "question_text": "Bleibt sie?",
         "type": "short_answer",
         "has_answer": true,
@@ -496,7 +64,7 @@
         ]
       },
       {
-        "sequence_id": 42,
+        "sequence_id": 6,
         "question_text": "Bleibt sie auch?",
         "type": "short_answer",
         "has_answer": true,
@@ -508,7 +76,7 @@
         ]
       },
       {
-        "sequence_id": 43,
+        "sequence_id": 7,
         "question_text": "Bleibt sie nicht?",
         "type": "short_answer",
         "has_answer": true,
@@ -520,7 +88,7 @@
         ]
       },
       {
-        "sequence_id": 44,
+        "sequence_id": 8,
         "question_text": "Bleibt sie auch nicht?",
         "type": "short_answer",
         "has_answer": true,
@@ -532,7 +100,7 @@
         ]
       },
       {
-        "sequence_id": 45,
+        "sequence_id": 9,
         "question_text": "Wir arbeiten dort.",
         "type": "short_answer",
         "has_answer": true,
@@ -544,7 +112,7 @@
         ]
       },
       {
-        "sequence_id": 46,
+        "sequence_id": 10,
         "question_text": "Wir arbeiten auch dort.",
         "type": "short_answer",
         "has_answer": true,
@@ -556,7 +124,7 @@
         ]
       },
       {
-        "sequence_id": 47,
+        "sequence_id": 11,
         "question_text": "Wir arbeiten nicht dort.",
         "type": "short_answer",
         "has_answer": true,
@@ -568,7 +136,7 @@
         ]
       },
       {
-        "sequence_id": 48,
+        "sequence_id": 12,
         "question_text": "Wir arbeiten auch nicht dort.",
         "type": "short_answer",
         "has_answer": true,
@@ -580,7 +148,7 @@
         ]
       },
       {
-        "sequence_id": 49,
+        "sequence_id": 13,
         "question_text": "Können sie kommen?",
         "type": "short_answer",
         "has_answer": true,
@@ -592,7 +160,7 @@
         ]
       },
       {
-        "sequence_id": 50,
+        "sequence_id": 14,
         "question_text": "Können sie auch kommen?",
         "type": "short_answer",
         "has_answer": true,
@@ -604,7 +172,7 @@
         ]
       },
       {
-        "sequence_id": 51,
+        "sequence_id": 15,
         "question_text": "Können sie nicht kommen?",
         "type": "short_answer",
         "has_answer": true,
@@ -616,7 +184,7 @@
         ]
       },
       {
-        "sequence_id": 52,
+        "sequence_id": 16,
         "question_text": "Können sie auch nicht kommen?",
         "type": "short_answer",
         "has_answer": true,
@@ -628,7 +196,7 @@
         ]
       },
       {
-        "sequence_id": 53,
+        "sequence_id": 17,
         "question_text": "Können sie jetzt kommen?",
         "type": "short_answer",
         "has_answer": true,
@@ -640,7 +208,7 @@
         ]
       },
       {
-        "sequence_id": 54,
+        "sequence_id": 18,
         "question_text": "Können sie jetzt nicht kommen?",
         "type": "short_answer",
         "has_answer": true,
@@ -652,7 +220,7 @@
         ]
       },
       {
-        "sequence_id": 55,
+        "sequence_id": 19,
         "question_text": "Können sie jetzt auch nicht kommen?",
         "type": "short_answer",
         "has_answer": true,
@@ -664,7 +232,7 @@
         ]
       },
       {
-        "sequence_id": 56,
+        "sequence_id": 20,
         "question_text": "Er will sie treffen.",
         "type": "short_answer",
         "has_answer": true,
@@ -676,7 +244,7 @@
         ]
       },
       {
-        "sequence_id": 57,
+        "sequence_id": 21,
         "question_text": "Er will sie auch treffen.",
         "type": "short_answer",
         "has_answer": true,
@@ -688,7 +256,7 @@
         ]
       },
       {
-        "sequence_id": 58,
+        "sequence_id": 22,
         "question_text": "Er will sie nicht treffen.",
         "type": "short_answer",
         "has_answer": true,
@@ -700,7 +268,7 @@
         ]
       },
       {
-        "sequence_id": 59,
+        "sequence_id": 23,
         "question_text": "Er will sie auch nicht treffen.",
         "type": "short_answer",
         "has_answer": true,
@@ -712,7 +280,7 @@
         ]
       },
       {
-        "sequence_id": 60,
+        "sequence_id": 24,
         "question_text": "Er will sie dort nicht treffen.",
         "type": "short_answer",
         "has_answer": true,
@@ -724,7 +292,7 @@
         ]
       },
       {
-        "sequence_id": 61,
+        "sequence_id": 25,
         "question_text": "Er will sie dort auch nicht treffen.",
         "type": "short_answer",
         "has_answer": true,
@@ -736,7 +304,7 @@
         ]
       },
       {
-        "sequence_id": 62,
+        "sequence_id": 26,
         "question_text": "Allens sind Amerikaner.",
         "type": "short_answer",
         "has_answer": true,
@@ -748,7 +316,7 @@
         ]
       },
       {
-        "sequence_id": 63,
+        "sequence_id": 27,
         "question_text": "Wir sind auch Amerikaner.",
         "type": "short_answer",
         "has_answer": true,
@@ -760,7 +328,7 @@
         ]
       },
       {
-        "sequence_id": 64,
+        "sequence_id": 28,
         "question_text": "Ist Frau Kunze Deutsche?",
         "type": "short_answer",
         "has_answer": true,
@@ -772,7 +340,7 @@
         ]
       },
       {
-        "sequence_id": 65,
+        "sequence_id": 29,
         "question_text": "Nein, sie ist Amerikanerin.",
         "type": "short_answer",
         "has_answer": true,
@@ -784,7 +352,7 @@
         ]
       },
       {
-        "sequence_id": 66,
+        "sequence_id": 30,
         "question_text": "Ich bin Amerikaner.",
         "type": "short_answer",
         "has_answer": true,
@@ -796,7 +364,7 @@
         ]
       },
       {
-        "sequence_id": 67,
+        "sequence_id": 31,
         "question_text": "Wo fahren Sie heute hin? Ich fahre nach München.",
         "type": "short_answer",
         "has_answer": true,
@@ -808,7 +376,7 @@
         ]
       },
       {
-        "sequence_id": 68,
+        "sequence_id": 32,
         "question_text": "Wo fährt er jetzt hin? Er fährt nach Bonn.",
         "type": "short_answer",
         "has_answer": true,
@@ -820,7 +388,7 @@
         ]
       },
       {
-        "sequence_id": 69,
+        "sequence_id": 33,
         "question_text": "Wo gehen Sie hin? Ich gehe ins Kino.",
         "type": "short_answer",
         "has_answer": true,
@@ -832,7 +400,7 @@
         ]
       },
       {
-        "sequence_id": 70,
+        "sequence_id": 34,
         "question_text": "Wo geht sie hin? Sie geht gerade essen.",
         "type": "short_answer",
         "has_answer": true,
@@ -844,7 +412,7 @@
         ]
       },
       {
-        "sequence_id": 71,
+        "sequence_id": 35,
         "question_text": "Wo fahren sie hin? Sie fahren nach Schwabing.",
         "type": "short_answer",
         "has_answer": true,
@@ -856,7 +424,7 @@
         ]
       },
       {
-        "sequence_id": 72,
+        "sequence_id": 36,
         "question_text": "Ich glaube, er kennt Sie.",
         "type": "short_answer",
         "has_answer": true,
@@ -868,7 +436,7 @@
         ]
       },
       {
-        "sequence_id": 73,
+        "sequence_id": 37,
         "question_text": "Er sagt, er kommt aus Deutschland.",
         "type": "short_answer",
         "has_answer": true,
@@ -880,7 +448,7 @@
         ]
       },
       {
-        "sequence_id": 74,
+        "sequence_id": 38,
         "question_text": "Ich glaube, sie arbeiten im Konsulat.",
         "type": "short_answer",
         "has_answer": true,
@@ -892,7 +460,7 @@
         ]
       },
       {
-        "sequence_id": 75,
+        "sequence_id": 39,
         "question_text": "Sie sagt, sie spricht auch deutsch.",
         "type": "short_answer",
         "has_answer": true,
@@ -904,7 +472,7 @@
         ]
       },
       {
-        "sequence_id": 76,
+        "sequence_id": 40,
         "question_text": "Er glaubt, ich kenne ihn.",
         "type": "short_answer",
         "has_answer": true,
@@ -916,7 +484,7 @@
         ]
       },
       {
-        "sequence_id": 77,
+        "sequence_id": 41,
         "question_text": "Sie sagen, ich kenne ihn auch?",
         "type": "short_answer",
         "has_answer": true,
@@ -928,7 +496,7 @@
         ]
       },
       {
-        "sequence_id": 78,
+        "sequence_id": 42,
         "question_text": "Er sagt, sie wohnt im Bayrischen Hof.",
         "type": "short_answer",
         "has_answer": true,
@@ -940,7 +508,7 @@
         ]
       },
       {
-        "sequence_id": 79,
+        "sequence_id": 43,
         "question_text": "Wir möchten hier bleiben.",
         "type": "short_answer",
         "has_answer": true,
@@ -952,7 +520,7 @@
         ]
       },
       {
-        "sequence_id": 80,
+        "sequence_id": 44,
         "question_text": "Sie wollen nach Tölz fahren.",
         "type": "short_answer",
         "has_answer": true,
@@ -964,7 +532,7 @@
         ]
       },
       {
-        "sequence_id": 81,
+        "sequence_id": 45,
         "question_text": "Dürfen wir deutsch sprechen?",
         "type": "short_answer",
         "has_answer": true,
@@ -976,7 +544,7 @@
         ]
       },
       {
-        "sequence_id": 82,
+        "sequence_id": 46,
         "question_text": "Ich kann Sie in Bonn besuchen.",
         "type": "short_answer",
         "has_answer": true,
@@ -988,7 +556,7 @@
         ]
       },
       {
-        "sequence_id": 83,
+        "sequence_id": 47,
         "question_text": "Er muss gerade arbeiten.",
         "type": "short_answer",
         "has_answer": true,
@@ -1000,7 +568,7 @@
         ]
       },
       {
-        "sequence_id": 84,
+        "sequence_id": 48,
         "question_text": "Wo kommen Sie her? Ich komme aus Amerika.",
         "type": "short_answer",
         "has_answer": true,
@@ -1012,7 +580,7 @@
         ]
       },
       {
-        "sequence_id": 85,
+        "sequence_id": 49,
         "question_text": "Wo kommt er her? Er kommt aus Deutschland.",
         "type": "short_answer",
         "has_answer": true,
@@ -1024,7 +592,7 @@
         ]
       },
       {
-        "sequence_id": 86,
+        "sequence_id": 50,
         "question_text": "Wo kommt sie her? Kommt sie auch aus Bonn?",
         "type": "short_answer",
         "has_answer": true,
@@ -1036,7 +604,7 @@
         ]
       },
       {
-        "sequence_id": 87,
+        "sequence_id": 51,
         "question_text": "Kommt er aus Amerika, oder wo kommt er her?",
         "type": "short_answer",
         "has_answer": true,
@@ -1048,7 +616,7 @@
         ]
       },
       {
-        "sequence_id": 88,
+        "sequence_id": 52,
         "question_text": "Wo kommen sie her? Sie kommen aus Frankfurt.",
         "type": "short_answer",
         "has_answer": true,

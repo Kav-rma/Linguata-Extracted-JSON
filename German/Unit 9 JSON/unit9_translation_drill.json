@@ -4,120 +4,432 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question_text": "Die Wilsons und die Beckers wollen im Winter in die Berge fahren.",
+      "question_text": "Zwei Ehepaare, ein deutsches und ein amerikanisches, fahren mit dem Volkswagen nach Süddeutschland.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "The Wilsons and the Beckers want to go to the mountains in winter.",
+          "answer_text": "Two couples, a German one and an American one, are traveling to Southern Germany in a Volkswagen.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 2,
-      "question_text": "Sie hoffen, dass es viel Schnee geben wird.",
+      "question_text": "Auf der Autobahn ist viel Verkehr und die Autos fahren sehr schnell.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "They hope there will be a lot of snow.",
+          "answer_text": "On the Autobahn there is a lot of traffic and the automobiles are traveling very fast.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 3,
-      "question_text": "Im Sommer ist es in Washington heisser als in Frankfurt.",
+      "question_text": "Wilsons und Beckers haben grosses Glück mit dem Wetter.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "In summer it is hotter in Washington than in Frankfurt.",
+          "answer_text": "The Wilsons and the Beckers are very fortunate with the weather.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 4,
-      "question_text": "Die Zugspitze ist der höchste Berg Deutschlands.",
+      "question_text": "Es ist nicht so kalt wie in den letzten Tagen.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "The Zugspitze is the highest mountain in Germany.",
+          "answer_text": "It is not as cold as in the last few days.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 5,
-      "question_text": "Wir fahren oft in den Schwarzwald, weil er näher ist.",
+      "question_text": "Frau Wilson freut sich schon sehr auf die Alpen.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "We often go to the Black Forest because it is closer.",
+          "answer_text": "Mrs. Wilson is very much looking forward to the Alps.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 6,
-      "question_text": "Hier gibt es nicht so viel Schnee wie bei uns.",
+      "question_text": "Sie möchte gern den höchsten Berg, die Zugspitze, sehen.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "There isn't as much snow here as where we live.",
+          "answer_text": "She'd like to see the highest mountain, the Zugspitze.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 7,
-      "question_text": "Meine Frau möchte sich einen neuen Pullover kaufen.",
+      "question_text": "Die Zugspitze ist fast dreitausend Meter hoch.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "My wife would like to buy a new sweater.",
+          "answer_text": "The Zugspitze is almost ten thousand feet high.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 8,
-      "question_text": "Die Luftfeuchtigkeit ist sehr hoch.",
+      "question_text": "Letztes Jahr waren Beckers im Sommer an der Ostsee.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "The humidity is very high.",
+          "answer_text": "Last year the Beckers were on the Baltic in the summer.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 9,
-      "question_text": "Der Herbst ist hier wärmer als bei uns.",
+      "question_text": "Im Winter fahren sie öfters ins Gebirge, in die Alpen oder in den Schwarzwald.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "The autumn is warmer here than at home.",
+          "answer_text": "In the winter they quite often travel to the mountains, to the Alps or the Black Forest.",
           "is_correct": true
         }
       ]
     },
     {
       "sequence_id": 10,
-      "question_text": "Wir möchten heute Abend essen gehen.",
+      "question_text": "Sie laufen gern Ski.",
       "has_answer": true,
       "type": "short_answer",
       "answers": [
         {
-          "answer_text": "We would like to go out for dinner tonight.",
+          "answer_text": "They like to ski.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "Wilsons laufen auch gern Ski.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The Wilsons like skiing too.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "Leider gibt es bei ihnen zu Hause nur wenig Schnee im Winter.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Unfortunately, where they live there's but little snow in the winter.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "Im Sommer ist es sehr heiss und die Luftfeuchtigkeit ist sehr hoch.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "In the summer it's very hot, and the humidity is very high.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "Der Herbst ist in Wilsons Heimat die schönste Jahreszeit.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The fall is the nicest time of year in the Wilsons' (home) country.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 15,
+      "question_text": "Leider ist der Frühling dort kürzer als in Deutschland.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Unfortunately the spring is shorter there than in Germany.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 16,
+      "question_text": "Herr Becker fährt jetzt wieder etwas schneller.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Mr. Becker is driving a bit faster again now.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 17,
+      "question_text": "Oben in den Bergen ist nicht so viel Verkehr wie unten im Tal.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "There's not as much traffic up in the mountains as down in the valley.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 18,
+      "question_text": "Es wird aber ziemlich kühl und Herr Wilson will seinen Mantel anziehen.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's getting pretty cool, however, and Mr. Wilson wants to put on his coat.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 19,
+      "question_text": "Ihm ist kalt.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "He's cold.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 20,
+      "question_text": "Herr Becker friert nicht.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Mr. Becker is not freezing.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 21,
+      "question_text": "Er hat einen wärmeren Pullover an als Herr Wilson.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "He has a warmer sweater on than Mr. Wilson.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 22,
+      "question_text": "Sie haben eine Reifenpanne!",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They have a flat tire!",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 23,
+      "question_text": "Das hat ihnen gerade noch gefehlt.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "That was all they needed.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 24,
+      "question_text": "In der Nähe ist auch keine Tankstelle.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "There's no gas station nearby either.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 25,
+      "question_text": "Die beiden Herren wechseln den Reifen selbst.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The two men change the tire themselves.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 26,
+      "question_text": "Frau Becker sucht den Photoapparat.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Mrs. Becker looks for the camera.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 27,
+      "question_text": "Er ist in der Aktenmappe.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's in the briefcase.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 28,
+      "question_text": "Die Aussicht ist wunderbar und sie möchte ein paar Aufnahmen machen.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The view is wonderful, and she'd like to take a couple of pictures.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 29,
+      "question_text": "Sie sehen viele dunkle Wolken am Himmel.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "They see a lot of dark clouds in the sky.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 30,
+      "question_text": "Wahrscheinlich wird es bald regnen.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "It's probably going to rain soon.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 31,
+      "question_text": "Herr Becker möchte den Wetterbericht hören.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Mr. Becker would like to hear the weather report.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 32,
+      "question_text": "Er stellt das Radio an.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "He turns on the radio.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 33,
+      "question_text": "Er hat Glück, das Radio bringt gerade die Nachrichten und den Wetterbericht.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "He's lucky; the radio station is just presenting the news and the weather report.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 34,
+      "question_text": "Nachmittags sonnig und wärmer, später schwere Gewitter in den Alpen.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "In the afternoon sunny and warmer; later, severe thunder storms in the Alps.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 35,
+      "question_text": "Die Herren beeilen sich sehr.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The men hurry very much.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 36,
+      "question_text": "Beckers und Wilsons haben vor, in Garmisch zu Mittag zu essen.",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "The Beckers and the Wilsons have planned to eat lunch in Garmisch.",
           "is_correct": true
         }
       ]
@@ -125,8 +437,8 @@
   ],
   "articles": [],
   "metadata": {
-    "page_start": 14,
-    "page_end": 15,
+    "page_start": 21,
+    "page_end": 22,
     "are_questions_english": false,
     "are_questions_generated_by_llm": false
   }
