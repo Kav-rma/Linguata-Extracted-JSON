@@ -1,0 +1,61 @@
+{
+  "title": "unit25_dialog_2",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "LUIS: ¿En qué piensas trabajar?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "LUIS: What do you plan to work at?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "CHICO: En cualquier cosa. Es fácil encontrar trabajo en los Estados Unidos."
+    },
+    {
+      "sequence_id": 4,
+      "text": "CHICO: At anything. It's easy to find work in the United States."
+    },
+    {
+      "sequence_id": 5,
+      "text": "LUIS: Yo quisiera irme también. Pero creo que para mí no sería tan fácil encontrar trabajo."
+    },
+    {
+      "sequence_id": 6,
+      "text": "LUIS: I'd like to go too. But I think it wouldn't be so easy for me to find work."
+    },
+    {
+      "sequence_id": 7,
+      "text": "CHICO: ¿Por qué dices eso?"
+    },
+    {
+      "sequence_id": 8,
+      "text": "CHICO: Why do you say that?"
+    },
+    {
+      "sequence_id": 9,
+      "text": "LUIS: Porque yo no soy norteamericano, como tú."
+    },
+    {
+      "sequence_id": 10,
+      "text": "LUIS: Because I'm not an American, like you."
+    },
+    {
+      "sequence_id": 11,
+      "text": "CHICO: Es verdad, pero debes recordar que tú eres ingeniero y yo no."
+    },
+    {
+      "sequence_id": 12,
+      "text": "CHICO: That's true, but you must remember that you're an engineer and I'm not."
+    }
+  ],
+  "metadata": {
+    "page_start": 27,
+    "page_end": 28,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": false
+  }
+}
