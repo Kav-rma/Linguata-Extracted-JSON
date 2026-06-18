@@ -1,0 +1,278 @@
+{
+  "title": "unit4_situation_2",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Whom does Mr. Köhler meet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "His son",
+          "is_correct": false
+        },
+        {
+          "answer": "Vice Consul Jones",
+          "is_correct": true
+        },
+        {
+          "answer": "Mr. Keller",
+          "is_correct": false
+        },
+        {
+          "answer": "Vice Consul Allen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How are Mr. Köhler and Jones described?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Brothers",
+          "is_correct": false
+        },
+        {
+          "answer": "Strangers",
+          "is_correct": false
+        },
+        {
+          "answer": "Acquaintances",
+          "is_correct": true
+        },
+        {
+          "answer": "Business partners",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Where do Mr. Köhler and Jones meet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the consulate",
+          "is_correct": false
+        },
+        {
+          "answer": "In a restaurant near the consulate",
+          "is_correct": true
+        },
+        {
+          "answer": "At the airport",
+          "is_correct": false
+        },
+        {
+          "answer": "At Köhler's house",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What do they have together?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A coffee",
+          "is_correct": false
+        },
+        {
+          "answer": "A beer",
+          "is_correct": true
+        },
+        {
+          "answer": "A meal",
+          "is_correct": false
+        },
+        {
+          "answer": "Tea",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does Köhler offer Jones?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A cigar",
+          "is_correct": true
+        },
+        {
+          "answer": "A pipe",
+          "is_correct": false
+        },
+        {
+          "answer": "A drink",
+          "is_correct": false
+        },
+        {
+          "answer": "Tobacco",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why does Jones decline the cigar?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He doesn't smoke",
+          "is_correct": false
+        },
+        {
+          "answer": "He only smokes a pipe",
+          "is_correct": true
+        },
+        {
+          "answer": "He is in a hurry",
+          "is_correct": false
+        },
+        {
+          "answer": "He doesn't like cigars",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does Köhler also prefer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Cigarettes",
+          "is_correct": false
+        },
+        {
+          "answer": "A pipe",
+          "is_correct": true
+        },
+        {
+          "answer": "Cigars",
+          "is_correct": false
+        },
+        {
+          "answer": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does Jones offer Köhler?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A cigar",
+          "is_correct": false
+        },
+        {
+          "answer": "A light",
+          "is_correct": false
+        },
+        {
+          "answer": "His tobacco",
+          "is_correct": true
+        },
+        {
+          "answer": "A drink",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What is Köhler planning?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A vacation in Germany",
+          "is_correct": false
+        },
+        {
+          "answer": "A business trip to the U.S.",
+          "is_correct": true
+        },
+        {
+          "answer": "A move to America",
+          "is_correct": false
+        },
+        {
+          "answer": "A visit to his son",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does Köhler say he needs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A passport",
+          "is_correct": false
+        },
+        {
+          "answer": "A ticket",
+          "is_correct": false
+        },
+        {
+          "answer": "A visa",
+          "is_correct": true
+        },
+        {
+          "answer": "A hotel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Travel Plans"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Mr. Köhler and an acquaintance, Vice Consul Jones, meet in a restaurant near the consulate."
+    },
+    {
+      "sequence_id": 3,
+      "text": "They have a beer together and Köhler offers Jones a cigar."
+    },
+    {
+      "sequence_id": 4,
+      "text": "The latter thanks him but explains he only smokes a pipe."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Köhler also prefers a pipe and Jones offers him his tobacco."
+    },
+    {
+      "sequence_id": 6,
+      "text": "He asks Köhler what he's doing in this part of town, and Köhler tells him he is planning a business trip to the U.S. and needs a visa."
+    }
+  ],
+  "metadata": {
+    "page_start": 107,
+    "page_end": 107,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

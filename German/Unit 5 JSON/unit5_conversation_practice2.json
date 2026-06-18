@@ -4,23 +4,23 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "How long have they lived in Frankfurt?",
+      "question": "What does the speaker want to borrow from Mr. Müller?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "One year",
-          "is_correct": false
-        },
-        {
-          "answer": "Two years",
+          "answer": "A typewriter",
           "is_correct": true
         },
         {
-          "answer": "Three years",
+          "answer": "A pen",
           "is_correct": false
         },
         {
-          "answer": "Four years",
+          "answer": "A book",
+          "is_correct": false
+        },
+        {
+          "answer": "A car",
           "is_correct": false
         }
       ],
@@ -28,23 +28,23 @@
     },
     {
       "sequence_id": 2,
-      "question": "Why doesn't A have a car?",
+      "question": "Does the speaker need the item right away?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "He doesn't like cars",
-          "is_correct": false
-        },
-        {
-          "answer": "He can't afford a car",
-          "is_correct": false
-        },
-        {
-          "answer": "He uses the bus or streetcar",
+          "answer": "No",
           "is_correct": true
         },
         {
-          "answer": "He prefers to walk",
+          "answer": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "In an hour",
+          "is_correct": false
+        },
+        {
+          "answer": "The next day",
           "is_correct": false
         }
       ],
@@ -52,23 +52,23 @@
     },
     {
       "sequence_id": 3,
-      "question": "Which modes of transportation does A use?",
+      "question": "What does Mr. Müller want to do before lending it?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Bus and streetcar",
+          "answer": "Write one more letter",
           "is_correct": true
         },
         {
-          "answer": "Taxi and airplane",
+          "answer": "Make a phone call",
           "is_correct": false
         },
         {
-          "answer": "Train and bicycle",
+          "answer": "Finish reading a book",
           "is_correct": false
         },
         {
-          "answer": "Taxi and car",
+          "answer": "Go to the post office",
           "is_correct": false
         }
       ],
@@ -76,23 +76,23 @@
     },
     {
       "sequence_id": 4,
-      "question": "Does A ever take a taxi?",
+      "question": "What will happen after Mr. Müller is finished?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "No, never",
-          "is_correct": false
-        },
-        {
-          "answer": "Yes, occasionally when he is in a hurry",
+          "answer": "The speaker may have the typewriter",
           "is_correct": true
         },
         {
-          "answer": "He always takes a taxi",
+          "answer": "Mr. Müller keeps it",
           "is_correct": false
         },
         {
-          "answer": "Only on weekends",
+          "answer": "Mr. Müller sells it",
+          "is_correct": false
+        },
+        {
+          "answer": "It must be repaired",
           "is_correct": false
         }
       ],
@@ -100,23 +100,23 @@
     },
     {
       "sequence_id": 5,
-      "question": "What does A do when he is in a hurry?",
+      "question": "How does the speaker react at the end?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "He walks",
-          "is_correct": false
-        },
-        {
-          "answer": "He rides a bicycle",
-          "is_correct": false
-        },
-        {
-          "answer": "He takes a taxi",
+          "answer": "He thanks Mr. Müller",
           "is_correct": true
         },
         {
-          "answer": "He takes a train",
+          "answer": "He refuses the offer",
+          "is_correct": false
+        },
+        {
+          "answer": "He complains",
+          "is_correct": false
+        },
+        {
+          "answer": "He says nothing",
           "is_correct": false
         }
       ],
@@ -126,24 +126,28 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "B: Sie wohnen doch schon seit zwei Jahren in Frankfurt. Warum haben Sie kein Auto?"
+      "text": "A: Herr Müller, darf ich mir mal Ihre Schreibmaschine leihen?"
     },
     {
       "sequence_id": 2,
-      "text": "A: Ich nehme den Omnibus oder die Straßenbahn."
+      "text": "B: Brauchen Sie sie gleich?"
     },
     {
       "sequence_id": 3,
-      "text": "B: Fahren Sie nie mit dem Taxi?"
+      "text": "A: Nein."
     },
     {
       "sequence_id": 4,
-      "text": "A: Doch, ab und zu, wenn ich es eilig habe."
+      "text": "B: Ich will nur noch einen Brief schreiben; dann können Sie sie gern haben."
+    },
+    {
+      "sequence_id": 5,
+      "text": "A: Vielen Dank."
     }
   ],
   "metadata": {
-    "page_start": 134,
-    "page_end": 134,
+    "page_start": 26,
+    "page_end": 26,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

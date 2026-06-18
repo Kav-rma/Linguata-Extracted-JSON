@@ -4,23 +4,23 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "Where do they plan to meet?",
+      "question": "What does the customer want to buy at the start of the conversation?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "At the train station",
-          "is_correct": false
-        },
-        {
-          "answer": "At the airport",
+          "answer": "A fountain pen",
           "is_correct": true
         },
         {
-          "answer": "At the hotel",
+          "answer": "A typewriter",
           "is_correct": false
         },
         {
-          "answer": "At the theater",
+          "answer": "A newspaper",
+          "is_correct": false
+        },
+        {
+          "answer": "A book",
           "is_correct": false
         }
       ],
@@ -28,23 +28,23 @@
     },
     {
       "sequence_id": 2,
-      "question": "When will they meet at the airport?",
+      "question": "How does the customer find the pen he is shown?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "In one hour",
-          "is_correct": false
-        },
-        {
-          "answer": "In two hours",
+          "answer": "He can write well with it",
           "is_correct": true
         },
         {
-          "answer": "In three hours",
+          "answer": "It is too expensive",
           "is_correct": false
         },
         {
-          "answer": "In four hours",
+          "answer": "It does not work",
+          "is_correct": false
+        },
+        {
+          "answer": "He does not like it",
           "is_correct": false
         }
       ],
@@ -52,23 +52,23 @@
     },
     {
       "sequence_id": 3,
-      "question": "How long before the flight to Berlin departs?",
+      "question": "Besides the pen, what else does the customer need?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "In one hour",
-          "is_correct": false
-        },
-        {
-          "answer": "In two hours",
-          "is_correct": false
-        },
-        {
-          "answer": "In three hours",
+          "answer": "Two pencils and some writing paper",
           "is_correct": true
         },
         {
-          "answer": "In four hours",
+          "answer": "A typewriter and ink",
+          "is_correct": false
+        },
+        {
+          "answer": "Only stamps",
+          "is_correct": false
+        },
+        {
+          "answer": "A book and a newspaper",
           "is_correct": false
         }
       ],
@@ -76,23 +76,23 @@
     },
     {
       "sequence_id": 4,
-      "question": "When will they arrive in Berlin?",
+      "question": "Does the shop have stamps?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "In one hour",
+          "answer": "No",
           "is_correct": true
         },
         {
-          "answer": "In two hours",
+          "answer": "Yes, a lot",
           "is_correct": false
         },
         {
-          "answer": "In three hours",
+          "answer": "Yes, only one",
           "is_correct": false
         },
         {
-          "answer": "In four hours",
+          "answer": "Yes, a whole sheet",
           "is_correct": false
         }
       ],
@@ -100,23 +100,23 @@
     },
     {
       "sequence_id": 5,
-      "question": "What city are they traveling to?",
+      "question": "Where can the customer get stamps?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Munich",
-          "is_correct": false
-        },
-        {
-          "answer": "Frankfurt",
-          "is_correct": false
-        },
-        {
-          "answer": "Berlin",
+          "answer": "At the post office right next door",
           "is_correct": true
         },
         {
-          "answer": "Hamburg",
+          "answer": "In another city",
+          "is_correct": false
+        },
+        {
+          "answer": "At the train station",
+          "is_correct": false
+        },
+        {
+          "answer": "Nowhere nearby",
           "is_correct": false
         }
       ],
@@ -126,32 +126,32 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "B: Wann treffen wir uns am Flughafen?"
+      "text": "A: Ich möchte gern einen Füller haben."
     },
     {
       "sequence_id": 2,
-      "text": "A: In zwei Stunden."
+      "text": "B: Gern. - Wie gefällt Ihnen dieser hier?"
     },
     {
       "sequence_id": 3,
-      "text": "B: Und wann fliegt der Flug nach Berlin ab?"
+      "text": "A: Zeigen Sie mal; - ja, mit dem kann ich gut schreiben. Ich brauche auch noch zwei Bleistifte und etwas Briefpapier."
     },
     {
       "sequence_id": 4,
-      "text": "A: In drei Stunden."
+      "text": "B: Hier, bitte."
     },
     {
       "sequence_id": 5,
-      "text": "B: Wann kommen wir in Berlin an?"
+      "text": "A: Haben Sie auch Briefmarken?"
     },
     {
       "sequence_id": 6,
-      "text": "A: Wir werden in einer Stunde in Berlin sein."
+      "text": "B: Leider nicht; aber die Post ist gleich nebenan."
     }
   ],
   "metadata": {
-    "page_start": 134,
-    "page_end": 134,
+    "page_start": 26,
+    "page_end": 26,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

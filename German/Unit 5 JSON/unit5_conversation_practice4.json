@@ -4,23 +4,23 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "What does A invite B to do?",
+      "question": "What does Mr. Allen ask when he arrives?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Go to the opera",
-          "is_correct": false
-        },
-        {
-          "answer": "Go to the cinema",
-          "is_correct": false
-        },
-        {
-          "answer": "Go to the theater",
+          "answer": "Whether he is disturbing Mr. Wilson",
           "is_correct": true
         },
         {
-          "answer": "Go to a concert",
+          "answer": "Where the post office is",
+          "is_correct": false
+        },
+        {
+          "answer": "To borrow a pen",
+          "is_correct": false
+        },
+        {
+          "answer": "To borrow a typewriter",
           "is_correct": false
         }
       ],
@@ -28,23 +28,23 @@
     },
     {
       "sequence_id": 2,
-      "question": "What does B prefer to do instead of going to the theater?",
+      "question": "How does Mr. Wilson respond to the interruption?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Go to the opera",
-          "is_correct": false
-        },
-        {
-          "answer": "Go to the cinema",
+          "answer": "He says it is no bother and offers a seat",
           "is_correct": true
         },
         {
-          "answer": "Stay at home",
+          "answer": "He asks Mr. Allen to leave",
           "is_correct": false
         },
         {
-          "answer": "Go to a concert",
+          "answer": "He ignores him",
+          "is_correct": false
+        },
+        {
+          "answer": "He is annoyed",
           "is_correct": false
         }
       ],
@@ -52,23 +52,23 @@
     },
     {
       "sequence_id": 3,
-      "question": "What does B want to see at the theater?",
+      "question": "Why can Mr. Allen stay only a moment?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "A play",
-          "is_correct": false
-        },
-        {
-          "answer": "An opera",
+          "answer": "He has to go into town",
           "is_correct": true
         },
         {
-          "answer": "A ballet",
+          "answer": "He is tired",
           "is_correct": false
         },
         {
-          "answer": "A concert",
+          "answer": "He is expecting a call",
+          "is_correct": false
+        },
+        {
+          "answer": "He is having lunch",
           "is_correct": false
         }
       ],
@@ -76,23 +76,23 @@
     },
     {
       "sequence_id": 4,
-      "question": "Does B like going to the opera?",
+      "question": "Where is Mr. Allen going in town?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "No, never",
-          "is_correct": false
-        },
-        {
-          "answer": "Yes, but not right now",
+          "answer": "To the post office",
           "is_correct": true
         },
         {
-          "answer": "Yes, always",
+          "answer": "To a shop",
           "is_correct": false
         },
         {
-          "answer": "He prefers concerts",
+          "answer": "To the bank",
+          "is_correct": false
+        },
+        {
+          "answer": "To the train station",
           "is_correct": false
         }
       ],
@@ -100,23 +100,23 @@
     },
     {
       "sequence_id": 5,
-      "question": "Why doesn't B want to go to the theater right now?",
+      "question": "Why does Mr. Wilson want to come along?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "He is tired",
-          "is_correct": false
-        },
-        {
-          "answer": "The weather is bad",
-          "is_correct": false
-        },
-        {
-          "answer": "The opera is a very long piece",
+          "answer": "He needs stamps",
           "is_correct": true
         },
         {
-          "answer": "He doesn't like the theater",
+          "answer": "He needs a pen",
+          "is_correct": false
+        },
+        {
+          "answer": "He wants a book",
+          "is_correct": false
+        },
+        {
+          "answer": "He needs a typewriter",
           "is_correct": false
         }
       ],
@@ -126,32 +126,32 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "A: Möchten Sie heute Abend mit mir ins Theater gehen?"
+      "text": "A: Störe ich, Herr Wilson?"
     },
     {
       "sequence_id": 2,
-      "text": "B: Ich möchte lieber ins Kino gehen."
+      "text": "W: Nein, Sie stören durchaus nicht, Herr Allen. Nehmen Sie doch bitte Platz."
     },
     {
       "sequence_id": 3,
-      "text": "A: Was möchten Sie im Theater sehen?"
+      "text": "A: Danke, nur für einen Augenblick. Ich muss gleich in die Stadt fahren."
     },
     {
       "sequence_id": 4,
-      "text": "B: Ich möchte eine Oper sehen."
+      "text": "W: Fahren Sie auch zur Post?"
     },
     {
       "sequence_id": 5,
-      "text": "A: Gehen Sie nicht gern in die Oper?"
+      "text": "A: Ja, möchten Sie mitkommen?"
     },
     {
       "sequence_id": 6,
-      "text": "B: Doch, aber im Augenblick spielt die Oper ein sehr langes Stück."
+      "text": "W: Sehr gern. Ich brauche nämlich Briefmarken."
     }
   ],
   "metadata": {
-    "page_start": 134,
-    "page_end": 134,
+    "page_start": 26,
+    "page_end": 26,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

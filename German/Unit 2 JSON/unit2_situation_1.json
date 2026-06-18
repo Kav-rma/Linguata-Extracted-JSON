@@ -1,0 +1,282 @@
+{
+  "title": "unit2_situation_1",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where do Mr. Becker and Miss Adams meet?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "A café",
+          "is_correct": true
+        },
+        {
+          "answer": "The movies",
+          "is_correct": false
+        },
+        {
+          "answer": "The consulate",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How long has it been since Mr. Becker last saw Miss Adams?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A few days",
+          "is_correct": false
+        },
+        {
+          "answer": "A week",
+          "is_correct": false
+        },
+        {
+          "answer": "A long time",
+          "is_correct": true
+        },
+        {
+          "answer": "A year",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How long is Miss Adams probably going to stay in Munich?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two months",
+          "is_correct": false
+        },
+        {
+          "answer": "Four months",
+          "is_correct": true
+        },
+        {
+          "answer": "Six months",
+          "is_correct": false
+        },
+        {
+          "answer": "One year",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How does Miss Adams feel about Munich?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She dislikes it",
+          "is_correct": false
+        },
+        {
+          "answer": "She finds it boring",
+          "is_correct": false
+        },
+        {
+          "answer": "She likes it very much",
+          "is_correct": true
+        },
+        {
+          "answer": "She is unsure about it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does Miss Adams say she would like to do?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go shopping",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to the movies",
+          "is_correct": true
+        },
+        {
+          "answer": "Go home",
+          "is_correct": false
+        },
+        {
+          "answer": "Go to a restaurant",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Mr. Becker ask after hearing Miss Adams's plan?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If she will pay",
+          "is_correct": false
+        },
+        {
+          "answer": "If he may come along",
+          "is_correct": true
+        },
+        {
+          "answer": "If she lives nearby",
+          "is_correct": false
+        },
+        {
+          "answer": "If she speaks German",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "How does Miss Adams react to Mr. Becker joining her?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She refuses",
+          "is_correct": false
+        },
+        {
+          "answer": "She is annoyed",
+          "is_correct": false
+        },
+        {
+          "answer": "She'd be glad to have him",
+          "is_correct": true
+        },
+        {
+          "answer": "She is undecided",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Who asks Miss Adams how she is?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Mrs. Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "The waiter",
+          "is_correct": false
+        },
+        {
+          "answer": "Mr. Becker",
+          "is_correct": true
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "In which city is Miss Adams staying?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Berlin",
+          "is_correct": false
+        },
+        {
+          "answer": "Munich",
+          "is_correct": true
+        },
+        {
+          "answer": "Hamburg",
+          "is_correct": false
+        },
+        {
+          "answer": "Frankfurt",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "Who meets whom in the café?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Becker meets Miss Adams",
+          "is_correct": true
+        },
+        {
+          "answer": "Mr. Jones meets Mrs. Adams",
+          "is_correct": false
+        },
+        {
+          "answer": "Miss Adams meets Mr. Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Mrs. Jones meets Mr. Becker",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "In a café"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Mr. Becker meets Miss Adams in a café."
+    },
+    {
+      "sequence_id": 3,
+      "text": "He says he hasn't seen her for a long time and asks her how she is, and if she's going to stay in Munich now."
+    },
+    {
+      "sequence_id": 4,
+      "text": "She says yes, she's probably staying for four months."
+    },
+    {
+      "sequence_id": 5,
+      "text": "She likes it very much in Munich."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Mr. Becker asks her if she has something planned now and Miss Adams tells him that she'd like to go to the movies."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Mr. Becker asks if he may come along and Miss Adams says she'd be glad to have him."
+    }
+  ],
+  "metadata": {
+    "page_start": 24,
+    "page_end": 24,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

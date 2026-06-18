@@ -4,23 +4,23 @@
   "questions_and_answers": [
     {
       "sequence_id": 1,
-      "question": "Where does A prefer to live?",
+      "question": "What does the first speaker ask about?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "In a hotel",
-          "is_correct": false
-        },
-        {
-          "answer": "In a house",
-          "is_correct": false
-        },
-        {
-          "answer": "In an apartment",
+          "answer": "Whether the other has relatives in Germany",
           "is_correct": true
         },
         {
-          "answer": "In a hostel",
+          "answer": "Where the other works",
+          "is_correct": false
+        },
+        {
+          "answer": "Where the other lives",
+          "is_correct": false
+        },
+        {
+          "answer": "What car the other drives",
           "is_correct": false
         }
       ],
@@ -28,23 +28,23 @@
     },
     {
       "sequence_id": 2,
-      "question": "Does A want to buy a car?",
+      "question": "Whose parents live in Germany?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Yes, he wants to buy a car",
-          "is_correct": false
-        },
-        {
-          "answer": "No, he prefers to ride the streetcar",
+          "answer": "The wife's parents",
           "is_correct": true
         },
         {
-          "answer": "He already has a car",
+          "answer": "The speaker's own parents",
           "is_correct": false
         },
         {
-          "answer": "He wants to rent a car",
+          "answer": "A friend's parents",
+          "is_correct": false
+        },
+        {
+          "answer": "No one's parents",
           "is_correct": false
         }
       ],
@@ -52,23 +52,23 @@
     },
     {
       "sequence_id": 3,
-      "question": "What form of transportation does A prefer?",
+      "question": "What does the first speaker conclude about the wife?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Taxi",
-          "is_correct": false
-        },
-        {
-          "answer": "Streetcar",
+          "answer": "That she is German",
           "is_correct": true
         },
         {
-          "answer": "Car",
+          "answer": "That she is American",
           "is_correct": false
         },
         {
-          "answer": "Bicycle",
+          "answer": "That she is French",
+          "is_correct": false
+        },
+        {
+          "answer": "That she has no family",
           "is_correct": false
         }
       ],
@@ -76,23 +76,23 @@
     },
     {
       "sequence_id": 4,
-      "question": "When asked if he would rather walk or ride, what does A choose?",
+      "question": "How many sisters does the wife have?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "He prefers to ride",
-          "is_correct": false
-        },
-        {
-          "answer": "He prefers to walk",
+          "answer": "One",
           "is_correct": true
         },
         {
-          "answer": "He takes a taxi",
+          "answer": "Two",
           "is_correct": false
         },
         {
-          "answer": "He drives a car",
+          "answer": "Three",
+          "is_correct": false
+        },
+        {
+          "answer": "None",
           "is_correct": false
         }
       ],
@@ -100,23 +100,23 @@
     },
     {
       "sequence_id": 5,
-      "question": "Why does A prefer to walk?",
+      "question": "How many brothers does the wife have?",
       "type": "multiple_choice",
       "answers": [
         {
-          "answer": "Because he's in a hurry",
-          "is_correct": false
-        },
-        {
-          "answer": "Because it's nice outside",
+          "answer": "Two",
           "is_correct": true
         },
         {
-          "answer": "Because he doesn't like public transportation",
+          "answer": "One",
           "is_correct": false
         },
         {
-          "answer": "Because the car is broken",
+          "answer": "Three",
+          "is_correct": false
+        },
+        {
+          "answer": "None",
           "is_correct": false
         }
       ],
@@ -126,32 +126,24 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "B: Möchten Sie lieber im Hotel wohnen?"
+      "text": "A: Haben Sie eigentlich Verwandte in Deutschland?"
     },
     {
       "sequence_id": 2,
-      "text": "A: Nein, ich wohne lieber in einer Wohnung."
+      "text": "B: Ja, die Eltern meiner Frau leben dort."
     },
     {
       "sequence_id": 3,
-      "text": "B: Möchten Sie lieber ein Auto kaufen?"
+      "text": "A: O, - dann ist Ihre Frau Deutsche? Hat sie noch Brüder und Schwestern?"
     },
     {
       "sequence_id": 4,
-      "text": "A: Nein, ich fahre lieber mit der Straßenbahn."
-    },
-    {
-      "sequence_id": 5,
-      "text": "B: Möchten Sie lieber gehen oder fahren?"
-    },
-    {
-      "sequence_id": 6,
-      "text": "A: Es ist so schön draußen. Ich möchte lieber zu Fuß gehen."
+      "text": "B: Ja, eine Schwester und zwei Brüder."
     }
   ],
   "metadata": {
-    "page_start": 134,
-    "page_end": 134,
+    "page_start": 26,
+    "page_end": 26,
     "are_questions_english": true,
     "are_questions_generated_by_llm": true
   }

@@ -1,0 +1,290 @@
+{
+  "title": "unit2_situation_2",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does this scene take place?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At a café",
+          "is_correct": false
+        },
+        {
+          "answer": "At the movies",
+          "is_correct": true
+        },
+        {
+          "answer": "At the consulate",
+          "is_correct": false
+        },
+        {
+          "answer": "At the airport",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Who points out Mr. and Mrs. Jones?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Becker",
+          "is_correct": false
+        },
+        {
+          "answer": "Mr. Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Miss Adams",
+          "is_correct": true
+        },
+        {
+          "answer": "Mrs. Jones",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Does Mr. Becker know the Joneses?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer": "No",
+          "is_correct": true
+        },
+        {
+          "answer": "Only Mr. Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Only Mrs. Jones",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What nationality are Mr. and Mrs. Jones?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "German",
+          "is_correct": false
+        },
+        {
+          "answer": "French",
+          "is_correct": false
+        },
+        {
+          "answer": "American",
+          "is_correct": true
+        },
+        {
+          "answer": "British",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "Where do the Joneses live?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Far from Miss Adams",
+          "is_correct": false
+        },
+        {
+          "answer": "Near Miss Adams",
+          "is_correct": true
+        },
+        {
+          "answer": "In another city",
+          "is_correct": false
+        },
+        {
+          "answer": "At the consulate",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is Mr. Jones's profession?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A teacher",
+          "is_correct": false
+        },
+        {
+          "answer": "A Foreign Service Officer",
+          "is_correct": true
+        },
+        {
+          "answer": "A waiter",
+          "is_correct": false
+        },
+        {
+          "answer": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "Where does Mr. Jones work?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the embassy",
+          "is_correct": false
+        },
+        {
+          "answer": "At a bank",
+          "is_correct": false
+        },
+        {
+          "answer": "At the consulate",
+          "is_correct": true
+        },
+        {
+          "answer": "At a hotel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does Mr. Becker ask about the Joneses?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "If they are married",
+          "is_correct": false
+        },
+        {
+          "answer": "If they can speak German",
+          "is_correct": true
+        },
+        {
+          "answer": "If they live nearby",
+          "is_correct": false
+        },
+        {
+          "answer": "If they like the movies",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Who speaks German well?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Mrs. Jones",
+          "is_correct": true
+        },
+        {
+          "answer": "Both of them",
+          "is_correct": false
+        },
+        {
+          "answer": "Neither of them",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What is Mrs. Jones's background?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "American",
+          "is_correct": false
+        },
+        {
+          "answer": "German",
+          "is_correct": true
+        },
+        {
+          "answer": "French",
+          "is_correct": false
+        },
+        {
+          "answer": "British",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "At the movies"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Miss Adams points to Mr. and Mrs. Jones at the movies and asks Mr. Becker if he knows them."
+    },
+    {
+      "sequence_id": 3,
+      "text": "He says he doesn't know them and asks who they are."
+    },
+    {
+      "sequence_id": 4,
+      "text": "They are Americans."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Mr. Becker wonders where they live and Miss Adams tells him they live near her."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Mr. Jones is a Foreign Service Officer and works at the consulate."
+    },
+    {
+      "sequence_id": 7,
+      "text": "Mr. Becker asks if the Jones' can speak German."
+    },
+    {
+      "sequence_id": 8,
+      "text": "Mr. Jones doesn't speak German very well but Mrs. Jones does."
+    },
+    {
+      "sequence_id": 9,
+      "text": "She is German."
+    }
+  ],
+  "metadata": {
+    "page_start": 24,
+    "page_end": 24,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

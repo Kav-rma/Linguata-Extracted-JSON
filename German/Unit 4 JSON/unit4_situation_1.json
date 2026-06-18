@@ -1,0 +1,270 @@
+{
+  "title": "unit4_situation_1",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Who wishes to visit their son in America?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Keller and his wife",
+          "is_correct": true
+        },
+        {
+          "answer": "Vice Consul Allen",
+          "is_correct": false
+        },
+        {
+          "answer": "Mr. Köhler",
+          "is_correct": false
+        },
+        {
+          "answer": "Vice Consul Jones",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where does Mr. Keller's son live?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Germany",
+          "is_correct": false
+        },
+        {
+          "answer": "America",
+          "is_correct": true
+        },
+        {
+          "answer": "France",
+          "is_correct": false
+        },
+        {
+          "answer": "England",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Whom do Mr. Keller and his wife want to visit?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Their son",
+          "is_correct": true
+        },
+        {
+          "answer": "Their daughter",
+          "is_correct": false
+        },
+        {
+          "answer": "A friend",
+          "is_correct": false
+        },
+        {
+          "answer": "A colleague",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Where do Mr. Keller and his wife go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "The American Consulate",
+          "is_correct": true
+        },
+        {
+          "answer": "The airport",
+          "is_correct": false
+        },
+        {
+          "answer": "A hotel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What kind of visa do they apply for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A work visa",
+          "is_correct": false
+        },
+        {
+          "answer": "A student visa",
+          "is_correct": false
+        },
+        {
+          "answer": "A visitor's visa",
+          "is_correct": true
+        },
+        {
+          "answer": "A transit visa",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Who interviews Mr. Keller and his wife?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mr. Köhler",
+          "is_correct": false
+        },
+        {
+          "answer": "Vice Consul Allen",
+          "is_correct": true
+        },
+        {
+          "answer": "Vice Consul Jones",
+          "is_correct": false
+        },
+        {
+          "answer": "Mr. Keller's son",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "In which section does Vice Consul Allen work?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The Passport Section",
+          "is_correct": false
+        },
+        {
+          "answer": "The Visa Section",
+          "is_correct": true
+        },
+        {
+          "answer": "The Customs Section",
+          "is_correct": false
+        },
+        {
+          "answer": "The Travel Section",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What document does the Vice Consul ask for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A driver's license",
+          "is_correct": false
+        },
+        {
+          "answer": "A passport",
+          "is_correct": true
+        },
+        {
+          "answer": "A birth certificate",
+          "is_correct": false
+        },
+        {
+          "answer": "A ticket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Besides a passport, what else does he ask for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A photograph",
+          "is_correct": false
+        },
+        {
+          "answer": "Identification",
+          "is_correct": true
+        },
+        {
+          "answer": "A reference letter",
+          "is_correct": false
+        },
+        {
+          "answer": "Money",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What else does Allen ask about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Where they are going",
+          "is_correct": true
+        },
+        {
+          "answer": "How long they have been married",
+          "is_correct": false
+        },
+        {
+          "answer": "What they do for work",
+          "is_correct": false
+        },
+        {
+          "answer": "How much they earn",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "At the Consulate"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Mr. Keller and his wife wish to visit their son in America."
+    },
+    {
+      "sequence_id": 3,
+      "text": "They go to the American Consulate to apply for a visitor's visa."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Vice Consul Allen in the Visa Section interviews them, asks for passport, identification, where they are going, etc."
+    }
+  ],
+  "metadata": {
+    "page_start": 107,
+    "page_end": 107,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
