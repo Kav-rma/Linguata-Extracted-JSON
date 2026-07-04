@@ -1,0 +1,69 @@
+{
+  "title": "unit1_dialog3",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "ジャクソン: こんばんは。 (Jakuson: Konbanwa.)"
+    },
+    {
+      "sequence_id": 2,
+      "text": "JACKSON: Good evening."
+    },
+    {
+      "sequence_id": 3,
+      "text": "山田: こんばんは、ジャクソンさん。 (Yamada: Konbanwa, Jakuson-san.)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "YAMADA: Good evening, Mr. Jackson."
+    },
+    {
+      "sequence_id": 5,
+      "text": "ジャクソン: これは東京ですか。 (Jakuson: Kore wa Tookyoo desu ka?)"
+    },
+    {
+      "sequence_id": 6,
+      "text": "JACKSON: Is this Tokyo?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "山田: いいえ、ちがいます。大阪です。 (Yamada: Iie, chigaimasu. Oosaka desu.)"
+    },
+    {
+      "sequence_id": 8,
+      "text": "YAMADA: No, it's not. It is Osaka."
+    },
+    {
+      "sequence_id": 9,
+      "text": "ジャクソン: ああ、そうですか。 (Jakuson: Aa, soo desu ka.)"
+    },
+    {
+      "sequence_id": 10,
+      "text": "JACKSON: Oh, I see."
+    },
+    {
+      "sequence_id": 11,
+      "text": "山田: さようなら。 (Yamada: Sayoonara.)"
+    },
+    {
+      "sequence_id": 12,
+      "text": "YAMADA: Good-bye."
+    },
+    {
+      "sequence_id": 13,
+      "text": "ジャクソン: さようなら。 (Jakuson: Sayoonara.)"
+    },
+    {
+      "sequence_id": 14,
+      "text": "JACKSON: Good-bye."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 18,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": true
+  }
+}

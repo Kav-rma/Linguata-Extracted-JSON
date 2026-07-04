@@ -1,0 +1,278 @@
+{
+  "title": "unit24_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Who is the author of the political report?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The Ambassador in London",
+          "is_correct": true
+        },
+        {
+          "answer": "The Foreign Minister",
+          "is_correct": false
+        },
+        {
+          "answer": "Lord Noel-Buxton",
+          "is_correct": false
+        },
+        {
+          "answer": "A Sudeten German leader",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "To which office is the report addressed?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The British Foreign Office",
+          "is_correct": false
+        },
+        {
+          "answer": "The German Foreign Office (Auswärtiges Amt)",
+          "is_correct": true
+        },
+        {
+          "answer": "The Labor Party",
+          "is_correct": false
+        },
+        {
+          "answer": "The League of Nations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "From which city was the report sent?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Berlin",
+          "is_correct": false
+        },
+        {
+          "answer": "Prague",
+          "is_correct": false
+        },
+        {
+          "answer": "London",
+          "is_correct": true
+        },
+        {
+          "answer": "Hamburg",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What is the date the report was written?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "June 10, 1938",
+          "is_correct": true
+        },
+        {
+          "answer": "June 18, 1938",
+          "is_correct": false
+        },
+        {
+          "answer": "July 3, 1938",
+          "is_correct": false
+        },
+        {
+          "answer": "June 10, 1939",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "On what date was the report received?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "June 10",
+          "is_correct": false
+        },
+        {
+          "answer": "June 18",
+          "is_correct": true
+        },
+        {
+          "answer": "July 1",
+          "is_correct": false
+        },
+        {
+          "answer": "June 8",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What is the stated subject of the report?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The economic situation in England",
+          "is_correct": false
+        },
+        {
+          "answer": "The Czech crisis and its effect on England",
+          "is_correct": true
+        },
+        {
+          "answer": "German rearmament",
+          "is_correct": false
+        },
+        {
+          "answer": "Anglo-French relations",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "To which political party does Lord Noel-Buxton belong?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The Conservative Party",
+          "is_correct": false
+        },
+        {
+          "answer": "The Liberal Party",
+          "is_correct": false
+        },
+        {
+          "answer": "The Labor Party",
+          "is_correct": true
+        },
+        {
+          "answer": "The Communist Party",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "How is Lord Noel-Buxton characterized in the report?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Strongly anti-German",
+          "is_correct": false
+        },
+        {
+          "answer": "Emphatically pro-German",
+          "is_correct": true
+        },
+        {
+          "answer": "Politically neutral",
+          "is_correct": false
+        },
+        {
+          "answer": "Undecided",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What kind of utterances does the report say are particularly to be noted?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Positive ones",
+          "is_correct": true
+        },
+        {
+          "answer": "Hostile ones",
+          "is_correct": false
+        },
+        {
+          "answer": "Indifferent ones",
+          "is_correct": false
+        },
+        {
+          "answer": "Confidential ones",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "The excitement in England is described as bordering on what?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Indifference",
+          "is_correct": false
+        },
+        {
+          "answer": "Panic",
+          "is_correct": true
+        },
+        {
+          "answer": "Joy",
+          "is_correct": false
+        },
+        {
+          "answer": "Boredom",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Der Botschafter in London an das Auswärtige Amt."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Politischer Bericht."
+    },
+    {
+      "sequence_id": 3,
+      "text": "London, den 10. Juni 1938. Eingegangen: 18. Juni. Pol. II 1875."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Inhalt: Die tschechische Krise, ihre Wirkung auf England."
+    },
+    {
+      "sequence_id": 5,
+      "text": "An positiven Äußerungen sind insbesondere zu verzeichnen die Zuschriften des der Arbeiterpartei angehörenden, betont deutschfreundlichen Lord Noel-Buxton."
+    },
+    {
+      "sequence_id": 6,
+      "text": "Es bleibt die Frage zu untersuchen, wie es überhaupt zu einer derartigen, an Panik grenzenden Erregung in England kommen konnte."
+    }
+  ],
+  "metadata": {
+    "page_start": 666,
+    "page_end": 668,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

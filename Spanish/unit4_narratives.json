@@ -1,0 +1,270 @@
+{
+  "title": "unit4_narratives",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How does White arrive at the Embassy?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "By taxi",
+          "is_correct": true
+        },
+        {
+          "answer": "On foot",
+          "is_correct": false
+        },
+        {
+          "answer": "By bus",
+          "is_correct": false
+        },
+        {
+          "answer": "In Molina's car",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How much does the driver say the ride costs?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Four pesos",
+          "is_correct": true
+        },
+        {
+          "answer": "Two pesos",
+          "is_correct": false
+        },
+        {
+          "answer": "Three pesos",
+          "is_correct": false
+        },
+        {
+          "answer": "Five pesos",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How much does White give the driver in total?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Three pesos, one as a tip",
+          "is_correct": true
+        },
+        {
+          "answer": "Exactly four pesos",
+          "is_correct": false
+        },
+        {
+          "answer": "Two pesos",
+          "is_correct": false
+        },
+        {
+          "answer": "Five pesos",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Who is White introduced to in the consular section?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Molina, a young local employee",
+          "is_correct": true
+        },
+        {
+          "answer": "The ambassador",
+          "is_correct": false
+        },
+        {
+          "answer": "The taxi driver",
+          "is_correct": false
+        },
+        {
+          "answer": "The cashier",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How does White reply to Molina's 'Glad to meet you'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The pleasure is mine",
+          "is_correct": true
+        },
+        {
+          "answer": "You're welcome",
+          "is_correct": false
+        },
+        {
+          "answer": "Excuse me",
+          "is_correct": false
+        },
+        {
+          "answer": "See you later",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Since when has White been there?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Since yesterday",
+          "is_correct": true
+        },
+        {
+          "answer": "For a month",
+          "is_correct": false
+        },
+        {
+          "answer": "Since this morning",
+          "is_correct": false
+        },
+        {
+          "answer": "Since last week",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "According to Molina, what is the work in the consular section like?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "They are almost always very busy",
+          "is_correct": true
+        },
+        {
+          "answer": "There is hardly any work",
+          "is_correct": false
+        },
+        {
+          "answer": "It is very quiet",
+          "is_correct": false
+        },
+        {
+          "answer": "They only work in the morning",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Does Molina speak English?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yes, he speaks a little",
+          "is_correct": true
+        },
+        {
+          "answer": "No, none",
+          "is_correct": false
+        },
+        {
+          "answer": "Yes, perfectly",
+          "is_correct": false
+        },
+        {
+          "answer": "He only understands it",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "Where did White learn Spanish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At a language school in the United States",
+          "is_correct": true
+        },
+        {
+          "answer": "In Surlandia",
+          "is_correct": false
+        },
+        {
+          "answer": "At the Embassy",
+          "is_correct": false
+        },
+        {
+          "answer": "In Mexico",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What are Molina's and White's first names?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Jose and Juan",
+          "is_correct": true
+        },
+        {
+          "answer": "Pedro and John",
+          "is_correct": false
+        },
+        {
+          "answer": "Jose and Carlos",
+          "is_correct": false
+        },
+        {
+          "answer": "Juan and Roberto",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "El señor White llega a la Embajada en taxi y le paga al chofer. White le pregunta cuánto le debe y el chofer le dice que son cuatro pesos. White comenta que en el hotel le dijeron que serían dos, pero al final le da tres pesos, uno de propina. El chofer le da las gracias."
+    },
+    {
+      "sequence_id": 2,
+      "text": "White entra en la Embajada y va a la Oficina Administrativa. Lo llevan a la sección consular, donde va a trabajar, y lo presentan a un joven empleado local con quien va a trabajar. El oficial administrativo le dice a Molina: «Este es el señor White». Molina responde «Tanto gusto de conocerlo, señor White», y White contesta «El gusto es mío»."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Molina le pregunta desde cuándo está allí, y White responde que desde ayer. Molina también le pregunta qué tal el viaje, y White dice que excelente. White quiere saber si hay mucho movimiento en la sección consular, y Molina contesta que sí, que casi siempre están muy ocupados."
+    },
+    {
+      "sequence_id": 4,
+      "text": "White le pregunta a Molina si habla inglés, y Molina dice que habla un poco, pero que White debe practicar su español. A propósito, Molina lo felicita porque habla y pronuncia el español muy bien, y le pregunta dónde lo aprendió; White dice que en una escuela de lenguas en los Estados Unidos. Por último, Molina le pide que no lo llame señor Molina, porque su nombre es José, y White responde que muy bien, y que el suyo es Juan."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -2,20 +2,174 @@
   "title": "unit1_reading_kana",
   "type": "vocabulary",
   "questions_and_answers": [
-    {"sequence_id": 1, "question_text": "スミス", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Sumisu (Smith)", "is_correct": true}]},
-    {"sequence_id": 2, "question_text": "ブラウン", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Buraun (Brown)", "is_correct": true}]},
-    {"sequence_id": 3, "question_text": "コーヒー", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "koohii (coffee)", "is_correct": true}]},
-    {"sequence_id": 4, "question_text": "ビール", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "biiru (beer)", "is_correct": true}]},
-    {"sequence_id": 5, "question_text": "ビル", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "biru (building / Bill)", "is_correct": true}]},
-    {"sequence_id": 6, "question_text": "ソックス", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "sokkusu (socks)", "is_correct": true}]},
-    {"sequence_id": 7, "question_text": "シャツ", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "shatsu (shirt)", "is_correct": true}]},
-    {"sequence_id": 8, "question_text": "なは", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Naha", "is_correct": true}]},
-    {"sequence_id": 9, "question_text": "なごや", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Nagoya", "is_correct": true}]},
-    {"sequence_id": 10, "question_text": "きょうと", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Kyooto (Kyoto)", "is_correct": true}]},
-    {"sequence_id": 11, "question_text": "こうべ", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Koobe (Kobe)", "is_correct": true}]},
-    {"sequence_id": 12, "question_text": "おおさか", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Oosaka (Osaka)", "is_correct": true}]},
-    {"sequence_id": 13, "question_text": "とうきょう", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Tookyoo (Tokyo)", "is_correct": true}]},
-    {"sequence_id": 14, "question_text": "ふくおか", "has_answer": true, "type": "short_answer", "answers": [{"answer_text": "Fukuoka", "is_correct": true}]}
+    {
+      "sequence_id": 1,
+      "question_text": "スミス",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Sumisu (Smith)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "ブラウン",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Buraun (Brown)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "コーヒー",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "koohii (coffee)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "ビール",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "biiru (beer)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "ビル",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "biru (building / Bill)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "ソックス",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "sokkusu (socks)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "シャツ",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "shatsu (shirt)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "なは",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Naha",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "なごや",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Nagoya",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "きょうと",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Kyooto (Kyoto)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 11,
+      "question_text": "こうべ",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Koobe (Kobe)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 12,
+      "question_text": "おおさか",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Oosaka (Osaka)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 13,
+      "question_text": "とうきょう",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Tookyoo (Tokyo)",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 14,
+      "question_text": "ふくおか",
+      "has_answer": true,
+      "type": "short_answer",
+      "answers": [
+        {
+          "answer_text": "Fukuoka",
+          "is_correct": true
+        }
+      ]
+    }
   ],
   "articles": [],
   "metadata": {

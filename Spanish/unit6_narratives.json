@@ -1,0 +1,266 @@
+{
+  "title": "unit6_narratives",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why do White and Molina go into the restaurant?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To have lunch together",
+          "is_correct": true
+        },
+        {
+          "answer": "To look for work",
+          "is_correct": false
+        },
+        {
+          "answer": "To see a friend",
+          "is_correct": false
+        },
+        {
+          "answer": "To change money",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where do they sit?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At an empty table",
+          "is_correct": true
+        },
+        {
+          "answer": "At the bar",
+          "is_correct": false
+        },
+        {
+          "answer": "Outside",
+          "is_correct": false
+        },
+        {
+          "answer": "Near the kitchen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does White order?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A ham sandwich, a lettuce-and-tomato salad, and a beer",
+          "is_correct": true
+        },
+        {
+          "answer": "Vegetable soup and wine",
+          "is_correct": false
+        },
+        {
+          "answer": "Just coffee",
+          "is_correct": false
+        },
+        {
+          "answer": "Apple pie",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does Molina order?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Vegetable soup, a pork chop, and wine",
+          "is_correct": true
+        },
+        {
+          "answer": "A ham sandwich",
+          "is_correct": false
+        },
+        {
+          "answer": "Just a salad",
+          "is_correct": false
+        },
+        {
+          "answer": "A beer",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What dessert does the waiter recommend?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Apple pie",
+          "is_correct": true
+        },
+        {
+          "answer": "Ice cream",
+          "is_correct": false
+        },
+        {
+          "answer": "Flan",
+          "is_correct": false
+        },
+        {
+          "answer": "Fruit",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Molina say about the apple pie?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That he has already had it and it is excellent",
+          "is_correct": true
+        },
+        {
+          "answer": "That he doesn't like it",
+          "is_correct": false
+        },
+        {
+          "answer": "That it is very expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "That there is none",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "What does Molina propose about how they address each other?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "That they use 'tu', the familiar form",
+          "is_correct": true
+        },
+        {
+          "answer": "That they use 'usted'",
+          "is_correct": false
+        },
+        {
+          "answer": "That they use last names",
+          "is_correct": false
+        },
+        {
+          "answer": "That they not talk at work",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "Where does White plan to live?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "In an apartment",
+          "is_correct": true
+        },
+        {
+          "answer": "In the hotel",
+          "is_correct": false
+        },
+        {
+          "answer": "At Molina's house",
+          "is_correct": false
+        },
+        {
+          "answer": "At the Embassy",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "What does Molina offer White?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To help him look for an apartment",
+          "is_correct": true
+        },
+        {
+          "answer": "To lend him money",
+          "is_correct": false
+        },
+        {
+          "answer": "To take him to the airport",
+          "is_correct": false
+        },
+        {
+          "answer": "To pay the bill",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "What does White ask for at the end?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The check",
+          "is_correct": true
+        },
+        {
+          "answer": "Another dessert",
+          "is_correct": false
+        },
+        {
+          "answer": "More wine",
+          "is_correct": false
+        },
+        {
+          "answer": "The menu",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "John White y José Molina entran en el restaurante para almorzar juntos. Molina ve que allí hay una mesa desocupada y White propone sentarse. Piden ver el menú. El mesero les pregunta qué desean, y White pide un sandwich de jamón, una ensalada de lechuga y tomate, y una cerveza. Molina pide sopa de legumbres, chuleta de puerco y vino."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Para el postre, el mesero les dice que hay pastel de manzana, que es muy bueno. White pregunta si lo prueban, y Molina dice que ya lo ha comido, que es excelente, y pide que les traigan a los dos. Luego Molina propone que se traten de «tú», y White dice que tiene razón, que es muy buena idea."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Molina le pregunta si va a vivir en el hotel, y White responde que no, que piensa buscar un apartamento, y pregunta si es fácil encontrar uno allí. Molina cree que sí y le ofrece ayudarlo si quiere. Al final, White llama al mesero y pide la cuenta."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "unit1_dialog2",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "ブラウン: 先生、おはようございます。 (Buraun: Sensee, ohayoo gozaimasu.)"
+    },
+    {
+      "sequence_id": 2,
+      "text": "BROWN: Good morning, teacher."
+    },
+    {
+      "sequence_id": 3,
+      "text": "先生: おはようございます。 (Sensee: Ohayoo gozaimasu.)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "TEACHER: Good morning."
+    },
+    {
+      "sequence_id": 5,
+      "text": "ブラウン: これは何ですか。 (Buraun: Kore wa nan desu ka?)"
+    },
+    {
+      "sequence_id": 6,
+      "text": "BROWN: What is this?"
+    },
+    {
+      "sequence_id": 7,
+      "text": "先生: コーヒーです。 (Sensee: Koohii desu.)"
+    },
+    {
+      "sequence_id": 8,
+      "text": "TEACHER: It is coffee."
+    },
+    {
+      "sequence_id": 9,
+      "text": "ブラウン: すみません。もう一度言ってください。 (Buraun: Sumimasen. Moo ichi-do itte kudasai.)"
+    },
+    {
+      "sequence_id": 10,
+      "text": "BROWN: Excuse me. Please say it again."
+    },
+    {
+      "sequence_id": 11,
+      "text": "先生: コーヒーです。 (Sensee: Koohii desu.)"
+    },
+    {
+      "sequence_id": 12,
+      "text": "TEACHER: It is coffee."
+    },
+    {
+      "sequence_id": 13,
+      "text": "ブラウン: はい、わかります。 (Buraun: Hai, wakarimasu.)"
+    },
+    {
+      "sequence_id": 14,
+      "text": "BROWN: Yes, I understand."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 18,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": true
+  }
+}

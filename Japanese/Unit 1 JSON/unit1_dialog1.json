@@ -1,0 +1,61 @@
+{
+  "title": "unit1_dialog1",
+  "type": "speaking",
+  "questions_and_answers": [],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "スミス: こんにちは。 (Sumisu: Konnichiwa.)"
+    },
+    {
+      "sequence_id": 2,
+      "text": "SMITH: Good afternoon."
+    },
+    {
+      "sequence_id": 3,
+      "text": "田中: こんにちは。 (Tanaka: Konnichiwa.)"
+    },
+    {
+      "sequence_id": 4,
+      "text": "TANAKA: Good afternoon."
+    },
+    {
+      "sequence_id": 5,
+      "text": "スミス: 私はスミスです。 (Sumisu: Watakushi wa Sumisu desu.)"
+    },
+    {
+      "sequence_id": 6,
+      "text": "SMITH: I am Smith."
+    },
+    {
+      "sequence_id": 7,
+      "text": "田中: 田中です。 (Tanaka: Tanaka desu.)"
+    },
+    {
+      "sequence_id": 8,
+      "text": "TANAKA: I am Tanaka."
+    },
+    {
+      "sequence_id": 9,
+      "text": "スミス: 田中さん、お元気ですか。 (Sumisu: Tanaka-san, ogenki desu ka?)"
+    },
+    {
+      "sequence_id": 10,
+      "text": "SMITH: Mr. Tanaka, how are you?"
+    },
+    {
+      "sequence_id": 11,
+      "text": "田中: はい。 (Tanaka: Hai.)"
+    },
+    {
+      "sequence_id": 12,
+      "text": "TANAKA: Yes (I'm well)."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 18,
+    "are_questions_english": false,
+    "are_questions_generated_by_llm": true
+  }
+}

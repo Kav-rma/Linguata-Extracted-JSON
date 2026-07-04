@@ -1,0 +1,270 @@
+{
+  "title": "unit3_narratives",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where is John White from and where does he arrive for the first time?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He is American and arrives in Surlandia",
+          "is_correct": true
+        },
+        {
+          "answer": "He is Surlandian and arrives in the U.S.",
+          "is_correct": false
+        },
+        {
+          "answer": "He is Mexican and arrives in Spain",
+          "is_correct": false
+        },
+        {
+          "answer": "He is the hotel porter",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Who meets White at the airport?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Some American friends",
+          "is_correct": true
+        },
+        {
+          "answer": "The hotel cashier",
+          "is_correct": false
+        },
+        {
+          "answer": "The ambassador",
+          "is_correct": false
+        },
+        {
+          "answer": "Some taxi drivers",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Who takes White to his room with the bags?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The porter",
+          "is_correct": true
+        },
+        {
+          "answer": "The cashier",
+          "is_correct": false
+        },
+        {
+          "answer": "An American friend",
+          "is_correct": false
+        },
+        {
+          "answer": "The taxi driver",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the porter offer White in the room?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Soda water (mineral water)",
+          "is_correct": true
+        },
+        {
+          "answer": "A traveler's check",
+          "is_correct": false
+        },
+        {
+          "answer": "A taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "A newspaper",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "According to the porter, where is the American Embassy?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Far away, on Columbus Avenue",
+          "is_correct": true
+        },
+        {
+          "answer": "Near the hotel",
+          "is_correct": false
+        },
+        {
+          "answer": "On the first floor",
+          "is_correct": false
+        },
+        {
+          "answer": "To the left of the entrance",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How does one have to get to the American Embassy?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "You have to take a taxi",
+          "is_correct": true
+        },
+        {
+          "answer": "On foot",
+          "is_correct": false
+        },
+        {
+          "answer": "By elevator",
+          "is_correct": false
+        },
+        {
+          "answer": "By bus",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 7,
+      "question": "According to the porter, where is the cashier's desk?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "On the first floor, to the right of the entrance",
+          "is_correct": true
+        },
+        {
+          "answer": "On Columbus Avenue",
+          "is_correct": false
+        },
+        {
+          "answer": "Near the elevator",
+          "is_correct": false
+        },
+        {
+          "answer": "In White's room",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 8,
+      "question": "What does White want to change at the cashier's desk?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Some dollars",
+          "is_correct": true
+        },
+        {
+          "answer": "Some pesos",
+          "is_correct": false
+        },
+        {
+          "answer": "The room",
+          "is_correct": false
+        },
+        {
+          "answer": "The taxi",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 9,
+      "question": "How does White ask for the money?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Eight in bills and two in change",
+          "is_correct": true
+        },
+        {
+          "answer": "All in a check",
+          "is_correct": false
+        },
+        {
+          "answer": "Ten in coins",
+          "is_correct": false
+        },
+        {
+          "answer": "Five in bills",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 10,
+      "question": "According to the cashier, how much does a taxi to the American Embassy cost?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Two pesos, more or less",
+          "is_correct": true
+        },
+        {
+          "answer": "Five pesos",
+          "is_correct": false
+        },
+        {
+          "answer": "Ten dollars",
+          "is_correct": false
+        },
+        {
+          "answer": "One peso",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "John White, un americano, llega por primera vez a Surlandia, un país al sur de los Estados Unidos. Unos amigos americanos lo reciben en el aeropuerto, lo acompañan por la aduana y lo llevan a su hotel. Después de registrarse en la recepción, el mozo lo acompaña a su cuarto cargando las maletas. En el cuarto, el mozo le pregunta si le gusta el cuarto y White responde que sí, le gusta. El mozo le ofrece agua mineral y White acepta, pidiéndole que se la suba después."
+    },
+    {
+      "sequence_id": 2,
+      "text": "El mozo le pregunta si necesita algo más, y White quiere saber si la Embajada Americana está cerca de allí. El mozo le explica que está lejos, en la avenida de Colón, y que hay que tomar un taxi. White le da las gracias y le entrega una propina diciendo «Aquí tiene», y el mozo se lo agradece. Luego White baja en el ascensor, ahora mismo, y pregunta dónde está la caja. El mozo le indica que está en el primer piso, a la derecha de la entrada."
+    },
+    {
+      "sequence_id": 3,
+      "text": "En la caja, White le pide al cajero que le cambie unos dólares. El cajero le pregunta cuántos, y White dice que diez, y pregunta a cómo está el cambio. El cajero le pregunta si lo quiere en billetes o en cheque, y White entrega un cheque viajero. El cambio está a cinco por uno. Cuando el cajero le pregunta cómo lo quiere, White pide ocho en billetes y dos en moneda."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Por último, White pregunta cuánto cuesta un taxi a la Embajada Americana, y el cajero le responde que dos pesos, más o menos. White le da las gracias por la información."
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}
