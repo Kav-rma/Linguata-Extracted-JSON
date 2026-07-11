@@ -1,0 +1,186 @@
+{
+  "title": "unit12_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Mr. Williams want to go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Yokohama",
+          "is_correct": true
+        },
+        {
+          "answer": "Shibuya",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza",
+          "is_correct": false
+        },
+        {
+          "answer": "Osaka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does Mr. Williams ask if he is on the right platform?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono hoomu desu ka? (Is this the platform?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ikura desu ka? (How much is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Nan-ji desu ka? (What time is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko desu ka? (Where is it?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "Which train line goes to Yokohama, according to the passer-by?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The Yokosuka Line",
+          "is_correct": true
+        },
+        {
+          "answer": "The Ginza Line",
+          "is_correct": false
+        },
+        {
+          "answer": "The Chuo Line",
+          "is_correct": false
+        },
+        {
+          "answer": "The Yamanote Line",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which tracks does the passer-by name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Tracks 1 and 2 (ichi-bansen to ni-bansen)",
+          "is_correct": true
+        },
+        {
+          "answer": "Tracks 3 and 4",
+          "is_correct": false
+        },
+        {
+          "answer": "Tracks 5 and 6",
+          "is_correct": false
+        },
+        {
+          "answer": "Track 1 only",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the passer-by do while giving directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Points the way (over that direction)",
+          "is_correct": true
+        },
+        {
+          "answer": "Draws a map",
+          "is_correct": false
+        },
+        {
+          "answer": "Calls a station worker",
+          "is_correct": false
+        },
+        {
+          "answer": "Buys a ticket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How does Mr. Williams respond at the end?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Soo desu ka. Doomo arigatoo (I see. Thank you.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Iie, chigaimasu (No, that's wrong)",
+          "is_correct": false
+        },
+        {
+          "answer": "Wakarimasen (I don't understand)",
+          "is_correct": false
+        },
+        {
+          "answer": "Sayoonara (Good-bye)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: Finding the right platform.",
+      "sequence_id": 1
+    },
+    {
+      "text": "Mr. Williams wants to go to Yokohama by train.",
+      "sequence_id": 2
+    },
+    {
+      "text": "He asks a passer-by, \"Sumimasen. Yokohama e ikitain desu ga, kono hoomu desu ka?\" (Excuse me. I want to go to Yokohama; is this the platform?).",
+      "sequence_id": 3
+    },
+    {
+      "text": "The passer-by says that Yokohama is on the Yokosuka Line and points, \"Mukoo no hoo desu yo\" (It's over that way).",
+      "sequence_id": 4
+    },
+    {
+      "text": "Mr. Williams asks, \"Mukoo?\" (Over there?).",
+      "sequence_id": 5
+    },
+    {
+      "text": "The passer-by answers, \"Ee, ichi-bansen to ni-bansen desu\" (Yes, tracks number 1 and number 2).",
+      "sequence_id": 6
+    },
+    {
+      "text": "Mr. Williams says, \"Soo desu ka. Doomo arigatoo\" (I see. Thank you very much).",
+      "sequence_id": 7
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "title": "unit8_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What place is Mr. Jones looking for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The Kabuki Theater",
+          "is_correct": true
+        },
+        {
+          "answer": "A restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "A train station",
+          "is_correct": false
+        },
+        {
+          "answer": "A hotel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What street does Mr. Jones ask about first?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Harumi Doori (Harumi Street)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza",
+          "is_correct": false
+        },
+        {
+          "answer": "Shibuya",
+          "is_correct": false
+        },
+        {
+          "answer": "Shinjuku",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How does Mr. Jones ask where the theater is?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kabukiza wa doko desu ka? (Where is the Kabuki Theater?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Kabukiza wa nan desu ka? (What is the Kabuki Theater?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Kabukiza wa ikura desu ka? (How much is the Kabuki Theater?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Kabukiza desu ka? (Is it the Kabuki Theater?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "According to the passer-by, where is the theater?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The third corner on the left",
+          "is_correct": true
+        },
+        {
+          "answer": "The first corner on the right",
+          "is_correct": false
+        },
+        {
+          "answer": "Straight ahead only",
+          "is_correct": false
+        },
+        {
+          "answer": "Behind the station",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'mittsu-me no kado' mean?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The third corner",
+          "is_correct": true
+        },
+        {
+          "answer": "The third floor",
+          "is_correct": false
+        },
+        {
+          "answer": "Three tickets",
+          "is_correct": false
+        },
+        {
+          "answer": "Three o'clock",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Mr. Jones do after hearing the directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He repeats them to confirm",
+          "is_correct": true
+        },
+        {
+          "answer": "He argues with the passer-by",
+          "is_correct": false
+        },
+        {
+          "answer": "He walks away without a word",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks for the price",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: Finding the Kabuki Theater.",
+      "sequence_id": 1
+    },
+    {
+      "text": "Mr. Jones is walking in Tokyo and wants to find the Kabukiza (Kabuki Theater).",
+      "sequence_id": 2
+    },
+    {
+      "text": "He stops a passer-by and asks, \"Sumimasen. Koko wa Harumi Doori desu ka?\" (Excuse me. Is this Harumi Street?).",
+      "sequence_id": 3
+    },
+    {
+      "text": "The passer-by answers, \"Ee, soo desu yo\" (Yes, that's right).",
+      "sequence_id": 4
+    },
+    {
+      "text": "Mr. Jones then asks, \"Kabukiza wa doko desu ka?\" (Where is the Kabuki Theater?).",
+      "sequence_id": 5
+    },
+    {
+      "text": "The passer-by says, \"Koko kara mittsu-me no hidari no kado desu\" (It is the third corner on the left from here).",
+      "sequence_id": 6
+    },
+    {
+      "text": "Mr. Jones repeats, \"Mittsu-me no hidari no kado desu ne?\" (The third corner on the left, right?), and thanks the person.",
+      "sequence_id": 7
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

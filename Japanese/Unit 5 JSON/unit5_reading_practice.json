@@ -1,0 +1,186 @@
+{
+  "title": "unit5_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does this meeting take place?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At a party",
+          "is_correct": true
+        },
+        {
+          "answer": "At a station",
+          "is_correct": false
+        },
+        {
+          "answer": "At a restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "At a taxi stand",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does Mr. Brown check the man's name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Shitsurei desu ga, Suzuki-san desu ka? (Excuse me, are you Mr. Suzuki?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ikura desu ka? (How much is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko desu ka? (Where is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Nan desu ka? (What is it?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What does Mr. Suzuki answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai, soo desu (Yes, that's right)",
+          "is_correct": true
+        },
+        {
+          "answer": "Iie, chigaimasu (No, that's wrong)",
+          "is_correct": false
+        },
+        {
+          "answer": "Wakarimasen (I don't understand)",
+          "is_correct": false
+        },
+        {
+          "answer": "Sayoonara (Good-bye)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What expression do both men use when meeting?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hajimemashite (How do you do?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Itadakimasu (I will receive)",
+          "is_correct": false
+        },
+        {
+          "answer": "Odaiji ni (Take care)",
+          "is_correct": false
+        },
+        {
+          "answer": "Tadaima (I'm home)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does Mr. Suzuki add after 'Hajimemashite'?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Doozo yoroshiku (Pleased to meet you)",
+          "is_correct": true
+        },
+        {
+          "answer": "Onegai shimasu (Please)",
+          "is_correct": false
+        },
+        {
+          "answer": "Gochisoosama (Thank you for the meal)",
+          "is_correct": false
+        },
+        {
+          "answer": "Omedetoo (Congratulations)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What do the two men exchange?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Meeshi (name cards)",
+          "is_correct": true
+        },
+        {
+          "answer": "Money",
+          "is_correct": false
+        },
+        {
+          "answer": "Tickets",
+          "is_correct": false
+        },
+        {
+          "answer": "Keys",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: Meeting someone for the first time.",
+      "sequence_id": 1
+    },
+    {
+      "text": "At a party, Mr. Brown wants to meet a man he has not met before.",
+      "sequence_id": 2
+    },
+    {
+      "text": "To make sure of the man's name, he says, \"Shitsurei desu ga, Suzuki-san desu ka?\" (Excuse me, are you Mr. Suzuki?).",
+      "sequence_id": 3
+    },
+    {
+      "text": "The man answers, \"Hai, soo desu\" (Yes, that's right).",
+      "sequence_id": 4
+    },
+    {
+      "text": "Mr. Brown says, \"Hajimemashite. Buraun desu\" (How do you do? I am Brown).",
+      "sequence_id": 5
+    },
+    {
+      "text": "Mr. Suzuki replies, \"Hajimemashite. Doozo yoroshiku\" (How do you do? Pleased to meet you).",
+      "sequence_id": 6
+    },
+    {
+      "text": "They exchange meeshi (name cards) as is the custom in Japan.",
+      "sequence_id": 7
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

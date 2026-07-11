@@ -1,0 +1,186 @@
+{
+  "title": "unit9_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "What is Mr. Taylor looking for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "A subway station",
+          "is_correct": true
+        },
+        {
+          "answer": "A taxi stand",
+          "is_correct": false
+        },
+        {
+          "answer": "A restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "A hotel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "How does Mr. Taylor ask if there is a station nearby?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Kono chikaku ni chikatetsu no eki ga arimasu ka?",
+          "is_correct": true
+        },
+        {
+          "answer": "Chikatetsu wa ikura desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Chikatetsu wa nan desu ka?",
+          "is_correct": false
+        },
+        {
+          "answer": "Chikatetsu desu ka?",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What is the first direction the passer-by gives?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Go straight along this road (massugu itte)",
+          "is_correct": true
+        },
+        {
+          "answer": "Turn right (migi ni magarimasu)",
+          "is_correct": false
+        },
+        {
+          "answer": "Turn left (hidari ni magarimasu)",
+          "is_correct": false
+        },
+        {
+          "answer": "Go back (modorimasu)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Where should Mr. Taylor turn right?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "At the second corner",
+          "is_correct": true
+        },
+        {
+          "answer": "At the first corner",
+          "is_correct": false
+        },
+        {
+          "answer": "At the third corner",
+          "is_correct": false
+        },
+        {
+          "answer": "At the station",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "On which side is the station?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "On the left",
+          "is_correct": true
+        },
+        {
+          "answer": "On the right",
+          "is_correct": false
+        },
+        {
+          "answer": "Straight ahead",
+          "is_correct": false
+        },
+        {
+          "answer": "Behind him",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Mr. Taylor do to make sure he understands?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He repeats each step",
+          "is_correct": true
+        },
+        {
+          "answer": "He writes nothing down and leaves",
+          "is_correct": false
+        },
+        {
+          "answer": "He takes a taxi instead",
+          "is_correct": false
+        },
+        {
+          "answer": "He asks for the fare",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: Directions to the subway station.",
+      "sequence_id": 1
+    },
+    {
+      "text": "Mr. Taylor asks a passer-by, \"Sumimasen. Kono chikaku ni chikatetsu no eki ga arimasu ka?\" (Excuse me. Is there a subway station near here?).",
+      "sequence_id": 2
+    },
+    {
+      "text": "The passer-by says, \"Ee\" (Yes), and begins to explain the way.",
+      "sequence_id": 3
+    },
+    {
+      "text": "The passer-by says, \"Kono michi o massugu itte\" (Go straight along this road).",
+      "sequence_id": 4
+    },
+    {
+      "text": "Then, \"Futatsu-me no kado o migi ni magarimasu\" (Turn right at the second corner).",
+      "sequence_id": 5
+    },
+    {
+      "text": "Finally, \"Eki wa hidari ni arimasu yo\" (The station is on the left).",
+      "sequence_id": 6
+    },
+    {
+      "text": "Mr. Taylor repeats each step to be sure, then says, \"Doomo arigatoo\" (Thank you very much).",
+      "sequence_id": 7
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

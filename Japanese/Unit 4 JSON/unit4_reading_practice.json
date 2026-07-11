@@ -1,0 +1,182 @@
+{
+  "title": "unit4_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Why does Ms. Brown want to buy aspirin?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She has a headache",
+          "is_correct": true
+        },
+        {
+          "answer": "She is hungry",
+          "is_correct": false
+        },
+        {
+          "answer": "She is thirsty",
+          "is_correct": false
+        },
+        {
+          "answer": "She is tired",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where does Ms. Brown go to look for aspirin?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Into a nearby shop",
+          "is_correct": true
+        },
+        {
+          "answer": "To a train station",
+          "is_correct": false
+        },
+        {
+          "answer": "To a restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "To a taxi stand",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How does Ms. Brown ask for the aspirin?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Asupirin arimasu ka? (Do you have aspirin?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Asupirin wa doko desu ka? (Where is the aspirin?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Asupirin onegai shimasu (Aspirin, please)",
+          "is_correct": false
+        },
+        {
+          "answer": "Asupirin desu ka? (Is it aspirin?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "What does the clerk answer?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai, gozaimasu (Yes, we have it)",
+          "is_correct": true
+        },
+        {
+          "answer": "Iie, arimasen (No, we don't have it)",
+          "is_correct": false
+        },
+        {
+          "answer": "Wakarimasen (I don't understand)",
+          "is_correct": false
+        },
+        {
+          "answer": "Sayoonara (Good-bye)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does 'arimasu ka?' ask about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Whether the shop has an item",
+          "is_correct": true
+        },
+        {
+          "answer": "The price of an item",
+          "is_correct": false
+        },
+        {
+          "answer": "The location of a shop",
+          "is_correct": false
+        },
+        {
+          "answer": "The time of day",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "What does Ms. Brown do at the end?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "She buys the aspirin",
+          "is_correct": true
+        },
+        {
+          "answer": "She leaves without buying",
+          "is_correct": false
+        },
+        {
+          "answer": "She asks for directions",
+          "is_correct": false
+        },
+        {
+          "answer": "She orders food",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: Looking for medicine.",
+      "sequence_id": 1
+    },
+    {
+      "text": "Ms. Brown has a headache and wants to buy some aspirin.",
+      "sequence_id": 2
+    },
+    {
+      "text": "She goes into a nearby shop and speaks to the clerk.",
+      "sequence_id": 3
+    },
+    {
+      "text": "She asks, \"Sumimasen. Asupirin arimasu ka?\" (Excuse me. Do you have aspirin?).",
+      "sequence_id": 4
+    },
+    {
+      "text": "The clerk answers politely, \"Hai, gozaimasu\" (Yes, we have it).",
+      "sequence_id": 5
+    },
+    {
+      "text": "Ms. Brown is glad and buys the aspirin at the shop.",
+      "sequence_id": 6
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

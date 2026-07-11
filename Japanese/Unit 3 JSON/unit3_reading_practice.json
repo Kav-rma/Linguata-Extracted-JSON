@@ -1,0 +1,186 @@
+{
+  "title": "unit3_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Mr. Jones go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "To a restaurant",
+          "is_correct": true
+        },
+        {
+          "answer": "To a train station",
+          "is_correct": false
+        },
+        {
+          "answer": "To a post office",
+          "is_correct": false
+        },
+        {
+          "answer": "To a hotel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What does Mr. Jones ask about the dish he sees?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Are wa nan desu ka? (What is that?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ikura desu ka? (How much is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko desu ka? (Where is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Nan-ji desu ka? (What time is it?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What dish does the waitress name?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sukiyaki",
+          "is_correct": true
+        },
+        {
+          "answer": "Tempura",
+          "is_correct": false
+        },
+        {
+          "answer": "Sushi",
+          "is_correct": false
+        },
+        {
+          "answer": "Ramen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "How does Mr. Jones place his order?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Jaa, are onegai shimasu (Then, that one please)",
+          "is_correct": true
+        },
+        {
+          "answer": "Sumimasen (Excuse me)",
+          "is_correct": false
+        },
+        {
+          "answer": "Sayoonara (Good-bye)",
+          "is_correct": false
+        },
+        {
+          "answer": "Wakarimasen (I don't understand)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does the waitress say when she accepts the order?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Hai, kashikomarimashita (Yes, certainly)",
+          "is_correct": true
+        },
+        {
+          "answer": "Iie, chigaimasu (No, that's wrong)",
+          "is_correct": false
+        },
+        {
+          "answer": "Doo itashimashite (You're welcome)",
+          "is_correct": false
+        },
+        {
+          "answer": "Moo ichi-do (Once more)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "Why does Mr. Jones point at the dish?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Because he does not know its name",
+          "is_correct": true
+        },
+        {
+          "answer": "Because it is too expensive",
+          "is_correct": false
+        },
+        {
+          "answer": "Because it is his own dish",
+          "is_correct": false
+        },
+        {
+          "answer": "Because the waitress asked him to",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: A day at a Japanese restaurant.",
+      "sequence_id": 1
+    },
+    {
+      "text": "Mr. Jones goes to a restaurant in Tokyo for lunch.",
+      "sequence_id": 2
+    },
+    {
+      "text": "He looks at another table and sees a dish he does not know.",
+      "sequence_id": 3
+    },
+    {
+      "text": "He points to it and asks the waitress, \"Are wa nan desu ka?\" (What is that?).",
+      "sequence_id": 4
+    },
+    {
+      "text": "The waitress answers, \"Sukiyaki desu\" (It is sukiyaki).",
+      "sequence_id": 5
+    },
+    {
+      "text": "Mr. Jones says, \"Jaa, are onegai shimasu\" (Then, that one please).",
+      "sequence_id": 6
+    },
+    {
+      "text": "The waitress replies, \"Hai, kashikomarimashita\" (Yes, certainly), and brings the sukiyaki to his table.",
+      "sequence_id": 7
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

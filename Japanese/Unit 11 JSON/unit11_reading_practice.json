@@ -1,0 +1,186 @@
+{
+  "title": "unit11_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "Where does Mr. Spencer want to go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Shibuya",
+          "is_correct": true
+        },
+        {
+          "answer": "Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza",
+          "is_correct": false
+        },
+        {
+          "answer": "Osaka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "What is Mr. Spencer looking for?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The ticket window (kippu uriba)",
+          "is_correct": true
+        },
+        {
+          "answer": "A restaurant",
+          "is_correct": false
+        },
+        {
+          "answer": "A taxi stand",
+          "is_correct": false
+        },
+        {
+          "answer": "A hotel",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "What two choices does the passer-by ask about?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The subway or the JR line",
+          "is_correct": true
+        },
+        {
+          "answer": "A bus or a taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "A train or a plane",
+          "is_correct": false
+        },
+        {
+          "answer": "Morning or evening",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "Which does Mr. Spencer choose?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "The subway (chikatetsu)",
+          "is_correct": true
+        },
+        {
+          "answer": "The JR line",
+          "is_correct": false
+        },
+        {
+          "answer": "A taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "A bus",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "What does Mr. Spencer say when he cannot follow the directions?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Sumimasen. Wakarimasen (I'm sorry. I don't understand.)",
+          "is_correct": true
+        },
+        {
+          "answer": "Doomo arigatoo (Thank you)",
+          "is_correct": false
+        },
+        {
+          "answer": "Hai, wakarimasu (Yes, I understand)",
+          "is_correct": false
+        },
+        {
+          "answer": "Ikura desu ka? (How much is it?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How does the passer-by help in the end?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "He offers to take Mr. Spencer there",
+          "is_correct": true
+        },
+        {
+          "answer": "He draws a map",
+          "is_correct": false
+        },
+        {
+          "answer": "He calls a taxi",
+          "is_correct": false
+        },
+        {
+          "answer": "He gives him a ticket",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: Finding the ticket window.",
+      "sequence_id": 1
+    },
+    {
+      "text": "Mr. Spencer wants to go to Shibuya.",
+      "sequence_id": 2
+    },
+    {
+      "text": "He asks a passer-by, \"Sumimasen. Shibuya e ikitain desu ga, kippu uriba wa doko desu ka?\" (Excuse me. I want to go to Shibuya; where is the ticket window?).",
+      "sequence_id": 3
+    },
+    {
+      "text": "The passer-by asks, \"Chikatetsu desu ka, JR-sen desu ka?\" (The subway or the JR line?).",
+      "sequence_id": 4
+    },
+    {
+      "text": "Mr. Spencer answers, \"Chikatetsu desu\" (The subway).",
+      "sequence_id": 5
+    },
+    {
+      "text": "The directions are difficult, so Mr. Spencer says, \"Sumimasen. Wakarimasen\" (I'm sorry. I don't understand).",
+      "sequence_id": 6
+    },
+    {
+      "text": "The kind passer-by says, \"Jaa, tsurete itte agemashoo\" (Then, I'll take you there), and walks with him.",
+      "sequence_id": 7
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

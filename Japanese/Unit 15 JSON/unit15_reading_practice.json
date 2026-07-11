@@ -1,0 +1,186 @@
+{
+  "title": "unit15_reading_practice",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question": "How does Mr. Black tell the driver his destination?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ginza made onegai shimasu (To Ginza, please)",
+          "is_correct": true
+        },
+        {
+          "answer": "Ginza wa doko desu ka? (Where is Ginza?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza desu ka? (Is this Ginza?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Ginza wa nan desu ka? (What is Ginza?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 2,
+      "question": "Where does Mr. Black want to go?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ginza",
+          "is_correct": true
+        },
+        {
+          "answer": "Yokohama",
+          "is_correct": false
+        },
+        {
+          "answer": "Shibuya",
+          "is_correct": false
+        },
+        {
+          "answer": "Osaka",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 3,
+      "question": "How does Mr. Black ask the driver to stop?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mitsukoshi no mae de tomete kudasai (Please stop in front of Mitsukoshi)",
+          "is_correct": true
+        },
+        {
+          "answer": "Massugu itte kudasai (Please go straight)",
+          "is_correct": false
+        },
+        {
+          "answer": "Migi ni magatte kudasai (Please turn right)",
+          "is_correct": false
+        },
+        {
+          "answer": "Moo ichi-do itte kudasai (Please say it again)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 4,
+      "question": "In front of which store does Mr. Black want to stop?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Mitsukoshi",
+          "is_correct": true
+        },
+        {
+          "answer": "Takashimaya",
+          "is_correct": false
+        },
+        {
+          "answer": "Isetan",
+          "is_correct": false
+        },
+        {
+          "answer": "Matsuya",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 5,
+      "question": "How does Mr. Black ask the fare?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "Ikura desu ka? (How much is it?)",
+          "is_correct": true
+        },
+        {
+          "answer": "Nan-ji desu ka? (What time is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Doko desu ka? (Where is it?)",
+          "is_correct": false
+        },
+        {
+          "answer": "Nan desu ka? (What is it?)",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    },
+    {
+      "sequence_id": 6,
+      "question": "How much is the fare?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "550 yen",
+          "is_correct": true
+        },
+        {
+          "answer": "500 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "1,500 yen",
+          "is_correct": false
+        },
+        {
+          "answer": "250 yen",
+          "is_correct": false
+        }
+      ],
+      "has_answer": true
+    }
+  ],
+  "articles": [
+    {
+      "text": "Reading Practice: Taking a taxi to Ginza.",
+      "sequence_id": 1
+    },
+    {
+      "text": "Mr. Black gets into a taxi and says, \"Ginza made onegai shimasu\" (To Ginza, please).",
+      "sequence_id": 2
+    },
+    {
+      "text": "The driver answers, \"Hai\" (Yes), and drives toward Ginza.",
+      "sequence_id": 3
+    },
+    {
+      "text": "When they arrive, the driver says, \"Okyaku-san, Ginza desu yo\" (Sir, this is Ginza).",
+      "sequence_id": 4
+    },
+    {
+      "text": "Mr. Black says, \"Mitsukoshi no mae de tomete kudasai\" (Please stop in front of Mitsukoshi).",
+      "sequence_id": 5
+    },
+    {
+      "text": "Mr. Black asks, \"Ikura desu ka?\" (How much is it?).",
+      "sequence_id": 6
+    },
+    {
+      "text": "The driver answers, \"550-en desu\" (It is 550 yen).",
+      "sequence_id": 7
+    }
+  ],
+  "metadata": {
+    "page_start": 1,
+    "page_end": 1,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true
+  }
+}

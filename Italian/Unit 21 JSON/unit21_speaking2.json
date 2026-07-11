@@ -5,83 +5,99 @@
   "articles": [
     {
       "sequence_id": 1,
-      "text": "PASSENGER: Mi scusi. Questo posto è libero?"
+      "text": "Host: Buongiorno! Prego, si accomodi se desidera."
     },
     {
       "sequence_id": 2,
-      "text": "PASSENGER: Excuse me. Is this seat taken?"
+      "text": "Host: Good afternoon! Please, have a seat if you'd like."
     },
     {
       "sequence_id": 3,
-      "text": "MISS CURTI: Sì, è libero, prego si accomodi. Ma Lei è la signorina / il signor [cognome], vero? Ci siamo conosciuti tre sere fa dai Licata."
+      "text": "Customer: Mi scusi. Questo posto è libero?"
     },
     {
       "sequence_id": 4,
-      "text": "MISS CURTI: Yes, it's free, please have a seat. But you are Miss / Mr. [last name], right? We met three evenings ago at the Licatas'."
+      "text": "Customer: Excuse me. Is this seat taken?"
     },
     {
       "sequence_id": 5,
-      "text": "PASSENGER: Sì, mi ricordo. Come sta, signorina Curti?"
+      "text": "Host: Sì, è libero, prego si accomodi. Ma Lei è la signora/il signor Rossi, vero? Ci siamo conosciuti/e tre sere fa dai Licata."
     },
     {
       "sequence_id": 6,
-      "text": "PASSENGER: Yes, I remember. How are you, Miss Curti?"
+      "text": "Host: Yes, it's free. Please have a seat. But you're Mrs./Mr. Rossi, aren't you? We met three evenings ago at the Licatas'."
     },
     {
       "sequence_id": 7,
-      "text": "MISS CURTI: Bene, grazie. Lei parla molto bene l'italiano. Dove l'ha studiato? Conosceva già altre lingue?"
+      "text": "Customer: Sì, mi ricordo. Come sta, signora Curti?"
     },
     {
       "sequence_id": 8,
-      "text": "MISS CURTI: Fine, thank you. You speak Italian very well. Where did you study it? Did you already know other languages?"
+      "text": "Customer: Yes, I remember. How are you, Mrs. Curti?"
     },
     {
       "sequence_id": 9,
-      "text": "PASSENGER: L'ho studiato negli Stati Uniti."
+      "text": "Host: Bene, grazie. Lei parla molto bene l'italiano. Dove l'ha studiato?"
     },
     {
       "sequence_id": 10,
-      "text": "PASSENGER: I studied it in the U.S."
+      "text": "Host: Fine, thank you. You speak Italian very well. Where did you study it?"
     },
     {
       "sequence_id": 11,
-      "text": "MISS CURTI: Conosceva già altre lingue?"
+      "text": "Customer: L'ho studiato negli Stati Uniti."
     },
     {
       "sequence_id": 12,
-      "text": "MISS CURTI: Did you already know other languages?"
+      "text": "Customer: I studied it in the U.S."
     },
     {
       "sequence_id": 13,
-      "text": "PASSENGER: Sì, parlavo francese e spagnolo. Di dove è, signorina Curti?"
+      "text": "Host: Conosceva già altre lingue?"
     },
     {
       "sequence_id": 14,
-      "text": "PASSENGER: Yes, I spoke French and Spanish. Where are you from, Miss Curti?"
+      "text": "Host: Did you already know any other languages?"
     },
     {
       "sequence_id": 15,
-      "text": "MISS CURTI: Sono di Asti, ma abito qui da nove anni."
+      "text": "Customer: Sì, parlavo francese e spagnolo. Di dov'è, signora Curti?"
     },
     {
       "sequence_id": 16,
-      "text": "MISS CURTI: I'm from Asti, but I've lived here for nine years. "
+      "text": "Customer: Yes, I spoke French and Spanish. Where are you from, Mrs. Curti?"
     },
     {
       "sequence_id": 17,
-      "text": "PASSENGER: Le piaceva vivere ad Asti?"
+      "text": "Host: Sono di Asti, ma abito qui da nove anni."
     },
     {
       "sequence_id": 18,
-      "text": "PASSENGER: Did you like living in Asti?"
+      "text": "Host: I'm from Asti, but I've lived here for nine years."
     },
     {
       "sequence_id": 19,
-      "text": "MISS CURTI:  Oh, sì, mi piaceva tanto!"
+      "text": "Customer: Le piaceva vivere ad Asti?"
     },
     {
       "sequence_id": 20,
-      "text": "MISS CURTI: Oh yes, I liked it very much!"
+      "text": "Customer: Did you like living in Asti?"
+    },
+    {
+      "sequence_id": 21,
+      "text": "Host: Oh, sì, mi piaceva tanto!"
+    },
+    {
+      "sequence_id": 22,
+      "text": "Host: Oh yes, I liked it very much!"
+    },
+    {
+      "sequence_id": 23,
+      "text": "Customer: Si sta facendo tardi. Devo tornare al lavoro. Arrivederci!"
+    },
+    {
+      "sequence_id": 24,
+      "text": "Customer: It's getting late. I have to go back to work. See you soon!"
     }
   ],
   "metadata": {
