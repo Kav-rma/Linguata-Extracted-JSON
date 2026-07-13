@@ -1,0 +1,139 @@
+{
+  "title": "unit7_grammar_notes_1",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How are the plural pronouns formed?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Give the three plural pronouns and their meanings.",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Do Chinese nouns change form for singular and plural?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What are the two possible translations of háizi?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "How can a few nouns referring to people be made explicitly plural?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which suffix is added to the singular pronouns to form the plurals?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "-men.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the only fully accurate translation of Wǒmen yǒu háizi?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The clumsy \"We have one or more children\" — Chinese does not pin the number down.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why is the ambiguity of háizi sometimes an advantage?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When you ask Nǐmen yǒu háizi ma? you do not know whether you are referring to one child or more; English must say \"any children\" to cover both.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What can háizimen only mean?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"Children\" — it is explicitly plural.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Besides as subjects, in what two other ways are these pronoun forms used?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "As possessives (\"my,\" \"our\") and, later, as objects (\"me,\" \"us\").",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. A: Nǐmen yǒu háizi ma?                   Do you have any children?\n   B: Yǒu, wǒmen yǒu.                       Yes, we have.\n\nNotes on No. 1\n\nThe plural pronouns are formed by adding -men to the singular pronouns.\n\nsingular            plural\nwǒ    (I)           wǒmen   (we)\nnǐ    (you)         nǐmen   (you)\ntā    (he/she)      tāmen   (they)\n\n(You have already seen these pronoun forms used as possessives: \"my,\" \"our,\" etc. Later you will find that they are also used as objects: \"me,\" \"us,\" etc.)\n\nHáizi: Chinese nouns have the same form for singular and plural. Háizi may be either \"child\" or \"children.\"* Usually the context will make clear whether a noun should be translated as singular or as plural, but not always. Chinese does not require that the matter be pinned down to the same extent that English does. Wǒmen yǒu háizi is a perfectly good sentence, even though the only accurate translation is the clumsy \"We have one or more children.\" We would prefer to have enough information to translate it either as \"We have a child\" or as \"We have children.\" At times this ambiguity is an advantage. When you ask Nǐmen yǒu háizi ma? you do not, after all, know whether you are referring to one child or to more than one child. To cover both bets in the same way in English, we have to say \"Do you have any children?\"\n\n*A few nouns referring to people may be made explicitly plural by adding -men: háizimen can only be \"children.\"\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

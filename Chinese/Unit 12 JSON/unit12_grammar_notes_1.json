@@ -1,0 +1,139 @@
+{
+  "title": "unit12_grammar_notes_1",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the second way to use hái introduced in this exchange?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What replaces the completion marker le in the negative of a completed action?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "With which negative is the verb yǒu always made negative?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What are the two possible meanings when new-situation le is used with a negative verb?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write the Chinese for \"I don't have any more classes.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "In the sentence Méiyou kè le, what is the function of le, and what is méiyou?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Le is a new-situation marker, and méiyou is simply the negative of the full verb yǒu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Is méi(you) ever used together with the completion marker le?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No — méi or méiyou replaces the completion marker le; the two are never used together.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why is the sentence Tā bù lái le ambiguous?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Because it can mean either that he was expected to come but changed his mind, or that he used to come at this time but has now stopped.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Write the Chinese for \"He is not my friend anymore.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi wǒde péngyou le.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which meaning of hái did you already know?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The adverb meaning \"still.\"",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. B: Nǐ jīntian hái yǒu kè ma?             Do you have any more classes today?\n   A: Méiyou kè le.                         I don't have any more classes.\n\nNotes on No. 1\n\nHái, \"additionally,\" \"also\": You have already learned the word hái used as an adverb meaning \"still.\" In this exchange you learn a second way to use hái.\n\nNǐ hái xiǎng zǒu ma?             Do you still want to leave?\nNǐ hái yào xué shénme?           What else do you want to study?\n\nMéiyou...le: You will remember that in the negative of a completed action, méi or méiyou replaces the completion marker le--is never used together with it.\n\nTā  |          | lái | le.        (He came.)\nTā  | méi(you) | lái.|            (He did not come.)\n\nIn the sentence Méiyou kè le, le is a new-situation marker, and méiyou is simply the negative of the full verb yǒu. (Remember that the verb yǒu is always made negative with méi, never with bù.)\n\nTā  |      | yǒu kè | le.         (Now he has class. [Due to a change in\n                                  the schedule, he now has class at this\n                                  time.])\nTā  | méi- | yǒu kè | le.         (He doesn't have any more classes.)\n\nBù...le/méiyou...le: When the marker le for new situations is used with a negative verb, there are two possible meanings: one is that something that was supposed to happen is now not going to happen; the other is that something that was happening is not happening anymore. Thus the following sentence is ambiguous:\n\nTā bù lái le.                    He is not coming now. [Either he was\n                                 expected to come but changed his mind,\n                                 or he used to come at this time but now\n                                 has stopped.]\n\nIn the context of a conversation, the meaning of the sentence would become clear. Here are more examples with the \"anymore\" meaning:\n\nTā bú niàn shū le.               He is not going to study anymore.\n                                 [He will no longer attend college.]\nTā bú shi wǒde péngyou le.       He is not my friend anymore.\nMéiyou le.                       There is no more.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "title": "unit8_grammar_notes_1",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Do Chinese verbs have tenses?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Is lái a future-tense form?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Give the three possible translations of Tā zài Táinán gōngzuò.",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Where must you look to find out what time is being talked about?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write the Chinese for \"Is your wife coming?\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "In which contexts can the same form of a Chinese verb be used?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In present, past, and future contexts.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Does the verb form gōngzuò tell you what time is being talked about?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No. You have to look elsewhere — to a time expression or to the conversational setting.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Give two examples of the kind of time expression that supplies this information.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Expressions such as \"last year,\" \"now,\" or \"tomorrow.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Write the Chinese for \"She is coming.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā lái.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does the verb lái mean?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"To come.\"",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. A: Nǐ àiren lái ma?                      Is your wife coming?\n   B: Tā lái.                               She is coming.\n\nNotes on No. 1\n\nThese sentences refer to future time, but lái is not a future-tense form. Strictly speaking, Chinese verbs do not have tenses. The same form of the verb can be used in present, past, and future contexts.\n\nWe translated the sentence Tā zài Táinán gōngzuò as \"He works in Tainan,\" assuming a present context. But in a past context we could translate it as \"He worked in Tainan\"; and in a future context we could translate it as \"He will work in Tainan.\" The verb form gōngzuò does not tell you what time is being talked about. You have to look elsewhere for that information, perhaps to a time expression like \"last year\" or \"now\" or \"tomorrow,\" or to the conversational setting.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 4,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

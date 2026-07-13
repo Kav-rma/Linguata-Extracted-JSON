@@ -1,0 +1,98 @@
+{
+  "title": "unit11_response_drill_i",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Answer the question 'Tā huì shuō Zhōngguo huà ma?' in Chinese according to the cue 'xuéguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Huì, tā huì shuō Zhōngguo huà.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Answer the question 'Tā huì shuō Zhōngguo huà ma?' in Chinese according to the cue 'méi xuéguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú huì, tā bú huì shuō Zhōngguo huà.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Answer the question 'Tā àiren huì shuō Fǎwén ma?' in Chinese according to the cue 'xuéguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Huì, Tā àiren huì shuō Fǎwén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Answer the question 'Tā fùqin huì shuō Rìwén ma?' in Chinese according to the cue 'méi xuéguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú huì, Tā fùqin bú huì shuō Rìwén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Answer the question 'Lǐ Tóngzhì huì shuō Déwén ma?' in Chinese according to the cue 'méi xuéguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú huì, Lǐ Tóngzhì bú huì shuō Déwén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Answer the question 'Wáng Tóngzhì huì shuō Yīngwén ma?' in Chinese according to the cue 'xuéguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Huì, Wáng Tóngzhì huì shuō Yīngwén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Answer the question 'Chén Tóngzhì huì shuō Fǎwén ma?' in Chinese according to the cue 'xuéguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Huì, Chén Tóngzhì huì shuō Fǎwén.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 17,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

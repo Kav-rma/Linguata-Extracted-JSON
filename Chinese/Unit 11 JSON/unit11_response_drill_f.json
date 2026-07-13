@@ -1,0 +1,98 @@
+{
+  "title": "unit11_response_drill_f",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Give a negative Chinese answer to 'Tā shi zài Zhōngguo xuéde Zhōngguo huà ma?' using the cue 'Měiguó'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú shi, tā shi zài Měiguó xuéde Zhōngguo huà.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Give a negative Chinese answer to 'Tā shi zài Měiguo niànde Fǎwén ma?' using the cue 'Jiānádà'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú shi, tā shi zài Jiānádà niànde Fǎwén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Give a negative Chinese answer to 'Tā shi zài Táiwān Dàxué niànde zhèngzhìxué ma?' using the cue 'Měiguo Dàxué'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú shi, tā shi zài Měiguo Dàxué niànde zhèngzhìxué.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Give a negative Chinese answer to 'Tā shi zài Yīngguo niànde Yīngguo wénxué ma?' using the cue 'Měiguo Dàxué'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú shi, tā shi zài Měiguo Dàxué niànde Yīngguo wénxué.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Give a negative Chinese answer to 'Tā shi zài Jiāzhōu niànde jīngjìxué ma?' using the cue 'Táiwān Dàxué'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú shi, tā shi zài Táiwān Dàxué niànde jīngjìxué.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Give a negative Chinese answer to 'Tā shi zài Zhōngguo niànde Zhōngguo lìshǐ ma?' using the cue 'Jiāzhōu Dàxué'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú shi, tā shi zài Jiāzhōu Dàxué niànde Zhōngguo lìshǐ.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Give a negative Chinese answer to 'Tā shi zài Jiānádà niànde Zhōngwén ma?' using the cue 'Táiwān'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bú shi, tā shi zài Táiwān niànde Zhōngwén.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 13,
+    "page_end": 13,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}

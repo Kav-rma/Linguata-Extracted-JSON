@@ -1,0 +1,139 @@
+{
+  "title": "unit12_grammar_notes_2",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How many times does the verb appear when both an object and a duration are stated?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When is the verb stated the first time, and when the second?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Where do aspect markers occur in such a sentence, and where do they NOT?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese for \"I studied English for six years.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "In which earlier unit did you learn to express duration with no object?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write the Chinese for \"He studied economics for one year.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā niàn jīngjìxué, niànle yìnián.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Write the Chinese for \"He has been studying Chinese for three months.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā xué Zhōngguo huà, xuéle sānge yuè le.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Does an aspect marker follow the first verb?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No — aspect markers occur only after the second verb and at the end of the second sentence.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Write the Chinese question meaning \"How long did you study English?\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nǐ cóngqián niàn Yīngwén niànle duō jiǔ?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is the difference between niànle duō jiǔ? and niànle duō jiǔ le?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The second le marks a new situation, showing the activity is still going on — \"how long have you been studying\" rather than \"how long did you study.\"",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. A: Nǐ cóngqián niàn Yīngwén              How long did you study English?\n      niànle duō jiǔ?\n   B: Wǒ niàn Yīngwén niànle                I studied English for six years.\n      liùnián.\n\nNote on No. 2\n\nMore on duration: In Unit 6 of this module, you learned to express duration in a sentence with no object (Wǒ zài Xiānggǎng zhùle liùge yuè le). In this unit, you learn one way to express the duration of an activity which involves using both a verb and an object (e.g., \"studying economics\"). In such cases, the verb appears twice in the sentence: first when the object is stated, and again when the duration is stated.\n\nTā niàn jīngjìxué, niànle         He studied economics for one year.\nyìnián.\nTā xué Zhōngguo huà, xuéle        He has been studying Chinese for\nsānge yuè le.                     three months.\n\nNotice that aspect markers do not occur after the first verb in each sentence, but only after the second verb and at the end of the second sentence.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}
