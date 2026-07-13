@@ -1,0 +1,139 @@
+{
+  "title": "unit2_grammar_notes_8",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is commonly omitted from a Chinese sentence when it is clear from the context?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How does Chinese compare with English in this respect?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In exchange 8, which word is missing from the reply Bú xìng Mǎ. Xìng Wáng.?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese for \"Is your surname Fāng?\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Rewrite the reply in exchange 8 with the subject included.",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does the note tell you about the subject of a Chinese sentence?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is quite common in Chinese — much commoner than in English — to omit the subject of a sentence when it is clear from the context.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Give the Chinese sentence meaning \"My surname isn't Wáng.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wǒ bú xìng Wáng.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which verb is negated in exchanges 6, 7, and 8?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Xìng, \"to be surnamed.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Why is bú, and not bù, used before xìng?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Because xìng is in the Falling tone, and bù becomes bú before a Falling tone.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is the full English meaning of the reply Bú xìng Mǎ. Xìng Wáng.?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"My surname isn't Mǎ. It's Wáng.\"",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. A: Nǐ xìng Fāng ma?                      Is your surname Fāng?\n   B: Wǒ bú xìng Fāng.                      My surname isn't Fāng.\n\n7. A: Wǒ xìng Wáng.                         My surname is Wáng.\n   B: Wǒ bú xìng Wáng.                      My surname isn't Wáng.\n\n8. A: Nǐ xìng Mǎ ma?                        Is your surname Mǎ?\n   B: Bú xìng Mǎ. Xìng Wáng.                My surname isn't Mǎ. It's Wáng.\n\nNote on No. 8\n\nIt is quite common in Chinese--much commoner than in English--to omit the subject of a sentence when it is clear from the context.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

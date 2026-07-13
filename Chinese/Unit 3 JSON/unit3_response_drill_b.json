@@ -1,0 +1,98 @@
+{
+  "title": "unit3_response_drill_b",
+  "type": "writing",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Give a negative Chinese answer to the question 'Tā shi Jiānádà rén ma?' using the cue 'Yīngguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi Jiānádà rén. Shì Yīngguo rén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Give a negative Chinese answer to the question 'Tā shi Rìběn rén ma?' using the cue 'Zhōngguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi Rìběn rén. Shì Zhōngguo rén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Give a negative Chinese answer to the question 'Tā shi Yīngguo rén ma?' using the cue 'Měiguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi Yīngguo rén. Shì Měiguo rén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Give a negative Chinese answer to the question 'Tā shi Měiguo rén ma?' using the cue 'Jiānádà'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi Měiguo rén. Shì Jiānádà rén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Give a negative Chinese answer to the question 'Tā shi Éguo rén ma?' using the cue 'Déguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi Éguo rén. Shì Déguo rén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Give a negative Chinese answer to the question 'Tā shi Yuènán rén ma?' using the cue 'Zhōngguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi Yuènán rén. Shì Zhōngguo rén.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Give a negative Chinese answer to the question 'Tā shi Fàguo rén ma?' using the cue 'Yīngguo'.",
+      "type": "writing",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā bú shi Fàguo rén. Shì Yīngguo rén.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [],
+  "metadata": {
+    "page_start": 9,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": false,
+    "images": []
+  }
+}
