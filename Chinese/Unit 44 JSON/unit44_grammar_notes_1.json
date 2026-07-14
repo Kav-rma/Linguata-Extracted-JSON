@@ -1,0 +1,139 @@
+{
+  "title": "unit44_grammar_notes_1",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How is income described in Chinese, as opposed to English?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does shēngchǎn mean?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does shōurù mean?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese for \"Her income isn't small.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What does nóngyè mean?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write the Chinese for \"His income isn't very high.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tāde shōurù bú tài duō.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Write the Chinese for \"What do you produce?\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nǐmen dōu shēngchǎn shénme?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which adjectives are used with shōurù in Chinese?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Duō (\"much\") and shǎo (\"little\") — not \"large\" and \"small.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Can shēngchǎn refer to both agricultural and industrial production?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes — it covers agricultural and industrial products, and the operation of a plant.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Write the Chinese for \"agricultural production conditions.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nóngyè shēngchǎn qíngkuàng.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. A: Zhèi liǎngnián, nǐmende       What has your income been like the\n      shōurù zěnmeyàng?              past couple of years?\n   B: Zhèi liǎngnián, nóngyè        These past couple of years agricultural\n      shēngchǎn qíngkuàng bú cuò,    production conditions have been pretty\n      shōurù yě hái hǎo.             good, and income is all right, too.\n\nNotes on No. 1\n\nshōurù: \"income, earnings.\" While in English you say \"income\" is \"large\" or \"small,\" in Chinese you say \"MUCH\" (duō) or \"LITTLE\" (shǎo).\n\nTāde shōurù bù shǎo.             Her income isn't small. (lit., \"little\")\nTāde shōurù bú tài duō.          His income isn't very high.\n\nshēngchǎn: \"to produce (agricultural or industrial products), to manufacture; production, operation (of a plant)\"\n\nNǐmen dōu shēngchǎn shénme?      What (all) do you produce?\nYǒu rén shuō xiāngxiàde          Some people say that production and\nshēngchǎn hé shēnghuó qíngkuàng  living conditions in the countryside\nhǎo yìdiǎn le.                   have gotten somewhat better.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "title": "unit32_grammar_notes_3",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does gōngfu refer to?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Name the three words for \"time.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What may shíhou be used for?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does shíjiān refer to?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is gōngfu used only for?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write the Chinese for \"Are you free to talk with me?\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nǐ yǒu méiyou gōngfu gēn wo tántan?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Write the Chinese for \"There isn't time to go today.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Jīntian méiyou shíjiān qù.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which of the three words would you use for an amount of free time?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Gōngfu.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Write the Chinese for \"I don't know whether you have the time or not.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Bù zhīdào nín yǒu gōngfu meiyou.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which question form expresses \"whether … or not\"?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A choice-type question — here, yǒu … meiyou.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. A: Bù zhīdào nín yǒu gōngfu       I don't know whether you have the\n      meiyou.                         time or not.\n   B: Yǒu gōngfu.                     I have the time.\n\nNote on No. 3\n\nGōngfu, \"time,\" \"free time,\" \"leisure time,\" refers to a period of time during which a person is free, in the sense that his work may be interrupted.\n\nNow you know three words for \"time\": shíhou, shíjiān, gōngfu.\n\nShíhou may be used for either a point in time or an amount of time.\n\nNǐ shénme shíhou zǒu?            When are you leaving?\nZuò huǒchē yào zǒu duōshao       How long does it take to go by train?\nshíhou?\n\nShíjiān refers to any amount of time, including the time when a person is free.\n\nCóng zhèr dào fēijīchǎng         How long does it take from here to\nyào duōshao shíjiān?             the airport?\nJīntian méiyou shíjiān qù.       There isn't time to go today.\n\nGōngfu, however, is used only for amounts of time which a person has available for his own use.\n\nNǐ yǒu méiyou gōngfu gēn         Are you free to talk with me?\nwo tántan?\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "title": "unit42_grammar_notes_7",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the literal meaning of báitian?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What are the two opposites of báitian, and in which senses?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What are the two meanings of the prepositional verb dào?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "When does the dào phrase come AFTER the verb?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "When may a dào phrase come BEFORE the verb?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write the Chinese for \"I've already read up to page 101.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wǒ yǐjing kàn dào dìyībǎilíngyī yè le.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Contrast dào xiàwǔ zài tán with tán dào xiàwǔ.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The first means \"wait until the afternoon and then talk\"; the second means \"talk until the afternoon.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Write the Chinese for \"She works during the day and studies at night.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā báitian zuò shì, wǎnshang niàn shū.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Where do lái and qù come in sentences showing a change of location?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At the end of the whole clause.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Write the Chinese for \"Wait until the evening and then call him.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nǐ děng dào wǎnshang zài dǎ diànhuà lai ba.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "7. A: Nǐ dìdi báitian zài jiā ma?   Is your younger brother at home during\n                                      the day?\n   B: Bú zài, nǐ děng dào wǎnshang  No, wait until the evening and then\n      zài dǎ diànhuà lai ba.         call him.\n\nNotes on No. 7\n\nbáitian: \"daytime; during daylight,\" literally \"white-day.\" In the sense of \"daylight,\" the opposite of báitian is hēiyè, \"dark of night.\" In the sense of \"daytime, working hours,\" the opposite of báitian is wǎnshang.\n\nTā báitian zuò shì, wǎnshang     She works during the day and studies\nniàn shū.                        at night.\n\nděng dào: \"wait until.\" Here you see the PREPOSITIONAL VERB dào used AFTER another verb. (Contrast xiǎngdào, where -dào is a verb ENDING showing result.) You now know two meanings for the prepositional verb dào: LOCATION (\"to, up to\") and TIME (\"until\").\n\nWHAT IS THE DIFFERENCE between putting your dào phrase AFTER the verb or BEFORE it?\n\nDÀO PHRASE AFTER VERB — if the dào phrase tells where or at what time you END UP AS A RESULT of the action:\n\nWǒ yǐjing kàn dào dìyībǎilíngyī  I've already read up to page 101.\nyè le.\nWǒ zuótian wǎnshang kàn shū kàn  Last night I read until past three\ndào sāndiǎnduō zhōng.            o'clock.\n\nIn sentences which show that something CHANGES LOCATION, lái or qù will usually come at the END of the whole clause:\n\nTā zǒu dào wǒ qiánmian qu le.    He walked in front of me.\n\nDÀO PHRASE BEFORE THE VERB:\n\na. Put the dào phrase before lái or qù when they are the MAIN VERB:\nTā dào Chóngqìng qù le.          He has gone to Chóngqìng.\n\nb. If another verb phrase follows, qù may sometimes be omitted:\nDào fàntīng chī fàn.             We'll go to the dining room to eat.\n\nc. A dào phrase may come before the verb if it shows a point reached PRIOR TO the action:\nDào xiàwǔ zài tán.               Let's wait until the afternoon and then\n                                 talk. (Contrast tán dào xiàwǔ, \"talk\n                                 until the afternoon.\")\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 17,
+    "page_end": 19,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

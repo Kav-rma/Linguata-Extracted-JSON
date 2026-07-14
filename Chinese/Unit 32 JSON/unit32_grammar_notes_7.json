@@ -1,0 +1,139 @@
+{
+  "title": "unit32_grammar_notes_7",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Which word-order rule does the first sentence illustrate?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What is a huìkèshì?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How else may huìkèshì be pronounced?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese for \"Fine. I'll see you at three.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What does nàme mean?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write the Chinese for \"I'll wait for you in the reception room downstairs at three o'clock.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wǒ sāndiǎn zhōng zài lóuxiàde huìkèshì děng nín.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Which comes first in the sentence — the time or the place?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The time — the order is TIME, PLACE, ACTION.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does lóuxià mean?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"Downstairs.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does děng mean?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"To wait.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Give the three English glosses of nàme.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"Well,\" \"then,\" \"in that case.\"",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "7. B: Nàme, wǒ sāndiǎn zhōng zài      Well then, I'll wait for you in the\n      lóuxiàde huìkèshì děng nín.      reception room downstairs at three\n                                        o'clock.\n   A: Hǎo, sāndiǎn jiàn.               Fine. I'll see you at three.\n\nNotes on No. 7\n\nWord order: The first sentence of exchange 7 illustrates the rule TIME--PLACE--ACTION.\n\nHuìkèshì is also pronounced huìkèshǐ.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}
