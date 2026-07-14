@@ -1,0 +1,139 @@
+{
+  "title": "unit25_grammar_notes_2",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is ya a variant form of?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When may the semivowel y or w be inserted?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What happens if the preceding word ends in a consonant?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese question meaning \"What bus do you take to get there?\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write the Chinese for \"Take the Number 1 bus.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which two semivowels may be inserted before a?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Y or w.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How is the marker pronounced after a vowel?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "As ya or wa.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Give an example of the consonant being carried forward into the marker.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nǐ xìng Wáng /ng/a? — the ng of Wáng becomes the initial sound of the marker.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does jǐlù chē ask for?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The route number of the bus.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What is the effect of the marker a (or ya) at the end of a question?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It softens the question.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. A: Dào nǎr qù, zuò jǐlù chē ya?   What bus do you take to get there?\n   B: Zuò Yīlù chē.                   Take the Number 1 bus.\n\nNote on No. 2\n\nYa is a variant form of the marker a. If the word directly preceding the a ends in a vowel, the semivowel y or w may be inserted; the marker is then pronounced ya or wa. If the word directly preceding a ends in a consonant, that sound is carried forward as the initial sound of the marker: /(consonant sound)a/\n\nNǐ shi nǎrde rén /n/a?\nNǐ xìng Wáng /ng/a?\nNǐ hǎo /w/a?\nTā zhēn kuài /y/a!\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 3,
+    "page_end": 3,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

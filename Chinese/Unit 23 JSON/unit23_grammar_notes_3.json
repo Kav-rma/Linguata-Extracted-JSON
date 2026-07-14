@@ -1,0 +1,139 @@
+{
+  "title": "unit23_grammar_notes_3",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does the verb zhǎo mean?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How are the sections of a street numbered?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Do the sections need the prefix dì-?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How are lanes in Taipei numbered?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "In what order is a Chinese address given?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write the Chinese for \"Who are you looking for?\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nǐ zhǎo shéi?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Write the Chinese for \"Is he looking for work?\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā shi bu shi zhǎo gōngzuò?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "How do the even and odd house numbers run?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Even numbers are on one side of the street, and odd numbers are on the other.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Write the Chinese for \"Lane 54 of Nánjīng East Road, Section 1.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nánjīng Dōnglù Yīduàn, Wǔshisìxiàng.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "How does the English order of an address differ from the Chinese?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "English begins with the smaller area (\"Lane 54, Nánjīng East Road, Section 1\"), while Chinese goes from larger to smaller.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "3. B: Nǐ zhǎo shénme dìfang?         What place are you looking for?\n   A: Wǒ zhǎo Nánjīng Dōnglù         I'm looking for Lane 54 of Nánjīng\n      Yīduàn, Wǔshisìxiàng.          East Road, Section 1.\n\nNotes on No. 3\n\nZhǎo, \"to look for,\" \"to try to find\"\n\nNǐ zhǎo shéi?                    Who are you looking for?\nTā shi bu shi zhǎo gōngzuò?      Is he looking for work?\n\nYīduàn: Streets that are divided into North and South or East and West in Taipei may also be divided into sections.\n\nW <-------------------------------------------------------> E\n   Yīduàn   Èrduàn   Sānduàn   Sìduàn   Wǔduàn\n   |------ Nánjīng Xīlù ------|------ Nánjīng Dōnglù ------|\n\nThe sections of a street, like the floors of a building, are numbered yī, èr, sān, and so on, and do not need the prefix dì-.\n\nXiàng: Lanes in Taipei are numbered as if they were houses. You can find your way to a certain lane by observing the numbers of the houses on the same side of the street. Even numbers are on one side, and odd numbers are on the other.\n\nEVEN SIDE:  2  4  6  8  10  12  14  16  18  20  22  24  26  28  30  32  34\nODD SIDE:   1  3  5  7   9  11  13  15  17  19  21  23  25  27  29  31\n\nNánjīng Dōnglù Yīduàn, Wǔshisìxiàng, \"Nánjīng East Road, Section 1, Lane 54\": In giving a Chinese address, you go from larger to smaller areas, mentioning the lane after the road. In English, however, the address begins with the smaller area: \"Lane 54, Nánjīng East Road, Section 1.\"\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "title": "unit24_grammar_notes_7",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What do you add to a phrase to say \"when (something happens)\"?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What are the two meanings of English \"when\"?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which Chinese expression is used for \"at the same time\"?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which Chinese expression is used for \"immediately after\"?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write the Chinese for \"When we get to Xīméndīng, please tell me.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Write the Chinese for \"When I was in Hong Kong, I liked to go to the movies very much.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wǒ zài Xiānggǎngde shíhou hěn xǐhuan qù kàn diànyǐng.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Write the Chinese for \"When I got to Taipei, I bought a lot of Chinese books.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wǒ dàole Táiběi yǐhòu, mǎile hěn duō Zhōngwén shū.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Which meaning does -de shíhou carry?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"During the same time\" — while something is happening.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which meaning does yǐhòu carry?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"Immediately after.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Does Chinese use one expression for both meanings of \"when\"?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No — it uses two different expressions.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "7. A: Dào Xīméndīngde shíhou,        When we get to Xīméndīng, please\n      qǐng gàosong wo.                tell me.\n   F: Hǎo.                            Okay.\n\nNote on No. 7\n\nDào Xīméndīngde shíhou means \"when we arrive in Xīméndīng.\" If you want to say, in Chinese, \"when (something happens),\" add -de shíhou to the phrase which names the happening.\n\nIn English, \"when\" can mean either \"during the same time\" (e.g., \"when I was a student\") or \"immediately after\" (e.g., \"when the light turns green\"). In Chinese, however, two different expressions are used for the two meanings: -de shíhou for \"at the same time\" and yǐhòu for \"immediately after.\"\n\nWǒ zài Xiānggǎngde shíhou         When (i.e., while) I was in Hong\nhěn xǐhuan qù kàn diànyǐng.       Kong, I liked to go to the movies\n                                  very much.\nWǒ dàole Táiběi yǐhòu,            When (i.e., after) I got to Taipei,\nmǎile hěn duō Zhōngwén shū.       I bought a lot of Chinese books.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 8,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

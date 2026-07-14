@@ -1,0 +1,139 @@
+{
+  "title": "unit20_grammar_notes_2",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How do you ask \"whether/if\" in Chinese?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Is the beginning of the Chinese sentence in question form or statement form?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which two forms would be \"perfectly logical\" but sound awkward here?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese for \"I don't know whether he's coming.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write the Chinese question meaning \"Do you know whether there is a bank in the vicinity of the theater?\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What kind of question is used to express \"whether/if\"?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A yes/no-choice question.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How does the English differ from the Chinese at the start of the sentence?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The English is in question form (\"Do you know…?\"), while the Chinese is in statement form (Nǐ zhīdao…).",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why are the \"logical\" forms not used?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Because they would sound awkward, or even ungrammatical, to many speakers.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Write the Chinese for \"There is a bank in the vicinity of the movie theater.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Diànyǐngyuàn fùjìn yǒu yíge yínháng.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which verb expresses existence in this exchange?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yǒu.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. A: Nǐ zhīdao diànyǐngyuàn fùjìn   Do you know whether there is a bank\n      yǒu meiyou yínháng?             in the vicinity of the movie\n                                      theater?\n   B: Yǒu. Diànyǐngyuàn fùjìn yǒu    Yes. There is a bank in the vicinity\n      (yíge) yínháng.                 of the movie theater.\n\nNote on No. 2\n\nNǐ zhīdao...yǒu meiyou yínháng? could also be translated as \"Do you know if there's a bank...?\" When you want to ask \"whether/if\" in Chinese, use a yes/no-choice question.\n\nWǒ bù zhīdào tā lái bu lái.\n(I don't know whether/if he's coming.)\n\nNotice that in English the beginning of the first sentence in exchange 2 is in question form: \"Do you know...?\" But the Chinese is in statement form: Nǐ zhīdao.... To be perfectly logical, the Chinese would use either the question form nǐ zhīdao bu zhīdao... or nǐ zhīdao...ma? But if these forms were used, the sentence would sound awkward, or even ungrammatical, to many speakers.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

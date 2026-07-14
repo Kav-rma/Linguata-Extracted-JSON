@@ -1,0 +1,139 @@
+{
+  "title": "unit26_grammar_notes_5",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the pattern when an action verb with a direct object is described in terms of manner?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When is the main verb repeated?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How does Chinese handle the post-verb \"traffic jam\"?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Where must the negation be placed in a manner description?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write the correct Chinese for \"I can't speak Chinese very well.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Give the literal translation of the manner pattern.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"As for (the way) he speaks Chinese, (he) speaks too/very/not slowly.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What would Wǒ bú huì shuō Zhōngguo huà hěn hǎo literally mean?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"(The fact that) I can't speak Chinese is very good\" — which is not what is intended.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Write the Chinese for \"He doesn't drive fast.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tā kāi chē, kāide bú kuài.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which becomes the topic, and which the comment?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The verb and direct object (the more general information) become the topic; the description of how the action is done becomes the comment.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which earlier pattern does this one compare with?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wǒ niàn Yīngwén niànle liùnián — from the Biographic Information Module, Unit 8.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "5. C: Tā kāi chē, kāide bú kuài.     He doesn't drive fast.\n\nNotes on No. 5\n\nVerb, object, and the description of manner: If an action verb with a direct object is to be described in terms of how the action is done, use the following pattern.\n\nTā | shuō Zhōngguo huà | shuō | -de | tài / hěn / bù | màn.\n(he | speak Chinese    | speak | -de | too / very / not | slow)\n\"He speaks Chinese too/very/not slowly.\"\n\nNotice that the main verb and direct object occur first; then the main verb is repeated, followed by -de and the description of manner. Compare the pattern above with the pattern you learned in the Biographic Information Module, Unit 8: Wǒ niàn Yīngwén niànle liùnián, \"I studied English for six years.\"\n\nThe main verb is repeated when BOTH the direct object and a duration phrase or a description of manner MUST follow the verb directly. In such a case, Chinese handles this post-verb \"traffic jam\" by making a topic out of the more general information (what is being done): the verb and direct object. The more specific information about how the action is done becomes the comment. A literal translation of the pattern example above is \"As for (the way) he speaks Chinese, (he) speaks too/very/not slowly.\"\n\nA special point to observe: In English, we may say \"He doesn't speak Chinese slowly,\" putting the negative word before \"speak.\" In Chinese, the negation must be placed directly in front of the word that is referred to (in the example, màn, \"slow\"--not saying that he doesn't speak, but saying that his speech is not slow).\n\nLinguists have pointed out the potentially comical effect of using English word order for sentences in Chinese with manner descriptions. If you were to use English word order to say \"I can't speak Chinese very well,\" Wǒ bú huì shuō Zhōngguo huà hěn hǎo, your sentence would mean, literally, \"(The fact that) I can't speak Chinese is very good.\" The right way to say \"I can't speak Chinese very well\" is Wǒ shuō Zhōngguo huà shuōde bú tài hǎo.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}
