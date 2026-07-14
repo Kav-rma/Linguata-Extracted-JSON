@@ -1,0 +1,139 @@
+{
+  "title": "unit15_grammar_notes_2",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does háishi mean?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "In a choice-type question WITHOUT háishi, what must both choices include?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "In a question containing háishi, what may be omitted?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese for \"This blue one or this red one?\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write a Chinese choice question asking whether someone is buying this one or that one.",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which word introduces the second alternative in a choice question?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Háishi.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Must the second verb be repeated in a háishi question?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No — the second verb may be omitted.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Give the Chinese for \"Which one?\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nèige?",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What is the Chinese for \"the blue one\" and \"the red one\"?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Lánde and hóngde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What marker turns an adjectival verb into a noun phrase like \"the blue one\"?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The marker -de.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "2. B: Nèige? Zhèige lánde, háishi     Which one? This blue one or this\n      zhèige hóngde?                  red one?\n\nNote on No. 2\n\nHáishi means \"or.\" In a choice-type question without háishi, both choices must include a verb; but in a question containing háishi, the second verb may be omitted.\n\nNǐ  | mǎi  | zhèige  | háishi  | (mǎi)  | nèige?\n(Are you buying this one or that one?)\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

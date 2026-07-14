@@ -1,0 +1,139 @@
+{
+  "title": "unit13_grammar_notes_12",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What happens to the number in the phrase zhèzhāng dìtú?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What is the word order when a specifier and a number occur together?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Write the Chinese for \"these two maps.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese question meaning \"How much is this map of Taipei?\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which number was dropped after the specifier zhè?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Does the counter -zhāng have a number in front of it in zhèzhāng dìtú?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No — in effect the number 1 was dropped after the specifier zhè.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How does the Chinese word order compare with English when a specifier and a number occur together?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is just like English — zhè liǎngzhāng dìtú, \"these two maps.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Write the Chinese for \"Twelve dollars.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Shíèrkuài qián.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What is a specifier, as used in this note?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A word such as zhè (\"this\") or nà (\"that\") that points out which item is meant.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Give the Chinese for \"this map\" using the correct counter.",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Zhèzhāng dìtú.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "12. A: Zhèzhāng Táiběi dìtú                 How much is this map of Taipei?\n       duōshao qián?\n    B: Shíèrkuài qián.                      Twelve dollars.\n\nNote on No. 12\n\nZhèzhāng dìtú: Compare the two phrases which follow.\n\nzhè  |          |  -zhāng  |  dìtú      (this map)\nzhè  |  liǎng-  |  -zhāng  |  dìtú      (these two maps)\n\nIn the first phrase, the counter -zhāng does not have a number in front of it. In effect, the number 1 was dropped after the specifier zhè. Notice that when a specifier and a number occur together in Chinese, the word order is just like English: zhè liǎngzhāng dìtú, \"these two maps.\"\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 10,
+    "page_end": 10,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

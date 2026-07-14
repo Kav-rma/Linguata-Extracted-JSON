@@ -1,0 +1,139 @@
+{
+  "title": "unit16_grammar_notes_1_2",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "In what two ways may yǒude be used?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Where must yǒude go when it is the grammatical object of the verb?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Which counter is added to zhè and nà to make the plural specifiers?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "When are the plural specifiers zhèxie and nàxie used?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "How do you say \"these two apples\" in Chinese?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is the English equivalent of yǒude?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"Some.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Can yǒude, or a noun modified by it, follow the verb?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No — it must precede the subject, in topic position.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does -xie act as in the phrase zhèxie zázhì?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A counter for an indefinite number of items — you might think of the phrase as meaning \"a bunch of.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Write the Chinese for \"Some have arrived, and some haven't arrived yet.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yǒude dào le, yǒude hái méi dào.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "In the last sentence of exchange 2, what is the topic of the whole sentence?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Zhèxie zázhì, \"these magazines\" — naming the set of items from which \"some\" were selected.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "1. A: Nǐ jiālide dōngxi dōu dào       Have all your household things\n      le ma?                          arrived?\n   B: Yǒude dào le, yǒude hái méi     Some have arrived, and some haven't\n      dào.                            arrived yet.\n\n2. C: Zhèxie zázhì, nǐ kàn le ma?     Have you read these magazines?\n   D: Zhèxie zázhì, yǒude wǒ kàn      Some of these magazines I've read,\n      le, yǒude wǒ hái méi kàn.       and some I haven't read yet.\n\nNotes on Nos. 1-2\n\nYǒude: Like its English equivalent \"some,\" yǒude may be used either with the noun it modifies, as in yǒude dōngxi, \"some things,\" or by itself, when the noun it modifies is obvious from the context.\n\nNeither yǒude nor a noun modified by that word can follow the verb. When yǒude is the grammatical object of the verb, it must precede the subject, in topic position.\n\nYǒude  |  wǒ  |  kàn le.\n(Some  |  I   |  have read.)\n\nThe counter -xie is added to the specifiers zhè, \"this,\" and nà, \"that,\" to make the plural specifiers zhèxie, \"these,\" and nàxie, \"those.\" These plural specifiers are used only when the number of items is not mentioned. \"These apples\" is zhèxie píngguǒ, but \"these TWO apples\" is zhè liǎngge píngguǒ, without the -xie.\n\nIn zhèxie zázhì, -xie acts as a counter for an indefinite number of items. You might think of the phrase as meaning \"a bunch of.\"\n\nzhè  |  -xie  |  zázhì     (this bunch of/these magazines)\nnà   |  -xie  |  zázhì     (that bunch of/those magazines)\n\nZhèxie zázhì, yǒude...: In the last sentence in exchange 2, yǒude is the topic of wǒ kàn le and wǒ hái méi kàn. Zhèxie zázhì, \"these magazines,\" is the topic of the whole sentence, naming the set of items from which \"some\" were selected.\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 5,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}

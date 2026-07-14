@@ -1,0 +1,139 @@
+{
+  "title": "unit16_grammar_notes_6",
+  "type": "grammar",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How do you describe the color of something in Chinese?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which marker turns the color word into a noun?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Does the question use the same pattern as the answer?",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Write the Chinese question meaning \"What color are those dishes?\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Write the Chinese for \"They're blue ones.\"",
+      "type": "short_answer",
+      "has_answer": false,
+      "answers": [
+        {
+          "answer_text": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "How would English normally describe the color, and how does Chinese differ?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "English says \"They're blue\"; Chinese says \"They're blue ones\" — shi lánde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does the verb xǐhuan mean?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "\"To like.\"",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Write the Chinese for \"Oh, I like blue ones too.\"",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A, wǒ yě xǐhuan lánde.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What is the Chinese word for \"color\"?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yánsè.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which verb appears in both the question and the answer about color?",
+      "type": "short_answer",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Shi.",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "6. A: Nàxie pánziwǎn shi shénme       What color are those dishes?\n      yánsède?\n   B: Shi lánde.                      They're blue ones.\n   A: A, wǒ yě xǐhuan lánde.          Oh, I like blue ones too.\n\nNote on No. 6\n\nShi lánde: In English, you would probably describe the color of the dishes by saying \"They're blue.\" In Chinese, you say \"They're blue ones,\" shi lánde, turning the color word into a noun by adding the marker -de. Notice that the question uses the same pattern:\n\nNàxie pánziwǎn  |  shi  |  shénme yánsè  |  -de?\n"
+    }
+  ],
+  "metadata": {
+    "page_start": 7,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "images": []
+  }
+}
