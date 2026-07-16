@@ -1,0 +1,275 @@
+{
+  "title": "unit13_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Are there English newspapers here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, right over there",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, there are none",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only Chinese ones",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only magazines",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What does the speaker want to buy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A Chinese newspaper",
+          "is_correct": true
+        },
+        {
+          "answer_text": "An English magazine",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An American magazine",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A book",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How much is the Chinese newspaper?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Three dollars a copy",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Four dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Five dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two dollars",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Does this shop sell American magazines?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, they sell them here",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, they don't",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only newspapers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only Chinese magazines",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "How much is this magazine really?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Five dollars",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Four dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two dollars",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does mài mean (as opposed to mǎi)?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To sell",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To buy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To read",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To change",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does yìfèn refer to here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A copy (of a newspaper)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A dollar",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bottle",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A person",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why can't the speaker do what he wants at the end?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He has no money left",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The shop is closed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is sick",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He has no time",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does duōshǎo qián mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "How much (money)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "How many people",
+          "is_correct": false
+        },
+        {
+          "answer_text": "What color",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Where",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does bào mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Newspaper",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Magazine",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Book",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Money",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Zhèli yǒu Yīngwén bào méiyou? Yǒu, jiù zài nàli."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Wǒ xiǎng mǎi yìfèn Zhōngwén bào. Zhèige Zhōngwén bào duōshǎo qián? Sānkuài qián yìfèn."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Nǐmen zhèli mài Měiguo zázhì bu mài? Mài, wǒmen zhèli mài."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Zhèige zázhì bú shi sìkuài qián, shi wǔkuài qián."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Wǒ hěn xiǎng niàn shū, yě xiǎng kàn bào, kěshi wǒ méiyou qián le."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit13_reading.png"
+  }
+}

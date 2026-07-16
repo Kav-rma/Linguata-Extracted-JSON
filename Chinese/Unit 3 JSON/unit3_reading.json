@@ -1,0 +1,275 @@
+{
+  "title": "unit3_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What nationality is the first speaker?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "American",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Chinese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "English",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Japanese",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Where in America is the first speaker from?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "California (Jiāzhōu)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Shanghai",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Texas",
+          "is_correct": false
+        },
+        {
+          "answer_text": "New York",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What nationality is Mr. Wáng?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Chinese",
+          "is_correct": true
+        },
+        {
+          "answer_text": "American",
+          "is_correct": false
+        },
+        {
+          "answer_text": "English",
+          "is_correct": false
+        },
+        {
+          "answer_text": "German",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which city is Mr. Wáng from?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Shanghai (Shànghǎi)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Beijing",
+          "is_correct": false
+        },
+        {
+          "answer_text": "California",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tokyo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Is Miss Mǎ American?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, she is Chinese",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Yes, she is American",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No, she is Japanese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Yes, she is Chinese",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What nationality is Mr. Hú?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "English (Yīngguo rén)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "American",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chinese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "German",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does nǎiguo rén mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A person of what nationality",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A person from where",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An American",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A friend",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What nationality is Fāng Bǎolán?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Japanese (Rìběn rén)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "German",
+          "is_correct": false
+        },
+        {
+          "answer_text": "English",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chinese",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Is Fāng Bǎolán German?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, she is not German",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Yes, she is German",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No, she is English",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Yes, she is Japanese",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does the word rén mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Person",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Country",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Which",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Surname",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Wǒ shi Měiguo rén. Wǒ shi Jiāzhōu rén."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Tā xìng Wáng, tā shi Zhōngguo rén. Tā shi Shànghǎi rén."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Mǎ Xiǎojie bú shi Měiguo rén, tā shi Zhōngguo rén."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Hú Xiānsheng shi nǎiguo rén? Tā shi Yīngguo rén."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Fāng Bǎolán shi Rìběn rén, tā bú shi Déguo rén."
+    }
+  ],
+  "metadata": {
+    "page_start": 6,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit3_reading.png"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "title": "unit8_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Has Mr. Wáng come?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, he has come (lái le)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, he has not come",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is leaving",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He came alone",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Has the spouse come too?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, not yet (hái méi lái)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Yes, already",
+          "is_correct": false
+        },
+        {
+          "answer_text": "She is leaving",
+          "is_correct": false
+        },
+        {
+          "answer_text": "She came yesterday",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "When is \"tā\" coming?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tomorrow (míngtian)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Today",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Yesterday",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The day after tomorrow",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "When did the person arrive?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yesterday (zuótian)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Today",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tomorrow",
+          "is_correct": false
+        },
+        {
+          "answer_text": "On Thursday",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Did the last speaker come alone?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, he did not come alone",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Yes, he came alone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He has not come",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is leaving today",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does yíge rén mean when describing how someone came?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Alone",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Together",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quickly",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Early",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does hái méi lái mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Has not come yet",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Has already come",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Is leaving",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Came yesterday",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does shénme shíhou mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Where",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Who",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How many",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does dào mean here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To arrive",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To leave",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To stay",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To work",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which construction focuses on the extra detail of a completed action here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "(shì)...de",
+          "is_correct": true
+        },
+        {
+          "answer_text": "yǒu ... méiyou",
+          "is_correct": false
+        },
+        {
+          "answer_text": "hái méi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "dōu ... yě",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Wáng Xiānsheng lái le ma? Lái le."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Nǐ àiren yě lái le ma? Tā hái méi lái."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Tā shénme shíhou lái? Tā míngtian lái."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Nǐ shi shénme shíhou dàode? Wǒ shi zuótian dàode."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Nǐ shi yíge rén láide ma? Bú shi, wǒ bú shi yíge rén láide."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit8_reading.png"
+  }
+}

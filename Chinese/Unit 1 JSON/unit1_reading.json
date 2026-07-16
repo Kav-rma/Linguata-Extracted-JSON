@@ -1,0 +1,275 @@
+{
+  "title": "unit1_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is Wáng Dànián's surname?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wáng",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Hú",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mǎ",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fāng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Which title is used for Wáng Dànián?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Xiānsheng (Mr.)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tàitai (Mrs.)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Xiǎojie (Miss)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tóngzhì (Comrade)",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What is Hú Měilíng's surname?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Hú",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Wáng",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mǎ",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fāng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Which title is used for Hú Měilíng?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Xiǎojie (Miss)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Xiānsheng (Mr.)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tàitai (Mrs.)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tóngzhì (Comrade)",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is Mǎ Mínglǐ's surname?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mǎ",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Wáng",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Hú",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fāng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Which title is used for Mǎ Mínglǐ?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Xiānsheng (Mr.)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Tàitai (Mrs.)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Xiǎojie (Miss)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tóngzhì (Comrade)",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "Who is Mǎ Tàitai?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Mǎ Mínglǐ's wife",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mǎ Mínglǐ's daughter",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fāng Bǎolán",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Hú Měilíng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What is Fāng Bǎolán's surname?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Fāng",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Wáng",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Hú",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mǎ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "Which title is used for Fāng Bǎolán?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Tóngzhì (Comrade)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Xiānsheng (Mr.)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tàitai (Mrs.)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Xiǎojie (Miss)",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "Which word in the reading means \"to be surnamed\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "xìng",
+          "is_correct": true
+        },
+        {
+          "answer_text": "shì",
+          "is_correct": false
+        },
+        {
+          "answer_text": "shéi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "shénme",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Tā xìng Wáng. Tā shi Wáng Dànián. Wáng Dànián shi xiānsheng."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Tā xìng Hú. Tā shi Hú Měilíng. Hú Měilíng shi xiǎojie."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Tā xìng Mǎ. Tā shi Mǎ Mínglǐ. Mǎ Mínglǐ shi xiānsheng."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Mǎ Tàitai xìng Mǎ. Tā shi Mǎ Mínglǐ Tàitai."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Tā xìng Fāng. Tā shi Fāng Bǎolán. Fāng Bǎolán shi tóngzhì."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit1_reading.png"
+  }
+}

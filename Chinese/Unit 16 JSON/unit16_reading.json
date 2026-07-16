@@ -1,0 +1,275 @@
+{
+  "title": "unit16_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "When did the speaker buy the dishes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yesterday (zuótian)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Today",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Last week",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tomorrow",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How many rice bowls did the speaker buy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ten (shíge)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Five",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Twenty",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What else did the speaker buy besides rice bowls?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ten large plates",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ten cups",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Some magazines",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A vase",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What color are the dishes?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Blue (lánde)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Red",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Green",
+          "is_correct": false
+        },
+        {
+          "answer_text": "White",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Does the speaker like blue?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, he likes blue too",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, he prefers red",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He doesn't say",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He likes green",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Where were the dishes bought?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "At the First Company (Dìyī Gōngsī)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "At a market",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At a bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At a hotel",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does shénme yánsè mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What color",
+          "is_correct": true
+        },
+        {
+          "answer_text": "What place",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How much",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How many",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What has the speaker done with the magazines?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Read some, not yet read others",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Read all of them",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Read none of them",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sold them",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does yǒude mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Some (of them)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "All",
+          "is_correct": false
+        },
+        {
+          "answer_text": "None",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does shénme dìfang mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "What place / where",
+          "is_correct": true
+        },
+        {
+          "answer_text": "What color",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How much",
+          "is_correct": false
+        },
+        {
+          "answer_text": "What time",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Zuótian wǒ mǎile yìdiǎn pénziwǎn. Wǒ mǎile shíge fànwǎn, shíge dà pánzi."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Nǐ mǎi shénme le? Wǒ mǎi fànwǎn le. Nǐ mǎile duōshǎo? Wǒ mǎile shíge."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Nàxiē pánziwǎn shi shénme yánsè de? Shi lánde. Ō, wǒ yě xǐhuan lánde."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Nǐ shi zài shénme dìfang mǎide? Shi zài Dìyī Gōngsī mǎide."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Zhèxiē zázhì, yǒude wǒ kànguo le, yǒude wǒ hái méi kàn."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit16_reading.png"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "title": "unit12_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How long has the speaker studied English?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Six years",
+          "is_correct": true
+        },
+        {
+          "answer_text": "One year",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three months",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two weeks",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What is the speaker studying now?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "French (Fǎwén)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "English",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chinese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "History",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Can the speaker write Chinese characters?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A little",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Not at all",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Very well",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only English",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Could the speaker write characters last year?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, but now he can a little",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Yes, fluently",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He still cannot",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He never tried",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "How old is the speaker's younger brother?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Four years old",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Six years old",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Eight years old",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ten years old",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What can the four-year-old already do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Write characters",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Speak French",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Read newspapers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Change money",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the speaker's father?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A naval officer (hǎijūn jūnguān)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A student",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A banker",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "Why is the friend not coming today?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He is sick (bìng le)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He is busy working",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He went home",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is studying",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does the marker ne express in \"niàn Fǎwén ne\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "That the action is in progress",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A completed action",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A negative",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A question of price",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does xiě zì mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To write characters",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To read a book",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To speak Chinese",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To buy things",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Wǒ niàn Yīngwén niànle liùnián le. Xiànzài wǒ niàn Fǎwén ne."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Nǐ huì xiě Zhōngguo zì ma? Huì yìdiǎn. Qùnián wǒ hái bú huì xiě, xiànzài wǒ huì xiě yìdiǎn le."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Wǒ dìdi sìsuì le, yǐjīng huì xiě zì le."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Wǒ fùqin shi jūnrén, tā shi hǎijūn jūnguān."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Wǒ péngyou jīntian bù lái le, tā bìng le. Tā shuō míngtian yě bù lái."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit12_reading.png"
+  }
+}

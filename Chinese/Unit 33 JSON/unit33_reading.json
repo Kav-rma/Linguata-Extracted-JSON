@@ -1,0 +1,275 @@
+{
+  "title": "unit33_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Where does the caller work?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The Canadian Embassy (Jiānádà Dàshǐguǎn)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The Ministry of Foreign Affairs",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A university",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Whom does the caller want to speak with?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Section Chief Wáng",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The ambassador",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Mr. Mǎdīng",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A professor",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What is Section Chief Wáng doing right now?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In a meeting (zài kāi huì)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Out to lunch",
+          "is_correct": false
+        },
+        {
+          "answer_text": "On a trip",
+          "is_correct": false
+        },
+        {
+          "answer_text": "On another call",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What will happen when the meeting is over?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Wáng will be told to return the call",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The caller will call back",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A message will be posted",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What does the caller give before hanging up?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "His phone number",
+          "is_correct": true
+        },
+        {
+          "answer_text": "His address",
+          "is_correct": false
+        },
+        {
+          "answer_text": "His passport number",
+          "is_correct": false
+        },
+        {
+          "answer_text": "His name only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Why does the caller hope Wáng will call back at once?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The matter is urgent (jǐn)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He is leaving soon",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is bored",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is late",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does the marker zài indicate in \"zài kāi huì\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "That the action is in progress",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A completed action",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A future plan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A negative",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does dǎ diànhuà mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To make a phone call",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To return a call",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To leave a message",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To hang up",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does dāng...de shíhou (as in kāiwán huì) express?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "When / at the time that",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Because",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Although",
+          "is_correct": false
+        },
+        {
+          "answer_text": "In order to",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does the ending -wán in kāiwán add?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The result of finishing (the meeting)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A direction",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A negative",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A question",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Wǒ shi Jiānádà Dàshǐguǎnde rén. Wǒ dǎ diànhuà dào Wàijiāobù, xiǎng gēn Wáng Kēzhǎng jiǎngjiang huà."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Jiē diànhuàde rén shuō: ō, tā xiànzài zài kāi huì."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Tā yòu shuō: děng tā kāiwán huì, wǒ gàosong tā gěi nǐ huí diànhuà."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Wǒ shuō: hǎo, xièxie nǐ. Wǒ bǎ wǒde diànhuà hàomǎr gàosong le tā."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Yīnwei zhèijiàn shì bǐjiào jǐn, suǒyǐ wǒ xīwang Wáng Kēzhǎng kāiwán huì yǐhòu néng mǎshàng gěi wǒ huí diànhuà."
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit33_reading.png"
+  }
+}

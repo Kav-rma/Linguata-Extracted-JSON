@@ -1,0 +1,275 @@
+{
+  "title": "unit32_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "How does the speaker begin the phone call?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "With \"wéi\" (hello)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "With \"nǐ hǎo\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With \"zàijiàn\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With \"qǐngwèn\"",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Whom is the speaker calling?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Section Chief Zhū (Zhū Kēzhǎng)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mr. Mǎdīng",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A bank teller",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A professor",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What does the speaker want to do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Talk with him in person (dāngmiàn tán)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Leave a message",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Reserve a ticket",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Change money",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "What does he ask about the chief's availability?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Whether he has free time (gōngfu)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Whether he is at a meeting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Whether he is well",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Whether he speaks English",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Which days would suit the chief?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Either today or tomorrow",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only next week",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only Saturday",
+          "is_correct": false
+        },
+        {
+          "answer_text": "None",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "Why does the speaker want to talk in person?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The matter is important and hard to explain by phone",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He has no phone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He wants a meal",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He is nearby anyway",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does gōngfu mean here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Free time / leisure time",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A meeting",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An office",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A phone call",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does dāngmiàn mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Face-to-face / in person",
+          "is_correct": true
+        },
+        {
+          "answer_text": "By phone",
+          "is_correct": false
+        },
+        {
+          "answer_text": "In writing",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Later",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does duì mean in \"duì nín héshì\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "With regard to / for (you)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Toward a place",
+          "is_correct": false
+        },
+        {
+          "answer_text": "For the benefit of",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Against",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does héshì mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To be suitable / to suit",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To be expensive",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To be far",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To be busy",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Wǒ gěi Zhū Kēzhǎng dǎ diànhuà. Wǒ shuō: wéi, nín shi Zhū Kēzhǎng ma? Tā shuō: shì, nín shi něiwèi?"
+    },
+    {
+      "sequence_id": 2,
+      "text": "Wǒ shuō: wǒ shi Wēilián Mǎdīng. Tā shuō: ō, Mǎdīng Xiānsheng, hǎo jiǔ bú jiàn."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Wǒ shuō: wǒ yǒu diǎnr shì xiǎng gēn nín dāngmiàn tántan, bù zhīdao nín yǒu gōngfu méiyou."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Tā shuō: yǒu gōngfu. Wǒ wèn: shénme shíhou duì nín héshì? Tā shuō: jīntian, míngtian dōu kěyi."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Yīnwei zhèijiàn shì bǐjiào zhòngyào, dǎ diànhuà shuōbuqīngchu, suǒyǐ wǒ xiǎng dāngmiàn gēn tā tán."
+    }
+  ],
+  "metadata": {
+    "page_start": 4,
+    "page_end": 6,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit32_reading.png"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "title": "unit20_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What is the person looking for first?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The Dōngdān Movie Theater",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A coffeehouse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The train station",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "Is the movie theater in this area?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, it is right nearby (fùjìn)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, it is far",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It has closed down",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is upstairs",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "Is there a bank near the movie theater?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, there is one nearby",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, there is none",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only a coffeehouse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is unknown",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "When does the bank close?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Five o'clock in the afternoon",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Nine in the morning",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Noon",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three o'clock",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "How does one get to the bank?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Past the intersection, then go left",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Straight to the back and upstairs",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Take a taxi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Go right at the theater",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What is the weather like today?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Very hot (rè)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Very cold",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Rainy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is not mentioned",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does the speaker decide is best to do?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Go to the bank first, then see the movie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "See the movie first",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Skip the bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Go home because of the heat",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does fùjìn mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Vicinity / nearby",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Intersection",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Far",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Office",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does guòle lùkǒu mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Having passed the intersection",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Before the bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Across from the theater",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Down the stairs",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does zuìhǎo mean in the last article?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It would be best to",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is too hot",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is not far",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is closed",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Qǐngwèn, Dōngdān Diànyǐngyuàn shì bu shi zài zhèr fùjìn? Shì, jiù zài zhèr fùjìn."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Nǐ zhīdao diànyǐngyuàn fùjìn yǒu méiyou yínháng? Yǒu, diànyǐngyuàn fùjìn yǒu yíge yínháng."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Nǐ zhīdao bu zhīdao yínháng shénme shíhou guān mén? Wǒ xiǎng xiàwǔ wǔdiǎn zhōng guān mén."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Dào yínháng zěnme zǒu? Guòle lùkǒu wǎng zuǒ zǒu jiù dào le, bù yuǎn."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Jīntian tiānqi hěn rè. Wǒ xiǎng, zuìhǎo xiān qù yínháng, ránhòu zài qù kàn diànyǐng."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit20_reading.png"
+  }
+}

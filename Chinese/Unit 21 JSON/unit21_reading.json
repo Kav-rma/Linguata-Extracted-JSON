@@ -1,0 +1,275 @@
+{
+  "title": "unit21_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does the speaker want to do this morning?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Go out to buy some books",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Buy a movie ticket",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Change money",
+          "is_correct": false
+        },
+        {
+          "answer_text": "See a friend",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What kind of dictionary does he want to buy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "A Chinese-English dictionary (Hàn-Yīng zìdiǎn)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A Japanese-Chinese dictionary",
+          "is_correct": false
+        },
+        {
+          "answer_text": "An English-French dictionary",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No dictionary",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How does he begin his request for directions?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "With \"lǎojia\" (excuse me)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "With \"xièxie\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With \"duìbuqǐ\"",
+          "is_correct": false
+        },
+        {
+          "answer_text": "With \"nǐ hǎo\"",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Where is he told he can buy books?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "The Xīnhuá Bookstore on Wángfǔjǐng Boulevard",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A market near the theater",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A coffeehouse",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The train station",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Is the bookstore far from here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, it is very close (jìn)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Yes, very far",
+          "is_correct": false
+        },
+        {
+          "answer_text": "About an hour away",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is unknown",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "How does the speaker get to the bookstore?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "He walks (because it is close)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "He takes a taxi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He takes a bus",
+          "is_correct": false
+        },
+        {
+          "answer_text": "He takes the train",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "How long does it take him to walk there?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Ten minutes",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Half an hour",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One hour",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Twenty minutes",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does chūqu mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To go out",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To come in",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To go upstairs",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To turn left",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does lí express in \"lí zhèr yuǎn\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Distance from (a point)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Direction toward",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Origin from",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Arrival at",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does the description of the bookstore, \"hěn dà,\" mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "It is very large",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It is very far",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is very cheap",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is very old",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Jīntian zǎoshang wǒ xiǎng chūqu mǎi jǐběn shū. Wǒ hái xiǎng mǎi yìběn Hàn-Yīng zìdiǎn."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Wǒ bù zhīdao nǎr yǒu mǎi shūde, suǒyǐ wǒ wèn yíge rén: lǎojia, nǎr yǒu mǎi shūde?"
+    },
+    {
+      "sequence_id": 3,
+      "text": "Tā shuō: Wángfǔjǐng Dàjiē yǒu yíge Xīnhuá Shūdiàn, hěn dà."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Wǒ wèn: Xīnhuá Shūdiàn lí zhèr yuǎn ma? Tā shuō: bù yuǎn, hěn jìn, nǐ zǒu dào nàli jiù kànjian le."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Yīnwei bù yuǎn, suǒyǐ wǒ méiyou zuò chē, wǒ zǒuzhe qù. Zǒule shífēn zhōng jiù dào le."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 7,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit21_reading.png"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "title": "unit7_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "Does the first family have children?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, they have children",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, they have no children",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They have one friend",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It is not said",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "How many children do they have in total?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Three (sānge)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Two",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Four",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How many boys and girls do they have?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Two boys and one girl",
+          "is_correct": true
+        },
+        {
+          "answer_text": "One boy and two girls",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three boys",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three girls",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Does Mr. Wáng have American friends?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "No, he has English friends",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Yes, he has American friends",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No, he has no friends",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Yes, he has Japanese friends",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "Who is in the last speaker's family?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "His father, mother, and himself",
+          "is_correct": true
+        },
+        {
+          "answer_text": "His wife and children",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Just his father",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two boys and a girl",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does méiyou mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To not have",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To have",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To be",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To work",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does dōu mean in \"háizi dōu zài zhèli\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "All",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Also",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Not",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What word means \"and\" joining the family members?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "gēn",
+          "is_correct": true
+        },
+        {
+          "answer_text": "dōu",
+          "is_correct": false
+        },
+        {
+          "answer_text": "yě",
+          "is_correct": false
+        },
+        {
+          "answer_text": "ma",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does jiāli mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "In the family / at home",
+          "is_correct": true
+        },
+        {
+          "answer_text": "At a hotel",
+          "is_correct": false
+        },
+        {
+          "answer_text": "At the bank",
+          "is_correct": false
+        },
+        {
+          "answer_text": "On the street",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does fùqin mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Father",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mother",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Child",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Friend",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Nǐmen yǒu háizi ma? Yǒu, wǒmen yǒu."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Wǒmen yǒu sānge háizi: liǎngge nánháizi, yíge nǚháizi."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Wáng Xiānsheng méiyou Měiguo péngyou, tā yǒu Yīngguo péngyou."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Nǐ jiāli yǒu shénme rén? Yǒu wǒ fùqin, mǔqin gēn wǒ."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Wǒmen háizi dōu zài zhèli."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit7_reading.png"
+  }
+}

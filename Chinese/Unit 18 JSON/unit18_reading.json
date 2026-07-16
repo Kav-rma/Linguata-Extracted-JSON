@@ -1,0 +1,275 @@
+{
+  "title": "unit18_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "When does the bank open?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Nine o'clock in the morning",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Three o'clock",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Two-thirty",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Seven o'clock",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "When does the bank close?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Three o'clock in the afternoon",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Nine o'clock",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Noon",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Midnight",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "What time is it in the second article?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Half past two (liǎngdiǎn bàn)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Nine o'clock",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three o'clock",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Half past three",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "Can money still be changed at that time?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Yes, it can still be changed",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No, the bank is closed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only U.S. dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only in the morning",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "What is one U.S. dollar worth in Taiwan currency here?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Thirty-eight Táibì",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Ninety-six Táibì",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One to one",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One hundred Táibì",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "What does the customer want changed into?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Small bills (xiǎo piàozi)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Large bills",
+          "is_correct": false
+        },
+        {
+          "answer_text": "U.S. dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Coins only",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What does xíng bu xíng ask?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Whether it is all right / okay",
+          "is_correct": true
+        },
+        {
+          "answer_text": "How much it costs",
+          "is_correct": false
+        },
+        {
+          "answer_text": "What time it is",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Where the bank is",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "What does the teller say when leaving the counter briefly?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Please wait a moment, I'll be right back",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The bank is closed",
+          "is_correct": false
+        },
+        {
+          "answer_text": "We don't accept this",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Come back tomorrow",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does kāi mén mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To open (for business)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To close",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To wait",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To change money",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does máfan nǐ le mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sorry to have bothered you",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Thank you very much",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How much is it",
+          "is_correct": false
+        },
+        {
+          "answer_text": "See you tomorrow",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Yínháng shénme shíhou kāi mén? Zǎoshang jiǔdiǎn zhōng kāi mén. Xiàwǔ sāndiǎn zhōng guān mén."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Xiànzài jǐdiǎn zhōng? Hái kěyi huàn qián ba? Xiànzài liǎngdiǎn bàn, hái kěyi huàn."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Wǒ yào huàn yìdiǎn Táibì. Zhè shi yìbǎikuài Měijīnde lǚxíng zhīpiào. Hǎo, yíkuài Měijīn huàn sānshíbākuài Táibì."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Wǒ yào xiǎo piàozi. Qǐng nǐ gěi wǒ huànhuan zhèizhāng yìbǎikuàide, xíng bu xíng? Xíng."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Máfan nǐ le. Méi shénme. Qǐng nín děngyiděng, wǒ jiù lái."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 8,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit18_reading.png"
+  }
+}

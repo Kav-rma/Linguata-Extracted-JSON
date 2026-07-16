@@ -1,0 +1,275 @@
+{
+  "title": "unit14_reading",
+  "type": "reading",
+  "questions_and_answers": [
+    {
+      "sequence_id": 1,
+      "question_text": "What does the customer first ask for?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Two catties of large apples",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Two bottles of soda",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three catties of small apples",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One newspaper",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 2,
+      "question_text": "What else does the customer want?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Some soda (qìshuǐ)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Some magazines",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Small apples",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Change",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 3,
+      "question_text": "How much is the soda per bottle?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Twenty-five cents (liǎngmáo wǔfēn)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Forty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Thirty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sixty-five cents",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 4,
+      "question_text": "How much are the large apples per catty?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Forty-five cents (sìmáo wǔ)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Thirty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Twenty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One dollar",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 5,
+      "question_text": "How much are the small apples per catty?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Thirty-five cents (sānmáo wǔ)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Forty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Twenty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sixty-five cents",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 6,
+      "question_text": "How many catties of small apples does the customer finally buy?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Three catties",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Two catties",
+          "is_correct": false
+        },
+        {
+          "answer_text": "One catty",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Five catties",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 7,
+      "question_text": "What is the total for the three catties?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "One dollar and five cents (yíkuài líng wǔ)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "One dollar",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Three dollars",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sixty-five cents",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 8,
+      "question_text": "How much change does the customer get?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Sixty-five cents (liùmáo wǔ)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Twenty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Forty-five cents",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Five cents",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 9,
+      "question_text": "What does qǐng gěi wǒ mean?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "Please give me",
+          "is_correct": true
+        },
+        {
+          "answer_text": "I want to sell",
+          "is_correct": false
+        },
+        {
+          "answer_text": "How much is it",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Thank you",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "sequence_id": 10,
+      "question_text": "What does zhǎo mean in \"zhǎo nǐ liùmáo wǔ\"?",
+      "type": "multiple_choice",
+      "has_answer": true,
+      "answers": [
+        {
+          "answer_text": "To give change",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To buy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To want",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To weigh",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "sequence_id": 1,
+      "text": "Qǐng gěi wǒ liǎngjīn dà píngguǒ. Nǐ hái yào diǎnr shénme? Wǒ hái yào qìshuǐ."
+    },
+    {
+      "sequence_id": 2,
+      "text": "Qìshuǐ duōshǎo qián yìpíng? Liǎngmáo wǔfēn qián yìpíng."
+    },
+    {
+      "sequence_id": 3,
+      "text": "Dà píngguǒ sìmáo wǔ yìjīn, xiǎode sānmáo wǔ yìjīn."
+    },
+    {
+      "sequence_id": 4,
+      "text": "Qǐng gěi wǒ sānjīn nèige xiǎode. Hǎo, sānjīn yíkuài líng wǔ."
+    },
+    {
+      "sequence_id": 5,
+      "text": "Zhè shi sānkuài qián. Zhǎo nǐ liùmáo wǔ. Xièxie, zàijiàn."
+    }
+  ],
+  "metadata": {
+    "page_start": 5,
+    "page_end": 9,
+    "are_questions_english": true,
+    "are_questions_generated_by_llm": true,
+    "image": "unit14_reading.png"
+  }
+}
